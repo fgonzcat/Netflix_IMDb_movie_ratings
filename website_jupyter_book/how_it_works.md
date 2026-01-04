@@ -43,6 +43,67 @@ You must replace this key in the variable `APIKEY` of the `imdb-rating_omdbapi.s
 
 ---
 
+## ⚡ Quick start (5 commands)
+
+If you just want to generate a ranked Netflix list as fast as possible:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/fgonzcat/Netfilx_IMDb_movie_ratings.git
+cd Netfilx_IMDb_movie_ratings
+
+# 2. Make scripts executable
+chmod +x *.sh
+
+# 3. Edit the OMDb API key inside the script
+vim scripts/imdb-rating_omdbapi.sh    # replace the variable APIKEY="your_omdb_api_key_here"
+
+# 4. Run the pipeline for a Netflix genre
+./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/8711
+
+# 5. Check the generated output
+ls data/
+```
+
+The ranked movie list will appear in the data/ folder.
+
+
+---
+
+## 🔄 Diagram-style pipeline
+
+```text
+Netflix genre URL
+        |
+        v
++---------------------+
+| wget (HTML scrape)  |
++---------------------+
+        |
+        v
+Extract movie titles
+        |
+        v
++---------------------------+
+| OMDb API (IMDb ratings)   |
++---------------------------+
+        |
+        v
+Raw text data (data/)
+        |
+        v
++---------------------------+
+| Markdown table generator  |
++---------------------------+
+        |
+        v
+Rendered movie lists
+(this website)
+```
+
+
+---
+
 ## 🎬 Pipeline Overview
 
 Once the OMDb key is available, the full workflow looks like this:
