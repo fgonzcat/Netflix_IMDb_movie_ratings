@@ -19,7 +19,7 @@ The list is produced using the following command:
 ## 🎬 Movie list (sample)
 
 | IMDb ⭐ | Title | Year | IMDb | Netflix |
-|-------|:-------|------:|------|---------|
+|:-------:|:-------|------:|------|---------|
 | 7.2 | *Mononoke The Movie: Chapter II – The Ashes of Rage* | 2025 | https://www.imdb.com/title/tt35301440/ | https://www.netflix.com/title/81580575 |
 | 7.2 | *Red Dragon* | 2002 | https://www.imdb.com/title/tt0289765/ | https://www.netflix.com/title/60024908 |
 | 7.3 | *Doctor Sleep* | 2019 | https://www.imdb.com/title/tt5606664/ | https://www.netflix.com/title/80233020 |
