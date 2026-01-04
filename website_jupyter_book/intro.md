@@ -44,6 +44,35 @@ You can reproduce everything you see here by cloning the repository and running:
 
 ```bash
 ./scripts/rate_them_all_IMDb.sh
+```
+
+This will regenerate all text files displayed on the site.
+
+---
+
+## Reproducibility and transparency
+
+This website is not a static editorial product.
+It is a view of the output produced by the code.
+- All scripts are available in the repository
+- All data files displayed here are generated automatically
+- The website itself is rebuilt from scratch whenever the data changes
+
+If the scripts are re-run tomorrow, the website will reflect the new results.
+
+---
+
+
+## Source code
+
+The full source code, including all scripts and configuration files, is
+available on GitHub:
+
+👉 https://github.com/fgonzcat/Netfilx_IMDb_movie_ratings
+
+
+Feel free to explore, modify, or reuse any part of this project.
+
 
 
 ```{tableofcontents}
