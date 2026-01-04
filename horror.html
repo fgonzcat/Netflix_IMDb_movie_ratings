@@ -364,8 +364,8 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#horror-movie-list-imdb-ratings">Horror movie list (IMDb ratings)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-this-list-is-generated">How this list is generated</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-this-list-is-generated">🔧 How this list is generated</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#movie-list-sample">🎬 Movie list (sample)</a></li>
 </ul>
             </nav>
         </div>
@@ -379,29 +379,95 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="horror-movies-on-netflix">
 <h1>Horror Movies on Netflix<a class="headerlink" href="#horror-movies-on-netflix" title="Permalink to this heading">#</a></h1>
-<p>This page lists horror movies currently available on Netflix, together with their IMDb ratings.</p>
-<p>The data shown here is generated automatically using the scripts included in the repository.</p>
-<hr class="docutils" />
-<section id="horror-movie-list-imdb-ratings">
-<h2>Horror movie list (IMDb ratings)<a class="headerlink" href="#horror-movie-list-imdb-ratings" title="Permalink to this heading">#</a></h2>
-<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>(Generated file: data/list_Essential_Horror_Flicks_rating_imdb.txt)
-</pre></div>
-</div>
-</section>
 <section id="how-this-list-is-generated">
-<h2>How this list is generated<a class="headerlink" href="#how-this-list-is-generated" title="Permalink to this heading">#</a></h2>
-<p>This list is produced by the following pipeline:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">./</span><span class="n">rate_them_all_IMDb</span><span class="o">.</span><span class="n">sh</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">www</span><span class="o">.</span><span class="n">netflix</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">browse</span><span class="o">/</span><span class="n">genre</span><span class="o">/</span><span class="mi">8711</span> 
+<h2>🔧 How this list is generated<a class="headerlink" href="#how-this-list-is-generated" title="Permalink to this heading">#</a></h2>
+<p>This page lists movies in the <em>Horror</em> category currently available on Netflix, together with their IMDb ratings.</p>
+<p>The list is produced using the following command:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>./rate_them_all_IMDb.sh<span class="w"> </span>https://www.netflix.com/browse/genre/8711
 </pre></div>
 </div>
-<p>which internally calls:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">imdb</span><span class="o">-</span><span class="n">rating_omdbapi</span><span class="o">.</span><span class="n">sh</span>
-</pre></div>
-</div>
-<p>The raw data file displayed above is:</p>
-<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>data/list_Essential_Horror_Flicks_rating_imdb.txt
-</pre></div>
-</div>
+<ul class="simple">
+<li><p><strong>Netflix genre</strong>: <a class="reference external" href="https://www.netflix.com/browse/genre/8711">Essential Horror Flicks (8711)</a></p></li>
+<li><p><strong>Data source</strong>: IMDb (via OMDb API)</p></li>
+<li><p><strong>Generated automatically</strong> using the scripts in this repository</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="movie-list-sample">
+<h2>🎬 Movie list (sample)<a class="headerlink" href="#movie-list-sample" title="Permalink to this heading">#</a></h2>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="text-center head"><p>IMDb ⭐</p></th>
+<th class="text-left head"><p>Title</p></th>
+<th class="text-right head"><p>Year</p></th>
+<th class="head"><p>IMDb</p></th>
+<th class="head"><p>Netflix</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td class="text-center"><p>7.2</p></td>
+<td class="text-left"><p><em>Mononoke The Movie: Chapter II – The Ashes of Rage</em></p></td>
+<td class="text-right"><p>2025</p></td>
+<td><p><a class="reference external" href="https://www.imdb.com/title/tt35301440/">https://www.imdb.com/title/tt35301440/</a></p></td>
+<td><p><a class="reference external" href="https://www.netflix.com/title/81580575">https://www.netflix.com/title/81580575</a></p></td>
+</tr>
+<tr class="row-odd"><td class="text-center"><p>7.2</p></td>
+<td class="text-left"><p><em>Red Dragon</em></p></td>
+<td class="text-right"><p>2002</p></td>
+<td><p><a class="reference external" href="https://www.imdb.com/title/tt0289765/">https://www.imdb.com/title/tt0289765/</a></p></td>
+<td><p><a class="reference external" href="https://www.netflix.com/title/60024908">https://www.netflix.com/title/60024908</a></p></td>
+</tr>
+<tr class="row-even"><td class="text-center"><p>7.3</p></td>
+<td class="text-left"><p><em>Doctor Sleep</em></p></td>
+<td class="text-right"><p>2019</p></td>
+<td><p><a class="reference external" href="https://www.imdb.com/title/tt5606664/">https://www.imdb.com/title/tt5606664/</a></p></td>
+<td><p><a class="reference external" href="https://www.netflix.com/title/80233020">https://www.netflix.com/title/80233020</a></p></td>
+</tr>
+<tr class="row-odd"><td class="text-center"><p>7.3</p></td>
+<td class="text-left"><p><em>Zom 100: Bucket List of the Dead</em></p></td>
+<td class="text-right"><p>2023</p></td>
+<td><p><a class="reference external" href="https://www.imdb.com/title/tt25811262/">https://www.imdb.com/title/tt25811262/</a></p></td>
+<td><p><a class="reference external" href="https://www.netflix.com/title/81464329">https://www.netflix.com/title/81464329</a></p></td>
+</tr>
+<tr class="row-even"><td class="text-center"><p>7.5</p></td>
+<td class="text-left"><p><em>28 Days Later</em></p></td>
+<td class="text-right"><p>2002</p></td>
+<td><p><a class="reference external" href="https://www.imdb.com/title/tt0289043/">https://www.imdb.com/title/tt0289043/</a></p></td>
+<td><p><a class="reference external" href="https://www.netflix.com/title/60027998">https://www.netflix.com/title/60027998</a></p></td>
+</tr>
+<tr class="row-odd"><td class="text-center"><p>7.5</p></td>
+<td class="text-left"><p><em>Frankenstein</em></p></td>
+<td class="text-right"><p>2025</p></td>
+<td><p><a class="reference external" href="https://www.imdb.com/title/tt1312221/">https://www.imdb.com/title/tt1312221/</a></p></td>
+<td><p><a class="reference external" href="https://www.netflix.com/title/81507921">https://www.netflix.com/title/81507921</a></p></td>
+</tr>
+<tr class="row-even"><td class="text-center"><p>7.6</p></td>
+<td class="text-left"><p><em>Agak Laen</em></p></td>
+<td class="text-right"><p>2023</p></td>
+<td><p><a class="reference external" href="https://www.imdb.com/title/tt28856462/">https://www.imdb.com/title/tt28856462/</a></p></td>
+<td><p><a class="reference external" href="https://www.netflix.com/title/81728111">https://www.netflix.com/title/81728111</a></p></td>
+</tr>
+<tr class="row-odd"><td class="text-center"><p>7.6</p></td>
+<td class="text-left"><p><em>Train to Busan</em></p></td>
+<td class="text-right"><p>2016</p></td>
+<td><p><a class="reference external" href="https://www.imdb.com/title/tt5700672/">https://www.imdb.com/title/tt5700672/</a></p></td>
+<td><p><a class="reference external" href="https://www.netflix.com/title/80117824">https://www.netflix.com/title/80117824</a></p></td>
+</tr>
+<tr class="row-even"><td class="text-center"><p>7.8</p></td>
+<td class="text-left"><p><em>Night of the Living Dead</em></p></td>
+<td class="text-right"><p>1968</p></td>
+<td><p><a class="reference external" href="https://www.imdb.com/title/tt0063350/">https://www.imdb.com/title/tt0063350/</a></p></td>
+<td><p><a class="reference external" href="https://www.netflix.com/title/17017662">https://www.netflix.com/title/17017662</a></p></td>
+</tr>
+<tr class="row-odd"><td class="text-center"><p>9.9</p></td>
+<td class="text-left"><p><em>Monster</em></p></td>
+<td class="text-right"><p>2024</p></td>
+<td><p><a class="reference external" href="https://www.imdb.com/title/tt37897393/">https://www.imdb.com/title/tt37897393/</a></p></td>
+<td><p><a class="reference external" href="https://www.netflix.com/title/81678617">https://www.netflix.com/title/81678617</a></p></td>
+</tr>
+</tbody>
+</table>
+<hr class="docutils" />
 </section>
 </section>
 
@@ -459,8 +525,8 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#horror-movie-list-imdb-ratings">Horror movie list (IMDb ratings)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-this-list-is-generated">How this list is generated</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-this-list-is-generated">🔧 How this list is generated</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#movie-list-sample">🎬 Movie list (sample)</a></li>
 </ul>
   </nav></div>
 
