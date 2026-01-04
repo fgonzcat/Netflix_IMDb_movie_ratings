@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Welcome to your Jupyter Book &#8212; Netflix IMDb Movie Ratings (2025)</title>
+    <title>Netflix Movies with IMDb Ratings &#8212; Netflix IMDb Movie Ratings (2025)</title>
   
   
   
@@ -163,7 +163,7 @@ const thebe_selector_output = ".output, .cell_output"
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1 current active">
                 <a class="reference internal" href="#">
-                    Welcome to your Jupyter Book
+                    Netflix Movies with IMDb Ratings
                 </a>
             </li>
         </ul>
@@ -343,7 +343,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -354,11 +356,20 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Welcome to your Jupyter Book</h1>
+    <h1>Netflix Movies with IMDb Ratings</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-you-will-find-here">What you will find here</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-the-data-is-generated">How the data is generated</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -368,19 +379,52 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="welcome-to-your-jupyter-book">
-<h1>Welcome to your Jupyter Book<a class="headerlink" href="#welcome-to-your-jupyter-book" title="Permalink to this heading">#</a></h1>
-<p>This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out <a class="reference external" href="https://jupyterbook.org">the Jupyter Book documentation</a> for more information.</p>
-<p>Check out the content pages bundled with this sample book to see more.</p>
-<div class="toctree-wrapper compound">
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="markdown.html">Markdown Files</a></li>
-<li class="toctree-l1"><a class="reference internal" href="notebooks.html">Content with notebooks</a></li>
-<li class="toctree-l1"><a class="reference internal" href="markdown-notebooks.html">Notebooks with MyST Markdown</a></li>
+  <section class="tex2jax_ignore mathjax_ignore" id="netflix-movies-with-imdb-ratings">
+<h1>Netflix Movies with IMDb Ratings<a class="headerlink" href="#netflix-movies-with-imdb-ratings" title="Permalink to this heading">#</a></h1>
+<p>Welcome.</p>
+<p>This website presents curated lists of Netflix movies, organized by genre,
+together with their IMDb ratings. All lists are generated automatically from
+public data sources using reproducible scripts.</p>
+<p>The goal of this project is twofold:</p>
+<ol class="arabic simple">
+<li><p>To provide an up-to-date, easy-to-browse overview of Netflix movies by category.</p></li>
+<li><p>To show <em>exactly</em> how these lists are generated, so anyone can reproduce
+or modify them on their own machine.</p></li>
+</ol>
+<hr class="docutils" />
+<section id="what-you-will-find-here">
+<h2>What you will find here<a class="headerlink" href="#what-you-will-find-here" title="Permalink to this heading">#</a></h2>
+<p>Each category in the menu on the left (Horror, Comedy, Thrillers, etc.)
+corresponds to a specific, automatically generated list of movies.</p>
+<p>For each category, the page shows:</p>
+<ul class="simple">
+<li><p>The movie titles</p></li>
+<li><p>Their IMDb ratings</p></li>
+<li><p>The raw output produced by the scripts</p></li>
 </ul>
+<p>No manual curation or hand editing is performed.</p>
+</section>
+<hr class="docutils" />
+<section id="how-the-data-is-generated">
+<h2>How the data is generated<a class="headerlink" href="#how-the-data-is-generated" title="Permalink to this heading">#</a></h2>
+<p>All movie lists shown on this website are generated locally using shell scripts
+included in the repository.</p>
+<p>In short, the workflow is:</p>
+<ol class="arabic simple">
+<li><p>Retrieve lists of Netflix movies by category</p></li>
+<li><p>Query IMDb ratings using the OMDb API</p></li>
+<li><p>Post-process and format the results</p></li>
+<li><p>Publish the output as a static website</p></li>
+</ol>
+<p>You can reproduce everything you see here by cloning the repository and running:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>./scripts/rate_them_all_IMDb.sh
+
+
+<span class="sb">```</span><span class="o">{</span>tableofcontents<span class="o">}</span>
+</pre></div>
+</div>
+</section>
+<div class="toctree-wrapper compound">
 </div>
 </section>
 
@@ -429,6 +473,21 @@ It does not go in-depth into any particular topic - check out <a class="referenc
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-you-will-find-here">What you will find here</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-the-data-is-generated">How the data is generated</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
