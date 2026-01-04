@@ -13,6 +13,4 @@ parts:
   - caption: Movie categories
     chapters:
       - file: horror
-      - file: comedy
       - file: cult
-      - file: sci_fi
