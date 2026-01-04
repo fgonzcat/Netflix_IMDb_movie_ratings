@@ -1,30 +1,145 @@
 # How This Works
 
-This page explains how the movie lists on this site are generated from Netflix and IMDb data.  
+This page explains how I generated the movie lists on this site from Netflix and IMDb data.
 All scripts are included in this repository, so you can reproduce or update the lists yourself.
+
+
+---
+
+## 🔍 Where the data comes from
+This project combines two public data sources:
+1. **Netflix genre pages**  
+   Netflix exposes genre-based browsing pages such as:
+   ```
+   https://www.netflix.com/browse/genre/8711
+   ```
+   These pages list all movies currently available in a given category (e.g. Horror Movies). Read more [here](https://www.netflix-codes.com).
+2. **IMDb ratings, accessed via the OMDb API**
+   IMDb does not provide a free public API directly. Instead, this project uses OMDb (Open Movie Database), a community-maintained API that mirrors IMDb data.
+
+---
+
+## 🔑 OMDb Key: what you need to know
+To fetch IMDb ratings automatically, you need an OMDb API key.
+```{note}
+OMDb is free for personal use, but **you must request your own API key**.
+```
+
+### How to get an OMDb API key
+1. Go to: `https://www.omdbapi.com/`
+2. Click “API Key”
+3. Request a free key (email-based)
+4. You’ll receive a key like:
+   ```
+   abc12345
+   ```
+
+### Where the key is used
+The script `imdb-rating_omdbapi.sh` makes requests like:
+```ruby
+http://www.omdbapi.com/?t=Movie+Title&apikey=YOUR_KEY
+```
+You must replace this key in the variable `APIKEY` of the `imdb-rating_omdbapi.sh` script.
+
+---
+
+## ⚡ Quick start (5 commands)
+
+If you just want to generate a ranked Netflix list as fast as possible:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/fgonzcat/Netfilx_IMDb_movie_ratings.git
+cd Netfilx_IMDb_movie_ratings
+
+# 2. Make scripts executable
+chmod +x *.sh
+
+# 3. Edit the OMDb API key inside the script
+vim scripts/imdb-rating_omdbapi.sh    # replace the variable APIKEY="your_omdb_api_key_here"
+
+# 4. Run the pipeline for a Netflix genre
+./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/8711
+
+# 5. Check the generated output
+ls data/
+```
+
+The ranked movie list will appear in the data/ folder.
+
+
+---
+
+## 🔄 Diagram-style pipeline
+
+```text
+Netflix genre URL
+        |
+        v
++---------------------+
+| wget (HTML scrape)  |
++---------------------+
+        |
+        v
+Extract movie titles
+        |
+        v
++---------------------------+
+| OMDb API (IMDb ratings)   |
++---------------------------+
+        |
+        v
+Raw text data (data/)
+        |
+        v
++---------------------------+
+| Markdown table generator  |
++---------------------------+
+        |
+        v
+Rendered movie lists
+(this website)
+```
+
 
 ---
 
 ## 🎬 Pipeline Overview
 
-1. **Pick a Netflix genre**: each list corresponds to a Netflix genre URL, e.g.,  
-   `https://www.netflix.com/browse/genre/8711` for *Essential Horror Flicks*.
-2. **Run the main script**:  
-
-```bash
+Once the OMDb key is available, the full workflow looks like this:
+1. **Pick a Netflix genre**:
+   Each list corresponds to a Netflix genre URL, for example:
+   ```
+   https://www.netflix.com/browse/genre/8711
+   ```
+2. **Run the main script**: 
+```
 ./rate_them_all_IMDb.sh <Netflix-genre-URL>
 ```
-3.  **Example**:
-./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/8711
+3. **Example**
+   ```
+   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/8711
+   ```
 
+### ⚙️ What the scripts actually do
+The main script proceeds in several steps:
 
-This script will:
-- Use `wget` to read the html code from the Netflix page and retrieve all the titles of movies it can find for that genre.
-- Call `imdb-rating_omdbapi.sh` to get IMDb ratings for each movie.
-- Generate a simple text file in the data/ folder with ratings, titles, year, and links to the respective IMDb and Netflix websites.
+- 📥 Scrape Netflix
+  Uses `wget` to download the genre page HTML and extract movie titles.
+- 🔎 Query OMDb
+  For each title, the script:
+  - Calls the OMDb API
+  - Retrieves IMDb rating, year, and IMDb ID
+- 🧾 Generate raw data
+  Outputs a plain text file in the data/ directory containing:
+  - IMDb rating
+  - Movie title
+  - Year
+  - IMDb link
+  - Netflix link
 
-
-I converted those tables in a nice Markdown table with columns like this one:
+## 📊 From raw data to tables
+The raw output is then converted into clean Markdown tables like this:
 
 | IMDb ⭐ | Title | IMDb | Netflix |
 |:-------:|:------|------|---------|
@@ -32,18 +147,24 @@ I converted those tables in a nice Markdown table with columns like this one:
 | 7.5 | *title* | https://www.imdb.com/title/<imdb_title> | https://www.netflix.com/title/<netflix_title> |
 | . | *.* | . | . |
 
+These tables are what you see rendered on the site.
+
+
 ## 🛠 Scripts Overview
-- `rate_them_all_IMDb.sh` – main pipeline script that calls the others
-- `imdb-rating_omdbapi.sh` – fetches IMDb ratings using the OMDb API
-- `imdb-rating.sh` – helper for Netflix scraping and getting the list of movies of a given genre.
-- `highest_rated_ones_only.sh` – generates top-rated subset
+- `rate_them_all_IMDb.sh` – Main pipeline script — coordinates everything
+- `imdb-rating_omdbapi.sh` – Queries the OMDb API for IMDb ratings
+- `imdb-rating.sh` – Extracts movie titles from Netflix genre pages
+- `highest_rated_ones_only.sh` – Optional: Filters and generates top-rated subsets (not used in the main pipeline)
 
 
 ```{warning}
-Keep all scripts in the same folder when running the main script, because rate_them_all_IMDb.sh expects relative paths. The lists can be in a different directory, as long as you provide the path to them.
+All scripts must remain in the same directory when running the main pipeline, because relative paths are assumed.
 ```
 
+## 📁 Data transparency
 ```{note}
-For more technical users, the raw data is always available in the data/ folder of this repository.
+All intermediate and final data files are stored in the `data/` directory. Nothing is hidden — you can inspect, modify, or regenerate everything.
 ```
 
+## 🚫 Disclaimer
+This project is not affiliated with Netflix, IMDb, or OMDb. All trademarks belong to their respective owners.

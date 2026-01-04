@@ -175,8 +175,8 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Movie categories</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="horror.html">Horror Movies on Netflix</a></li>
 <li class="toctree-l1"><a class="reference internal" href="cult.html">Cult Movies on Netflix</a></li>
+<li class="toctree-l1"><a class="reference internal" href="horror.html">Horror Movies on Netflix</a></li>
 </ul>
 
     </div>
@@ -372,8 +372,22 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pipeline-overview">🎬 Pipeline Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#where-the-data-comes-from">🔍 Where the data comes from</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#omdb-key-what-you-need-to-know">🔑 OMDb Key: what you need to know</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-get-an-omdb-api-key">How to get an OMDb API key</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#where-the-key-is-used">Where the key is used</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#quick-start-5-commands">⚡ Quick start (5 commands)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#diagram-style-pipeline">🔄 Diagram-style pipeline</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pipeline-overview">🎬 Pipeline Overview</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#what-the-scripts-actually-do">⚙️ What the scripts actually do</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#from-raw-data-to-tables">📊 From raw data to tables</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#scripts-overview">🛠 Scripts Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data-transparency">📁 Data transparency</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#disclaimer">🚫 Disclaimer</a></li>
 </ul>
             </nav>
         </div>
@@ -387,30 +401,161 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="how-this-works">
 <h1>How This Works<a class="headerlink" href="#how-this-works" title="Permalink to this heading">#</a></h1>
-<p>This page explains how the movie lists on this site are generated from Netflix and IMDb data.<br />
+<p>This page explains how I generated the movie lists on this site from Netflix and IMDb data.
 All scripts are included in this repository, so you can reproduce or update the lists yourself.</p>
+<hr class="docutils" />
+<section id="where-the-data-comes-from">
+<h2>🔍 Where the data comes from<a class="headerlink" href="#where-the-data-comes-from" title="Permalink to this heading">#</a></h2>
+<p>This project combines two public data sources:</p>
+<ol class="arabic">
+<li><p><strong>Netflix genre pages</strong><br />
+Netflix exposes genre-based browsing pages such as:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">www</span><span class="o">.</span><span class="n">netflix</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">browse</span><span class="o">/</span><span class="n">genre</span><span class="o">/</span><span class="mi">8711</span>
+</pre></div>
+</div>
+<p>These pages list all movies currently available in a given category (e.g. Horror Movies). Read more <a class="reference external" href="https://www.netflix-codes.com">here</a>.</p>
+</li>
+<li><p><strong>IMDb ratings, accessed via the OMDb API</strong>
+IMDb does not provide a free public API directly. Instead, this project uses OMDb (Open Movie Database), a community-maintained API that mirrors IMDb data.</p></li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="omdb-key-what-you-need-to-know">
+<h2>🔑 OMDb Key: what you need to know<a class="headerlink" href="#omdb-key-what-you-need-to-know" title="Permalink to this heading">#</a></h2>
+<p>To fetch IMDb ratings automatically, you need an OMDb API key.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>OMDb is free for personal use, but <strong>you must request your own API key</strong>.</p>
+</div>
+<section id="how-to-get-an-omdb-api-key">
+<h3>How to get an OMDb API key<a class="headerlink" href="#how-to-get-an-omdb-api-key" title="Permalink to this heading">#</a></h3>
+<ol class="arabic">
+<li><p>Go to: <code class="docutils literal notranslate"><span class="pre">https://www.omdbapi.com/</span></code></p></li>
+<li><p>Click “API Key”</p></li>
+<li><p>Request a free key (email-based)</p></li>
+<li><p>You’ll receive a key like:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">abc12345</span>
+</pre></div>
+</div>
+</li>
+</ol>
+</section>
+<section id="where-the-key-is-used">
+<h3>Where the key is used<a class="headerlink" href="#where-the-key-is-used" title="Permalink to this heading">#</a></h3>
+<p>The script <code class="docutils literal notranslate"><span class="pre">imdb-rating_omdbapi.sh</span></code> makes requests like:</p>
+<div class="highlight-ruby notranslate"><div class="highlight"><pre><span></span><span class="ss">http</span><span class="p">:</span><span class="sr">//</span><span class="n">www</span><span class="o">.</span><span class="n">omdbapi</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="sc">?t</span><span class="o">=</span><span class="no">Movie</span><span class="o">+</span><span class="no">Title</span><span class="o">&amp;</span><span class="n">apikey</span><span class="o">=</span><span class="no">YOUR_KEY</span>
+</pre></div>
+</div>
+<p>You must replace this key in the variable <code class="docutils literal notranslate"><span class="pre">APIKEY</span></code> of the <code class="docutils literal notranslate"><span class="pre">imdb-rating_omdbapi.sh</span></code> script.</p>
+</section>
+</section>
+<hr class="docutils" />
+<section id="quick-start-5-commands">
+<h2>⚡ Quick start (5 commands)<a class="headerlink" href="#quick-start-5-commands" title="Permalink to this heading">#</a></h2>
+<p>If you just want to generate a ranked Netflix list as fast as possible:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="c1"># 1. Clone the repository</span>
+git<span class="w"> </span>clone<span class="w"> </span>https://github.com/fgonzcat/Netfilx_IMDb_movie_ratings.git
+<span class="nb">cd</span><span class="w"> </span>Netfilx_IMDb_movie_ratings
+
+<span class="c1"># 2. Make scripts executable</span>
+chmod<span class="w"> </span>+x<span class="w"> </span>*.sh
+
+<span class="c1"># 3. Edit the OMDb API key inside the script</span>
+vim<span class="w"> </span>scripts/imdb-rating_omdbapi.sh<span class="w">    </span><span class="c1"># replace the variable APIKEY=&quot;your_omdb_api_key_here&quot;</span>
+
+<span class="c1"># 4. Run the pipeline for a Netflix genre</span>
+./rate_them_all_IMDb.sh<span class="w"> </span>https://www.netflix.com/browse/genre/8711
+
+<span class="c1"># 5. Check the generated output</span>
+ls<span class="w"> </span>data/
+</pre></div>
+</div>
+<p>The ranked movie list will appear in the data/ folder.</p>
+</section>
+<hr class="docutils" />
+<section id="diagram-style-pipeline">
+<h2>🔄 Diagram-style pipeline<a class="headerlink" href="#diagram-style-pipeline" title="Permalink to this heading">#</a></h2>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>Netflix genre URL
+        |
+        v
++---------------------+
+| wget (HTML scrape)  |
++---------------------+
+        |
+        v
+Extract movie titles
+        |
+        v
++---------------------------+
+| OMDb API (IMDb ratings)   |
++---------------------------+
+        |
+        v
+Raw text data (data/)
+        |
+        v
++---------------------------+
+| Markdown table generator  |
++---------------------------+
+        |
+        v
+Rendered movie lists
+(this website)
+</pre></div>
+</div>
+</section>
 <hr class="docutils" />
 <section id="pipeline-overview">
 <h2>🎬 Pipeline Overview<a class="headerlink" href="#pipeline-overview" title="Permalink to this heading">#</a></h2>
-<ol class="arabic simple">
-<li><p><strong>Pick a Netflix genre</strong>: each list corresponds to a Netflix genre URL, e.g.,<br />
-<code class="docutils literal notranslate"><span class="pre">https://www.netflix.com/browse/genre/8711</span></code> for <em>Essential Horror Flicks</em>.</p></li>
-<li><p><strong>Run the main script</strong>:</p></li>
-</ol>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>./rate_them_all_IMDb.sh<span class="w"> </span>&lt;Netflix-genre-URL&gt;
+<p>Once the OMDb key is available, the full workflow looks like this:</p>
+<ol class="arabic">
+<li><p><strong>Pick a Netflix genre</strong>:
+Each list corresponds to a Netflix genre URL, for example:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">www</span><span class="o">.</span><span class="n">netflix</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">browse</span><span class="o">/</span><span class="n">genre</span><span class="o">/</span><span class="mi">8711</span>
 </pre></div>
 </div>
-<ol class="arabic simple" start="3">
-<li><p><strong>Example</strong>:
-./rate_them_all_IMDb.sh <a class="reference external" href="https://www.netflix.com/browse/genre/8711">https://www.netflix.com/browse/genre/8711</a></p></li>
+</li>
+<li><p><strong>Run the main script</strong>:</p></li>
 </ol>
-<p>This script will:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">./</span><span class="n">rate_them_all_IMDb</span><span class="o">.</span><span class="n">sh</span> <span class="o">&lt;</span><span class="n">Netflix</span><span class="o">-</span><span class="n">genre</span><span class="o">-</span><span class="n">URL</span><span class="o">&gt;</span>
+</pre></div>
+</div>
+<ol class="arabic" start="3">
+<li><p><strong>Example</strong></p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">./</span><span class="n">rate_them_all_IMDb</span><span class="o">.</span><span class="n">sh</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">www</span><span class="o">.</span><span class="n">netflix</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">browse</span><span class="o">/</span><span class="n">genre</span><span class="o">/</span><span class="mi">8711</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<section id="what-the-scripts-actually-do">
+<h3>⚙️ What the scripts actually do<a class="headerlink" href="#what-the-scripts-actually-do" title="Permalink to this heading">#</a></h3>
+<p>The main script proceeds in several steps:</p>
 <ul class="simple">
-<li><p>Use <code class="docutils literal notranslate"><span class="pre">wget</span></code> to read the html code from the Netflix page and retrieve all the titles of movies it can find for that genre.</p></li>
-<li><p>Call <code class="docutils literal notranslate"><span class="pre">imdb-rating_omdbapi.sh</span></code> to get IMDb ratings for each movie.</p></li>
-<li><p>Generate a simple text file in the data/ folder with ratings, titles, year, and links to the respective IMDb and Netflix websites.</p></li>
+<li><p>📥 Scrape Netflix
+Uses <code class="docutils literal notranslate"><span class="pre">wget</span></code> to download the genre page HTML and extract movie titles.</p></li>
+<li><p>🔎 Query OMDb
+For each title, the script:</p>
+<ul>
+<li><p>Calls the OMDb API</p></li>
+<li><p>Retrieves IMDb rating, year, and IMDb ID</p></li>
 </ul>
-<p>I converted those tables in a nice Markdown table with columns like this one:</p>
+</li>
+<li><p>🧾 Generate raw data
+Outputs a plain text file in the data/ directory containing:</p>
+<ul>
+<li><p>IMDb rating</p></li>
+<li><p>Movie title</p></li>
+<li><p>Year</p></li>
+<li><p>IMDb link</p></li>
+<li><p>Netflix link</p></li>
+</ul>
+</li>
+</ul>
+</section>
+</section>
+<section id="from-raw-data-to-tables">
+<h2>📊 From raw data to tables<a class="headerlink" href="#from-raw-data-to-tables" title="Permalink to this heading">#</a></h2>
+<p>The raw output is then converted into clean Markdown tables like this:</p>
 <table class="colwidths-auto table">
 <thead>
 <tr class="row-odd"><th class="text-center head"><p>IMDb ⭐</p></th>
@@ -437,23 +582,31 @@ All scripts are included in this repository, so you can reproduce or update the 
 </tr>
 </tbody>
 </table>
+<p>These tables are what you see rendered on the site.</p>
 </section>
 <section id="scripts-overview">
 <h2>🛠 Scripts Overview<a class="headerlink" href="#scripts-overview" title="Permalink to this heading">#</a></h2>
 <ul class="simple">
-<li><p><code class="docutils literal notranslate"><span class="pre">rate_them_all_IMDb.sh</span></code> – main pipeline script that calls the others</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">imdb-rating_omdbapi.sh</span></code> – fetches IMDb ratings using the OMDb API</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">imdb-rating.sh</span></code> – helper for Netflix scraping and getting the list of movies of a given genre.</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">highest_rated_ones_only.sh</span></code> – generates top-rated subset</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">rate_them_all_IMDb.sh</span></code> – Main pipeline script — coordinates everything</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">imdb-rating_omdbapi.sh</span></code> – Queries the OMDb API for IMDb ratings</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">imdb-rating.sh</span></code> – Extracts movie titles from Netflix genre pages</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">highest_rated_ones_only.sh</span></code> – Optional: Filters and generates top-rated subsets (not used in the main pipeline)</p></li>
 </ul>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
-<p>Keep all scripts in the same folder when running the main script, because rate_them_all_IMDb.sh expects relative paths. The lists can be in a different directory, as long as you provide the path to them.</p>
+<p>All scripts must remain in the same directory when running the main pipeline, because relative paths are assumed.</p>
 </div>
+</section>
+<section id="data-transparency">
+<h2>📁 Data transparency<a class="headerlink" href="#data-transparency" title="Permalink to this heading">#</a></h2>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>For more technical users, the raw data is always available in the data/ folder of this repository.</p>
+<p>All intermediate and final data files are stored in the <code class="docutils literal notranslate"><span class="pre">data/</span></code> directory. Nothing is hidden — you can inspect, modify, or regenerate everything.</p>
 </div>
+</section>
+<section id="disclaimer">
+<h2>🚫 Disclaimer<a class="headerlink" href="#disclaimer" title="Permalink to this heading">#</a></h2>
+<p>This project is not affiliated with Netflix, IMDb, or OMDb. All trademarks belong to their respective owners.</p>
 </section>
 </section>
 
@@ -520,8 +673,22 @@ All scripts are included in this repository, so you can reproduce or update the 
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pipeline-overview">🎬 Pipeline Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#where-the-data-comes-from">🔍 Where the data comes from</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#omdb-key-what-you-need-to-know">🔑 OMDb Key: what you need to know</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-get-an-omdb-api-key">How to get an OMDb API key</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#where-the-key-is-used">Where the key is used</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#quick-start-5-commands">⚡ Quick start (5 commands)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#diagram-style-pipeline">🔄 Diagram-style pipeline</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pipeline-overview">🎬 Pipeline Overview</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#what-the-scripts-actually-do">⚙️ What the scripts actually do</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#from-raw-data-to-tables">📊 From raw data to tables</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#scripts-overview">🛠 Scripts Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data-transparency">📁 Data transparency</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#disclaimer">🚫 Disclaimer</a></li>
 </ul>
   </nav></div>
 
