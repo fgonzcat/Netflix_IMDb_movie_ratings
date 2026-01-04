@@ -21,7 +21,7 @@ The list is produced using the following command:
 
 | IMDb ⭐ | Title | IMDb | Netflix |
 |:-------:|:------|------|---------|
-| 7.8 | *Night of the Living Dead* | https://www.imdb.com/title/tt0063350/ | https://www.netflix.com/title/17017662 |
+| 7.8 | *Night of the Living Dead* | <a href="https://www.imdb.com/title/tt0063350/" target="_blank">IMDb</a> | <a href="https://www.netflix.com/title/17017662" target="_blank">Netflix</a> |
 | 7.6 | *Train to Busan* | https://www.imdb.com/title/tt5700672/ | https://www.netflix.com/title/80117824 |
 | 7.6 | *Agak Laen* | https://www.imdb.com/title/tt28856462/ | https://www.netflix.com/title/81728111 |
 | 7.5 | *Frankenstein* | https://www.imdb.com/title/tt1312221/ | https://www.netflix.com/title/81507921 |
