@@ -65,7 +65,7 @@ const thebe_selector_output = ".output, .cell_output"
     <script>DOCUMENTATION_OPTIONS.pagename = 'how_it_works';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Horror Movies on Netflix" href="horror.html" />
+    <link rel="next" title="Scripts" href="scripts.html" />
     <link rel="prev" title="Netflix Movies with Best IMDb Ratings 🎬⭐" href="intro.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
@@ -171,10 +171,12 @@ const thebe_selector_output = ".output, .cell_output"
         <p aria-level="2" class="caption" role="heading"><span class="caption-text">About this project</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">How This Works</a></li>
+<li class="toctree-l1"><a class="reference internal" href="scripts.html">Scripts</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Movie categories</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="horror.html">Horror Movies on Netflix</a></li>
+<li class="toctree-l1"><a class="reference internal" href="cult.html">Cult Movies on Netflix</a></li>
 </ul>
 
     </div>
@@ -372,14 +374,6 @@ document.write(`
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pipeline-overview">🎬 Pipeline Overview</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#scripts-overview">🛠 Scripts Overview</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#rate-them-all-imdb-sh">rate_them_all_IMDb.sh</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#example">Example</a></li>
-</ul>
-</li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#imdb-rating-omdbapi-sh">imdb-rating_omdbapi.sh</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Example</a></li>
-</ul>
-</li>
 </ul>
             </nav>
         </div>
@@ -461,200 +455,6 @@ All scripts are included in this repository, so you can reproduce or update the 
 <p>For more technical users, the raw data is always available in the data/ folder of this repository.</p>
 </div>
 </section>
-<section id="rate-them-all-imdb-sh">
-<h2>rate_them_all_IMDb.sh<a class="headerlink" href="#rate-them-all-imdb-sh" title="Permalink to this heading">#</a></h2>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="linenos"> 1</span><span class="c1">#######################################################################</span>
-<span class="linenos"> 2</span><span class="c1">#  Get the IMDb rating for a list of movies on Netflix                #</span>
-<span class="linenos"> 3</span><span class="c1">#######################################################################</span>
-<span class="linenos"> 4</span><span class="c1">#!/usr/bin/env bash</span>
-<span class="linenos"> 5</span>
-<span class="linenos"> 6</span><span class="k">if</span><span class="w"> </span><span class="o">[</span><span class="w"> </span>-z<span class="w"> </span><span class="nv">$1</span><span class="w"> </span><span class="o">]</span><span class="w"> </span><span class="p">;</span><span class="w"> </span><span class="k">then</span>
-<span class="linenos"> 7</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;Provide the URL to a Netflix genre          [Berkeley 12-26-25]&quot;</span>
-<span class="linenos"> 8</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;&quot;</span>
-<span class="linenos"> 9</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;EXAMPLES&quot;</span>
-<span class="linenos">10</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;Usage: </span><span class="nv">$0</span><span class="s2">  https://www.netflix.com/browse/genre/8711                          # Horror movies &quot;</span>
-<span class="linenos">11</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;&quot;</span>
-<span class="linenos">12</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;Get the Netflix categories with the imdb-rating.sh script:&quot;</span>
-<span class="linenos">13</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;Usage: ./imdb-rating.sh  --getlist  https://www.netflix.com/browse/genre/8711?bc=34399      # get list of horror movies&quot;</span>
-<span class="linenos">14</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;Usage: ./imdb-rating.sh  --categories                                                       # get URLs of Netflix categories&quot;</span>
-<span class="linenos">15</span><span class="w"> </span><span class="nb">exit</span>
-<span class="linenos">16</span><span class="k">fi</span>
-<span class="linenos">17</span>
-<span class="linenos">18</span>
-<span class="linenos">19</span>
-<span class="linenos">20</span><span class="nv">all_categories</span><span class="o">=</span><span class="k">$(</span>./imdb-rating.sh<span class="w"> </span>--categories<span class="w"> </span><span class="p">|</span><span class="w"> </span>head<span class="w"> </span>-2<span class="w"> </span><span class="p">|</span><span class="w"> </span>awk<span class="w"> </span><span class="s1">&#39;{print $NF,&quot;\n&quot;}&#39;</span><span class="k">)</span>
-<span class="linenos">21</span><span class="nv">one_category</span><span class="o">=</span><span class="s2">&quot;https://www.netflix.com/browse/genre/7627&quot;</span><span class="w">  </span><span class="c1"># Cult Movies</span>
-<span class="linenos">22</span>
-<span class="linenos">23</span><span class="k">if</span><span class="w"> </span><span class="o">[</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$1</span><span class="s2">&quot;</span><span class="w"> </span>!<span class="o">=</span><span class="w"> </span><span class="s2">&quot;&quot;</span><span class="w"> </span><span class="o">]</span><span class="p">;</span><span class="w"> </span><span class="k">then</span>
-<span class="linenos">24</span><span class="w"> </span><span class="nv">one_category</span><span class="o">=</span><span class="s2">&quot;</span><span class="nv">$1</span><span class="s2">&quot;</span>
-<span class="linenos">25</span><span class="k">fi</span>
-<span class="linenos">26</span>
-<span class="linenos">27</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;CATEGORY: </span><span class="nv">$one_category</span><span class="s2">&quot;</span>
-<span class="linenos">28</span>
-<span class="linenos">29</span><span class="k">for</span><span class="w"> </span>category<span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="nv">$one_category</span>
-<span class="linenos">30</span><span class="k">do</span>
-<span class="linenos">31</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;Generating list of movies in category  </span><span class="nv">$category</span><span class="s2"> ...&quot;</span>
-<span class="linenos">32</span><span class="w"> </span>./imdb-rating.sh<span class="w"> </span>--getlist<span class="w"> </span><span class="nv">$category</span><span class="w"> </span>&gt;<span class="w"> </span>mylist.txt
-<span class="linenos">33</span><span class="w"> </span>cat<span class="w"> </span>mylist.txt
-<span class="linenos">34</span><span class="w"> </span><span class="nv">line</span><span class="o">=</span><span class="k">$(</span>head<span class="w"> </span>-1<span class="w"> </span>mylist.txt<span class="k">)</span>
-<span class="linenos">35</span><span class="w"> </span><span class="nv">genre</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$line</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>sed<span class="w"> </span>-n<span class="w"> </span><span class="s1">&#39;s/.*genre &quot;\([^&quot;]*\)&quot;.*/\1/p&#39;</span><span class="k">)</span>
-<span class="linenos">36</span><span class="w"> </span><span class="nv">simplified</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$genre</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>sed<span class="w"> </span><span class="s1">&#39;s/[^a-zA-Z0-9]/_/g; s/_\+/_/g&#39;</span><span class="k">)</span>
-<span class="linenos">37</span>
-<span class="linenos">38</span><span class="w"> </span><span class="nv">list</span><span class="o">=</span><span class="s2">&quot;list_</span><span class="si">${</span><span class="nv">simplified</span><span class="si">}</span><span class="s2">.txt&quot;</span>
-<span class="linenos">39</span><span class="w"> </span>mv<span class="w"> </span>mylist.txt<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$list</span><span class="s2">&quot;</span><span class="w"> </span>
-<span class="linenos">40</span><span class="w"> </span><span class="nv">list_rated</span><span class="o">=</span><span class="s2">&quot;list_</span><span class="si">${</span><span class="nv">simplified</span><span class="si">}</span><span class="s2">_rating_imdb.txt&quot;</span>
-<span class="linenos">41</span>
-<span class="linenos">42</span><span class="w"> </span><span class="c1">#Use omdbapi.com to find the IMDb rating of movies on the list</span>
-<span class="linenos">43</span><span class="w"> </span>./imdb-rating_omdbapi.sh<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$list</span><span class="s2">&quot;</span><span class="w">  </span>&gt;<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$list_rated</span><span class="s2">&quot;</span><span class="w">  </span><span class="p">&amp;</span>
-<span class="linenos">44</span><span class="w"> </span>
-<span class="linenos">45</span><span class="w"> </span><span class="c1"># Monitor the file as is being written</span>
-<span class="linenos">46</span><span class="w"> </span><span class="nv">pid</span><span class="o">=</span><span class="nv">$!</span>
-<span class="linenos">47</span><span class="w"> </span>tail<span class="w"> </span>-f<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$list_rated</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">&amp;</span>
-<span class="linenos">48</span><span class="w"> </span><span class="nv">tailpid</span><span class="o">=</span><span class="nv">$!</span>
-<span class="linenos">49</span><span class="w"> </span><span class="nb">wait</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$pid</span><span class="s2">&quot;</span><span class="w">        </span><span class="c1"># wait until imdb-rating_omdbapi.sh finishes</span>
-<span class="linenos">50</span><span class="w"> </span><span class="nb">kill</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$tailpid</span><span class="s2">&quot;</span><span class="w">    </span><span class="c1"># stop tail</span>
-<span class="linenos">51</span><span class="w"> </span>head<span class="w"> </span>-2<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$list</span><span class="s2">&quot;</span><span class="w">  </span>&gt;<span class="w"> </span>nn.txt
-<span class="linenos">52</span><span class="w"> </span>sort<span class="w"> </span>-g<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$list_rated</span><span class="s2">&quot;</span><span class="w"> </span>&gt;&gt;<span class="w"> </span>nn.txt
-<span class="linenos">53</span><span class="w"> </span>mv<span class="w"> </span>nn.txt<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$list_rated</span><span class="s2">&quot;</span>
-<span class="linenos">54</span><span class="w"> </span>cat<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$list_rated</span><span class="s2">&quot;</span>
-<span class="linenos">55</span>
-<span class="linenos">56</span>
-<span class="linenos">57</span><span class="k">done</span>
-</pre></div>
-</div>
-<section id="example">
-<h3>Example<a class="headerlink" href="#example" title="Permalink to this heading">#</a></h3>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>$<span class="w"> </span>./rate_them_all_IMDb.sh<span class="w"> </span>https://www.netflix.com/browse/genre/7627
-
-CATEGORY:<span class="w"> </span>https://www.netflix.com/browse/genre/7627
-Generating<span class="w"> </span>list<span class="w"> </span>of<span class="w"> </span>movies<span class="w"> </span><span class="k">in</span><span class="w"> </span>category<span class="w">  </span>https://www.netflix.com/browse/genre/7627<span class="w"> </span>...
-<span class="c1">#List of moves in genre &quot;Cult Movies&quot; :  https://www.netflix.com/browse/genre/7627</span>
-
-<span class="s2">&quot;Bad Education: Directors Cut&quot;</span><span class="w">                                          </span><span class="m">2023</span><span class="w">    </span>https://www.netflix.com/title/81713692
-<span class="s2">&quot;Bad Trip&quot;</span><span class="w">                                                              </span><span class="m">2021</span><span class="w">    </span>https://www.netflix.com/title/81287254
-<span class="s2">&quot;Battlefield Earth&quot;</span><span class="w">                                                     </span><span class="m">2000</span><span class="w">    </span>https://www.netflix.com/title/60000872
-<span class="s2">&quot;Donnie Darko&quot;</span><span class="w">                                                          </span><span class="m">2001</span><span class="w">    </span>https://www.netflix.com/title/60022315
-<span class="s2">&quot;Dune&quot;</span><span class="w">                                                                  </span><span class="m">1984</span><span class="w">    </span>https://www.netflix.com/title/464403
-<span class="s2">&quot;Hostel: Part III&quot;</span><span class="w">                                                      </span><span class="m">2011</span><span class="w">    </span>https://www.netflix.com/title/70206131
-<span class="s2">&quot;Christine&quot;</span><span class="w">                                                             </span><span class="m">1983</span><span class="w">    </span>https://www.netflix.com/title/70007667
-<span class="s2">&quot;Elaan&quot;</span><span class="w">                                                                 </span><span class="m">1971</span><span class="w">    </span>https://www.netflix.com/title/80158482
-<span class="s2">&quot;Labyrinth&quot;</span><span class="w">                                                             </span><span class="m">1986</span><span class="w">    </span>https://www.netflix.com/title/680020
-<span class="s2">&quot;Eternal Summer&quot;</span><span class="w">                                                        </span><span class="m">2006</span><span class="w">    </span>https://www.netflix.com/title/70079159
-<span class="s2">&quot;Little Women&quot;</span><span class="w">                                                          </span><span class="m">1994</span><span class="w">    </span>https://www.netflix.com/title/707114
-<span class="s2">&quot;Night of the Living Dead&quot;</span><span class="w">                                              </span><span class="m">1968</span><span class="w">    </span>https://www.netflix.com/title/17017662
-<span class="s2">&quot;Mean Girls&quot;</span><span class="w">                                                            </span><span class="m">2004</span><span class="w">    </span>https://www.netflix.com/title/60034551
-<span class="s2">&quot;Monty Python&#39;s The Meaning of Life&quot;</span><span class="w">                                    </span><span class="m">1983</span><span class="w">    </span>https://www.netflix.com/title/60029676
-<span class="s2">&quot;Pulp Fiction&quot;</span><span class="w">                                                          </span><span class="m">1994</span><span class="w">    </span>https://www.netflix.com/title/880640
-<span class="s2">&quot;Pee-wee&#39;s Big Holiday&quot;</span><span class="w">                                                 </span><span class="m">2016</span><span class="w">    </span>https://www.netflix.com/title/80031800
-<span class="s2">&quot;Silsila&quot;</span><span class="w">                                                               </span><span class="m">1981</span><span class="w">    </span>https://www.netflix.com/title/60001659
-<span class="s2">&quot;Snatch&quot;</span><span class="w">                                                                </span><span class="m">2000</span><span class="w">    </span>https://www.netflix.com/title/60003388
-<span class="s2">&quot;Stripes&quot;</span><span class="w">                                                               </span><span class="m">1981</span><span class="w">    </span>https://www.netflix.com/title/1008581
-<span class="s2">&quot;The Texas Chainsaw Massacre&quot;</span><span class="w">                                           </span><span class="m">1974</span><span class="w">    </span>https://www.netflix.com/title/15815343
-<span class="s2">&quot;Trailer Park Boys: The Movie&quot;</span><span class="w">                                          </span><span class="m">2006</span><span class="w">    </span>https://www.netflix.com/title/70069233
-<span class="s2">&quot;This Is the End&quot;</span><span class="w">                                                       </span><span class="m">2013</span><span class="w">    </span>https://www.netflix.com/title/70264796
-NA<span class="w">      </span><span class="s2">&quot;Bad Education: Directors Cut&quot;</span><span class="w">                                          </span><span class="m">2023</span><span class="w">                                                        </span>https://www.netflix.com/title/81713692
-<span class="m">6</span>.5<span class="w">     </span><span class="s2">&quot;Bad Trip&quot;</span><span class="w">                                                              </span><span class="m">2021</span><span class="w">    </span>https://www.imdb.com/title/tt9684220/<span class="w">               </span>https://www.netflix.com/title/81287254
-<span class="m">2</span>.5<span class="w">     </span><span class="s2">&quot;Battlefield Earth&quot;</span><span class="w">                                                     </span><span class="m">2000</span><span class="w">    </span>https://www.imdb.com/title/tt0185183/<span class="w">               </span>https://www.netflix.com/title/60000872
-<span class="m">8</span>.0<span class="w">     </span><span class="s2">&quot;Donnie Darko&quot;</span><span class="w">                                                          </span><span class="m">2001</span><span class="w">    </span>https://www.imdb.com/title/tt0246578/<span class="w">               </span>https://www.netflix.com/title/60022315
-</pre></div>
-</div>
-<p>See the resulting nicer list in <span class="xref myst">Cult Movies list</span>.</p>
-</section>
-</section>
-<section id="imdb-rating-omdbapi-sh">
-<h2>imdb-rating_omdbapi.sh<a class="headerlink" href="#imdb-rating-omdbapi-sh" title="Permalink to this heading">#</a></h2>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="linenos"> 1</span><span class="c1">#######################################################################</span>
-<span class="linenos"> 2</span><span class="c1">#  Get the IMDb rating for a list of movies on Netflix                #</span>
-<span class="linenos"> 3</span><span class="c1">#######################################################################</span>
-<span class="linenos"> 4</span><span class="c1">#!/usr/bin/env bash</span>
-<span class="linenos"> 5</span>
-<span class="linenos"> 6</span><span class="nv">debug</span><span class="o">=</span><span class="m">0</span>
-<span class="linenos"> 7</span><span class="k">if</span><span class="w"> </span><span class="o">[</span><span class="w"> </span>-z<span class="w"> </span><span class="nv">$1</span><span class="w"> </span><span class="o">]</span><span class="w"> </span><span class="p">;</span><span class="w"> </span><span class="k">then</span>
-<span class="linenos"> 8</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;Provide a file with movie names in each row [Berkeley 02-22-20]&quot;</span>
-<span class="linenos"> 9</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;&quot;</span>
-<span class="linenos">10</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;EXAMPLES&quot;</span>
-<span class="linenos">11</span><span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;Usage: </span><span class="nv">$0</span><span class="s2">  list.txt                                                           # A file with a list of movie titles&quot;</span>
-<span class="linenos">12</span><span class="w"> </span><span class="nb">exit</span>
-<span class="linenos">13</span><span class="k">elif</span><span class="w"> </span><span class="o">[</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$2</span><span class="s2">&quot;</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">&quot;--debug&quot;</span><span class="w"> </span><span class="o">]</span><span class="p">;</span><span class="w"> </span><span class="k">then</span>
-<span class="linenos">14</span><span class="w"> </span><span class="nv">debug</span><span class="o">=</span><span class="m">1</span>
-<span class="linenos">15</span><span class="k">fi</span>
-<span class="linenos">16</span>
-<span class="linenos">17</span>
-<span class="linenos">18</span><span class="nv">APIKEY</span><span class="o">=</span><span class="s2">&quot;1a8c9011&quot;</span><span class="w">   </span><span class="c1"># fullofmetal@gmail.com</span>
-<span class="linenos">19</span><span class="c1">#APIKEY=&quot;d7e16fa4&quot;   # fullofmetal@googlemail.com</span>
-<span class="linenos">20</span><span class="c1">#APIKEY=&quot;b79f4081&quot;   # f_gonzalez@berkeley.edu</span>
-<span class="linenos">21</span><span class="c1">#APIKEY=&quot;ed6cc44c&quot;   # metalerosatanico@hotmail.com</span>
-<span class="linenos">22</span>
-<span class="linenos">23</span><span class="nv">list</span><span class="o">=</span><span class="nv">$1</span><span class="w">                         </span><span class="c1">#  Input file as first variable</span>
-<span class="linenos">24</span><span class="c1"># $list  must look like this:</span>
-<span class="linenos">25</span><span class="c1">#    #List of moves in genre &quot;Cult Movies&quot; :  https://www.netflix.com/browse/genre/7627</span>
-<span class="linenos">26</span><span class="c1">#    </span>
-<span class="linenos">27</span><span class="c1">#    &quot;Bad Trip&quot;                                          2021    https://www.netflix.com/title/81287254</span>
-<span class="linenos">28</span><span class="c1">#    &quot;Bad Education: Directors Cut&quot;                      2023    https://www.netflix.com/title/81713692</span>
-<span class="linenos">29</span><span class="c1">#    &quot;Christine&quot;                                         1983    https://www.netflix.com/title/70007667</span>
-<span class="linenos">30</span><span class="c1">#    &quot;Battlefield Earth&quot;                                 2000    https://www.netflix.com/title/60000872</span>
-<span class="linenos">31</span>
-<span class="linenos">32</span>
-<span class="linenos">33</span>
-<span class="linenos">34</span><span class="k">while</span><span class="w"> </span><span class="nv">IFS</span><span class="o">=</span><span class="w"> </span><span class="nb">read</span><span class="w"> </span>-r<span class="w"> </span>movie<span class="p">;</span><span class="w"> </span><span class="k">do</span>
-<span class="linenos">35</span><span class="w">  </span><span class="o">[[</span><span class="w"> </span>-z<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$movie</span><span class="s2">&quot;</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$movie</span><span class="s2">&quot;</span><span class="w"> </span>!<span class="o">=</span><span class="w"> </span>*title*<span class="w"> </span><span class="o">]]</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="k">continue</span>
-<span class="linenos">36</span><span class="w">  </span><span class="nv">URL</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="nv">$movie</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>awk<span class="w"> </span><span class="s1">&#39;{print $NF}&#39;</span><span class="k">)</span>
-<span class="linenos">37</span><span class="w">  </span><span class="nv">year</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="nv">$movie</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>awk<span class="w"> </span><span class="s1">&#39;{print $(NF-1)}&#39;</span><span class="k">)</span>
-<span class="linenos">38</span><span class="w">  </span><span class="nv">movie</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="nv">$movie</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>awk<span class="w"> </span><span class="s1">&#39;{$NF=&quot;&quot;; $(NF-1)=&quot;&quot;; print}&#39;</span><span class="k">)</span>
-<span class="linenos">39</span><span class="w">  </span><span class="nv">movie</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$movie</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>sed<span class="w"> </span><span class="s2">&quot;s/’/&#39;/g&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>perl<span class="w"> </span>-CS<span class="w"> </span>-MUnicode::Normalize<span class="w"> </span>-pe<span class="w"> </span><span class="s1">&#39;$_ = NFD($_); s/\pM//g&#39;</span><span class="k">)</span><span class="w">  </span><span class="c1"># Fancy apostrophe --&gt; normal apostrophe and no accents</span>
-<span class="linenos">40</span>
-<span class="linenos">41</span><span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="o">((</span><span class="w"> </span><span class="nv">$debug</span><span class="w"> </span><span class="o">))</span><span class="p">;</span><span class="w"> </span><span class="k">then</span>
-<span class="linenos">42</span><span class="w">   </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$movie</span><span class="s2"> </span><span class="nv">$year</span><span class="s2"> </span><span class="nv">$URL</span><span class="s2">&quot;</span>
-<span class="linenos">43</span><span class="w">   </span><span class="nb">echo</span><span class="w"> </span>curl<span class="w"> </span>-s<span class="w"> </span><span class="se">\&quot;</span><span class="s2">&quot;http://www.omdbapi.com/?t=</span><span class="k">$(</span><span class="nb">printf</span><span class="w"> </span><span class="s1">&#39;%s&#39;</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$movie</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>sed<span class="w"> </span><span class="s1">&#39;s/ /%20/g&#39;</span><span class="k">)</span><span class="s2">&amp;y=</span><span class="nv">$year</span><span class="s2">&amp;apikey=</span><span class="nv">$APIKEY</span><span class="s2">&quot;</span><span class="se">\&quot;</span>
-<span class="linenos">44</span><span class="w">  </span><span class="k">fi</span>
-<span class="linenos">45</span><span class="w">  </span><span class="nv">json</span><span class="o">=</span><span class="k">$(</span>curl<span class="w"> </span>-s<span class="w"> </span><span class="s2">&quot;http://www.omdbapi.com/?t=</span><span class="k">$(</span><span class="nb">printf</span><span class="w"> </span><span class="s1">&#39;%s&#39;</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$movie</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>sed<span class="w"> </span><span class="s1">&#39;s/ /%20/g&#39;</span><span class="k">)</span><span class="s2">&amp;y=</span><span class="nv">$year</span><span class="s2">&amp;apikey=</span><span class="nv">$APIKEY</span><span class="s2">&quot;</span><span class="k">)</span>
-<span class="linenos">46</span><span class="w">  </span><span class="nv">rating</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$json</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>jq<span class="w"> </span>-r<span class="w"> </span><span class="s1">&#39;.imdbRating // &quot;NA&quot;&#39;</span><span class="k">)</span>
-<span class="linenos">47</span><span class="w">  </span><span class="nv">imdbid</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$json</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>jq<span class="w"> </span>-r<span class="w"> </span><span class="s1">&#39;.imdbID // empty&#39;</span><span class="k">)</span>
-<span class="linenos">48</span><span class="w">  </span><span class="nv">omdbError</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$json</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>jq<span class="w"> </span>-r<span class="w"> </span><span class="s1">&#39;.Error  // empty&#39;</span><span class="k">)</span>
-<span class="linenos">49</span><span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="o">[</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$rating</span><span class="s2">&quot;</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">&quot;N/A&quot;</span><span class="w"> </span><span class="o">]</span><span class="p">;</span><span class="w"> </span><span class="k">then</span>
-<span class="linenos">50</span><span class="w">   </span><span class="nv">movie</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$movie</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>sed<span class="w"> </span><span class="s2">&quot;s/&amp;/ and /g&quot;</span><span class="k">)</span><span class="w">  </span><span class="c1">#  one &amp; two --&gt; one and two</span>
-<span class="linenos">51</span><span class="w">   </span><span class="nv">json</span><span class="o">=</span><span class="k">$(</span>curl<span class="w"> </span>-s<span class="w"> </span><span class="s2">&quot;http://www.omdbapi.com/?t=</span><span class="k">$(</span><span class="nb">printf</span><span class="w"> </span><span class="s1">&#39;%s&#39;</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$movie</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>sed<span class="w"> </span><span class="s1">&#39;s/ /%20/g&#39;</span><span class="k">)</span><span class="s2">&amp;y=</span><span class="nv">$year</span><span class="s2">&amp;apikey=</span><span class="nv">$APIKEY</span><span class="s2">&quot;</span><span class="k">)</span>
-<span class="linenos">52</span><span class="w">   </span><span class="nv">rating</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$json</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>jq<span class="w"> </span>-r<span class="w"> </span><span class="s1">&#39;.imdbRating // &quot;NA&quot;&#39;</span><span class="k">)</span>
-<span class="linenos">53</span><span class="w">   </span><span class="nv">imdbid</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$json</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>jq<span class="w"> </span>-r<span class="w"> </span><span class="s1">&#39;.imdbID // empty&#39;</span><span class="k">)</span>
-<span class="linenos">54</span><span class="w">  </span><span class="k">fi</span>
-<span class="linenos">55</span><span class="w">  </span>
-<span class="linenos">56</span><span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="o">[[</span><span class="w"> </span>-n<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$omdbError</span><span class="s2">&quot;</span><span class="w"> </span><span class="o">]]</span><span class="p">;</span><span class="w"> </span><span class="k">then</span>
-<span class="linenos">57</span><span class="w">   </span><span class="k">if</span><span class="w"> </span><span class="o">[[</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$omdbError</span><span class="s2">&quot;</span><span class="w"> </span><span class="o">==</span><span class="w"> </span>*<span class="s2">&quot;not found&quot;</span>*<span class="w"> </span><span class="o">]]</span><span class="p">;</span><span class="w"> </span><span class="k">then</span>
-<span class="linenos">58</span><span class="w">    </span><span class="nv">json</span><span class="o">=</span><span class="k">$(</span>curl<span class="w"> </span>-s<span class="w"> </span><span class="s2">&quot;http://www.omdbapi.com/?t=</span><span class="k">$(</span><span class="nb">printf</span><span class="w"> </span><span class="s1">&#39;%s&#39;</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$movie</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>sed<span class="w"> </span><span class="s1">&#39;s/ /%20/g&#39;</span><span class="k">)</span><span class="s2">&amp;apikey=</span><span class="nv">$APIKEY</span><span class="s2">&quot;</span><span class="k">)</span>
-<span class="linenos">59</span><span class="w">    </span><span class="nv">rating</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$json</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>jq<span class="w"> </span>-r<span class="w"> </span><span class="s1">&#39;.imdbRating // &quot;NA&quot;&#39;</span><span class="k">)</span>
-<span class="linenos">60</span><span class="w">    </span><span class="nv">imdbid</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$json</span><span class="s2">&quot;</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>jq<span class="w"> </span>-r<span class="w"> </span><span class="s1">&#39;.imdbID // empty&#39;</span><span class="k">)</span>
-<span class="linenos">61</span><span class="w">   </span><span class="k">else</span>
-<span class="linenos">62</span><span class="w">   </span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;OMDb API error: </span><span class="nv">$omdbError</span><span class="s2">  :  </span><span class="nv">$movie</span><span class="s2"> </span><span class="nv">$URL</span><span class="s2">&quot;</span>
-<span class="linenos">63</span><span class="w">   </span><span class="k">fi</span>
-<span class="linenos">64</span><span class="w">  </span><span class="k">fi</span>
-<span class="linenos">65</span>
-<span class="linenos">66</span>
-<span class="linenos">67</span><span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="o">[[</span><span class="w"> </span>-n<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$imdbid</span><span class="s2">&quot;</span><span class="w"> </span><span class="o">]]</span><span class="p">;</span><span class="w"> </span><span class="k">then</span>
-<span class="linenos">68</span><span class="w">    </span><span class="nv">imdb_link</span><span class="o">=</span><span class="s2">&quot;https://www.imdb.com/title/</span><span class="nv">$imdbid</span><span class="s2">/&quot;</span>
-<span class="linenos">69</span><span class="w">  </span><span class="k">else</span>
-<span class="linenos">70</span><span class="w">    </span><span class="nv">imd_link</span><span class="o">=</span><span class="s2">&quot;NA&quot;</span>
-<span class="linenos">71</span><span class="w">  </span><span class="k">fi</span>
-<span class="linenos">72</span>
-<span class="linenos">73</span>
-<span class="linenos">74</span><span class="w">  </span><span class="nb">printf</span><span class="w"> </span><span class="s2">&quot;%-6s  %-70s  %-6s  %-50s  %s\n&quot;</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$rating</span><span class="s2">&quot;</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$movie</span><span class="s2">&quot;</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$year</span><span class="s2">&quot;</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$imdb_link</span><span class="s2">&quot;</span><span class="w">  </span><span class="s2">&quot;</span><span class="nv">$URL</span><span class="s2">&quot;</span>
-<span class="linenos">75</span>
-<span class="linenos">76</span><span class="w">  </span><span class="c1"># Print in CSV format</span>
-<span class="linenos">77</span><span class="w">  </span><span class="c1">#csv_escape() { printf &#39;%s&#39; &quot;$1&quot; | sed &#39;s/&quot;/&quot;&quot;/g&#39;; }</span>
-<span class="linenos">78</span><span class="w">  </span><span class="c1">#printf &#39;%s,&quot;%s&quot;,%s,%s,%s\n&#39;     &quot;$rating&quot;     &quot;$(csv_escape &quot;$movie&quot;)&quot;     &quot;$year&quot;     &quot;$imdb_link&quot;     &quot;$URL&quot;</span>
-<span class="linenos">79</span><span class="k">done</span><span class="w"> </span>&lt;<span class="w"> </span><span class="nv">$list</span>
-</pre></div>
-</div>
-<section id="id1">
-<h3>Example<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>./imdb-rating_omdbapi.sh<span class="w"> </span>../data/list_Cult_Movies.txt
-</pre></div>
-</div>
-<p>The list above was originally generated with</p>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="w"> </span>./imdb-rating.sh<span class="w"> </span>--getlist<span class="w"> </span>https://www.netflix.com/browse/genre/7627<span class="w"> </span>&gt;<span class="w"> </span>../data/list_Cult_Movies.txt
-</pre></div>
-</div>
-</section>
-</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -697,11 +497,11 @@ NA<span class="w">      </span><span class="s2">&quot;Bad Education: Directors C
       </div>
     </a>
     <a class="right-next"
-       href="horror.html"
+       href="scripts.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Horror Movies on Netflix</p>
+        <p class="prev-next-title">Scripts</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -722,14 +522,6 @@ NA<span class="w">      </span><span class="s2">&quot;Bad Education: Directors C
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pipeline-overview">🎬 Pipeline Overview</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#scripts-overview">🛠 Scripts Overview</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#rate-them-all-imdb-sh">rate_them_all_IMDb.sh</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#example">Example</a></li>
-</ul>
-</li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#imdb-rating-omdbapi-sh">imdb-rating_omdbapi.sh</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Example</a></li>
-</ul>
-</li>
 </ul>
   </nav></div>
 
