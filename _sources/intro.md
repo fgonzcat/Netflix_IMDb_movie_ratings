@@ -12,9 +12,9 @@
 This project combines **Netflix movie categories** with **IMDb ratings** to produce
 clean, ranked movie lists you can browse — or generate yourself.
 
-> [!NOTE]
-> Everything you see here is **automatically generated** from publicly available data  
-> using simple, transparent shell scripts.
+```{note}
+ Everything you see here is **automatically generated** from publicly available data  using simple, transparent shell scripts.
+```
 
 ---
 
@@ -34,9 +34,9 @@ Because I got tired of manually searching every Netflix movie on the internet ju
 So I automated it.
 
 
-> [!TIP]
-> If you’re curious *how* these lists are made, check the **“How it works”** section  
-> and run the scripts locally on your own machine.
+```{tip}
+ If you’re curious *how* these lists are made, check the **“How it works”** section   and run the scripts locally on your own machine.
+```
 
 ---
 
