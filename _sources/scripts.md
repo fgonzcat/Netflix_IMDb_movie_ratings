@@ -1,14 +1,42 @@
 # Scripts
+This page documents the shell scripts used to generate all movie lists on this site.
+All scripts are intentionally simple and self-contained, so you can read, modify,
+and run them locally.
 
-Here I provide all the scripts for this project, which you can also find here: https://github.com/fgonzcat/Netfilx_IMDb_movie_ratings/
+📂 **Location**: All scripts live in the `scripts/` directory of the repository  
+🔗 **Repository**: https://github.com/fgonzcat/Netfilx_IMDb_movie_ratings/
+
+
 
 ## rate_them_all_IMDb.sh
-```{literalinclude} ../scripts/rate_them_all_IMDb.sh
-:language: bash
-:linenos:
-```
+This is the **main pipeline script**.  
+Given a Netflix genre URL, it:
 
-### Example
+1. Scrapes Netflix for all movie titles in that category
+2. Extracts movie titles and release years
+3. Queries IMDb ratings via the OMDb API
+4. Produces a ranked list with IMDb and Netflix links
+
+In short: **Netflix genre -> IMDb-ranked movie list**.
+
+### Usage
+
+```bash
+./rate_them_all_IMDb.sh <NETFLIX_GENRE_URL>
+```
+### Examples
+```bash
+# Horror movies
+./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/8711
+
+# Cult movies
+./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/7627
+```
+The script prints progress to stdout and writes the resulting data files
+to the data/ directory.
+
+You will see an output like this:
+
 ```bash
 $ ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/7627
 
@@ -43,7 +71,22 @@ NA      "Bad Education: Directors Cut"                                          
 2.5     "Battlefield Earth"                                                     2000    https://www.imdb.com/title/tt0185183/               https://www.netflix.com/title/60000872
 8.0     "Donnie Darko"                                                          2001    https://www.imdb.com/title/tt0246578/               https://www.netflix.com/title/60022315
 ```
-See the resulting nicer list in [Cult Movies list](cult).
+
+
+---
+
+```{literalinclude} ../scripts/rate_them_all_IMDb.sh
+:language: bash
+:linenos:
+```
+
+
+
+
+```{note}
+👉 See the formatted result in the   [**Cult Movies list**](cult).
+```
+
 
 ## imdb-rating_omdbapi.sh
 

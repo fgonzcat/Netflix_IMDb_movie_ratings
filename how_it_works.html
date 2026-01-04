@@ -402,7 +402,7 @@ document.write(`
   <section class="tex2jax_ignore mathjax_ignore" id="how-this-works">
 <h1>How This Works<a class="headerlink" href="#how-this-works" title="Permalink to this heading">#</a></h1>
 <p>This page explains how I generated the movie lists on this site from Netflix and IMDb data.
-All scripts are included in this repository, so you can reproduce or update the lists yourself.</p>
+All scripts are included in this repository, so you can reproduce or update the lists yourself. Just look at the icon above <a class="github reference external" href="https://github.com/fgonzcat/Netfilx_IMDb_movie_ratings/">fgonzcat/Netfilx_IMDb_movie_ratings</a></p>
 <hr class="docutils" />
 <section id="where-the-data-comes-from">
 <h2>🔍 Where the data comes from<a class="headerlink" href="#where-the-data-comes-from" title="Permalink to this heading">#</a></h2>
@@ -415,7 +415,7 @@ Netflix exposes genre-based browsing pages such as:</p>
 </div>
 <p>These pages list all movies currently available in a given category (e.g. Horror Movies). Read more <a class="reference external" href="https://www.netflix-codes.com">here</a>.</p>
 </li>
-<li><p><strong>IMDb ratings, accessed via the OMDb API</strong>
+<li><p><strong>IMDb ratings, accessed via the OMDb API</strong><br />
 IMDb does not provide a free public API directly. Instead, this project uses OMDb (Open Movie Database), a community-maintained API that mirrors IMDb data.</p></li>
 </ol>
 </section>
@@ -430,7 +430,7 @@ IMDb does not provide a free public API directly. Instead, this project uses OMD
 <section id="how-to-get-an-omdb-api-key">
 <h3>How to get an OMDb API key<a class="headerlink" href="#how-to-get-an-omdb-api-key" title="Permalink to this heading">#</a></h3>
 <ol class="arabic">
-<li><p>Go to: <code class="docutils literal notranslate"><span class="pre">https://www.omdbapi.com/</span></code></p></li>
+<li><p>Go to:  <a href="https://www.omdbapi.com/" target="_blank">https://www.omdbapi.com/</a></p></li>
 <li><p>Click “API Key”</p></li>
 <li><p>Request a free key (email-based)</p></li>
 <li><p>You’ll receive a key like:</p>
@@ -447,6 +447,11 @@ IMDb does not provide a free public API directly. Instead, this project uses OMD
 </pre></div>
 </div>
 <p>You must replace this key in the variable <code class="docutils literal notranslate"><span class="pre">APIKEY</span></code> of the <code class="docutils literal notranslate"><span class="pre">imdb-rating_omdbapi.sh</span></code> script.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>A <strong>free OMDb API key</strong> is limited to <strong>1,000 requests per day</strong>.</p>
+<p>If you end up querying ratings for more than ~1,000 movies in a single day, you may hit this limit. In that case, you can request an additional free key using a different email address and replace it in the <code class="docutils literal notranslate"><span class="pre">imdb-rating_omdbapi.sh</span></code> script.</p>
+</div>
 </section>
 </section>
 <hr class="docutils" />
@@ -515,12 +520,11 @@ Each list corresponds to a Netflix genre URL, for example:</p>
 </pre></div>
 </div>
 </li>
-<li><p><strong>Run the main script</strong>:</p></li>
-</ol>
+<li><p><strong>Run the main script</strong>:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">./</span><span class="n">rate_them_all_IMDb</span><span class="o">.</span><span class="n">sh</span> <span class="o">&lt;</span><span class="n">Netflix</span><span class="o">-</span><span class="n">genre</span><span class="o">-</span><span class="n">URL</span><span class="o">&gt;</span>
 </pre></div>
 </div>
-<ol class="arabic" start="3">
+</li>
 <li><p><strong>Example</strong></p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">./</span><span class="n">rate_them_all_IMDb</span><span class="o">.</span><span class="n">sh</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">www</span><span class="o">.</span><span class="n">netflix</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">browse</span><span class="o">/</span><span class="n">genre</span><span class="o">/</span><span class="mi">8711</span>
 </pre></div>
@@ -531,16 +535,16 @@ Each list corresponds to a Netflix genre URL, for example:</p>
 <h3>⚙️ What the scripts actually do<a class="headerlink" href="#what-the-scripts-actually-do" title="Permalink to this heading">#</a></h3>
 <p>The main script proceeds in several steps:</p>
 <ul class="simple">
-<li><p>📥 Scrape Netflix
+<li><p>📥 Scrape Netflix<br />
 Uses <code class="docutils literal notranslate"><span class="pre">wget</span></code> to download the genre page HTML and extract movie titles.</p></li>
-<li><p>🔎 Query OMDb
+<li><p>🔎 Query OMDb<br />
 For each title, the script:</p>
 <ul>
 <li><p>Calls the OMDb API</p></li>
 <li><p>Retrieves IMDb rating, year, and IMDb ID</p></li>
 </ul>
 </li>
-<li><p>🧾 Generate raw data
+<li><p>🧾 Generate raw data<br />
 Outputs a plain text file in the data/ directory containing:</p>
 <ul>
 <li><p>IMDb rating</p></li>

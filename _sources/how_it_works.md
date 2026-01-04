@@ -1,7 +1,7 @@
 # How This Works
 
 This page explains how I generated the movie lists on this site from Netflix and IMDb data.
-All scripts are included in this repository, so you can reproduce or update the lists yourself.
+All scripts are included in this repository, so you can reproduce or update the lists yourself. Just look at the icon above https://github.com/fgonzcat/Netfilx_IMDb_movie_ratings/
 
 
 ---
@@ -14,7 +14,7 @@ This project combines two public data sources:
    https://www.netflix.com/browse/genre/8711
    ```
    These pages list all movies currently available in a given category (e.g. Horror Movies). Read more [here](https://www.netflix-codes.com).
-2. **IMDb ratings, accessed via the OMDb API**
+2. **IMDb ratings, accessed via the OMDb API**  
    IMDb does not provide a free public API directly. Instead, this project uses OMDb (Open Movie Database), a community-maintained API that mirrors IMDb data.
 
 ---
@@ -26,7 +26,7 @@ OMDb is free for personal use, but **you must request your own API key**.
 ```
 
 ### How to get an OMDb API key
-1. Go to: `https://www.omdbapi.com/`
+1. Go to:  <a href="https://www.omdbapi.com/" target="_blank">https://www.omdbapi.com/</a>
 2. Click “API Key”
 3. Request a free key (email-based)
 4. You’ll receive a key like:
@@ -40,6 +40,12 @@ The script `imdb-rating_omdbapi.sh` makes requests like:
 http://www.omdbapi.com/?t=Movie+Title&apikey=YOUR_KEY
 ```
 You must replace this key in the variable `APIKEY` of the `imdb-rating_omdbapi.sh` script.
+
+```{warning}
+A **free OMDb API key** is limited to **1,000 requests per day**.
+
+If you end up querying ratings for more than ~1,000 movies in a single day, you may hit this limit. In that case, you can request an additional free key using a different email address and replace it in the `imdb-rating_omdbapi.sh` script.
+```
 
 ---
 
@@ -112,10 +118,10 @@ Once the OMDb key is available, the full workflow looks like this:
    ```
    https://www.netflix.com/browse/genre/8711
    ```
-2. **Run the main script**: 
-```
-./rate_them_all_IMDb.sh <Netflix-genre-URL>
-```
+2. **Run the main script**:
+   ```
+   ./rate_them_all_IMDb.sh <Netflix-genre-URL>
+   ```
 3. **Example**
    ```
    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/8711
@@ -124,13 +130,13 @@ Once the OMDb key is available, the full workflow looks like this:
 ### ⚙️ What the scripts actually do
 The main script proceeds in several steps:
 
-- 📥 Scrape Netflix
-  Uses `wget` to download the genre page HTML and extract movie titles.
-- 🔎 Query OMDb
+- 📥 Scrape Netflix  
+   Uses `wget` to download the genre page HTML and extract movie titles.
+- 🔎 Query OMDb  
   For each title, the script:
   - Calls the OMDb API
   - Retrieves IMDb rating, year, and IMDb ID
-- 🧾 Generate raw data
+- 🧾 Generate raw data  
   Outputs a plain text file in the data/ directory containing:
   - IMDb rating
   - Movie title
