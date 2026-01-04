@@ -29,7 +29,7 @@ clean, ranked movie lists you can browse — or generate yourself.
 
 ## Why this exists
 
-Because I got tired of manually searching every Netflix movie on the internet just to find its IMDb rating.
+Because I got tired of manually searching every Netflix movie on the internet just to find its IMDb rating before deciding what to watch.
 
 So I automated it.
 
