@@ -1,7 +1,7 @@
 # How This Works
 
 This page explains how I generated the movie lists on this site from Netflix and IMDb data.
-All scripts are included in this repository, so you can reproduce or update the lists yourself.
+All scripts are included in this repository, so you can reproduce or update the lists yourself. Just look at the icon above https://github.com/fgonzcat/Netfilx_IMDb_movie_ratings/
 
 
 ---
@@ -40,6 +40,12 @@ The script `imdb-rating_omdbapi.sh` makes requests like:
 http://www.omdbapi.com/?t=Movie+Title&apikey=YOUR_KEY
 ```
 You must replace this key in the variable `APIKEY` of the `imdb-rating_omdbapi.sh` script.
+
+```{warning}
+A **free OMDb API key** is limited to **1,000 requests per day**.
+
+If you end up querying ratings for more than ~1,000 movies in a single day, you may hit this limit. In that case, you can request an additional free key using a different email address and replace it in the `imdb-rating_omdbapi.sh` script.
+```
 
 ---
 
