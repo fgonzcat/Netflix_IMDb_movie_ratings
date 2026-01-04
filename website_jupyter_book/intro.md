@@ -35,7 +35,7 @@ So I automated it.
 
 
 ```{tip}
- If you’re curious *how* these lists are made, check the **“How it works”** section   and run the scripts locally on your own machine.
+ If you’re curious *how* these lists are made, check the [**“How it works”**](how_it_works) section   and run the scripts locally on your own machine.
 ```
 
 ---
@@ -44,7 +44,7 @@ So I automated it.
 
 - Use the **menu on the left** to browse movie categories  
 - Click any IMDb or Netflix link to explore further  
-- Explore **“How it works”** to learn how to recreate everything yourself
+- Explore [**“How it works”**](how_it_works) to learn how to recreate everything yourself
 
 ---
 
