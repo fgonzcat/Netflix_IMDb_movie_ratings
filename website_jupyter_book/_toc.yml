@@ -4,10 +4,15 @@
 format: jb-book
 root: intro
 
-chapters:
-  - file: horror
-  - file: comedy
-  - file: action
-  - file: thrillers
-  - file: scifi
-  - file: lgbtq
+parts:
+  - caption: About this project
+    chapters:
+      - file: how_it_works
+      - file: scripts 
+
+  - caption: Movie categories
+    chapters:
+      - file: horror
+      - file: comedy
+      - file: cult
+      - file: sci_fi
