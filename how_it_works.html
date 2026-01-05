@@ -175,8 +175,9 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Movie categories</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="action_comedy.html">Action Comedy Movies on Netflix</a></li>
 <li class="toctree-l1"><a class="reference internal" href="action_adventure.html">Action &amp; Adventure Movies on Netflix</a></li>
+<li class="toctree-l1"><a class="reference internal" href="action_comedy.html">Action Comedy Movies on Netflix</a></li>
+<li class="toctree-l1"><a class="reference internal" href="action_thrillers.html">Action-Thrillers on Netflix</a></li>
 <li class="toctree-l1"><a class="reference internal" href="comedy.html">Comedy Movies on Netflix</a></li>
 <li class="toctree-l1"><a class="reference internal" href="cult.html">Cult Movies on Netflix</a></li>
 <li class="toctree-l1"><a class="reference internal" href="korean.html">Korean Movies on Netflix</a></li>
@@ -448,7 +449,7 @@ IMDb does not provide a free public API directly. Instead, this project uses OMD
 <section id="where-the-key-is-used">
 <h3>Where the key is used<a class="headerlink" href="#where-the-key-is-used" title="Permalink to this heading">#</a></h3>
 <p>The script <code class="docutils literal notranslate"><span class="pre">imdb-rating_omdbapi.sh</span></code> makes requests like:</p>
-<div class="highlight-ruby notranslate"><div class="highlight"><pre><span></span><span class="ss">http</span><span class="p">:</span><span class="sr">//</span><span class="n">www</span><span class="o">.</span><span class="n">omdbapi</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="sc">?t</span><span class="o">=</span><span class="no">Movie</span><span class="o">+</span><span class="no">Title</span><span class="o">&amp;</span><span class="n">apikey</span><span class="o">=</span><span class="no">YOUR_KEY</span>
+<div class="highlight-ruby notranslate"><div class="highlight"><pre><span></span><span class="ss">http</span><span class="p">:</span><span class="sr">//</span><span class="n">www</span><span class="o">.</span><span class="n">omdbapi</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="sc">?t</span><span class="o">=</span><span class="no">MOVIE_TITLE</span><span class="o">&amp;</span><span class="n">y</span><span class="o">=</span><span class="no">YEAR</span><span class="o">&amp;</span><span class="n">apikey</span><span class="o">=</span><span class="no">YOUR_KEY</span>
 </pre></div>
 </div>
 <p>You must replace this key in the variable <code class="docutils literal notranslate"><span class="pre">APIKEY</span></code> of the <code class="docutils literal notranslate"><span class="pre">imdb-rating_omdbapi.sh</span></code> script.</p>

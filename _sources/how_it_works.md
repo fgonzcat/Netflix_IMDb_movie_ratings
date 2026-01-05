@@ -37,7 +37,7 @@ OMDb is free for personal use, but **you must request your own API key**.
 ### Where the key is used
 The script `imdb-rating_omdbapi.sh` makes requests like:
 ```ruby
-http://www.omdbapi.com/?t=Movie+Title&apikey=YOUR_KEY
+http://www.omdbapi.com/?t=MOVIE_TITLE&y=YEAR&apikey=YOUR_KEY
 ```
 You must replace this key in the variable `APIKEY` of the `imdb-rating_omdbapi.sh` script.
 
