@@ -72,8 +72,12 @@ NA      "Bad Education: Directors Cut"                                          
 8.0     "Donnie Darko"                                                          2001    https://www.imdb.com/title/tt0246578/               https://www.netflix.com/title/60022315
 ```
 
+```{note}
+👉 See the formatted result in the   [**Cult Movies list**](cult).
+```
 
----
+
+### Source code
 
 ```{literalinclude} ../scripts/rate_them_all_IMDb.sh
 :language: bash
@@ -82,17 +86,28 @@ NA      "Bad Education: Directors Cut"                                          
 
 
 
+---
 
-```{note}
-👉 See the formatted result in the   [**Cult Movies list**](cult).
-```
 
 
 ## imdb-rating_omdbapi.sh
 
-```{literalinclude} ../scripts/imdb-rating_omdbapi.sh
-:language: bash
-:linenos:
+This script queries **IMDb ratings via the OMDb API**.
+
+It takes a plain text list of movies (title + year) and appends:
+- IMDb rating
+- IMDb URL
+- Netflix URL (if available)
+
+```{warning}
+⚠️ This script requires a valid **OMDb API key**, which is currently hardcoded
+inside the script.
+```
+
+### Usage
+
+```bash
+./imdb-rating_omdbapi.sh <MOVIE_LIST_FILE>
 ```
 
 ### Example
@@ -100,8 +115,113 @@ NA      "Bad Education: Directors Cut"                                          
 ./imdb-rating_omdbapi.sh ../data/list_Cult_Movies.txt
 ```
 
-The list above was originally generated with
+The input movie list is usually generated with:
 
 ```bash
- ./imdb-rating.sh --getlist https://www.netflix.com/browse/genre/7627 > ../data/list_Cult_Movies.txt
+./imdb-rating.sh --getlist https://www.netflix.com/browse/genre/7627  ../data/list_Cult_Movies.txt
 ```
+
+
+
+### Source code
+```bash
+#######################################################################
+#  Get the IMDb rating for a list of movies on Netflix                #
+#######################################################################
+#!/usr/bin/env bash
+
+debug=0
+if [ -z $1 ] ; then
+ echo "Provide a file with movie names in each row [Berkeley 02-22-20]"
+ echo ""
+ echo "EXAMPLES"
+ echo "Usage: $0  list.txt                                                           # A file with a list of movie titles"
+ echo ""
+ echo "The file list.txt must be formatted in colums like this (double quotes included):"
+ echo "\"Frankenstein\"                                                          2025    https://www.netflix.com/title/81507921"
+ echo "\"Clown\"                                                                 2014    https://www.netflix.com/title/80081152"
+ echo "\"Veronica\"                                                              2017    https://www.netflix.com/title/80109295"
+ echo "\"Viking Wolf\"                                                           2022    https://www.netflix.com/title/81338873"
+ echo "\"Viral\"                                                                 2016    https://www.netflix.com/title/80076415"
+ echo "\"We Have a Ghost\"                                                       2023    https://www.netflix.com/title/80230619"
+ echo "\"What Lies Beneath\"                                                     2000    https://www.netflix.com/title/60001396"
+ exit
+elif [ "$2" == "--debug" ]; then
+ debug=1
+fi
+
+
+APIKEY="1a8c9011"
+#APIKEY="d7e16fa4"
+#APIKEY="b79f4081"
+#APIKEY="ed6cc44c"
+
+list=$1                         #  Input file as first variable
+# $list  must look like this:
+#    #List of moves in genre "Cult Movies" :  https://www.netflix.com/browse/genre/7627
+#    
+#    "Bad Trip"                                          2021    https://www.netflix.com/title/81287254
+#    "Bad Education: Directors Cut"                      2023    https://www.netflix.com/title/81713692
+#    "Christine"                                         1983    https://www.netflix.com/title/70007667
+#    "Battlefield Earth"                                 2000    https://www.netflix.com/title/60000872
+
+
+
+while IFS= read -r movie; do
+  [[ -z "$movie" || "$movie" != *title* ]] && continue
+  URL=$(echo $movie | awk '{print $NF}')
+  year=$(echo $movie | awk '{print $(NF-1)}')
+  movie=$(echo $movie | awk '{$NF=""; $(NF-1)=""; print}')
+  movie=$(echo "$movie" | sed "s/’/'/g" | perl -CS -MUnicode::Normalize -pe '$_ = NFD($_); s/\pM//g')  # Fancy apostrophe --> normal apostrophe and no accents
+
+  if (( $debug )); then
+   echo "$movie $year $URL"
+   echo curl -s \""http://www.omdbapi.com/?t=$(printf '%s' "$movie" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY"\"
+  fi
+  json=$(curl -s "http://www.omdbapi.com/?t=$(printf '%s' "$movie" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY")
+  rating=$(echo "$json" | jq -r '.imdbRating // "NA"')
+  imdbid=$(echo "$json" | jq -r '.imdbID // empty')
+  omdbError=$(echo "$json" | jq -r '.Error  // empty')
+  if [ "$rating" == "N/A" ]; then
+   movie=$(echo "$movie" | sed "s/&/ and /g")  #  one & two --> one and two
+   json=$(curl -s "http://www.omdbapi.com/?t=$(printf '%s' "$movie" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY")
+   rating=$(echo "$json" | jq -r '.imdbRating // "NA"')
+   imdbid=$(echo "$json" | jq -r '.imdbID // empty')
+  fi
+  
+  if [[ -n "$omdbError" ]]; then
+   if [[ "$omdbError" == *"not found"* ]]; then
+    json=$(curl -s "http://www.omdbapi.com/?t=$(printf '%s' "$movie" | sed 's/ /%20/g')&apikey=$APIKEY")
+    rating=$(echo "$json" | jq -r '.imdbRating // "NA"')
+    imdbid=$(echo "$json" | jq -r '.imdbID // empty')
+   else
+   echo "OMDb API error: $omdbError  :  $movie $URL"
+   fi
+  fi
+
+
+  if [[ -n "$imdbid" ]]; then
+    imdb_link="https://www.imdb.com/title/$imdbid/"
+  else
+    imd_link="NA"
+  fi
+
+
+  printf "%-6s  %-70s  %-6s  %-50s  %s\n" "$rating" "$movie" "$year" "$imdb_link"  "$URL"
+
+  # Print in CSV format
+  #csv_escape() { printf '%s' "$1" | sed 's/"/""/g'; }
+  #printf '%s,"%s",%s,%s,%s\n'     "$rating"     "$(csv_escape "$movie")"     "$year"     "$imdb_link"     "$URL"
+done < $list
+```
+
+## Command reference
+
+### Get a list of movies from a Netflix genre
+```bash
+./imdb-rating.sh --getlist <NETFLIX_GENRE_URL>
+```
+
+
+
+

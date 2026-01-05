@@ -65,7 +65,8 @@ const thebe_selector_output = ".output, .cell_output"
     <script>DOCUMENTATION_OPTIONS.pagename = 'horror';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="prev" title="Cult Movies on Netflix" href="cult.html" />
+    <link rel="next" title="Cult Movies on Netflix" href="cult.html" />
+    <link rel="prev" title="Scripts" href="scripts.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -174,8 +175,9 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Movie categories</span></p>
 <ul class="current nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="cult.html">Cult Movies on Netflix</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Horror Movies on Netflix</a></li>
+<li class="toctree-l1"><a class="reference internal" href="cult.html">Cult Movies on Netflix</a></li>
+<li class="toctree-l1"><a class="reference internal" href="comedy.html">Comedy Movies on Netflix</a></li>
 </ul>
 
     </div>
@@ -371,8 +373,11 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#movie-list-sample">🎬 Movie list (sample)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-was-this-list-generated">🔧 How was this list generated?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#movie-list-sample">🎬 Movie list (sample)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#how-this-list-was-generated">🔧 How this list was generated</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#why-this-matters">Why this matters?</a></li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -1379,24 +1384,42 @@ document.write(`
 </tr>
 </tbody>
 </table>
-</section>
 <hr class="docutils" />
-<section id="how-was-this-list-generated">
-<h2>🔧 How was this list generated?<a class="headerlink" href="#how-was-this-list-generated" title="Permalink to this heading">#</a></h2>
-<p>Using the scripts provided in this repository, the list is produced using the following command:</p>
+<section id="how-this-list-was-generated">
+<h3>🔧 How this list was generated<a class="headerlink" href="#how-this-list-was-generated" title="Permalink to this heading">#</a></h3>
+<p>Each movie list on this site is produced <strong>automatically</strong> using the scripts in this repository. Here’s the workflow:</p>
+<ol class="arabic">
+<li><p><strong>Select a Netflix genre</strong>
+For example: <a class="reference external" href="https://www.netflix.com/browse/genre/8711">https://www.netflix.com/browse/genre/8711</a></p></li>
+<li><p><strong>Run the main script</strong></p>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>./rate_them_all_IMDb.sh<span class="w"> </span>https://www.netflix.com/browse/genre/8711
 </pre></div>
 </div>
+</li>
+<li><p><strong>What the script does</strong></p>
 <ul class="simple">
-<li><p><strong>Netflix genre</strong>: <a class="reference external" href="https://www.netflix.com/browse/genre/8711">Essential Horror Flicks (8711)</a></p></li>
-<li><p><strong>Data source</strong>: IMDb (via OMDb API)</p></li>
-<li><p><strong>Generated automatically</strong> using the scripts in this repository</p></li>
+<li><p>Scrapes all available movie titles from the Netflix genre page</p></li>
+<li><p>Retrieves IMDb ratings using the OMDb API</p></li>
+<li><p>Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb</p></li>
 </ul>
-<p>You can get links to the Netflix categories from</p>
+</li>
+<li><p>Optional: Get all Netflix genre URLs</p>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>./imdb-rating.sh<span class="w"> </span>--categories
 </pre></div>
 </div>
-<p>or from <a class="reference external" href="https://www.netflix-codes.com">this link</a>.</p>
+<p>or browse <a class="reference external" href="https://www.netflix-codes.com">this directory of Netflix codes</a>.</p>
+</li>
+</ol>
+</section>
+<section id="why-this-matters">
+<h3>Why this matters?<a class="headerlink" href="#why-this-matters" title="Permalink to this heading">#</a></h3>
+<p>You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.</p>
+</div>
+<hr class="docutils" />
+</section>
 </section>
 </section>
 
@@ -1431,13 +1454,22 @@ document.write(`
                   
 <div class="prev-next-area">
     <a class="left-prev"
-       href="cult.html"
+       href="scripts.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Scripts</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="cult.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
         <p class="prev-next-title">Cult Movies on Netflix</p>
       </div>
+      <i class="fa-solid fa-angle-right"></i>
     </a>
 </div>
                 </footer>
@@ -1454,8 +1486,11 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#movie-list-sample">🎬 Movie list (sample)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-was-this-list-generated">🔧 How was this list generated?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#movie-list-sample">🎬 Movie list (sample)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#how-this-list-was-generated">🔧 How this list was generated</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#why-this-matters">Why this matters?</a></li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
