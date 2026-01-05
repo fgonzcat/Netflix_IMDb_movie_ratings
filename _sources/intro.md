@@ -48,7 +48,6 @@ So I automated it.
 
 ---
 
-This is the github repository for the website: [https://fgonzcat.github.io/Netfilx_IMDb_movie_ratings/intro.html](https://fgonzcat.github.io/Netfilx_IMDb_movie_ratings/intro.html)
 
 Built by [Felipe Gonzalez](https://www.gnm.cl/fgonzalez/)
 
