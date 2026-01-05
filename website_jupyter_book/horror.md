@@ -205,24 +205,35 @@
 
 ---
 
+### 🔧 How this list was generated
 
-## 🔧 How was this list generated?
+Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
 
-Using the scripts provided in this repository, the list is produced using the following command:
+1. **Select a Netflix genre**
+ For example: [https://www.netflix.com/browse/genre/8711](https://www.netflix.com/browse/genre/8711)
 
-```bash
-./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/8711
+3. **Run the main script**
+   ```bash
+   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/8711
+   ```
+
+4. **What the script does**
+   - Scrapes all available movie titles from the Netflix genre page
+   - Retrieves IMDb ratings using the OMDb API
+   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+
+5. Optional: Get all Netflix genre URLs
+   ```bash
+   ./imdb-rating.sh --categories
+   ```
+   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+
+### Why this matters?
+
+You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+
+```{tip}
+💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
 ```
-
-- **Netflix genre**: [Essential Horror Flicks (8711)](https://www.netflix.com/browse/genre/8711)
-- **Data source**: IMDb (via OMDb API)
-- **Generated automatically** using the scripts in this repository
-
-You can get links to the Netflix categories from
-```bash
-./imdb-rating.sh --categories
-```
-
-or from [this link](https://www.netflix-codes.com).
 
 ---
