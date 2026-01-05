@@ -1,12 +1,12 @@
-# Horror Movies on Netflix
+# Essential Horror Flicks on Netflix
 
-Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blank">https://www.netflix.com/browse/genre/8711</a> 
+Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blank">https://www.netflix.com/browse/genre/8711</a>
 
 ## 🎬 Movie list (sample)
 
-
 | IMDb ⭐ | Title | IMDb | Netflix |
 |:-------:|:------|------|---------|
+| 9.9 | *Monster* | <a href="https://www.imdb.com/title/tt37897393/" target="_blank">https://www.imdb.com/title/tt37897393/</a> | <a href="https://www.netflix.com/title/81678617" target="_blank">https://www.netflix.com/title/81678617</a> |
 | 7.8 | *Night of the Living Dead* | <a href="https://www.imdb.com/title/tt0063350/" target="_blank">https://www.imdb.com/title/tt0063350/</a> | <a href="https://www.netflix.com/title/17017662" target="_blank">https://www.netflix.com/title/17017662</a> |
 | 7.6 | *Train to Busan* | <a href="https://www.imdb.com/title/tt5700672/" target="_blank">https://www.imdb.com/title/tt5700672/</a> | <a href="https://www.netflix.com/title/80117824" target="_blank">https://www.netflix.com/title/80117824</a> |
 | 7.6 | *Agak Laen* | <a href="https://www.imdb.com/title/tt28856462/" target="_blank">https://www.imdb.com/title/tt28856462/</a> | <a href="https://www.netflix.com/title/81728111" target="_blank">https://www.netflix.com/title/81728111</a> |
@@ -38,6 +38,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 | 6.4 | *The Babysitter* | <a href="https://www.imdb.com/title/tt4225622/" target="_blank">https://www.imdb.com/title/tt4225622/</a> | <a href="https://www.netflix.com/title/80164456" target="_blank">https://www.netflix.com/title/80164456</a> |
 | 6.4 | *His House* | <a href="https://www.imdb.com/title/tt8508734/" target="_blank">https://www.imdb.com/title/tt8508734/</a> | <a href="https://www.netflix.com/title/81231197" target="_blank">https://www.netflix.com/title/81231197</a> |
 | 6.4 | *El Conde* | <a href="https://www.imdb.com/title/tt21113540/" target="_blank">https://www.imdb.com/title/tt21113540/</a> | <a href="https://www.netflix.com/title/81590652" target="_blank">https://www.netflix.com/title/81590652</a> |
+| 6.4 | *Deadstream* | <a href="https://www.imdb.com/title/tt12788488/" target="_blank">https://www.imdb.com/title/tt12788488/</a> | <a href="https://www.netflix.com/title/82151269" target="_blank">https://www.netflix.com/title/82151269</a> |
 | 6.4 | *Deadstream* | <a href="https://www.imdb.com/title/tt12788488/" target="_blank">https://www.imdb.com/title/tt12788488/</a> | <a href="https://www.netflix.com/title/82151269" target="_blank">https://www.netflix.com/title/82151269</a> |
 | 6.4 | *Creep 2* | <a href="https://www.imdb.com/title/tt3654796/" target="_blank">https://www.imdb.com/title/tt3654796/</a> | <a href="https://www.netflix.com/title/80168161" target="_blank">https://www.netflix.com/title/80168161</a> |
 | 6.3 | *The Sentinel* | <a href="https://www.imdb.com/title/tt0076683/" target="_blank">https://www.imdb.com/title/tt0076683/</a> | <a href="https://www.netflix.com/title/70000813" target="_blank">https://www.netflix.com/title/70000813</a> |
@@ -121,6 +122,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 | 5.2 | *Re/Member* | <a href="https://www.imdb.com/title/tt21250176/" target="_blank">https://www.imdb.com/title/tt21250176/</a> | <a href="https://www.netflix.com/title/81486809" target="_blank">https://www.netflix.com/title/81486809</a> |
 | 5.2 | *Primbon* | <a href="https://www.imdb.com/title/tt28080971/" target="_blank">https://www.imdb.com/title/tt28080971/</a> | <a href="https://www.netflix.com/title/81725776" target="_blank">https://www.netflix.com/title/81725776</a> |
 | 5.2 | *Ghost Lab* | <a href="https://www.imdb.com/title/tt13446126/" target="_blank">https://www.imdb.com/title/tt13446126/</a> | <a href="https://www.netflix.com/title/81306156" target="_blank">https://www.netflix.com/title/81306156</a> |
+| 5.2 | *Devil on Campus: The Larry Ray Story* | <a href="https://www.imdb.com/title/tt32094258/" target="_blank">https://www.imdb.com/title/tt32094258/</a> | <a href="https://www.netflix.com/title/82095231" target="_blank">https://www.netflix.com/title/82095231</a> |
 | 5.2 | *Cadaver* | <a href="https://www.imdb.com/title/tt11284280/" target="_blank">https://www.imdb.com/title/tt11284280/</a> | <a href="https://www.netflix.com/title/81203335" target="_blank">https://www.netflix.com/title/81203335</a> |
 | 5.2 | *Afraid* | <a href="https://www.imdb.com/title/tt24577462/" target="_blank">https://www.imdb.com/title/tt24577462/</a> | <a href="https://www.netflix.com/title/81950625" target="_blank">https://www.netflix.com/title/81950625</a> |
 | 5.1 | *Wish Upon* | <a href="https://www.imdb.com/title/tt5322012/" target="_blank">https://www.imdb.com/title/tt5322012/</a> | <a href="https://www.netflix.com/title/80171120" target="_blank">https://www.netflix.com/title/80171120</a> |
@@ -174,11 +176,13 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 | 3.1 | *Splatter* | <a href="https://www.imdb.com/title/tt1576464/" target="_blank">https://www.imdb.com/title/tt1576464/</a> | <a href="https://www.netflix.com/title/70127998" target="_blank">https://www.netflix.com/title/70127998</a> |
 | 2.8 | *Dark Forces* | <a href="https://www.imdb.com/title/tt12536776/" target="_blank">https://www.imdb.com/title/tt12536776/</a> | <a href="https://www.netflix.com/title/80990348" target="_blank">https://www.netflix.com/title/80990348</a> |
 | 2.7 | *Grizzly II* | <a href="https://www.imdb.com/title/tt0093119/" target="_blank">https://www.imdb.com/title/tt0093119/</a> | <a href="https://www.netflix.com/title/82105447" target="_blank">https://www.netflix.com/title/82105447</a> |
+| 2.7 | *Grizzly II* | <a href="https://www.imdb.com/title/tt0093119/" target="_blank">https://www.imdb.com/title/tt0093119/</a> | <a href="https://www.netflix.com/title/82105447" target="_blank">https://www.netflix.com/title/82105447</a> |
 | 2.6 | *Chandramukhi 2* | <a href="https://www.imdb.com/title/tt12132908/" target="_blank">https://www.imdb.com/title/tt12132908/</a> | <a href="https://www.netflix.com/title/81644300" target="_blank">https://www.netflix.com/title/81644300</a> |
 | NA | *The Redemption of Sin* | <a href="https://www.imdb.com/title/tt2975578/" target="_blank">https://www.imdb.com/title/tt2975578/</a> | <a href="https://www.netflix.com/title/82018121" target="_blank">https://www.netflix.com/title/82018121</a> |
 | NA | *Mononoke The Movie: The Phantom in the Rain* | <a href="https://www.imdb.com/title/tt35301440/" target="_blank">https://www.imdb.com/title/tt35301440/</a> | <a href="https://www.netflix.com/title/81580574" target="_blank">https://www.netflix.com/title/81580574</a> |
 | NA | *Kang Mak from Pee Mak* | <a href="https://www.imdb.com/title/tt13309170/" target="_blank">https://www.imdb.com/title/tt13309170/</a> | <a href="https://www.netflix.com/title/81971170" target="_blank">https://www.netflix.com/title/81971170</a> |
 | NA | *Izla* | <a href="https://www.imdb.com/title/tt18968540/" target="_blank">https://www.imdb.com/title/tt18968540/</a> | <a href="https://www.netflix.com/title/81510752" target="_blank">https://www.netflix.com/title/81510752</a> |
+| NA | *Izla* | <a href="https://www.imdb.com/title/tt0093119/" target="_blank">https://www.imdb.com/title/tt0093119/</a> | <a href="https://www.netflix.com/title/81510752" target="_blank">https://www.netflix.com/title/81510752</a> |
 | NA | *Ile Owo* | <a href="https://www.imdb.com/title/tt4045450/" target="_blank">https://www.imdb.com/title/tt4045450/</a> | <a href="https://www.netflix.com/title/81663120" target="_blank">https://www.netflix.com/title/81663120</a> |
 | NA | *Game Over (Telugu Version)* | <a href="https://www.imdb.com/title/tt1312221/" target="_blank">https://www.imdb.com/title/tt1312221/</a> | <a href="https://www.netflix.com/title/81151878" target="_blank">https://www.netflix.com/title/81151878</a> |
 | NA | *Fear Street Part 3: 1666* | <a href="https://www.imdb.com/title/tt21113540/" target="_blank">https://www.imdb.com/title/tt21113540/</a> | <a href="https://www.netflix.com/title/81334750" target="_blank">https://www.netflix.com/title/81334750</a> |
@@ -204,27 +208,24 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 | N/A | *Cargo* | <a href="https://www.imdb.com/title/tt9715640/" target="_blank">https://www.imdb.com/title/tt9715640/</a> | <a href="https://www.netflix.com/title/80161216" target="_blank">https://www.netflix.com/title/80161216</a> |
 | N/A | *404* | <a href="https://www.imdb.com/title/tt33246585/" target="_blank">https://www.imdb.com/title/tt33246585/</a> | <a href="https://www.netflix.com/title/82020764" target="_blank">https://www.netflix.com/title/82020764</a> |
 
-
----
-
 ### 🔧 How this list was generated
 
 Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
 
-1. **Select a Netflix genre**
+1. **Select a Netflix genre**  
  For example: [https://www.netflix.com/browse/genre/8711](https://www.netflix.com/browse/genre/8711)
 
-3. **Run the main script**
+2. **Run the main script**  
    ```bash
    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/8711
    ```
 
-4. **What the script does**
+3. **What the script does**  
    - Scrapes all available movie titles from the Netflix genre page
    - Retrieves IMDb ratings using the OMDb API
    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
 
-5. Optional: Get all Netflix genre URLs
+4. Optional: Get all Netflix genre URLs
    ```bash
    ./imdb-rating.sh --categories
    ```
