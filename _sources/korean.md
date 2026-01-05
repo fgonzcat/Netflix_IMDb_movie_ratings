@@ -1,5 +1,7 @@
 # Korean Movies on Netflix
 
+Netflix genre: <a href="https://www.netflix.com/browse/genre/5685" target="_blank">https://www.netflix.com/browse/genre/5685</a>
+
 ## 🎬 Movie list (sample)
 
 | IMDb ⭐ | Title | IMDb | Netflix |
