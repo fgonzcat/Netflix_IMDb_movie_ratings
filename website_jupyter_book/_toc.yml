@@ -18,7 +18,9 @@ parts:
       - file: animated_movies
       - file: comedy 
       - file: crime_action_adventure
+      - file: crime_documentaries
       - file: cult
+      - file: dramas 
       - file: korean 
       - file: horror
       - file: scifi 
