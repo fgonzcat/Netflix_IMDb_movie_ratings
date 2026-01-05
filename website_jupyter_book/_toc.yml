@@ -12,7 +12,8 @@ parts:
 
   - caption: Movie categories
     chapters:
-      - file: horror
-      - file: cult
+      - file: action_comedy 
       - file: comedy 
+      - file: cult
       - file: korean 
+      - file: horror
