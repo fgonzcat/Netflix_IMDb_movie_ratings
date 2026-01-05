@@ -41,6 +41,18 @@ http://www.omdbapi.com/?t=Movie+Title&apikey=YOUR_KEY
 ```
 You must replace this key in the variable `APIKEY` of the `imdb-rating_omdbapi.sh` script.
 
+### Query example in OMDb
+Just visiting the URL [http://www.omdbapi.com/?t="Battlefield%20Earth"%20%20&y=2000&apikey=1a8c9011](http://www.omdbapi.com/?t="Battlefield%20Earth"%20%20&y=2000&apikey=1a8c9011) or executing
+```ruby
+curl -s "http://www.omdbapi.com/?t="Battlefield%20Earth"%20%20&y=2000&apikey=1a8c9011"
+```
+in your terminal will show you the following output:
+```text
+{"Title":"Battlefield Earth","Year":"2000","Rated":"PG-13","Released":"12 May 2000","Runtime":"117 min","Genre":"Action, Adventure, Sci-Fi","Director":"Roger Christian","Writer":"Corey Mandell, J.D. Shapiro, L. Ron Hubbard","Actors":"John Travolta, Forest Whitaker, Barry Pepper","Plot":"It's the year 3000 A.D., and the Earth is lost to the alien race of Psychlos. Humanity is enslaved by these gold-thirsty tyrants, who are unaware that their 'man-animals' are about to ignite the rebellion of a lifetime.","Language":"English","Country":"United States, Canada","Awards":"19 wins & 3 nominations total","Poster":"https://m.media-amazon.com/images/M/MV5BODJiODc1NjQtZmRhZS00ZTlmLTlmNTItMmZiZjcxMmU4ZDI2XkEyXkFqcGc@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"2.5/10"},{"Source":"Rotten Tomatoes","Value":"3%"},{"Source":"Metacritic","Value":"9/100"}],"Metascore":"9","imdbRating":"2.5","imdbVotes":"84,567","imdbID":"tt0185183","Type":"movie","DVD":"N/A","BoxOffice":"$21,471,685","Production":"N/A","Website":"N/A","Response":"True"}
+```
+which corresponds to the OMDb details of the movie **Battlefield Earth** that you can see in the URL above, released in the year 2000, using the API key `1a8c9011`.
+
+
 ```{warning}
 A **free OMDb API key** is limited to **1,000 requests per day**.
 
