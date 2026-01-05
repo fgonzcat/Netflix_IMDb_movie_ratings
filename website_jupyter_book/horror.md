@@ -1,5 +1,7 @@
 # Horror Movies on Netflix
 
+Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blank">https://www.netflix.com/browse/genre/8711</a> 
+
 ## 🎬 Movie list (sample)
 
 

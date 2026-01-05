@@ -1,5 +1,7 @@
 # Comedy Movies on Netflix
 
+Netflix genre: <a href="https://www.netflix.com/browse/genre/6548" target="_blank">https://www.netflix.com/browse/genre/6548</a>
+
 ## 🎬 Movie list (sample)
 
 | IMDb ⭐ | Title | IMDb | Netflix |
