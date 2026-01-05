@@ -21,6 +21,7 @@ parts:
       - file: crime_documentaries
       - file: cult
       - file: dramas 
+      - file: independent 
       - file: korean 
       - file: horror
       - file: scifi 
