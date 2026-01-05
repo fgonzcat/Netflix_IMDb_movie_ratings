@@ -15,7 +15,9 @@ parts:
       - file: action_adventure
       - file: action_comedy 
       - file: action_thrillers
+      - file: animated_movies
       - file: comedy 
       - file: cult
       - file: korean 
       - file: horror
+      - file: scifi 
