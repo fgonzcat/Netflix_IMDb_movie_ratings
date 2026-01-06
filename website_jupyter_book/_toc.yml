@@ -29,3 +29,8 @@ parts:
       - file: horror
       - file: scifi 
       - file: thrillers
+
+  - caption: Series 
+    chapters:
+      - file: TV_dramas 
+
