@@ -6,7 +6,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8933" target="_blan
 
 | IMDb ⭐ | Title | IMDb | Netflix |
 |:-------:|:------|------|---------|
-| 9.9 | *Monster* | <a href="https://www.imdb.com/title/tt37897393/" target="_blank">https://www.imdb.com/title/tt37897393/</a> | <a href="https://www.netflix.com/title/81678617" target="_blank">https://www.netflix.com/title/81678617</a> |
 | 8.5 | *Parasite* | <a href="https://www.imdb.com/title/tt6751668/" target="_blank">https://www.imdb.com/title/tt6751668/</a> | <a href="https://www.netflix.com/title/81221938" target="_blank">https://www.netflix.com/title/81221938</a> |
 | 8.5 | *Kaantha* | <a href="https://www.imdb.com/title/tt28508934/" target="_blank">https://www.imdb.com/title/tt28508934/</a> | <a href="https://www.netflix.com/title/81920590" target="_blank">https://www.netflix.com/title/81920590</a> |
 | 8.1 | *Nayattu* | <a href="https://www.imdb.com/title/tt11604676/" target="_blank">https://www.imdb.com/title/tt11604676/</a> | <a href="https://www.netflix.com/title/81457107" target="_blank">https://www.netflix.com/title/81457107</a> |
