@@ -1,0 +1,18 @@
+{
+  "genre": "Sci-Fi",
+  "movies": [
+    {
+      "title": "Blade Runner",
+      "year": 1982,
+      "imdb_rating": 8.1,
+      "netflix_url": "https://www.netflix.com/title/70082907"
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "imdb_rating": 7.9,
+      "netflix_url": "https://www.netflix.com/title/80117799"
+    }
+  ]
+}
+
