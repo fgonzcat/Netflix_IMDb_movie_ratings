@@ -326,6 +326,8 @@ echo "Two-Hour Movies                                    https://www.netflix.com
  shift # This makes $4=$5, $5=$6...
 done
 
+
+# --getlist
 if [ "$listURL" != "" ]; then
  if [[ "$listURL" == *title* ]]; then
   year=$(wget --no-check-certificate -q -O - "$listURL"          | tr '{' '\n'   | grep "latestYear"   | sed -n 's/.*"latestYear":\([0-9]\{4\}\).*/\1/p' )
