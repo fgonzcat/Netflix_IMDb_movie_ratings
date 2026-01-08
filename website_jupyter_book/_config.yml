@@ -32,4 +32,7 @@ html:
   use_repository_button: true
   theme:
     collapse_navigation: false
+  extra_css:
+    - _static/custom.css
+
 

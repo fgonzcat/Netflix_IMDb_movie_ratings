@@ -1,0 +1,10 @@
+/* Light mode (default) */
+.movie-plot {
+  color: #000000;
+}
+
+/* Dark mode */
+html[data-theme="dark"] .movie-plot {
+  color: #e6e6e6;
+}
+

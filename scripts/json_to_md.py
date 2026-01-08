@@ -33,8 +33,8 @@ movies_sorted = sorted(data.get("movies", []), key=sort_key, reverse=True)
 print(f"# {genre_name} Movies on Netflix\n")
 print(f'Netflix genre: <a href="{genre_url}" target="_blank">{genre_url}</a>\n')
 print("## 🎬 Movie list\n")
-print("| IMDb ⭐ | Year | Title | IMDb | Netflix |")
-print("|:-------:|:-------:|:------|------|---------|")
+print("| IMDb ⭐ | Poster | Year | Title | IMDb | Netflix |")
+print("|:-------:|:-------:|:-------:|:------|------|---------|")
 
 # Table rows
 for movie in movies_sorted:
@@ -43,13 +43,17 @@ for movie in movies_sorted:
     imdb_id = movie.get("imdb_id")
     year    = movie.get("year")
     netflix_url = movie.get("netflix_url", "#")
+    image_url   = movie.get("Poster")
+    poster = f'<img src="{image_url}" width="80">'
+    plot        = movie.get("Plot")
     
     #imdb_link = f'<a href="https://www.imdb.com/title/{imdb_id}/" target="_blank">https://www.imdb.com/title/{imdb_id}/</a>' if imdb_id else "N/A"
     #netflix_link = f'<a href="{netflix_url}" target="_blank">{netflix_url}</a>'
-    imdb_link = f'<a href="https://www.imdb.com/title/{imdb_id}/" target="_blank">IMDb_link</a>' if imdb_id else "N/A"
-    netflix_link = f'<a href="{netflix_url}" target="_blank">Netflix_link</a>'
+    imdb_link = f'<a href="https://www.imdb.com/title/{imdb_id}/" target="_blank">IMDb_link</a>' if imdb_id else "N/A"  # Don't display the link, just "IMDb_link"
+    netflix_link = f'<a href="{netflix_url}" target="_blank">Netflix_link</a>'                                          # Don't display the link, just "Netflix_link"
+
     
-    print(f"| {imdb_rating} | {year} | *{title}* | {imdb_link} | {netflix_link} |")
+    print(f'| {imdb_rating} | {poster} | {year} | <details> <summary><strong style="color:#1f6feb;">*{title}*</strong></summary>  <div class="movie-plot">{plot}</div> </details> | {imdb_link} | {netflix_link} |')
 
 
 # Footer with workflow explanation

@@ -27,6 +27,18 @@ NEW_JSON=$(jq -n --argjson arr "$NEW_MOVIES_ARRAY" --arg genre "$GENRE_NAME" --a
 # Eliminate duplicates
 NEW_JSON=$(echo "$NEW_JSON" | jq -r '.movies |= unique_by(.netflix_url)')
 
+# Decide whether to proceed or not (too many titles sometimes)
+N=$(echo "$NEW_JSON" | jq '.movies | length')
+MAX_AUTO=30
+if (( INTERACTIVE )) && (( N > MAX_AUTO )); then
+    printf "\033[33m⚠️  I will analyze %d titles for this genre.\033[0m\n" "$N"
+    read -r -p "Proceed? [y/n] " answer
+    answer=${answer:-Y}  # default Enter = yes
+
+    [[ "$answer" =~ ^[Yy] ]] || exit 10
+fi
+
+
 
 
 
