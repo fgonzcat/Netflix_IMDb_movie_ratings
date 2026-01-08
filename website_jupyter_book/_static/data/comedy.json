@@ -1,0 +1,2001 @@
+{
+  "genre": "comedy",
+  "genre_url": "https://www.netflix.com/browse/genre/6548",
+  "movies": [
+    {
+      "title": "Stripes",
+      "netflix_url": "https://www.netflix.com/title/1008581",
+      "year": "1981",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0083131"
+    },
+    {
+      "title": "As Good as It Gets",
+      "netflix_url": "https://www.netflix.com/title/1181488",
+      "year": "1997",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0119822"
+    },
+    {
+      "title": "Sliding Doors",
+      "netflix_url": "https://www.netflix.com/title/1192903",
+      "year": "1998",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0120148"
+    },
+    {
+      "title": "Ace Ventura: Pet Detective",
+      "netflix_url": "https://www.netflix.com/title/215309",
+      "year": "1994",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0109040"
+    },
+    {
+      "title": "Ace Ventura: When Nature Calls",
+      "netflix_url": "https://www.netflix.com/title/215318",
+      "year": "1995",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0112281"
+    },
+    {
+      "title": "Groundhog Day",
+      "netflix_url": "https://www.netflix.com/title/563104",
+      "year": "1993",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt0107048"
+    },
+    {
+      "title": "Forrest Gump",
+      "netflix_url": "https://www.netflix.com/title/60000724",
+      "year": "1994",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt0109830"
+    },
+    {
+      "title": "Big Momma's House",
+      "netflix_url": "https://www.netflix.com/title/60000879",
+      "year": "2000",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt0208003"
+    },
+    {
+      "title": "Charlie's Angels",
+      "netflix_url": "https://www.netflix.com/title/60003242",
+      "year": "2000",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0160127"
+    },
+    {
+      "title": "The Sandlot",
+      "netflix_url": "https://www.netflix.com/title/60021964",
+      "year": "1993",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0108037"
+    },
+    {
+      "title": "Crossroads",
+      "netflix_url": "https://www.netflix.com/title/60022266",
+      "year": "2002",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt0275022"
+    },
+    {
+      "title": "Mr. Deeds",
+      "netflix_url": "https://www.netflix.com/title/60022992",
+      "year": "2002",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0280590"
+    },
+    {
+      "title": "How to Lose a Guy in 10 Days",
+      "netflix_url": "https://www.netflix.com/title/60026122",
+      "year": "2003",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt0251127"
+    },
+    {
+      "title": "Anger Management",
+      "netflix_url": "https://www.netflix.com/title/60027583",
+      "year": "2003",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0305224"
+    },
+    {
+      "title": "Daddy Day Care",
+      "netflix_url": "https://www.netflix.com/title/60027689",
+      "year": "2003",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0317303"
+    },
+    {
+      "title": "Dr. Seuss' The Cat in the Hat",
+      "netflix_url": "https://www.netflix.com/title/60031264",
+      "year": "2003",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt2235370"
+    },
+    {
+      "title": "Cheaper by the Dozen",
+      "netflix_url": "https://www.netflix.com/title/60031288",
+      "year": "2003",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0349205"
+    },
+    {
+      "title": "Mean Girls",
+      "netflix_url": "https://www.netflix.com/title/60034551",
+      "year": "2004",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0377092"
+    },
+    {
+      "title": "A League of Their Own",
+      "netflix_url": "https://www.netflix.com/title/691124",
+      "year": "1992",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0104694"
+    },
+    {
+      "title": "Kicking & Screaming",
+      "netflix_url": "https://www.netflix.com/title/70021635",
+      "year": "2005",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0384642"
+    },
+    {
+      "title": "Mr. & Mrs. Smith",
+      "netflix_url": "https://www.netflix.com/title/70021641",
+      "year": "2005",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt0356910"
+    },
+    {
+      "title": "Cheaper by the Dozen 2",
+      "netflix_url": "https://www.netflix.com/title/70040690",
+      "year": "2005",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0452598"
+    },
+    {
+      "title": "Big Momma's House 2",
+      "netflix_url": "https://www.netflix.com/title/70041959",
+      "year": "2006",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt0421729"
+    },
+    {
+      "title": "RV",
+      "netflix_url": "https://www.netflix.com/title/70044381",
+      "year": "2006",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0449089"
+    },
+    {
+      "title": "Zoom: Academy for Superheroes",
+      "netflix_url": "https://www.netflix.com/title/70044596",
+      "year": "2006",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Over the Hedge",
+      "netflix_url": "https://www.netflix.com/title/70044882",
+      "year": "2006",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0327084"
+    },
+    {
+      "title": "Pineapple Express",
+      "netflix_url": "https://www.netflix.com/title/70098329",
+      "year": "2008",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0910936"
+    },
+    {
+      "title": "The A-Team",
+      "netflix_url": "https://www.netflix.com/title/70103526",
+      "year": "2010",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0429493"
+    },
+    {
+      "title": "Bride Wars",
+      "netflix_url": "https://www.netflix.com/title/70103758",
+      "year": "2009",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt0901476"
+    },
+    {
+      "title": "The Ugly Truth",
+      "netflix_url": "https://www.netflix.com/title/70103759",
+      "year": "2009",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1142988"
+    },
+    {
+      "title": "Confessions of a Shopaholic",
+      "netflix_url": "https://www.netflix.com/title/70108392",
+      "year": "2009",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt1093908"
+    },
+    {
+      "title": "Planet 51",
+      "netflix_url": "https://www.netflix.com/title/70109891",
+      "year": "2009",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0762125"
+    },
+    {
+      "title": "The Rebound",
+      "netflix_url": "https://www.netflix.com/title/70110613",
+      "year": "2009",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1205535"
+    },
+    {
+      "title": "Cloudy with a Chance of Meatballs",
+      "netflix_url": "https://www.netflix.com/title/70113007",
+      "year": "2009",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0844471"
+    },
+    {
+      "title": "Despicable Me",
+      "netflix_url": "https://www.netflix.com/title/70115629",
+      "year": "2010",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt1323594"
+    },
+    {
+      "title": "Rio",
+      "netflix_url": "https://www.netflix.com/title/70138804",
+      "year": "2011",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt1436562"
+    },
+    {
+      "title": "Just Go With It",
+      "netflix_url": "https://www.netflix.com/title/70140922",
+      "year": "2011",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1564367"
+    },
+    {
+      "title": "Bad Teacher",
+      "netflix_url": "https://www.netflix.com/title/70141587",
+      "year": "2011",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt1284575"
+    },
+    {
+      "title": "30 Minutes or Less",
+      "netflix_url": "https://www.netflix.com/title/70167074",
+      "year": "2011",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt1622547"
+    },
+    {
+      "title": "Friends with Benefits",
+      "netflix_url": "https://www.netflix.com/title/70167075",
+      "year": "2011",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1632708"
+    },
+    {
+      "title": "That's My Boy",
+      "netflix_url": "https://www.netflix.com/title/70220030",
+      "year": "2012",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt1232200"
+    },
+    {
+      "title": "Hit & Run",
+      "netflix_url": "https://www.netflix.com/title/70243445",
+      "year": "2012",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt2150592"
+    },
+    {
+      "title": "Pitch Perfect",
+      "netflix_url": "https://www.netflix.com/title/70244166",
+      "year": "2012",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt1981677"
+    },
+    {
+      "title": "This Is 40",
+      "netflix_url": "https://www.netflix.com/title/70244168",
+      "year": "2012",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt1758830"
+    },
+    {
+      "title": "This Is the End",
+      "netflix_url": "https://www.netflix.com/title/70264796",
+      "year": "2013",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1245492"
+    },
+    {
+      "title": "Despicable Me 2",
+      "netflix_url": "https://www.netflix.com/title/70264803",
+      "year": "2013",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt1690953"
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "netflix_url": "https://www.netflix.com/title/70266676",
+      "year": "2013",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt0993846"
+    },
+    {
+      "title": "Turbo",
+      "netflix_url": "https://www.netflix.com/title/70267728",
+      "year": "2013",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1860353"
+    },
+    {
+      "title": "Mr. Peabody & Sherman",
+      "netflix_url": "https://www.netflix.com/title/70293317",
+      "year": "2014",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0864835"
+    },
+    {
+      "title": "Rio 2",
+      "netflix_url": "https://www.netflix.com/title/70295666",
+      "year": "2014",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt2357291"
+    },
+    {
+      "title": "Sex Tape",
+      "netflix_url": "https://www.netflix.com/title/70301476",
+      "year": "2014",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt1956620"
+    },
+    {
+      "title": "Annie",
+      "netflix_url": "https://www.netflix.com/title/70305931",
+      "year": "2014",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt1823664"
+    },
+    {
+      "title": "The Wedding Ringer",
+      "netflix_url": "https://www.netflix.com/title/80013275",
+      "year": "2015",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0884732"
+    },
+    {
+      "title": "Pitch Perfect 2",
+      "netflix_url": "https://www.netflix.com/title/80025920",
+      "year": "2015",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt2848292"
+    },
+    {
+      "title": "Sleeping with Other People",
+      "netflix_url": "https://www.netflix.com/title/80039069",
+      "year": "2015",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt3165612"
+    },
+    {
+      "title": "The Ridiculous 6",
+      "netflix_url": "https://www.netflix.com/title/80039517",
+      "year": "2015",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt2479478"
+    },
+    {
+      "title": "He Never Died",
+      "netflix_url": "https://www.netflix.com/title/80058460",
+      "year": "2015",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt2386404"
+    },
+    {
+      "title": "The Do-Over",
+      "netflix_url": "https://www.netflix.com/title/80063265",
+      "year": "2016",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt4769836"
+    },
+    {
+      "title": "The Brothers Grimsby",
+      "netflix_url": "https://www.netflix.com/title/80079256",
+      "year": "2016",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt3381008"
+    },
+    {
+      "title": "Ghostbusters: Answer the Call",
+      "netflix_url": "https://www.netflix.com/title/80080514",
+      "year": "2016",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "My Big Fat Greek Wedding 2",
+      "netflix_url": "https://www.netflix.com/title/80081792",
+      "year": "2016",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt3760922"
+    },
+    {
+      "title": "True Memoirs of an International Assassin",
+      "netflix_url": "https://www.netflix.com/title/80091658",
+      "year": "2016",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt1542768"
+    },
+    {
+      "title": "The Secret Life of Pets",
+      "netflix_url": "https://www.netflix.com/title/80095314",
+      "year": "2016",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt2709768"
+    },
+    {
+      "title": "The Fundamentals of Caring",
+      "netflix_url": "https://www.netflix.com/title/80097349",
+      "year": "2016",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt2452386"
+    },
+    {
+      "title": "Blue Mountain State: The Rise of Thadland",
+      "netflix_url": "https://www.netflix.com/title/80097530",
+      "year": "2016",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt3748440"
+    },
+    {
+      "title": "Sing",
+      "netflix_url": "https://www.netflix.com/title/80117526",
+      "year": "2016",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt3470600"
+    },
+    {
+      "title": "The Emoji Movie",
+      "netflix_url": "https://www.netflix.com/title/80121840",
+      "year": "2017",
+      "imdb_rating": "3.5",
+      "imdb_id": "tt4877122"
+    },
+    {
+      "title": "Little Evil",
+      "netflix_url": "https://www.netflix.com/title/80139506",
+      "year": "2017",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt2937366"
+    },
+    {
+      "title": "The Kissing Booth",
+      "netflix_url": "https://www.netflix.com/title/80143556",
+      "year": "2018",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt3799232"
+    },
+    {
+      "title": "The After Party",
+      "netflix_url": "https://www.netflix.com/title/80144145",
+      "year": "2018",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt3960240"
+    },
+    {
+      "title": "The Last Word",
+      "netflix_url": "https://www.netflix.com/title/80154681",
+      "year": "2017",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt5023260"
+    },
+    {
+      "title": "The Babysitter",
+      "netflix_url": "https://www.netflix.com/title/80164456",
+      "year": "2017",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt4225622"
+    },
+    {
+      "title": "Despicable Me 3",
+      "netflix_url": "https://www.netflix.com/title/80166314",
+      "year": "2017",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt3469046"
+    },
+    {
+      "title": "Leap!",
+      "netflix_url": "https://www.netflix.com/title/80166318",
+      "year": "2016",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt5330278"
+    },
+    {
+      "title": "The Dirt",
+      "netflix_url": "https://www.netflix.com/title/80169469",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0800325"
+    },
+    {
+      "title": "Game Over, Man!",
+      "netflix_url": "https://www.netflix.com/title/80169617",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt3317234"
+    },
+    {
+      "title": "Prevenge",
+      "netflix_url": "https://www.netflix.com/title/80174466",
+      "year": "2016",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt5154288"
+    },
+    {
+      "title": "Like Father",
+      "netflix_url": "https://www.netflix.com/title/80174897",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt7170950"
+    },
+    {
+      "title": "The Package",
+      "netflix_url": "https://www.netflix.com/title/80175147",
+      "year": "2018",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt7525778"
+    },
+    {
+      "title": "Undercover Grandpa",
+      "netflix_url": "https://www.netflix.com/title/80179288",
+      "year": "2016",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt3891538"
+    },
+    {
+      "title": "Dolemite Is My Name",
+      "netflix_url": "https://www.netflix.com/title/80182014",
+      "year": "2019",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt8526872"
+    },
+    {
+      "title": "Set It Up",
+      "netflix_url": "https://www.netflix.com/title/80184100",
+      "year": "2018",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt5304992"
+    },
+    {
+      "title": "Father of the Year",
+      "netflix_url": "https://www.netflix.com/title/80185070",
+      "year": "2018",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt7256866"
+    },
+    {
+      "title": "Nappily Ever After",
+      "netflix_url": "https://www.netflix.com/title/80189630",
+      "year": "2018",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0365545"
+    },
+    {
+      "title": "America: The Motion Picture",
+      "netflix_url": "https://www.netflix.com/title/80189631",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt6733874"
+    },
+    {
+      "title": "Ibiza: Love Drunk",
+      "netflix_url": "https://www.netflix.com/title/80195049",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Girls With Balls",
+      "netflix_url": "https://www.netflix.com/title/80198508",
+      "year": "2019",
+      "imdb_rating": "4.0",
+      "imdb_id": "tt4725842"
+    },
+    {
+      "title": "The Ballad of Buster Scruggs",
+      "netflix_url": "https://www.netflix.com/title/80200267",
+      "year": "2018",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt6412452"
+    },
+    {
+      "title": "Peter Rabbit",
+      "netflix_url": "https://www.netflix.com/title/80201039",
+      "year": "2018",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt5117670"
+    },
+    {
+      "title": "Dumplin'",
+      "netflix_url": "https://www.netflix.com/title/80201490",
+      "year": "2018",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt4878482"
+    },
+    {
+      "title": "Always Be My Maybe",
+      "netflix_url": "https://www.netflix.com/title/80202874",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt7374948"
+    },
+    {
+      "title": "To All the Boys I’ve Loved Before",
+      "netflix_url": "https://www.netflix.com/title/80203147",
+      "year": "2018",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt3846674"
+    },
+    {
+      "title": "Coffee & Kareem",
+      "netflix_url": "https://www.netflix.com/title/80220009",
+      "year": "2020",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt9898858"
+    },
+    {
+      "title": "We Have a Ghost",
+      "netflix_url": "https://www.netflix.com/title/80230619",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt7798604"
+    },
+    {
+      "title": "Sextuplets",
+      "netflix_url": "https://www.netflix.com/title/80231419",
+      "year": "2019",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt8976710"
+    },
+    {
+      "title": "Hotel Transylvania 3: Summer Vacation",
+      "netflix_url": "https://www.netflix.com/title/80233925",
+      "year": "2018",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt5220122"
+    },
+    {
+      "title": "The Monkey King",
+      "netflix_url": "https://www.netflix.com/title/80237245",
+      "year": "2023",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt8637498"
+    },
+    {
+      "title": "The Sleepover",
+      "netflix_url": "https://www.netflix.com/title/80238399",
+      "year": "2020",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt10888708"
+    },
+    {
+      "title": "The Willoughbys",
+      "netflix_url": "https://www.netflix.com/title/80239482",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt5206260"
+    },
+    {
+      "title": "Hustle",
+      "netflix_url": "https://www.netflix.com/title/80242342",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt8009428"
+    },
+    {
+      "title": "Murder Mystery",
+      "netflix_url": "https://www.netflix.com/title/80242619",
+      "year": "2019",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt1618434"
+    },
+    {
+      "title": "The Dead Don't Die",
+      "netflix_url": "https://www.netflix.com/title/80244534",
+      "year": "2019",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt8695030"
+    },
+    {
+      "title": "Goosebumps 2: Haunted Halloween",
+      "netflix_url": "https://www.netflix.com/title/80991404",
+      "year": "2018",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt5664636"
+    },
+    {
+      "title": "In Your Dreams",
+      "netflix_url": "https://www.netflix.com/title/80992977",
+      "year": "2025",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt27604215"
+    },
+    {
+      "title": "We Can Be Heroes",
+      "netflix_url": "https://www.netflix.com/title/80994666",
+      "year": "2020",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt10600398"
+    },
+    {
+      "title": "Feel the Beat",
+      "netflix_url": "https://www.netflix.com/title/80994878",
+      "year": "2020",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt10714856"
+    },
+    {
+      "title": "They Cloned Tyrone",
+      "netflix_url": "https://www.netflix.com/title/80996324",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt9873892"
+    },
+    {
+      "title": "Vampires vs. the Bronx",
+      "netflix_url": "https://www.netflix.com/title/80998174",
+      "year": "2020",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt8976576"
+    },
+    {
+      "title": "Falling Inn Love",
+      "netflix_url": "https://www.netflix.com/title/80999781",
+      "year": "2019",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt9860728"
+    },
+    {
+      "title": "Tall Girl",
+      "netflix_url": "https://www.netflix.com/title/81002412",
+      "year": "2019",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt9252508"
+    },
+    {
+      "title": "Back to the Outback",
+      "netflix_url": "https://www.netflix.com/title/81002813",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt13575806"
+    },
+    {
+      "title": "The Half Of It",
+      "netflix_url": "https://www.netflix.com/title/81005150",
+      "year": "2020",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt9683478"
+    },
+    {
+      "title": "Spenser Confidential",
+      "netflix_url": "https://www.netflix.com/title/81005492",
+      "year": "2020",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt8629748"
+    },
+    {
+      "title": "YES DAY",
+      "netflix_url": "https://www.netflix.com/title/81011712",
+      "year": "2021",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt8521876"
+    },
+    {
+      "title": "The Babysitter: Killer Queen",
+      "netflix_url": "https://www.netflix.com/title/81012366",
+      "year": "2020",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt11024272"
+    },
+    {
+      "title": "The Perfect Date",
+      "netflix_url": "https://www.netflix.com/title/81019888",
+      "year": "2019",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt8201170"
+    },
+    {
+      "title": "The Perfect Find",
+      "netflix_url": "https://www.netflix.com/title/81030422",
+      "year": "2023",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt8400584"
+    },
+    {
+      "title": "The Wrong Missy",
+      "netflix_url": "https://www.netflix.com/title/81033865",
+      "year": "2020",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt9619798"
+    },
+    {
+      "title": "Secrets in the Hot Spring",
+      "netflix_url": "https://www.netflix.com/title/81034612",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt8587122"
+    },
+    {
+      "title": "Players",
+      "netflix_url": "https://www.netflix.com/title/81034895",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt14833464"
+    },
+    {
+      "title": "Marry Me",
+      "netflix_url": "https://www.netflix.com/title/81041317",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt10223460"
+    },
+    {
+      "title": "Your Place or Mine",
+      "netflix_url": "https://www.netflix.com/title/81045831",
+      "year": "2023",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt12823454"
+    },
+    {
+      "title": "Sounds Like Love",
+      "netflix_url": "https://www.netflix.com/title/81046937",
+      "year": "2021",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt11698662"
+    },
+    {
+      "title": "Hantu Kak Limah",
+      "netflix_url": "https://www.netflix.com/title/81049950",
+      "year": "2018",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8757960"
+    },
+    {
+      "title": "Look Both Ways",
+      "netflix_url": "https://www.netflix.com/title/81050546",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt14298328"
+    },
+    {
+      "title": "Isi & Ossi",
+      "netflix_url": "https://www.netflix.com/title/81058435",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9806322"
+    },
+    {
+      "title": "The Loud House Movie",
+      "netflix_url": "https://www.netflix.com/title/81068804",
+      "year": "2021",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt6714432"
+    },
+    {
+      "title": "Beverly Hills Cop: Axel F",
+      "netflix_url": "https://www.netflix.com/title/81076856",
+      "year": "2024",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt3083016"
+    },
+    {
+      "title": "Thunder Force",
+      "netflix_url": "https://www.netflix.com/title/81079259",
+      "year": "2021",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt10121392"
+    },
+    {
+      "title": "Thelma the Unicorn",
+      "netflix_url": "https://www.netflix.com/title/81110501",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt10442352"
+    },
+    {
+      "title": "Do Revenge",
+      "netflix_url": "https://www.netflix.com/title/81127150",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt13327038"
+    },
+    {
+      "title": "Work It",
+      "netflix_url": "https://www.netflix.com/title/81132038",
+      "year": "2020",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt10276470"
+    },
+    {
+      "title": "Wish Dragon",
+      "netflix_url": "https://www.netflix.com/title/81153694",
+      "year": "2021",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt5562070"
+    },
+    {
+      "title": "The Curse of Bridge Hollow",
+      "netflix_url": "https://www.netflix.com/title/81156676",
+      "year": "2022",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt15289240"
+    },
+    {
+      "title": "Red Notice",
+      "netflix_url": "https://www.netflix.com/title/81161626",
+      "year": "2021",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt7991608"
+    },
+    {
+      "title": "Me Time",
+      "netflix_url": "https://www.netflix.com/title/81161828",
+      "year": "2022",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt14309446"
+    },
+    {
+      "title": "Day Shift",
+      "netflix_url": "https://www.netflix.com/title/81186049",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt13314558"
+    },
+    {
+      "title": "The Out-Laws",
+      "netflix_url": "https://www.netflix.com/title/81186234",
+      "year": "2023",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt11274492"
+    },
+    {
+      "title": "Ne Zha",
+      "netflix_url": "https://www.netflix.com/title/81191389",
+      "year": "2019",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt10627720"
+    },
+    {
+      "title": "You People",
+      "netflix_url": "https://www.netflix.com/title/81194505",
+      "year": "2023",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt14826022"
+    },
+    {
+      "title": "Who's a Good Boy?",
+      "netflix_url": "https://www.netflix.com/title/81205652",
+      "year": "2022",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt18082726"
+    },
+    {
+      "title": "The Hustle",
+      "netflix_url": "https://www.netflix.com/title/81209142",
+      "year": "2019",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt1298644"
+    },
+    {
+      "title": "Murder Mystery 2",
+      "netflix_url": "https://www.netflix.com/title/81212842",
+      "year": "2023",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt15255288"
+    },
+    {
+      "title": "Woody Woodpecker Goes to Camp",
+      "netflix_url": "https://www.netflix.com/title/81215996",
+      "year": "2024",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt20221690"
+    },
+    {
+      "title": "Leo",
+      "netflix_url": "https://www.netflix.com/title/81218917",
+      "year": "2023",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt15654328"
+    },
+    {
+      "title": "Plankton: The Movie",
+      "netflix_url": "https://www.netflix.com/title/81221337",
+      "year": "2025",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt32560777"
+    },
+    {
+      "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+      "netflix_url": "https://www.netflix.com/title/81221340",
+      "year": "2024",
+      "imdb_rating": "3.7",
+      "imdb_id": "tt23063732"
+    },
+    {
+      "title": "Chicken Run: Dawn of the Nugget",
+      "netflix_url": "https://www.netflix.com/title/81223025",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt8337264"
+    },
+    {
+      "title": "Børning 3: Asphalt Burning",
+      "netflix_url": "https://www.netflix.com/title/81227923",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "All My Friends Are Dead",
+      "netflix_url": "https://www.netflix.com/title/81230915",
+      "year": "2020",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt13723064"
+    },
+    {
+      "title": "A Perfect Pairing",
+      "netflix_url": "https://www.netflix.com/title/81241465",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15215512"
+    },
+    {
+      "title": "Bhool Bhulaiyaa 2",
+      "netflix_url": "https://www.netflix.com/title/81243747",
+      "year": "2022",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt6455162"
+    },
+    {
+      "title": "The Lovebirds",
+      "netflix_url": "https://www.netflix.com/title/81248748",
+      "year": "2020",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt8851668"
+    },
+    {
+      "title": "The Man from Toronto",
+      "netflix_url": "https://www.netflix.com/title/81251628",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt11671006"
+    },
+    {
+      "title": "Don't Look Up",
+      "netflix_url": "https://www.netflix.com/title/81252357",
+      "year": "2021",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt11286314"
+    },
+    {
+      "title": "The Last Mercenary",
+      "netflix_url": "https://www.netflix.com/title/81253859",
+      "year": "2021",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt12808182"
+    },
+    {
+      "title": "Roohi",
+      "netflix_url": "https://www.netflix.com/title/81267359",
+      "year": "2021",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt10098288"
+    },
+    {
+      "title": "The Starling",
+      "netflix_url": "https://www.netflix.com/title/81281320",
+      "year": "2021",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt5164438"
+    },
+    {
+      "title": "Wingwomen",
+      "netflix_url": "https://www.netflix.com/title/81282091",
+      "year": "2023",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt21638298"
+    },
+    {
+      "title": "The Union",
+      "netflix_url": "https://www.netflix.com/title/81282732",
+      "year": "2024",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt12610390"
+    },
+    {
+      "title": "Bad Trip",
+      "netflix_url": "https://www.netflix.com/title/81287254",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt9684220"
+    },
+    {
+      "title": "My Oxford Year",
+      "netflix_url": "https://www.netflix.com/title/81287950",
+      "year": "2025",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt4978342"
+    },
+    {
+      "title": "Back in Action",
+      "netflix_url": "https://www.netflix.com/title/81307099",
+      "year": "2025",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt21191806"
+    },
+    {
+      "title": "The Adam Project",
+      "netflix_url": "https://www.netflix.com/title/81309354",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt2463208"
+    },
+    {
+      "title": "Bigfoot Family",
+      "netflix_url": "https://www.netflix.com/title/81315367",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt9204164"
+    },
+    {
+      "title": "HollyBlood",
+      "netflix_url": "https://www.netflix.com/title/81316978",
+      "year": "2022",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt14210720"
+    },
+    {
+      "title": "The Pirates: The Last Royal Treasure",
+      "netflix_url": "https://www.netflix.com/title/81336431",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt17491040"
+    },
+    {
+      "title": "The Trip",
+      "netflix_url": "https://www.netflix.com/title/81342665",
+      "year": "2021",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt13109952"
+    },
+    {
+      "title": "The Big 4",
+      "netflix_url": "https://www.netflix.com/title/81344253",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15528292"
+    },
+    {
+      "title": "La Dolce Villa",
+      "netflix_url": "https://www.netflix.com/title/81346727",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt31519456"
+    },
+    {
+      "title": "Dog Gone Trouble",
+      "netflix_url": "https://www.netflix.com/title/81349324",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "In Good Hands",
+      "netflix_url": "https://www.netflix.com/title/81350683",
+      "year": "2022",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt14898794"
+    },
+    {
+      "title": "Dog",
+      "netflix_url": "https://www.netflix.com/title/81350890",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt11252248"
+    },
+    {
+      "title": "The Paper Tigers",
+      "netflix_url": "https://www.netflix.com/title/81351585",
+      "year": "2021",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt6060444"
+    },
+    {
+      "title": "Wallace & Gromit: Vengeance Most Fowl",
+      "netflix_url": "https://www.netflix.com/title/81351936",
+      "year": "2025",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt17163970"
+    },
+    {
+      "title": "A Family Affair",
+      "netflix_url": "https://www.netflix.com/title/81361154",
+      "year": "2024",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt21051906"
+    },
+    {
+      "title": "Astérix & Obélix: The Middle Kingdom",
+      "netflix_url": "https://www.netflix.com/title/81389022",
+      "year": "2023",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt11210390"
+    },
+    {
+      "title": "The Mitchells vs. The Machines",
+      "netflix_url": "https://www.netflix.com/title/81399614",
+      "year": "2021",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt7979580"
+    },
+    {
+      "title": "Jackass 4.5",
+      "netflix_url": "https://www.netflix.com/title/81404276",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt20455056"
+    },
+    {
+      "title": "Good on Paper",
+      "netflix_url": "https://www.netflix.com/title/81406319",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8231668"
+    },
+    {
+      "title": "Persuasion",
+      "netflix_url": "https://www.netflix.com/title/81410649",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13456318"
+    },
+    {
+      "title": "Home Team",
+      "netflix_url": "https://www.netflix.com/title/81414099",
+      "year": "2022",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt14592064"
+    },
+    {
+      "title": "You Are So Not Invited to My Bat Mitzvah",
+      "netflix_url": "https://www.netflix.com/title/81416306",
+      "year": "2023",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt21276878"
+    },
+    {
+      "title": "Kinda Pregnant",
+      "netflix_url": "https://www.netflix.com/title/81416715",
+      "year": "2025",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt30253036"
+    },
+    {
+      "title": "The Takedown",
+      "netflix_url": "https://www.netflix.com/title/81416977",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13822738"
+    },
+    {
+      "title": "Happiness for Beginners",
+      "netflix_url": "https://www.netflix.com/title/81418617",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15509244"
+    },
+    {
+      "title": "The Year I Started Masturbating",
+      "netflix_url": "https://www.netflix.com/title/81435370",
+      "year": "2022",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt15411160"
+    },
+    {
+      "title": "Nimona",
+      "netflix_url": "https://www.netflix.com/title/81444554",
+      "year": "2023",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt19500164"
+    },
+    {
+      "title": "He's All That",
+      "netflix_url": "https://www.netflix.com/title/81446038",
+      "year": "2021",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt4590256"
+    },
+    {
+      "title": "Lift",
+      "netflix_url": "https://www.netflix.com/title/81446739",
+      "year": "2024",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt14371878"
+    },
+    {
+      "title": "Glass Onion: A Knives Out Mystery",
+      "netflix_url": "https://www.netflix.com/title/81458416",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt24734444"
+    },
+    {
+      "title": "Wake Up Dead Man: A Knives Out Mystery",
+      "netflix_url": "https://www.netflix.com/title/81458424",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mother of the Bride",
+      "netflix_url": "https://www.netflix.com/title/81459080",
+      "year": "2024",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt26926267"
+    },
+    {
+      "title": "Zom 100: Bucket List of the Dead",
+      "netflix_url": "https://www.netflix.com/title/81464329",
+      "year": "2023",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt25811262"
+    },
+    {
+      "title": "Orion and the Dark",
+      "netflix_url": "https://www.netflix.com/title/81476885",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt28066777"
+    },
+    {
+      "title": "The Hating Game",
+      "netflix_url": "https://www.netflix.com/title/81495607",
+      "year": "2021",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt8718158"
+    },
+    {
+      "title": "Our Little Secret",
+      "netflix_url": "https://www.netflix.com/title/81498404",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt31022050"
+    },
+    {
+      "title": "KPop Demon Hunters",
+      "netflix_url": "https://www.netflix.com/title/81498621",
+      "year": "2025",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt14205554"
+    },
+    {
+      "title": "Izla",
+      "netflix_url": "https://www.netflix.com/title/81510752",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Bad Guys",
+      "netflix_url": "https://www.netflix.com/title/81513703",
+      "year": "2022",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt8115900"
+    },
+    {
+      "title": "Jay Kelly",
+      "netflix_url": "https://www.netflix.com/title/81551446",
+      "year": "2025",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt30446847"
+    },
+    {
+      "title": "Cat & Dog",
+      "netflix_url": "https://www.netflix.com/title/81576596",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32409950"
+    },
+    {
+      "title": "Hard Feelings",
+      "netflix_url": "https://www.netflix.com/title/81580024",
+      "year": "2023",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt20256412"
+    },
+    {
+      "title": "Spy Kids: Armageddon",
+      "netflix_url": "https://www.netflix.com/title/81588091",
+      "year": "2023",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt13978520"
+    },
+    {
+      "title": "Mr. Malcolm's List",
+      "netflix_url": "https://www.netflix.com/title/81588906",
+      "year": "2022",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt12545566"
+    },
+    {
+      "title": "Minions & More Volume 1",
+      "netflix_url": "https://www.netflix.com/title/81589564",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Minions & More Volume 2",
+      "netflix_url": "https://www.netflix.com/title/81589565",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Are You There God? It's Me, Margaret",
+      "netflix_url": "https://www.netflix.com/title/81590252",
+      "year": "2023",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt9185206"
+    },
+    {
+      "title": "El Conde",
+      "netflix_url": "https://www.netflix.com/title/81590652",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt21113540"
+    },
+    {
+      "title": "27 Nights",
+      "netflix_url": "https://www.netflix.com/title/81594315",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Irish Wish",
+      "netflix_url": "https://www.netflix.com/title/81594532",
+      "year": "2024",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt21957774"
+    },
+    {
+      "title": "The Twits",
+      "netflix_url": "https://www.netflix.com/title/81612165",
+      "year": "2025",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt0498396"
+    },
+    {
+      "title": "Babylon",
+      "netflix_url": "https://www.netflix.com/title/81616260",
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt10640346"
+    },
+    {
+      "title": "Harold and the Purple Crayon",
+      "netflix_url": "https://www.netflix.com/title/81623335",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt1609486"
+    },
+    {
+      "title": "Champagne Problems",
+      "netflix_url": "https://www.netflix.com/title/81628146",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt33053440"
+    },
+    {
+      "title": "Katteri",
+      "netflix_url": "https://www.netflix.com/title/81632774",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Chandramukhi 2",
+      "netflix_url": "https://www.netflix.com/title/81644300",
+      "year": "2023",
+      "imdb_rating": "2.6",
+      "imdb_id": "tt12132908"
+    },
+    {
+      "title": "About My Father",
+      "netflix_url": "https://www.netflix.com/title/81651281",
+      "year": "2023",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt8373206"
+    },
+    {
+      "title": "Almost Cops",
+      "netflix_url": "https://www.netflix.com/title/81661402",
+      "year": "2025",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt27675583"
+    },
+    {
+      "title": "Moving On",
+      "netflix_url": "https://www.netflix.com/title/81664059",
+      "year": "2022",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt15488088"
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "netflix_url": "https://www.netflix.com/title/81670527",
+      "year": "2023",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt8589698"
+    },
+    {
+      "title": "The Blackening",
+      "netflix_url": "https://www.netflix.com/title/81672086",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31379549"
+    },
+    {
+      "title": "Nice Girls",
+      "netflix_url": "https://www.netflix.com/title/81674131",
+      "year": "2024",
+      "imdb_rating": "4.2",
+      "imdb_id": "tt29288566"
+    },
+    {
+      "title": "Old Dads",
+      "netflix_url": "https://www.netflix.com/title/81674327",
+      "year": "2023",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt18394190"
+    },
+    {
+      "title": "The Oskars Fantasy",
+      "netflix_url": "https://www.netflix.com/title/81677015",
+      "year": "2023",
+      "imdb_rating": "4.1",
+      "imdb_id": "tt28252817"
+    },
+    {
+      "title": "Honeymoon Crasher",
+      "netflix_url": "https://www.netflix.com/title/81682509",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bhool Bhulaiyaa 3",
+      "netflix_url": "https://www.netflix.com/title/81686134",
+      "year": "2024",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt26932223"
+    },
+    {
+      "title": "Joy Ride",
+      "netflix_url": "https://www.netflix.com/title/81687115",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt15268244"
+    },
+    {
+      "title": "Kontrabida Academy",
+      "netflix_url": "https://www.netflix.com/title/81696387",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35652650"
+    },
+    {
+      "title": "Happy Gilmore 2",
+      "netflix_url": "https://www.netflix.com/title/81696722",
+      "year": "2025",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt31868189"
+    },
+    {
+      "title": "The Wrong Paris",
+      "netflix_url": "https://www.netflix.com/title/81700163",
+      "year": "2025",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt33039440"
+    },
+    {
+      "title": "Freelance",
+      "netflix_url": "https://www.netflix.com/title/81700514",
+      "year": "2023",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt15744298"
+    },
+    {
+      "title": "Officer Black Belt",
+      "netflix_url": "https://www.netflix.com/title/81702144",
+      "year": "2024",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt28494829"
+    },
+    {
+      "title": "Madea’s Destination Wedding",
+      "netflix_url": "https://www.netflix.com/title/81702431",
+      "year": "2025",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt33299083"
+    },
+    {
+      "title": "Caramelo",
+      "netflix_url": "https://www.netflix.com/title/81702623",
+      "year": "2025",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt32549601"
+    },
+    {
+      "title": "Conjuring Kannappan",
+      "netflix_url": "https://www.netflix.com/title/81704206",
+      "year": "2023",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt29230279"
+    },
+    {
+      "title": "Incoming",
+      "netflix_url": "https://www.netflix.com/title/81715819",
+      "year": "2024",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt21284218"
+    },
+    {
+      "title": "Love and Wine",
+      "netflix_url": "https://www.netflix.com/title/81717942",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Trouble",
+      "netflix_url": "https://www.netflix.com/title/81727408",
+      "year": "2024",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt30217143"
+    },
+    {
+      "title": "Agak Laen",
+      "netflix_url": "https://www.netflix.com/title/81728111",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt28856462"
+    },
+    {
+      "title": "Hit Man",
+      "netflix_url": "https://www.netflix.com/title/81728840",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32894031"
+    },
+    {
+      "title": "Cunk on Life",
+      "netflix_url": "https://www.netflix.com/title/81730530",
+      "year": "2025",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt34874258"
+    },
+    {
+      "title": "Bottoms",
+      "netflix_url": "https://www.netflix.com/title/81731642",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt17527468"
+    },
+    {
+      "title": "My Secret Santa",
+      "netflix_url": "https://www.netflix.com/title/81734567",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35219851"
+    },
+    {
+      "title": "A Merry Little Ex-Mas",
+      "netflix_url": "https://www.netflix.com/title/81735104",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34992378"
+    },
+    {
+      "title": "Find Me Falling",
+      "netflix_url": "https://www.netflix.com/title/81740504",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt19862722"
+    },
+    {
+      "title": "The Garfield Movie",
+      "netflix_url": "https://www.netflix.com/title/81762622",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt5779228"
+    },
+    {
+      "title": "Ghostbusters: Frozen Empire",
+      "netflix_url": "https://www.netflix.com/title/81762779",
+      "year": "2024",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt21235248"
+    },
+    {
+      "title": "Bad Boys: Ride or Die",
+      "netflix_url": "https://www.netflix.com/title/81762792",
+      "year": "2024",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt4919268"
+    },
+    {
+      "title": "Mean Girls",
+      "netflix_url": "https://www.netflix.com/title/81767865",
+      "year": "2024",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt11762114"
+    },
+    {
+      "title": "Mission: Cross",
+      "netflix_url": "https://www.netflix.com/title/81771382",
+      "year": "2024",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt30515931"
+    },
+    {
+      "title": "French Lover",
+      "netflix_url": "https://www.netflix.com/title/81776269",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt32360696"
+    },
+    {
+      "title": "Paddington in Peru",
+      "netflix_url": "https://www.netflix.com/title/81776760",
+      "year": "2024",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt5822536"
+    },
+    {
+      "title": "A Royal Date for Christmas",
+      "netflix_url": "https://www.netflix.com/title/81779945",
+      "year": "2023",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt28188089"
+    },
+    {
+      "title": "Love Untangled",
+      "netflix_url": "https://www.netflix.com/title/81785333",
+      "year": "2025",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt33549683"
+    },
+    {
+      "title": "Sunny Sanskari ki Tulsi Kumari",
+      "netflix_url": "https://www.netflix.com/title/81786449",
+      "year": "2025",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt30742355"
+    },
+    {
+      "title": "And The Breadwinner Is...",
+      "netflix_url": "https://www.netflix.com/title/81901876",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32206574"
+    },
+    {
+      "title": "My Boo",
+      "netflix_url": "https://www.netflix.com/title/81908841",
+      "year": "2024",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt32380407"
+    },
+    {
+      "title": "Premante: Thrillu Prapthirasthu",
+      "netflix_url": "https://www.netflix.com/title/81920591",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Jingle Bell Heist",
+      "netflix_url": "https://www.netflix.com/title/81928353",
+      "year": "2025",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt24852126"
+    },
+    {
+      "title": "Our Times",
+      "netflix_url": "https://www.netflix.com/title/81936019",
+      "year": "2025",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt35630700"
+    },
+    {
+      "title": "The Dad Quest",
+      "netflix_url": "https://www.netflix.com/title/81936020",
+      "year": "2025",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt36150950"
+    },
+    {
+      "title": "Nonnas",
+      "netflix_url": "https://www.netflix.com/title/81936724",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt28309594"
+    },
+    {
+      "title": "A Time For Bravery",
+      "netflix_url": "https://www.netflix.com/title/81937233",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sing: Thriller",
+      "netflix_url": "https://www.netflix.com/title/81945969",
+      "year": "2024",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt33999453"
+    },
+    {
+      "title": "Kang Mak from Pee Mak",
+      "netflix_url": "https://www.netflix.com/title/81971170",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dog Man",
+      "netflix_url": "https://www.netflix.com/title/81975712",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt10954718"
+    },
+    {
+      "title": "Dead Talents Society",
+      "netflix_url": "https://www.netflix.com/title/81987312",
+      "year": "2024",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt17079606"
+    },
+    {
+      "title": "Saturday Night",
+      "netflix_url": "https://www.netflix.com/title/81990313",
+      "year": "2024",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt27657135"
+    },
+    {
+      "title": "One of Them Days",
+      "netflix_url": "https://www.netflix.com/title/82006168",
+      "year": "2025",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt32221196"
+    },
+    {
+      "title": "Heart Eyes",
+      "netflix_url": "https://www.netflix.com/title/82018999",
+      "year": "2025",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt32558992"
+    },
+    {
+      "title": "404",
+      "netflix_url": "https://www.netflix.com/title/82020764",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33246585"
+    },
+    {
+      "title": "Fixed",
+      "netflix_url": "https://www.netflix.com/title/82038224",
+      "year": "2025",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt8785038"
+    },
+    {
+      "title": "The Penguin Lessons",
+      "netflix_url": "https://www.netflix.com/title/82073569",
+      "year": "2024",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt26677014"
+    },
+    {
+      "title": "Christmas at the Chalet",
+      "netflix_url": "https://www.netflix.com/title/82095260",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt29007820"
+    },
+    {
+      "title": "Oh, Hi!",
+      "netflix_url": "https://www.netflix.com/title/82115463",
+      "year": "2025",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt33292655"
+    },
+    {
+      "title": "KPop Demon Hunters Sing-Along",
+      "netflix_url": "https://www.netflix.com/title/82125877",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Single Salma",
+      "netflix_url": "https://www.netflix.com/title/82145967",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27826850"
+    },
+    {
+      "title": "Jolly LLB 3",
+      "netflix_url": "https://www.netflix.com/title/82145971",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27996020"
+    },
+    {
+      "title": "Deadstream",
+      "netflix_url": "https://www.netflix.com/title/82151269",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt12788488"
+    },
+    {
+      "title": "The Threesome",
+      "netflix_url": "https://www.netflix.com/title/82161418",
+      "year": "2025",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt21187592"
+    },
+    {
+      "title": "A Very Merry Beauty Salon",
+      "netflix_url": "https://www.netflix.com/title/82176030",
+      "year": "2024",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt33502392"
+    },
+    {
+      "title": "The Best You Can",
+      "netflix_url": "https://www.netflix.com/title/82193695",
+      "year": "2025",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt30150769"
+    },
+    {
+      "title": "Little Hearts",
+      "netflix_url": "https://www.netflix.com/title/82640314",
+      "year": "2025",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt37962245"
+    },
+    {
+      "title": "Caught Stealing",
+      "netflix_url": "https://www.netflix.com/title/83077843",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt1493274"
+    }
+  ]
+}

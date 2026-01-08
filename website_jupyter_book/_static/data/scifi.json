@@ -1,0 +1,1455 @@
+{
+  "genre": "scifi",
+  "genre_url": "https://www.netflix.com/browse/genre/1492",
+  "movies": [
+    {
+      "title": "The Terminator",
+      "netflix_url": "https://www.netflix.com/title/1032625",
+      "year": "1984",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Timecop",
+      "netflix_url": "https://www.netflix.com/title/1050025",
+      "year": "1994",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0111438"
+    },
+    {
+      "title": "Godzilla",
+      "netflix_url": "https://www.netflix.com/title/11819467",
+      "year": "1998",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bram Stoker's Dracula",
+      "netflix_url": "https://www.netflix.com/title/328942",
+      "year": "1992",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Conan the Destroyer",
+      "netflix_url": "https://www.netflix.com/title/393326",
+      "year": "1984",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dune",
+      "netflix_url": "https://www.netflix.com/title/464403",
+      "year": "1984",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Battlefield Earth",
+      "netflix_url": "https://www.netflix.com/title/60000872",
+      "year": "2000",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Hollow Man",
+      "netflix_url": "https://www.netflix.com/title/60000893",
+      "year": "2000",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The One",
+      "netflix_url": "https://www.netflix.com/title/60021777",
+      "year": "2001",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0267804"
+    },
+    {
+      "title": "Donnie Darko",
+      "netflix_url": "https://www.netflix.com/title/60022315",
+      "year": "2001",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The End of Evangelion",
+      "netflix_url": "https://www.netflix.com/title/60024788",
+      "year": "1997",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "28 Days Later",
+      "netflix_url": "https://www.netflix.com/title/60027998",
+      "year": "2002",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Hellboy",
+      "netflix_url": "https://www.netflix.com/title/60034549",
+      "year": "2004",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Johnny Mnemonic",
+      "netflix_url": "https://www.netflix.com/title/656804",
+      "year": "1995",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Labyrinth",
+      "netflix_url": "https://www.netflix.com/title/680020",
+      "year": "1986",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Island",
+      "netflix_url": "https://www.netflix.com/title/70021649",
+      "year": "2005",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Paheli",
+      "netflix_url": "https://www.netflix.com/title/70039405",
+      "year": "2005",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "netflix_url": "https://www.netflix.com/title/70074559",
+      "year": "2004",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Thoda Pyaar Thoda Magic",
+      "netflix_url": "https://www.netflix.com/title/70102768",
+      "year": "2008",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Planet 51",
+      "netflix_url": "https://www.netflix.com/title/70109891",
+      "year": "2009",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "District 9",
+      "netflix_url": "https://www.netflix.com/title/70113005",
+      "year": "2009",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cloudy with a Chance of Meatballs",
+      "netflix_url": "https://www.netflix.com/title/70113007",
+      "year": "2009",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto Shippuden: The Movie",
+      "netflix_url": "https://www.netflix.com/title/70124999",
+      "year": "2007",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Amazing Spider-Man",
+      "netflix_url": "https://www.netflix.com/title/70208599",
+      "year": "2012",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Host",
+      "netflix_url": "https://www.netflix.com/title/70243448",
+      "year": "2013",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Elysium",
+      "netflix_url": "https://www.netflix.com/title/70251536",
+      "year": "2013",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Oblivion",
+      "netflix_url": "https://www.netflix.com/title/70259170",
+      "year": "2013",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Mortal Instruments: City of Bones",
+      "netflix_url": "https://www.netflix.com/title/70266670",
+      "year": "2013",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto Shippuden: The Movie: The Lost Tower",
+      "netflix_url": "https://www.netflix.com/title/70275937",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Maze Runner",
+      "netflix_url": "https://www.netflix.com/title/70291089",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mr. Peabody & Sherman",
+      "netflix_url": "https://www.netflix.com/title/70293317",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Amazing Spider-Man 2",
+      "netflix_url": "https://www.netflix.com/title/70293702",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "PK",
+      "netflix_url": "https://www.netflix.com/title/70303496",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Maze Runner: The Scorch Trials",
+      "netflix_url": "https://www.netflix.com/title/80046310",
+      "year": "2015",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The 5th Wave",
+      "netflix_url": "https://www.netflix.com/title/80067831",
+      "year": "2016",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Viral",
+      "netflix_url": "https://www.netflix.com/title/80076415",
+      "year": "2016",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "ARQ",
+      "netflix_url": "https://www.netflix.com/title/80092885",
+      "year": "2016",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Spectral",
+      "netflix_url": "https://www.netflix.com/title/80098200",
+      "year": "2016",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "iBOY",
+      "netflix_url": "https://www.netflix.com/title/80099016",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ludo",
+      "netflix_url": "https://www.netflix.com/title/80107037",
+      "year": "2015",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Hunter x Hunter: The Last Mission",
+      "netflix_url": "https://www.netflix.com/title/80108453",
+      "year": "2013",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "BLAME!",
+      "netflix_url": "https://www.netflix.com/title/80115466",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Discovery",
+      "netflix_url": "https://www.netflix.com/title/80115857",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bright",
+      "netflix_url": "https://www.netflix.com/title/80119234",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Up Among  The Stars",
+      "netflix_url": "https://www.netflix.com/title/80122209",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Cloverfield Paradox",
+      "netflix_url": "https://www.netflix.com/title/80134431",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "IO",
+      "netflix_url": "https://www.netflix.com/title/80134721",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love O2O",
+      "netflix_url": "https://www.netflix.com/title/80141156",
+      "year": "2016",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Power Rangers",
+      "netflix_url": "https://www.netflix.com/title/80144309",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "What Happened to Monday",
+      "netflix_url": "https://www.netflix.com/title/80146805",
+      "year": "2017",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt1536537"
+    },
+    {
+      "title": "The Titan",
+      "netflix_url": "https://www.netflix.com/title/80148210",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto Shippuden the Movie: Blood Prison",
+      "netflix_url": "https://www.netflix.com/title/80152537",
+      "year": "2011",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "How to Be Really Bad",
+      "netflix_url": "https://www.netflix.com/title/80157798",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Alibaba Aur 40 Chor",
+      "netflix_url": "https://www.netflix.com/title/80158543",
+      "year": "1980",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "How It Ends",
+      "netflix_url": "https://www.netflix.com/title/80167481",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "GODZILLA Planet of the Monsters",
+      "netflix_url": "https://www.netflix.com/title/80180373",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "GODZILLA The Planet Eater",
+      "netflix_url": "https://www.netflix.com/title/80198623",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Last Days of American Crime",
+      "netflix_url": "https://www.netflix.com/title/80198975",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Maze Runner: Death Cure",
+      "netflix_url": "https://www.netflix.com/title/80201038",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Project Power",
+      "netflix_url": "https://www.netflix.com/title/80204465",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Spiderhead",
+      "netflix_url": "https://www.netflix.com/title/80210767",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "See You Yesterday",
+      "netflix_url": "https://www.netflix.com/title/80216758",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "TAU",
+      "netflix_url": "https://www.netflix.com/title/80217569",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bleach",
+      "netflix_url": "https://www.netflix.com/title/80217733",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rim of the World",
+      "netflix_url": "https://www.netflix.com/title/80218306",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Guillermo del Toro’s Pinocchio",
+      "netflix_url": "https://www.netflix.com/title/80218455",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The School for Good and Evil",
+      "netflix_url": "https://www.netflix.com/title/80218885",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Alien Xmas",
+      "netflix_url": "https://www.netflix.com/title/80226040",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Psychokinesis",
+      "netflix_url": "https://www.netflix.com/title/80226424",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "I Am Mother",
+      "netflix_url": "https://www.netflix.com/title/80227090",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Soccer Football Movie",
+      "netflix_url": "https://www.netflix.com/title/80228012",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Wendell & Wild",
+      "netflix_url": "https://www.netflix.com/title/80231433",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "In the Shadow of the Moon",
+      "netflix_url": "https://www.netflix.com/title/80231903",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Extinction",
+      "netflix_url": "https://www.netflix.com/title/80236421",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Errementari: The Blacksmith and the Devil",
+      "netflix_url": "https://www.netflix.com/title/80239565",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Upgrade",
+      "netflix_url": "https://www.netflix.com/title/80240085",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Fistful of Vengeance",
+      "netflix_url": "https://www.netflix.com/title/80240904",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Pets United",
+      "netflix_url": "https://www.netflix.com/title/80244429",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Midnight Sky",
+      "netflix_url": "https://www.netflix.com/title/80244645",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Next Gen",
+      "netflix_url": "https://www.netflix.com/title/80988892",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Damsel",
+      "netflix_url": "https://www.netflix.com/title/80991090",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mirage",
+      "netflix_url": "https://www.netflix.com/title/80991158",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mowgli: Legend of the Jungle",
+      "netflix_url": "https://www.netflix.com/title/80993105",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "They Cloned Tyrone",
+      "netflix_url": "https://www.netflix.com/title/80996324",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Altered Carbon: Resleeved",
+      "netflix_url": "https://www.netflix.com/title/81001991",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Uglies",
+      "netflix_url": "https://www.netflix.com/title/81002266",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Nightbooks",
+      "netflix_url": "https://www.netflix.com/title/81002270",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "netflix_url": "https://www.netflix.com/title/81002747",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ultraman: Rising",
+      "netflix_url": "https://www.netflix.com/title/81007144",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Atlas",
+      "netflix_url": "https://www.netflix.com/title/81012048",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Synchronic",
+      "netflix_url": "https://www.netflix.com/title/81025509",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Witcher: Nightmare of the Wolf",
+      "netflix_url": "https://www.netflix.com/title/81037868",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Awake",
+      "netflix_url": "https://www.netflix.com/title/81040362",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Brightburn",
+      "netflix_url": "https://www.netflix.com/title/81042819",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Night Teeth",
+      "netflix_url": "https://www.netflix.com/title/81043660",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Freaks – You're One of Us",
+      "netflix_url": "https://www.netflix.com/title/81058434",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dynasty Warriors",
+      "netflix_url": "https://www.netflix.com/title/81067756",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Wandering Earth",
+      "netflix_url": "https://www.netflix.com/title/81067760",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+      "netflix_url": "https://www.netflix.com/title/81068803",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Outside the Wire",
+      "netflix_url": "https://www.netflix.com/title/81074110",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "La Leyenda del Diamante",
+      "netflix_url": "https://www.netflix.com/title/81091378",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Invader Zim: Enter the Florpus",
+      "netflix_url": "https://www.netflix.com/title/81091957",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "NiNoKuni",
+      "netflix_url": "https://www.netflix.com/title/81093113",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Space Sweepers",
+      "netflix_url": "https://www.netflix.com/title/81094067",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Afterlife of the Party",
+      "netflix_url": "https://www.netflix.com/title/81095482",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The App",
+      "netflix_url": "https://www.netflix.com/title/81150338",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Curse of Bridge Hollow",
+      "netflix_url": "https://www.netflix.com/title/81156676",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bigbug",
+      "netflix_url": "https://www.netflix.com/title/81158472",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ne Zha",
+      "netflix_url": "https://www.netflix.com/title/81191389",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Code 8",
+      "netflix_url": "https://www.netflix.com/title/81194641",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rabbids Invasion Special: Mission to Mars",
+      "netflix_url": "https://www.netflix.com/title/81201048",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
+      "netflix_url": "https://www.netflix.com/title/81208936",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Double World",
+      "netflix_url": "https://www.netflix.com/title/81212831",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Troll",
+      "netflix_url": "https://www.netflix.com/title/81245455",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Don't Look Up",
+      "netflix_url": "https://www.netflix.com/title/81252357",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Fearless",
+      "netflix_url": "https://www.netflix.com/title/81252403",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Fullmetal Alchemist The Revenge of Scar",
+      "netflix_url": "https://www.netflix.com/title/81266975",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Fullmetal Alchemist The Final Alchemy",
+      "netflix_url": "https://www.netflix.com/title/81266981",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Blasted",
+      "netflix_url": "https://www.netflix.com/title/81276518",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Oxygen",
+      "netflix_url": "https://www.netflix.com/title/81277610",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "A Whisker Away",
+      "netflix_url": "https://www.netflix.com/title/81281872",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Paradise",
+      "netflix_url": "https://www.netflix.com/title/81288179",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Wonderland",
+      "netflix_url": "https://www.netflix.com/title/81290298",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Spaceman",
+      "netflix_url": "https://www.netflix.com/title/81301595",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Adam Project",
+      "netflix_url": "https://www.netflix.com/title/81309354",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Stowaway",
+      "netflix_url": "https://www.netflix.com/title/81321986",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Drifting Home",
+      "netflix_url": "https://www.netflix.com/title/81328781",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Super Me",
+      "netflix_url": "https://www.netflix.com/title/81335928",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bubble",
+      "netflix_url": "https://www.netflix.com/title/81345945",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Monster Hunter: Legends of the Guild",
+      "netflix_url": "https://www.netflix.com/title/81346827",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Yin-Yang Master: Dream Of Eternity",
+      "netflix_url": "https://www.netflix.com/title/81386963",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Astérix & Obélix: The Middle Kingdom",
+      "netflix_url": "https://www.netflix.com/title/81389022",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Mitchells vs. The Machines",
+      "netflix_url": "https://www.netflix.com/title/81399614",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Yin Yang Master",
+      "netflix_url": "https://www.netflix.com/title/81403965",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bird Box Barcelona",
+      "netflix_url": "https://www.netflix.com/title/81404810",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Monster Run",
+      "netflix_url": "https://www.netflix.com/title/81406611",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Soul",
+      "netflix_url": "https://www.netflix.com/title/81415286",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mobile Suit Gundam Hathaway",
+      "netflix_url": "https://www.netflix.com/title/81439253",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Deep",
+      "netflix_url": "https://www.netflix.com/title/81439267",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Nimona",
+      "netflix_url": "https://www.netflix.com/title/81444554",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Black Clover: Sword of the Wizard King",
+      "netflix_url": "https://www.netflix.com/title/81448990",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Once Upon a Crime",
+      "netflix_url": "https://www.netflix.com/title/81450775",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "How I Became a Superhero",
+      "netflix_url": "https://www.netflix.com/title/81453003",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rebel Moon — Part One: A Child of Fire",
+      "netflix_url": "https://www.netflix.com/title/81464239",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "JUNG_E",
+      "netflix_url": "https://www.netflix.com/title/81465109",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Night Raiders",
+      "netflix_url": "https://www.netflix.com/title/81470716",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Warriors of Future",
+      "netflix_url": "https://www.netflix.com/title/81473627",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Holiday on Mars",
+      "netflix_url": "https://www.netflix.com/title/81473656",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "I’m Your Man",
+      "netflix_url": "https://www.netflix.com/title/81479294",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Code 8 Part II",
+      "netflix_url": "https://www.netflix.com/title/81480320",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Witcher: Sirens of the Deep",
+      "netflix_url": "https://www.netflix.com/title/81484026",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "AI Love You",
+      "netflix_url": "https://www.netflix.com/title/81495715",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "A Vampire in the Family",
+      "netflix_url": "https://www.netflix.com/title/81495849",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Time Cut",
+      "netflix_url": "https://www.netflix.com/title/81504326",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Green Snake",
+      "netflix_url": "https://www.netflix.com/title/81504698",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Frankenstein",
+      "netflix_url": "https://www.netflix.com/title/81507921",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ghost in the Shell: SAC_2045 Sustainable War",
+      "netflix_url": "https://www.netflix.com/title/81513128",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Adipurush",
+      "netflix_url": "https://www.netflix.com/title/81519291",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Witcher Bestiary Season 1, Part 1",
+      "netflix_url": "https://www.netflix.com/title/81555914",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Characters of the Continent",
+      "netflix_url": "https://www.netflix.com/title/81555916",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Kitchen",
+      "netflix_url": "https://www.netflix.com/title/81557731",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Rats: A Witcher Tale",
+      "netflix_url": "https://www.netflix.com/title/81572393",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Great Flood",
+      "netflix_url": "https://www.netflix.com/title/81579978",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "My Oni Girl",
+      "netflix_url": "https://www.netflix.com/title/81582442",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Spy Kids: Armageddon",
+      "netflix_url": "https://www.netflix.com/title/81588091",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Firestarter",
+      "netflix_url": "https://www.netflix.com/title/81588646",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Office Invasion",
+      "netflix_url": "https://www.netflix.com/title/81590587",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Claus Family 3",
+      "netflix_url": "https://www.netflix.com/title/81591334",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Electric State",
+      "netflix_url": "https://www.netflix.com/title/81601562",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Jujutsu Kaisen 0: The Movie",
+      "netflix_url": "https://www.netflix.com/title/81602834",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Transformers: Rise of the Beasts",
+      "netflix_url": "https://www.netflix.com/title/81602889",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Kraven the Hunter",
+      "netflix_url": "https://www.netflix.com/title/81610596",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Last Man on Earth",
+      "netflix_url": "https://www.netflix.com/title/81621592",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rebel Moon — Part Two: The Scargiver",
+      "netflix_url": "https://www.netflix.com/title/81624666",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Violet Evergarden: Recollections",
+      "netflix_url": "https://www.netflix.com/title/81630362",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Thangalaan",
+      "netflix_url": "https://www.netflix.com/title/81632727",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Lost in Starlight",
+      "netflix_url": "https://www.netflix.com/title/81664623",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Troll 2",
+      "netflix_url": "https://www.netflix.com/title/81667085",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "netflix_url": "https://www.netflix.com/title/81670527",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Spirited",
+      "netflix_url": "https://www.netflix.com/title/81671921",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Venom: The Last Dance",
+      "netflix_url": "https://www.netflix.com/title/81680567",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Snow Sister",
+      "netflix_url": "https://www.netflix.com/title/81681292",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Family Pack",
+      "netflix_url": "https://www.netflix.com/title/81686180",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Suzume",
+      "netflix_url": "https://www.netflix.com/title/81696498",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bro (Kannada)",
+      "netflix_url": "https://www.netflix.com/title/81718502",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rebel Moon — Part One: Director’s Cut",
+      "netflix_url": "https://www.netflix.com/title/81722297",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Kalki 2898 AD (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81726031",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Pretty Guardian Sailor Moon Cosmos The Movie",
+      "netflix_url": "https://www.netflix.com/title/81732000",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Missing",
+      "netflix_url": "https://www.netflix.com/title/81732301",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rebel Moon — Part Two: Director’s Cut",
+      "netflix_url": "https://www.netflix.com/title/81746591",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mobile Suit Gundam SEED FREEDOM",
+      "netflix_url": "https://www.netflix.com/title/81747912",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Reversi",
+      "netflix_url": "https://www.netflix.com/title/81753678",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Night My Dad Saved Christmas 2",
+      "netflix_url": "https://www.netflix.com/title/81760566",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ghostbusters: Frozen Empire",
+      "netflix_url": "https://www.netflix.com/title/81762779",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Godzilla Minus One",
+      "netflix_url": "https://www.netflix.com/title/81767635",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Girl Haunts Boy",
+      "netflix_url": "https://www.netflix.com/title/81785089",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Subservience",
+      "netflix_url": "https://www.netflix.com/title/81786918",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Wild Robot",
+      "netflix_url": "https://www.netflix.com/title/81915938",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ostinato",
+      "netflix_url": "https://www.netflix.com/title/81923258",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Our Times",
+      "netflix_url": "https://www.netflix.com/title/81936019",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Time That Remains",
+      "netflix_url": "https://www.netflix.com/title/81939586",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Afraid",
+      "netflix_url": "https://www.netflix.com/title/81950625",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Panji Tengkorak",
+      "netflix_url": "https://www.netflix.com/title/82051053",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ghosting: The Spirit of Christmas",
+      "netflix_url": "https://www.netflix.com/title/82131934",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mahavatar Narsimha",
+      "netflix_url": "https://www.netflix.com/title/82131939",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ejen Ali: The Movie 2",
+      "netflix_url": "https://www.netflix.com/title/82137606",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Just Like a Christmas Movie",
+      "netflix_url": "https://www.netflix.com/title/82141895",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    }
+  ]
+}
