@@ -3,2076 +3,3757 @@
   "genre_url": "https://www.netflix.com/browse/genre/11714",
   "movies": [
     {
-      "title": "Sex and the City",
-      "netflix_url": "https://www.netflix.com/title/70136137",
-      "year": "2003",
-      "imdb_rating": "7.4",
-      "imdb_id": "tt0159206"
-    },
-    {
       "title": "Spartacus",
       "netflix_url": "https://www.netflix.com/title/70136152",
       "year": "2013",
       "imdb_rating": "N/A",
-      "imdb_id": "tt9125038"
+      "imdb_id": "tt9125038",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Grey's Anatomy",
       "netflix_url": "https://www.netflix.com/title/70140391",
       "year": "2025",
       "imdb_rating": "7.6",
-      "imdb_id": "tt0413573"
+      "imdb_id": "tt0413573",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Prison Break",
       "netflix_url": "https://www.netflix.com/title/70140425",
       "year": "2017",
       "imdb_rating": "7.5",
-      "imdb_id": "tt6638308"
+      "imdb_id": "tt6638308",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Nurse Jackie",
       "netflix_url": "https://www.netflix.com/title/70142362",
       "year": "2015",
       "imdb_rating": "N/A",
-      "imdb_id": "tt6610940"
+      "imdb_id": "tt6610940",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "NCIS",
       "netflix_url": "https://www.netflix.com/title/70142386",
       "year": "2021",
       "imdb_rating": "6.8",
-      "imdb_id": "tt14218674"
+      "imdb_id": "tt14218674",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Wildfire",
+      "netflix_url": "https://www.netflix.com/title/70142433",
+      "year": "2008",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt5926596",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Gossip Girl",
       "netflix_url": "https://www.netflix.com/title/70143811",
       "year": "2012",
       "imdb_rating": "8.3",
-      "imdb_id": "tt2632646"
+      "imdb_id": "tt2632646",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Breaking Bad",
       "netflix_url": "https://www.netflix.com/title/70143836",
       "year": "2013",
       "imdb_rating": "8.3",
-      "imdb_id": "tt3088036"
+      "imdb_id": "tt3088036",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Closer",
       "netflix_url": "https://www.netflix.com/title/70155602",
       "year": "2011",
       "imdb_rating": "7.8",
-      "imdb_id": "tt0458253"
+      "imdb_id": "tt0458253",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Touched by an Angel",
       "netflix_url": "https://www.netflix.com/title/70155613",
       "year": "2002",
       "imdb_rating": "6.1",
-      "imdb_id": "tt0108968"
+      "imdb_id": "tt0108968",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Gilmore Girls",
       "netflix_url": "https://www.netflix.com/title/70155618",
       "year": "2006",
       "imdb_rating": "8.2",
-      "imdb_id": "tt0238784"
+      "imdb_id": "tt0238784",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The West Wing",
       "netflix_url": "https://www.netflix.com/title/70157152",
       "year": "2005",
       "imdb_rating": "N/A",
-      "imdb_id": "tt8017930"
+      "imdb_id": "tt8017930",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Game",
       "netflix_url": "https://www.netflix.com/title/70157205",
       "year": "2008",
       "imdb_rating": "N/A",
-      "imdb_id": "tt1560192"
+      "imdb_id": "tt1560192",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Dawson's Creek",
+      "netflix_url": "https://www.netflix.com/title/70157460",
+      "year": "2002",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0118300",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "A Different World",
       "netflix_url": "https://www.netflix.com/title/70157520",
       "year": "1992",
       "imdb_rating": "6.9",
-      "imdb_id": "tt0092339"
+      "imdb_id": "tt0092339",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Heartland",
       "netflix_url": "https://www.netflix.com/title/70171946",
       "year": "2023",
       "imdb_rating": "5.1",
-      "imdb_id": "tt18282292"
+      "imdb_id": "tt18282292",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Zoey 101",
       "netflix_url": "https://www.netflix.com/title/70177036",
       "year": "2006",
       "imdb_rating": "7.2",
-      "imdb_id": "tt2102477"
+      "imdb_id": "tt2102477",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Walking Dead",
       "netflix_url": "https://www.netflix.com/title/70177057",
       "year": "2021",
       "imdb_rating": "7.4",
-      "imdb_id": "tt15130518"
-    },
-    {
-      "title": "House of Cards",
-      "netflix_url": "https://www.netflix.com/title/70178217",
-      "year": "2018",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt4959774"
+      "imdb_id": "tt15130518",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "H2O: Just Add Water",
       "netflix_url": "https://www.netflix.com/title/70180051",
       "year": "2009",
       "imdb_rating": "8.6",
-      "imdb_id": "tt1993352"
+      "imdb_id": "tt1993352",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Big C",
       "netflix_url": "https://www.netflix.com/title/70180085",
       "year": "2013",
       "imdb_rating": "8.1",
-      "imdb_id": "tt1515193"
+      "imdb_id": "tt1515193",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Homeland",
       "netflix_url": "https://www.netflix.com/title/70180387",
       "year": "2019",
       "imdb_rating": "N/A",
-      "imdb_id": "tt10121064"
+      "imdb_id": "tt10121064",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Falling Skies",
       "netflix_url": "https://www.netflix.com/title/70181814",
       "year": "2015",
       "imdb_rating": "7.1",
-      "imdb_id": "tt1462059"
+      "imdb_id": "tt1462059",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Shameless (U.S.)",
       "netflix_url": "https://www.netflix.com/title/70184207",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Suits",
       "netflix_url": "https://www.netflix.com/title/70195800",
       "year": "2019",
       "imdb_rating": "N/A",
-      "imdb_id": "tt10272222"
-    },
-    {
-      "title": "Scandal",
-      "netflix_url": "https://www.netflix.com/title/70197057",
-      "year": "2017",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt7663700"
+      "imdb_id": "tt10272222",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "La Reina del Sur",
       "netflix_url": "https://www.netflix.com/title/70205672",
       "year": "2022",
       "imdb_rating": "7.8",
-      "imdb_id": "tt1704637"
+      "imdb_id": "tt1704637",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Boys Over Flowers",
       "netflix_url": "https://www.netflix.com/title/70213130",
       "year": "2009",
       "imdb_rating": "7.8",
-      "imdb_id": "tt1370334"
+      "imdb_id": "tt1370334",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Secret Garden",
+      "netflix_url": "https://www.netflix.com/title/70215459",
+      "year": "2010",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt1841321",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Teen Wolf",
       "netflix_url": "https://www.netflix.com/title/70219484",
       "year": "2016",
       "imdb_rating": "7.7",
-      "imdb_id": "tt1567432"
+      "imdb_id": "tt1567432",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Franklin & Bash",
       "netflix_url": "https://www.netflix.com/title/70234879",
       "year": "2014",
       "imdb_rating": "7.6",
-      "imdb_id": "tt1600199"
+      "imdb_id": "tt1600199",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Nashville",
       "netflix_url": "https://www.netflix.com/title/70242086",
       "year": "2018",
       "imdb_rating": "7.1",
-      "imdb_id": "tt7365526"
+      "imdb_id": "tt7365526",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Orange Is the New Black",
       "netflix_url": "https://www.netflix.com/title/70242311",
       "year": "2019",
       "imdb_rating": "8.0",
-      "imdb_id": "tt2372162"
+      "imdb_id": "tt2372162",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Following",
       "netflix_url": "https://www.netflix.com/title/70242520",
       "year": "2015",
       "imdb_rating": "7.4",
-      "imdb_id": "tt2071645"
+      "imdb_id": "tt2071645",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "Derek",
-      "netflix_url": "https://www.netflix.com/title/70258489",
-      "year": "2015",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt4995806"
+      "title": "Vientos de agua",
+      "netflix_url": "https://www.netflix.com/title/70266992",
+      "year": "2006",
+      "imdb_rating": "8.7",
+      "imdb_id": "tt0459724",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Blacklist",
       "netflix_url": "https://www.netflix.com/title/70281312",
       "year": "2023",
       "imdb_rating": "7.9",
-      "imdb_id": "tt2741602"
+      "imdb_id": "tt2741602",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Black Sails",
       "netflix_url": "https://www.netflix.com/title/70285580",
       "year": "2017",
       "imdb_rating": "8.2",
-      "imdb_id": "tt2375692"
+      "imdb_id": "tt2375692",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Outlander",
       "netflix_url": "https://www.netflix.com/title/70285581",
       "year": "2023",
       "imdb_rating": "8.3",
-      "imdb_id": "tt3006802"
+      "imdb_id": "tt3006802",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "That Winter, the Wind Blows",
+      "netflix_url": "https://www.netflix.com/title/70296735",
+      "year": "2013",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt2806646",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Red Road",
       "netflix_url": "https://www.netflix.com/title/70299840",
       "year": "2015",
       "imdb_rating": "N/A",
-      "imdb_id": "tt5839230"
+      "imdb_id": "tt5839230",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Vikings",
       "netflix_url": "https://www.netflix.com/title/70301870",
       "year": "2019",
       "imdb_rating": "5.6",
-      "imdb_id": "tt9680558"
+      "imdb_id": "tt9680558",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "TURN: Washington's Spies",
       "netflix_url": "https://www.netflix.com/title/70302007",
       "year": "2017",
       "imdb_rating": "8.1",
-      "imdb_id": "tt2543328"
+      "imdb_id": "tt2543328",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Broadchurch",
+      "netflix_url": "https://www.netflix.com/title/70302484",
+      "year": "2017",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt2249364",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Marco Polo",
       "netflix_url": "https://www.netflix.com/title/70305883",
       "year": "2016",
       "imdb_rating": "N/A",
-      "imdb_id": "tt5960498"
+      "imdb_id": "tt5960498",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Peaky Blinders",
       "netflix_url": "https://www.netflix.com/title/80002479",
       "year": "2022",
       "imdb_rating": "N/A",
-      "imdb_id": "tt20835678"
-    },
-    {
-      "title": "Bloodline",
-      "netflix_url": "https://www.netflix.com/title/80010655",
-      "year": "2017",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt7736676"
+      "imdb_id": "tt20835678",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Grace and Frankie",
       "netflix_url": "https://www.netflix.com/title/80017537",
       "year": "2022",
       "imdb_rating": "8.2",
-      "imdb_id": "tt3609352"
-    },
-    {
-      "title": "Better Call Saul",
-      "netflix_url": "https://www.netflix.com/title/80021955",
-      "year": "2022",
-      "imdb_rating": "2.8",
-      "imdb_id": "tt20516438"
+      "imdb_id": "tt3609352",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Narcos",
       "netflix_url": "https://www.netflix.com/title/80025172",
       "year": "2017",
       "imdb_rating": "N/A",
-      "imdb_id": "tt8965464"
+      "imdb_id": "tt8965464",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "My Love from the Star",
+      "netflix_url": "https://www.netflix.com/title/80025266",
+      "year": "2013",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt6932632",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Get Down",
+      "netflix_url": "https://www.netflix.com/title/80025601",
+      "year": "2017",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt4592410",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Crown",
       "netflix_url": "https://www.netflix.com/title/80025678",
       "year": "2023",
       "imdb_rating": "N/A",
-      "imdb_id": "tt23463654"
+      "imdb_id": "tt23463654",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "El Cartel",
+      "netflix_url": "https://www.netflix.com/title/80025923",
+      "year": "2008",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt1260520",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Love",
       "netflix_url": "https://www.netflix.com/title/80026506",
       "year": "2018",
       "imdb_rating": "7.5",
-      "imdb_id": "tt5164432"
+      "imdb_id": "tt5164432",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Doctor Stranger",
+      "netflix_url": "https://www.netflix.com/title/80029520",
+      "year": "2014",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt3693414",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Pablo Escobar, el patrón del mal",
       "netflix_url": "https://www.netflix.com/title/80035684",
       "year": "2012",
       "imdb_rating": "8.4",
-      "imdb_id": "tt2187850"
+      "imdb_id": "tt2187850",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "El Cartel 2",
       "netflix_url": "https://www.netflix.com/title/80035689",
       "year": "2010",
       "imdb_rating": "6.7",
-      "imdb_id": "tt1667724"
+      "imdb_id": "tt1667724",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "Grantchester",
-      "netflix_url": "https://www.netflix.com/title/80043578",
-      "year": "2019",
-      "imdb_rating": "7.9",
-      "imdb_id": "tt3747572"
+      "title": "The Mafia Dolls",
+      "netflix_url": "https://www.netflix.com/title/80036140",
+      "year": "2018",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1585368",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "Master of None",
-      "netflix_url": "https://www.netflix.com/title/80049714",
-      "year": "2021",
-      "imdb_rating": "8.2",
-      "imdb_id": "tt4635276"
+      "title": "I Hear Your Voice",
+      "netflix_url": "https://www.netflix.com/title/80039909",
+      "year": "2013",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt3141190",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "A Series of Unfortunate Events",
       "netflix_url": "https://www.netflix.com/title/80050008",
       "year": "2019",
       "imdb_rating": "N/A",
-      "imdb_id": "tt27031122"
+      "imdb_id": "tt27031122",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Stranger Things",
       "netflix_url": "https://www.netflix.com/title/80057281",
       "year": "2025",
       "imdb_rating": "8.8",
-      "imdb_id": "tt36609232"
+      "imdb_id": "tt36609232",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Lucifer",
       "netflix_url": "https://www.netflix.com/title/80057918",
       "year": "2021",
       "imdb_rating": "N/A",
-      "imdb_id": "tt13800024"
+      "imdb_id": "tt13800024",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Blindspot",
       "netflix_url": "https://www.netflix.com/title/80058486",
       "year": "2020",
       "imdb_rating": "7.3",
-      "imdb_id": "tt4474344"
+      "imdb_id": "tt4474344",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Degrassi: Next Class",
+      "netflix_url": "https://www.netflix.com/title/80062047",
+      "year": "2017",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt5320160",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Poldark",
       "netflix_url": "https://www.netflix.com/title/80070050",
       "year": "2019",
       "imdb_rating": "8.3",
-      "imdb_id": "tt3636060"
+      "imdb_id": "tt3636060",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Nodame Cantabile",
+      "netflix_url": "https://www.netflix.com/title/80073596",
+      "year": "2006",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt0965546",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Last Kingdom",
       "netflix_url": "https://www.netflix.com/title/80074249",
       "year": "2022",
       "imdb_rating": "8.5",
-      "imdb_id": "tt4179452"
+      "imdb_id": "tt4179452",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Ranch",
       "netflix_url": "https://www.netflix.com/title/80077977",
       "year": "2020",
       "imdb_rating": "7.5",
-      "imdb_id": "tt4998212"
-    },
-    {
-      "title": "Sneaky Pete",
-      "netflix_url": "https://www.netflix.com/title/80095702",
-      "year": "2019",
-      "imdb_rating": "8.0",
-      "imdb_id": "tt5011816"
+      "imdb_id": "tt4998212",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Altered Carbon",
       "netflix_url": "https://www.netflix.com/title/80097140",
       "year": "2020",
       "imdb_rating": "6.4",
-      "imdb_id": "tt9310328"
+      "imdb_id": "tt9310328",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Frontier",
       "netflix_url": "https://www.netflix.com/title/80099656",
       "year": "2018",
       "imdb_rating": "5.3",
-      "imdb_id": "tt7776936"
+      "imdb_id": "tt7776936",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Dark",
       "netflix_url": "https://www.netflix.com/title/80100172",
       "year": "2020",
       "imdb_rating": "8.5",
-      "imdb_id": "tt11912196"
+      "imdb_id": "tt11912196",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Lost in Space",
       "netflix_url": "https://www.netflix.com/title/80104198",
       "year": "2021",
       "imdb_rating": "7.3",
-      "imdb_id": "tt5232792"
+      "imdb_id": "tt5232792",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Animal Kingdom",
       "netflix_url": "https://www.netflix.com/title/80104434",
       "year": "2022",
       "imdb_rating": "N/A",
-      "imdb_id": "tt24049342"
+      "imdb_id": "tt24049342",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Queen of the South",
       "netflix_url": "https://www.netflix.com/title/80107369",
       "year": "2021",
       "imdb_rating": "8.0",
-      "imdb_id": "tt1064899"
+      "imdb_id": "tt1064899",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Glitch",
       "netflix_url": "https://www.netflix.com/title/80108495",
       "year": "2019",
       "imdb_rating": "8.1",
-      "imdb_id": "tt10262178"
+      "imdb_id": "tt10262178",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Gilmore Girls: A Year in the Life",
       "netflix_url": "https://www.netflix.com/title/80109415",
       "year": "2016",
       "imdb_rating": "7.4",
-      "imdb_id": "tt5435008"
+      "imdb_id": "tt5435008",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Fauda",
+      "netflix_url": "https://www.netflix.com/title/80113612",
+      "year": "2023",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt4565380",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Designated Survivor",
       "netflix_url": "https://www.netflix.com/title/80113647",
       "year": "2019",
       "imdb_rating": "8.1",
-      "imdb_id": "tt10405394"
+      "imdb_id": "tt10405394",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "GLOW",
-      "netflix_url": "https://www.netflix.com/title/80114988",
-      "year": "2019",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt8892092"
-    },
-    {
-      "title": "Sacred Games",
-      "netflix_url": "https://www.netflix.com/title/80115328",
-      "year": "2019",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt14809460"
+      "title": "Galileo",
+      "netflix_url": "https://www.netflix.com/title/80114006",
+      "year": "2013",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt2956368",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "13 Reasons Why",
       "netflix_url": "https://www.netflix.com/title/80117470",
       "year": "2020",
       "imdb_rating": "7.4",
-      "imdb_id": "tt1837492"
+      "imdb_id": "tt1837492",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Atypical",
       "netflix_url": "https://www.netflix.com/title/80117540",
       "year": "2021",
       "imdb_rating": "8.2",
-      "imdb_id": "tt6315640"
+      "imdb_id": "tt6315640",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Ozark",
       "netflix_url": "https://www.netflix.com/title/80117552",
       "year": "2022",
       "imdb_rating": "N/A",
-      "imdb_id": "tt21024510"
+      "imdb_id": "tt21024510",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Raising Dion",
+      "netflix_url": "https://www.netflix.com/title/80117803",
+      "year": "2019",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt7826108",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "On My Block",
       "netflix_url": "https://www.netflix.com/title/80117809",
       "year": "2021",
       "imdb_rating": "5.6",
-      "imdb_id": "tt14016930"
+      "imdb_id": "tt14016930",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "Van Helsing",
-      "netflix_url": "https://www.netflix.com/title/80121349",
-      "year": "2021",
-      "imdb_rating": "3.1",
-      "imdb_id": "tt13304948"
+      "title": "Turn Up Charlie",
+      "netflix_url": "https://www.netflix.com/title/80124723",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt8304498",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "El Chapo",
       "netflix_url": "https://www.netflix.com/title/80133042",
       "year": "2018",
       "imdb_rating": "7.8",
-      "imdb_id": "tt6692188"
+      "imdb_id": "tt6692188",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Riverdale",
       "netflix_url": "https://www.netflix.com/title/80133311",
       "year": "2023",
       "imdb_rating": "6.4",
-      "imdb_id": "tt5420376"
+      "imdb_id": "tt5420376",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Anne with an E",
       "netflix_url": "https://www.netflix.com/title/80136311",
       "year": "2019",
       "imdb_rating": "8.6",
-      "imdb_id": "tt5421602"
+      "imdb_id": "tt5421602",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "The Dark Crystal: Age of Resistance",
-      "netflix_url": "https://www.netflix.com/title/80148535",
-      "year": "2019",
-      "imdb_rating": "8.4",
-      "imdb_id": "tt6905542"
-    },
-    {
-      "title": "StartUp",
-      "netflix_url": "https://www.netflix.com/title/80154285",
+      "title": "The Good Cop",
+      "netflix_url": "https://www.netflix.com/title/80157073",
       "year": "2018",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt32560880"
+      "imdb_rating": "7.0",
+      "imdb_id": "tt7183074",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Love Alarm",
       "netflix_url": "https://www.netflix.com/title/80168068",
       "year": "2021",
       "imdb_rating": "6.6",
-      "imdb_id": "tt9145880"
+      "imdb_id": "tt9145880",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Rosario Tijeras (Mexico)",
       "netflix_url": "https://www.netflix.com/title/80170690",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "The End of the F***ing World",
-      "netflix_url": "https://www.netflix.com/title/80175722",
-      "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "title": "Troy: Fall of a City",
+      "netflix_url": "https://www.netflix.com/title/80175352",
+      "year": "2018",
+      "imdb_rating": "4.1",
+      "imdb_id": "tt5103758",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Warrior",
       "netflix_url": "https://www.netflix.com/title/80177331",
       "year": "2023",
       "imdb_rating": "N/A",
-      "imdb_id": "tt23728056"
+      "imdb_id": "tt23728056",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Good Girls",
       "netflix_url": "https://www.netflix.com/title/80177342",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.7",
+      "imdb_id": "tt6474378",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Never Have I Ever",
       "netflix_url": "https://www.netflix.com/title/80179190",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.8",
+      "imdb_id": "tt10062292",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "S.W.A.T.",
       "netflix_url": "https://www.netflix.com/title/80179292",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0257076",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Dynasty",
       "netflix_url": "https://www.netflix.com/title/80179394",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.3",
+      "imdb_id": "tt10244600",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Resident",
       "netflix_url": "https://www.netflix.com/title/80179399",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.8",
+      "imdb_id": "tt6483832",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Insatiable",
       "netflix_url": "https://www.netflix.com/title/80179905",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt6487482",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Innocents",
+      "netflix_url": "https://www.netflix.com/title/80184405",
+      "year": "2018",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt8021824",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Reply 1988",
+      "netflix_url": "https://www.netflix.com/title/80188351",
+      "year": "2015",
+      "imdb_rating": "9.0",
+      "imdb_id": "tt5182866",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Cinderella and the Four Knights",
       "netflix_url": "https://www.netflix.com/title/80188605",
       "year": "2016",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt5764414",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Haunting of Hill House",
       "netflix_url": "https://www.netflix.com/title/80189221",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.5",
+      "imdb_id": "tt6763664",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Witcher",
       "netflix_url": "https://www.netflix.com/title/80189685",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15495150",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Luis Miguel - The Series",
       "netflix_url": "https://www.netflix.com/title/80191236",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.0",
+      "imdb_id": "tt8045690",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Absentia",
       "netflix_url": "https://www.netflix.com/title/80192909",
       "year": "2025",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt1610996",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The 101st Proposal",
+      "netflix_url": "https://www.netflix.com/title/80194675",
+      "year": "1991",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The A List",
       "netflix_url": "https://www.netflix.com/title/80196382",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9185110",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "A Discovery of Witches",
       "netflix_url": "https://www.netflix.com/title/80197103",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.8",
+      "imdb_id": "tt2177461",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Sex Education",
       "netflix_url": "https://www.netflix.com/title/80197526",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.2",
+      "imdb_id": "tt7767422",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Eddy",
+      "netflix_url": "https://www.netflix.com/title/80197844",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt7322210",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Cursed",
       "netflix_url": "https://www.netflix.com/title/80199393",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.0",
+      "imdb_id": "tt8210856",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Elite",
       "netflix_url": "https://www.netflix.com/title/80200942",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28603484",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Victoria",
       "netflix_url": "https://www.netflix.com/title/80201726",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt10574580",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Northern Rescue",
+      "netflix_url": "https://www.netflix.com/title/80202258",
+      "year": "2019",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt8462412",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Girls from Ipanema",
+      "netflix_url": "https://www.netflix.com/title/80208298",
+      "year": "2020",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt8001788",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Freud",
       "netflix_url": "https://www.netflix.com/title/80209184",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt8667956",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Baby",
+      "netflix_url": "https://www.netflix.com/title/80211634",
+      "year": "2020",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt9760852",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "You",
       "netflix_url": "https://www.netflix.com/title/80211991",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.1",
+      "imdb_id": "tt4045450",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Ratched",
       "netflix_url": "https://www.netflix.com/title/80213445",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt7423538",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Puerta 7",
+      "netflix_url": "https://www.netflix.com/title/80214339",
+      "year": "2020",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt9170386",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "A Korean Odyssey",
       "netflix_url": "https://www.netflix.com/title/80214405",
       "year": "2017",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.9",
+      "imdb_id": "tt7099334",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "Prison Playbook",
-      "netflix_url": "https://www.netflix.com/title/80214406",
-      "year": "2017",
-      "imdb_rating": null,
-      "imdb_id": null
+      "title": "Away",
+      "netflix_url": "https://www.netflix.com/title/80214512",
+      "year": "2020",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt8787802",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Eternaut",
+      "netflix_url": "https://www.netflix.com/title/80216888",
+      "year": "2025",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt27740241",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Sintonia",
+      "netflix_url": "https://www.netflix.com/title/80217315",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt8165086",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Top Boy",
       "netflix_url": "https://www.netflix.com/title/80217669",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.4",
+      "imdb_id": "tt1830379",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "How to Sell Drugs Online (Fast)",
       "netflix_url": "https://www.netflix.com/title/80218448",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.8",
+      "imdb_id": "tt9184994",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Dead to Me",
       "netflix_url": "https://www.netflix.com/title/80219707",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.9",
+      "imdb_id": "tt8064302",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Undercover Law",
+      "netflix_url": "https://www.netflix.com/title/80220145",
+      "year": "2017",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt8888710",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Secrets of Summer",
+      "netflix_url": "https://www.netflix.com/title/80220644",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt12379170",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Fate: The Winx Saga",
+      "netflix_url": "https://www.netflix.com/title/80220679",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt8179402",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Nicky Jam: El Ganador",
+      "netflix_url": "https://www.netflix.com/title/80221207",
+      "year": "2018",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt7949200",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Brotherhood",
+      "netflix_url": "https://www.netflix.com/title/80221210",
+      "year": "2022",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt19704920",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "October Faction",
       "netflix_url": "https://www.netflix.com/title/80221644",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.2",
+      "imdb_id": "tt8826128",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Vampires",
       "netflix_url": "https://www.netflix.com/title/80222720",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.8",
+      "imdb_id": "tt11829316",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Undercover",
+      "netflix_url": "https://www.netflix.com/title/80225312",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt8415986",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Part-Time Idol",
+      "netflix_url": "https://www.netflix.com/title/80225526",
+      "year": "2017",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt8835780",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Switched",
       "netflix_url": "https://www.netflix.com/title/80230018",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt8747882",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Bridgerton",
       "netflix_url": "https://www.netflix.com/title/80232398",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt8740790",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Ragnarok",
       "netflix_url": "https://www.netflix.com/title/80232926",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
-    },
-    {
-      "title": "The Queen's Gambit",
-      "netflix_url": "https://www.netflix.com/title/80234304",
-      "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt9251798",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Outer Banks",
       "netflix_url": "https://www.netflix.com/title/80236318",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt10293938",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Shadow and Bone",
+      "netflix_url": "https://www.netflix.com/title/80236319",
+      "year": "2023",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt2403776",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "AJ and the Queen",
       "netflix_url": "https://www.netflix.com/title/80237329",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt8404094",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Order",
       "netflix_url": "https://www.netflix.com/title/80238357",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt11418156",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Sweet Magnolias",
       "netflix_url": "https://www.netflix.com/title/80239866",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt9077540",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Virgin River",
       "netflix_url": "https://www.netflix.com/title/80240027",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt9077530",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Ghost Bride",
+      "netflix_url": "https://www.netflix.com/title/80241234",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9690302",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Locke & Key",
       "netflix_url": "https://www.netflix.com/title/80241239",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
-    },
-    {
-      "title": "The Politician",
-      "netflix_url": "https://www.netflix.com/title/80241248",
-      "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt3007572",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Manifest",
       "netflix_url": "https://www.netflix.com/title/80241318",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28078418",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Girl in the Mirror",
       "netflix_url": "https://www.netflix.com/title/80241472",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.2",
+      "imdb_id": "tt13106334",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Feel Good",
+      "netflix_url": "https://www.netflix.com/title/80241545",
+      "year": "2021",
+      "imdb_rating": "9.2",
+      "imdb_id": "tt14600000",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Irregulars",
       "netflix_url": "https://www.netflix.com/title/80241581",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.1",
+      "imdb_id": "tt10893694",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Girl from Nowhere",
       "netflix_url": "https://www.netflix.com/title/80241947",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt8351032",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Dolly Parton's Heartstrings",
+      "netflix_url": "https://www.netflix.com/title/80244846",
+      "year": "2019",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt8509922",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The English Game",
       "netflix_url": "https://www.netflix.com/title/80244928",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.6",
+      "imdb_id": "tt8403664",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Little Women",
       "netflix_url": "https://www.netflix.com/title/80245073",
       "year": "2017",
-      "imdb_rating": null,
-      "imdb_id": null
-    },
-    {
-      "title": "Halston",
-      "netflix_url": "https://www.netflix.com/title/80245103",
-      "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt6853528",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Princess Weiyoung",
       "netflix_url": "https://www.netflix.com/title/80987113",
       "year": "2016",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.8",
+      "imdb_id": "tt6353308",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Mr. Sunshine",
       "netflix_url": "https://www.netflix.com/title/80991107",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.7",
+      "imdb_id": "tt7094780",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Sex/Life",
       "netflix_url": "https://www.netflix.com/title/80991848",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31645058",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Lupin",
       "netflix_url": "https://www.netflix.com/title/80994082",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.1",
+      "imdb_id": "tt22192398",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Firefly Lane",
       "netflix_url": "https://www.netflix.com/title/80994340",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.7",
+      "imdb_id": "tt9012876",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Narcos: Mexico",
       "netflix_url": "https://www.netflix.com/title/80997085",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.3",
+      "imdb_id": "tt8714904",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Dracula",
       "netflix_url": "https://www.netflix.com/title/80997687",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt9139220",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "After Life",
-      "netflix_url": "https://www.netflix.com/title/80998491",
-      "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
-    },
-    {
-      "title": "Beautiful Gong Shim",
-      "netflix_url": "https://www.netflix.com/title/80998943",
-      "year": "2016",
-      "imdb_rating": null,
-      "imdb_id": null
+      "title": "Dr. Romantic",
+      "netflix_url": "https://www.netflix.com/title/80998941",
+      "year": "2020",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt6157190",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Doctors",
       "netflix_url": "https://www.netflix.com/title/80998959",
       "year": "2016",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.6",
+      "imdb_id": "tt5764332",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Yong Pal",
+      "netflix_url": "https://www.netflix.com/title/80998966",
+      "year": "2015",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt5010664",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Birth of a Beauty",
       "netflix_url": "https://www.netflix.com/title/80999059",
       "year": "2014",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.9",
+      "imdb_id": "tt4269776",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Pinocchio",
       "netflix_url": "https://www.netflix.com/title/80999060",
       "year": "2014",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.1",
+      "imdb_id": "tt4201628",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Cobra Kai",
       "netflix_url": "https://www.netflix.com/title/81002370",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34867022",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Daughter From Another Mother",
       "netflix_url": "https://www.netflix.com/title/81002483",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt11937732",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "Inventing Anna",
-      "netflix_url": "https://www.netflix.com/title/81008305",
+      "title": "Only For Love",
+      "netflix_url": "https://www.netflix.com/title/81009545",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt29366100",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Little Things",
+      "netflix_url": "https://www.netflix.com/title/81011159",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15465480",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Life",
+      "netflix_url": "https://www.netflix.com/title/81011508",
+      "year": "2018",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt8243158",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Biohackers",
+      "netflix_url": "https://www.netflix.com/title/81011660",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt9849210",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "All American",
       "netflix_url": "https://www.netflix.com/title/81012998",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.6",
+      "imdb_id": "tt7414406",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Legacies",
       "netflix_url": "https://www.netflix.com/title/81013015",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37545282",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Charmed",
       "netflix_url": "https://www.netflix.com/title/81013657",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt13837040",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Sound of Magic",
+      "netflix_url": "https://www.netflix.com/title/81016276",
+      "year": "2022",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt14460684",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Queen of Flow",
       "netflix_url": "https://www.netflix.com/title/81022683",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.7",
+      "imdb_id": "tt8560918",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "3 Body Problem",
-      "netflix_url": "https://www.netflix.com/title/81024821",
-      "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "title": "Selena: The Series",
+      "netflix_url": "https://www.netflix.com/title/81022733",
+      "year": "2020",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt9421868",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Barbarians",
+      "netflix_url": "https://www.netflix.com/title/81024039",
+      "year": "2022",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt9184986",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Inmate",
+      "netflix_url": "https://www.netflix.com/title/81025403",
+      "year": "2018",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt8452308",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Ginny & Georgia",
       "netflix_url": "https://www.netflix.com/title/81025696",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt10813940",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "My First First Love",
       "netflix_url": "https://www.netflix.com/title/81026700",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt8995604",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Cashero",
       "netflix_url": "https://www.netflix.com/title/81028446",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt30413044",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Misty",
+      "netflix_url": "https://www.netflix.com/title/81029905",
+      "year": "2018",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt7890244",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "My ID is Gangnam Beauty",
       "netflix_url": "https://www.netflix.com/title/81030026",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt8585954",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Surviving Summer",
+      "netflix_url": "https://www.netflix.com/title/81032078",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt13925166",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Rebelde",
+      "netflix_url": "https://www.netflix.com/title/81033243",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt14153686",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Emily in Paris",
       "netflix_url": "https://www.netflix.com/title/81037371",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt8962124",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "DASH & LILY",
+      "netflix_url": "https://www.netflix.com/title/81037871",
+      "year": "2020",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt1758589",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Squid Game",
       "netflix_url": "https://www.netflix.com/title/81040344",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37455270",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Road to Love",
       "netflix_url": "https://www.netflix.com/title/81055408",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt0304790",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Queen and the Conqueror",
       "netflix_url": "https://www.netflix.com/title/81055416",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.6",
+      "imdb_id": "tt10348700",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Heartstopper",
       "netflix_url": "https://www.netflix.com/title/81059939",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.5",
+      "imdb_id": "tt10638036",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Sweet Home",
       "netflix_url": "https://www.netflix.com/title/81061734",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34925873",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Roswell, New Mexico",
       "netflix_url": "https://www.netflix.com/title/81062075",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
-    },
-    {
-      "title": "El Camino: A Breaking Bad Movie",
-      "netflix_url": "https://www.netflix.com/title/81078819",
-      "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.3",
+      "imdb_id": "tt7588054",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Midnight Mass",
       "netflix_url": "https://www.netflix.com/title/81083626",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.7",
+      "imdb_id": "tt10574558",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Savage Rhythm",
+      "netflix_url": "https://www.netflix.com/title/81084349",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt14494806",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "One Hundred Years of Solitude",
       "netflix_url": "https://www.netflix.com/title/81087583",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.3",
+      "imdb_id": "tt9892936",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Abyss",
       "netflix_url": "https://www.netflix.com/title/81087762",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
-    },
-    {
-      "title": "Hollywood",
-      "netflix_url": "https://www.netflix.com/title/81088617",
-      "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt10055734",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "El Dragón: Return of a Warrior",
       "netflix_url": "https://www.netflix.com/title/81098497",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt9281190",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "From Scratch",
       "netflix_url": "https://www.netflix.com/title/81104486",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.9",
+      "imdb_id": "tt11252254",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Midnight Club",
       "netflix_url": "https://www.netflix.com/title/81112336",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt13444912",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Lockwood & Co.",
       "netflix_url": "https://www.netflix.com/title/81116060",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt13802576",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Rookie Historian Goo Hae-Ryung",
       "netflix_url": "https://www.netflix.com/title/81116487",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.1",
+      "imdb_id": "tt10406128",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Snabba Cash",
+      "netflix_url": "https://www.netflix.com/title/81128450",
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt10540276",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Katla",
       "netflix_url": "https://www.netflix.com/title/81133094",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt11102190",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Griselda",
       "netflix_url": "https://www.netflix.com/title/81133447",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt15837600",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "All For Love",
+      "netflix_url": "https://www.netflix.com/title/81144163",
+      "year": "2020",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10347886",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "BLUE EYE SAMURAI",
+      "netflix_url": "https://www.netflix.com/title/81144203",
+      "year": "2023",
+      "imdb_rating": "8.7",
+      "imdb_id": "tt13309742",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "When the Camellia Blooms",
+      "netflix_url": "https://www.netflix.com/title/81144925",
+      "year": "2019",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt10826064",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Vikings: Valhalla",
       "netflix_url": "https://www.netflix.com/title/81149450",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt11311302",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "The Sandman",
-      "netflix_url": "https://www.netflix.com/title/81150303",
-      "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
-    },
-    {
-      "title": "Anatomy of a Scandal",
-      "netflix_url": "https://www.netflix.com/title/81152788",
+      "title": "El Rey, Vicente Fernández",
+      "netflix_url": "https://www.netflix.com/title/81152939",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt16442864",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "Maid",
-      "netflix_url": "https://www.netflix.com/title/81166770",
+      "title": "Crash Landing on You",
+      "netflix_url": "https://www.netflix.com/title/81159258",
+      "year": "2019",
+      "imdb_rating": "8.7",
+      "imdb_id": "tt10850932",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Way Home",
+      "netflix_url": "https://www.netflix.com/title/81170067",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31709095",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Playlist",
+      "netflix_url": "https://www.netflix.com/title/81186296",
+      "year": "2022",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt11564258",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Prodigal Son",
+      "netflix_url": "https://www.netflix.com/title/81189423",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15010410",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Chocolate",
+      "netflix_url": "https://www.netflix.com/title/81193313",
+      "year": "2019",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt11214028",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Fanático",
+      "netflix_url": "https://www.netflix.com/title/81203364",
+      "year": "2022",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt13322978",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Ripple",
       "netflix_url": "https://www.netflix.com/title/81205146",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36116572",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Young Royals",
       "netflix_url": "https://www.netflix.com/title/81210762",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.6",
+      "imdb_id": "tt31402962",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Light in Your Eyes",
+      "netflix_url": "https://www.netflix.com/title/81211166",
+      "year": "2019",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt9466968",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "First Kill",
       "netflix_url": "https://www.netflix.com/title/81213653",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt13315156",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Kings of Jo'Burg",
       "netflix_url": "https://www.netflix.com/title/81219804",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.3",
+      "imdb_id": "tt13453828",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Love After Music",
+      "netflix_url": "https://www.netflix.com/title/81219817",
+      "year": "2023",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt18280522",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Baby Reindeer",
       "netflix_url": "https://www.netflix.com/title/81219887",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.7",
+      "imdb_id": "tt13649112",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Sweet Tooth",
       "netflix_url": "https://www.netflix.com/title/81221380",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.7",
+      "imdb_id": "tt12809988",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Empress",
       "netflix_url": "https://www.netflix.com/title/81222923",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31183805",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Secret Life of My Secretary",
       "netflix_url": "https://www.netflix.com/title/81224991",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt10101272",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Maverix",
+      "netflix_url": "https://www.netflix.com/title/81233669",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15373864",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Wayward",
       "netflix_url": "https://www.netflix.com/title/81236299",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.9",
+      "imdb_id": "tt27427326",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Haunting of Bly Manor",
       "netflix_url": "https://www.netflix.com/title/81237854",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt10970552",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "All of Us Are Dead",
       "netflix_url": "https://www.netflix.com/title/81237994",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.6",
+      "imdb_id": "tt14169960",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Hospital Playlist",
+      "netflix_url": "https://www.netflix.com/title/81239224",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt14252232",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "It's Okay to Not Be Okay",
       "netflix_url": "https://www.netflix.com/title/81243992",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
-    },
-    {
-      "title": "Hightown",
-      "netflix_url": "https://www.netflix.com/title/81247393",
-      "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.6",
+      "imdb_id": "tt12451520",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "One Day",
       "netflix_url": "https://www.netflix.com/title/81256740",
       "year": "2024",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt16283804",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Half Bad: The Bastard Son & The Devil Himself",
+      "netflix_url": "https://www.netflix.com/title/81258637",
+      "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Missing You",
       "netflix_url": "https://www.netflix.com/title/81258639",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.1",
+      "imdb_id": "tt31019484",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Vince Staples Show",
       "netflix_url": "https://www.netflix.com/title/81264943",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt21993130",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Witcher: Blood Origin",
       "netflix_url": "https://www.netflix.com/title/81279312",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.0",
+      "imdb_id": "tt12785720",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "CAT",
+      "netflix_url": "https://www.netflix.com/title/81281063",
+      "year": "2022",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt22297578",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Far From Home",
+      "netflix_url": "https://www.netflix.com/title/81282563",
+      "year": "2022",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt23747008",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "DAHMER",
       "netflix_url": "https://www.netflix.com/title/81287562",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt21946032",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Bangkok Breaking",
+      "netflix_url": "https://www.netflix.com/title/81287826",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt14202282",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Diplomat",
       "netflix_url": "https://www.netflix.com/title/81288983",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt26229612",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Record of Youth",
       "netflix_url": "https://www.netflix.com/title/81290301",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt12850322",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Back to 15",
+      "netflix_url": "https://www.netflix.com/title/81295007",
+      "year": "2024",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt15301854",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Reign Supreme",
+      "netflix_url": "https://www.netflix.com/title/81303658",
+      "year": "2022",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt14302518",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Lincoln Lawyer",
       "netflix_url": "https://www.netflix.com/title/81303831",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt1189340",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Fake Profile",
+      "netflix_url": "https://www.netflix.com/title/81304948",
+      "year": "2025",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt14494938",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Kingdom: Ashin of the North",
       "netflix_url": "https://www.netflix.com/title/81312457",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.9",
+      "imdb_id": "tt13412252",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Supacell",
+      "netflix_url": "https://www.netflix.com/title/81316476",
+      "year": "2024",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt16283758",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Run On",
       "netflix_url": "https://www.netflix.com/title/81318872",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt13271834",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Uncanny Counter",
       "netflix_url": "https://www.netflix.com/title/81323551",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.0",
+      "imdb_id": "tt13273826",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "XO, Kitty",
       "netflix_url": "https://www.netflix.com/title/81324724",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt14490706",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Heartbreak High",
+      "netflix_url": "https://www.netflix.com/title/81340922",
+      "year": "1999",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt15054962",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Narco-Saints",
+      "netflix_url": "https://www.netflix.com/title/81343748",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt14518692",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Doctor John",
+      "netflix_url": "https://www.netflix.com/title/81343862",
+      "year": "2019",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt10544464",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "A Model Family",
+      "netflix_url": "https://www.netflix.com/title/81349413",
+      "year": "2022",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt21289712",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Cook of Castamar",
       "netflix_url": "https://www.netflix.com/title/81354529",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt12626014",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Shahmaran",
       "netflix_url": "https://www.netflix.com/title/81354934",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.4",
+      "imdb_id": "tt16913068",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "The Brothers Sun",
-      "netflix_url": "https://www.netflix.com/title/81389634",
+      "title": "Another Self",
+      "netflix_url": "https://www.netflix.com/title/81380432",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt14899624",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Leopard",
       "netflix_url": "https://www.netflix.com/title/81392676",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt15198870",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Recruit",
       "netflix_url": "https://www.netflix.com/title/81396545",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0292506",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "High Heat",
+      "netflix_url": "https://www.netflix.com/title/81397422",
+      "year": "2022",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt15721088",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Pedro el escamoso",
+      "netflix_url": "https://www.netflix.com/title/81398329",
+      "year": "2001",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0283770",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Newly Rich, Newly Poor",
       "netflix_url": "https://www.netflix.com/title/81398330",
       "year": "2007",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32375039",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Copenhagen Cowboy",
+      "netflix_url": "https://www.netflix.com/title/81402987",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt26452836",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Do You Like Brahms?",
+      "netflix_url": "https://www.netflix.com/title/81404914",
+      "year": "2020",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt12867750",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Resident Alien",
       "netflix_url": "https://www.netflix.com/title/81405070",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.0",
+      "imdb_id": "tt8690918",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Turn of the Tide",
+      "netflix_url": "https://www.netflix.com/title/81410976",
+      "year": "2025",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt20268688",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Law According to Lidia Poët",
       "netflix_url": "https://www.netflix.com/title/81414644",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt15441160",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Fall of the House of Usher",
       "netflix_url": "https://www.netflix.com/title/81414665",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.9",
+      "imdb_id": "tt15567174",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Sing Again",
+      "netflix_url": "https://www.netflix.com/title/81415960",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27417159",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Baby Fever",
+      "netflix_url": "https://www.netflix.com/title/81416676",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36997594",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "FOREVER",
       "netflix_url": "https://www.netflix.com/title/81418639",
       "year": "2025",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt15515490",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Gymnastics Academy: A Second Chance",
+      "netflix_url": "https://www.netflix.com/title/81422413",
+      "year": "2022",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt15654944",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "An Incurable Case of Love",
+      "netflix_url": "https://www.netflix.com/title/81423569",
+      "year": "2020",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt11290750",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Price of Glory",
+      "netflix_url": "https://www.netflix.com/title/81424951",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt11459858",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Unbroken Voice",
+      "netflix_url": "https://www.netflix.com/title/81424958",
+      "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "My Life With the Walter Boys",
       "netflix_url": "https://www.netflix.com/title/81426967",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt8323628",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Beast in Me",
       "netflix_url": "https://www.netflix.com/title/81427733",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt31974367",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Infamy",
+      "netflix_url": "https://www.netflix.com/title/81427796",
+      "year": "2023",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt28658091",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Boots",
       "netflix_url": "https://www.netflix.com/title/81427990",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.9",
+      "imdb_id": "tt27987047",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The King's Affection",
       "netflix_url": "https://www.netflix.com/title/81430282",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.0",
+      "imdb_id": "tt14609428",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Nevertheless,",
       "netflix_url": "https://www.netflix.com/title/81435649",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt14518284",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Néro the Assassin",
       "netflix_url": "https://www.netflix.com/title/81436246",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt32400599",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Gentlemen",
       "netflix_url": "https://www.netflix.com/title/81437051",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
-    },
-    {
-      "title": "Yellowjackets",
-      "netflix_url": "https://www.netflix.com/title/81437281",
-      "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.0",
+      "imdb_id": "tt13210838",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Death by Lightning",
       "netflix_url": "https://www.netflix.com/title/81438325",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.7",
+      "imdb_id": "tt31121364",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Criminal Code",
       "netflix_url": "https://www.netflix.com/title/81442394",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt22459586",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "More than Blue: The Series",
+      "netflix_url": "https://www.netflix.com/title/81442597",
+      "year": "2021",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt15381716",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Bloodhounds",
       "netflix_url": "https://www.netflix.com/title/81444051",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.1",
+      "imdb_id": "tt26315487",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "BEEF",
       "netflix_url": "https://www.netflix.com/title/81447461",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.0",
+      "imdb_id": "tt14403178",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "American Primeval",
       "netflix_url": "https://www.netflix.com/title/81457507",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.0",
+      "imdb_id": "tt24069848",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Ransom Canyon",
       "netflix_url": "https://www.netflix.com/title/81459107",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt28088031",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Blood Coast",
       "netflix_url": "https://www.netflix.com/title/81462496",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt28129282",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Orange Days",
+      "netflix_url": "https://www.netflix.com/title/81465204",
+      "year": "2004",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt0431557",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Nurse",
+      "netflix_url": "https://www.netflix.com/title/81473355",
+      "year": "2023",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt24948454",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Perfect Couple",
       "netflix_url": "https://www.netflix.com/title/81474158",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt11514868",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Queen Charlotte: A Bridgerton Story",
       "netflix_url": "https://www.netflix.com/title/81476183",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.6",
+      "imdb_id": "tt14661396",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Dabba Cartel",
+      "netflix_url": "https://www.netflix.com/title/81476853",
+      "year": "2025",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt15340954",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Champion",
+      "netflix_url": "https://www.netflix.com/title/81478663",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33085651",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Bulgasal: Immortal Souls",
       "netflix_url": "https://www.netflix.com/title/81483462",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "From Me to You: Kimi ni Todoke",
+      "netflix_url": "https://www.netflix.com/title/81483827",
+      "year": "2023",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt22001792",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Abandons",
       "netflix_url": "https://www.netflix.com/title/81485923",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt16280546",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "Doom at Your Service",
-      "netflix_url": "https://www.netflix.com/title/81488912",
-      "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "title": "PULSE",
+      "netflix_url": "https://www.netflix.com/title/81498229",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36333545",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "A Man in Full",
-      "netflix_url": "https://www.netflix.com/title/81506171",
-      "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "title": "DI4RIES",
+      "netflix_url": "https://www.netflix.com/title/81504820",
+      "year": "2023",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt20449034",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Your Turn to Kill",
       "netflix_url": "https://www.netflix.com/title/81506809",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.1",
+      "imdb_id": "tt15034594",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Twenty Five Twenty One",
+      "netflix_url": "https://www.netflix.com/title/81517168",
+      "year": "2022",
+      "imdb_rating": "8.6",
+      "imdb_id": "tt17513352",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Alchemy of Souls",
       "netflix_url": "https://www.netflix.com/title/81517188",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.7",
+      "imdb_id": "tt20859920",
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "Time Flies",
-      "netflix_url": "https://www.netflix.com/title/81517478",
-      "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "title": "Glass Heart",
+      "netflix_url": "https://www.netflix.com/title/81517368",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31501513",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Extraordinary Attorney Woo",
       "netflix_url": "https://www.netflix.com/title/81518991",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.6",
+      "imdb_id": "tt20869502",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Glory",
       "netflix_url": "https://www.netflix.com/title/81519223",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.2",
+      "imdb_id": "tt21344706",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Raising Voices",
+      "netflix_url": "https://www.netflix.com/title/81557682",
+      "year": "2024",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt22188654",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Women at War",
       "netflix_url": "https://www.netflix.com/title/81564749",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt14579330",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Luz: The Light of the Heart",
+      "netflix_url": "https://www.netflix.com/title/81566662",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27760092",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "A Time Called You",
       "netflix_url": "https://www.netflix.com/title/81569769",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.8",
+      "imdb_id": "tt21627438",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "UNTAMED",
       "netflix_url": "https://www.netflix.com/title/81575641",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt31710822",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Ferry: The Series",
+      "netflix_url": "https://www.netflix.com/title/81579442",
+      "year": "2023",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt28466970",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Trunk",
+      "netflix_url": "https://www.netflix.com/title/81582447",
+      "year": "2024",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt26773401",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Ghost Doctor",
       "netflix_url": "https://www.netflix.com/title/81587524",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.9",
+      "imdb_id": "tt16493854",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "All American: Homecoming",
+      "netflix_url": "https://www.netflix.com/title/81588388",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt14088994",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Sirens",
       "netflix_url": "https://www.netflix.com/title/81589551",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.7",
+      "imdb_id": "tt31429675",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Royals",
+      "netflix_url": "https://www.netflix.com/title/81593166",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33098081",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "61st Street",
       "netflix_url": "https://www.netflix.com/title/81595826",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt9810248",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Volume",
+      "netflix_url": "https://www.netflix.com/title/81598305",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30693412",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Last Samurai Standing",
       "netflix_url": "https://www.netflix.com/title/81607397",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.6",
+      "imdb_id": "tt32237534",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Dark Winds",
       "netflix_url": "https://www.netflix.com/title/81613903",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.7",
+      "imdb_id": "tt15017118",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Poong, the Joseon Psychiatrist",
+      "netflix_url": "https://www.netflix.com/title/81618684",
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt21423436",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Baby Bandito",
+      "netflix_url": "https://www.netflix.com/title/81619198",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27997713",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Hierarchy",
       "netflix_url": "https://www.netflix.com/title/81624364",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.0",
+      "imdb_id": "tt27763561",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Shanty Town",
+      "netflix_url": "https://www.netflix.com/title/81630495",
+      "year": "2023",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt22099034",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Geek Girl",
+      "netflix_url": "https://www.netflix.com/title/81637842",
+      "year": "2024",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt26426076",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Interview with the Vampire",
       "netflix_url": "https://www.netflix.com/title/81639986",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0110148",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Don’t Come Home",
       "netflix_url": "https://www.netflix.com/title/81641421",
       "year": "2024",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt31158589",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Quartet",
+      "netflix_url": "https://www.netflix.com/title/81642940",
+      "year": "2017",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt6287398",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Ikebukuro West Gate Park",
+      "netflix_url": "https://www.netflix.com/title/81642952",
+      "year": "2003",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0331389",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Tiger and Dragon",
+      "netflix_url": "https://www.netflix.com/title/81642967",
+      "year": "2005",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "I Will Be Your Bloom",
+      "netflix_url": "https://www.netflix.com/title/81642980",
+      "year": "2022",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt26346520",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Gringo Hunters",
       "netflix_url": "https://www.netflix.com/title/81645267",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.4",
+      "imdb_id": "tt31220187",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Gangs of Oslo",
+      "netflix_url": "https://www.netflix.com/title/81653643",
+      "year": "2023",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt24364150",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Amsterdam Empire",
+      "netflix_url": "https://www.netflix.com/title/81654735",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31835154",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Accident",
       "netflix_url": "https://www.netflix.com/title/81659092",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34140273",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "HIS & HERS",
+      "netflix_url": "https://www.netflix.com/title/81662954",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33035373",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "House of Guinness",
       "netflix_url": "https://www.netflix.com/title/81664250",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt13542714",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Anne Rice's Mayfair Witches",
       "netflix_url": "https://www.netflix.com/title/81664607",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
-    },
-    {
-      "title": "Monsters",
-      "netflix_url": "https://www.netflix.com/title/81665094",
-      "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt16294502",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Land of Sin",
       "netflix_url": "https://www.netflix.com/title/81666695",
       "year": "2026",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Breathless",
+      "netflix_url": "https://www.netflix.com/title/81667161",
+      "year": "2025",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0053472",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "See You in My 19th Life",
       "netflix_url": "https://www.netflix.com/title/81671426",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.7",
+      "imdb_id": "tt27838483",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Found",
       "netflix_url": "https://www.netflix.com/title/81674523",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34379083",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Trauma Code: Heroes on Call",
       "netflix_url": "https://www.netflix.com/title/81677629",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.4",
+      "imdb_id": "tt28106730",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "When Life Gives You Tangerines",
       "netflix_url": "https://www.netflix.com/title/81681535",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "9.1",
+      "imdb_id": "tt26471411",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Doctor Cha",
+      "netflix_url": "https://www.netflix.com/title/81682438",
+      "year": "2023",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt27075857",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Yizo Yizo",
+      "netflix_url": "https://www.netflix.com/title/81682804",
+      "year": "2004",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt0421485",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Asset",
+      "netflix_url": "https://www.netflix.com/title/81683146",
+      "year": "2025",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt33293130",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Your Honor",
       "netflix_url": "https://www.netflix.com/title/81684531",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.6",
+      "imdb_id": "tt7440726",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Envious",
       "netflix_url": "https://www.netflix.com/title/81687655",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32213331",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Walking Dead: Daryl Dixon",
       "netflix_url": "https://www.netflix.com/title/81696964",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34754658",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Strong Girl Nam-soon",
       "netflix_url": "https://www.netflix.com/title/81697981",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.6",
+      "imdb_id": "tt29225198",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Doctor Slump",
       "netflix_url": "https://www.netflix.com/title/81697985",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt27135274",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Love & Death",
       "netflix_url": "https://www.netflix.com/title/81698459",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt14586350",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Lady's Companion",
       "netflix_url": "https://www.netflix.com/title/81699152",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt31092106",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Castaway Diva",
+      "netflix_url": "https://www.netflix.com/title/81701128",
+      "year": "2023",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt28348835",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Olympo",
+      "netflix_url": "https://www.netflix.com/title/81702553",
+      "year": "2025",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt33029688",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Just Alice",
       "netflix_url": "https://www.netflix.com/title/81704482",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Dear Hongrang",
       "netflix_url": "https://www.netflix.com/title/81708925",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Defying Destiny",
       "netflix_url": "https://www.netflix.com/title/81710012",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0013981",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Walking Dead: Dead City",
       "netflix_url": "https://www.netflix.com/title/81713653",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt18546730",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Newly Rich, Newly Poor",
       "netflix_url": "https://www.netflix.com/title/81714569",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32375039",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Unnatural",
+      "netflix_url": "https://www.netflix.com/title/81714729",
+      "year": "2018",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt7521882",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Dr. Storks",
+      "netflix_url": "https://www.netflix.com/title/81717172",
+      "year": "2017",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt4930608",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Sullivan's Crossing",
       "netflix_url": "https://www.netflix.com/title/81738319",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt21064598",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Resident Playbook",
       "netflix_url": "https://www.netflix.com/title/81739042",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.0",
+      "imdb_id": "tt31171500",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Weak Hero",
       "netflix_url": "https://www.netflix.com/title/81742615",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.4",
+      "imdb_id": "tt20234568",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Run Away",
       "netflix_url": "https://www.netflix.com/title/81744420",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.1",
+      "imdb_id": "tt0286017",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Waterfront",
       "netflix_url": "https://www.netflix.com/title/81745063",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt31216548",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Four Seasons",
       "netflix_url": "https://www.netflix.com/title/81750702",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt30826447",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Price of Confession",
       "netflix_url": "https://www.netflix.com/title/81757813",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37218592",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "A Good Girl's Guide to Murder",
+      "netflix_url": "https://www.netflix.com/title/81759464",
+      "year": "2024",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt28118211",
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Beauty in Black",
       "netflix_url": "https://www.netflix.com/title/81764523",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Black Forceps",
+      "netflix_url": "https://www.netflix.com/title/81779950",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Kisarazu Cat's Eye",
+      "netflix_url": "https://www.netflix.com/title/81781693",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Black Swindler",
+      "netflix_url": "https://www.netflix.com/title/81781809",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Monster: The Ed Gein Story",
       "netflix_url": "https://www.netflix.com/title/81783093",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "As You Stood By",
       "netflix_url": "https://www.netflix.com/title/81900129",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Double",
       "netflix_url": "https://www.netflix.com/title/81900131",
-      "year": "2024",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Shinjuku Field Hospital",
+      "netflix_url": "https://www.netflix.com/title/81901151",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Good Luck!!",
+      "netflix_url": "https://www.netflix.com/title/81922646",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "A Life : A Love",
+      "netflix_url": "https://www.netflix.com/title/81922658",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Beautiful Life",
+      "netflix_url": "https://www.netflix.com/title/81922670",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Family",
+      "netflix_url": "https://www.netflix.com/title/81922695",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Perfect Match",
       "netflix_url": "https://www.netflix.com/title/81927382",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Tokyo Love Story",
+      "netflix_url": "https://www.netflix.com/title/81947170",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Beach Boys",
+      "netflix_url": "https://www.netflix.com/title/81947184",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Dr. Coto's Clinic",
+      "netflix_url": "https://www.netflix.com/title/81947201",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "I Am Not Mendoza",
       "netflix_url": "https://www.netflix.com/title/81948201",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Heavenly Ever After",
       "netflix_url": "https://www.netflix.com/title/81952837",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
-      "title": "The Story of Pearl Girl",
-      "netflix_url": "https://www.netflix.com/title/81954670",
-      "year": "2024",
+      "title": "RIV4LRIES",
+      "netflix_url": "https://www.netflix.com/title/81970194",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Be nice to people",
+      "netflix_url": "https://www.netflix.com/title/81978389",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Mogura",
+      "netflix_url": "https://www.netflix.com/title/82010936",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Hunting Wives",
       "netflix_url": "https://www.netflix.com/title/82013700",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Bon Appétit, Your Majesty",
       "netflix_url": "https://www.netflix.com/title/82024852",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Pro Bono",
       "netflix_url": "https://www.netflix.com/title/82024857",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Friendly Rivalry",
       "netflix_url": "https://www.netflix.com/title/82036243",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Ya Boy Kongming!",
+      "netflix_url": "https://www.netflix.com/title/82047725",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Shine on Me",
       "netflix_url": "https://www.netflix.com/title/82055473",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Beyond the Bar",
       "netflix_url": "https://www.netflix.com/title/82065691",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The 19th Medical Chart",
+      "netflix_url": "https://www.netflix.com/title/82072592",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "A Thousand Tomorrows",
       "netflix_url": "https://www.netflix.com/title/82077073",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Radiation House",
+      "netflix_url": "https://www.netflix.com/title/82078183",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Divorce Lawyer",
+      "netflix_url": "https://www.netflix.com/title/82078262",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Titans: The Rise of Hollywood",
+      "netflix_url": "https://www.netflix.com/title/82089628",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Titans: The Rise of Wall Street",
       "netflix_url": "https://www.netflix.com/title/82089639",
-      "year": "2022",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "HANA-KIMI",
+      "netflix_url": "https://www.netflix.com/title/82116128",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Pride of the Temp",
+      "netflix_url": "https://www.netflix.com/title/82119517",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Hataraki Man",
+      "netflix_url": "https://www.netflix.com/title/82119616",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "NOS4A2",
       "netflix_url": "https://www.netflix.com/title/82134739",
-      "year": "2020",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "This Is Going To Hurt",
+      "netflix_url": "https://www.netflix.com/title/82135567",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "11.22.63",
       "netflix_url": "https://www.netflix.com/title/82166536",
-      "year": "2016",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Vendetta of An",
       "netflix_url": "https://www.netflix.com/title/82648017",
-      "year": "2025",
+      "year": null,
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     }
   ]
 }

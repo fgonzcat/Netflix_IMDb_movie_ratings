@@ -1,685 +1,879 @@
 {
-  "genre": "LGBTQ",
+  "genre": "lgbtq",
   "genre_url": "https://www.netflix.com/browse/genre/5977",
   "movies": [
     {
       "title": "Eternal Summer",
       "netflix_url": "https://www.netflix.com/title/70079159",
       "year": "2006",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0885520",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ3ZGNlZjMtMjM1Yy00OTg3LThhNTItZTQxMDQ5OTJkYTNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Inseparable childhood friends Shou-heng and Cheng-shing have their world thrown into chaos when a new girl comes to town and falls for Shou-heng. Director Leste Chen's sensitive tale of friendship and yearning."
     },
     {
       "title": "Brother Outsider: The Life of Bayard Rustin",
       "netflix_url": "https://www.netflix.com/title/70139371",
       "year": "2003",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0337902",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM2ODQ2MzQ3MV5BMl5BanBnXkFtZTcwMzQxMDI3Mw@@._V1_SX300.jpg",
+      "Plot": "Documentary on Bayard Rustin, best-remembered as the organizer of the 1963 March on Washington."
     },
     {
       "title": "Blue Is the Warmest Color",
       "netflix_url": "https://www.netflix.com/title/70275600",
       "year": "2013",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Duck Butter",
       "netflix_url": "https://www.netflix.com/title/80115118",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.2",
+      "imdb_id": "tt6958014",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MTMxMTM4NV5BMl5BanBnXkFtZTgwNjAzNjAxNTM@._V1_SX300.jpg",
+      "Plot": "Dissatisfied with the dishonesty they see in dating and relationships, two women make a pact to spend 24 hours together, hoping to find a new way to create intimacy."
     },
     {
       "title": "Elisa & Marcela",
       "netflix_url": "https://www.netflix.com/title/80121387",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.6",
+      "imdb_id": "tt6704898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ2ZWIzNmEtNTI1Ni00NTlmLWEwMGEtMzNjMzc5NzlkZmQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1901, Elisa Sanchez Loriga took on the identity of Mario Sánchez to marry her lover of fifteen years, Marcela Gracia Ibeas."
     },
     {
       "title": "To Each, Her Own",
       "netflix_url": "https://www.netflix.com/title/80160994",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.4",
+      "imdb_id": "tt6290418",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhkNmM5MTctMTI5Ny00ZTcyLWJhYjEtNDQ4ZTFiOTA3ZmM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Simone plans to inform her conservative Jewish family that she's a lesbian, but as she proceeds with coming out she finds herself attracted to a man."
     },
     {
       "title": "Alex Strangelove",
       "netflix_url": "https://www.netflix.com/title/80168189",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.3",
+      "imdb_id": "tt5688996",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ4MjIxOTYyNF5BMl5BanBnXkFtZTgwMTc3MDg0NTM@._V1_SX300.jpg",
+      "Plot": "Alex, high school class president, nerd and a straight A student, has been dating Claire a long time. They decide to sleep together but then he meets a gay guy and he's confused."
     },
     {
       "title": "So My Grandma’s a Lesbian!",
       "netflix_url": "https://www.netflix.com/title/80173486",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.4",
+      "imdb_id": "tt9695258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWI3YmFhOTYtMGE3Zi00MGRlLTkxY2ItNTkyOTI2ZDhmNjkxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A promising young lawyer sees her plans to wed into an important and ultraconservative family in danger when her grandma decides to marry her girl friend."
     },
     {
       "title": "The Death and Life of Marsha P. Johnson",
       "netflix_url": "https://www.netflix.com/title/80189623",
       "year": "2017",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt5233558",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMwYTQ0OWYtYzkwZi00MDVlLTg0ZTQtNjQ0MjBjZDVmNTNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Victoria Cruz investigates the mysterious 1992 death of black gay rights activist and Stonewall veteran, Marsha P. Johnson. Using archival interviews with Johnson, and new interviews with Johnson's family, friends and fellow activ..."
     },
     {
       "title": "Let It Snow",
       "netflix_url": "https://www.netflix.com/title/80201542",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.9",
+      "imdb_id": "tt1950235",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGRmNjFlZjAtYzNjOC00ZDBjLWFmODctZGE0OTYwNGMxYjRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a small town on Christmas Eve, a snowstorm brings together a group of young people."
     },
     {
       "title": "All In My Family",
       "netflix_url": "https://www.netflix.com/title/80208662",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt9097148",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODAzYzc2ZDgtNmE1OS00MThiLThjNGQtYzljOWQwYzY3ZTk4XkEyXkFqcGdeQXVyMjAyODk4NzQ@._V1_SX300.jpg",
+      "Plot": "From documentarian Hao Wu comes a heartfelt portrait of how he created a thoroughly modern family in America, only to face the dilemma of introducing his same-sex partner and their children to his deeply traditional parents and re..."
     },
     {
       "title": "A Secret Love",
       "netflix_url": "https://www.netflix.com/title/80209024",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.8",
+      "imdb_id": "tt3260524",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q3ZWU2N2YtMThkZi00YWJmLTg5MzUtN2IxZDg0OGU5MDI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Falling in love in 1947, two women -- Pat Henschel and pro baseball player Terry Donahue -- begin a 65-year journey of love and overcoming prejudice."
     },
     {
       "title": "Feminists: What Were They Thinking?",
       "netflix_url": "https://www.netflix.com/title/80216844",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt5419676",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWM4MDFiMTgtMGQwNS00MTMyLWJkMmMtMTNjNGY5MWY1Njc1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Feminists: What Were They Thinking? takes aim at our current culture revealing all too vividly the urgent need for continued change."
     },
     {
       "title": "Dance of the Forty One",
       "netflix_url": "https://www.netflix.com/title/80235267",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Boy Erased",
       "netflix_url": "https://www.netflix.com/title/80240538",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.9",
+      "imdb_id": "tt7008872",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzM2MzU1NTM4NF5BMl5BanBnXkFtZTgwNTMwMzI1NjM@._V1_SX300.jpg",
+      "Plot": "The son of a Baptist preacher unwillingly participates in a church-supported gay conversion program after being forcibly outed to his parents."
     },
     {
       "title": "The Miseducation of Cameron Post",
       "netflix_url": "https://www.netflix.com/title/80240971",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.6",
+      "imdb_id": "tt6257174",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhiZWU3NjQtNGQ5ZC00MTlmLWFlYjktZDFhODhlZTU3MDU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1993, a teenage girl is forced into a gay conversion therapy center by her conservative guardians."
     },
     {
       "title": "The Boys in the Band",
       "netflix_url": "https://www.netflix.com/title/81000365",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10199914",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODFkOTU5ZDEtY2I1My00NWQyLWJmYTItZjgxZjAxZTU3MjM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "At a birthday party in 1968 New York, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths."
     },
     {
       "title": "Girl",
       "netflix_url": "https://www.netflix.com/title/81004374",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt8254556",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTE5Njk1YzItMzEyYi00ZjQ2LTgzYjYtNTczYzIzN2QyYzE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A promising teenage dancer enrolls at a prestigious ballet school while grappling with her gender dysphoria."
     },
     {
       "title": "The Half Of It",
       "netflix_url": "https://www.netflix.com/title/81005150",
       "year": "2020",
       "imdb_rating": "6.9",
-      "imdb_id": "tt9683478"
+      "imdb_id": "tt9683478",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Y0NWUzNmEtMDM4My00ODQyLTg1NGItOGViYjg0MzNlYTQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When smart but cash-strapped teen Ellie Chu agrees to write a love letter for a jock, she doesn't expect to become his friend - or fall for his crush."
     },
     {
       "title": "Circus of Books",
       "netflix_url": "https://www.netflix.com/title/81011569",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt8727582",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ4MTZhNjMtZjE2My00ZjA5LTg5NjctYWQ1YjA4N2UxMTkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1976, Karen and Barry Mason had fallen on hard times and were looking for a way to support their young family when they answered an ad in the Los Angeles Times. Larry Flynt was seeking distributors for Hustler Magazine. What wa..."
     },
     {
       "title": "Stay on Board: The Leo Baker Story",
       "netflix_url": "https://www.netflix.com/title/81018205",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt21100124",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWQyODBiNTEtYWE3MS00Zjg4LWIzNTgtOTg1N2VkMjkzYzIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows celebrated competitive skating icon Leo Baker as they try to make space for themselves in the gendered world of pro sports and build a more inclusive skate culture, which leads them to doing the punkest thing imaginable."
     },
     {
       "title": "Untold: Caitlyn Jenner",
       "netflix_url": "https://www.netflix.com/title/81026436",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt15101946",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3ZDQ0NzItNTI5MC00N2UyLTljMmMtYjYzOWI4Y2Q0M2RkXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+      "Plot": "After a failed attempt in 1972, Caitlyn Jenner made it her mission to win decathlon gold in Montreal in 1976."
     },
     {
       "title": "Untold: Deal With the Devil",
       "netflix_url": "https://www.netflix.com/title/81026437",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt15085794",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODM5M2FlNDEtYTE2OC00ODM5LTg1NmEtNzI3M2RkNDA1YzRlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+      "Plot": "Christy Martin broke boundaries and noses as she rose in the boxing world, but her public persona belied personal demons, abuse and a threat on her life."
     },
     {
       "title": "Cobalt Blue",
       "netflix_url": "https://www.netflix.com/title/81029148",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt15314640",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTIxNWJjZGItNjAyNC00NTlmLTk1MDItZWM2MTQwZmIzMGFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a brother and sister fall in love with the same man, ensuing events shatter a traditional Marathi family. Based on Sachin Kundalkar's novel."
     },
     {
       "title": "The Tree of Blood",
       "netflix_url": "https://www.netflix.com/title/81029383",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.4",
+      "imdb_id": "tt6433832",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY4NDFlYjEtZTFiNC00MDQzLWJkODMtMDM2YWIzNGFhODI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rebeca and Marc make a travel to discover their mutual family pasts in Rebeca's grandparents house."
     },
     {
       "title": "Pray Away",
       "netflix_url": "https://www.netflix.com/title/81040370",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt11224358",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI0MDA5ZTgtOGZmMy00NzQzLWE0ODktZDkyYjIzNjNhOWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Former leaders of the \"pray the gay away\" movement contend with the aftermath unleashed by their actions, while a survivor seeks healing and acceptance from more than a decade of trauma."
     },
     {
       "title": "Bruised",
       "netflix_url": "https://www.netflix.com/title/81043365",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15407686",
+      "Poster": "N/A",
+      "Plot": "N/A"
     },
     {
       "title": "BEAUTY",
       "netflix_url": "https://www.netflix.com/title/81044100",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.2",
+      "imdb_id": "tt11364112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU0MDI4YWUtOWViYy00NzFkLWI3ZjAtNjIxNTljMWFkMDdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A gifted young Black woman struggles to maintain her voice and identity after she’s offered a lucrative recording contract."
     },
     {
       "title": "Dear Ex",
       "netflix_url": "https://www.netflix.com/title/81045891",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt8443704",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTBlOWY2NjMtOWM1Ny00NWY1LWI0YmQtMmY4ODYxMDVkZGUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A teenage boy and his mother are further driven apart when they find out that his father's life insurance policy is to be received by his lover."
     },
     {
       "title": "More the Merrier",
       "netflix_url": "https://www.netflix.com/title/81070890",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.5",
+      "imdb_id": "tt6925902",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjdlNjQ1NzgtZGQwZC00MGY0LThkYmItZjI1MGZkMmU4OGJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A diverse group of people share a night of sexual self-discovery."
     },
     {
       "title": "Ek Ladki Ko Dekha Toh Aisa Laga",
       "netflix_url": "https://www.netflix.com/title/81076749",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8108164",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ3YmRjYjYtOWY5OS00MTVkLTg3OWQtY2M5ZmJmMmFkODM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The film tells the story of closeted lesbian Sweety Chaudhary and her attempts to come out to her conservative, traditional family."
     },
     {
       "title": "The Prom",
       "netflix_url": "https://www.netflix.com/title/81079914",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.9",
+      "imdb_id": "tt10161886",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ViN2NkY2QtNTU2Yy00MjE0LTgxZWEtMmNmYTZmOTU4ODJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A troupe of hilariously self-obsessed theater stars swarm into a small conservative Indiana town in support of a high-school girl who wants to take her girlfriend to the prom."
     },
     {
       "title": "Do Paise Ki Dhoop Chaar Aane Ki Baarish",
       "netflix_url": "https://www.netflix.com/title/81080769",
       "year": "2009",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1935782",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWI1YTY4ZmEtN2QyZC00YTFiLWI4MzUtM2VhOWMwNjNlZjIyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Plot": "When a sex worker hires a gay songwriter to care for her disabled son, the ensuing bonds that form offer a complex portrayal of love and family."
     },
     {
       "title": "Rocko's Modern Life: Static Cling",
       "netflix_url": "https://www.netflix.com/title/81091977",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.9",
+      "imdb_id": "tt6172460",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjBjY2QyNzYtMjVlOC00NWQwLWE2N2EtZDY1OGRmMmI1ZTA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After being in space for 20 years, Rocko and his friends attempt to adjust to an even more modern life in the 21st century. However, when he learns that his favorite 90s cartoon isn't on the air anymore, Rocko tries locating its c..."
     },
     {
       "title": "The Lulú Club",
       "netflix_url": "https://www.netflix.com/title/81093644",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt23489688",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjk0M2YzNWQtOWJjZi00OTdkLWE5ZmItMzZhMjZjNjdhNTNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Nicolás, one week away from getting married, receives a letter that forces him to face his best-kept secret: he is the father of a girl he only knew at birth. He only has 3 days to recover her before she goes to the adoption system."
     },
     {
       "title": "Rustin",
       "netflix_url": "https://www.netflix.com/title/81111528",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt14160834",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU0YTliNzItZmM0MS00YTg4LTg3NzMtN2U3OTAwZGIwNGM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Activist Bayard Rustin faces racism and homophobia as he helps change the course of Civil Rights history by orchestrating the 1963 March on Washington."
     },
     {
       "title": "Single All The Way",
       "netflix_url": "https://www.netflix.com/title/81148358",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.2",
+      "imdb_id": "tt14315756",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmVmNzBjMGEtZWQzNS00M2FkLWIzZDEtMThkZjBiMzkyMTE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Desperate to avoid his family's judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they're now in a relationship."
     },
     {
       "title": "Maestro",
       "netflix_url": "https://www.netflix.com/title/81171868",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt5535276",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2M1MWUyYzctMzk1Zi00M2RkLTkwY2YtMzE4MDhiZGQwZmU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This love story chronicles the lifelong relationship of conductor-composer Leonard Bernstein and actress Felicia Montealegre Cohn Bernstein."
     },
     {
       "title": "Mucho Mucho Amor: The Legend of Walter Mercado",
       "netflix_url": "https://www.netflix.com/title/81200204",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt11378264",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q1NDlmNTItYzNjZC00NGFmLTgzNTUtNzE4NDUxNjQzOGIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Every day for decades, Walter Mercado — the iconic, gender non-conforming astrologer — mesmerized 120 million Latino viewers with his extravagance and positivity."
     },
     {
       "title": "Mirror, Mirror",
       "netflix_url": "https://www.netflix.com/title/81215184",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.9",
+      "imdb_id": "tt12358208",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGY4NTZiNzYtYzUzMy00NGFmLThmYWItNDc3NjU4MTE3YTRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "4 staffers at a cosmetics firm in its 50th year: the marketing director who is almost as old himself, a 25 year old ambitious female assistant, her sister being pushed to \"come out,\" and an insecure chubby 40 year old administrator."
     },
     {
       "title": "John Was Trying to Contact Aliens",
       "netflix_url": "https://www.netflix.com/title/81252991",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.4",
+      "imdb_id": "tt11733790",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTNiNmQ4NjktMDEyOS00NmRiLTk2YjQtMzJiNjA5MDc2ZTllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "John Shepherd spent 30 years trying to contact extraterrestrials by broadcasting music millions of miles into space. After giving up the search he makes a different connection here on Earth."
     },
     {
       "title": "Operation Hyacinth",
       "netflix_url": "https://www.netflix.com/title/81258692",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt14315584",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDA0Yzg2ZGEtODM1NC00ZjBlLWIzOTgtNjkzNzI5ODVjMDUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Poland, 1985: Not satisfied with the result of a murder investigation, a young officer in communist Warsaw sets out on his own to discover the truth."
     },
     {
       "title": "Ride or Die",
       "netflix_url": "https://www.netflix.com/title/81261676",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.6",
+      "imdb_id": "tt14164234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBkZTU0ZWYtYWI4Ni00YmE5LWIyNzUtYzAxMTA0YjM4ZmE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rei helps the woman she's been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire."
     },
     {
       "title": "Disclosure",
       "netflix_url": "https://www.netflix.com/title/81284247",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.1",
+      "imdb_id": "tt8637504",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3NmE0YWItNzg0Mi00NDcwLWFjNzAtNDM3MzZjMDcwNzMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An in-depth look at Hollywood's depiction of transgender people and the impact of those stories on transgender lives and American culture."
     },
     {
       "title": "Your Name Engraved Herein",
       "netflix_url": "https://www.netflix.com/title/81287844",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt10329134",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODcwZDY4N2QtYzkwNy00NzNjLWIwODAtM2Y5MGU0YzM1MzQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1987, as martial law ends in Taiwan, Jia-han and Birdy fall in love amid family pressure, homophobia and social stigma."
     },
     {
       "title": "Fanfic",
       "netflix_url": "https://www.netflix.com/title/81307103",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.8",
+      "imdb_id": "tt27612422",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2E3N2ZjNGEtYTlmNy00ZTI0LTljNjctNjlhYWM1MTRjZGFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two high school students form an intense connection as they navigate the challenges of discovering and expressing their truest selves."
     },
     {
       "title": "Angèle",
       "netflix_url": "https://www.netflix.com/title/81313522",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt15820298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODEzODMzZjktZjdhZi00NzU0LTk3YmItMjMwNjhmZDRjZDg1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Belgian pop star Angèle reflects on her life and hopes as she finds balance amid the tears, joys and loneliness of fame. Told through her own words."
     },
     {
       "title": "Dancing Queens",
       "netflix_url": "https://www.netflix.com/title/81318514",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13032716",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTdiNTA5MTYtOWFkMC00ZDI0LWJhNWYtYmEyZmRjOGViMWZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Dylan Pettersson, a 23 year old girl from a small island in the Swedish archipelago with big dancing aspirations."
     },
     {
       "title": "Chandigarh Kare Aashiqui",
       "netflix_url": "https://www.netflix.com/title/81323993",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.7",
+      "imdb_id": "tt12861850",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2FlZTczODAtYjFlNy00MDc3LWE1YWYtMmVjYzEyZjJlZDBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Manu, a bodybuilder from Chandigarh, India, falls in love with Maanvi, a male Zumba teacher disguised as a woman. All seems well until this revelation causes turmoil in their love story."
     },
     {
       "title": "Fear Street Part 1: 1994",
       "netflix_url": "https://www.netflix.com/title/81325689",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Eldorado: Everything the Nazis Hate",
       "netflix_url": "https://www.netflix.com/title/81331646",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt27906298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIwOGFlOWEtMzVkYy00MmUwLTk2OWMtYWM0NzFjNWQ4Nzk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A glittery nightclub in 1920s Berlin becomes a haven for the queer community in this documentary exploring the freedoms lost amid Hitler's rise to power."
     },
     {
       "title": "The Boys in the Band: Something Personal",
       "netflix_url": "https://www.netflix.com/title/81332757",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt13206842",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmU2ODEzN2EtYWRmZC00NmExLWI0MDUtZmVlNGIyZWMwYTFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Decades after his play first put gay life center stage, Mart Crowley joins the cast of the 2020 film to reflect on the story's enduring legacy."
     },
     {
       "title": "Fear Street Part 3: 1666",
       "netflix_url": "https://www.netflix.com/title/81334750",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Anne+: The Film",
       "netflix_url": "https://www.netflix.com/title/81337079",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Heart Shot",
       "netflix_url": "https://www.netflix.com/title/81343173",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.9",
+      "imdb_id": "tt17162546",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDhmMmY4MzgtMzdmMS00YzVhLTlmNGQtZDJlZjc5MDEwNjU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this short film, teenagers Nikki and Sam are in love and planning their future together- until Nikki's dangerous past returns to threaten everything."
     },
     {
       "title": "The Invisible Thread",
       "netflix_url": "https://www.netflix.com/title/81346329",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt14540892",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY0YzU5YWUtYjg1NS00MDRiLWI1M2EtYWZhMjE2OTQ2N2U3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A teenage son of two fathers makes a documentary about his parents but is surprised when a real-life plot twist occurs in his family."
     },
     {
       "title": "Badhaai Do",
       "netflix_url": "https://www.netflix.com/title/81350338",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt11934846",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTUyMmNmOGMtZjgxYi00YzE5LTkzYjItNjdlNjg0YjlkMTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Shardul Thakur Flaglot and Suman Singh enter into a marriage of convenience but chaos ensues when her unhinged girlfriend comes to stay with them."
     },
     {
       "title": "I Care a Lot",
       "netflix_url": "https://www.netflix.com/title/81350429",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt22606428",
+      "Poster": "N/A",
+      "Plot": "N/A"
     },
     {
       "title": "The Dreamlife of Georgie Stone",
       "netflix_url": "https://www.netflix.com/title/81442970",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt16426596",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQzYmM5M2YtY2JiNS00MWY1LWFjOTEtMjY5ODI5MjcxOWZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sharing her journey from child to teen activist, Georgie Stone looks back at her life and historic fight for transgender rights in this documentary."
     },
     {
       "title": "Nimona",
       "netflix_url": "https://www.netflix.com/title/81444554",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt19500164",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyMmY0MWYtZGRkMC00MjhhLTgwNGUtYWVjZmQ4YjhjZWRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a knight in a futuristic medieval world is framed for a crime he didn't commit, the only one who can help him prove his innocence is Nimona -- a mischievous teen who happens to be a shapeshifting creature he's sworn to destroy."
     },
     {
       "title": "NYAD",
       "netflix_url": "https://www.netflix.com/title/81447231",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt5302918",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjBmNGY5YWUtNzg0Ny00YTQ2LWIwNjctOTMzOGI3Y2E1YzFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The remarkable true story of athlete Diana Nyad who, at the age of 60 and with the help of her best friend and coach, commits to achieving her life-long dream: a 110-mile open ocean swim from Cuba to Florida."
     },
     {
       "title": "Good Grief",
       "netflix_url": "https://www.netflix.com/title/81462549",
       "year": "2024",
       "imdb_rating": "N/A",
-      "imdb_id": "tt32204945"
+      "imdb_id": "tt32204945",
+      "Poster": "N/A",
+      "Plot": "N/A"
     },
     {
       "title": "Forever Out of My League",
       "netflix_url": "https://www.netflix.com/title/81468397",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Happy Ending",
       "netflix_url": "https://www.netflix.com/title/81578318",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.4",
+      "imdb_id": "tt21087084",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmZkZDBjMmMtMWNjOC00NzNhLThmMDMtYzc4YzY3MzE0YmMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A close couple Luna and Mink are celebrating their one year anniversary. But Luna has been faking her orgasms from the beginning of their relationship, her best friends suggest an idea of a threesome but this turns Luna's life ups..."
     },
     {
       "title": "Hurricane Season",
       "netflix_url": "https://www.netflix.com/title/81586527",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.9",
+      "imdb_id": "tt28657882",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYyMzdiYWMtZWIyOC00NTkxLTgzNTgtYzJlYzNjNDc4Y2MzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a group of teens finds a corpse floating in a canal, the brutal reality behind the perverse crime unravels a town's hidden secrets."
     },
     {
       "title": "Outstanding: A Comedy Revolution",
       "netflix_url": "https://www.netflix.com/title/81607752",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt20918352",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjlhZTE3MWQtM2RlNy00Nzg2LWFkNGUtNmVkODE3MWU1ZWYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A feature length documentary that explores the history of LGBTQ+ stand up comedy, considering its importance as an instrument for social change over the past five decades."
     },
     {
       "title": "Runs in the Family",
       "netflix_url": "https://www.netflix.com/title/81616775",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.6",
+      "imdb_id": "tt15988620",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDZlZGI5YzMtNGE5MS00Mzg0LWE0N2UtZWU1N2JhNWM2MGVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An Indian father takes his transgender son on a road trip across South Africa to rescue his son's long-lost mother from a rehab clinic in eSwatini."
     },
     {
       "title": "Nuovo Olimpo",
       "netflix_url": "https://www.netflix.com/title/81645391",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt18394610",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTNjMTU2MDQtOWFmMi00OTQyLWI0MjItMDAzZjdiNzA1M2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two 25-year-old men who meet by chance, fall madly in love, and are then separated due to an unexpected event. For the next thirty years they pursue the hope of finding each other again."
     },
     {
       "title": "Moving On",
       "netflix_url": "https://www.netflix.com/title/81664059",
       "year": "2022",
       "imdb_rating": "6.0",
-      "imdb_id": "tt15488088"
+      "imdb_id": "tt15488088",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDgxM2JmN2MtNjUzNy00ZDAwLTg1ODQtMmQzZDEzZWI3NDkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two old friends reconnect at a funeral and decide to get revenge on the widower who messed with them decades before."
     },
     {
       "title": "Partners in Crime (Philippines Movie)",
       "netflix_url": "https://www.netflix.com/title/81665492",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "LSD 2: Love Sex aur Dhokha 2",
       "netflix_url": "https://www.netflix.com/title/81672747",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "3.9",
+      "imdb_id": "tt14398312",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg2MzIxMmMtOTdiMy00NTdhLTk5ZDEtOGZhM2I4MDExODBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Complexities of modern relationships and self-discovery in the high-tech age are explored through interconnected stories of love, friendship, and identity."
     },
     {
       "title": "Fuchsia Libre",
       "netflix_url": "https://www.netflix.com/title/81677017",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31918671",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDJlMTE1Y2ItZDFkMS00OTUxLWExYWUtNjZlMjA0YTY2NzQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A secretly gay, \"dude, chong, pare, bro\" ends up becoming the crowd favorite of an underground wrestling circuit because of his costume and moniker. Can his underground success help him to be loved by his father?"
     },
     {
       "title": "I Wish You Had Told Me",
       "netflix_url": "https://www.netflix.com/title/81682079",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Brother",
       "netflix_url": "https://www.netflix.com/title/81687951",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.9",
+      "imdb_id": "tt15474896",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzRhMTRkMjYtYzBhMS00ZjI3LWEyYmQtODc5NjVkZmIwOGY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sons of Caribbean immigrants, Francis and Michael face questions of masculinity, identity and family amid the pulsing beat of Toronto's early hip-hop scene."
     },
     {
       "title": "Doi Boy",
       "netflix_url": "https://www.netflix.com/title/81688765",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.5",
+      "imdb_id": "tt10235688",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWMwM2ZhOTYtNzU2ZS00MTFmLWExYTEtNTM1NjY5OTFkMjc3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sorn, a sex worker from the Shan ethnic group of Myanmar, tries to build a future in Chiang Mai, Thailand, as an illegal refugee far from home, but he is drawn into a complex relationship with a client investigating a political ac..."
     },
     {
       "title": "Marry My Dead Body",
       "netflix_url": "https://www.netflix.com/title/81689962",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt22742964",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDY3OGQ4ZWMtMTU0OC00NjIzLTg3NTktYTI5NTllZWM0NDhkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "One day a police officer finds a red wedding envelope, only to find out that the owner is in fact a ghost asking for the officer's hand in marriage before reincarnation. What will happen when a human and a ghost form a special bond?"
     },
     {
       "title": "Chabuca",
       "netflix_url": "https://www.netflix.com/title/81696674",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32222167",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2QwNzZiZGYtMWZkYS00YTlhLWE5MGItOTE3NWU3NTM1MzUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Biopic that immerses us in the life of Peruvian host Ernesto Pimentel. A man who defied social conventions to become an icon of Peruvian television with his character of \"La Chola Chabuca\"."
     },
     {
       "title": "The Dads",
       "netflix_url": "https://www.netflix.com/title/81700362",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.2",
+      "imdb_id": "tt26218256",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ2NjNkYzUtNzgyMC00NmUxLTlkMzUtMzAwYzBkNzdjNzdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Five fathers of trans children join Dennis Shepard - the father of Matthew Shepard - for a weekend fishing trip where they find common ground across racial, geographical and generational lines: their unconditional love for their c..."
     },
     {
       "title": "Beautiful Rebel",
       "netflix_url": "https://www.netflix.com/title/81705944",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.3",
+      "imdb_id": "tt28690443",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZiMmYyNWItZjQwZS00NGNmLThjOWEtZTFmOTMzYzAxNjUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The origin story of one of Italy's greatest rock stars, Gianna Nannini, who chased her dream despite obstacles from her family and the music industry."
     },
     {
       "title": "TRANSMITZVAH",
       "netflix_url": "https://www.netflix.com/title/81718293",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.3",
+      "imdb_id": "tt32598478",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ0OGJiY2ItMTVkMy00ZWYwLTkyMjItN2VmM2MwNzU0ZDRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A famous Yiddish singer returns to her childhood neighborhood in Buenos Aires to confront her family and her past."
     },
     {
       "title": "Queen of Coal",
       "netflix_url": "https://www.netflix.com/title/81728098",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "3.3",
+      "imdb_id": "tt32832410",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ1MDk3NDAtYWFhZi00NDVhLWIwMzgtYmViZTEyZmU1MTM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A transgender woman lands her dream job of working in a carbon mine, but after having the sex-change surgery must face a superstition that bans female workers from entering the underground galleries."
     },
     {
       "title": "Bottoms",
       "netflix_url": "https://www.netflix.com/title/81731642",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.7",
+      "imdb_id": "tt17527468",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzEyNTNlNDAtNTMxOC00YzMzLWFkM2QtZmRiNGE5ZTQyMWFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two unpopular queer high-school students start a fight club to have sex before graduation."
     },
     {
       "title": "The Missing",
       "netflix_url": "https://www.netflix.com/title/81732301",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt28288396",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzcyZWJhM2ItNDNiNi00ZDRhLTlkMzAtZGMzNDExMDkwMDI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When an alien comes back to take him, a mouthless young man's life twists and turns as his memories untangle."
     },
     {
       "title": "It's Only Life After All",
       "netflix_url": "https://www.netflix.com/title/81746813",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.0",
+      "imdb_id": "tt12716222",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg4YzA2MWQtNzgyNC00OWFlLWE1ZTQtMGQxODM2NGFkNDZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg",
+      "Plot": "Known for stirring harmonies and socially conscious lyrics, iconic folk rock duo Indigo Girls are the subject of this intimate and insightful documentary, which tracks their decades-long career."
     },
     {
       "title": "Latin Blood - The Ballad of Ney Matogrosso",
       "netflix_url": "https://www.netflix.com/title/81754156",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "10DANCE",
       "netflix_url": "https://www.netflix.com/title/81759550",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Will & Harper",
       "netflix_url": "https://www.netflix.com/title/81760197",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt30321133",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjAwODVjM2QtNmVhNy00NjYwLWJhMzgtM2FlZjY0ZGJjZjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this intimate portrayal of friendship, transition and America, Will Ferrell and his close friend of thirty years decide to go on a cross-country road trip to explore a new chapter in their relationship."
     },
     {
       "title": "Close to You",
       "netflix_url": "https://www.netflix.com/title/81764656",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.1",
+      "imdb_id": "tt28055434",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZkODYzNzMtZGJlNy00YTM5LWE5NjQtOTc2ODQwOGMyY2ZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When he returns home for his father's birthday, a man finds that his family is struggling to accept his transition."
     },
     {
       "title": "EMILIA PÉREZ",
       "netflix_url": "https://www.netflix.com/title/81901696",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.4",
+      "imdb_id": "tt20221436",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows three remarkable women in Mexico, each pursuing their own happiness. Cartel leader Emilia enlists unappreciated lawyer Rita to help fake her death so that she can finally live authentically as her true self."
     },
     {
       "title": "And The Breadwinner Is...",
       "netflix_url": "https://www.netflix.com/title/81901876",
       "year": "2024",
       "imdb_rating": "N/A",
-      "imdb_id": "tt32206574"
+      "imdb_id": "tt32206574",
+      "Poster": "N/A",
+      "Plot": "N/A"
     },
     {
       "title": "Umjolo: There is No Cure",
       "netflix_url": "https://www.netflix.com/title/81903226",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.7",
+      "imdb_id": "tt35520292",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWNkMjg1YzUtMWFiYy00ZWI0LWE2YTQtNjgxZDhjMGJiYmNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After former pageant queen works on a memoir after losing her title for exposing a scandal."
     },
     {
       "title": "Firecracker",
       "netflix_url": "https://www.netflix.com/title/81923251",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt16393028",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJiNzBlMjgtN2FkMS00NDhlLWE3MGMtN2JmMWUwYTkyZGNlXkEyXkFqcGdeQXVyODI1Mzk2ODg@._V1_SX300.jpg",
+      "Plot": "On the night of their anniversary, a Chinese woman must decide whether to keep her Asian-American girlfriend a secret from her traditional family with the upcoming Chinese New Year or live out her dream as her true self."
     },
     {
       "title": "Lali: Time to Step Up",
       "netflix_url": "https://www.netflix.com/title/81940759",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Paradise of Thorns",
       "netflix_url": "https://www.netflix.com/title/81981328",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.6",
+      "imdb_id": "tt32362515",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzZlMmQwZjktZjQ3Yy00MzJjLTliYzYtNzIxMWE0MWM0M2U0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Unmarried gay couple builds home, durian farm together. After one partner's accidental death, his family seizes assets due to lack of legal marriage recognition. Surviving partner fights to reclaim their shared property and life's..."
     },
     {
       "title": "I’m Your Venus",
       "netflix_url": "https://www.netflix.com/title/82045298",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt32150607",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWI0YmU1MmEtNWQ0YS00MWY0LWFkYTctNTc5ZWZhYzFlMWIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A moving and timely documentary following the unsolved murder of Venus Xtravaganza, star of the legendary film Paris Is Burning, as Venus' two families - biological and ballroom - come together to seek answers and celebrate her le..."
     },
     {
       "title": "Flat Girls",
       "netflix_url": "https://www.netflix.com/title/82051204",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt32362494",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWNlNTAwY2QtZWE5OC00YmY4LThhZWItZGQ5NTc2MWI5M2I1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Police daughters' bond tested in a heartfelt coming-of-age tale of love, friendship, and life's complexities."
     },
     {
       "title": "On Swift Horses",
       "netflix_url": "https://www.netflix.com/title/82095685",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.0",
+      "imdb_id": "tt15042300",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWFiNTA2MzItNzY1Mi00YzRlLTljY2MtMTQ2MDJhMmUzOTM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Muriel and her husband Lee are about to begin a bright new life, which is upended by the arrival of Lee's brother. Muriel embarks on a secret life, gambling on racehorses and discovering a love she never thought possible."
     }
   ]
 }
