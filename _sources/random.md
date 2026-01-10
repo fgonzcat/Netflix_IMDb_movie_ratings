@@ -1,7 +1,9 @@
 ---
 html_theme:
   navigation_depth: 0
+orphan: true
 ---
+
 
 <script>
   const categories = [
