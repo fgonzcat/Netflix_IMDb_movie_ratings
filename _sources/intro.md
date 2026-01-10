@@ -1,6 +1,6 @@
 # Netflix Movies with Best IMDb Ratings 🎬⭐
 
-**Find the best Netflix movies, ranked by IMDb.**  
+**Find the best Netflix movies/series, ranked by IMDb.**  
 No scrolling. No guessing. Just pick a genre and start watching.
 
 <div style="font-size:1.3em; margin:1em 0;">

@@ -9,10 +9,10 @@ orphan: true
   const categories = [
     "horror",
     "comedy",
-    "cult_movies",
-    "documentaries",
-    "action",
-    "romance"
+    "cult",
+    "crime_documentaries",
+    "action_thrillers",
+    "scifi"
   ];
 
   const pick = categories[Math.floor(Math.random() * categories.length)];
