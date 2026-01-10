@@ -1,4 +1,4 @@
-# Animated_movies Movies on Netflix
+# Adult Animated Movies & Shows on Netflix
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/11881" target="_blank">https://www.netflix.com/browse/genre/11881</a>
 

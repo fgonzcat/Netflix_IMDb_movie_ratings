@@ -1,4 +1,4 @@
-# Scifi Movies on Netflix
+# Sci-Fi Movies on Netflix
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/1492" target="_blank">https://www.netflix.com/browse/genre/1492</a>
 

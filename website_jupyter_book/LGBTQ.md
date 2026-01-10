@@ -1,4 +1,4 @@
-# Lgbtq Movies on Netflix
+#  LGBTQ Movies on Netflix
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/5977" target="_blank">https://www.netflix.com/browse/genre/5977</a>
 

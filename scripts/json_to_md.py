@@ -2,6 +2,19 @@
 import json
 import sys
 from pathlib import Path
+import re
+import requests
+
+def fetch_netflix_title(list_url):
+    html = requests.get(list_url, timeout=10).text
+
+    # Look for the JSON-LD block that contains the ItemList name
+    m = re.search(r'"@type"\s*:\s*"ItemList"\s*,\s*"name"\s*:\s*"([^"]+)"', html)
+    if m:
+        return m.group(1)
+
+    return None
+
 
 # Usage: python json_to_md.py cult.json
 
@@ -17,8 +30,15 @@ if not json_file.exists():
 with open(json_file) as f:
     data = json.load(f)
 
-genre_name = data.get("genre", "Unknown Genre").capitalize()
+genre_file_name = data.get("genre", "Unknown Genre") #.capitalize()
 genre_url = data.get("genre_url", "")
+title = fetch_netflix_title(genre_url)
+if not title:  title = genre_file_name.replace("_", " ").title()
+title = title.replace('Dramas','Drama')
+title = title.replace('Watch','')
+title = title.replace('Best','')
+title = title.replace('Essential Horror Flicks','Horror Movies')
+
 
 # Sort movies by IMDb rating (descending), missing ratings go last
 def sort_key(movie):
@@ -30,7 +50,7 @@ def sort_key(movie):
 movies_sorted = sorted(data.get("movies", []), key=sort_key, reverse=True)
 
 # Header
-print(f"# {genre_name} Movies on Netflix\n")
+print(f"# {title} on Netflix\n")
 print(f'Netflix genre: <a href="{genre_url}" target="_blank">{genre_url}</a>\n')
 print("## 🎬 Movie list\n")
 print("| IMDb ⭐ | Poster | Year | Title | IMDb | Netflix |")

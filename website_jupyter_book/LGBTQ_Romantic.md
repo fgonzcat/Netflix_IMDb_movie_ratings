@@ -1,4 +1,4 @@
-# Lgbtq_romantic Movies on Netflix
+# Romantic LGBTQ+ Movies on Netflix
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/3329" target="_blank">https://www.netflix.com/browse/genre/3329</a>
 

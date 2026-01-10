@@ -1,4 +1,4 @@
-# Action_adventure Movies on Netflix
+# Action & Adventure Movies on Netflix
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/1365" target="_blank">https://www.netflix.com/browse/genre/1365</a>
 

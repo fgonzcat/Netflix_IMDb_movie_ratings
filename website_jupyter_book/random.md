@@ -1,16 +1,18 @@
 ---
 html_theme:
   navigation_depth: 0
+orphan: true
 ---
+
 
 <script>
   const categories = [
     "horror",
     "comedy",
-    "cult_movies",
-    "documentaries",
-    "action",
-    "romance"
+    "cult",
+    "crime_documentaries",
+    "action_thrillers",
+    "scifi"
   ];
 
   const pick = categories[Math.floor(Math.random() * categories.length)];
