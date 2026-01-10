@@ -24,9 +24,9 @@ elif [ "$2" == "--debug" ]; then
 fi
 
 
-#APIKEY="1a8c9011"
+APIKEY="1a8c9011"
 #APIKEY="d7e16fa4"
-APIKEY="ed6cc44c"
+#APIKEY="ed6cc44c"
 #APIKEY="14cf7f93"
 #APIKEY="b79f4081"
 

@@ -12,6 +12,8 @@ No scrolling. No guessing. Just pick a genre and start watching.
 :gutter: 1 1 1 2
 
 :::{grid-item-card} ⭐ Ranked by IMDb
+:link: random
+:link-type: doc
 
 Every list is sorted from **best to worst**, using IMDb ratings.
 
