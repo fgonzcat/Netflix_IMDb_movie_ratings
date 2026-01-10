@@ -44,7 +44,7 @@ for movie in movies_sorted:
     year    = movie.get("year")
     netflix_url = movie.get("netflix_url", "#")
     image_url   = movie.get("Poster")
-    poster = f'<img src="{image_url}" width="80">'
+    poster = f'<img src="{image_url}" class="zoom-img" width="120">'
     plot        = movie.get("Plot")
     
     #imdb_link = f'<a href="https://www.imdb.com/title/{imdb_id}/" target="_blank">https://www.imdb.com/title/{imdb_id}/</a>' if imdb_id else "N/A"

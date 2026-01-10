@@ -329,7 +329,7 @@ done
 
 # --getlist
 if [ "$listURL" != "" ]; then
- if [[ "$listURL" == *title* ]]; then
+ if [[ "$listURL" == *title* ]]; then        # When argument is just one movie, not the entire genre list...
   year=$(wget --no-check-certificate -q -O - "$listURL"          | tr '{' '\n'   | grep "latestYear"   | sed -n 's/.*"latestYear":\([0-9]\{4\}\).*/\1/p' )
   title=$(wget --no-check-certificate -q -O - "$listURL"         | tr '{' '\n'   | grep "^\"title\":"   | sed -E 's/^"title":"([^"]*)".*/\1/' | head -1)
   title=$(printf '%b\n' "$title")
@@ -357,9 +357,9 @@ if [ "$listURL" != "" ]; then
    while (( `jobs -rp | wc -l` >= `nproc`  )); do sleep 0.1; done
   done < movies.tsv
   wait
+  rm movies.tsv 
  fi
 
- rm movies.tsv 
  exit
 fi
 

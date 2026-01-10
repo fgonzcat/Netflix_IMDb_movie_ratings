@@ -1,12 +1,100 @@
 #!/usr/bin/env bash
 set -euo pipefail
+: "${INTERACTIVE:=0}"   # If INTERACTIVE was already set by export INTERACTIVE=1 from another code, leave it untouched. If not, now set it to 0. 
 
+
+# Usage: ./update_genre.sh cult" 
 # Usage: ./update_genre.sh cult "https://www.netflix.com/browse/genre/7627"
-GENRE_NAME=$1
-GENRE_URL=$2
 
-CACHE_JSON_FILE="website_jupyter_book/_static/data/${GENRE_NAME}.json"
-TMP_FILE="website_jupyter_book/_static/data/${GENRE_NAME}_tmp.json"
+##########################################
+# Help / usage
+##########################################
+if [[ "${1:-}" == "--help" || "${1:-}" == "-h" || $# -lt 1 ]]; then
+    echo ""
+    echo "Update or create a cached Netflix genre file with IMDb data in json format"
+    echo ""
+    echo "USAGE:"
+    echo "  $0 <genre_name> <netflix_genre_url>"
+    echo ""
+    echo "EXAMPLES:"
+    echo "  $0 horror " 
+    echo "  $0 horror https://www.netflix.com/browse/genre/8711"
+    echo "  $0 cult   https://www.netflix.com/browse/genre/7627"
+    echo ""
+    echo "WHAT THIS SCRIPT DOES:"
+    echo ""
+    echo "  Step 1: Fetch Netflix movie list"
+    echo "    - Scrapes the Netflix genre page"
+    echo "    - Extracts movie titles and Netflix URLs"
+    echo ""
+    echo "  Step 2: Merge with existing cache (if any)"
+    echo "    - Creates or updates:"
+    echo "        website_jupyter_book/_static/data/<genre>.json"
+    echo "    - Preserves previously fetched:"
+    echo "        year, imdb_rating, imdb_id"
+    echo "    - Deduplicates movies using Netflix URL"
+    echo ""
+    echo "  Step 3: Fill missing release years"
+    echo "    - Scrapes individual Netflix movie pages"
+    echo "    - Only fills movies where year == null"
+    echo ""
+    echo "  Step 4: Fetch IMDb ratings and IDs (OMDb)"
+    echo "    - Queries OMDb using title + year"
+    echo "    - Only fills movies where imdb_rating or imdb_id == null"
+    echo ""
+    echo "OUTPUT:"
+    echo "  A fully populated JSON cache:"
+    echo "    website_jupyter_book/_static/data/<genre>.json"
+    echo ""
+    echo "NOTES:"
+    echo "  - The script is idempotent: re-running it does not redo work"
+    echo "  - Safe to re-run periodically to update ratings or new titles"
+    echo ""
+    exit 0
+fi
+
+
+
+
+# Absolute path to this script
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# Repo root (scripts/ is one level down)
+REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+
+GENRE_NAME="${1:-}"
+GENRE_URL="${2:-}"
+if [[ -z "$GENRE_NAME" ]]; then
+    echo "ERROR: genre name required"
+    echo "Usage: $0 <genre> [netflix_genre_url]"
+    exit 1
+fi
+if [[ -z "$GENRE_URL" ]]; then
+    MD_FILE="$REPO_ROOT/website_jupyter_book/${GENRE_NAME}.md"
+
+    if [[ ! -f "$MD_FILE" ]]; then
+        echo "ERROR: Netflix URL not provided and file not found:"
+        echo "  $MD_FILE"
+        exit 1
+    fi
+
+    GENRE_URL=$(grep -m 1 'Netflix genre:' "$MD_FILE"  | sed -n 's/.*href="\([^"]*\)".*/\1/p')
+
+    if [[ -z "$GENRE_URL" ]]; then
+        echo "ERROR: Could not extract Netflix genre URL from:"
+        echo "  $MD_FILE"
+        exit 1
+    fi
+
+    echo "Detected Netflix genre URL:"
+    echo "  $GENRE_URL"
+fi
+
+
+
+CACHE_JSON_FILE="${REPO_ROOT}/website_jupyter_book/_static/data/${GENRE_NAME}.json"
+TMP_FILE="${REPO_ROOT}/website_jupyter_book/_static/data/${GENRE_NAME}_tmp.json"
+
 
 
 ##########################################
@@ -89,9 +177,8 @@ NPROC=$(nproc 2>/dev/null || sysctl -n hw.ncpu)
 while IFS=$'\t' read -r title url; do
   (
     echo "Fetching year for: $title" >&2
-    year=$(wget -q -O - --user-agent="Mozilla/5.0" "$url" \
-      | sed -n 's/.*"latestYear":\([0-9]\{4\}\).*/\1/p' \
-      | head -1)
+    year=$(wget -q -O - --user-agent="Mozilla/5.0" "$url"       | sed -n 's/.*"latestYear":\([0-9]\{4\}\).*/\1/p'       | head -1)
+    if [[ -z "$year" ]]; then      echo "⚠️  Year lookup FAILED: $title" >&2;      fi
 
     printf "%s\t%s\n" "$url" "${year:-}"
   ) >> "$TMP_OUT" &
@@ -135,16 +222,16 @@ wait
 echo "... years fetched in $CACHE_JSON_FILE"
 
 
-###########################################
-## Step 4: OMDb search. Fill missing IMDb ratings and IDs
-###########################################
+##########################################
+# Step 4: OMDb search. Fill missing IMDb ratings and IDs
+##########################################
 echo -e "\nSTEP 4: OMDb"
 
-#APIKEY="1a8c9011"
+APIKEY="1a8c9011"
 #APIKEY="d7e16fa4"
 #APIKEY="ed6cc44c"
 #APIKEY="14cf7f93"
-APIKEY="b79f4081"
+#APIKEY="b79f4081"
 
 #echo "Fetching missing IMDb ratings and IDs for new movies..."
 #
@@ -197,7 +284,7 @@ APIKEY="b79f4081"
 #echo "IMDb ratings and IDs filled in $CACHE_JSON_FILE"
 
 
-echo "Fetching missing IMDb ratings and IDs for new movies..."
+echo "Fetching missing IMDb ratings, IDs, Poster, and Plot for new movies..."
 TMP_TSV=$(mktemp)
 TMP_OUT=$(mktemp)
 
@@ -205,7 +292,7 @@ NPROC=$(nproc 2>/dev/null || sysctl -n hw.ncpu)
 
 jq -r '
   .movies[]
-  | select(.imdb_rating == null or .imdb_id == null)
+  | select(.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null)
   | [.title, .year, .netflix_url]
   | @tsv
 ' "$CACHE_JSON_FILE" > "$TMP_TSV"
@@ -245,11 +332,11 @@ while IFS=$'\t' read -r title year url; do
       plot=$(echo "$json" | jq -r '.Plot  // empty')
       # Did it work?
       if [[ -z "$imdbid" ]]; then
-        echo "⚠️  OMDb lookup FAILED after retry: $title" >&2
+        echo "⚠️  OMDb lookup FAILED after retry: $title   $omdbError  :  $title  'http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY' " >&2
       fi
 
     else
-      echo "OMDb API error: $omdbError  :  $title  'http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY' "
+      echo "⚠️  OMDb API error: $omdbError  :  $title  'http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY' "
     fi
 
     plot=${plot//$'\t'/ }      # replace tabs
