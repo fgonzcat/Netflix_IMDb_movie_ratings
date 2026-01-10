@@ -20,3 +20,10 @@ html[data-theme="dark"] .movie-plot {
   position: relative;
 }
 
+
+@media (max-width: 768px) {
+  img.zoom-img {
+    width: 120px !important;
+  }
+}
+
