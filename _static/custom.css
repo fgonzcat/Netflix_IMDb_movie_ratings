@@ -8,3 +8,15 @@ html[data-theme="dark"] .movie-plot {
   color: #e6e6e6;
 }
 
+
+.zoom-img {
+  transition: transform 0.2s ease-in-out;
+  cursor: zoom-in;
+}
+
+.zoom-img:hover {
+  transform: scale(1.8);
+  z-index: 100;
+  position: relative;
+}
+
