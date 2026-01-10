@@ -1,9 +1,51 @@
 # Netflix Movies with Best IMDb Ratings 🎬⭐
 
-```{important}
-- Looking for **what to watch next on Netflix**?  
-- This site ranks Netflix movies **from best to worst using IMDb ratings**, fully reproducible and automatically updated.
-```
+**Find the best Netflix movies, ranked by IMDb.**  
+No scrolling. No guessing. Just pick a genre and start watching.
+
+<div style="font-size:1.3em; margin:1em 0;">
+👈 <strong>Choose a genre from the menu on the left</strong><br>
+<small>On mobile: tap the ☰ icon in the top-left corner</small>
+</div>
+
+::::{grid} 1 2 2 3
+:gutter: 1 1 1 2
+
+:::{grid-item-card} ⭐ Ranked by IMDb
+
+Every list is sorted from **best to worst**, using IMDb ratings.
+
++++
+Pick a genre
+:::
+
+:::{grid-item-card} 🎭 Dozens of Genres
+
+Horror, comedy, cult classics, documentaries, and more.
+
++++
+Browse categories
+:::
+
+:::{grid-item-card} 🔗 One-click Watching
+
+Each movie links directly to Netflix and IMDb.
+
++++
+Start exploring
+:::
+
+::::
+
+---
+
+### What you get here
+
+- ⭐ Movies sorted from **best to worst** by IMDb  
+- 🎭 Dozens of genres: horror, comedy, cult classics, documentaries…  
+- 🔗 Direct links to Netflix and IMDb  
+- 🔄 Lists that stay fresh and up to date
+
 
 ---
 
