@@ -15,6 +15,7 @@ Just pick a genre and start watching.
 
 ## Explore
 
+<!-- Clickable grid cards that lead to a random category  -->
 ::::{grid} 1 2 2 3
 :gutter: 1 1 1 2
 
@@ -35,22 +36,39 @@ Pick a genre
 :::
 
 :::{grid-item-card} 🎭 Dozens of Genres
+:link: random
+:link-type: doc
 
 Horror, comedy, cult classics, documentaries, and more.
 
 +++
+```{button-ref} random
+:ref-type: doc
+:color: secondary 
+:class: sd-rounded-pill
+
 Browse categories
+```
 :::
 
 :::{grid-item-card} 🔗 One-click Watching
+:link: random
+:link-type: doc
 
 Each movie links directly to Netflix and IMDb.
 
 +++
+```{button-ref} random
+:ref-type: doc
+:color: success 
+:class: sd-rounded-pill
+
 Start exploring
+```
 :::
 
 ::::
+<!-- END OF Clickable grid cards that lead to a random category  -->
 
 ---
 
