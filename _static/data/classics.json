@@ -1,0 +1,303 @@
+{
+  "genre": "classics",
+  "genre_url": "https://www.netflix.com/browse/genre/31574",
+  "movies": [
+    {
+      "title": "The Sting",
+      "netflix_url": "https://www.netflix.com/title/1001011",
+      "year": "1973",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt0070735",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGI4OTk4MDMtYmQ1Ni00YTUzLTkyYTktZGUwMjMyN2M4NjQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two grifters team up to pull off the ultimate con."
+    },
+    {
+      "title": "Stripes",
+      "netflix_url": "https://www.netflix.com/title/1008581",
+      "year": "1981",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0083131",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2VjZDExMjctMGVjMS00MDQxLWI2NTQtODJjNjNkN2ExY2FkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two friends who are dissatisfied with their jobs decide to join the army for a bit of fun."
+    },
+    {
+      "title": "The Terminator",
+      "netflix_url": "https://www.netflix.com/title/1032625",
+      "year": "1984",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0088247",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A cyborg assassin from the future attempts to find and kill a young woman who is destined to give birth to a warrior that will lead a resistance to save humankind from extinction."
+    },
+    {
+      "title": "Titanic",
+      "netflix_url": "https://www.netflix.com/title/1181461",
+      "year": "1997",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt0120338",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+    },
+    {
+      "title": "As Good as It Gets",
+      "netflix_url": "https://www.netflix.com/title/1181488",
+      "year": "1997",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0119822",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzBiMWJhYmQtOWYzNS00NjgxLWE5NDItNzZlZDQwODBmODNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A single mother and waitress, a misanthropic author, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery."
+    },
+    {
+      "title": "Night of the Living Dead",
+      "netflix_url": "https://www.netflix.com/title/17017662",
+      "year": "1968",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0063350",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGMyZTA0MWEtZjczMS00ZDE5LTk1OTQtNmIxNGYzNDA2NDVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the Northeast of the United States."
+    },
+    {
+      "title": "Dil Se",
+      "netflix_url": "https://www.netflix.com/title/17671454",
+      "year": "1998",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0164538",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGU3NGY5ZWUtMWQxOS00ZTMzLWJjNTEtMjkyZDVlY2E4OGZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A radio broadcaster's intense attraction to a mysterious woman opens the door to a tidal wave of powerful emotions and desires."
+    },
+    {
+      "title": "Daag",
+      "netflix_url": "https://www.netflix.com/title/20258369",
+      "year": "1973",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0150251",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWZjMGQ1MzQtMTEwOC00OTU4LThmNTctYWM5N2QwNDhmNDQ4XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_SX300.jpg",
+      "Plot": "Sunil is convicted of murder and is on the run. But the long arm of the law and his past finally catch up with him. Can he outrun his destiny for long?"
+    },
+    {
+      "title": "Darr",
+      "netflix_url": "https://www.netflix.com/title/20704518",
+      "year": "1993",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0109555",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWJjZGZjMDItZTgzOS00Y2UwLThlZWEtN2QyNmE3NzgwZTM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rahul is obsessed with Kiran and stalks her constantly. However, Rahul goes berserk when she gets engaged to Sunil, a navy officer, and he decides to forcefully claim Kiran for himself."
+    },
+    {
+      "title": "Election",
+      "netflix_url": "https://www.netflix.com/title/21060973",
+      "year": "1999",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0126886",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTVmMWJiMTgtNmNmMS00NmI2LTgxZTAtNjdhODE2NTBlYTAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A high school teacher meets his match in an over-achieving student politician."
+    },
+    {
+      "title": "The Last Days",
+      "netflix_url": "https://www.netflix.com/title/21477429",
+      "year": "1998",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt0174852",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTNmNzkwZDctM2U1Ny00MWNjLWE2OWMtYmI4MWViZDJlOWI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In late 1944, even as they faced imminent defeat, the Nazis expended enormous resources to kill or deport over 425,000 Jews during the \"cleansing\" of Hungary. This Oscar-winning documentary, executive produced by Steven Spielberg,..."
+    },
+    {
+      "title": "Indian",
+      "netflix_url": "https://www.netflix.com/title/27748788",
+      "year": "1996",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0116630",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODE4MmQ1ZDYtYTZkMC00ZmVhLWJjZjAtNTA5NGIyYzQ1YjI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A veteran freedom fighter enraged with the rising crime and corruption in the society murders all the wrong doers one by one using an ancient martial arts technique."
+    },
+    {
+      "title": "Boyz n the Hood",
+      "netflix_url": "https://www.netflix.com/title/328438",
+      "year": "1991",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0101507",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzZhNDcyYTctOWU1My00ZmUzLWFmNmItZTIwY2JkNjVkZTdmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows the lives of three young males living in the Crenshaw ghetto of Los Angeles, dissecting questions of race, relationships, violence, and future prospects."
+    },
+    {
+      "title": "Glory",
+      "netflix_url": "https://www.netflix.com/title/547335",
+      "year": "1989",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0097441",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA1NDcyOGMtYTc0Zi00OTQ0LTllZTEtMTIxZDcxMWYxZTVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates."
+    },
+    {
+      "title": "Grave of the Fireflies",
+      "netflix_url": "https://www.netflix.com/title/557010",
+      "year": "1988",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt0095327",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young boy and his little sister struggle to survive in Japan during World War II."
+    },
+    {
+      "title": "Groundhog Day",
+      "netflix_url": "https://www.netflix.com/title/563104",
+      "year": "1993",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt0107048",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWE3MjQ3ZDAtNDQ2MC00YjBjLTk0ZWYtNjQ0YzQ4YWE3YTEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day."
+    },
+    {
+      "title": "Erin Brockovich",
+      "netflix_url": "https://www.netflix.com/title/60000165",
+      "year": "2000",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0195685",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTNkNzkzYTEtYTJkMC00MTNkLWE0YjMtOGYxNGI0ODNiMzIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A flamboyant law firm secretary works tirelessly to gain justice for a small town wrecked by a utility company's pollution."
+    },
+    {
+      "title": "Braveheart",
+      "netflix_url": "https://www.netflix.com/title/60000540",
+      "year": "1995",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt0112573",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England."
+    },
+    {
+      "title": "Forrest Gump",
+      "netflix_url": "https://www.netflix.com/title/60000724",
+      "year": "1994",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt0109830",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart."
+    },
+    {
+      "title": "Kabhi Kabhie",
+      "netflix_url": "https://www.netflix.com/title/60001663",
+      "year": "1976",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0074730",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmExYzljNTYtZjM2YS00MjNhLTk4Y2QtMmU3MzU2MDc5NWI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Kabhi Kabhie is a movie about the love story of generations and how a chain of events brings together old lovers as friends."
+    },
+    {
+      "title": "Mashaal",
+      "netflix_url": "https://www.netflix.com/title/60002820",
+      "year": "1984",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0085912",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYThkM2M4ZTgtMTA3OS00MGY2LTg4OTAtMjFkOTk0NTdlODIwXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_SX300.jpg",
+      "Plot": "A chain of events changes Vinod's life - from honest journalist to black marketer to an underworld Don and a Racketeer in order to combat Vardhan."
+    },
+    {
+      "title": "Cast Away",
+      "netflix_url": "https://www.netflix.com/title/60020683",
+      "year": "2000",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0162222",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A FedEx executive undergoes a physical and emotional transformation after crash landing on a deserted island."
+    },
+    {
+      "title": "Barabbas",
+      "netflix_url": "https://www.netflix.com/title/60022356",
+      "year": "1961",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0055774",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWJjNzdkOTctYjU2Zi00MzliLWEwZWMtNTUyOTRlYjI4ZGE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Governor Pontius Pilate gave the populace a choice to spare either Barabbas, a criminal, or Jesus, condemned as a heretic, from crucifixion. The masses chose Barrabas, and he is haunted by the image of Jesus for the rest of his life."
+    },
+    {
+      "title": "Monty Python's The Meaning of Life",
+      "netflix_url": "https://www.netflix.com/title/60029676",
+      "year": "1983",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0085959",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmZjYzM5OGMtYmY2OS00YzQ3LWEzZjgtY2Q1Yjc1NTNkYTZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The comedy team takes a look at life in all of its stages in their own uniquely silly way."
+    },
+    {
+      "title": "She's Gotta Have It",
+      "netflix_url": "https://www.netflix.com/title/60034929",
+      "year": "1986",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0091939",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWVkYzgxNzgtNjY4NS00ZGFhLTlhMmYtNjM0Yzg5YmIyYmZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Story of a woman and her three lovers."
+    },
+    {
+      "title": "Dilwale Dulhania Le Jayenge",
+      "netflix_url": "https://www.netflix.com/title/60036747",
+      "year": "1995",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt0112870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQyMDI4ZGMtYjI5MS00YTk1LTk3ZDgtZTA3MzQ5YWQ4Y2Q4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt."
+    },
+    {
+      "title": "A League of Their Own",
+      "netflix_url": "https://www.netflix.com/title/691124",
+      "year": "1992",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0104694",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDgwZDJjNWQtMzBmNi00ZTNkLTk5NGQtMzE2ODJkZjUyYjRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "During World War II, sisters Dottie and Kit join the first female professional baseball league and struggle to help it succeed amid their own growing rivalry."
+    },
+    {
+      "title": "Crane World",
+      "netflix_url": "https://www.netflix.com/title/70018320",
+      "year": "1999",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0213905",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTkyMDk4NV5BMl5BanBnXkFtZTcwMDMyMjcyMQ@@._V1_SX300.jpg",
+      "Plot": "The portrait of a man and his attempts to make things up with life after losing his job."
+    },
+    {
+      "title": "Lal Patthar",
+      "netflix_url": "https://www.netflix.com/title/80158481",
+      "year": "1971",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0237395",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyNWI5ZmQtNzVlOS00MzkxLWI0ZTktZTEzMjAyZmY2Yzg4XkEyXkFqcGdeQXVyNDQwOTAzNw@@._V1_SX300.jpg",
+      "Plot": "A vain, self-righteous nobleman falls in love with a village girl and tries to transform her into his version of the ideal woman."
+    },
+    {
+      "title": "Five Came Back: The Reference Films",
+      "netflix_url": "https://www.netflix.com/title/81405851",
+      "year": "1945",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Pulp Fiction",
+      "netflix_url": "https://www.netflix.com/title/880640",
+      "year": "1994",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt0110912",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+      "title": "Rooster Cogburn (...and the Lady)",
+      "netflix_url": "https://www.netflix.com/title/919537",
+      "year": "1975",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Stand by Me",
+      "netflix_url": "https://www.netflix.com/title/994992",
+      "year": "1986",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0092005",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGJkNTUwM2MtZWE2MS00YjNkLWE3MjktNWQwZDQxMDIyZWVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A writer recounts a childhood journey with his friends to find the body of a missing boy."
+    }
+  ]
+}
