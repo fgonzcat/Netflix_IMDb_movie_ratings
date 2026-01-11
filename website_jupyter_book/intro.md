@@ -1,5 +1,7 @@
 # Netflix Movies with Best IMDb Ratings 🎬⭐
 
+I created a website to ranks Netflix movies from best to worst according to IMDb.  The idea is that you don't have to waste time searching for "what to watch": you just go to the site, choose a genre, and that's it. It's perfect for when you don't know what to watch and don't want to spend 30 minutes browsing.
+
 :::{admonition} 🎬 **Find the best Netflix movies, ranked by IMDb**
 :class: tip
 
