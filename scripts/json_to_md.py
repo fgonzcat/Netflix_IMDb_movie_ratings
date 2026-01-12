@@ -75,6 +75,9 @@ for movie in movies_sorted:
     #netflix_link = f'<a href="{netflix_url}" target="_blank">{netflix_url}</a>'
     imdb_link = f'<a href="https://www.imdb.com/title/{imdb_id}/" target="_blank">IMDb_link</a>' if imdb_id else "N/A"  # Don't display the link, just "IMDb_link"
     netflix_link = f'<a href="{netflix_url}" target="_blank">Netflix_link</a>'                                          # Don't display the link, just "Netflix_link"
+    
+    if image_url== None or image_url == "N/A" or image_url == "NA": poster = ""
+
 
     
     print(f'| {imdb_rating} | {poster} | {year} | <details> <summary><strong style="color:#1f6feb;">*{title}*</strong></summary>  <div class="movie-plot">{plot}</div> </details> | {imdb_link} | {netflix_link} |')
