@@ -1,4 +1,4 @@
-#  Comedy Anime 
+#  Comedy Anime
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/9302" target="_blank">https://www.netflix.com/browse/genre/9302</a>
 
@@ -30,11 +30,11 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9302" target="_blan
 | 7.0 | <img src="https://m.media-amazon.com/images/M/MV5BYzBkMDEwNzgtNmJhNS00NjQ5LTg4YmQtYWVkODAwYjk3ODJjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Thermae Romae Novae*</strong></summary>  <div class="movie-plot">The Roman architect Lucius is transported through time to modern-day Japan, where he learns about Japanese bathhouses and uses this to his gain back home.</div> </details> | <a href="https://www.imdb.com/title/tt13357234/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81264354" target="_blank">Netflix_link</a> |
 | 6.8 | <img src="https://m.media-amazon.com/images/M/MV5BNGMwYjdmMDQtODZiMC00YzczLWFkMjctZDhjYTI3MzEyMDg3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*WITCH WATCH*</strong></summary>  <div class="movie-plot">A dire prophecy hangs over the young witch Nico. Can her childhood friend Morihito keep her safe or will Nico's out-of-control magic get in the way?</div> </details> | <a href="https://www.imdb.com/title/tt33165027/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81991687" target="_blank">Netflix_link</a> |
 | 5.6 | <img src="https://m.media-amazon.com/images/M/MV5BMTdhYmRjMWItNDdhNy00NjdkLThhZGQtYjlkYzY5MjkwMmMyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*Back Street Girls -GOKUDOLS-*</strong></summary>  <div class="movie-plot">Three male gangsters are forced by their boss into becoming a trio of female pop singers.</div> </details> | <a href="https://www.imdb.com/title/tt9261594/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80996957" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*Aggretsuko: We Wish You a Metal Christmas*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81008536" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Ranma1/2*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81171925" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Case Closed: The Culprit Hanzawa*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81313291" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Babanba Banban Vampire*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81949674" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Puniru Is a Cute Slime*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81975106" target="_blank">Netflix_link</a> |
+| N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Aggretsuko: We Wish You a Metal Christmas*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81008536" target="_blank">Netflix_link</a> |
+| N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Ranma1/2*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81171925" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Case Closed: The Culprit Hanzawa*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81313291" target="_blank">Netflix_link</a> |
+| N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Babanba Banban Vampire*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81949674" target="_blank">Netflix_link</a> |
+| N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Puniru Is a Cute Slime*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81975106" target="_blank">Netflix_link</a> |
 
 
 ---
@@ -69,4 +69,8 @@ You don’t have to manually check IMDb for each movie — the ranking is fully 
 ```{tip}
 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
 ```
+
+---
+*Page last updated on: 2026-01-12*
+
 

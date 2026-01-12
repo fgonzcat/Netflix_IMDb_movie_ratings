@@ -1,4 +1,4 @@
-# Romantic LGBTQ+ Movies 
+# Romantic LGBTQ+ Movies
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/3329" target="_blank">https://www.netflix.com/browse/genre/3329</a>
 
@@ -27,11 +27,11 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/3329" target="_blan
 | 5.2 | <img src="https://m.media-amazon.com/images/M/MV5BMTU4MTMxMTM4NV5BMl5BanBnXkFtZTgwNjAzNjAxNTM@._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*Duck Butter*</strong></summary>  <div class="movie-plot">Dissatisfied with the dishonesty they see in dating and relationships, two women make a pact to spend 24 hours together, hoping to find a new way to create intimacy.</div> </details> | <a href="https://www.imdb.com/title/tt6958014/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80115118" target="_blank">Netflix_link</a> |
 | 4.7 | <img src="https://m.media-amazon.com/images/M/MV5BZWNkMjg1YzUtMWFiYy00ZWI0LWE2YTQtNjgxZDhjMGJiYmNjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Umjolo: There is No Cure*</strong></summary>  <div class="movie-plot">After former pageant queen works on a memoir after losing her title for exposing a scandal.</div> </details> | <a href="https://www.imdb.com/title/tt35520292/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81903226" target="_blank">Netflix_link</a> |
 | 4.4 | <img src="https://m.media-amazon.com/images/M/MV5BMWI3YmFhOTYtMGE3Zi00MGRlLTkxY2ItNTkyOTI2ZDhmNjkxXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*So My Grandma’s a Lesbian!*</strong></summary>  <div class="movie-plot">A promising young lawyer sees her plans to wed into an important and ultraconservative family in danger when her grandma decides to marry her girl friend.</div> </details> | <a href="https://www.imdb.com/title/tt9695258/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80173486" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2013 | <details> <summary><strong style="color:#1f6feb;">*Blue Is the Warmest Color*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/70275600" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*Dance of the Forty One*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80235267" target="_blank">Netflix_link</a> |
-| N/A | <img src="N/A" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Good Grief*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt32204945/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81462549" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Forever Out of My League*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81468397" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*10DANCE*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81759550" target="_blank">Netflix_link</a> |
+| N/A |  | 2013 | <details> <summary><strong style="color:#1f6feb;">*Blue Is the Warmest Color*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/70275600" target="_blank">Netflix_link</a> |
+| N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Dance of the Forty One*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80235267" target="_blank">Netflix_link</a> |
+| N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Good Grief*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt32204945/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81462549" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Forever Out of My League*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81468397" target="_blank">Netflix_link</a> |
+| N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*10DANCE*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81759550" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNjJiNzBlMjgtN2FkMS00NDhlLWE3MGMtN2JmMWUwYTkyZGNlXkEyXkFqcGdeQXVyODI1Mzk2ODg@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Firecracker*</strong></summary>  <div class="movie-plot">On the night of their anniversary, a Chinese woman must decide whether to keep her Asian-American girlfriend a secret from her traditional family with the upcoming Chinese New Year or live out her dream as her true self.</div> </details> | <a href="https://www.imdb.com/title/tt16393028/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81923251" target="_blank">Netflix_link</a> |
 
 
@@ -67,4 +67,8 @@ You don’t have to manually check IMDb for each movie — the ranking is fully 
 ```{tip}
 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
 ```
+
+---
+*Page last updated on: 2026-01-12*
+
 

@@ -1,4 +1,4 @@
-# Cult Movies 
+# Cult Movies
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/7627" target="_blank">https://www.netflix.com/browse/genre/7627</a>
 
@@ -26,8 +26,8 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7627" target="_blan
 | 6.0 | <img src="https://m.media-amazon.com/images/M/MV5BOTFkZmI2YWQtYWI1ZC00NmI5LWEwYTUtOTYxYzM3YTU1MTAzXkEyXkFqcGdeQXVyNDQwOTAzNw@@._V1_SX300.jpg" class="zoom-img" width="120"> | 1971 | <details> <summary><strong style="color:#1f6feb;">*Elaan*</strong></summary>  <div class="movie-plot">Journalist Naresh is hired to probe illegal activities on an island. When he's captured, a fellow prisoner gives him a ring with magic powers.</div> </details> | <a href="https://www.imdb.com/title/tt0367695/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80158482" target="_blank">Netflix_link</a> |
 | 4.6 | <img src="https://m.media-amazon.com/images/M/MV5BZTkwZmFjNDMtMmIxMy00Y2I1LWJiMDUtMmJhOWQwNTcwNDk2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg" class="zoom-img" width="120"> | 2011 | <details> <summary><strong style="color:#1f6feb;">*Hostel: Part III*</strong></summary>  <div class="movie-plot">Four men attending a bachelor party in Las Vegas fall prey to the Elite Hunting Club, who are hosting a gruesome game show of torture.</div> </details> | <a href="https://www.imdb.com/title/tt1255916/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/70206131" target="_blank">Netflix_link</a> |
 | 2.5 | <img src="https://m.media-amazon.com/images/M/MV5BODJiODc1NjQtZmRhZS00ZTlmLTlmNTItMmZiZjcxMmU4ZDI2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2000 | <details> <summary><strong style="color:#1f6feb;">*Battlefield Earth*</strong></summary>  <div class="movie-plot">It's the year 3000 A.D., and the Earth is lost to the alien race of Psychlos. Humanity is enslaved by these gold-thirsty tyrants, who are unaware that their 'man-animals' are about to ignite the rebellion of a lifetime.</div> </details> | <a href="https://www.imdb.com/title/tt0185183/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/60000872" target="_blank">Netflix_link</a> |
-| N/A | <img src="N/A" class="zoom-img" width="120"> | 1974 | <details> <summary><strong style="color:#1f6feb;">*The Texas Chainsaw Massacre*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt34081214/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/15815343" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Bad Education: Directors Cut*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81713692" target="_blank">Netflix_link</a> |
+| N/A |  | 1974 | <details> <summary><strong style="color:#1f6feb;">*The Texas Chainsaw Massacre*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt34081214/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/15815343" target="_blank">Netflix_link</a> |
+| N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Bad Education: Directors Cut*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81713692" target="_blank">Netflix_link</a> |
 
 
 ---
@@ -62,4 +62,8 @@ You don’t have to manually check IMDb for each movie — the ranking is fully 
 ```{tip}
 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
 ```
+
+---
+*Page last updated on: 2026-01-12*
+
 

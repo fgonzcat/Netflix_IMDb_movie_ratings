@@ -1,4 +1,4 @@
-# Korean Movies 
+# Korean Movies
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/5685" target="_blank">https://www.netflix.com/browse/genre/5685</a>
 
@@ -68,10 +68,10 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5685" target="_blan
 | 4.4 | <img src="https://m.media-amazon.com/images/M/MV5BZTVhNWJjMmMtMjY4Ny00ZDZiLTk3MTMtODdhNzhjZWU5NzFkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*What Happened to Mr. Cha?*</strong></summary>  <div class="movie-plot">Cha In-pyo was once a popular actor, but he is not anymore. He struggles to regain his popularity.</div> </details> | <a href="https://www.imdb.com/title/tt13667212/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81381736" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BODJhNGViY2UtZjY5Yi00YjFiLTgyMjAtZDhlYmVhNGI2YjcxXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Larva Pendant*</strong></summary>  <div class="movie-plot">Bug friends Red and Yellow leave the island behind and go to the big city.</div> </details> | <a href="https://www.imdb.com/title/tt19851736/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81313780" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNWY4MDM4ZTYtNDdhZC00YzA0LTlmMWYtNzc1Mzk1OGZlNzU2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Celeb Five: Behind the Curtain*</strong></summary>  <div class="movie-plot">Jokes and improv take center stage as comedian girl group Celeb Five brainstorms material for a comedy special in this behind-the-scenes mockumentary.</div> </details> | <a href="https://www.imdb.com/title/tt18570468/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81342886" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*Pinkfong & Baby Shark's Space Adventure*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81362788" target="_blank">Netflix_link</a> |
+| N/A |  | 2019 | <details> <summary><strong style="color:#1f6feb;">*Pinkfong & Baby Shark's Space Adventure*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81362788" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMjZjNzUwODMtOGVkYy00ZTkzLThkZjYtZDEzODdmOWM0MWIyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Pinkfong Sing-Along Movie 2: Wonderstar Concert*</strong></summary>  <div class="movie-plot">Pinkfong and Hogi, will host their first-ever sing-along concert. Enjoy the ultimate interactive experience. Come sing and dance to Pinkfong's most beloved songs, including the global mega-hit, Baby Shark.</div> </details> | <a href="https://www.imdb.com/title/tt23871460/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81648577" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYWYzZTU1ZTEtMDk0Yy00OGI4LWEwNzYtMWNjMzhiNWE4ZjkyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Pinkfong Sing-Along Movie 3: Catch the Gingerbread Man*</strong></summary>  <div class="movie-plot">Join Baby Shark, Pinkfong, and Hogi in their exciting new adventure as they set out to create the most delicious ice cream in the world. Just before the final touch, the perfect topping, Gingerbread Man dashes away.</div> </details> | <a href="https://www.imdb.com/title/tt28367427/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81726678" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*LIM YOUNG WOONG│IM HERO THE STADIUM*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81942257" target="_blank">Netflix_link</a> |
+| N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*LIM YOUNG WOONG│IM HERO THE STADIUM*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81942257" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNGI5OTU4MmItNTUwMC00MTEzLWFhODYtNGU0YWNmZmIzNWYyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Bogotá: City of the Lost*</strong></summary>  <div class="movie-plot">Young man moving to Colombia with his family for a better life, but he ends up living from hand to mouth. He later goes against all odds to dominate Bogota's black market.</div> </details> | <a href="https://www.imdb.com/title/tt22507374/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81942643" target="_blank">Netflix_link</a> |
 
 
@@ -107,4 +107,8 @@ You don’t have to manually check IMDb for each movie — the ranking is fully 
 ```{tip}
 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
 ```
+
+---
+*Page last updated on: 2026-01-12*
+
 

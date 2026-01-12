@@ -1,4 +1,4 @@
-# Horror Anime 
+# Horror Anime
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/10695" target="_blank">https://www.netflix.com/browse/genre/10695</a>
 
@@ -21,9 +21,9 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/10695" target="_bla
 | 6.3 | <img src="https://m.media-amazon.com/images/M/MV5BOWM2MGNkZmYtOGQxYS00MDM5LWFhMDEtMzBlZjgzMGMyNjEzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Akuma Kun*</strong></summary>  <div class="movie-plot">A boy trying create a society where humanity realizes it's true potential and lives happily, with the help of some unlikely allies.</div> </details> | <a href="https://www.imdb.com/title/tt16270188/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81400498" target="_blank">Netflix_link</a> |
 | 6.1 | <img src="https://m.media-amazon.com/images/M/MV5BOTZhMDZhNmItZTQwNS00NDZlLTgzYTEtNTkxY2EzZDIzZDg3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Junji Ito Maniac: Japanese Tales of the Macabre*</strong></summary>  <div class="movie-plot">From the mind of horror manga maestro Junji Ito comes a spine-tingling selection of some of his most bizarre, disturbing and terrifying tales.</div> </details> | <a href="https://www.imdb.com/title/tt21856734/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81295011" target="_blank">Netflix_link</a> |
 | 5.8 | <img src="https://m.media-amazon.com/images/M/MV5BNjAzYjZlMTgtMzFiNy00YzdmLWE0NTEtYTE4Zjg3NjMzYjBlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*RESIDENT EVIL: Infinite Darkness*</strong></summary>  <div class="movie-plot">Federal agent Leon S. Kennedy teams up with TerraSave staff member Claire Redfield to investigate a zombie outbreak. Based on the popular video game series of the same name by Capcom.</div> </details> | <a href="https://www.imdb.com/title/tt13173144/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80987064" target="_blank">Netflix_link</a> |
-| N/A | <img src="N/A" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*Castlevania*</strong></summary>  <div class="movie-plot">Castlevania, the Machinima, is based on the popular video game franchise from Konami. Tracking the adventures of vampire hunter; Richter Belmont and his dreaded battle with the Lord of Darkness, Dracula.</div> </details> | <a href="https://www.imdb.com/title/tt15562720/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80095241" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Mononoke The Movie: The Phantom in the Rain*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81580574" target="_blank">Netflix_link</a> |
-| N/A | <img src="None" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*SHIBOYUGI: Playing Death Games to Put Food on the Table*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82047155" target="_blank">Netflix_link</a> |
+| N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Castlevania*</strong></summary>  <div class="movie-plot">Castlevania, the Machinima, is based on the popular video game franchise from Konami. Tracking the adventures of vampire hunter; Richter Belmont and his dreaded battle with the Lord of Darkness, Dracula.</div> </details> | <a href="https://www.imdb.com/title/tt15562720/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80095241" target="_blank">Netflix_link</a> |
+| N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Mononoke The Movie: The Phantom in the Rain*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81580574" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*SHIBOYUGI: Playing Death Games to Put Food on the Table*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82047155" target="_blank">Netflix_link</a> |
 
 
 ---
@@ -58,4 +58,8 @@ You don’t have to manually check IMDb for each movie — the ranking is fully 
 ```{tip}
 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
 ```
+
+---
+*Page last updated on: 2026-01-12*
+
 
