@@ -1,4 +1,4 @@
-# LGBTQ Drama on Netflix
+# LGBTQ Drama 
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/500" target="_blank">https://www.netflix.com/browse/genre/500</a>
 

@@ -126,7 +126,7 @@ The input movie list is usually generated with:
 ### Source code
 ```bash
 #######################################################################
-#  Get the IMDb rating for a list of movies on Netflix                #
+#  Get the IMDb rating for a list of movies                 #
 #######################################################################
 #!/usr/bin/env bash
 
