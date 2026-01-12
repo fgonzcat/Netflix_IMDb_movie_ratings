@@ -251,3 +251,7 @@ You don’t have to manually check IMDb for each movie — the ranking is fully 
 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
 ```
 
+---
+*Page last updated on: 2026-01-11*
+
+
