@@ -1,4 +1,4 @@
-# Anime Series on Netflix
+# Anime Series 
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/6721" target="_blank">https://www.netflix.com/browse/genre/6721</a>
 

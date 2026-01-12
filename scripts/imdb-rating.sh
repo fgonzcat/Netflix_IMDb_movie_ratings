@@ -370,19 +370,19 @@ website="imdb"
 #""""""""""""""""""""""""""""""""""""""""""""""""""""""#
 # Create the list of movies from Netflix categories    #
 #""""""""""""""""""""""""""""""""""""""""""""""""""""""#
-category="https://www.netflix.com/browse/genre/8933?bc=34399"  # thriller movies
-category="https://www.netflix.com/browse/genre/5977?bc=34399"  # LGBTQ movies
-category="https://www.netflix.com/browse/genre/5824?bc=34399"  # crime movies
-category="https://www.netflix.com/browse/genre/78367?bc=34399" # international movies
-category="https://www.netflix.com/browse/genre/7077?bc=34399" # international movies
-category="https://www.netflix.com/browse/genre/5763?bc=34399" # drama movies
-category="https://www.netflix.com/browse/genre/7627?bc=34399" # cult     
-category="https://www.netflix.com/browse/genre/6548?bc=34399" # comedy 
-category="https://www.netflix.com/browse/genre/31574?bc=34399" # classics 
-category="https://www.netflix.com/browse/genre/1492?bc=34399" # fiction
-category="https://www.netflix.com/browse/genre/3063?bc=34399" # anime  
-category="https://www.netflix.com/browse/genre/1365?bc=34399" # action
-category="https://www.netflix.com/browse/genre/8711?bc=34399"  # horror movies
+category="https://www.netflix.com/browse/genre/8933"  # thriller movies
+category="https://www.netflix.com/browse/genre/5977"  # LGBTQ movies
+category="https://www.netflix.com/browse/genre/5824"  # crime movies
+category="https://www.netflix.com/browse/genre/78367" # international movies
+category="https://www.netflix.com/browse/genre/7077" # international movies
+category="https://www.netflix.com/browse/genre/5763" # drama movies
+category="https://www.netflix.com/browse/genre/7627" # cult     
+category="https://www.netflix.com/browse/genre/6548" # comedy 
+category="https://www.netflix.com/browse/genre/31574" # classics 
+category="https://www.netflix.com/browse/genre/1492" # fiction
+category="https://www.netflix.com/browse/genre/3063" # anime  
+category="https://www.netflix.com/browse/genre/1365" # action
+category="https://www.netflix.com/browse/genre/8711"  # horror movies
 #wget --no-check-certificate -q -O - "$category" | tr '{' '\n'| grep '"@type":"Movie","name":' | tr ':' '\n'  | tr ',' '\n' | awk '/name/{getline; print}'  | sort | uniq
 #exit
 

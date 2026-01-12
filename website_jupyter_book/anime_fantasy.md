@@ -1,4 +1,4 @@
-# Fantasy Anime on Netflix
+# Fantasy Anime 
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/11146" target="_blank">https://www.netflix.com/browse/genre/11146</a>
 

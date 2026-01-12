@@ -1,4 +1,4 @@
-# Sci-Fi Anime on Netflix
+# Sci-Fi Anime 
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/2729" target="_blank">https://www.netflix.com/browse/genre/2729</a>
 

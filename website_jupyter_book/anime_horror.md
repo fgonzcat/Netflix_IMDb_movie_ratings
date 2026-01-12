@@ -1,4 +1,4 @@
-# Horror Anime on Netflix
+# Horror Anime 
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/10695" target="_blank">https://www.netflix.com/browse/genre/10695</a>
 

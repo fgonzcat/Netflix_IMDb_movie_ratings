@@ -11,7 +11,7 @@ parts:
       - file: scripts 
       - file: netflix_codes
 
-  - caption: Movie categories
+  - caption: Movie Categories on Netflix
     chapters:
       - file: action_adventure
       - file: action_comedy 
@@ -28,13 +28,14 @@ parts:
       - file: horror
       - file: independent 
       - file: korean 
-      - file: music 
       - file: LGBTQ
       - file: LGBTQ_dramas
       - file: LGBTQ_Romantic
+      - file: music 
       - file: romance 
       - file: romantic_comedies
       - file: scifi 
+      - file: spanish_movies_and_TV_shows 
       - file: standup_comedy 
       - file: thrillers
 
@@ -46,12 +47,14 @@ parts:
       - file: Korean_TV_Shows 
 
   - caption: Documentaries  
+    chapters:
       - file: documentaries 
       - file: biographical_documentaries 
       - file: crime_documentaries
       - file: historical_documentaries 
 
   - caption: Anime 
+    chapters:
       - file: anime
       - file: anime_action
       - file: anime_comedies

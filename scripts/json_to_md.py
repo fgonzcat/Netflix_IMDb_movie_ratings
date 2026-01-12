@@ -50,7 +50,8 @@ def sort_key(movie):
 movies_sorted = sorted(data.get("movies", []), key=sort_key, reverse=True)
 
 # Header
-print(f"# {title} on Netflix\n")
+#print(f"# {title} on Netflix\n")
+print(f"# {title}\n")
 print(f'Netflix genre: <a href="{genre_url}" target="_blank">{genre_url}</a>\n')
 print("## 🎬 Movie list\n")
 print("| IMDb ⭐ | Poster | Year | Title | IMDb | Netflix |")

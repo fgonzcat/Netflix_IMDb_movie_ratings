@@ -1,4 +1,4 @@
-# Thrillers Movies on Netflix
+# Thrillers Movies 
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/8933" target="_blank">https://www.netflix.com/browse/genre/8933</a>
 

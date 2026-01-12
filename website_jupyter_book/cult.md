@@ -1,4 +1,4 @@
-# Cult Movies on Netflix
+# Cult Movies 
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/7627" target="_blank">https://www.netflix.com/browse/genre/7627</a>
 
