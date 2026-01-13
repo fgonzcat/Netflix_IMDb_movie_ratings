@@ -240,8 +240,8 @@ echo "... years fetched in $CACHE_JSON_FILE"
 ##########################################
 echo -e "\nSTEP 4: OMDb"
 
-#APIKEY="1a8c9011"
-APIKEY="d7e16fa4"
+APIKEY="1a8c9011"
+#APIKEY="d7e16fa4"
 #APIKEY="ed6cc44c"
 #APIKEY="14cf7f93"
 #APIKEY="b79f4081"
@@ -259,8 +259,10 @@ jq -r '
   | @tsv
 ' "$CACHE_JSON_FILE" > "$TMP_TSV"
 
-
-jq -r '.movies[]   | select(.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null)  ' "$CACHE_JSON_FILE" 
+tmp_json=$(jq -r '.movies[]   | select(.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null)  ' "$CACHE_JSON_FILE"  )
+#echo $tmp_json | jq
+N=$(echo $tmp_json | jq -r ' .title ' | wc -l)
+printf "\033[33m--> Performing %d calls to OMDb...\033[0m\n" "$N"
 
 # Reading the TMP_TSV: a json file only with missing IMDb rating
 while IFS=$'\t' read -r title year url; do
@@ -291,6 +293,7 @@ while IFS=$'\t' read -r title year url; do
       if [[ "$omdbError"  == *limit* ]]; then
        echo "⚠️  OMDb rate limit reached — skipping $title" >&2
        #continue
+       touch "$TMP_OUT.limit"
        exit
       fi
       # Retry without a year
@@ -321,6 +324,15 @@ while IFS=$'\t' read -r title year url; do
   while (( $(jobs -rp | wc -l) >= NPROC )); do sleep 0.1; done
 done < "$TMP_TSV"
 wait
+
+
+# CHECK WHETHER YOU EXCEEDED THE MAX NUMBER OF DAILY REQUESTS
+if [[ -f "$TMP_OUT.limit" ]]; then
+  echo "❌ OMDb rate limit was hit. Aborting without modifying cache." >&2
+  rm -f "$TMP_TSV" "$TMP_OUT" "$TMP_OUT.limit"
+  exit 1
+fi
+
 
 # Reading the TMP_OUT
 while IFS=$'\t' read -r url rating imdbid poster plot; do

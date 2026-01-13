@@ -1,5 +1,5 @@
 {
-  "genre": "lgbtq",
+  "genre": "LGBTQ",
   "genre_url": "https://www.netflix.com/browse/genre/5977",
   "movies": [
     {
@@ -24,10 +24,10 @@
       "title": "Blue Is the Warmest Color",
       "netflix_url": "https://www.netflix.com/title/70275600",
       "year": "2013",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null
+      "imdb_rating": "7.6",
+      "imdb_id": "tt2278871",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NTg5ODk4OV5BMl5BanBnXkFtZTgwODc4MTMzMDE@._V1_SX300.jpg",
+      "Plot": "Adèle's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire and to assert herself as a woman and as an adult. In front of others, Adèle grows, seeks herself, loses herself, and ..."
     },
     {
       "title": "Duck Butter",
@@ -109,6 +109,15 @@
       "imdb_id": "tt3260524",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q3ZWU2N2YtMThkZi00YWJmLTg5MzUtN2IxZDg0OGU5MDI3XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Falling in love in 1947, two women -- Pat Henschel and pro baseball player Terry Donahue -- begin a 65-year journey of love and overcoming prejudice."
+    },
+    {
+      "title": "The Perfection",
+      "netflix_url": "https://www.netflix.com/title/80211638",
+      "year": "2019",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt7772580",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA3NzkzMDUxODBeQTJeQWpwZ15BbWU4MDM0ODc5ODcz._V1_SX300.jpg",
+      "Plot": "When troubled musical prodigy Charlotte seeks out Elizabeth, the new star pupil of her former school, the encounter sends both musicians down a sinister path with shocking consequences."
     },
     {
       "title": "Feminists: What Were They Thinking?",
@@ -762,10 +771,10 @@
       "title": "Latin Blood - The Ballad of Ney Matogrosso",
       "netflix_url": "https://www.netflix.com/title/81754156",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null
+      "imdb_rating": "7.8",
+      "imdb_id": "tt35301431",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmU0NDY3ODctNjhmMS00Y2YxLTljZTAtN2E5NzA4NTExODU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "From a repressive childhood to artistic revolution, Ney Matogrosso transforms Brazil's stages - and himself - through music, creativity and inner fire."
     },
     {
       "title": "10DANCE",
@@ -831,6 +840,15 @@
       "Plot": "On the night of their anniversary, a Chinese woman must decide whether to keep her Asian-American girlfriend a secret from her traditional family with the upcoming Chinese New Year or live out her dream as her true self."
     },
     {
+      "title": "Quinceañero",
+      "netflix_url": "https://www.netflix.com/title/81923253",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt14734610",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg5MjZhNmYtY2Q4My00ODJkLWIyNDMtOGI0YzJkYzEzOTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A whimsical musical about a Catholic boy's dream of having a Quinceañera."
+    },
+    {
       "title": "Lali: Time to Step Up",
       "netflix_url": "https://www.netflix.com/title/81940759",
       "year": "2025",
@@ -874,6 +892,15 @@
       "imdb_id": "tt15042300",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWFiNTA2MzItNzY1Mi00YzRlLTljY2MtMTQ2MDJhMmUzOTM3XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Muriel and her husband Lee are about to begin a bright new life, which is upended by the arrival of Lee's brother. Muriel embarks on a secret life, gambling on racehorses and discovering a love she never thought possible."
+    },
+    {
+      "title": "Stone Cold Fox",
+      "netflix_url": "https://www.netflix.com/title/82161421",
+      "year": "2025",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt27368237",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIwMzMzNGQtMzdhZi00N2I3LWEwZjgtMjBhOGJkOWFkZjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1986, the defiant Fox breaks out of an abusive commune in search of her family. But when the queenpin kidnaps her little sister and sends a crooked cop after her, Fox has no choice but to infiltrate the very place she escaped."
     }
   ]
 }
