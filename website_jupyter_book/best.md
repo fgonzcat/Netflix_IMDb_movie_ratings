@@ -1106,39 +1106,6 @@ Netflix genre: <a href="None" target="_blank">None</a>
 
 
 ---
-
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [None](None)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh None
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
 *Page last updated on: 2026-01-12*
 
 
