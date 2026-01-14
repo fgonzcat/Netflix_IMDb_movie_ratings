@@ -13,24 +13,44 @@ parts:
 
   - caption: Movie Categories on Netflix
     chapters:
-      - file: action_adventure
-      - file: action_comedy 
-      - file: action_thrillers
-      - file: action_scifi_and_fantasy
+      - file: anime
+        sections:
+          - file: anime_action
+          - file: anime_comedies
+          - file: anime_drama
+          - file: anime_fantasy
+          - file: anime_horror
+          - file: anime_scifi
+
       - file: animated_movies
+      - file: action_adventure
+        sections:
+          - file: action_comedy 
+          - file: action_thrillers
+          - file: action_scifi_and_fantasy
+
       - file: art_house 
       - file: classics 
       - file: comedy 
       - file: crime_action_adventure
       - file: cult
+      - file: documentaries 
+        sections:
+          - file: biographical_documentaries 
+          - file: crime_documentaries
+          - file: historical_documentaries 
+
       - file: dramas 
       - file: family 
       - file: horror
       - file: independent 
       - file: korean 
+
       - file: LGBTQ
-      - file: LGBTQ_dramas
-      - file: LGBTQ_Romantic
+        sections:
+          - file: LGBTQ_dramas
+          - file: LGBTQ_Romantic
+
       - file: music 
       - file: romance 
       - file: romantic_comedies
@@ -46,22 +66,7 @@ parts:
       - file: TV_dramas 
       - file: Korean_TV_Shows 
 
-  - caption: Documentaries  
-    chapters:
-      - file: documentaries 
-      - file: biographical_documentaries 
-      - file: crime_documentaries
-      - file: historical_documentaries 
 
-  - caption: Anime 
-    chapters:
-      - file: anime
-      - file: anime_action
-      - file: anime_comedies
-      - file: anime_drama
-      - file: anime_fantasy
-      - file: anime_horror
-      - file: anime_scifi
 
   - caption: Best of the Best
     chapters:

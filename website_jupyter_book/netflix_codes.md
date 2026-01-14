@@ -9,6 +9,8 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 
 | Genre | Link |
 |-------|------|
+| *Action & Adventure* | |
+|-------|------|
 | Action & Adventure  | https://www.netflix.com/browse/genre/1365 |
 | Action Comedies  | https://www.netflix.com/browse/genre/43040 |
 | Action Thrillers  | https://www.netflix.com/browse/genre/43048 |
