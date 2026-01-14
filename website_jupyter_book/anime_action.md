@@ -169,41 +169,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2653" target="_blan
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZjJjZGIwNWQtMzM5Ni00YWRkLWFhMmYtNmE0N2IyN2Q4MzljXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Kinnikuman Perfect Origin Arc*</strong></summary>  <div class="movie-plot">Kinnikuman returns to the ring in an epic three-way battle between the Seigi, Akuma and Perfect Chojin factions and reveals the roots of the Chojin.</div> </details> | <a href="https://www.imdb.com/title/tt29338030/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81781519" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNDc3YmMyZTktZGQ4Ni00YjA2LTk2YjgtZGFhMDZjZjhlMzBlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*YAIBA: Samurai Legend*</strong></summary>  <div class="movie-plot">The series follows the titular Yaiba Kurogane a samurai boy inspired by Miyamoto Musashi, the real-life swordsman who made the Hyoho Niten Ichi-ryu style of two-sword fighting and wrote The Book of Five Rings classic on military s...</div> </details> | <a href="https://www.imdb.com/title/tt33332400/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82030192" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/2653](https://www.netflix.com/browse/genre/2653)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/2653
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/2653](https://www.netflix.com/browse/genre/2653)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/2653
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 

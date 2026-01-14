@@ -86,46 +86,49 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/11881" target="_bla
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Arcane*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt33560027/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81435684" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZmFhNDE1OTMtZDY4ZC00MmM4LTljN2ItODVkZThjYjI3ODYxXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Long Story Short*</strong></summary>  <div class="movie-plot">A dysfunctional family's shared history, inside jokes, and old wounds are explored in this adult animated comedy spanning multiple years.</div> </details> | <a href="https://www.imdb.com/title/tt33247080/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81686879" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMzlhODM0ZGEtYzAzZS00YWI0LWIwMjUtMTMwMTUyYmVkYzMwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Krish, Trish & Baltiboy Bharat Hain Hum*</strong></summary>  <div class="movie-plot">The beloved trio of animals storytellers relates the stirring history of The Freedom Struggle of India through real-life tales of courage and sacrifice.</div> </details> | <a href="https://www.imdb.com/title/tt29612962/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81713009" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BNTc5OTdlZTUtMDA1MS00MmU3LTg3NGQtNDI5NTZjMjMzZDI0XkEyXkFqcGdeQXVyMjY0MTkzMDE@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*The Braid of Time*</strong></summary>  <div class="movie-plot">Estela is a bright, 23-year-old Black Latina born and raised in Washington, D.C. She is busy DJing and building her own app when she is called to a magical journey of self-discovery by the spirit of her grandmother, Goya. With Goyita</div> </details> | <a href="https://www.imdb.com/title/tt15260300/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81923255" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BM2Y4ZGQyYzgtM2RjMC00YjZhLWJjMTgtMDBlN2NhMjE4ZmE5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Ostinato*</strong></summary>  <div class="movie-plot">Inspired by writer Sunita Balsara's experience with tinnitus, Ostinato follows Nuha, a composer who sees the world as a vibrant soundscape. She is having the best and gentlest kind of morning when her playing is interrupted by a m...</div> </details> | <a href="https://www.imdb.com/title/tt29874855/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81923258" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMzZlZjY4ZDYtNjIzNS00MWYyLTk5NjEtODE3YmI3ZGU0MDE5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Panji Tengkorak*</strong></summary>  <div class="movie-plot">A fictional world in the early 15th century, when a war of attrition rages. Panji, a warrior who has not found peace even though he has avenged his wife's death. He tries to end his life, but his black magic prevents him.</div> </details> | <a href="https://www.imdb.com/title/tt24670146/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82051053" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Kurukshetra: The Great War of Mahabharata*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82063102" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYTRkODNhYzYtZGRhNi00MTg4LWI5MmYtN2MyZTQ5MjE2YzMyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Mahavatar Narsimha*</strong></summary>  <div class="movie-plot">The demon Hiranyakashyap seeks revenge on Vishnu and declares himself a god. His son Prahlad remains devoted to Vishnu. Vishnu manifests as Narsimha to defeat the demon and restore balance.</div> </details> | <a href="https://www.imdb.com/title/tt34365591/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82131939" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/11881](https://www.netflix.com/browse/genre/11881)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/11881
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/11881](https://www.netflix.com/browse/genre/11881)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/11881
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 

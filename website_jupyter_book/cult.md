@@ -29,41 +29,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7627" target="_blan
 | N/A |  | 1974 | <details> <summary><strong style="color:#1f6feb;">*The Texas Chainsaw Massacre*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt34081214/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/15815343" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Bad Education: Directors Cut*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81713692" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/7627](https://www.netflix.com/browse/genre/7627)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/7627
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/7627](https://www.netflix.com/browse/genre/7627)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/7627
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 

@@ -31,9 +31,10 @@ html:
   use_issues_button: true
   use_repository_button: true
   theme:
-    collapse_navigation: false
+    collapse_navigation: true 
   extra_css:
     - _static/custom.css
+  google_analytics_id: "G-7LWVRGQWEC" # Or "UA-XXXXXX-X"
   extra_head: |
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7LWVRGQWEC"></script>

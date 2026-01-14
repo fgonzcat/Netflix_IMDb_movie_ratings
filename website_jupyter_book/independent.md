@@ -139,6 +139,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7077" target="_blan
 | 6.2 | <img src="https://m.media-amazon.com/images/M/MV5BMTk0NDQ3MzgxOF5BMl5BanBnXkFtZTgwMDAzMjExNzE@._V1_SX300.jpg" class="zoom-img" width="120"> | 2015 | <details> <summary><strong style="color:#1f6feb;">*I Smile Back*</strong></summary>  <div class="movie-plot">Addicted to drugs and alcohol, a housewife's self-destructive behavior starts to take its toll on her husband and two young children.</div> </details> | <a href="https://www.imdb.com/title/tt3640682/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80037584" target="_blank">Netflix_link</a> |
 | 6.2 | <img src="https://m.media-amazon.com/images/M/MV5BMTUzNjE5ODYwN15BMl5BanBnXkFtZTgwMTY4MjQ1MTI@._V1_SX300.jpg" class="zoom-img" width="120"> | 2017 | <details> <summary><strong style="color:#1f6feb;">*The Discovery*</strong></summary>  <div class="movie-plot">Two years after the afterlife is scientifically proven, a man attempts to help a young woman break away from her dark past.</div> </details> | <a href="https://www.imdb.com/title/tt5155780/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80115857" target="_blank">Netflix_link</a> |
 | 6.2 | <img src="https://m.media-amazon.com/images/M/MV5BMTg0NjY4MjIxM15BMl5BanBnXkFtZTgwMTk2MjIyNjM@._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*The Land of Steady Habits*</strong></summary>  <div class="movie-plot">After leaving his wife and his job to find happiness, Anders befriends a drug-addicted teen, sending him down a path of reckless and shameful behavior.</div> </details> | <a href="https://www.imdb.com/title/tt6485928/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80164779" target="_blank">Netflix_link</a> |
+| 6.2 | <img src="https://m.media-amazon.com/images/M/MV5BMzQ1MGM3Y2YtYTNlNS00YjQ5LTk5NTEtM2RlOWVlYzVkZGM2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*Sergio*</strong></summary>  <div class="movie-plot">A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where the life of top UN diplomat Sergio Vieira de Mello hangs in the balance during the most treacherous mission of his career.</div> </details> | <a href="https://www.imdb.com/title/tt8750570/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80191526" target="_blank">Netflix_link</a> |
 | 6.2 | <img src="https://m.media-amazon.com/images/M/MV5BNWRhZWZhOGYtMTM4My00MzkxLTk1NTAtZDIyZGExYmViOWI3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2017 | <details> <summary><strong style="color:#1f6feb;">*My Friend Dahmer*</strong></summary>  <div class="movie-plot">A young Jeffrey Dahmer struggles to belong in high school.</div> </details> | <a href="https://www.imdb.com/title/tt2291540/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80192637" target="_blank">Netflix_link</a> |
 | 6.2 | <img src="https://m.media-amazon.com/images/M/MV5BNmU0Njg0NTUtOTRhYy00MzZiLTlhNDAtNzA5YzU5YjU5YzBhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Thai Massage*</strong></summary>  <div class="movie-plot">A typical middle-class 70-year-old widower, Atmaram Dubey, who has been celibate for decades, realises he will probably never have sex. This awakening catapults him into an outrageous journey of self-discovery defying societal norms.</div> </details> | <a href="https://www.imdb.com/title/tt20838498/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81387255" target="_blank">Netflix_link</a> |
 | 6.2 | <img src="https://m.media-amazon.com/images/M/MV5BZWQ5NDg4M2ItMGQ1Ni00Y2Q1LWFiNWYtNDJmMmY4OTNiMWNjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*Really Love*</strong></summary>  <div class="movie-plot">Set in contemporary Washington D.C., a rising black painter strives to break into the competitive art world, while balancing a bittersweet romance he never expected.</div> </details> | <a href="https://www.imdb.com/title/tt8722624/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81397545" target="_blank">Netflix_link</a> |
@@ -183,6 +184,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7077" target="_blan
 | 5.8 | <img src="https://m.media-amazon.com/images/M/MV5BOWYyM2YzMzQtODIwYy00MTI4LThhYmItZTliMmJjMzFmZTdhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*The Wretched*</strong></summary>  <div class="movie-plot">A defiant teenage boy, struggling with his parents' imminent divorce, faces off with a thousand year-old witch, who is living beneath the skin of and posing as the woman next door.</div> </details> | <a href="https://www.imdb.com/title/tt8305806/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81178839" target="_blank">Netflix_link</a> |
 | 5.8 | <img src="https://m.media-amazon.com/images/M/MV5BNTNiMTliMDktZWQzNi00NWU2LWE3OTktZGM5OGY0MWI2OTBjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Cora Bora*</strong></summary>  <div class="movie-plot">Follows Cora, who feels that her relationship is not going well. She goes back home to win her girlfriend back but she will realize that it's much more than her love life that needs salvaging.</div> </details> | <a href="https://www.imdb.com/title/tt20221208/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81968072" target="_blank">Netflix_link</a> |
 | 5.7 | <img src="https://m.media-amazon.com/images/M/MV5BOGFkNzVkYWQtM2NjZS00YjUyLTk4OGMtYTFmNDA5ZWMxMjY5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2014 | <details> <summary><strong style="color:#1f6feb;">*Clown*</strong></summary>  <div class="movie-plot">A loving father finds a clown suit for his son's birthday party, only to realize that it's cursed.</div> </details> | <a href="https://www.imdb.com/title/tt1780798/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80081152" target="_blank">Netflix_link</a> |
+| 5.7 | <img src="https://m.media-amazon.com/images/M/MV5BNWJjYmIzY2UtM2YwYi00MmM4LTkyNDMtYzFiYWM0NzcxZjNlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2017 | <details> <summary><strong style="color:#1f6feb;">*Spivak*</strong></summary>  <div class="movie-plot">Struggling writer Wally Spivak is stuck in a rut--until he meets an engaged couple and starts to see life in a whole new way.</div> </details> | <a href="https://www.imdb.com/title/tt6342110/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80117736" target="_blank">Netflix_link</a> |
 | 5.7 | <img src="https://m.media-amazon.com/images/M/MV5BZmM1NmRlNTUtYjJlOC00MjUzLWE2ZmMtZDY3Y2VlYTI5NWZlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2017 | <details> <summary><strong style="color:#1f6feb;">*Bomb Scared*</strong></summary>  <div class="movie-plot">Four Basque ETA terrorists, living together with peculiar Spanish neighbors, are planning a terrorist attack in Spain, but await instructions from the head of the organization.</div> </details> | <a href="https://www.imdb.com/title/tt6895746/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80134526" target="_blank">Netflix_link</a> |
 | 5.7 | <img src="https://m.media-amazon.com/images/M/MV5BMTY3NzE5NzU2Nl5BMl5BanBnXkFtZTgwMTIzMzc4NDM@._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*Birthmarked*</strong></summary>  <div class="movie-plot">Two scientists raise 3 children contrarily to their genetic tendencies to prove the ultimate power of nurture over nature.</div> </details> | <a href="https://www.imdb.com/title/tt4702826/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80241779" target="_blank">Netflix_link</a> |
 | 5.7 | <img src="https://m.media-amazon.com/images/M/MV5BOTJiYTZmNmItYjQ2Ni00MTYyLTg1N2MtYWRjOTc1ZTZmMWZjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*Lionheart*</strong></summary>  <div class="movie-plot">Running a company can be challenging, especially for a female in a male-dominated industry. Looking to prove her worth, Adaeze steps up to the challenge when health issues force her father to take a step back.</div> </details> | <a href="https://www.imdb.com/title/tt7707314/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81030789" target="_blank">Netflix_link</a> |
@@ -223,6 +225,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7077" target="_blan
 | 4.2 | <img src="https://m.media-amazon.com/images/M/MV5BNmU0MDI4YWUtOWViYy00NzFkLWI3ZjAtNjIxNTljMWFkMDdkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*BEAUTY*</strong></summary>  <div class="movie-plot">A gifted young Black woman struggles to maintain her voice and identity after she’s offered a lucrative recording contract.</div> </details> | <a href="https://www.imdb.com/title/tt11364112/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81044100" target="_blank">Netflix_link</a> |
 | 4.2 | <img src="https://m.media-amazon.com/images/M/MV5BYzg4ZjI0OWQtNWEwYS00OWFhLTliNmYtMDliNTkzOTNmODUwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Weathering*</strong></summary>  <div class="movie-plot">After losing her baby and nearly her life during labor, a journalist unravels amid disturbing visions and chilling attacks as she grieves alone at home.</div> </details> | <a href="https://www.imdb.com/title/tt27403906/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81553211" target="_blank">Netflix_link</a> |
 | 4.1 | <img src="https://m.media-amazon.com/images/M/MV5BYjc5MzM2NzItZGFkYS00ZTU5LTg5MjctN2U1NjczNzg2MjAyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*The Fanatic*</strong></summary>  <div class="movie-plot">A rabid film fan stalks his favorite action hero and destroys his life.</div> </details> | <a href="https://www.imdb.com/title/tt7869070/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81168609" target="_blank">Netflix_link</a> |
+| 4.0 | <img src="https://m.media-amazon.com/images/M/MV5BMTk5NzkwODIyMF5BMl5BanBnXkFtZTgwMTk2NzAyNTM@._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*Paradox*</strong></summary>  <div class="movie-plot">A group of outlaws search for a mountain treasure and experience the supernatural powers of a full moon.</div> </details> | <a href="https://www.imdb.com/title/tt7949046/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80242378" target="_blank">Netflix_link</a> |
 | 3.8 | <img src="https://m.media-amazon.com/images/M/MV5BNjkxZTFhYWUtMjFlYy00Y2M1LTg4MDUtZTViY2MxMmEwZTg0XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*The Last Days of American Crime*</strong></summary>  <div class="movie-plot">In the not-too-distant future, as a final response to terrorism and crime, the U.S. government plans to broadcast a signal making it impossible for anyone to knowingly commit unlawful acts.</div> </details> | <a href="https://www.imdb.com/title/tt1552211/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80198975" target="_blank">Netflix_link</a> |
 | 3.8 | <img src="https://m.media-amazon.com/images/M/MV5BZjI3MTEyODgtYjZiMi00ODY1LWIzMjgtNTRmNGI2OTVlNjljXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Lola*</strong></summary>  <div class="movie-plot">Lola James works to save enough money to get her little brother, Arlo, out of their toxic home. Arlo keeps her hopeful, until one tragic night, when her whole world gets uprooted. From that moment on, nothing will ever be the same.</div> </details> | <a href="https://www.imdb.com/title/tt14375666/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81772299" target="_blank">Netflix_link</a> |
 | 2.8 | <img src="https://m.media-amazon.com/images/M/MV5BNzkzNGNhODctODdlNS00YWJjLWJlZDAtZjIyNzA0NzFjNmRkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2015 | <details> <summary><strong style="color:#1f6feb;">*Ludo*</strong></summary>  <div class="movie-plot">Needing a secluded place for a late-night tryst, two couples stow away in a mall after hours, but are quickly ensnared in a gruesome and deadly game.</div> </details> | <a href="https://www.imdb.com/title/tt3724898/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80107037" target="_blank">Netflix_link</a> |
@@ -247,6 +250,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7077" target="_blan
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYTAxNGU1MGMtZTkwZC00MTg0LWJiNTgtYjYxNzY3MTA1ZGVhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Noise*</strong></summary>  <div class="movie-plot">A mother desperately searching for daughter who's been missing for two years.</div> </details> | <a href="https://www.imdb.com/title/tt11306932/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81498010" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNTNjNzNlY2MtMDc2MC00ODQyLTlhMGQtMWUxYzc5OWY4Y2Y1XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Sundown*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt29952295/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81552858" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Bones & All*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt6302206/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81618891" target="_blank">Netflix_link</a> |
+| N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Shastry Virudh Shastry*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81725616" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZTg0ODQxODktZTY5MC00OTQyLWI1YjQtZTIyY2I1NzU5MTIzXkEyXkFqcGdeQXVyMjgwNDE5MTE@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Daydreamers*</strong></summary>  <div class="movie-plot">Many Somali refugees dream of a better life in the US. In order to get there, they have to cheat American authorities in an unprecedented way. But isn't a life in freedom worth the biggest scam of all times?</div> </details> | <a href="https://www.imdb.com/title/tt15067498/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81727023" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYmI5OGM0MWItMTQ3ZC00Yzg4LTk1YjMtZjFmZjJjZGVlYTNkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Three of Us*</strong></summary>  <div class="movie-plot">A young couple is torn between their place in the Israeli Haredi (Ultra - orthodox) community and their desire to give their autistic son the chance to win independence and be integrated into society.</div> </details> | <a href="https://www.imdb.com/title/tt27190438/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81730353" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYzhiOWFjMmUtNDIyYy00NTA2LWIxMmQtMWMzZDM4NGRkNmU4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Ro & the Stardust*</strong></summary>  <div class="movie-plot">A free-spirited teen fulfills her terminally ill grandmother's dying wish of building a rocket ship to launch her into outer space.</div> </details> | <a href="https://www.imdb.com/title/tt15736800/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81923257" target="_blank">Netflix_link</a> |
@@ -254,41 +258,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7077" target="_blan
 | N/A |  | 2016 | <details> <summary><strong style="color:#1f6feb;">*The Amazing Journey of the Letters*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82007610" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Best Mother in the World*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82043086" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/7077](https://www.netflix.com/browse/genre/7077)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/7077
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/7077](https://www.netflix.com/browse/genre/7077)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/7077
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 

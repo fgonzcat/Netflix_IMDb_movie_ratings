@@ -42,9 +42,9 @@ http://www.omdbapi.com/?t=MOVIE_TITLE&y=YEAR&apikey=YOUR_KEY
 You must replace this key in the variable `APIKEY` of the `imdb-rating_omdbapi.sh` script.
 
 ### Query example in OMDb
-Just visiting the URL [http://www.omdbapi.com/?t="Battlefield%20Earth"%20%20&y=2000&apikey=1a8c9011](http://www.omdbapi.com/?t="Battlefield%20Earth"%20%20&y=2000&apikey=1a8c9011) or executing
+Just visiting the URL [http://www.omdbapi.com/?t=Battlefield%20Earth&y=2000&apikey=1a8c9011](http://www.omdbapi.com/?t=Battlefield%20Earth&y=2000&apikey=1a8c9011) or executing
 ```ruby
-curl -s "http://www.omdbapi.com/?t="Battlefield%20Earth"%20%20&y=2000&apikey=1a8c9011"
+curl -s "http://www.omdbapi.com/?t=Battlefield%20Earth&y=2000&apikey=1a8c9011"
 ```
 in your terminal will show you the following output:
 ```text

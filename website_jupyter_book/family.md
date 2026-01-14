@@ -35,6 +35,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/51056" target="_bla
 | 7.2 | <img src="https://m.media-amazon.com/images/M/MV5BMWM1YmJmYWMtMDM1Ni00ZGM2LTkxODYtOTU1ZjA4MTFkMDM1XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*Wish Dragon*</strong></summary>  <div class="movie-plot">Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.</div> </details> | <a href="https://www.imdb.com/title/tt5562070/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81153694" target="_blank">Netflix_link</a> |
 | 7.2 | <img src="https://m.media-amazon.com/images/M/MV5BMjc1YjEyZTQtOWY2ZC00OWJiLTkxOGEtYzdmMDA0NjYzMGVjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*Shaun the Sheep: The Flight Before Christmas*</strong></summary>  <div class="movie-plot">Shaun's seasonal excitement turns to dismay when a farmhouse raid to get bigger stockings for the Flock inadvertently leads to Timmy going missing. Can Shaun get Timmy back before he becomes someone else's present?</div> </details> | <a href="https://www.imdb.com/title/tt15857304/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81193166" target="_blank">Netflix_link</a> |
 | 7.2 | <img src="https://m.media-amazon.com/images/M/MV5BODFkZWQwZDAtZDNkYi00MWU1LTkyNmYtM2JjMTM5OTI0ZGQwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Leo*</strong></summary>  <div class="movie-plot">Parthiban is a mild-mannered cafe owner who fends off a gang of murderous thugs and gains attention from a drug cartel claiming he was once a part of them.</div> </details> | <a href="https://www.imdb.com/title/tt15654328/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81218917" target="_blank">Netflix_link</a> |
+| 7.2 | <img src="https://m.media-amazon.com/images/M/MV5BNzlmN2ZiMGItNWE5Yi00NDM3LWIxM2UtMjE2NDlkYjlmNTAyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*Sugar High*</strong></summary>  <div class="movie-plot">Contestants compete in two rounds of sugar sculpting challenges for a prize of $10,000.</div> </details> | <a href="https://www.imdb.com/title/tt12806000/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81258641" target="_blank">Netflix_link</a> |
 | 7.2 | <img src="https://m.media-amazon.com/images/M/MV5BMTViNDM0MmUtOTAwMS00MWRhLWI1NDktMzFkN2YzYTI5OGVlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Teenage Mutant Ninja Turtles: Mutant Mayhem*</strong></summary>  <div class="movie-plot">The Turtle brothers work to earn the love of New York City while facing down an army of mutants.</div> </details> | <a href="https://www.imdb.com/title/tt8589698/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81670527" target="_blank">Netflix_link</a> |
 | 7.1 | <img src="https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX300.jpg" class="zoom-img" width="120"> | 2016 | <details> <summary><strong style="color:#1f6feb;">*Sing*</strong></summary>  <div class="movie-plot">In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists find that their lives will never be the same.</div> </details> | <a href="https://www.imdb.com/title/tt3470600/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80117526" target="_blank">Netflix_link</a> |
 | 7.1 | <img src="https://m.media-amazon.com/images/M/MV5BZWEzZDE2NmItMTliZS00MDkzLTg3MjktODhhYjQ0YjQwZTc0XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*Sitara: Let Girls Dream*</strong></summary>  <div class="movie-plot">The short tells the story of Pari, a 14-year-old girl who dreams of becoming a pilot while growing up in a society that doesn't allow her to dream.</div> </details> | <a href="https://www.imdb.com/title/tt11064862/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81160765" target="_blank">Netflix_link</a> |
@@ -204,6 +205,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/51056" target="_bla
 | 4.7 | <img src="https://m.media-amazon.com/images/M/MV5BODdkYTdhMGItNTg3Zi00NzczLWI2YjgtZThlNTFjZjBlYzFiXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*We Can Be Heroes*</strong></summary>  <div class="movie-plot">When alien invaders capture the Earth's superheroes, their kids must learn to work together to save their parents and the planet.</div> </details> | <a href="https://www.imdb.com/title/tt10600398/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80994666" target="_blank">Netflix_link</a> |
 | 4.7 | <img src="https://m.media-amazon.com/images/M/MV5BNjBiOTE5NDQtMmJkNC00NzIxLWE2ZTYtYTY4ZTRlMjZiOGViXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Tall Girl 2*</strong></summary>  <div class="movie-plot">After Jodi Kreyman gains popularity, her miscommunications start causing rifts with those around her and now she really needs to 'stand tall'.</div> </details> | <a href="https://www.imdb.com/title/tt16085592/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81194110" target="_blank">Netflix_link</a> |
 | 4.5 | <img src="https://m.media-amazon.com/images/M/MV5BODUxZGZkMTYtZjgzYi00ZjY0LWI3N2EtY2Q2NmVkNzQwZTFhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*Christmas Break-In*</strong></summary>  <div class="movie-plot">A young girl outwits bumbling crooks who break into her school and take the janitor hostage during a snowstorm.</div> </details> | <a href="https://www.imdb.com/title/tt8244578/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81154982" target="_blank">Netflix_link</a> |
+| 4.5 | <img src="https://m.media-amazon.com/images/M/MV5BNmJhZjFkMTMtYTU0MS00YTkxLTk4MjItYWQ5YjA5NDFjNGZkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Christmas on Mistletoe Farm*</strong></summary>  <div class="movie-plot">After inheriting a farm at Christmas time, a widowed father makes a bumpy adjustment to village life - while his kids hatch a plan to stay there forever.</div> </details> | <a href="https://www.imdb.com/title/tt20561114/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81517419" target="_blank">Netflix_link</a> |
 | 4.3 | <img src="https://m.media-amazon.com/images/M/MV5BMjlhYzljYTAtYTNmMi00ZWViLTllNjMtZTIxNjc3MGU1YjBhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Mr. Car and the Knights Templar*</strong></summary>  <div class="movie-plot">When an art historian finds an ancient Templar cross, he must join forces with an unlikely group of adventurers on a quest to unlock the relic's secrets.</div> </details> | <a href="https://www.imdb.com/title/tt27876411/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81500432" target="_blank">Netflix_link</a> |
 | 4.3 | <img src="https://m.media-amazon.com/images/M/MV5BNDI1MDQ2MmQtNjgyZC00N2NmLThmMzMtMWI5ZDlkMTU0Y2I2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Spy Kids: Armageddon*</strong></summary>  <div class="movie-plot">The children of the world's greatest secret agents unwittingly help a powerful game developer unleash a computer virus that gives him control of all technology, leading them to become spies themselves to save their parents and the...</div> </details> | <a href="https://www.imdb.com/title/tt13978520/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81588091" target="_blank">Netflix_link</a> |
 | 4.2 | <img src="https://m.media-amazon.com/images/M/MV5BYmM5NDIyNDUtM2U5NC00ZTM4LTg5ZGQtMmFkYTQwZTcwNTQ2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*The Archies*</strong></summary>  <div class="movie-plot">Set in 1960s India, Archie and the gang navigate romance, friendship and the future of Riverdale as developers threaten to destroy a beloved park.</div> </details> | <a href="https://www.imdb.com/title/tt15979666/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81134807" target="_blank">Netflix_link</a> |
@@ -240,41 +242,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/51056" target="_bla
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Greater Kalesh*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82171959" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*KPop Demon Hunters Lyric Videos*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82174859" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/51056](https://www.netflix.com/browse/genre/51056)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/51056
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/51056](https://www.netflix.com/browse/genre/51056)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/51056
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 

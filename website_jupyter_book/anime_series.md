@@ -103,6 +103,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/6721" target="_blan
 | 7.1 | <img src="https://m.media-amazon.com/images/M/MV5BMjhlYWVlN2ItZDg3Yy00NGYxLWJkODYtMjFjZTE1YzVlYjdjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*EDENS ZERO*</strong></summary>  <div class="movie-plot">A young boy cut off from the world meets his friends and sets off on a hard, long journey to be reborn.</div> </details> | <a href="https://www.imdb.com/title/tt13167196/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81261630" target="_blank">Netflix_link</a> |
 | 7.1 | <img src="https://m.media-amazon.com/images/M/MV5BNjIzYzU4NWQtZGEwYi00MTQzLTgyNzAtZTkxYWIyMzVkNDliXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Ōoku: The Inner Chambers*</strong></summary>  <div class="movie-plot">In an alternate history where the male population is nearly decimated, eligible men serve as concubines to the woman shogun inside the walls of the Ooku.</div> </details> | <a href="https://www.imdb.com/title/tt27250301/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81464005" target="_blank">Netflix_link</a> |
 | 7.0 | <img src="https://m.media-amazon.com/images/M/MV5BM2E1MzMyMzQtY2I2Mi00YWRiLWE2MzUtNzZiZDY5YTNlOTVlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*B: The Beginning*</strong></summary>  <div class="movie-plot">In this anime series, scientists hope "new humans" will create universal peace, but they're kidnapped by an evil group with very different plans.</div> </details> | <a href="https://www.imdb.com/title/tt7944664/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80097594" target="_blank">Netflix_link</a> |
+| 7.0 | <img src="https://m.media-amazon.com/images/M/MV5BMzcwZTBjYzYtZWM1Mi00ODFlLTllMzgtNDFkZjVjOWVkNTVjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2017 | <details> <summary><strong style="color:#1f6feb;">*Children of the Whales*</strong></summary>  <div class="movie-plot">As a magic weilder, young archivist Chakuro knows his life will be short, but everything changes when a mysterious girl from the outside arrives on his island.</div> </details> | <a href="https://www.imdb.com/title/tt7484994/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80174917" target="_blank">Netflix_link</a> |
 | 7.0 | <img src="https://m.media-amazon.com/images/M/MV5BYjAyYjNhZjItMzE1Yy00ZTRmLWFkMDgtY2ExZmExODFiZjZhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*From Me to You: Kimi ni Todoke*</strong></summary>  <div class="movie-plot">Put off by her gloomy demeanor, Sawako has a hard time fitting in but when an outgoing classmate approaches her, life takes a turn for the better.</div> </details> | <a href="https://www.imdb.com/title/tt22001792/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80236253" target="_blank">Netflix_link</a> |
 | 7.0 | <img src="https://m.media-amazon.com/images/M/MV5BYjU0OWMwMDQtZjI5MS00NjY3LThlYjktZWMxOGMyZTA5NGRhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Pacific Rim: The Black*</strong></summary>  <div class="movie-plot">After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.</div> </details> | <a href="https://www.imdb.com/title/tt9288848/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81002003" target="_blank">Netflix_link</a> |
 | 7.0 | <img src="https://m.media-amazon.com/images/M/MV5BODU2ZjEwMjUtMTZiOS00NmFiLTkwOTMtOWUxMjAxZTlmMGFmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*Trese*</strong></summary>  <div class="movie-plot">Set in Manila where the mythical creatures of Philippine folklore live in hiding amongst humans, Alexandra Trese finds herself going head to head with a criminal underworld comprised of malevolent supernatural beings.</div> </details> | <a href="https://www.imdb.com/title/tt9310336/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81012541" target="_blank">Netflix_link</a> |
@@ -115,6 +116,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/6721" target="_blan
 | 6.9 | <img src="https://m.media-amazon.com/images/M/MV5BNzk3YzI2ZDUtMmFjNy00ZmQwLWFiNWUtODcwMjllYWYwZmY2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Terminator Zero*</strong></summary>  <div class="movie-plot">A warrior from a post-apocalyptic future travels to 1997 to protect an AI scientist being hunted by an unfeeling and indestructible cyborg.</div> </details> | <a href="https://www.imdb.com/title/tt14153236/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81217220" target="_blank">Netflix_link</a> |
 | 6.8 | <img src="https://m.media-amazon.com/images/M/MV5BYmI0MTY0NDgtZDJkYy00Mzk0LWFiZjYtODYwODQyOTAwNzhjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*BAKI*</strong></summary>  <div class="movie-plot">The protagonist, Baki Hanma, trains with an intense focus to become strong enough to surpass his father, Yujiro Hanma, the strongest fighter in the world.</div> </details> | <a href="https://www.imdb.com/title/tt6357658/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80204451" target="_blank">Netflix_link</a> |
 | 6.8 | <img src="https://m.media-amazon.com/images/M/MV5BNzlhNzk3ZTMtMTg1NC00MTM0LWE4OTgtYTdmMmE0OTYzNmY4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*Dino Girl Gauko*</strong></summary>  <div class="movie-plot">A children's animation on a seemingly typical girl who turns into a ferocious dinosaur when she is angry.</div> </details> | <a href="https://www.imdb.com/title/tt10380814/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80216180" target="_blank">Netflix_link</a> |
+| 6.8 | <img src="https://m.media-amazon.com/images/M/MV5BOGIwMzFjZmItYmExNS00YzE5LTkxMmUtNjBjZDc2YTZkMDdkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Vampire in the Garden*</strong></summary>  <div class="movie-plot">In the divided world of the future, two girls want to do the forbidden: the human wants to play the violin, and the vampire wants to see a wider world.</div> </details> | <a href="https://www.imdb.com/title/tt10011314/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80996247" target="_blank">Netflix_link</a> |
 | 6.8 | <img src="https://m.media-amazon.com/images/M/MV5BZTlmOGM4N2EtNDBhYy00ZGY2LTg5YzYtNzBhMzRhMGZlYzhkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*SPRIGGAN*</strong></summary>  <div class="movie-plot">An ancient alien civilization's relics on Earth hold dangerous powers. The ARCAM corporation's Spriggan agents must keep them out of the wrong hands.</div> </details> | <a href="https://www.imdb.com/title/tt10011306/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81050064" target="_blank">Netflix_link</a> |
 | 6.8 | <img src="https://m.media-amazon.com/images/M/MV5BMjJjZDM1NjktNDZhNi00OWZmLWI3NzEtOTMzMmZhMjc4MjQ3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Onimusha*</strong></summary>  <div class="movie-plot">With the heart of a warrior, a legendary swordsman wields an ancient, demonic weapon. But with every soul he takes, the more darkness consumes him.</div> </details> | <a href="https://www.imdb.com/title/tt22301234/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81153116" target="_blank">Netflix_link</a> |
 | 6.8 | <img src="https://m.media-amazon.com/images/M/MV5BNGMwYjdmMDQtODZiMC00YzczLWFkMjctZDhjYTI3MzEyMDg3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*WITCH WATCH*</strong></summary>  <div class="movie-plot">A dire prophecy hangs over the young witch Nico. Can her childhood friend Morihito keep her safe or will Nico's out-of-control magic get in the way?</div> </details> | <a href="https://www.imdb.com/title/tt33165027/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81991687" target="_blank">Netflix_link</a> |
@@ -150,6 +152,8 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/6721" target="_blan
 | 6.3 | <img src="https://m.media-amazon.com/images/M/MV5BMmU3NGQxMzQtMTkyYy00YThjLTljOTAtZGQ2YTY3OTg2OTE3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*The Grimm Variations*</strong></summary>  <div class="movie-plot">Inspired by the classic Brothers Grimm stories, this anthology features six fairy tales with a dark twist, exposing the shadowy side of human desire.</div> </details> | <a href="https://www.imdb.com/title/tt14872196/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81050090" target="_blank">Netflix_link</a> |
 | 6.3 | <img src="https://m.media-amazon.com/images/M/MV5BNzE5YmM0MWMtMmFlZS00MGFhLTllYTktNWFjYzk0ODkwNGNhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Moonrise*</strong></summary>  <div class="movie-plot">A young man from Earth enlists in the army to attack rebels on the Moon, only to find that his former best friend has become his enemy.</div> </details> | <a href="https://www.imdb.com/title/tt20672482/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81251383" target="_blank">Netflix_link</a> |
 | 6.3 | <img src="https://m.media-amazon.com/images/M/MV5BOWM2MGNkZmYtOGQxYS00MDM5LWFhMDEtMzBlZjgzMGMyNjEzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Akuma Kun*</strong></summary>  <div class="movie-plot">A boy trying create a society where humanity realizes it's true potential and lives happily, with the help of some unlikely allies.</div> </details> | <a href="https://www.imdb.com/title/tt16270188/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81400498" target="_blank">Netflix_link</a> |
+| 6.2 | <img src="https://m.media-amazon.com/images/M/MV5BZGU1OGI2OWItNGU3Yi00YjlmLWIzNDAtODQxZmVhNzU3MjQzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*Yasuke*</strong></summary>  <div class="movie-plot">He came from Africa and fought alongside a mighty feudal lord in brutal 16th century Japan. They called him the Black Samurai, and he became a legend.</div> </details> | <a href="https://www.imdb.com/title/tt9310330/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80990863" target="_blank">Netflix_link</a> |
+| 6.2 | <img src="https://m.media-amazon.com/images/M/MV5BNjJlYTllODktMzExZC00ZjIxLWFkNjQtMTFmY2Q2NTE5M2U4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*Dragon's Dogma*</strong></summary>  <div class="movie-plot">Ethan sets out to vanquish the Dragon that took his heart, but with every demon he battles, he loses more of his humanity.</div> </details> | <a href="https://www.imdb.com/title/tt10011298/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80992784" target="_blank">Netflix_link</a> |
 | 6.2 | <img src="https://m.media-amazon.com/images/M/MV5BNzdjYTU1MWItNjY3Mi00NTNjLWIzNzctZmU5ZWQ0NGVlMTAzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2003 | <details> <summary><strong style="color:#1f6feb;">*Sonic X*</strong></summary>  <div class="movie-plot">A slight malfunction causes Chaos Control, and sends Sonic the Hedgehog to Earth. While there, Sonic meets Chris Thorndyke, who aids at collecting the Chaos Emeralds, so Sonic and friends can go home.</div> </details> | <a href="https://www.imdb.com/title/tt0367413/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81172267" target="_blank">Netflix_link</a> |
 | 6.1 | <img src="https://m.media-amazon.com/images/M/MV5BZGU4MTM3MDItMmYwMy00YmQ1LWI5OWEtNmY4Y2IzYmZhZDU2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*Kakegurui*</strong></summary>  <div class="movie-plot">Hyakaou Academy is an institute where the academic ranking is based on the pupils' gambling winnings. Yumeko is new to the academy. Her pretty enchantress looks are only surpassed by her voracious appetite to gamble it all and win...</div> </details> | <a href="https://www.imdb.com/title/tt9552162/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80175351" target="_blank">Netflix_link</a> |
 | 6.1 | <img src="https://m.media-amazon.com/images/M/MV5BMzY5N2M1NDctYTIyNy00NjczLWI2ZjUtNGZlOGM2YWMwM2MzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*HERO MASK*</strong></summary>  <div class="movie-plot">Detective James Blood investigates a string of grisly crimes all involving a mysterious mask.</div> </details> | <a href="https://www.imdb.com/title/tt9316078/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80200027" target="_blank">Netflix_link</a> |
@@ -201,41 +205,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/6721" target="_blan
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*SHIBOYUGI: Playing Death Games to Put Food on the Table*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82047155" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Pokémon Horizons: Season 3: Rising Hope*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82077961" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/6721](https://www.netflix.com/browse/genre/6721)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/6721
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/6721](https://www.netflix.com/browse/genre/6721)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/6721
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 

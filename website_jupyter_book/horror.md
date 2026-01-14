@@ -6,7 +6,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 
 | IMDb ⭐ | Poster | Year | Title | IMDb | Netflix |
 |:-------:|:-------:|:-------:|:------|------|---------|
-| 9.9 |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Monster*</strong></summary>  <div class="movie-plot">Set in the late Ming Dynasty, the story follows three enclosed-ground hunters who are close friends: Qi Feng, Yang Shiyi, and Yun Xiaotian. They assist the people along the upper reaches of the Yellow River</div> </details> | <a href="https://www.imdb.com/title/tt37897393/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81678617" target="_blank">Netflix_link</a> |
 | 7.8 | <img src="https://m.media-amazon.com/images/M/MV5BZGMyZTA0MWEtZjczMS00ZDE5LTk1OTQtNmIxNGYzNDA2NDVhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 1968 | <details> <summary><strong style="color:#1f6feb;">*Night of the Living Dead*</strong></summary>  <div class="movie-plot">A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the Northeast of the United States.</div> </details> | <a href="https://www.imdb.com/title/tt0063350/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/17017662" target="_blank">Netflix_link</a> |
 | 7.6 | <img src="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_SX300.jpg" class="zoom-img" width="120"> | 2016 | <details> <summary><strong style="color:#1f6feb;">*Train to Busan*</strong></summary>  <div class="movie-plot">While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.</div> </details> | <a href="https://www.imdb.com/title/tt5700672/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80117824" target="_blank">Netflix_link</a> |
 | 7.6 | <img src="https://m.media-amazon.com/images/M/MV5BODg5YzA5MmEtN2NkOC00M2JhLTgzZjktZjg1M2U3ZmEyN2IyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Agak Laen*</strong></summary>  <div class="movie-plot">An old man dies in a failing haunted house ride. The operators bury his body on site, turning it into a popular attraction.</div> </details> | <a href="https://www.imdb.com/title/tt28856462/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81728111" target="_blank">Netflix_link</a> |
@@ -157,6 +156,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 | 4.6 | <img src="https://m.media-amazon.com/images/M/MV5BZDA0N2I1N2QtMTFiNS00YTVjLTlhNWItOTJjODExYWYzYTI5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Firestarter*</strong></summary>  <div class="movie-plot">A young girl tries to understand how she mysteriously gained the power to set things on fire with her mind.</div> </details> | <a href="https://www.imdb.com/title/tt1798632/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81588646" target="_blank">Netflix_link</a> |
 | 4.6 | <img src="https://m.media-amazon.com/images/M/MV5BNDlkNWZiODctMjM5OC00Y2U5LTg3YmMtNGRjODE2OWQ5NmJjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Possessed*</strong></summary>  <div class="movie-plot">Nazmi, a teacher must put aside his personal traumas to rally his school in a fight for survival against a group of violent, possessed students.</div> </details> | <a href="https://www.imdb.com/title/tt22400006/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81631032" target="_blank">Netflix_link</a> |
 | 4.6 | <img src="https://m.media-amazon.com/images/M/MV5BMGFhMDQ4MzMtMTUxOC00NDE0LTkzZWMtMzhhMGNiMDlhNDNmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Bhool Bhulaiyaa 3*</strong></summary>  <div class="movie-plot">Ruhaan, a fraudster posing as an exorcist, takes on a lucrative case at a haunted castle, unraveling a sinister plot involving mischievous priests, culminating in a hilarious yet thrilling ride filled with unexpected twists and sc...</div> </details> | <a href="https://www.imdb.com/title/tt26932223/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81686134" target="_blank">Netflix_link</a> |
+| 4.6 | <img src="https://m.media-amazon.com/images/M/MV5BM2MyMThkZTctYjQ0Ny00Nzk5LTlhYjktZjRiMjBjMjMxYzJmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*The Rope Curse 3*</strong></summary>  <div class="movie-plot">Aspiring to become a parkour influencer, a gifted young man from an exorcist family gets caught up in a swirl of spooky events at an eerie hotel.</div> </details> | <a href="https://www.imdb.com/title/tt27941077/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81729682" target="_blank">Netflix_link</a> |
 | 4.5 | <img src="https://m.media-amazon.com/images/M/MV5BMGU3ZjE0MzctNzAwMy00MDBlLWJmY2YtOTA1YTBiZWRlMzk3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2014 | <details> <summary><strong style="color:#1f6feb;">*Ouija*</strong></summary>  <div class="movie-plot">Terror awaits five friends who unwittingly awaken a dark power by using an antique Ouija board.</div> </details> | <a href="https://www.imdb.com/title/tt1204977/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/70305901" target="_blank">Netflix_link</a> |
 | 4.5 | <img src="https://m.media-amazon.com/images/M/MV5BMTUwOTgzMTEyOF5BMl5BanBnXkFtZTgwNTk3MTM5MjI@._V1_SX300.jpg" class="zoom-img" width="120"> | 2017 | <details> <summary><strong style="color:#1f6feb;">*Death Note*</strong></summary>  <div class="movie-plot">A high school student named Light Turner discovers a mysterious notebook that has the power to kill anyone whose name is written within its pages, and launches a secret crusade to rid the world of criminals.</div> </details> | <a href="https://www.imdb.com/title/tt1241317/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80122759" target="_blank">Netflix_link</a> |
 | 4.5 | <img src="https://m.media-amazon.com/images/M/MV5BMGRjM2JlMjgtMTAzOC00ZjRhLWI1NTEtMTcxNjc3ZmY0ZDhjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*The Swarm*</strong></summary>  <div class="movie-plot">Deadly African bees spread over Texas and kill thousands of people. Scientists led by Bradford Crane and Captain Helena Anderson try to find an antidote and destroy the swarm - against the advice of Army General Thalius Slater.</div> </details> | <a href="https://www.imdb.com/title/tt0078350/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81222576" target="_blank">Netflix_link</a> |
@@ -188,23 +188,28 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNGRiMzIyMGItMDBhNC00ZTEzLTk2N2EtMjI4Y2NiMmM4Y2Y5XkEyXkFqcGdeQXVyOTUzNjg4MA@@._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*The Ritual*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt9220040/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80217312" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNTVmZGUwNTktNjhlZC00NzQ5LTliY2QtYzJlYjA2YmU0NTVmXkEyXkFqcGdeQXVyMjcxOTQ0Mjc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*The 3rd Eye*</strong></summary>  <div class="movie-plot">When her little sister claims she sees the dead, Alia consults a psychic, who opens her own eyes to the vengeful ghosts haunting their childhood home.</div> </details> | <a href="https://www.imdb.com/title/tt8893590/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81016750" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZTVlYzEyZTItZTdmMi00OTZmLTliMTMtMmRlNmVjODkxZmZlXkEyXkFqcGdeQXVyMjYyMjIyNzM@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*Eerie*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt10962002/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81028404" target="_blank">Netflix_link</a> |
+| N/A |  | 2019 | <details> <summary><strong style="color:#1f6feb;">*Game Over (Tamil Version)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81151877" target="_blank">Netflix_link</a> |
 | N/A |  | 2019 | <details> <summary><strong style="color:#1f6feb;">*Game Over (Telugu Version)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81151878" target="_blank">Netflix_link</a> |
 | N/A |  | 2019 | <details> <summary><strong style="color:#1f6feb;">*Game Over (Hindi Version)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81151880" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Fear Street Part 1: 1994*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81325689" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Fear Street Part 2: 1978*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81334749" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Fear Street Part 3: 1666*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81334750" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Boomika (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81496130" target="_blank">Netflix_link</a> |
+| N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Boomika (Malayalam)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81496131" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Boomika (Telugu)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81496132" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Izla*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81510752" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Mononoke The Movie: The Phantom in the Rain*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81580574" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Bones & All*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt6302206/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81618891" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Katteri*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81632774" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Ile Owo*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81663120" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*The Blackening*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt31379549/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81672086" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNzU0Y2I5ODktZjFjNy00MTdjLTlmMDMtOTU1ZThmNDE3MTIyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Guna Guna Istri Muda*</strong></summary>  <div class="movie-plot">A young wife attempt to destroy a family using witchcraft.</div> </details> | <a href="https://www.imdb.com/title/tt28363725/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81678618" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Asvins (Telugu)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81711449" target="_blank">Netflix_link</a> |
+| N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Asvins (Malayalam)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81711450" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BODJlMTlhNTYtOGE1Mi00NzAxLWFlNzMtYTcwMDIxMzNiZjlhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Suzzanna: Kliwon Friday Night*</strong></summary>  <div class="movie-plot">After a shaman casts a curse on her, a woman is killed by dark sorcery and resurrected as a wrathful spirit who seeks to reunite with her newborn baby.</div> </details> | <a href="https://www.imdb.com/title/tt27411059/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81720031" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*The Origin: Madam Koi-Koi - Chapter 1: The Awakening*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81730153" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*The Origin: Madam Koi-Koi - Chapter 2: The Spirit of Vengeance*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81730154" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BMjdhMTFhNWQtOGMzOC00YWRkLTgzZTAtNGVmODIyNWFmY2YzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Jurnal Risa by Risa Saraswati*</strong></summary>  <div class="movie-plot">Risa is known to have supernatural abilities that enable her to communicate with supernatural beings. This film will present horror events packaged like Paranormal Activity.</div> </details> | <a href="https://www.imdb.com/title/tt28448409/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81738677" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZjUxMGRiYjctMzVjMC00NjJmLWJiODYtYmNhOTMyMGFlOGNiXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Outside*</strong></summary>  <div class="movie-plot">Amidst a barren world void of human life, one man confronts his past in search of closure.</div> </details> | <a href="https://www.imdb.com/title/tt32389619/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81739319" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZjY3ZGMxZDItY2FlMi00MDQ1LWIwZTQtOWQ5MDQzNTM4ODJjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Kampon*</strong></summary>  <div class="movie-plot">Movie about married couple who takes in girl claiming to be husband's child. Wife bonds with her as husband probes girl's past. Tension builds over child's mysterious behavior and unclear origins.</div> </details> | <a href="https://www.imdb.com/title/tt29544860/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81754265" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Conjuring Kannappan (Kannada)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81754785" target="_blank">Netflix_link</a> |
@@ -224,41 +229,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNWM4NmFiYzgtOTYzNy00ZmQ3LWI2NzEtYWYwNWNkY2FkY2Y5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Dendam Malam Kelam*</strong></summary>  <div class="movie-plot">Jefri and Sarah, a couple who are having an affair. The two of them have to desperately create an alibi after Sofia, Jefri's legal wife, is killed and her body disappears.</div> </details> | <a href="https://www.imdb.com/title/tt36553769/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82057593" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNTM5OTFhY2EtMDBhNy00MjViLTgzOTktMzgzY2ZiYjU3NWMzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Vash Level 2*</strong></summary>  <div class="movie-plot">Ten years after saving his daughter Arya from a dark force, Atharva learns it never left her. When strange events begin again, he must fight to save her once more.</div> </details> | <a href="https://www.imdb.com/title/tt35529436/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82175331" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/8711](https://www.netflix.com/browse/genre/8711)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/8711
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/8711](https://www.netflix.com/browse/genre/8711)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/8711
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 

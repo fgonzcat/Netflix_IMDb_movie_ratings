@@ -56,9 +56,11 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1701" target="_blan
 | 7.4 | <img src="https://m.media-amazon.com/images/M/MV5BNDExODQ3OGMtOWVlMC00NjgzLWE4YmEtNzY0MGQ2ZjM2NzRhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*The Playlist*</strong></summary>  <div class="movie-plot">How Swedish tech entrepreneur Daniel Ek and business partner Martin Lorentzon revolutionized the music industry through free and legal music streaming when they launched Spotify.</div> </details> | <a href="https://www.imdb.com/title/tt11564258/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81186296" target="_blank">Netflix_link</a> |
 | 7.4 | <img src="https://m.media-amazon.com/images/M/MV5BNjRkOWQ0MTMtZDhkNy00Yjg4LWFiMDEtZWVjNGE1NzAxYzJiXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*LiSA Another Great Day*</strong></summary>  <div class="movie-plot">It follows the true face of LiSA, the popular Japanese singer well known for her numerous hit songs such as the theme song of "Demon Slayer".</div> </details> | <a href="https://www.imdb.com/title/tt19112110/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81486328" target="_blank">Netflix_link</a> |
 | 7.3 | <img src="https://m.media-amazon.com/images/M/MV5BOWU4OGNlN2ItNmJiNy00MjU4LTkyMGQtZjc5MTRiMmQ4ZGU4XkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2015 | <details> <summary><strong style="color:#1f6feb;">*The Other One: The Long Strange Trip of Bob Weir*</strong></summary>  <div class="movie-plot">A documentary that explores Bob Weirs life, through the Grateful Dead, Ratdog, and his childhood.</div> </details> | <a href="https://www.imdb.com/title/tt3692768/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80011852" target="_blank">Netflix_link</a> |
+| 7.3 | <img src="https://m.media-amazon.com/images/M/MV5BMWU2M2M3ZjQtNmE5My00MTY4LTliMDItOWQwNDhjYjkzZmIwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*ReMastered: Massacre at the Stadium*</strong></summary>  <div class="movie-plot">This documentary questions who killed Victor Jara, Chilean musician and activist who died during the dictatorship in his country.</div> </details> | <a href="https://www.imdb.com/title/tt9046562/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80191048" target="_blank">Netflix_link</a> |
 | 7.3 | <img src="https://m.media-amazon.com/images/M/MV5BMjgxY2IzZGUtYzY1Yi00YmIxLWFjZjMtYjEwM2QwY2FkNzc3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*Forest of Piano*</strong></summary>  <div class="movie-plot">Two different people - the son of a prostitute, and the son of a professional musician - develop a bond of friendship through their love of playing the piano.</div> </details> | <a href="https://www.imdb.com/title/tt8043492/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80986797" target="_blank">Netflix_link</a> |
 | 7.3 | <img src="https://m.media-amazon.com/images/M/MV5BZTM3OWZjOTQtNTA0My00YTNkLWJhY2MtNWI5YzA1ZTE2Y2QxXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*I'm No Longer Here*</strong></summary>  <div class="movie-plot">In Monterrey, Mexico, a young street gang spends their days dancing to slowed-down cumbia and attending parties. After a mix-up with a local cartel, their leader is forced to migrate to the U.S. but quickly longs to return home.</div> </details> | <a href="https://www.imdb.com/title/tt4323594/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81025595" target="_blank">Netflix_link</a> |
 | 7.3 | <img src="https://m.media-amazon.com/images/M/MV5BNjNhOGUxYTAtZDFhNC00ZjVmLWEyNmEtOWMxZjdjMjMyMjlmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*BLACKPINK: Light Up the Sky*</strong></summary>  <div class="movie-plot">Chart the meteoric rise of the South Korean girl group BLACKPINK in director Caroline Suh's documentary.</div> </details> | <a href="https://www.imdb.com/title/tt13058290/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81106901" target="_blank">Netflix_link</a> |
+| 7.3 | <img src="https://m.media-amazon.com/images/M/MV5BMjhmMzhhMDgtMjIxOC00N2JkLTgwYjAtNjI3MzRiODZiYTI4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*ARASHI's Diary -Voyage-*</strong></summary>  <div class="movie-plot">Twenty years after their debut, join the beloved members of Arashi on a new journey as they showcase their lives, talents and gifts to the world.</div> </details> | <a href="https://www.imdb.com/title/tt11434874/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81219073" target="_blank">Netflix_link</a> |
 | 7.3 | <img src="https://m.media-amazon.com/images/M/MV5BMGViMjI5ZDAtY2RkNi00ZTMyLWE5YzMtOWFjYTJmNTY2NGU4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Girls5eva*</strong></summary>  <div class="movie-plot">A one-hit-wonder band from the '90s gets a second shot at fame when a young rapper samples their song.</div> </details> | <a href="https://www.imdb.com/title/tt11650492/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81630704" target="_blank">Netflix_link</a> |
 | 7.3 | <img src="https://m.media-amazon.com/images/M/MV5BMTJmY2JmYTItYTZmMi00ZjViLTgyZmUtN2U5MTg0NTkyZTkyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Lewis Capaldi: How I'm Feeling Now*</strong></summary>  <div class="movie-plot">This intimate, all-access documentary chronicles Lewis Capaldi's journey from a scrappy teen with a viral performance to a Grammy-nominated pop star.</div> </details> | <a href="https://www.imdb.com/title/tt27078772/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81663413" target="_blank">Netflix_link</a> |
 | 7.3 | <img src="https://m.media-amazon.com/images/M/MV5BYWQwZWYxYTQtZjk3NC00Y2RmLWFjMTYtMzIwOGFkZDdjMjg4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*ABBA: Against the Odds*</strong></summary>  <div class="movie-plot">To commemorate the 50th anniversary of the iconic Swedish group winning the Eurovision Song Contest.</div> </details> | <a href="https://www.imdb.com/title/tt31319003/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81772612" target="_blank">Netflix_link</a> |
@@ -113,6 +115,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1701" target="_blan
 | 6.7 | <img src="https://m.media-amazon.com/images/M/MV5BNmQ4NzU3MTktZTYzOC00OWU4LWI2MWUtYWViYjI3MTc0YTRhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Purple Hearts*</strong></summary>  <div class="movie-plot">In spite of their many differences, Cassie, a struggling singer-songwriter, and Luke, a troubled Marine, agree to marry solely for military benefits, but when tragedy strikes, the line between real and pretend begins to blur.</div> </details> | <a href="https://www.imdb.com/title/tt4614584/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81043665" target="_blank">Netflix_link</a> |
 | 6.7 | <img src="https://m.media-amazon.com/images/M/MV5BNTM5ZDFlNGQtMzc3YS00NGQ3LWE2ZmMtMDIzNjE4MzcxMjQ3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Zero to Hero*</strong></summary>  <div class="movie-plot">Biopic tribute to So Wa Wai, Hong Kong's first Paralympic athlete to win gold. Even if you start at a disadvantage, you can still be first across the finish line.</div> </details> | <a href="https://www.imdb.com/title/tt14892216/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81427598" target="_blank">Netflix_link</a> |
 | 6.7 | <img src="https://m.media-amazon.com/images/M/MV5BNDYwM2FmMjQtNzU3ZC00NzU4LWJmZWEtMmNjZjUxNGFlZjcwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*ONEFOUR: Against All Odds*</strong></summary>  <div class="movie-plot">This documentary traces the meteoric rise of Australia's first drill rap stars, defiant in the face of police's efforts to stop them from performing.</div> </details> | <a href="https://www.imdb.com/title/tt28703558/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81485425" target="_blank">Netflix_link</a> |
+| 6.6 | <img src="https://m.media-amazon.com/images/M/MV5BMTQ4MDQ0NjQ3Nl5BMl5BanBnXkFtZTgwNTkxNjA4OTE@._V1_SX300.jpg" class="zoom-img" width="120"> | 2016 | <details> <summary><strong style="color:#1f6feb;">*I'll Sleep When I'm Dead*</strong></summary>  <div class="movie-plot">I'll Sleep When I'm Dead, directed by Justin Krook, is a heart-pumping yet heart-wrenching documentary about one of the most eminent DJs working today: Steve Aoki. In the lead-up to Aoki's biggest show of his career, this introspe...</div> </details> | <a href="https://www.imdb.com/title/tt4679136/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80118930" target="_blank">Netflix_link</a> |
 | 6.6 | <img src="https://m.media-amazon.com/images/M/MV5BODcxYTk2MjktNTJlYy00YzAyLWFjMzYtNjYwZjNlZTVkYTI4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*Dolly Parton: A MusiCares Tribute*</strong></summary>  <div class="movie-plot">In a star-studded evening of music and memories, a community of iconic performers honor Dolly Parton as the MusiCares Person of the Year.</div> </details> | <a href="https://www.imdb.com/title/tt14299926/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81079586" target="_blank">Netflix_link</a> |
 | 6.6 | <img src="https://m.media-amazon.com/images/M/MV5BZDY2ZDNlNzUtZGQyNS00ZWQwLThkODAtNjU2MTI3YTBlZGFmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*I Used to Be Famous*</strong></summary>  <div class="movie-plot">Follows Vince, a desperate former popstar who dreams of making a comeback. An impromptu jam session with autistic young drummer Stevie sparks an unexpected friendship between the two misunderstood musicians.</div> </details> | <a href="https://www.imdb.com/title/tt15807910/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81426667" target="_blank">Netflix_link</a> |
 | 6.6 | <img src="https://m.media-amazon.com/images/M/MV5BMGVkZWYxOTctOTFjOS00OTZhLWJiNDEtNTVhOWQ3MGM2MTAzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Pop Star Academy: KATSEYE*</strong></summary>  <div class="movie-plot">Twenty aspiring pop stars undergo a K-pop training program in this docuseries about the creation of HYBE x Geffen's first global girl group, KATSEYE.</div> </details> | <a href="https://www.imdb.com/title/tt28810495/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81587828" target="_blank">Netflix_link</a> |
@@ -246,41 +249,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1701" target="_blan
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Snoop’s Holiday Halftime Party*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82645182" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Starto Countdown 2025→2026*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82659571" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/1701](https://www.netflix.com/browse/genre/1701)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/1701
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/1701](https://www.netflix.com/browse/genre/1701)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/1701
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 

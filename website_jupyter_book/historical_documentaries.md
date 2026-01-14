@@ -125,41 +125,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5349" target="_blan
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNzMwZDE5MmEtZWQxMS00OGE5LWI5Y2EtMzUxOWFmMDkzMDZmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*UnBroken*</strong></summary>  <div class="movie-plot">Guided by an ancestral spirit, a young Ghanaian girl transforms pain into power as she overcomes trauma and embraces her destiny in a journey of resilience, healing, and cultural empowerment.</div> </details> | <a href="https://www.imdb.com/title/tt37968700/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81906678" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYjliZjMxM2UtMjRlZC00NGNkLTk5YWYtNjQ2Zjk0ODQ5OTU1XkEyXkFqcGdeQXVyMTA5OTYxNTk4._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Sunday Best: The Untold Story of Ed Sullivan*</strong></summary>  <div class="movie-plot">Examines the groundbreaking career of pioneering television host Ed Sullivan, focusing on his platforming of Black musicians during the civil rights era.</div> </details> | <a href="https://www.imdb.com/title/tt7264336/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82048609" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/5349](https://www.netflix.com/browse/genre/5349)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/5349
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/5349](https://www.netflix.com/browse/genre/5349)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/5349
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 

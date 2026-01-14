@@ -102,6 +102,15 @@
       "Plot": "Comedian Bill Burr's 2014 stand-up comedy special."
     },
     {
+      "title": "Ralphie May: Imperfectly Yours",
+      "netflix_url": "https://www.netflix.com/title/80015210",
+      "year": "2015",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt3216296",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWQzMTJjNGEtYjcxOS00OTdkLWJmOWQtODMxZjM4MzU1NjUwXkEyXkFqcGdeQXVyNjE3MjQyNQ@@._V1_SX300.jpg",
+      "Plot": "Comedian Ralphie May takes to the Las Vegas stage with his raw, rollicking take on men's fashion, racism, sex and even waffles."
+    },
+    {
       "title": "Tig",
       "netflix_url": "https://www.netflix.com/title/80028208",
       "year": "2015",
@@ -415,6 +424,15 @@
       "imdb_id": "tt6878486",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjAzZGUwMDEtZjhiYy00M2FmLTk5ZmUtMGZiNzdkOWQ1NTE2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In this new stand-up special, Norm Macdonald delivers sly, deadpan observations from an older -- and perhaps even wiser -- point of view."
+    },
+    {
+      "title": "Jo Koy: Live from Seattle",
+      "netflix_url": "https://www.netflix.com/title/80134826",
+      "year": "2017",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt6720442",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI0MmY0MjktMjcyNi00MGMxLTg2ZTEtNjI5YjkzNTk2ODhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Between raising a teenage boy and growing up with a Filipino mother, stand-up comic Jo Koy has been through a lot. He's here to tell you about it."
     },
     {
       "title": "Brian Regan: Nunchucks and Flamethrowers",
@@ -800,6 +818,15 @@
       "imdb_id": "tt9817258",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmFkMzMzMmQtOWY3MS00N2NjLWE4NTktNmQ4Nzk4NTZmYWRjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Nothing is off limits as Jimmy Carr serves up the best jokes from his storied stand-up career in a special that's as inappropriate as it is hilarious."
+    },
+    {
+      "title": "Jim Jefferies: This Is Me Now",
+      "netflix_url": "https://www.netflix.com/title/80214743",
+      "year": "2018",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt8617844",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTlmMDk4MzktYmVhZi00NDk2LWEwZDItZjE2MmY0YzkyYjNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The gleefully irreverent Jefferies skewers \"grabby\" celebrities, political hypocrisy and his own ill-advised career moves in a brash stand-up special."
     },
     {
       "title": "Joe Rogan: Strange Times",
@@ -1207,6 +1234,15 @@
       "Plot": "Leslie Jones discusses being 52 and what she would tell her 20-year-old self in her first Netflix stand-up special."
     },
     {
+      "title": "Jack Whitehall: I'm Only Joking",
+      "netflix_url": "https://www.netflix.com/title/81060252",
+      "year": "2020",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt12588432",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjBjOTRiZGItYWU3Mi00ZGMyLTgwNGMtZGM1ZDhiZmQyMDY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jack Whitehall hits the stage with hilarious tales about happy couples, life in hotels, human stupidity and his well-traveled father."
+    },
+    {
       "title": "Iliza Shlesinger: Unveiled",
       "netflix_url": "https://www.netflix.com/title/81073633",
       "year": "2019",
@@ -1250,6 +1286,15 @@
       "imdb_id": "tt19995810",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDUzZTMxZGItOGZiYi00MTkzLWFhNmUtYTM1M2Y5YWNkZTMwXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Katt Williams riffs on truth, lies, chicken wing shortages and the war on drugs in this electrifying stand-up special filmed in Las Vegas."
+    },
+    {
+      "title": "Sam Jay: 3 In The Morning",
+      "netflix_url": "https://www.netflix.com/title/81078802",
+      "year": "2020",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt12689876",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY3NTk1NzMtYmVlZi00ODhlLTk2MzktNTk4ZTZkM2JhNWQ2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SX300.jpg",
+      "Plot": "Comedian and \"Saturday Night Live\" writer Sam Jay serves up fresh takes on relationships, travel nightmares, the audacity of white people and more."
     },
     {
       "title": "Fadily Camara : La plus drôle de tes copines",
@@ -1333,6 +1378,13 @@
       "Plot": "Rising India-based comics Prashasti Singh, Kaneez Surka, Supriya Joshi and Niveditha Prakasam bring no-holds-barred humor to this stand-up series."
     },
     {
+      "title": "Arsenio Hall: Smart & Classy",
+      "netflix_url": "https://www.netflix.com/title/81148672",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Michael Che: Shame the Devil",
       "netflix_url": "https://www.netflix.com/title/81152775",
       "year": "2021",
@@ -1403,6 +1455,15 @@
       "imdb_id": "tt12146952",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODIyNzIxY2UtNmRjYS00NmIxLWJmOWUtMDM1MjEwMjM1ZWRmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Turning 50. Finding love again. Buying a house. Experiencing existential dread at Denny's. Life comes at Patton Oswalt fast in this stand-up special."
+    },
+    {
+      "title": "Bill Burr Presents: Friends Who Kill",
+      "netflix_url": "https://www.netflix.com/title/81222748",
+      "year": "2022",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt20723672",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjNjMzJlZjctODQ1Ny00MDUxLWIzN2MtYjcxMDU3NDk3N2IxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bill Burr shares the stage with his favorite comedians."
     },
     {
       "title": "Trevor Noah: I Wish You Would",
@@ -1646,6 +1707,22 @@
       "Plot": "Follows David Spade sharing his disdain for crabs and his unique approach to turning down drugs. Spade is going to prove that no topic is off limits."
     },
     {
+      "title": "Panayotis Pascot: Almost",
+      "netflix_url": "https://www.netflix.com/title/81470399",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Taylor Tomlinson: Look At You",
+      "netflix_url": "https://www.netflix.com/title/81471774",
+      "year": "2022",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt18096250",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGJmMWFhNjAtMjUzZi00MTdiLWFjNDMtNDA3NWNhN2IzNzFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Taylor is a girl struggling with mental health, grief and dating. Follow her journey as she shares an intimate look of her life in a hilarious way."
+    },
+    {
       "title": "Bert Kreischer: Razzle Dazzle",
       "netflix_url": "https://www.netflix.com/title/81471776",
       "year": "2023",
@@ -1750,6 +1827,15 @@
       "imdb_id": null,
       "Poster": null,
       "Plot": null
+    },
+    {
+      "title": "Tom Segura: Sledgehammer",
+      "netflix_url": "https://www.netflix.com/title/81605926",
+      "year": "2023",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt11987416",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYwMjg5YjUtNDhiMi00NmEzLWExZTktZjE2OTYxOGRmMTk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tom discusses his \"admiration\" for Brad Pitt, what it's like to raise two sons, and the lessons he learned from sharing his gummies with his mother at a performance in Phoenix, Arizona, in front of an energizing sold-out audience."
     },
     {
       "title": "Hannah Gadsby's Gender Agenda",
@@ -2281,6 +2367,15 @@
       "imdb_id": "tt36959502",
       "Poster": "N/A",
       "Plot": "Follows an entertaining show that combines between performing magic tricks and delivering comedic commentary on different themes."
+    },
+    {
+      "title": "Vir Das: Fool Volume",
+      "netflix_url": "https://www.netflix.com/title/81788399",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35668659",
+      "Poster": "N/A",
+      "Plot": "A beloved Emmy winner delivers heartwarming laughs and thought-provoking moments in their latest Netflix comedy special."
     },
     {
       "title": "Adrienne Iapalucci: The Dark Queen",

@@ -123,41 +123,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/29764" target="_bla
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNTc5OTdlZTUtMDA1MS00MmU3LTg3NGQtNDI5NTZjMjMzZDI0XkEyXkFqcGdeQXVyMjY0MTkzMDE@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*The Braid of Time*</strong></summary>  <div class="movie-plot">Estela is a bright, 23-year-old Black Latina born and raised in Washington, D.C. She is busy DJing and building her own app when she is called to a magical journey of self-discovery by the spirit of her grandmother, Goya. With Goyita</div> </details> | <a href="https://www.imdb.com/title/tt15260300/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81923255" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZDU0Y2ZkMWMtODJmMi00MDdkLWIwZGMtZjBhNzBmYWFlNzEwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Morrison*</strong></summary>  <div class="movie-plot">Jimmy, a 40-year-old ex-pop star turned engineer, returns to his childhood town to oversee renovating an old hotel. The once-glamorous hotel is now dilapidated, with narrow corridors reflecting its past under American occupation.</div> </details> | <a href="https://www.imdb.com/title/tt20724406/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81941936" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/29764](https://www.netflix.com/browse/genre/29764)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/29764
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/29764](https://www.netflix.com/browse/genre/29764)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/29764
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 

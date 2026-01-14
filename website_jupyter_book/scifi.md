@@ -18,6 +18,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1492" target="_blan
 | 7.7 | <img src="https://m.media-amazon.com/images/M/MV5BMjc5MjllMGUtMDIwMS00ZDVkLWEzODQtM2NlMTMwMTZhNThmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Godzilla Minus One*</strong></summary>  <div class="movie-plot">A kamikaze pilot plagued by survivor's guilt seeks redemption when a giant monster he failed to kill is transformed by radiation from atomic bomb tests and lays siege to post-war Japan.</div> </details> | <a href="https://www.imdb.com/title/tt23289160/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81767635" target="_blank">Netflix_link</a> |
 | 7.7 | <img src="https://m.media-amazon.com/images/M/MV5BZjhiNDkyODItZDc2Ni00YTcwLWFhMWMtZmRlYmQ5MDRmMmMyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Ejen Ali: The Movie 2*</strong></summary>  <div class="movie-plot">A secret agent's life changes after being selected to pilot an experimental suit enhanced by artificial intelligence, designed to revolutionize covert operations.</div> </details> | <a href="https://www.imdb.com/title/tt33381728/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82137606" target="_blank">Netflix_link</a> |
 | 7.6 | <img src="https://m.media-amazon.com/images/M/MV5BN2I3NDQzZmQtODJmOS00M2QyLWIxZTItYTA1ZTYzOWJlM2ZmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Guillermo del Toro’s Pinocchio*</strong></summary>  <div class="movie-plot">A father's wish magically brings a wooden boy to life in Italy, giving him a chance to care for the child.</div> </details> | <a href="https://www.imdb.com/title/tt1488589/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80218455" target="_blank">Netflix_link</a> |
+| 7.6 | <img src="https://m.media-amazon.com/images/M/MV5BZmYyNjc0NTAtNzg4MC00NmVkLWI1NDAtYjY3ZjM3ZDdkZmNiXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*Awe*</strong></summary>  <div class="movie-plot">Unusual (multiple) people tend to meet at a Restaurant and their life-changing moments take place in order to know about a single person.</div> </details> | <a href="https://www.imdb.com/title/tt7797658/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81052266" target="_blank">Netflix_link</a> |
 | 7.6 | <img src="https://m.media-amazon.com/images/M/MV5BNzAyOWNiMjAtNWUzMi00ZDk1LWE5NzYtNDUzMWE1Y2M0NDM2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*The Mitchells vs. The Machines*</strong></summary>  <div class="movie-plot">A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.</div> </details> | <a href="https://www.imdb.com/title/tt7979580/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81399614" target="_blank">Netflix_link</a> |
 | 7.6 | <img src="https://m.media-amazon.com/images/M/MV5BODhkNDhmNzktODFmMC00NDZiLWEzN2UtY2YwYzgzYTVlMWZmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Suzume*</strong></summary>  <div class="movie-plot">A modern action adventure road story where a 17-year-old girl named Suzume helps a mysterious young man close doors from the other side that are releasing disasters all over in Japan.</div> </details> | <a href="https://www.imdb.com/title/tt16428256/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81696498" target="_blank">Netflix_link</a> |
 | 7.5 | <img src="https://m.media-amazon.com/images/M/MV5BM2I4NTI0ZGQtNGQ2ZC00ODIxLWI2N2QtMDBkNzI1NDhjYjE5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2002 | <details> <summary><strong style="color:#1f6feb;">*28 Days Later*</strong></summary>  <div class="movie-plot">Four weeks after a mysterious, incurable virus spreads throughout the United Kingdom, a handful of survivors try to find sanctuary.</div> </details> | <a href="https://www.imdb.com/title/tt0289043/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/60027998" target="_blank">Netflix_link</a> |
@@ -254,41 +255,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1492" target="_blan
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYTRkODNhYzYtZGRhNi00MTg4LWI5MmYtN2MyZTQ5MjE2YzMyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Mahavatar Narsimha*</strong></summary>  <div class="movie-plot">The demon Hiranyakashyap seeks revenge on Vishnu and declares himself a god. His son Prahlad remains devoted to Vishnu. Vishnu manifests as Narsimha to defeat the demon and restore balance.</div> </details> | <a href="https://www.imdb.com/title/tt34365591/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82131939" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNTMwZGEzYjQtMzI1ZC00MzBiLWI2MmEtY2ZjM2E4NDIyNDhmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Akhanda 2*</strong></summary>  <div class="movie-plot">A heartwarming journey explores the connection between children's innocence, the natural world, and spiritual faith as communities strive for progress.</div> </details> | <a href="https://www.imdb.com/title/tt15387182/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82180284" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/1492](https://www.netflix.com/browse/genre/1492)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/1492
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/1492](https://www.netflix.com/browse/genre/1492)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/1492
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 

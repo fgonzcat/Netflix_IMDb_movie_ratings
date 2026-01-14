@@ -21,6 +21,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/43040" target="_bla
 | 7.0 | <img src="https://m.media-amazon.com/images/M/MV5BMDY3OGQ4ZWMtMTU0OC00NjIzLTg3NTktYTI5NTllZWM0NDhkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Marry My Dead Body*</strong></summary>  <div class="movie-plot">One day a police officer finds a red wedding envelope, only to find out that the owner is in fact a ghost asking for the officer's hand in marriage before reincarnation. What will happen when a human and a ghost form a special bond?</div> </details> | <a href="https://www.imdb.com/title/tt22742964/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81689962" target="_blank">Netflix_link</a> |
 | 7.0 | <img src="https://m.media-amazon.com/images/M/MV5BZTU4ZWRlYTUtNGY0Yy00NDNjLThlNzQtY2M1NDNiOWM5MWJkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Mathu Vadalara 2*</strong></summary>  <div class="movie-plot">Babu and Yesu, former delivery agents, embark on a thrilling mission as special agents, facing extraordinary challenges with humor, surprises, and nonstop excitement.</div> </details> | <a href="https://www.imdb.com/title/tt33291871/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81942680" target="_blank">Netflix_link</a> |
 | 6.9 | <img src="https://m.media-amazon.com/images/M/MV5BMTY1MTE4NzAwM15BMl5BanBnXkFtZTcwNzg3Mjg2MQ@@._V1_SX300.jpg" class="zoom-img" width="120"> | 2008 | <details> <summary><strong style="color:#1f6feb;">*Pineapple Express*</strong></summary>  <div class="movie-plot">A process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer's boss murder a competitor while trying to serve papers on him.</div> </details> | <a href="https://www.imdb.com/title/tt0910936/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/70098329" target="_blank">Netflix_link</a> |
+| 6.9 | <img src="https://m.media-amazon.com/images/M/MV5BMjU3NmQ3NWMtNDZkOS00OTIwLTk0MjktYjNkNTI2YjQxMGY4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Thallumaala*</strong></summary>  <div class="movie-plot">Follows a youngster ready to get married, but funny events happen and changes his plans.</div> </details> | <a href="https://www.imdb.com/title/tt11075264/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81571134" target="_blank">Netflix_link</a> |
 | 6.9 | <img src="https://m.media-amazon.com/images/M/MV5BNWRkMTAzOGYtOTE4Ny00Yzg3LWExYzAtNDVhNjJjYmIwMTRkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Officer Black Belt*</strong></summary>  <div class="movie-plot">A talented martial artist who can't walk past a person in need unites with a probation officer to fight and prevent crime as a martial arts officer.</div> </details> | <a href="https://www.imdb.com/title/tt28494829/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81702144" target="_blank">Netflix_link</a> |
 | 6.8 | <img src="https://m.media-amazon.com/images/M/MV5BYzE5YTM4NTYtODlkMy00YzY4LTg5ODMtN2EzYjQ0N2ZhYjU2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*THE FABLE: The Killer Who Doesn't Kill*</strong></summary>  <div class="movie-plot">The Fable/Akira Sato killed 5 men 4 years ago. He meets the girl injured back then in a wheelchair. She's staying with the 6th on his kill list canceled last moment. The 6th is now scamming/extorting people.</div> </details> | <a href="https://www.imdb.com/title/tt13017204/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81507232" target="_blank">Netflix_link</a> |
 | 6.8 | <img src="https://m.media-amazon.com/images/M/MV5BZGQwMjRlYWEtYjM2Ni00MmZmLWI1ODUtYmFmNzAxZjEzMmUyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Fast & Feel Love*</strong></summary>  <div class="movie-plot">When a world champion of sport stacking is dumped by his long-time girlfriend, he has to learn basic adulting skills in order to live alone and take care of himself.</div> </details> | <a href="https://www.imdb.com/title/tt18357588/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81598308" target="_blank">Netflix_link</a> |
@@ -131,41 +132,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/43040" target="_bla
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*KPop Demon Hunters Sing-Along*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82125877" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*KPop Demon Hunters Lyric Videos*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82174859" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/43040](https://www.netflix.com/browse/genre/43040)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/43040
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/43040](https://www.netflix.com/browse/genre/43040)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/43040
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 
