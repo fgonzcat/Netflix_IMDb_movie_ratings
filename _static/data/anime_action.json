@@ -93,6 +93,15 @@
       "Plot": "The past catches up with the world of Inuyasha and Kagome's present in a form they could never have anticipated."
     },
     {
+      "title": "KenIchi: The Mightiest Disciple",
+      "netflix_url": "https://www.netflix.com/title/70204998",
+      "year": "2007",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt1424037",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2RkYmMyYjktMjgwOC00NmE2LTlkN2ItZTNiNzhiM2E3NWE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "\"Weak Legs\" Kenichi Shirahama would rather spend his time reading self improvement books than fighting."
+    },
+    {
       "title": "Naruto",
       "netflix_url": "https://www.netflix.com/title/70205012",
       "year": "2006",
@@ -117,7 +126,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Dragon Ball Z: Battle of Gods",
@@ -173,6 +183,14 @@
       "imdb_id": "tt2290828",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MTcyNDYwMV5BMl5BanBnXkFtZTgwNzMzNzc0MjE@._V1_SX300.jpg",
       "Plot": "Naruto and Sakura are captured in a parallel world by Madara, who's intentions are to steal the Nine Tails from Naruto."
+    },
+    {
+      "title": "Gin Tama",
+      "netflix_url": "https://www.netflix.com/title/80018959",
+      "year": "2006",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Last: Naruto the Movie",
@@ -245,7 +263,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Detective Conan",
@@ -651,7 +670,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "One Piece Film: Strong World",
@@ -688,6 +708,15 @@
       "imdb_id": "tt9310328",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDY4N2U4NzgtZTU1Ny00ZThlLWJlYWUtN2QxMDk4MWRhMGJkXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "On the planet Latimer, reawakened Takeshi Kovacs must protect a teenage tattooist named Holly while investigating the death of a yakuza boss alongside Gina, a strangely familiar no-nonsense CTAC agent."
+    },
+    {
+      "title": "The Idhun Chronicles",
+      "netflix_url": "https://www.netflix.com/title/81002001",
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9731266",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk5MzE2NTgtZDBkNy00YmQzLTg0NzItM2FkMTQ5MmI5MjdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The day the three Suns and three Moons came together in alignment over Idhun, Ashran the necromancer seized power and the reign of the winged snakes started."
     },
     {
       "title": "Pacific Rim: The Black",
@@ -1124,7 +1153,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "My Hero Academia: Heroes Rising",
@@ -1214,7 +1244,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Baki Hanma VS Kengan Ashura",
@@ -1333,7 +1364,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Anpanman: Star-Spirited Dollie",
@@ -1379,7 +1411,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Mobile Suit Gundam Seed Destiny",

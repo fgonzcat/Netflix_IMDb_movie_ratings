@@ -223,7 +223,8 @@
       "netflix_url": "https://www.netflix.com/title/60033498",
       "year": "1999",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Mean Girls",
@@ -878,7 +879,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "My Big Fat Greek Wedding 2",
@@ -1154,7 +1156,8 @@
       "netflix_url": "https://www.netflix.com/title/80180043",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Dolemite Is My Name",
@@ -1877,6 +1880,15 @@
       "Plot": "On the eve of her college graduation, Natalie's life diverges into parallel realities: one in which she becomes pregnant and remains in her hometown to raise her child and another in which she moves to LA to pursue her dream career."
     },
     {
+      "title": "You've Got This",
+      "netflix_url": "https://www.netflix.com/title/81050943",
+      "year": "2020",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt13118012",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWNmMGFhMjItYzVhMS00Njc3LTgwMDUtMTZjN2RiNWNmYzMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Alex, an advertising creative, wants to be a dad at any cost, but his wife is a lawyer on top of her career and being a mother isn't part of her plans. An unexpected guest will challenge their love."
+    },
+    {
       "title": "Isi & Ossi",
       "netflix_url": "https://www.netflix.com/title/81058435",
       "year": "2020",
@@ -2241,7 +2253,8 @@
       "netflix_url": "https://www.netflix.com/title/81201048",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Who's a Good Boy?",
@@ -2653,6 +2666,15 @@
       "imdb_id": "tt13606090",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDg3ZGY4YzItYzRlOC00MjhlLThlYjgtYjMxMTYwZTA5ZjJjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her to question her commitment to her fiancé."
+    },
+    {
+      "title": "Private Lesson",
+      "netflix_url": "https://www.netflix.com/title/81334950",
+      "year": "2022",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt23782662",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTMyMWY2OTEtODg1Mi00YzUwLTk0MTMtMGVjYTFmNDFhNTQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Posing as a private tutor, Azra secretly coaches students on achieving their goals in life and love - but not without a few bumps in the road."
     },
     {
       "title": "The Pirates: The Last Royal Treasure",
@@ -3156,7 +3178,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Mother of the Bride",
@@ -3523,7 +3546,8 @@
       "netflix_url": "https://www.netflix.com/title/81589564",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Minions & More Volume 2",
@@ -3641,6 +3665,15 @@
       "imdb_id": "tt36754289",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3OWFjMTctZDJlZi00ZDM0LTgxYTUtN2VhZDBjYjExMzI0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A German-raised woman named Mavi learns of her Turkish noble heritage and enters a world of luxury, challenging her relationship as she navigates her newfound identity."
+    },
+    {
+      "title": "Make Me Believe",
+      "netflix_url": "https://www.netflix.com/title/81622697",
+      "year": "2023",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt21257152",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMzNmVhNmItOTE1Yy00MjBmLWExOWEtOGEyNDdjZDU2MGY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two meddling grannies trick their adult grandkids into a meet-cute that reignites a childhood crush and old grudges."
     },
     {
       "title": "Harold and the Purple Crayon",
@@ -3861,7 +3894,8 @@
       "netflix_url": "https://www.netflix.com/title/81682509",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Family Pack",
@@ -3898,6 +3932,15 @@
       "imdb_id": "tt22742964",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDY3OGQ4ZWMtMTU0OC00NjIzLTg3NTktYTI5NTllZWM0NDhkXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "One day a police officer finds a red wedding envelope, only to find out that the owner is in fact a ghost asking for the officer's hand in marriage before reincarnation. What will happen when a human and a ghost form a special bond?"
+    },
+    {
+      "title": "A Lagos Love Story",
+      "netflix_url": "https://www.netflix.com/title/81690316",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36628631",
+      "Poster": "N/A",
+      "Plot": "In order to save her family house from closure, Promise, aspiring event planner, is forced to babysit King Kator, a rising Afrobeats superstar, through the events of Art&amp;Culture week."
     },
     {
       "title": "Kontrabida Academy",
@@ -4187,6 +4230,15 @@
       "SkipTitle": true
     },
     {
+      "title": "Groom & Two Brides",
+      "netflix_url": "https://www.netflix.com/title/81749780",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35713227",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWE5YmFkYTMtZjY5Zi00ZjNkLTkwNDgtN2E1OTZmNGEyMzJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Adam hilariously juggles marrying his boss's daughter and rekindling with an old flame, leading to chaotic realizations about love"
+    },
+    {
       "title": "The Thursday Murder Club",
       "netflix_url": "https://www.netflix.com/title/81751137",
       "year": "2025",
@@ -4244,7 +4296,8 @@
       "netflix_url": "https://www.netflix.com/title/81760566",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Garfield Movie",
@@ -4449,7 +4502,8 @@
       "netflix_url": "https://www.netflix.com/title/81920591",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Switched Up",
@@ -4728,7 +4782,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "No Sleep 'Til Christmas",
@@ -4738,6 +4793,42 @@
       "imdb_id": "tt2043993",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3ZjgxN2MtOGY1Ny00YzIzLTgxYTItNTI2OGVkMDRiYTgwXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A bartender and a businesswoman find they only have one thing in common; insomnia."
+    },
+    {
+      "title": "An Unexpected Valentine",
+      "netflix_url": "https://www.netflix.com/title/82134804",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35304903",
+      "Poster": "N/A",
+      "Plot": "A chance encounter on Valentine's Day brings Hannah and Finn together as they race through New York City to return a lost engagement ring and save one couple's special day."
+    },
+    {
+      "title": "Sisterhood, Inc.",
+      "netflix_url": "https://www.netflix.com/title/82134805",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt34434989",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ5MjQwZDItYWQzMC00NmVkLTkxNzQtNzM2OGY5NDc1NDY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Corporate exec Megan starts a board of directors to improve her younger sister's chaotic life and finds romance with a psych professor who uncovers her tough demeanor."
+    },
+    {
+      "title": "The Royal We",
+      "netflix_url": "https://www.netflix.com/title/82134807",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35558973",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc4MDk1YmUtZmE2Yy00NWU2LWE4YTAtNGY1YWYyNDM4NTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When her older sister elopes with a non-royal, Princess Bea who has lived her life away from her royal duties must now step in and honor the arranged marriage to a small kingdom prince."
+    },
+    {
+      "title": "Love in the Clouds",
+      "netflix_url": "https://www.netflix.com/title/82134808",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35066995",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjBkOTlkYjktMDAwYy00ODgzLWExZWUtNGNiM2YyOWFkYTk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Romantic comedy between a balloon pilot and a media personnel in Seattle during the hot air balloon fiesta"
     },
     {
       "title": "Bad Shabbos",

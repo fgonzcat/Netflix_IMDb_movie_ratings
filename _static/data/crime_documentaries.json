@@ -242,7 +242,8 @@
       "netflix_url": "https://www.netflix.com/title/80197991",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Trial By Media",
@@ -398,6 +399,15 @@
       "Plot": "When their 4-year-old son is murdered, a young couple fights a twisting and arduous battle trying to identify a frustratingly elusive killer."
     },
     {
+      "title": "Happy Jail",
+      "netflix_url": "https://www.netflix.com/title/80223113",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt10753590",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGNmZDc4Y2YtNDQzMC00NjZiLWI4MmMtOTMyOTM4YzJjYzc4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Plot": "The Philippine jail known for a viral Michael Jackson dance video comes under the management of an ex-convict, sparking controversy and criticism."
+    },
+    {
       "title": "Jeffrey Epstein: Filthy Rich",
       "netflix_url": "https://www.netflix.com/title/80224905",
       "year": "2020",
@@ -432,6 +442,15 @@
       "imdb_id": "tt7651590",
       "Poster": "N/A",
       "Plot": "N/A"
+    },
+    {
+      "title": "Exhibit A",
+      "netflix_url": "https://www.netflix.com/title/80245117",
+      "year": "2019",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt10376904",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNThhYTQ1NzQtNjZhZS00OWFiLWFlOWQtYTRkMTExNmRjZjA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This true crime series shows how innocent people have been convicted with dubious forensic techniques and tools such as touch DNA and cadaver dogs."
     },
     {
       "title": "Why Did You Kill Me?",
@@ -584,7 +603,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Untold: Malice at the Palace",
@@ -751,6 +771,15 @@
       "Plot": "The documentary follows the investigation of Sophie Toscan Du Plantier, a French film and TV producer who was killed while at her isolated holiday cottage in West Cork, Ireland, in 1996."
     },
     {
+      "title": "La Línea: Shadow of Narco",
+      "netflix_url": "https://www.netflix.com/title/81095075",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt12875794",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ2NmYzM2UtNjIzMy00ZTcwLTk3MTMtMmY0MGZkZTdhZDk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Go inside La Línea, the Spanish beach town turned into Europe's drug trafficking hub, and meet the law enforcement officials determined to change that."
+    },
+    {
       "title": "House of Secrets: The Burari Deaths",
       "netflix_url": "https://www.netflix.com/title/81095095",
       "year": "2021",
@@ -758,6 +787,15 @@
       "imdb_id": "tt14167390",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDIxNWU4YTctNmQwYS00OWYyLTg4ZTctYWRiMmU0MGNkYzFlXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Suicide, murder or something else? This docuseries examines chilling truths and theories around the deaths of 11 members of a Delhi family."
+    },
+    {
+      "title": "The Puppet Master: Hunting the Ultimate Conman",
+      "netflix_url": "https://www.netflix.com/title/81097362",
+      "year": "2022",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt15479704",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWRhYTRkYWItZjFjYS00NWE2LWE1YTctMTc3M2M2MjcwNDQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this harrowing docuseries, a cruel conman masquerading as a British spy manipulates and steals from his victims, leaving ruined families in his wake."
     },
     {
       "title": "Memories of a Murderer: The Nilsen Tapes",
@@ -829,7 +867,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "A Kidnapping Scandal: The Florence Cassez Affair",
@@ -983,6 +1022,15 @@
       "imdb_id": "tt29484936",
       "Poster": "N/A",
       "Plot": "N/A"
+    },
+    {
+      "title": "In Broad Daylight: The Narvarte Case",
+      "netflix_url": "https://www.netflix.com/title/81273461",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt23709118",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDkwYTA0MDctZDE0NC00ZDhmLWI1NTctOWRlY2M4YjY0NzlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This documentary unveils evidence of corruption in the investigation into the murder of five people in the Narvarte neighborhood of Mexico City in 2015."
     },
     {
       "title": "Victim/Suspect",
@@ -1307,7 +1355,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Chaos: The Manson Murders",
@@ -1589,6 +1638,15 @@
       "Plot": "Perplexing phenomena are meticulously explored in this investigative docuseries, which uncovers the truth behind eerie encounters, bizarre disappearances, and haunting events."
     },
     {
+      "title": "Who Killed Jill Dando?",
+      "netflix_url": "https://www.netflix.com/title/81594933",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt26445771",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGJlOTExYTQtYTI5Yi00ZDVjLWE3YzgtMDRmY2E3NzEwNTI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Revisit the shocking 1999 murder of beloved TV presenter Jill Dando, which continues to mystify experts and the public, in this in-depth documentary."
+    },
+    {
       "title": "How to Become a Cult Leader",
       "netflix_url": "https://www.netflix.com/title/81596972",
       "year": "2023",
@@ -1605,6 +1663,15 @@
       "imdb_id": "tt18224682",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTI2ODcyYmYtMTdlYS00NTIxLWI0NmUtMTQ2ZjQ1YjU2MjdiXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Morgan, a hipster rapper otherwise known as Razzlekhan and Forbes contributor, and her husband Lichtenstein were arrested after being accused of conspiring to launder nearly 120,000 Bitcoin."
+    },
+    {
+      "title": "High: Confessions of an Ibiza Drug Mule",
+      "netflix_url": "https://www.netflix.com/title/81603422",
+      "year": "2021",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt14988916",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTcyZTVmMmUtMGI5MS00MDZkLThlY2ItNDRmNTUwZTY1ZTU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Michaella McCollum who was arrested whilst drug smuggling in Peru in 2013."
     },
     {
       "title": "Bad Surgeon: Love Under the Knife",
@@ -1795,7 +1862,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "This Is the Zodiac Speaking",
@@ -2050,7 +2118,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Into the Fire: The Lost Daughter",

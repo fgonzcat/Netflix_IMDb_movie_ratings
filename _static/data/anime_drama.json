@@ -30,6 +30,15 @@
       "Plot": "Told in three interconnected segments, Takaki tells the story of his life as cruel winters, cold technology, and finally, adult obligations and responsibility converge to test the delicate petals of love."
     },
     {
+      "title": "KenIchi: The Mightiest Disciple",
+      "netflix_url": "https://www.netflix.com/title/70204998",
+      "year": "2007",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt1424037",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2RkYmMyYjktMjgwOC00NmE2LTlkN2ItZTNiNzhiM2E3NWE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "\"Weak Legs\" Kenichi Shirahama would rather spend his time reading self improvement books than fighting."
+    },
+    {
       "title": "Puella Magi Madoka Magica",
       "netflix_url": "https://www.netflix.com/title/70302572",
       "year": "2011",
@@ -216,7 +225,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Vampire in the Garden",
@@ -515,6 +525,14 @@
       "imdb_id": null,
       "Poster": null,
       "Plot": null
+    },
+    {
+      "title": "Love Through a Prism",
+      "netflix_url": "https://www.netflix.com/title/81498882",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Inu-Oh",

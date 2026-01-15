@@ -561,7 +561,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Pirates: The Last Royal Treasure",
@@ -670,7 +671,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "THE FABLE",
@@ -912,7 +914,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Almost Cops",

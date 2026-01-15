@@ -192,6 +192,15 @@
       "Plot": "A writer indulging in all that Los Angeles and Las Vegas have to offer, undertakes a search for love and self via a series of adventures with six different women."
     },
     {
+      "title": "Kumiko, the Treasure Hunter",
+      "netflix_url": "https://www.netflix.com/title/70299269",
+      "year": "2014",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt3263614",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzNzI1MTkyNzBeQTJeQWpwZ15BbWU4MDQ0NDU0MzQx._V1_SX300.jpg",
+      "Plot": "A jaded Japanese woman discovers a hidden copy of Fargo (1996) on VHS, believing it to be a treasure map indicating the location of a large case of money."
+    },
+    {
       "title": "Whiplash",
       "netflix_url": "https://www.netflix.com/title/70299275",
       "year": "2014",
@@ -666,7 +675,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Prevenge",
@@ -846,7 +856,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Boy Erased",
@@ -909,7 +920,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Wildlife",
@@ -954,7 +966,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Dark Forces",
@@ -1242,14 +1255,16 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Ram Prasad Ki Tehrvi",
       "netflix_url": "https://www.netflix.com/title/81113922",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "A Sun",
@@ -1346,7 +1361,8 @@
       "netflix_url": "https://www.netflix.com/title/81248141",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Vikrithi",
@@ -1355,7 +1371,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Uma Maheswara Ugra Roopasya",
@@ -1398,7 +1415,8 @@
       "netflix_url": "https://www.netflix.com/title/81285942",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Kappela",
@@ -1533,7 +1551,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Really Love",
@@ -1587,7 +1606,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Fan Girl",
@@ -1869,6 +1889,15 @@
       "Plot": "Budny, a secret service officer, secretly surveils Bishop Karol Wojtyla for 20 years. An unreciprocated bond forms between Budny and the unaware Wojtyla, leading to an obsessive, pathological relationship from Budny's perspective."
     },
     {
+      "title": "Bone Lake",
+      "netflix_url": "https://www.netflix.com/title/81716210",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt26783625",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzUzODVlYTItMDFlNC00ODM2LTg0ZDYtZjRlZWI2ZGMzMTljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A couple's vacation at a secluded estate is upended when they're forced to share the mansion with a mysterious couple. A dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, triggering a battle for survival."
+    },
+    {
       "title": "How to Have Sex",
       "netflix_url": "https://www.netflix.com/title/81716895",
       "year": "2023",
@@ -1882,7 +1911,8 @@
       "netflix_url": "https://www.netflix.com/title/81725616",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Daydreamers",
@@ -2080,7 +2110,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Amazing Journey of the Letters",
@@ -2089,7 +2120,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Anuja",
@@ -2125,7 +2157,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "NOUVELLE VAGUE",

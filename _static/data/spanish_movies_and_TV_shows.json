@@ -18,7 +18,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Solo Con Tu Pareja",
@@ -162,7 +163,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Locked Up",
@@ -268,7 +270,8 @@
       "netflix_url": "https://www.netflix.com/title/80156006",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The House of Flowers",
@@ -298,13 +301,23 @@
       "Plot": "Along with her two friends, a determined woman travels to Vietnam to bring home the young girl her recently deceased daughter had planned to adopt."
     },
     {
+      "title": "The Skin of the Wolf",
+      "netflix_url": "https://www.netflix.com/title/80168029",
+      "year": "2018",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt6347150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI5NGQyNDUtNTIxMi00YmNiLTk3MWQtY2VlMTU4MGM4YTg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A highlander that lives alone in the mountains buys a wife to relieve his loneliness."
+    },
+    {
       "title": "Rosario Tijeras (Mexico)",
       "netflix_url": "https://www.netflix.com/title/80170690",
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Diablero",
@@ -341,6 +354,15 @@
       "imdb_id": "tt9695258",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWI3YmFhOTYtMGE3Zi00MGRlLTkxY2ItNTkyOTI2ZDhmNjkxXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A promising young lawyer sees her plans to wed into an important and ultraconservative family in danger when her grandma decides to marry her girl friend."
+    },
+    {
+      "title": "The Motive",
+      "netflix_url": "https://www.netflix.com/title/80173606",
+      "year": "2017",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt5451244",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzk4OGNkODItMGVmZC00YWUxLWJlYTktNWE4OTdiZTljZThmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man obsessed with the idea of writing \"high literature\" starts to cause conflicts around him to write about it."
     },
     {
       "title": "Sofía Niño de Rivera: Selección Natural",
@@ -392,7 +414,8 @@
       "netflix_url": "https://www.netflix.com/title/80195801",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Paquita Salas",
@@ -410,7 +433,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Nisman: The Prosecutor, the President, and the Spy",
@@ -419,7 +443,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Gun City",
@@ -453,7 +478,8 @@
       "netflix_url": "https://www.netflix.com/title/80205594",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Always a Witch",
@@ -588,7 +614,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Secrets of Summer",
@@ -622,7 +649,8 @@
       "netflix_url": "https://www.netflix.com/title/80226951",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "A Life of Speed: The Juan Manuel Fangio Story",
@@ -667,7 +695,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Invisible",
@@ -694,7 +723,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "High Seas",
@@ -793,7 +823,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Chalk Line",
@@ -830,6 +861,15 @@
       "imdb_id": "tt9098586",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzIxNGRjY2QtODUxZi00ZTM0LWFhNTgtM2VkZDgyZWJkODBlXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "How would you feel if you had no more than three minutes to hug your parents, nieces, and nephew of grandparents after more than a decade apart?"
+    },
+    {
+      "title": "After the Raid",
+      "netflix_url": "https://www.netflix.com/title/80244681",
+      "year": "2019",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt11324024",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWY2NmM4ZTItNTMwNy00ZWM3LTgzZDMtYjI4YmU1NWRiOWIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A large immigration raid in a small Tennessee town leaves emotional fallout as well as far-reaching questions about justice, faith and humanity."
     },
     {
       "title": "Lorena, Light-Footed Woman",
@@ -982,7 +1022,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Eye For An Eye",
@@ -1214,7 +1255,8 @@
       "netflix_url": "https://www.netflix.com/title/81030409",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Despite Everything",
@@ -1349,7 +1391,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Dad Wanted",
@@ -1431,6 +1474,15 @@
       "imdb_id": "tt10348700",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODRlMDM4M2YtZjQ3NC00NzhlLTkyMWMtZTMwYTFkNDgwZGE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "Plot": "This is the story of Catalina, the indigenous woman who gave away her soul, her heart and her life to a conqueror. \"The Queen and the Conqueror\" rebuilds one of the first love stories that took place in America, between an indigen..."
+    },
+    {
+      "title": "The Search",
+      "netflix_url": "https://www.netflix.com/title/81058498",
+      "year": "2020",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt12364156",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWEwYzE5ZjUtYWJjYy00YTliLWJjYmItYjMwZGI5NTQ4YmI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on a true story about the disappearance of a small girl from her home outside Mexico City"
     },
     {
       "title": "Crazy About Her",
@@ -1617,7 +1669,8 @@
       "netflix_url": "https://www.netflix.com/title/81106402",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Apache: The Life of Carlos Tevez",
@@ -1689,7 +1742,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Great Heist",
@@ -1752,7 +1806,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "GO! The Unforgettable Party",
@@ -1761,7 +1816,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Silent War",
@@ -1834,6 +1890,15 @@
       "imdb_id": "tt8851084",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDJiMGY2NzktY2ZiNy00MzAyLTlmZDEtMjM4MzgyMjk5OGRhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "After visiting a crime scene, an ambitious and insensitive tabloid crime photographer, falls victim to a mysterious illness that makes him lose, one by one, his five senses."
+    },
+    {
+      "title": "The Champion",
+      "netflix_url": "https://www.netflix.com/title/81183756",
+      "year": "2024",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt24079806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDcyYmIzMDItOTkwOC00MzE4LThkMTAtMmUxNGI1NDAwZGU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A hot-headed football star has it all until a fight gets him benched and assigned a new tutor: a reclusive academic who'll teach him to face his fears."
     },
     {
       "title": "The Girls at the Back",
@@ -1915,6 +1980,14 @@
       "imdb_id": "tt15478968",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1MTUxNDctNzBjYi00NzRkLWFjZjgtM2Q0ZDQwNTQyNmFlXkEyXkFqcGdeQXVyNzA1MjA5NzA@._V1_SX300.jpg",
       "Plot": "Join the creative process behind Nacho Cano's new musical based on the love story of Malinche and Hernan Cortes and the merging of their two worlds."
+    },
+    {
+      "title": "Magic for Humans Spain",
+      "netflix_url": "https://www.netflix.com/title/81244796",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Bank Robbers: The Last Great Heist",
@@ -2142,6 +2215,15 @@
       "Plot": "A man falls from a horse and can no longer be saved. Man and horse become one, for a short moment."
     },
     {
+      "title": "A Man of Action",
+      "netflix_url": "https://www.netflix.com/title/81308434",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt12703292",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDNmYjczZTUtYzRhNi00NzYzLTg3MjctMmFhN2ZlMDBiMGIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this drama inspired by the life of Lucio Urtubia, an anarchist targets one of the world's biggest banks with an ingenious counterfeiting operations."
+    },
+    {
       "title": "Elite Short Stories: Carla Samuel",
       "netflix_url": "https://www.netflix.com/title/81311236",
       "year": "2021",
@@ -2160,6 +2242,15 @@
       "Plot": "Before the events of S1, Juanquini, El Ñato and Captain González shared one Christmas wish: being courageous enough to change their lives. One mysterious character, El Dañado, could be the one who makes their dreams come true."
     },
     {
+      "title": "A Cop Movie",
+      "netflix_url": "https://www.netflix.com/title/81314321",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt14035242",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGFkNDkwMDktNTAzYi00MWFhLWExNTMtZDM4ZTY3MzQyODIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two professional actors undergo an immersive process to find out what it takes to be a cop in Mexico City."
+    },
+    {
       "title": "HollyBlood",
       "netflix_url": "https://www.netflix.com/title/81316978",
       "year": "2022",
@@ -2175,7 +2266,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Ratones Paranoicos: The Band that Rocked Argentina",
@@ -2184,7 +2276,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The House of Flowers: The Movie",
@@ -2418,7 +2511,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Love Never Lies",
@@ -2605,7 +2699,8 @@
       "netflix_url": "https://www.netflix.com/title/81418159",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "40 Years Young",
@@ -2650,7 +2745,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Love at First Kiss",
@@ -2702,7 +2798,8 @@
       "netflix_url": "https://www.netflix.com/title/81437302",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Iron Reign",
@@ -2781,7 +2878,8 @@
       "netflix_url": "https://www.netflix.com/title/81456708",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "KLASS 95: The Power of Beauty",
@@ -2860,7 +2958,8 @@
       "netflix_url": "https://www.netflix.com/title/81481539",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Tin & Tina",
@@ -2876,14 +2975,16 @@
       "netflix_url": "https://www.netflix.com/title/81484068",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Through My Window 3: Looking at You",
       "netflix_url": "https://www.netflix.com/title/81484069",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Signing",
@@ -2938,6 +3039,15 @@
       "imdb_id": "tt10366574",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2JlYWY3MWItZWJlZC00MzgzLTg1NzQtZTYxOGU1NmY2NTdjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Life in a town at war seen through the eyes of three young girls on the path to adolescence."
+    },
+    {
+      "title": "Togo",
+      "netflix_url": "https://www.netflix.com/title/81504388",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt15686024",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDVjZjc5YmItMmNkZC00ZGMyLThmODItMmJiOTcxZTE4MDY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A car attendant who must defend his territory and the neighbors of the neighborhood against."
     },
     {
       "title": "Pact of Silence",
@@ -3016,7 +3126,8 @@
       "netflix_url": "https://www.netflix.com/title/81517326",
       "year": "2015",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Time Flies",
@@ -3205,7 +3316,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "We Were Kings",
@@ -3550,6 +3662,15 @@
       "Plot": "Follows disgraced actress Lana Cruz who has been canceled by Hollywood so she heads back to Mexico to work in a film and prove that she's still a star, but she is not prepared Polly, her biggest fan and worst nightmare."
     },
     {
+      "title": "Hotel Bitcoin",
+      "netflix_url": "https://www.netflix.com/title/81680262",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31308426",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZiNjI3NmItNmRmNi00OTQxLWFkMGMtNjU5MmNjYWI2NGY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of friends have to survive a weekend in a hotel with a huge amount of virtual money to guard, putting their ingenuity to the test."
+    },
+    {
       "title": "The Crystal Cuckoo",
       "netflix_url": "https://www.netflix.com/title/81681083",
       "year": "2025",
@@ -3631,6 +3752,15 @@
       "Plot": "From his humble origins to becoming champion of the world, this documentary series recounts the life and career of the iconic Argentinian soccer player."
     },
     {
+      "title": "I Can't Live Without You",
+      "netflix_url": "https://www.netflix.com/title/81692186",
+      "year": "2024",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt28752710",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTcyM2FiNTUtOTI4MS00MzE2LTg4YTEtNDg3MzIzYzQzYjM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After he turns a family event into a disaster, a workaholic must choose between his marriage and his phone after his wife issues him an ultimatum."
+    },
+    {
       "title": "The Lady's Companion",
       "netflix_url": "https://www.netflix.com/title/81699152",
       "year": "2025",
@@ -3646,7 +3776,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "UniverXO Dabiz",
@@ -3709,7 +3840,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Delirium",
@@ -3763,7 +3895,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Old Dog, New Tricks",
@@ -3961,7 +4094,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Maledictions",
@@ -3988,7 +4122,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Many Deaths of Nora Dalmasso",
@@ -4015,7 +4150,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Mon Laferte, te amo",
@@ -4033,7 +4169,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Love from 9 to 5",
@@ -4078,7 +4215,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "EMILIA PÉREZ",
@@ -4150,7 +4288,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Lali: Time to Step Up",
@@ -4159,7 +4298,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "I Am Not Mendoza",
@@ -4168,7 +4308,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Juan Gabriel: I Must, I Can, I Will",
@@ -4177,14 +4318,16 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Baahubali: The Beginning (Spanish Version)",
       "netflix_url": "https://www.netflix.com/title/82031153",
       "year": "2015",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Koati",

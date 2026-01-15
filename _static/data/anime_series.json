@@ -48,6 +48,15 @@
       "Plot": "The past catches up with the world of Inuyasha and Kagome's present in a form they could never have anticipated."
     },
     {
+      "title": "KenIchi: The Mightiest Disciple",
+      "netflix_url": "https://www.netflix.com/title/70204998",
+      "year": "2007",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt1424037",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2RkYmMyYjktMjgwOC00NmE2LTlkN2ItZTNiNzhiM2E3NWE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "\"Weak Legs\" Kenichi Shirahama would rather spend his time reading self improvement books than fighting."
+    },
+    {
       "title": "Naruto",
       "netflix_url": "https://www.netflix.com/title/70205012",
       "year": "2006",
@@ -81,7 +90,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Hunter X Hunter (2011)",
@@ -90,7 +100,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Puella Magi Madoka Magica",
@@ -100,6 +111,15 @@
       "imdb_id": "tt1773185",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGI2NDRmZTgtYzU2NS00M2Y1LTkwMWUtNTkxNWFiNjFkYmQ2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A creature named Kyubey offers Madoka and Sayaka a wish if they agree to become 'magical girls' and fight abstract beings called 'witches'. However, a magical girl named Homura is, for uncertain reasons, determined to stop this ag..."
+    },
+    {
+      "title": "Magic Knight Rayearth",
+      "netflix_url": "https://www.netflix.com/title/70308293",
+      "year": "1994",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0112057",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQwMGZjYjYtODA0Ny00YmMwLWIwNGUtOGQ0ZDFjMDIzMDA5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Lucy, Anias and Marina, three girls from different schools are transported to the world of Zephyr as well as their mission to become Magical Warriors to rescue the captured Princess Esmeralda."
     },
     {
       "title": "Vampire Knight",
@@ -118,6 +138,23 @@
       "imdb_id": "tt1524993",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzk3ZmY1YjYtMjEyZi00NDM4LTk2MWQtYTEwNmI1NGU4NDE1XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Max Taylor is the son of paleontologist Dr Spike Taylor and is a fan of dinosaurs."
+    },
+    {
+      "title": "Magi",
+      "netflix_url": "https://www.netflix.com/title/80009097",
+      "year": "2013",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt2935524",
+      "Poster": "N/A",
+      "Plot": "A young boy, on Christmas morning, recognizes the severity of his mother's illness and undergoes a revelation about sacrifice and the true meaning of giving."
+    },
+    {
+      "title": "Gin Tama",
+      "netflix_url": "https://www.netflix.com/title/80018959",
+      "year": "2006",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "TIGER & BUNNY",
@@ -189,7 +226,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Detective Conan",
@@ -369,7 +407,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Kakegurui",
@@ -549,7 +588,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Forest of Piano",
@@ -666,7 +706,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Vampire in the Garden",
@@ -738,7 +779,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Tekken: Bloodline",
@@ -774,7 +816,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Violet Evergarden: Special",
@@ -793,6 +836,15 @@
       "imdb_id": "tt9310336",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODU2ZjEwMjUtMTZiOS00NmFiLTkwOTMtOWUxMjAxZTlmMGFmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Set in Manila where the mythical creatures of Philippine folklore live in hiding amongst humans, Alexandra Trese finds herself going head to head with a criminal underworld comprised of malevolent supernatural beings."
+    },
+    {
+      "title": "Ultramarine Magmell",
+      "netflix_url": "https://www.netflix.com/title/81019771",
+      "year": "2019",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt9826314",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTdiOTFkM2ItYzg5Mi00MmZlLWFjMjQtZjY2N2EwOWY2NmI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Unknown creatures. Deadly pitfalls. With so many reckless adventures out to make fortune, someone's got to rescue them."
     },
     {
       "title": "Cells at Work!",
@@ -999,7 +1051,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Sonic X",
@@ -1036,6 +1089,15 @@
       "imdb_id": "tt22297722",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTc1MTAzNWYtM2Q3Yy00OTExLWE1YTUtOTJhMzcyNGUzMGVmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In a society that favors good looks, a high school outcast leads a double life switching between his two bodies that are polar opposites in appearance."
+    },
+    {
+      "title": "Dragon Age: Absolution",
+      "netflix_url": "https://www.netflix.com/title/81183924",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt21031054",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWM2Y2NmZDItYzZiNS00ZTFkLTk4MzEtOTU1ZDA3MmUwOWUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in the Tevinter Empire, the oldest of several human nations in Thedas explore the experiences of its different inhabitants."
     },
     {
       "title": "Yakitori: Soldiers of Misfortune",
@@ -1125,7 +1187,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Baki Hanma",
@@ -1278,7 +1341,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Pokémon Ultimate Journeys: The Series",
@@ -1315,6 +1379,22 @@
       "imdb_id": "tt14837566",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3Mjc2YjctNzU4Mi00OTJhLTkzMzUtZjMxOGYyOTI2NDNjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Year 1992. The United States has been renamed Eden, a technocracy dominated by corruption. Super soldier Dolph Laserhawk is locked up in the Supermaxx maximum security prison. He leads a team of rebels under the orders of a shady ..."
+    },
+    {
+      "title": "Case Closed: Zero's Tea Time",
+      "netflix_url": "https://www.netflix.com/title/81313289",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Case Closed: The Culprit Hanzawa",
+      "netflix_url": "https://www.netflix.com/title/81313291",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "My Melody & Kuromi",
@@ -1386,7 +1466,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Transformers: War for Cybertron: Earthrise",
@@ -1395,7 +1476,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Transformers: War for Cybertron: Kingdom",
@@ -1404,7 +1486,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Akuma Kun",
@@ -1450,6 +1533,23 @@
       "imdb_id": "tt27250301",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjIzYzU4NWQtZGEwYi00MTQzLTgyNzAtZTkxYWIyMzVkNDliXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In an alternate history where the male population is nearly decimated, eligible men serve as concubines to the woman shogun inside the walls of the Ooku."
+    },
+    {
+      "title": "Revelations: The Masters of the Universe: Revelation Aftershow",
+      "netflix_url": "https://www.netflix.com/title/81473420",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30788647",
+      "Poster": "N/A",
+      "Plot": "N/A"
+    },
+    {
+      "title": "Love Through a Prism",
+      "netflix_url": "https://www.netflix.com/title/81498882",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Uncle from Another World",
@@ -1542,6 +1642,40 @@
       "Plot": "Once the world's most feared hitman, Taro Sakamoto falls in love with Store Clerk Aoi. Leaving his violent past, he retires to live a peaceful life. But old enemies threaten to pull him back into the life he thought he'd left for ..."
     },
     {
+      "title": "One Piece: 3D2Y - Overcome Ace's Death! Luffy's Vow to His Friends",
+      "netflix_url": "https://www.netflix.com/title/81679587",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "One Piece Adventure of Nebulandia",
+      "netflix_url": "https://www.netflix.com/title/81679588",
+      "year": "2015",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt6609162",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY4OTg5YzAtOTk5ZS00YWY0LWIxY2QtM2I2NmYyM2QxN2NiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The special has the Straw Hat Pirates fight Foxy again in the New World, on Mushroom Island. This soon gives way to a battle against the Marines on an island called Nebulandia that can nullify Devil Fruit powers."
+    },
+    {
+      "title": "One Piece Episode of East blue - Luffy and His Four Crewmates' Great Adventure",
+      "netflix_url": "https://www.netflix.com/title/81679589",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "One Piece Episode of Skypiea",
+      "netflix_url": "https://www.netflix.com/title/81679590",
+      "year": "2018",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt11744496",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTViNTBhZmEtYTZkYi00MTI0LTk1M2YtZjIxZWMwMmZmMTdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Episode of Sky Island is a TV Special of the One Piece anime. It is a retelling of the Sky Island Saga, particularly Skypiea Arc."
+    },
+    {
       "title": "Zom 100: Bucket List of the Dead",
       "netflix_url": "https://www.netflix.com/title/81680101",
       "year": "2023",
@@ -1584,7 +1718,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Apothecary Diaries",
@@ -1701,7 +1836,17 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "One Piece Fan Letter",
+      "netflix_url": "https://www.netflix.com/title/81947352",
+      "year": "2024",
+      "imdb_rating": "9.2",
+      "imdb_id": "tt33998607",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2E5ZTlkYzMtZjYwNy00ZDc4LWE5ZWUtMGNmZjgxMzZjMTJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two years after the Paramount War, the Straw Hats are about to reunite on the Sabaody Archipelago. At the same time, a girl who is head over heels for Nami is trying to hand a fan letter to her before the group leaves the island."
     },
     {
       "title": "The Summer Hikaru Died",
@@ -1719,7 +1864,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Tougen Anki",
@@ -1737,7 +1883,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "WITCH WATCH",
@@ -1773,7 +1920,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Pokémon Horizons: Season 3: Rising Hope",
@@ -1782,7 +1930,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     }
   ]
 }

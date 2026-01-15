@@ -399,6 +399,15 @@
       "Plot": "In New York City, a single mom captivates her new neighbor, a much younger man."
     },
     {
+      "title": "Take Me Home Tonight",
+      "netflix_url": "https://www.netflix.com/title/70117577",
+      "year": "2011",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0810922",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc2OTg5NTM1NV5BMl5BanBnXkFtZTcwODM3MTMyNA@@._V1_SX300.jpg",
+      "Plot": "Four years after graduation, an awkward high school genius uses his sister's boyfriend's Labor Day party as the perfect opportunity to make his move on his high school crush."
+    },
+    {
       "title": "Did You Hear About the Morgans?",
       "netflix_url": "https://www.netflix.com/title/70119197",
       "year": "2009",
@@ -597,6 +606,15 @@
       "Plot": "An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religious views on people."
     },
     {
+      "title": "Bewakoofiyaan",
+      "netflix_url": "https://www.netflix.com/title/80004989",
+      "year": "2014",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt3483646",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ0M2M0ODYtMGUxNi00M2FiLThhMTMtMTIyZTZmNDYxYTM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bewakoofiyaan is a slice-of life comedy when recession strikes and the lack of money tests love. Is living on love and fresh air really possible?"
+    },
+    {
       "title": "Daawat-e-Ishq",
       "netflix_url": "https://www.netflix.com/title/80005319",
       "year": "2014",
@@ -700,7 +718,8 @@
       "netflix_url": "https://www.netflix.com/title/80105690",
       "year": "2016",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Tulip Fever",
@@ -802,6 +821,15 @@
       "Plot": "In-separable childhood friends, Raju and Guddi are separated when Guddi's dad, Ramlal is arrested by the police for theft. Years later Guddi is now a cabaret dancer and singer, Seema, while Raju is a thief and professional gambler..."
     },
     {
+      "title": "Prince",
+      "netflix_url": "https://www.netflix.com/title/80158546",
+      "year": "1969",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0064842",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTUyN2IzZGItOTJlZS00ZTJjLWEwNjQtYTFjZmY3MGZmNTNiXkEyXkFqcGdeQXVyMjMzMzc0MjM@._V1_SX300.jpg",
+      "Plot": "A rich prince who lives in luxury wants to attain inner peace. He leaves his riches to become an ordinary villager and from there on, his adventure begins."
+    },
+    {
       "title": "A Christmas Prince",
       "netflix_url": "https://www.netflix.com/title/80160759",
       "year": "2017",
@@ -809,6 +837,15 @@
       "imdb_id": "tt7608418",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGNkZDMwZjItNWU0Ny00YjM5LTgxYWMtZDIyM2Y4NWQ2NDI4XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "When a reporter goes undercover as a tutor to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?"
+    },
+    {
+      "title": "Candy Jar",
+      "netflix_url": "https://www.netflix.com/title/80164864",
+      "year": "2018",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt6744044",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGYzNDMwMmUtYTczNi00MGQ4LWI3YjktZmM1YzE1ZmQyZGRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dueling high school debate champs who are at odds on just about everything forge ahead with ambitious plans to get into the colleges of their dreams."
     },
     {
       "title": "Alex Strangelove",
@@ -851,7 +888,8 @@
       "netflix_url": "https://www.netflix.com/title/80180043",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Set It Up",
@@ -914,7 +952,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Always Be My Maybe",
@@ -971,6 +1010,15 @@
       "Plot": "In the aftermath of World War II, a writer forms an unexpected bond with the residents of Guernsey Island when she decides to write a book about their experiences during the war. Then she learns the secret they are afraid to reveal."
     },
     {
+      "title": "Love Per Square Foot",
+      "netflix_url": "https://www.netflix.com/title/80227304",
+      "year": "2018",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt7853242",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzc1NDdmYTctMzI5Mi00MjNmLTg4MzQtM2NiNjlkNjA3MWFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Individually, Sanjay and Karina don't earn enough to be able to buy a home, so they enter into a marriage of convenience."
+    },
+    {
       "title": "Love Wedding Repeat",
       "netflix_url": "https://www.netflix.com/title/80227754",
       "year": "2020",
@@ -987,6 +1035,14 @@
       "imdb_id": "tt8510488",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTY5YmZkOGMtZTE4YS00NTdkLTkyMGYtNjIyMGIzOTNjMGNhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Jilted by her husband on the eve of embarking on an African safari, a woman travels to the continent solo and meets an elephant conservationist."
+    },
+    {
+      "title": "Dance of the Forty One",
+      "netflix_url": "https://www.netflix.com/title/80235267",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Desperados",
@@ -1014,6 +1070,15 @@
       "imdb_id": "tt3120280",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5Mjc4NTM2Ml5BMl5BanBnXkFtZTgwMjMzMzA5NTM@._V1_SX300.jpg",
       "Plot": "A case of mistaken identity results in unexpected romance when the most popular girl and the biggest loser in high school must unite to win over their crushes."
+    },
+    {
+      "title": "The Holiday Calendar",
+      "netflix_url": "https://www.netflix.com/title/80242446",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt8262802",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc2ZjU5ODctZDFkMi00ODc1LWFkNTctOGNhNTdiYWE3NGZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A struggling but talented photographer inherits an antique holiday advent calendar, the contents of which seem to predict the future. Will this magical calendar lead her to love this holiday season?"
     },
     {
       "title": "The Princess Switch",
@@ -1065,7 +1130,8 @@
       "netflix_url": "https://www.netflix.com/title/80993401",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Us and Them",
@@ -1495,7 +1561,8 @@
       "netflix_url": "https://www.netflix.com/title/81106402",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Awakening of Motti Wolkenbruch",
@@ -1513,7 +1580,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Plan A Plan B",
@@ -1523,6 +1591,15 @@
       "imdb_id": "tt15238986",
       "Poster": "https://m.media-amazon.com/images/M/MV5BN2M3NTFlODQtOWUzNC00YzU1LThlM2YtZmY3YTBkNmVlNzYxXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Follows a matchmaker who believes marriage is for everyone except herself, and a successful divorce lawyer with a secret, who cross paths, and explores if opposites coexist or attract."
+    },
+    {
+      "title": "Love Aaj Kal",
+      "netflix_url": "https://www.netflix.com/title/81113920",
+      "year": "2020",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt10023024",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY1YmRkZWItZDgzOS00YzM5LWJmOGYtMDVlMzg2MjVkM2RlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When professional ambitions clash with personal feelings for a modern-day couple, a love story from a bygone era may offer some wisdom."
     },
     {
       "title": "Last Christmas",
@@ -1559,6 +1636,15 @@
       "imdb_id": "tt11426572",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTZkNTdhNjUtMjFjMy00MDU0LWFiMWEtYWRiMWFhYmRkMDgyXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Pressured by their parents to find spouses, Asha and Ravi pretend to date during a summer of weddings, only to find themselves falling for each other."
+    },
+    {
+      "title": "The Archies",
+      "netflix_url": "https://www.netflix.com/title/81134807",
+      "year": "2023",
+      "imdb_rating": "4.2",
+      "imdb_id": "tt15979666",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM5NDIyNDUtM2U5NC00ZTM4LTg5ZGQtMmFkYTQwZTcwNTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in 1960s India, Archie and the gang navigate romance, friendship and the future of Riverdale as developers threaten to destroy a beloved park."
     },
     {
       "title": "Lonely Planet",
@@ -1604,6 +1690,14 @@
       "imdb_id": "tt4257940",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTNjOTQyNGQtMzhmMi00ZGUwLTliMGEtNDZlOTkwZmZmNGMxXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Trying to put her life back together after her husband's death, Libby and her children move to her estranged aunt's goat farm in central Texas."
+    },
+    {
+      "title": "The Last Paradiso",
+      "netflix_url": "https://www.netflix.com/title/81176731",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "A Week Away",
@@ -1660,6 +1754,15 @@
       "Plot": "Follows a new couple and their families, who find themselves examining modern love and family dynamics amidst clashing cultures, societal expectations and generational differences."
     },
     {
+      "title": "Ajeeb Daastaans",
+      "netflix_url": "https://www.netflix.com/title/81206929",
+      "year": "2021",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt14091818",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTljZWJlNjYtMGQ2Yi00ODcyLTk1OWUtYzg1YmE5YmE2NTJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four shorts explore the surprising ways in which unexpected catalysts inflame the uncomfortable emotions simmering under fractured relationships."
+    },
+    {
       "title": "Malang",
       "netflix_url": "https://www.netflix.com/title/81214289",
       "year": "2020",
@@ -1682,7 +1785,8 @@
       "netflix_url": "https://www.netflix.com/title/81227047",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Royal Treatment",
@@ -1736,7 +1840,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Life List",
@@ -1782,6 +1887,14 @@
       "imdb_id": "tt10662234",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWFjMzI5MjAtY2M2MC00M2U0LTk1MjEtYWEzNTExMDI0ODNhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A ballerina discovers hip-hop by chance and is faced with an impossible choice: Does she pursue her family's legacy or her newfound love."
+    },
+    {
+      "title": "The Princess Switch 3: Romancing the Star",
+      "netflix_url": "https://www.netflix.com/title/81262270",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Roohi",
@@ -2004,7 +2117,8 @@
       "netflix_url": "https://www.netflix.com/title/81346056",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Love Tactics",
@@ -2041,6 +2155,15 @@
       "imdb_id": "tt14898794",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjk2MjI3MDQtMzBhNC00Zjg2LThjY2QtMGNlNzZlYWRiYjM2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Diagnosed with terminal illness, a single mother encounters a suave bachelor as she grapples with the future of her headstrong six-years-old."
+    },
+    {
+      "title": "Burning Patience",
+      "netflix_url": "https://www.netflix.com/title/81357648",
+      "year": "2022",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt15920912",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU1M2MwZTQtYzNmNi00ZDcwLWFlMDktZDFlYjUxMjMzZTZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Mario Jiménez, a fictional postman in revolution-era Chile, who befriends the real-life poet Pablo Neruda."
     },
     {
       "title": "A Family Affair",
@@ -2086,6 +2209,24 @@
       "imdb_id": "tt8672856",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2Y0ZmZjNjQtYjIwYi00YWNhLThjNGUtMTU0ZTI3Zjc0YTNjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Madness ensues when a 'player' in the world of romantic relationships finds a girl who's a worthy opponent, that believes love is a battle of wits."
+    },
+    {
+      "title": "Miss Shetty Mr. Polishetty",
+      "netflix_url": "https://www.netflix.com/title/81382265",
+      "year": "2023",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt15891388",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTkzOWYzNjktNGJiMi00NTE3LTgyZGYtZDc4MTZiODlhMGJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Miss Shetty is a feminist living in London and wants to be single forever. Mr. Polishetty from Hyderabad in Telangana, India, wants to be in a committed relationship. The two appear to be in different stages of life but somehow co..."
+    },
+    {
+      "title": "Happiness Ever After",
+      "netflix_url": "https://www.netflix.com/title/81387787",
+      "year": "2021",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt14307694",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1NzRiNGMtZDZmYi00NjMyLWFiNjMtOTM0OWY1YzNmMWU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Five years later from where we left our characters, again tackling sisterhood and friendship, this time with the inclusion of a new romantic arc."
     },
     {
       "title": "Just Short of Perfect",
@@ -2176,6 +2317,15 @@
       "imdb_id": "tt13456318",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjNiOTQ0ZTktZTcxYy00MGYwLWJjN2UtNWRlOGE4ZWUzNjQyXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Eight years after Anne Elliot was persuaded not to marry a dashing man of humble origins, they meet again. Will she seize her second chance at true love?"
+    },
+    {
+      "title": "Virata Parvam",
+      "netflix_url": "https://www.netflix.com/title/81412246",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt11023732",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDg4ODVmY2UtN2JkNC00NGM4LWEwMGEtNjViNGEyNTVkNDhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set against the backdrop of the Naxal movement in 1990s Telangana"
     },
     {
       "title": "Sweet & Sour",
@@ -2275,6 +2425,15 @@
       "imdb_id": "tt14935892",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTk5NWVhM2QtMDhlOS00NGJhLTgwNDAtMWUwMjY4MjZjMmE4XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Following an explosion at a factory that mysteriously freezes a town in time, two students encounter a mysterious feral child, spurring an impulse of love fueled by the frustration of their daily lives that begins to upend their w..."
+    },
+    {
+      "title": "Heart Parade",
+      "netflix_url": "https://www.netflix.com/title/81452638",
+      "year": "2022",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt20597408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1ZWI3NjYtNTlkNy00OWRmLWI2MjEtYmJkN2QwNmQxZDE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A careerist from Warsaw, who does not like dogs, has to go to Kraków for professional reasons, where she meets a charming widower, his son and their four-legged pet."
     },
     {
       "title": "Mother of the Bride",
@@ -2382,7 +2541,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Through My Window 3: Looking at You",
@@ -2391,7 +2551,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Taming of the Shrewd",
@@ -2502,6 +2663,33 @@
       "Plot": "When a self-appointed expert on love tries to teach a timid prince the art of seduction, the plan backfires, leading to scandal - and unexpected romance."
     },
     {
+      "title": "Squared Love All Over Again",
+      "netflix_url": "https://www.netflix.com/title/81513251",
+      "year": "2023",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt26369131",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWUwODAzNmQtODg1My00NGI1LThmMDItMzU3NTlmYWFiMjE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The relationship of a well-known journalist and a down-to-earth teacher goes through hard times when she takes a new job."
+    },
+    {
+      "title": "Squared Love Everlasting",
+      "netflix_url": "https://www.netflix.com/title/81513252",
+      "year": "2023",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt28496500",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA4ZDkxNzAtNTBhNS00Yzc1LWI2ZjQtM2MyMmJmZTdiMGQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this third \"Squared Love\" film, Monika and Enzo's whirlwind romance heads toward a fairy-tale ending until a bombshell revelation changes everything."
+    },
+    {
+      "title": "No Limit",
+      "netflix_url": "https://www.netflix.com/title/81513875",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt14995258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIxYjYzMDItNTU2MS00MDBkLThjOTktYjUxMTIwYjNjNzg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Roxana Aubrey decides to drop her studies and escape her life in Paris for a free diving course in the south of France. She is quickly pulled into a life that reaches new depths brought by the weight of an ocean's descent."
+    },
+    {
       "title": "The Door into Summer",
       "netflix_url": "https://www.netflix.com/title/81517003",
       "year": "2021",
@@ -2565,11 +2753,21 @@
       "Plot": "With only a year left to live, 17-year-old Akito finds new meaning in life by bringing joy to a terminally ill girl who has just six months remaining."
     },
     {
+      "title": "Hey Sinamika",
+      "netflix_url": "https://www.netflix.com/title/81582584",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt11953194",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTExOWE2NDYtMmRhYi00NTg1LWFlNTktM2E3NDc4OTdlYTM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The lives of Mouna, a weather scientist who falls in love with Yaazhan, a quirky and loving guy. What happens to their relationship after a couple of years and how things take an unexpected turn after the arrival of Malarvizhi?"
+    },
+    {
       "title": "Hey Sinamika (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81582585",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Mr. Malcolm's List",
@@ -2758,7 +2956,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Love Destiny The Movie",
@@ -2831,6 +3030,15 @@
       "imdb_id": "tt15139698",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDhhN2EzZDctMGRhYS00NWNmLWI3NTMtODQ4OThkODg0NDM3XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In the pursuit of 'love and forever', single parent and Travel Blogger Amanda, embarks on a social media romance with American TourGuide Michael. A trip to the US to meet up for the first time, opens up more doors than both antici..."
+    },
+    {
+      "title": "The One for Sarah",
+      "netflix_url": "https://www.netflix.com/title/81663116",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt15478884",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ1NDgzYmUtMDc5NS00OGUwLThhZDItMmVjOWEyYzgxZDY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "TheOneForSarah is a romantic drama, that follows the story of Sarah, who has been through emotional abuse and is on the path to rediscover her self-worth and find love."
     },
     {
       "title": "Lost in Starlight",
@@ -3076,6 +3284,15 @@
       "Plot": "Follows the concerns of Ayesha's family in response to her romance with a 50-year-old."
     },
     {
+      "title": "RedLife",
+      "netflix_url": "https://www.netflix.com/title/81713705",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt29497075",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc4MTk0NjItOTRkOC00ZDViLTgxMjUtZGJlMjQwMmQxYjk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Youngsters living on the edge of the underworld in Bangkok. Their struggles and hopes, longing for pure love in harsh circumstances, are realistically captured in this remarkable debut film by Ekalak Klunson."
+    },
+    {
       "title": "Miss Shampoo",
       "netflix_url": "https://www.netflix.com/title/81717580",
       "year": "2023",
@@ -3100,7 +3317,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Last Wife",
@@ -3116,7 +3334,8 @@
       "netflix_url": "https://www.netflix.com/title/81719491",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Amaran",
@@ -3278,7 +3497,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Dragon",
@@ -3297,6 +3517,15 @@
       "imdb_id": "tt22740896",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmNiY2Y0NmQtNDg4ZS00MTBiLTg4YjItOTgxYzI3ZjIwM2FlXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Poppy wants to explore the world and Alex prefers to stay home with a good book, but somehow they are the very best of friends. They live far apart, but for a decade they have spent one week of summer vacation together."
+    },
+    {
+      "title": "Hot Frosty",
+      "netflix_url": "https://www.netflix.com/title/81764579",
+      "year": "2024",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt32359447",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjYzOTA0NWYtNzkxNi00YmY4LTljOTYtODdhYTc0ODI3MDViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Widow Kathy magically brings a snowman to life. His innocence helps her heal and find love again. They bond before the holidays, but he's doomed to melt."
     },
     {
       "title": "That Kind of Love",
@@ -3366,7 +3595,8 @@
       "netflix_url": "https://www.netflix.com/title/81779944",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "A Royal Date for Christmas",
@@ -3486,6 +3716,14 @@
       "Plot": "N/A"
     },
     {
+      "title": "Umjolo: My Beginning, My End!",
+      "netflix_url": "https://www.netflix.com/title/81903225",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "My Boo",
       "netflix_url": "https://www.netflix.com/title/81908841",
       "year": "2024",
@@ -3537,7 +3775,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Jingle Bell Heist",
@@ -3580,14 +3819,16 @@
       "netflix_url": "https://www.netflix.com/title/81942170",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Suffocating Love",
       "netflix_url": "https://www.netflix.com/title/81945658",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Love Child",
@@ -3603,7 +3844,8 @@
       "netflix_url": "https://www.netflix.com/title/81971170",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "My Love Will Make You Disappear",
@@ -3613,6 +3855,15 @@
       "imdb_id": "tt33092501",
       "Poster": "N/A",
       "Plot": "Plot under wraps"
+    },
+    {
+      "title": "Bat War",
+      "netflix_url": "https://www.netflix.com/title/81987261",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37045101",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2U1ZTA4OTItY2U2Mi00NGNhLWFlMTktMTU1YzFiZjhlMWI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bat War follows Colonel Phao, who is tasked with shutting down unauthorized traditional Thai music at music schools. However, he harbors a personal vendetta against Khao, the head of one such school, stemming from a childhood grudge."
     },
     {
       "title": "Laila Majnu",
@@ -3736,7 +3987,17 @@
       "netflix_url": "https://www.netflix.com/title/82077136",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Hats Off to Love",
+      "netflix_url": "https://www.netflix.com/title/82093953",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36414389",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTNkY2Y3NDctODFkZS00Y2VmLWIzNDAtYzgzNjJjZGQ5OGMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Stella designs hats and fascinators for socialite Rosalind and meets her son Christian who's training a horse to compete in the Louisville Derby."
     },
     {
       "title": "A Cowboy Christmas Romance",
@@ -3818,6 +4079,42 @@
       "imdb_id": "tt10650924",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTRkOWQyMzktM2I3Zi00MmZmLTlhYjQtMTcwNGZjODc5OGQ4XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Circumstances conspire to keep apart a young woman and her childhood sweetheart, whom she first met during her family's annual Christmas visit to Hawaii."
+    },
+    {
+      "title": "An Unexpected Valentine",
+      "netflix_url": "https://www.netflix.com/title/82134804",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35304903",
+      "Poster": "N/A",
+      "Plot": "A chance encounter on Valentine's Day brings Hannah and Finn together as they race through New York City to return a lost engagement ring and save one couple's special day."
+    },
+    {
+      "title": "Sisterhood, Inc.",
+      "netflix_url": "https://www.netflix.com/title/82134805",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt34434989",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ5MjQwZDItYWQzMC00NmVkLTkxNzQtNzM2OGY5NDc1NDY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Corporate exec Megan starts a board of directors to improve her younger sister's chaotic life and finds romance with a psych professor who uncovers her tough demeanor."
+    },
+    {
+      "title": "The Royal We",
+      "netflix_url": "https://www.netflix.com/title/82134807",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35558973",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc4MDk1YmUtZmE2Yy00NWU2LWE4YTAtNGY1YWYyNDM4NTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When her older sister elopes with a non-royal, Princess Bea who has lived her life away from her royal duties must now step in and honor the arranged marriage to a small kingdom prince."
+    },
+    {
+      "title": "Love in the Clouds",
+      "netflix_url": "https://www.netflix.com/title/82134808",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35066995",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjBkOTlkYjktMDAwYy00ODgzLWExZWUtNGNiM2YyOWFkYTk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Romantic comedy between a balloon pilot and a media personnel in Seattle during the hot air balloon fiesta"
     },
     {
       "title": "A Sprinkle of Christmas",
@@ -3952,7 +4249,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     }
   ]
 }

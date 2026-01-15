@@ -91,7 +91,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Hunter X Hunter (2011)",
@@ -111,6 +112,15 @@
       "imdb_id": "tt1773185",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGI2NDRmZTgtYzU2NS00M2Y1LTkwMWUtNTkxNWFiNjFkYmQ2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A creature named Kyubey offers Madoka and Sayaka a wish if they agree to become 'magical girls' and fight abstract beings called 'witches'. However, a magical girl named Homura is, for uncertain reasons, determined to stop this ag..."
+    },
+    {
+      "title": "Magic Knight Rayearth",
+      "netflix_url": "https://www.netflix.com/title/70308293",
+      "year": "1994",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0112057",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQwMGZjYjYtODA0Ny00YmMwLWIwNGUtOGQ0ZDFjMDIzMDA5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Lucy, Anias and Marina, three girls from different schools are transported to the world of Zephyr as well as their mission to become Magical Warriors to rescue the captured Princess Esmeralda."
     },
     {
       "title": "Vampire Knight",
@@ -254,7 +264,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "JoJo's Bizarre Adventure",
@@ -444,7 +455,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Trese",
@@ -724,6 +736,15 @@
       "imdb_id": "tt22868844",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGIxZjZlZjUtODM0OC00NDJlLWI5ZjItNDg3MGJmODVmZWNhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In a world where magic is everything, Asta, a boy who was born with no magic, aims to become the \"Wizard King\" to overcome adversity, prove his power, and keep his oath with his friends."
+    },
+    {
+      "title": "maboroshi",
+      "netflix_url": "https://www.netflix.com/title/81450803",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt14935892",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk5NWVhM2QtMDhlOS00NGJhLTgwNDAtMWUwMjY4MjZjMmE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Following an explosion at a factory that mysteriously freezes a town in time, two students encounter a mysterious feral child, spurring an impulse of love fueled by the frustration of their daily lives that begins to upend their w..."
     },
     {
       "title": "Child of Kamiari Month",

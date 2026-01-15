@@ -135,7 +135,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Thoda Pyaar Thoda Magic",
@@ -208,7 +209,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Despicable Me 2",
@@ -566,8 +568,10 @@
       "title": "Angela's Christmas",
       "netflix_url": "https://www.netflix.com/title/80230507",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt7829544",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ1MTgyMWEtMGYzYi00MWU5LTlhYjQtYjA0MjQwMzY4M2FlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in Ireland in the 1910s, 'Angela's Christmas' is a funny, heart-warming and poignant story about the power of family and the innocent desire of a child to ensure everyone is safe, warm and loved at Christmas time."
     },
     {
       "title": "We Have a Ghost",
@@ -849,6 +853,15 @@
       "Plot": "When Ivy discovers the school bathroom is haunted, Bean helps Ivy to harness her powers. With the help of their classmates, Ivy and Bean orchestrate a ritual that will free the ghosts, save the school, and also mess up Nancy's day."
     },
     {
+      "title": "Free Rein: The Twelve Neighs of Christmas",
+      "netflix_url": "https://www.netflix.com/title/81001412",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt9315418",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjAxY2JkZDItZGRjYy00OWI3LWI4MWItMTk4NmRlNjcyMDdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While Bright Fields preps for its Mistletoe Ball, a broken ornament leads Zoe to a family secret, while Gaby finds herself at the mercy of new boss Mia."
+    },
+    {
       "title": "Free Rein: Valentine's Day",
       "netflix_url": "https://www.netflix.com/title/81001413",
       "year": "2019",
@@ -920,6 +933,15 @@
       "Plot": "A mom and dad who usually say no decide to say yes to their kids' wildest requests with a few ground rules on a whirlwind day of fun and adventure."
     },
     {
+      "title": "A Babysitter's Guide to Monster Hunting",
+      "netflix_url": "https://www.netflix.com/title/81012821",
+      "year": "2020",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt4844150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGY2MmRjYjEtMTUxMi00NGY0LThiOGItNmNlMDIwN2I1MGIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A babysitter embarks on a mission to save a child who's been abducted by monsters."
+    },
+    {
       "title": "Arlo the Alligator Boy",
       "netflix_url": "https://www.netflix.com/title/81018635",
       "year": "2021",
@@ -986,8 +1008,10 @@
       "title": "Scrooge: A Christmas Carol",
       "netflix_url": "https://www.netflix.com/title/81028225",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.2",
+      "imdb_id": "tt20917338",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBhNGM2ZDYtYTBhMi00NjBjLTg5ZjQtZDAxZDk1MzA2YTcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A supernatural, time-travelling, musical adaptation of Charles Dickens's cult Christmas story."
     },
     {
       "title": "A Boy Called Christmas",
@@ -1093,8 +1117,10 @@
       "title": "Toolsidas Junior",
       "netflix_url": "https://www.netflix.com/title/81107547",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt13623916",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjc1ZWU2MTUtYWFmOC00MTQ3LThmZDUtNDYzMjZmYmVhZGVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Watching his father lose the 1994 Club Snooker Championship, 13-year-old Midi takes on the impossible journey to bring his father's name on the Winner's Board."
     },
     {
       "title": "Thelma the Unicorn",
@@ -1186,6 +1212,15 @@
       "imdb_id": "tt10127562",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGM4YmYyYzQtN2QzMi00Yzk3LThiMDUtYWZjYWQ5OGIyYzk0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Based on the fifth Dragon Quest game."
+    },
+    {
+      "title": "Malibu Rescue: The Next Wave",
+      "netflix_url": "https://www.netflix.com/title/81174879",
+      "year": "2020",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt11032990",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkwYjViNjUtMmU1Yi00MWZmLTgxZDMtNDIyMDAzOTkzZDE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It's summer again, and everyone's favorite Junior Rescuers, The Flounders, are back at Tower 2. With the International Junior Rescue Championships headed to Southern California, the eyes of the entire planet are on Malibu Beach. B..."
     },
     {
       "title": "Double Dad",
@@ -1323,6 +1358,15 @@
       "Plot": "New York hairdresser Izzy seizes the chance to work at the wedding of a charming prince, but when sparks between them fly, will love or duty prevail?"
     },
     {
+      "title": "Fearless",
+      "netflix_url": "https://www.netflix.com/title/81252403",
+      "year": "2020",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt8675288",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzllYzdlYTAtNzljNi00ZGVmLTg1NjQtYjg3MGM0MGJkYWI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A teen gamer is forced to level up to full-time babysitter when his favorite video game drops three superpowered infants from space into his backyard."
+    },
+    {
       "title": "Sugar High",
       "netflix_url": "https://www.netflix.com/title/81258641",
       "year": "2020",
@@ -1444,8 +1488,10 @@
       "title": "Dasvi",
       "netflix_url": "https://www.netflix.com/title/81332225",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.4",
+      "imdb_id": "tt14107554",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjVmZTViMzUtODZkMC00OTQyLTliZWMtMWFiZjJjYTI5Y2Q5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jailed under a tough cop, an uneducated politician decides to spend his time studying for high school, while his scheming wife has plans of her own."
     },
     {
       "title": "Ivy + Bean",
@@ -1559,6 +1605,15 @@
       "Plot": "The only daughter of the Chinese emperor Han Xuandi escapes from a strict prince and seeks help from the Gauls and the two brave warriors Asterix and Obelix."
     },
     {
+      "title": "Kleks Academy",
+      "netflix_url": "https://www.netflix.com/title/81399299",
+      "year": "2024",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt20857676",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTI2YmU3NWYtMTljZC00ZWJmLTlmNzUtNWViYWQwMjkyYTQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Teenage girl Ada ends up in mysterious Kleks Academy where crossing to the world of fairy tales and reaching boundaries of imagination is possible. She also discovers a way to find out her most hidden family secret."
+    },
+    {
       "title": "The Mitchells vs. The Machines",
       "netflix_url": "https://www.netflix.com/title/81399614",
       "year": "2021",
@@ -1602,6 +1657,15 @@
       "imdb_id": "tt14592064",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNWEyZTQ0N2YtZGE1My00Mzg5LWI3ZDUtYWFhN2FiMDU3ODE2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "New Orleans Saints head coach Sean Payton coaches his son's 6th-grade football team while he is being suspended for the entire 2012 season as a result of his role in the Saints' Bountygate scandal."
+    },
+    {
+      "title": "Best. Christmas. Ever!",
+      "netflix_url": "https://www.netflix.com/title/81416268",
+      "year": "2023",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt7038762",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTdkYjUtMzQxNS00NzAxLWI3OWMtNjIyNTgyMzViNGE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Friendships are put to the ultimate test over a boastful holiday newsletter."
     },
     {
       "title": "My Little Pony: A New Generation",
@@ -1688,8 +1752,10 @@
       "title": "Elf Pets: Santa’s St. Bernards Save Christmas",
       "netflix_url": "https://www.netflix.com/title/81488496",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.4",
+      "imdb_id": "tt9233904",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjYyMGJjOGQtZTljNC00YjRhLWIzOTktMjdhYWMwY2QwMWE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Scout Elves, a slew of St. Bernard pups and a big-hearted family change their community for the better and ensure Santa's yuletide mission to bring more Christmas spirit succeeds."
     },
     {
       "title": "An Elf's Story: The Elf on the Shelf",
@@ -1779,7 +1845,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Minions & More Volume 2",
@@ -1788,7 +1855,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Are You There God? It's Me, Margaret",
@@ -1803,29 +1871,36 @@
       "title": "The Claus Family 3",
       "netflix_url": "https://www.netflix.com/title/81591334",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.5",
+      "imdb_id": "tt19072084",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJlNTNmNDctYzhhMS00OWJjLWFmYjUtNmEyNmMwMTY2YzZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The delivery of the gifts turns into a disaster and Santa Claus is in trouble. Will his grandchildren, Jules and Noor, manage to team up to save the day?"
     },
     {
       "title": "Cemara's Family 2",
       "netflix_url": "https://www.netflix.com/title/81597193",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt13580706",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTNhYWFjY2MtNzU1Ni00ZDNhLWIxZTgtOGI2ZDE1Y2UxYjlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While their parents strive to earn an honest living, three young daughters go through their own issues as they grow up."
     },
     {
       "title": "My Little Pony: A New Generation: Sing-Along",
       "netflix_url": "https://www.netflix.com/title/81597959",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Habaddi",
       "netflix_url": "https://www.netflix.com/title/81602979",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.5",
+      "imdb_id": "tt8747492",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzc5ZjRmNTYtOTdjMC00MDQwLWI0OTYtMzdkMmMyNzFlYzJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When the news of his village's school Kabaddi team travelling to Mumbai breaks out, a 10-year-old boy with a speech defect sees the opportunity to meet the girl he adores. But how will he chant 'Kabaddi, Kabaddi' without stammering?"
     },
     {
       "title": "The Twits",
@@ -1850,7 +1925,8 @@
       "netflix_url": "https://www.netflix.com/title/81623689",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Dongeng Sang Kancil",
@@ -1875,7 +1951,8 @@
       "netflix_url": "https://www.netflix.com/title/81660255",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Bad Guys: A Very Bad Holiday",
@@ -1983,7 +2060,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Garfield Movie",
@@ -2017,7 +2095,8 @@
       "netflix_url": "https://www.netflix.com/title/81778837",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Cells At Work!",
@@ -2102,6 +2181,15 @@
       "Plot": "Circumstances conspire to keep apart a young woman and her childhood sweetheart, whom she first met during her family's annual Christmas visit to Hawaii."
     },
     {
+      "title": "The Royal We",
+      "netflix_url": "https://www.netflix.com/title/82134807",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35558973",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc4MDk1YmUtZmE2Yy00NWU2LWE4YTAtNGY1YWYyNDM4NTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When her older sister elopes with a non-royal, Princess Bea who has lived her life away from her royal duties must now step in and honor the arranged marriage to a small kingdom prince."
+    },
+    {
       "title": "Meet Me at the Christmas Train Parade",
       "netflix_url": "https://www.netflix.com/title/82141896",
       "year": "2024",
@@ -2180,7 +2268,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "KPop Demon Hunters Lyric Videos",

@@ -277,7 +277,8 @@
       "netflix_url": "https://www.netflix.com/title/70275937",
       "year": "2010",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Mr. Peabody & Sherman",
@@ -727,7 +728,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Upgrade",
@@ -860,7 +862,8 @@
       "netflix_url": "https://www.netflix.com/title/81006261",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Ultraman: Rising",
@@ -1083,14 +1086,16 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Sturgill Simpson Presents Sound & Fury",
       "netflix_url": "https://www.netflix.com/title/81171121",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Ne Zha",
@@ -1126,7 +1131,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
@@ -1558,7 +1564,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "I’m Your Man",
@@ -1682,14 +1689,16 @@
       "netflix_url": "https://www.netflix.com/title/81555914",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Witcher Bestiary Season 1, Part 2",
       "netflix_url": "https://www.netflix.com/title/81555915",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Characters of the Continent",
@@ -1705,7 +1714,8 @@
       "netflix_url": "https://www.netflix.com/title/81557435",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Kitchen",
@@ -1742,6 +1752,15 @@
       "imdb_id": "tt31788773",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmUyNjE1YjUtZGJlNC00YTcyLTgzZWQtOGUxNjJhM2VmODY0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A high school student's life takes an unexpected turn when he meets an oni (demon) girl on a quest in the human world."
+    },
+    {
+      "title": "Mighty Morphin Power Rangers: Once & Always",
+      "netflix_url": "https://www.netflix.com/title/81586552",
+      "year": "2023",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt23219684",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTY2MTRiNWUtMjY3Ni00MjVhLWJmOTItMWEwOTc5NGEwZTJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After killing Trini, Rita, kidnaps rangers to use for her time machine in order to stop the past and reign over all evil. Billy, Zach, Rocky and Kat reunite to face Rita and her allies. But Min, Trini's daughter is determined for ..."
     },
     {
       "title": "Spy Kids: Armageddon",
@@ -1784,7 +1803,8 @@
       "netflix_url": "https://www.netflix.com/title/81593746",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Electric State",
@@ -1802,7 +1822,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Transformers: Rise of the Beasts",
@@ -1991,7 +2012,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Kalki 2898 AD (Hindi)",
@@ -2000,7 +2022,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Pretty Guardian Sailor Moon Cosmos The Movie",
@@ -2009,7 +2032,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Missing",
@@ -2027,7 +2051,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Mobile Suit Gundam SEED FREEDOM",
@@ -2063,7 +2088,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Ghostbusters: Frozen Empire",
@@ -2090,7 +2116,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Girl Haunts Boy",
@@ -2142,7 +2169,8 @@
       "netflix_url": "https://www.netflix.com/title/81923263",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Our Times",

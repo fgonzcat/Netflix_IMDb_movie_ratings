@@ -124,7 +124,8 @@
       "netflix_url": "https://www.netflix.com/title/80128686",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Tayo The Little Bus",
@@ -158,7 +159,8 @@
       "netflix_url": "https://www.netflix.com/title/80165295",
       "year": "2014",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Love Alarm",
@@ -170,6 +172,13 @@
       "Plot": "In a world where an app alerts people if someone in the vicinity likes them, Kim Jojo experiences young love while coping with personal adversities."
     },
     {
+      "title": "Men on a Mission",
+      "netflix_url": "https://www.netflix.com/title/80176842",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Man to Man",
       "netflix_url": "https://www.netflix.com/title/80176866",
       "year": "2017",
@@ -177,6 +186,14 @@
       "imdb_id": "tt6032762",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDMzOGVlNzItY2VkYy00N2I2LTliMzAtODQ3OTZkNzgwOGJkXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A secret agent works under cover as a bodyguard and is forced to deal with both national security missions as well as a temperamental superstar."
+    },
+    {
+      "title": "Chef & My Fridge",
+      "netflix_url": "https://www.netflix.com/title/80176931",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "My Only Love Song",
@@ -512,6 +529,15 @@
       "Plot": "This drama is a Crime Suspense centering around a headstrong anchorwoman who becomes the suspect in a murder case. Her estranged husband, who's a lawyer, decides to defend her and hence starts their journey to fall back in love."
     },
     {
+      "title": "Beauty Inside",
+      "netflix_url": "https://www.netflix.com/title/81029990",
+      "year": "2018",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt8801708",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTNjNzk3YTYtZTJmMC00NDUwLTk4ZTYtNGE4NWM1ZWY3ZmU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The series tells the love story of Han Se Gye, an actress who must spend one week out of each month living in someone else's body, and Seo Do Jae, a man who suffers from Prosopagnosia."
+    },
+    {
       "title": "Clean With Passion For Now",
       "netflix_url": "https://www.netflix.com/title/81030008",
       "year": "2018",
@@ -629,6 +655,15 @@
       "Plot": "A murder takes place and the app \"Somebody\" is involved in the murder case."
     },
     {
+      "title": "One Spring Night",
+      "netflix_url": "https://www.netflix.com/title/81094069",
+      "year": "2019",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt10192576",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTM5N2UwZmUtZmUwNS00NmJiLThmMDItM2Y5YzZkYmY1NGM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A couple in their 30s has dated for many years. When they begin to discuss marriage, they begin to look upon their relationship in a different light."
+    },
+    {
       "title": "Vagabond",
       "netflix_url": "https://www.netflix.com/title/81095101",
       "year": "2019",
@@ -734,7 +769,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Lookism",
@@ -753,6 +789,15 @@
       "imdb_id": "tt10919902",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDMyN2RmZjUtZTJkYy00Yzg3LWFiODUtM2VkYjIzZjY5YWFkXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg",
       "Plot": "A woman, whose husband disappears, joins the National Assembly and teams up with a detective in her search for the truth. The two of them work together to break through the silence and lies that people spill to protect their own i..."
+    },
+    {
+      "title": "Itaewon Class",
+      "netflix_url": "https://www.netflix.com/title/81193309",
+      "year": "2020",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt11239552",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODEyZmVlMWEtYjNmNS00MTQ5LThlMzgtZjM4YjNhMGVkZWI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An ex-con opens a street bar in Itaewon, while also seeking revenge on the family who was responsible for his father's death."
     },
     {
       "title": "Chocolate",
@@ -824,14 +869,16 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Be Melodramatic",
       "netflix_url": "https://www.netflix.com/title/81211284",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Flower Crew: Joseon Marriage Agency",
@@ -922,6 +969,15 @@
       "imdb_id": "tt11769798",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNWZjMGQ2NDYtZjM0ZS00ZmNmLWIxZjUtNWRhZGUzMjM4YTVjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Based off the webtoon of the same name, it's the story of a police officer whose attempt to bring down a nationwide criminal organization ends up with him losing everything he holds dear."
+    },
+    {
+      "title": "Hi Bye, Mama!",
+      "netflix_url": "https://www.netflix.com/title/81243996",
+      "year": "2020",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt11804034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ2NTQ5ZWItZWRhZi00NGIwLTk1MjUtYmU1ZGM3OTFkY2FjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It's the story of a mother who died and begins a 49-day long project of reincarnation and a husband who has barely begun to live a new life after overcoming the pain of losing his wife."
     },
     {
       "title": "Hellbound",
@@ -1047,7 +1103,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Juvenile Justice",
@@ -1146,7 +1203,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Korean Pork Belly Rhapsody",
@@ -1198,7 +1256,8 @@
       "netflix_url": "https://www.netflix.com/title/81362748",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Vincenzo",
@@ -1457,7 +1516,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Doom at Your Service",
@@ -1476,6 +1536,15 @@
       "imdb_id": "tt26340363",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWI4ZGNiYmMtODQ2OS00YTQyLWI4YWUtMDczNDNlZjRmMjc3XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "This docuseries examining the chilling true stories of four Korean leaders claiming to be prophets exposes the dark side of unquestioning belief."
+    },
+    {
+      "title": "Love After Divorce",
+      "netflix_url": "https://www.netflix.com/title/81502033",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt28665617",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTllYTFkZGItNzBlNi00MWQwLTg0NWUtZTNjMTMzODY5NzY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Divorced individuals cohabit, sharing stories and forging bonds. As emotions intertwine, they navigate past complexities, seeking new connections and love after divorce, amidst laughter, tears, and unexpected twists."
     },
     {
       "title": "Queenmaker",
@@ -1520,7 +1589,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Business Proposal",
@@ -1611,6 +1681,23 @@
       "imdb_id": "tt21049186",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTRiMzY5OGUtNzhhNi00NDQ1LWEwZDUtZmQ5ODFkNjhhNGRjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A story about a former criminal profiler who now works as a fraudster posing as a fortune teller and the female detective who gets involved with him."
+    },
+    {
+      "title": "My Liberation Notes",
+      "netflix_url": "https://www.netflix.com/title/81568411",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Our Blues",
+      "netflix_url": "https://www.netflix.com/title/81568842",
+      "year": "2022",
+      "imdb_rating": "8.6",
+      "imdb_id": "tt19115260",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDUwY2ZkMGYtMTJlMi00MTg0LWJiNGItYzI5YmE3Y2UxYzBiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Romance is sweet and bitter - and life riddled with ups and downs - in multiple stories about people who live and work on bustling Jeju Island."
     },
     {
       "title": "A Time Called You",
@@ -1754,7 +1841,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Little Women",
@@ -1817,7 +1905,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Military Prosecutor Doberman",
@@ -1889,7 +1978,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Bebefinn",
@@ -1908,6 +1998,15 @@
       "imdb_id": "tt24578016",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGE1ODM5MjktMGY0MS00NjA4LWFiOWItN2ZhZTYzN2RmNmM2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Retired national team female handball player has become a Banchan take-out store owner in order to look after her family while she grapples with her daughter's tutor's many quirks."
+    },
+    {
+      "title": "Nineteen to Twenty",
+      "netflix_url": "https://www.netflix.com/title/81651185",
+      "year": "2023",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt27995116",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjYwMWIyMjAtZjZkMS00ZWU0LTkyNDYtZWNjZWU3MjdlZTU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of young adults share their last week of teens and first week of twenties together - experiencing freedom and all the \"firsts\" of adulthood."
     },
     {
       "title": "The Devil's Plan",
@@ -1944,6 +2043,15 @@
       "imdb_id": "tt27448863",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjhkMDE5ZjQtNjFkZC00MTMzLTkzNmYtYmQzMDcyMjM3ZmRlXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Shin Dong-youp and Sung Si-kyung dive into adult entertainment in Japan, meeting people from all walks of life to demystify the \"taboo\" experience."
+    },
+    {
+      "title": "The Good Bad Mother",
+      "netflix_url": "https://www.netflix.com/title/81669775",
+      "year": "2023",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt27042206",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzk1YmY3Y2ItMzMzMy00M2NlLWFjMmYtYzMyMzkxM2Y3NGEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A tragic accident leaves an ambitious prosecutor with the mind of a child, forcing him and his mother to embark on a journey to heal their relationship."
     },
     {
       "title": "Behind Your Touch",
@@ -2033,7 +2141,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "A Nation of Kimchi",
@@ -2070,6 +2179,13 @@
       "imdb_id": "tt29225198",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjdiOTVmNTMtNGQ3ZS00MDc5LTg1NGEtMGFjYTIzZTdjMDY5XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Gifted with superhuman strength, a young woman returns to South Korea to look for her birth family - only to be entangled in a drug case that could test her power and strength."
+    },
+    {
+      "title": "Welcome to Samdal-ri",
+      "netflix_url": "https://www.netflix.com/title/81697983",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Doctor Slump",
@@ -2123,7 +2239,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Miraculous Brothers",
@@ -2186,7 +2303,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Culinary Class Wars",
@@ -2312,7 +2430,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Korean Fried Chicken Rhapsody",
@@ -2367,6 +2486,15 @@
       "imdb_id": "tt32166552",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDE5Njc0ODYtYWRhYS00NjVlLTg2MWQtZWY5YTRmYjJlNjNiXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Bok Gwi Joo's family has supernatural abilities. He can revisit happy past moments. Depression causes him to lose this power. His family also loses abilities due to modern issues. Do Da He joins their household, instigating change."
+    },
+    {
+      "title": "Comedy Revenge",
+      "netflix_url": "https://www.netflix.com/title/81782308",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33040876",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGEyMWI4M2MtYTcxYy00OTlhLTliMDktOWJkZTQwMWIxZTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Lee Kyung-kyu, a veteran comedian who triumphed in \"Comedy Royale,\" leads Korea's finest comedians in an all-new battle of wits and humor."
     },
     {
       "title": "Mindfulness Manual",
@@ -2429,7 +2557,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Pinkfong Little Dino School",
@@ -2447,7 +2576,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Crime Scene Zero",
@@ -2468,6 +2598,15 @@
       "Plot": "After passing at 80, Lee Hae-sook enters Heaven keeping her elderly appearance, while her husband Ko Nak-joon appears as his 30-year-old self. As Heaven's postman, he delivers Earth's wishes as they begin their afterlife together."
     },
     {
+      "title": "When the Stars Gossip",
+      "netflix_url": "https://www.netflix.com/title/81970550",
+      "year": "2025",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt26215550",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU1NWE0NTUtNzRlOS00MDkyLWI1ZWEtNjBkNzk3NGNjMWQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A space station romantic comedy between space tourists and astronauts."
+    },
+    {
       "title": "Tastefully Yours",
       "netflix_url": "https://www.netflix.com/title/81971172",
       "year": "2025",
@@ -2483,7 +2622,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Soju Rhapsody",
@@ -2492,7 +2632,17 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "The Blank Menu for You",
+      "netflix_url": "https://www.netflix.com/title/81988907",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37050675",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2I2NjA2YWEtY2E5Yy00MzNlLTk0MmItMDI2NGYzOTFjM2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this quirky eatery, guests place open-ended orders that chefs interpret into custom dishes - a delectable talk show where every story inspires a meal."
     },
     {
       "title": "The Potato Lab",
@@ -2526,7 +2676,17 @@
       "netflix_url": "https://www.netflix.com/title/81994908",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Screwballs",
+      "netflix_url": "https://www.netflix.com/title/81994953",
+      "year": "2026",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt0086264",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYxMjJhYmEtN2I5MS00ZTI5LWE2ODgtMWNhYjJjNzMxNzRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Frolicking youth comedy about zany high school students set in the 1960s."
     },
     {
       "title": "The Privileged",
@@ -2598,7 +2758,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Friendly Rivalry",
@@ -2634,7 +2795,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Beyond the Bar",
@@ -2650,7 +2812,8 @@
       "netflix_url": "https://www.netflix.com/title/82068378",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Queen Mantis",
@@ -2668,7 +2831,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Closet Battle",
@@ -2686,7 +2850,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Pinkfong Car Mechanic",
@@ -2695,7 +2860,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Learn ABCs with Baby Shark",
@@ -2704,7 +2870,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Sealook",
@@ -2713,7 +2880,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Superhero Baby Shark",
@@ -2731,7 +2899,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Physical: Welcome to Mongolia",
@@ -2740,7 +2909,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     }
   ]
 }

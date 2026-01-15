@@ -192,6 +192,15 @@
       "Plot": "When Russia's first nuclear submarine malfunctions on its maiden voyage, the crew must race to save the ship and prevent a nuclear disaster."
     },
     {
+      "title": "Derailed",
+      "netflix_url": "https://www.netflix.com/title/60024779",
+      "year": "2002",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt0298296",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGIxOGUxNDktYTViZS00MjA5LThkNGEtZWU3YTc3N2MwZWNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On an out of control train holding hostages and high-tech bio-weapons agent Kristoff (Van Damme) becomes a one man army to derail the terrorists and save the lives of everyone on board!"
+    },
+    {
       "title": "The End of Evangelion",
       "netflix_url": "https://www.netflix.com/title/60024788",
       "year": "1997",
@@ -235,6 +244,15 @@
       "imdb_id": "tt0091369",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDE4OTQwOV5BMl5BanBnXkFtZTgwNjgxMTg2NzE@._V1_SX300.jpg",
       "Plot": "Teenage Sarah journeys through a maze to save her baby brother from the Goblin King."
+    },
+    {
+      "title": "Main Hoon Na",
+      "netflix_url": "https://www.netflix.com/title/70000196",
+      "year": "2004",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0347473",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDcwZDJhOGQtNWI5NS00MmI3LWFkYjMtNTY3OGUxMjgwMjZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother."
     },
     {
       "title": "Mr. & Mrs. Smith",
@@ -388,6 +406,15 @@
       "imdb_id": "tt1535108",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDc2NjU0MTcwNV5BMl5BanBnXkFtZTcwMjg4MDg2OQ@@._V1_SX300.jpg",
       "Plot": "In the year 2154, the very wealthy live on a man-made space station while the rest of the population resides on a ruined Earth. A man takes on a mission that could bring equality to the polarized worlds."
+    },
+    {
+      "title": "Chennai Express",
+      "netflix_url": "https://www.netflix.com/title/70254350",
+      "year": "2013",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt2112124",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTEyOTA3OV5BMl5BanBnXkFtZTcwNjI4MDk3OQ@@._V1_SX300.jpg",
+      "Plot": "A man travelling to Rameswaram via Chennai express for his late grandfather's ashes immersion finds himself in trouble after helping a don's daughter and her cousins board the train."
     },
     {
       "title": "Stolen",
@@ -611,7 +638,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "True Memoirs of an International Assassin",
@@ -621,6 +649,15 @@
       "imdb_id": "tt1542768",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjI0Mzc5MV5BMl5BanBnXkFtZTgwODExMDgxMDI@._V1_SX300.jpg",
       "Plot": "After a publisher changes a writer's debut novel about a deadly assassin from fiction to non-fiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own sur..."
+    },
+    {
+      "title": "Dilwale",
+      "netflix_url": "https://www.netflix.com/title/80091866",
+      "year": "2015",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt4535650",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjN2FjN2QtMzkzMS00YWJlLTk0NzctMjNjZDg0MTFiMmRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The younger siblings of two estranged lovers fall for each other, unaware of the violent past that drove the elder ones apart."
     },
     {
       "title": "Okja",
@@ -758,6 +795,15 @@
       "Plot": "Ito, a gangland enforcer, is caught amidst a treacherous and violent insurrection within his Triad crime family upon his return home from a stint abroad."
     },
     {
+      "title": "Naruto Shippuden the Movie: Blood Prison",
+      "netflix_url": "https://www.netflix.com/title/80152537",
+      "year": "2011",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt1999167",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTgwZDkyODktYjk0My00NTVhLWIxMmQtMGY4ODYzMTlhYmE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Naruto Uzumaki is framed and sent to an inescapable prison where he must escape by any means necessary."
+    },
+    {
       "title": "Hold the Dark",
       "netflix_url": "https://www.netflix.com/title/80157072",
       "year": "2018",
@@ -765,6 +811,15 @@
       "imdb_id": "tt5057140",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjMwOTQ1MzM3M15BMl5BanBnXkFtZTgwODQyNDQxNjM@._V1_SX300.jpg",
       "Plot": "After the deaths of three children suspected to be killed by wolves, writer Russell Core is hired by the mother of a missing six-year-old boy to track down and locate her son in the Alaskan wilderness."
+    },
+    {
+      "title": "Salaakhen",
+      "netflix_url": "https://www.netflix.com/title/80158479",
+      "year": "1975",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt0395743",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMyOWE3OTMtNTEzOS00YmM0LTljNGQtMGFiNGZlMjNhODU1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Plot": "In-separable childhood friends, Raju and Guddi are separated when Guddi's dad, Ramlal is arrested by the police for theft. Years later Guddi is now a cabaret dancer and singer, Seema, while Raju is a thief and professional gambler..."
     },
     {
       "title": "Raees",
@@ -890,6 +945,15 @@
       "imdb_id": "tt7550000",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2QxNjM4YTAtMjY1Yi00YjMwLTlkOWUtZmIzYmZmNzUwNDU1XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "When a pill that gives its users unpredictable superpowers for five minutes hits the streets of New Orleans, a teenage dealer and a local cop must team with an ex-soldier to take down the group responsible for its creation."
+    },
+    {
+      "title": "Close",
+      "netflix_url": "https://www.netflix.com/title/80207371",
+      "year": "2019",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt5316540",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWNhN2JkZTQtOTM3Zi00MzVlLTg2ZTctZDljNjhhMmIyYWYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A female bodyguard is hired to protect an heiress on the run from assassins."
     },
     {
       "title": "Valley of the Dead",
@@ -1180,6 +1244,15 @@
       "Plot": "Wanting to lead an honest life, a notorious bank robber turns himself in, only to be double-crossed by two ruthless FBI agents."
     },
     {
+      "title": "The Decline",
+      "netflix_url": "https://www.netflix.com/title/81013927",
+      "year": "2020",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt10307440",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzFlMWI1YTgtZjlmYy00OGEzLTg5OTMtNTc2NThlYTYyNWE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fatal accident at a remote survivalist training camp sends participants into a panic - and sets the stage for a chilling showdown."
+    },
+    {
       "title": "Gatao",
       "netflix_url": "https://www.netflix.com/title/81032934",
       "year": "2015",
@@ -1370,6 +1443,15 @@
       "Plot": "While trying to rescue her kidnapped sister, a rebel gun-woman faces a group of bandits and a man protecting a cursed treasure."
     },
     {
+      "title": "NiNoKuni",
+      "netflix_url": "https://www.netflix.com/title/81093113",
+      "year": "2019",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt9760504",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWJkZWU4ODMtZjQzOS00YzljLTkxZjYtY2Q0YzcxY2MwMjc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "High school peers Yuu and Haru travel between the real world and a parallel fantasy universe to help their friend Kotona, whose life is in danger."
+    },
+    {
       "title": "Space Sweepers",
       "netflix_url": "https://www.netflix.com/title/81094067",
       "year": "2021",
@@ -1505,6 +1587,15 @@
       "Plot": "Full-time detectives Nick and Audrey are struggling to get their private eye agency off the ground. They find themselves at the center of international abduction when their friend Maharaja is kidnapped at his own lavish wedding."
     },
     {
+      "title": "Malang",
+      "netflix_url": "https://www.netflix.com/title/81214289",
+      "year": "2020",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt9877170",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODc5NWY1NzctMWEwYS00NmU0LWJlYzEtNzg1ZGJjZTEwODE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his..."
+    },
+    {
       "title": "Sentinelle",
       "netflix_url": "https://www.netflix.com/title/81218770",
       "year": "2021",
@@ -1576,6 +1667,15 @@
       "Plot": "A mysterious former secret service agent must urgently return to France when his estranged son is falsely accused of arms and drug trafficking by the government, following a blunder by an overzealous bureaucrat and a mafia operation."
     },
     {
+      "title": "Robbing Mussolini",
+      "netflix_url": "https://www.netflix.com/title/81256747",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt14270848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzczOTI1OTItYzAwNS00MDVhLWIwMzMtODE3MWEwMjJmODZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Milanese wartime entrepreneur forms a band of misfits and rogues to stage an elaborate heist of a legendary treasure belonging to Benito Mussolini."
+    },
+    {
       "title": "Saakini Daakini",
       "netflix_url": "https://www.netflix.com/title/81258580",
       "year": "2022",
@@ -1583,6 +1683,15 @@
       "imdb_id": "tt12874984",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzg2NTYwNmEtYmEyNC00YzY0LWI2OGQtYTg3ZDUzNzIxNjlmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Two police trainees witness the kidnapping of a girl one night on their way home. Unable to get help from the local police and determined to rescue the girl, they set out on their own amateur investigation."
+    },
+    {
+      "title": "Bartkowiak",
+      "netflix_url": "https://www.netflix.com/title/81265968",
+      "year": "2021",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt14315566",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ1YzYxYTktMGFiNi00YjdjLWI2ODAtNjI2MmI0YjllMGVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After his brother dies in a car crash, a disgraced MMA fighter takes over the family nightclub and soon learns his sibling's death wasn't an accident."
     },
     {
       "title": "Fullmetal Alchemist The Revenge of Scar",
@@ -1696,7 +1805,8 @@
       "netflix_url": "https://www.netflix.com/title/81313229",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "A Choo",
@@ -1940,6 +2050,15 @@
       "Plot": "Matvey, the fastest courier on the frozen canals of 19th century St. Peteresburg is recruited by a group of pickpockets working the winter markets and falls for high-ranking official's daughter, Alisa."
     },
     {
+      "title": "New Gods: Nezha Reborn",
+      "netflix_url": "https://www.netflix.com/title/81418302",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt13269670",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmEwMTUxNjctNWE3NC00NDY4LThkZDQtNTk4MmJlYjdjZDMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A normal young deliveryman Li Yunxiang, though coming from the slum area, is living a satisfying life but when the arrogant wealthy son of Boss beats him down, his deep anger turns into a blast of Truth Fire."
+    },
+    {
       "title": "Happiness for Beginners",
       "netflix_url": "https://www.netflix.com/title/81418617",
       "year": "2023",
@@ -1965,6 +2084,15 @@
       "imdb_id": "tt3758814",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDNiMjM2NTYtOGI4MC00YjZkLWE2ZjAtZjcyNDg5ZDNmYWVjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "After a remote diamond mine collapses in far northern Canada, a 'big-rig' ice road driver must lead an impossible rescue mission over a frozen lake to save the trapped miners."
+    },
+    {
+      "title": "Major Grom: Plague Doctor",
+      "netflix_url": "https://www.netflix.com/title/81438809",
+      "year": "2021",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt7601480",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI4ZmI4NzAtN2ZiMC00YWQwLTg3NjItYzJlNDYzNGNmNmI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Supercop Grom fights crime in St. Petersburg - an uphill battle. A vigilante starts killing the powerful, who escaped justice."
     },
     {
       "title": "Mobile Suit Gundam Hathaway",
@@ -2157,6 +2285,15 @@
       "Plot": "Nina, a secretive ex-NATO Special Operations agent, must use all her lethal skills to save her son who has been kidnapped by ruthless gangsters. Finding Max is a double chance for her. A chance for a new sense of adrenaline and th..."
     },
     {
+      "title": "Sixty Minutes",
+      "netflix_url": "https://www.netflix.com/title/81486233",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt29538571",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGI0MjI4MjUtOGY4OS00MGRmLWI1N2ItMzU4ZDM0ZWM4ZTI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Desperate not to lose custody, a mixed martial arts fighter makes dangerous enemies when he ditches a matchup to race to his daughter's birthday party."
+    },
+    {
       "title": "The Takeover",
       "netflix_url": "https://www.netflix.com/title/81488967",
       "year": "2022",
@@ -2183,6 +2320,15 @@
       "Plot": "Two robbers steal an ambulance after their heist goes awry."
     },
     {
+      "title": "Minnal Murali",
+      "netflix_url": "https://www.netflix.com/title/81497215",
+      "year": "2021",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt7268738",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWY0ZGJiNWYtNTUwMC00YjE4LTg2ODYtMDVjYTEyNTNjMjRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown needs."
+    },
+    {
       "title": "Lesson Plan",
       "netflix_url": "https://www.netflix.com/title/81498377",
       "year": "2022",
@@ -2190,6 +2336,15 @@
       "imdb_id": "tt23343786",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDE2NmVjZjMtZWZmYi00YjczLTkwYTMtZTEyN2JkMzFmYmMzXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "After a teacher tragically dies, his friend, who happens to be a former cop, takes over his old job in hopes of catching the people responsible for his murder."
+    },
+    {
+      "title": "Freestyle",
+      "netflix_url": "https://www.netflix.com/title/81498379",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28366647",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWE2ZGRkZmEtNjE4MS00NjAyLWEyMjUtNzc5YzBkNzYwNTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In need of cash for time in the recording studio, a rising rap star with a criminal past sets up a risky drug deal that could cost him everything."
     },
     {
       "title": "The Northman",
@@ -2235,6 +2390,15 @@
       "imdb_id": "tt14465706",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGIzY2RhMDQtMGZiMi00N2I3LTlmYWItNWIxMzA3M2ExNTZlXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "After the death of Charras, Lino and Julia took over and form the new narcotic unit. Determined to find the murderers of his brother and his mentor, Lino continues his hunt and won't let anyone get in his way."
+    },
+    {
+      "title": "Maha Samudram",
+      "netflix_url": "https://www.netflix.com/title/81509785",
+      "year": "2021",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt13131798",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg5YTI4ZTQtZWVhOC00Y2Q5LWExNTctMGY4ZmIyYmY2MzViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in Visakhapatnam, the story is about four lives and their roller-coaster romantic ride."
     },
     {
       "title": "Race to the Summit",
@@ -2441,7 +2605,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Transformers: Rise of the Beasts",
@@ -2484,7 +2649,8 @@
       "netflix_url": "https://www.netflix.com/title/81623070",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Inside Furioza",
@@ -2551,6 +2717,15 @@
       "Plot": "Based on the true events that revolve around the lives of mine workers in the Kolar Gold Fields, Karnataka."
     },
     {
+      "title": "Buffoon",
+      "netflix_url": "https://www.netflix.com/title/81632917",
+      "year": "2022",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt14391226",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk3MDQyNmUtYWM4MC00ZGZkLWIwMGItNTY2NzgxMDUxZjYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rangarajan, a powerful casteist politician confronts the party leader for MLA seat and if denied warns to start a separate party. How far will he go to see it happen?"
+    },
+    {
       "title": "Mission Majnu",
       "netflix_url": "https://www.netflix.com/title/81633804",
       "year": "2023",
@@ -2564,7 +2739,8 @@
       "netflix_url": "https://www.netflix.com/title/81639319",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Revolver Rita",
@@ -2574,6 +2750,24 @@
       "imdb_id": "tt26319590",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjY4OTUzMTUtYWYzZC00YTYzLWFmODEtNWRlZThjOGI3YmY2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "N/A"
+    },
+    {
+      "title": "Pattathu Arasan",
+      "netflix_url": "https://www.netflix.com/title/81644286",
+      "year": "2022",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt15354928",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzlmY2EtYzkyYi00NzgzLTg5YzMtZWUwM2VjZmM2NmYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Poththaari is a former kabaddi player. He has two wives. The family lives together happily. Even though one has many heirs with one of his wives and just one with the other, the properties should be split equally as per the law."
+    },
+    {
+      "title": "Stealing Raden Saleh",
+      "netflix_url": "https://www.netflix.com/title/81647967",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt13484872",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDY0ZTZkNTctYzc3My00YjU0LWExZGQtY2UyZmY1ZjI4M2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To save his father, a master forger sets out to steal an invaluable painting with the help of a motley crew of specialists."
     },
     {
       "title": "The Wages of Fear",
@@ -2675,6 +2869,15 @@
       "imdb_id": "tt16366836",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Eddie Brock and Venom must make a devastating decision as they're pursued by a mysterious military man and alien monsters from Venom's home world."
+    },
+    {
+      "title": "Jagun Jagun",
+      "netflix_url": "https://www.netflix.com/title/81681240",
+      "year": "2023",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt28546464",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY0ODU1NjktM2MxZi00MzE5LWE2ZjktNGEzNWMzMDJmYjk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man determined to become a mighty warrior joins an elite army, encountering the wrath of a maniacal warlord and the love of a woman."
     },
     {
       "title": "Savi",
@@ -2802,6 +3005,23 @@
       "Plot": "A daring robber, striving for survival and establishing his own territory amid conflicts with powerful adversaries, battling to become a 'king without a kingdom'."
     },
     {
+      "title": "Gangs of Godavari",
+      "netflix_url": "https://www.netflix.com/title/81715677",
+      "year": "2024",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt27349461",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWRiYjkwYWMtYjYzMy00YzhlLThkN2ItZjllZWQ2Y2I5ZGU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A morally-corrupt man seeks to rise within the gritty world of politics and power - but his ambition could ultimately cost him his life."
+    },
+    {
+      "title": "Ramabanam",
+      "netflix_url": "https://www.netflix.com/title/81719492",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Badland Hunters",
       "netflix_url": "https://www.netflix.com/title/81721676",
       "year": "2024",
@@ -2817,7 +3037,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Dhak Dhak",
@@ -2864,6 +3085,15 @@
       "Plot": "Conny, a divorced salesman, gets wrongfully imprisoned for murder. There, he meets criminals who mistake him for a pilot like his ex-wife's new boyfriend. Chaos ensues as he navigates life behind bars while separated from his daug..."
     },
     {
+      "title": "Amaran",
+      "netflix_url": "https://www.netflix.com/title/81728596",
+      "year": "2024",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt27118357",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTAzMGQ2MGItMjk5OC00YWIwLThmMjUtYmNjMTIxNzVlZWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The life of Major Mukund Varadarajan and is set against the backdrop of the Qazipathri Operation in Shopian, Kashmir, which took place back in 2014."
+    },
+    {
       "title": "Devara",
       "netflix_url": "https://www.netflix.com/title/81728598",
       "year": "2024",
@@ -2880,6 +3110,14 @@
       "imdb_id": "tt26733317",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmJhMTc5NDEtN2NkOC00Njc3LWJiMzgtZjhjZWNhZDhmZTE0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "When Ankur is wrongfully imprisoned and sentenced to death in a foreign country, his steely sister Satya is driven by a lethal resolve to break him free."
+    },
+    {
+      "title": "Pretty Guardian Sailor Moon Cosmos The Movie",
+      "netflix_url": "https://www.netflix.com/title/81732000",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Ziam",
@@ -2907,6 +3145,15 @@
       "imdb_id": "tt35669044",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWU5YzkzNTAtODdkYy00N2JhLTgxNjUtMjU2ZjQzZjEwZjZjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Two outlaws whose relationship is put to the test by a detective set on tracking down a infamous gang of robbers in 1980s Bangkok."
+    },
+    {
+      "title": "Indian 2",
+      "netflix_url": "https://www.netflix.com/title/81742609",
+      "year": "2024",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt8066940",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDY5NGU4YTYtOWVhMS00YTJjLWI0YWMtZjYyMWZkN2MxZmU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Senapathy, an ex-freedom fighter turned vigilante who fights against corruption. Senapathy returns to the country to aid a young man who has been exposing corrupt politicians in the country through videos on the internet."
     },
     {
       "title": "The Wrath of Becky",
@@ -3042,6 +3289,15 @@
       "Plot": "A young man fights to overcome violence plaguing his village and succeed as a professional kabaddi player."
     },
     {
+      "title": "Thandel",
+      "netflix_url": "https://www.netflix.com/title/81784087",
+      "year": "2025",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt27907811",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmEwZjRmMGUtZjJiNi00YWVhLTk5OGUtNWVjYTgwMTZhZmYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An action drama about a fisherman in Srikakulam who gets caught by the Pakistan forces in international waters."
+    },
+    {
       "title": "Aftermath",
       "netflix_url": "https://www.netflix.com/title/81785091",
       "year": "2024",
@@ -3075,7 +3331,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Thug Life",
@@ -3110,7 +3367,17 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Kill 'Em All 2",
+      "netflix_url": "https://www.netflix.com/title/81941016",
+      "year": "2024",
+      "imdb_rating": "4.1",
+      "imdb_id": "tt6549510",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTFjZTg5ZjQtZDgwYy00M2EwLWJiZjItMGMyNzE4YTcyMTIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Phillip comes face to face with a Russian-French terrorist who comes exact vengeance on him for killing his brother."
     },
     {
       "title": "In Youth We Trust",
@@ -3152,7 +3419,8 @@
       "netflix_url": "https://www.netflix.com/title/81949636",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Bleeding Tiger: Resolution",
@@ -3172,6 +3440,15 @@
       "imdb_id": "tt24850708",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGI2NzY0ZTktODZkOC00Yjg1LTkxNTEtYjIzYTUxMzNkZmFkXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In a town named Redemption, reformed gunslinger Keller and mad genius Ben are guided by spiritual leader Jericho towards vindication. While confronting their violent histories, their newfound peace is challenged by violence and re..."
+    },
+    {
+      "title": "Azaad",
+      "netflix_url": "https://www.netflix.com/title/81977810",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt26439870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc0NzA4M2UtNzBlMi00MDU4LWE4MDMtM2NmOTJkOTMyYjdmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Azaad is an upcoming movie set in 1920s India, produced by RSVP and Guy In The Sky Pictures. Directed by Abhishek Kapoor, the film stars Ajay Devgn, Aaman Devgan, Rasha Thadani, Diana Penty, Mohit Malik, and Piyush Mishra. A young..."
     },
     {
       "title": "Sikandar",
@@ -3225,6 +3502,14 @@
       "imdb_id": "tt32915791",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmUxYmFhODUtZGJhZi00MjgwLWJiMWEtOTRlOWRmNTkyMmIwXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Drug Prince Michael and Scorpion are seizing the old fellows' turfs, the gangs families tornado spins three nobodies who are trying to survive. You'll never know who's gonna get bit by reality through the alternation of generations?"
+    },
+    {
+      "title": "Organ Child",
+      "netflix_url": "https://www.netflix.com/title/82050407",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Panji Tengkorak",
@@ -3325,6 +3610,15 @@
       "Plot": "A legendary warrior emerges from humble beginnings to challenge powerful forces threatening his homeland, as ancient prophecies and family bonds shape his journey."
     },
     {
+      "title": "Thammudu",
+      "netflix_url": "https://www.netflix.com/title/83072495",
+      "year": "2025",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt0240084",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc3ZjE4NTctZGY1MS00YTM5LTlhYTUtMTQ4YjBhMzAyYjBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An aimless student is banished from his home by his father. When his brother, a boxing champion, gets injured, the student must step up and take his brother's place."
+    },
+    {
       "title": "The Ride",
       "netflix_url": "https://www.netflix.com/title/83075171",
       "year": "2025",
@@ -3340,7 +3634,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     }
   ]
 }

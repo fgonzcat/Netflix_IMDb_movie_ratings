@@ -90,7 +90,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Bill Burr: I'm Sorry You Feel That Way",
@@ -180,7 +181,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Ali Wong: Baby Cobra",
@@ -288,7 +290,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Jim Gaffigan: Cinco",
@@ -324,7 +327,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Rafał Banaś, Michał Leja Laugh out Loud",
@@ -538,7 +542,8 @@
       "netflix_url": "https://www.netflix.com/title/80162210",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Jerry Before Seinfeld",
@@ -565,7 +570,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Chris Rock: Selective Outrage",
@@ -634,8 +640,10 @@
       "title": "Aditi Mittal: Things They Wouldn't Let Me Say",
       "netflix_url": "https://www.netflix.com/title/80183329",
       "year": "2017",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.5",
+      "imdb_id": "tt7127976",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzUwOWMyM2ItZDMzMS00YTQwLTk5NjYtZWJmZmM3Nzc0MjQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Trailblazing comic Aditi Mittal mixes topical stand-up with frank talk about being single, wearing thongs and the awkwardness of Indian movie ratings."
     },
     {
       "title": "Ryan Hamilton: Happy Face",
@@ -746,6 +754,15 @@
       "Plot": "An Argentine comedian who portrays feminism as a banner speaks about sex, language, abortion and explains why it is okay to let man pay for dinner."
     },
     {
+      "title": "W. Kamau Bell: Private School Negro",
+      "netflix_url": "https://www.netflix.com/title/80200015",
+      "year": "2018",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt8467788",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDBkYTg1OWEtNjUwZC00YzhkLWI5MDUtMjA5Yzk2MzQxMmI0XkEyXkFqcGdeQXVyNzE3MDkxODc@._V1_SX300.jpg",
+      "Plot": "Activist and comedian W. Kamau Bell muses on parenting in the Trump era, \"free speech\" dustups, woke children's TV and his fear of going off the grid."
+    },
+    {
       "title": "Christina P: Mother Inferior",
       "netflix_url": "https://www.netflix.com/title/80205204",
       "year": "2017",
@@ -770,7 +787,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "D.L. Hughley: Contrarian",
@@ -806,7 +824,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "James Acaster: Repertoire",
@@ -941,7 +960,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Anthony Jeselnik: Fire in the Maternity Ward",
@@ -959,7 +979,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Hannah Gadsby: Nanette",
@@ -986,7 +1007,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Katherine Ryan: Glitter Room",
@@ -1067,7 +1089,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Bert Kreischer: The Machine",
@@ -1082,8 +1105,10 @@
       "title": "Adam Devine: Best Time of Our Lives",
       "netflix_url": "https://www.netflix.com/title/80993404",
       "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.9",
+      "imdb_id": "tt10376844",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjBiZDM2NDgtOWZkMS00MjZhLWEyYjctNTM4MDEzZDhlNzM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Frenetic comic Adam Devine talks teen awkwardness, celebrity encounters, his \"Pitch Perfect\" audition and more in a special from his hometown of Omaha."
     },
     {
       "title": "Historical Roasts",
@@ -1396,7 +1421,8 @@
       "netflix_url": "https://www.netflix.com/title/81148672",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Michael Che: Shame the Devil",
@@ -1420,8 +1446,10 @@
       "title": "Michelle Buteau: Welcome to Buteaupia",
       "netflix_url": "https://www.netflix.com/title/81159106",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt12509942",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWI0MzlmMTUtMjVhYy00ZDkzLTg2YmEtNjFmNDcwN2NlZjkyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Letting loose with a goblet of frosé in hand, Michelle Buteau delivers a dynamic hour of comedy that delves into parenthood, cultural difference, and the overlooked value of short men."
     },
     {
       "title": "Lugar de Mulher",
@@ -1469,6 +1497,15 @@
       "Plot": "Comedian Christina P examines the joys and drags of parenting, partnering and more through a no-nonsense Gen-X lens in this special."
     },
     {
+      "title": "Thiago Ventura: POKAS",
+      "netflix_url": "https://www.netflix.com/title/81194682",
+      "year": "2020",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt12547440",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmNmNjVmNjAtY2JmMC00ZmJkLWJlN2QtZTM3OGFjZjhlYmNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Thiago Ventura jokes about living in a poor Brazilian community, talking about social issues and when actions speak more than words."
+    },
+    {
       "title": "Patton Oswalt: I Love Everything",
       "netflix_url": "https://www.netflix.com/title/81206879",
       "year": "2020",
@@ -1485,6 +1522,15 @@
       "imdb_id": "tt20723672",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjNjMzJlZjctODQ1Ny00MDUxLWIzN2MtYjcxMDU3NDk3N2IxXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Bill Burr shares the stage with his favorite comedians."
+    },
+    {
+      "title": "Dave Chappelle: The Closer",
+      "netflix_url": "https://www.netflix.com/title/81228510",
+      "year": "2021",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt15523010",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTAzZTA5MGItZTc5OC00N2VkLWEzODEtNTQ2YjNiNzE0ZWUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As he closes out his slate of comedy specials, Dave takes the stage to try and set the record straight; and get a few things off his chest."
     },
     {
       "title": "Trevor Noah: I Wish You Would",
@@ -1593,6 +1639,14 @@
       "Plot": "Comedian Ronny Chieng shares humorous insights on topics like IVF, online discourse, politics, and generational divides during a sold-out, multi-night show."
     },
     {
+      "title": "London Hughes: To Catch a D*ck",
+      "netflix_url": "https://www.netflix.com/title/81273458",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Ms. Pat: Y'all Wanna Hear Something Crazy?",
       "netflix_url": "https://www.netflix.com/title/81275640",
       "year": "2022",
@@ -1662,91 +1716,104 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #1 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344238",
       "year": "1995",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #2 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344239",
       "year": "1996",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #3 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344240",
       "year": "1997",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #4 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344241",
       "year": "1999",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #5 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344242",
       "year": "2002",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #6 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344243",
       "year": "2003",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #7 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344244",
       "year": "2008",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #8 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344245",
       "year": "2010",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #9 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344246",
       "year": "2011",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #10 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344247",
       "year": "2013",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #11 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344249",
       "year": "2015",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "DEAW #12 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344250",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Schulz Saves America",
@@ -1770,8 +1837,10 @@
       "title": "Haroun",
       "netflix_url": "https://www.netflix.com/title/81410558",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt15517974",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q3MzY4OWEtM2NjZi00ZGZmLWFlZTYtOTI0MzNiY2RiY2JiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A"
     },
     {
       "title": "Locombianos",
@@ -1823,7 +1892,8 @@
       "netflix_url": "https://www.netflix.com/title/81470399",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Taylor Tomlinson: Look At You",
@@ -1920,7 +1990,8 @@
       "netflix_url": "https://www.netflix.com/title/81580505",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Patton Oswalt: We All Scream",
@@ -1938,7 +2009,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Tom Segura: Sledgehammer",
@@ -1974,7 +2046,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "CMXXIV",
@@ -1983,7 +2056,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Mathieu Dufour at Bell Centre",
@@ -2064,7 +2138,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Dave Chappelle: The Dreamer",
@@ -2100,7 +2175,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Katt Williams: Woke Foke",
@@ -2181,7 +2257,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Jo Koy: Live from Brooklyn",
@@ -2208,7 +2285,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Earthquake: Joke Telling Business",
@@ -2361,7 +2439,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Andrew Schulz: LIFE",
@@ -2388,14 +2467,17 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Rachel Bloom: Death, Let Me Do My Special",
       "netflix_url": "https://www.netflix.com/title/81746515",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.7",
+      "imdb_id": "tt33335530",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRlYTk0M2ItYjdmYi00ZTA4LWI0MGEtZGEwOGVmMGUxZThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Comedian and actor Rachel Bloom muses on birth, death, cosmic uncertainty and pungent trees in this whimsical and reflective musical comedy special."
     },
     {
       "title": "Adam Sandler: Love You",
@@ -2405,6 +2487,15 @@
       "imdb_id": "tt33081211",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGYyYmEwOGYtN2E2NS00Mzk5LWExZDctY2Q5NDMxYTM5ZmZiXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Adam Sandler hits the stage for a thrillingly unpredictable comedy special featuring songs, jokes, party-crashing dogs and plenty of love."
+    },
+    {
+      "title": "Langston Kerman: Bad Poetry",
+      "netflix_url": "https://www.netflix.com/title/81757940",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33029417",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ4OWZiZTUtMzBmNi00NjdhLWE1NjYtY2ZlNzA5MDRiOTlhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Comedian Langston Kerman talks parenting a top-tier baby, teaching mean teens and managing his mother-in-law's dating apps in this hilarious special."
     },
     {
       "title": "Kevin Hart: The Kennedy Center Mark Twain Prize for American Humor",
@@ -2458,14 +2549,17 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Joe Rogan: Burn the Boats",
       "netflix_url": "https://www.netflix.com/title/81771853",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.5",
+      "imdb_id": "tt32875161",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWNhYjBmZDMtNmNjNi00N2JhLWE5YmEtODQzYmU4ODJjMjJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Renowned comedian and podcast host Joe Rogan delivers a live stand-up set at the Majestic Theatre in San Antonio, Texas, for his third Netflix special."
     },
     {
       "title": "Marcello Hernández: American Boy",
@@ -2474,7 +2568,17 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Hasan Minhaj: Off With His Head",
+      "netflix_url": "https://www.netflix.com/title/81776083",
+      "year": "2024",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt33323522",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjE2OTU4Y2ItNTc2Yi00NjI4LTk5YjYtZmEzZGQxNmVlMTJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It covers topics like politics, self-improvement, parenting young kids, and aging parents."
     },
     {
       "title": "Tim Dillon: This Is Your Country",
@@ -2549,6 +2653,15 @@
       "Plot": "Comedian Adam Ray transforms into Dr. Phil for the show, featuring celebrity guests, crowd work and hijinks."
     },
     {
+      "title": "Torching 2024: A Roast of the Year",
+      "netflix_url": "https://www.netflix.com/title/81950651",
+      "year": "2024",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt34909701",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDJjNmQ2YzQtYjZlYS00MWJkLWE3ODctMGU0ZmMyZmVhNDEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A roast event celebrating the past year's highlights, featuring comedians Mark Normand, Ms. Pat, Sam Morril, and Tim Dillon, filmed at The Bellwether in Los Angeles on December 17."
+    },
+    {
       "title": "Jim Jefferies: Two Limb Policy",
       "netflix_url": "https://www.netflix.com/title/81969830",
       "year": "2025",
@@ -2564,7 +2677,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Jordan Jensen: Take Me With You",
@@ -2634,7 +2748,8 @@
       "netflix_url": "https://www.netflix.com/title/82014058",
       "year": "2026",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Ricky Gervais: Mortality",
@@ -2661,7 +2776,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Michelle Wolf: The Well",
@@ -2706,7 +2822,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     }
   ]
 }

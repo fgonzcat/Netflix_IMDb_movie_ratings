@@ -84,6 +84,15 @@
       "Plot": "Quirky police detective, in Finland, delves into his memory palace to solve despicable crimes all the while trying to keep his family together. If Sherlock was based in Finland this would be it."
     },
     {
+      "title": "Bhool Bhulaiyaa",
+      "netflix_url": "https://www.netflix.com/title/70082633",
+      "year": "2007",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0995031",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGI1Y2UwNmQtMmE4MS00ZmVhLTg3YzgtYTg3NGUzOTI5NjdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An NRI and his wife decide to stay in his ancestral home, paying no heed to the warnings about ghosts. Soon, inexplicable occurrences cause him to call a psychiatrist to help solve the mystery."
+    },
+    {
       "title": "New York",
       "netflix_url": "https://www.netflix.com/title/70121511",
       "year": "2009",
@@ -135,7 +144,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Iceman",
@@ -154,6 +164,15 @@
       "imdb_id": "tt1496422",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxMzI3OTQ5MF5BMl5BanBnXkFtZTcwMzA0NzcxOA@@._V1_SX300.jpg",
       "Plot": "A reporter returns to his Florida hometown to investigate a case involving a death row inmate."
+    },
+    {
+      "title": "Side Effects",
+      "netflix_url": "https://www.netflix.com/title/70243447",
+      "year": "2013",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt2053463",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MzY0NDAwOF5BMl5BanBnXkFtZTcwMTE1Mzc4OA@@._V1_SX300.jpg",
+      "Plot": "A young woman's world unravels when a drug prescribed by her psychiatrist has unexpected side effects."
     },
     {
       "title": "The Host",
@@ -208,6 +227,15 @@
       "imdb_id": "tt2011159",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzk0OTc3MDM5MF5BMl5BanBnXkFtZTgwOTMzMDMzMjE@._V1_SX300.jpg",
       "Plot": "An unstable escaped convict terrorizes a woman who is alone with her two children."
+    },
+    {
+      "title": "Dark Places",
+      "netflix_url": "https://www.netflix.com/title/80025495",
+      "year": "2015",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt2402101",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTM4ODYzM15BMl5BanBnXkFtZTgwNTY2NDIwNjE@._V1_SX300.jpg",
+      "Plot": "Libby Day was only eight years old when her family was brutally murdered in their rural Kansas farmhouse. Almost thirty years later, she reluctantly agrees to revisit the crime and uncovers the wrenching truths that led up to that..."
     },
     {
       "title": "Detective Byomkesh Bakshy!",
@@ -523,6 +551,15 @@
       "imdb_id": "tt7280898",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWMyMmUwYTktNmNjYS00YzU2LWJmYTQtMzRiZDc3ZGY0Njk0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A three-part story of Norway's worst terrorist attack in which over seventy people were killed. 22 July looks at the disaster itself, the survivors, Norway's political system and the lawyers who worked on this horrific case."
+    },
+    {
+      "title": "Distorted",
+      "netflix_url": "https://www.netflix.com/title/80212745",
+      "year": "2018",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt6143850",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzlkMzdhY2ItOTg5OS00ZWQzLTkyZWItOWI3MWMzZDlhM2JmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A couple moves to an isolated, modern, safe apartment building with CCTV after the wife has problems with nightmares. However, something's not quite right with the building."
     },
     {
       "title": "See You Yesterday",
@@ -1042,7 +1079,8 @@
       "netflix_url": "https://www.netflix.com/title/81151878",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Game Over (Hindi Version)",
@@ -1051,7 +1089,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Article 15",
@@ -1396,6 +1435,14 @@
       "Plot": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door."
     },
     {
+      "title": "Bordertown: Mural Murders",
+      "netflix_url": "https://www.netflix.com/title/81318520",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Haseen Dillruba",
       "netflix_url": "https://www.netflix.com/title/81320770",
       "year": "2021",
@@ -1477,6 +1524,15 @@
       "Plot": "A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman."
     },
     {
+      "title": "Grudge",
+      "netflix_url": "https://www.netflix.com/title/81346326",
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt13717980",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWUyZTZlMDktZGQzMi00YjU3LTkyYmMtOTQ2OTQxODEzYjg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After been in line for a promotion due to his arrest of a gang in Istanbul, the Captain of the Police is set by someone who apparently has a grudge against the him concerning one of his past cases."
+    },
+    {
       "title": "Yara",
       "netflix_url": "https://www.netflix.com/title/81346330",
       "year": "2021",
@@ -1549,6 +1605,15 @@
       "Plot": "A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate."
     },
     {
+      "title": "Collision",
+      "netflix_url": "https://www.netflix.com/title/81393697",
+      "year": "2022",
+      "imdb_rating": "4.2",
+      "imdb_id": "tt10809742",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGM3ZmQ0YTMtMzliMS00ZjljLThjYjEtZGI5MmYwZWI3YTBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Freedom always comes at a price."
+    },
+    {
       "title": "Bird Box Barcelona",
       "netflix_url": "https://www.netflix.com/title/81404810",
       "year": "2023",
@@ -1585,6 +1650,15 @@
       "Plot": "The founder of a corporation developing a futuristic cancer treatment is brutally murdered, and a prosecutor sidelined by the illness asks to lead the case, assisted by his newly pregnant detective wife."
     },
     {
+      "title": "10 Days of a Good Man",
+      "netflix_url": "https://www.netflix.com/title/81426851",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt23334464",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTM0NmNiMjYtNzM5OS00ODIyLTlkZWMtOTJlNWI4M2FkYzJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A lawyer turned private investigator takes on a missing person case, propelling him on an unexpected and life-altering quest."
+    },
+    {
       "title": "10 Days of a Bad Man",
       "netflix_url": "https://www.netflix.com/title/81428003",
       "year": "2023",
@@ -1601,6 +1675,15 @@
       "imdb_id": "tt28713370",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2FkZDhkM2QtOGI5OS00MzkzLTg0ODctM2IzMDZkN2I2ZjQ4XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "When a young woman goes missing in Istanbul, a jaded writer gets tangled up in a deadly chain of events as he sets out to find her and a good story."
+    },
+    {
+      "title": "Boomika",
+      "netflix_url": "https://www.netflix.com/title/81435636",
+      "year": "2021",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt11073148",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE3Y2Y4YWQtYmQxNy00OGRlLTg2MDgtYmM4YzBlZDk4ZjlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Paranormal activity at a lush, abandoned property alarm a group eager to redevelop the site, but the eerie events may not be as unearthly as they think."
     },
     {
       "title": "HIT: The First Case",
@@ -1735,7 +1818,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Reptile",
@@ -1834,14 +1918,16 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Boomika (Telugu)",
       "netflix_url": "https://www.netflix.com/title/81496132",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Girl Who Got Away",
@@ -2039,7 +2125,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Murder at Yellowstone City",
@@ -2066,7 +2153,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Colors of Evil: Red",
@@ -2201,7 +2289,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Run Rabbit Run",
@@ -2249,6 +2338,13 @@
       "Plot": "In an effort to dismantle their military-backed government, four men hijack an airplane, leveraging passengers on board in the name of social change."
     },
     {
+      "title": "Monster",
+      "netflix_url": "https://www.netflix.com/title/81678617",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Do Patti",
       "netflix_url": "https://www.netflix.com/title/81681817",
       "year": "2024",
@@ -2292,6 +2388,15 @@
       "imdb_id": "tt23558084",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzBkMDZiOTYtN2U0Zi00NWU4LWFkMmYtZTUwOGYwZGE2NjdhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "An orphan boy and a pampered rich-kid girl are trying to uncover secrets of the past to save their romance and their skin."
+    },
+    {
+      "title": "Merry Men 3: Nemesis",
+      "netflix_url": "https://www.netflix.com/title/81689059",
+      "year": "2023",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt29482955",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDFhYWMxOWEtN2YzZC00OTgxLWFlOGYtZDEyYjhiNTE5ZTRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a heartbreaking loss, wealthy gentlemen pursue revenge against those they hold accountable."
     },
     {
       "title": "Black Rose",
@@ -2370,7 +2475,17 @@
       "netflix_url": "https://www.netflix.com/title/81713692",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Bone Lake",
+      "netflix_url": "https://www.netflix.com/title/81716210",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt26783625",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzUzODVlYTItMDFlNC00ODM2LTg0ZDYtZjRlZWI2ZGMzMTljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A couple's vacation at a secluded estate is upended when they're forced to share the mansion with a mysterious couple. A dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, triggering a battle for survival."
     },
     {
       "title": "Pulimada",
@@ -2416,6 +2531,15 @@
       "imdb_id": "tt31806049",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGRjZTI5NmEtNWQzNi00ZDUxLWFmZmQtOGFiZmNkZGY1MDc5XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A couple whose apartment building is suddenly surrounded by a mysterious brick wall must work with their neighbors to find a way out."
+    },
+    {
+      "title": "Bhakshak",
+      "netflix_url": "https://www.netflix.com/title/81732726",
+      "year": "2024",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt27936770",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJjODljMDMtZjFiMy00NTM4LThhMjctYWFjYzZkMmMzZTcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Revolves around the journey of an unwavering woman's quest to seek justice and her perseverance in getting a heinous crime to light."
     },
     {
       "title": "Your Lucky Day",
@@ -2737,7 +2861,8 @@
       "netflix_url": "https://www.netflix.com/title/81999621",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Uninvited",
@@ -2891,6 +3016,15 @@
       "imdb_id": "tt33035883",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmJjYWM5ODctOTU4Ny00YmM3LWIzYjYtOWExMjVkNzBjMjZkXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "After a months-long investigation into her daughter's abduction, a mother thinks she's finally found the person responsible. But when the authorities dismiss her, she takes matters into her own hands."
+    },
+    {
+      "title": "Suitcase Killer: The Melanie McGuire Story",
+      "netflix_url": "https://www.netflix.com/title/82147491",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt19813094",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFhOTg1MTgtNzU0MC00MWQ2LWE2ZTMtZTI4ZGYxNjczMDYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dramatization of the romance and marriage of the McGuires, the 2004 murder of Bill, the investigation, and the subsequent trial of Melanie, who who dismembered and disposed of her husband's body in suitcases."
     },
     {
       "title": "Sew Torn",

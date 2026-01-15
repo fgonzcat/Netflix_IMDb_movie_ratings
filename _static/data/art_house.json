@@ -48,6 +48,15 @@
       "Plot": "Two intersecting love triangles. Obsession and betrayal set against the music scene in Austin, Texas."
     },
     {
+      "title": "Kumiko, the Treasure Hunter",
+      "netflix_url": "https://www.netflix.com/title/70299269",
+      "year": "2014",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt3263614",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzNzI1MTkyNzBeQTJeQWpwZ15BbWU4MDQ0NDU0MzQx._V1_SX300.jpg",
+      "Plot": "A jaded Japanese woman discovers a hidden copy of Fargo (1996) on VHS, believing it to be a treasure map indicating the location of a large case of money."
+    },
+    {
       "title": "I Smile Back",
       "netflix_url": "https://www.netflix.com/title/80037584",
       "year": "2015",
@@ -199,7 +208,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Shirkers",
@@ -641,7 +651,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Fan Girl",
@@ -804,7 +815,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Sand Castle",

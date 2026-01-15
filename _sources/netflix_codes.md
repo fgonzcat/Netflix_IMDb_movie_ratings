@@ -2,10 +2,27 @@
 
 You can find **all Netflix categories** listed on this website — or explore them on [Netflix Codes](https://www.netflix-codes.com/) for reference.  
 
-Below is a table of genres with direct links to Netflix, which you can obtain from
+Below is a table of genres with direct links to Netflix, which you can obtain from the `imdb-rating.sh` script provided in this repository via
    ```bash
    ./imdb-rating.sh --categories
    ```
+
+In addition, new categories can be found by exploring the Netflix html code by brute force (no cookies or session needed):
+
+```bash
+for i in `seq 1 10000`
+do
+ listURL="https://www.netflix.com/browse/genre/$i"
+ genre=$(wget --no-check-certificate -q -O - "$listURL" |head | tr '{' '\n'| grep '"@type":"ItemList","name":' | tr ':' '\n'  | tr ',' '\n' | awk '/name/{getline; print}');
+ if [ "$genre" != "" ]; then
+   echo $i $listURL $genre
+ fi
+done  >> codes_one_by_one.txt 
+```
+Using this method, I was able to find new categories not documented in [Netflix Codes](https://www.netflix-codes.com/), such as ["Suspenseful Movies"](https://www.netflix.com/browse/genre/448) (code 448) and ["Psychological Movies"](https://www.netflix.com/browse/genre/1411) (code 1411).
+
+An even more comprehensive list was provided by the user [x43romp](https://gist.github.com/x43romp/2336deec8b533695cd2d#file-netflixcodes-json).
+
 
 ## Action & Adventure
 | Genre | Link |
@@ -115,7 +132,7 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Drama  | https://www.netflix.com/browse/genre/5763 |
 | Biographical Dramas  | https://www.netflix.com/browse/genre/3179 |
 | Classic Dramas  | https://www.netflix.com/browse/genre/29809 |
-| Courtroom Dramas  | https://www.netflix.com/browse/genre/528582748 |
+| Courtroom Dramas  | https://www.netflix.com/browse/genre/2748 |
 | Crime Dramas  | https://www.netflix.com/browse/genre/6889 |
 | Dramas Based on Books  | https://www.netflix.com/browse/genre/4961 |
 | Dramas Based on Real Life  | https://www.netflix.com/browse/genre/3653 |

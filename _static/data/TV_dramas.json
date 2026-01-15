@@ -57,6 +57,15 @@
       "Plot": "Follows a team of Naval Criminal Investigative Service (NCIS) agents who Investigate crimes related to the military and national security on the Hawaiian islands."
     },
     {
+      "title": "Veronica Mars",
+      "netflix_url": "https://www.netflix.com/title/70142391",
+      "year": "2006",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt1722640",
+      "Poster": "N/A",
+      "Plot": "Veronica Mars creator Rob Thomas talks about creating Veronica Mars & how the idea came to him."
+    },
+    {
       "title": "Wildfire",
       "netflix_url": "https://www.netflix.com/title/70142433",
       "year": "2008",
@@ -225,7 +234,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Suits",
@@ -325,6 +335,15 @@
       "imdb_id": "tt1983079",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzMjAwNzc1MzVeQTJeQWpwZ15BbWU4MDQzODgzMjEx._V1_SX300.jpg",
       "Plot": "Chronicles the lives of a group of midwives living in East London in the late 1950s to early 1970s."
+    },
+    {
+      "title": "Black Mirror",
+      "netflix_url": "https://www.netflix.com/title/70264888",
+      "year": "2025",
+      "imdb_rating": "8.7",
+      "imdb_id": "tt2085059",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Featuring stand-alone dramas -- sharp, suspenseful, satirical tales that explore techno-paranoia -- \"Black Mirror\" is a contemporary reworking of \"The Twilight Zone\" with stories that tap into the collective unease about the moder..."
     },
     {
       "title": "Vientos de agua",
@@ -507,6 +526,15 @@
       "Plot": null
     },
     {
+      "title": "El Cartel",
+      "netflix_url": "https://www.netflix.com/title/80025923",
+      "year": "2008",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt1260520",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTAwNTc4NjUxMV5BMl5BanBnXkFtZTgwNjc3MDAxMjE@._V1_SX300.jpg",
+      "Plot": "Two good friends join the underground world of drug trafficking to make quick money and improve their lifestyles."
+    },
+    {
       "title": "Love",
       "netflix_url": "https://www.netflix.com/title/80026506",
       "year": "2018",
@@ -559,6 +587,15 @@
       "imdb_id": "tt3141190",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGM2NDQ2YzgtMWU0My00Zjk4LTg2NTAtOWY1ZTlmNTUwZjE1XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A sharp female lawyer with no filter teams up with a public defender and a high-school student with special gifts to bring down a killer with a personal vendetta."
+    },
+    {
+      "title": "Grantchester",
+      "netflix_url": "https://www.netflix.com/title/80043578",
+      "year": "2019",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt3747572",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0NjNmZGUtOTRhOC00NTgxLTg5OGItNDk1NTQ2YmM5Y2QzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Cambridgeshire clergyman finds himself investigating a series of mysterious wrongdoings in his small village of Grantchester."
     },
     {
       "title": "A Series of Unfortunate Events",
@@ -615,6 +652,15 @@
       "Plot": "The first lady of Mexico is a woman of conviction and ideals. But when she loses faith in her husband, she'll need all her strength to uncover the truth."
     },
     {
+      "title": "Fear the Walking Dead",
+      "netflix_url": "https://www.netflix.com/title/80067616",
+      "year": "2023",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt3743822",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU2YmNiOTktMjE4Ny00NmFhLWIxZTYtOWY0ZWQ4MWM3YjdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Walking Dead spinoff set in Los Angeles, California. Follows two families who must band together to survive the undead apocalypse."
+    },
+    {
       "title": "Poldark",
       "netflix_url": "https://www.netflix.com/title/80070050",
       "year": "2019",
@@ -667,6 +713,15 @@
       "imdb_id": "tt7197684",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWYyZDNmMzQtZTUyZi00YzkxLWI4MzctOGIwODU5YzQ4ODlmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In 2008, a fight over land in a seaside town near Rome spirals into a deadly battle between organized crime, corrupt politicians and the Vatican."
+    },
+    {
+      "title": "Rebellion",
+      "netflix_url": "https://www.netflix.com/title/80094273",
+      "year": "2016",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt4699982",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGNkNDc3MmItZTlkZS00ZjE0LWJmZTgtMGM2OWRhOTJjZDNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rebellion is a five part serial drama about the birth of modern Ireland. The story is told from the perspectives of a group of fictional characters who live through the political events of the 1916 Easter Rising."
     },
     {
       "title": "Greenhouse Academy",
@@ -831,6 +886,15 @@
       "Plot": "Cast members open up about the show."
     },
     {
+      "title": "Seven Seconds",
+      "netflix_url": "https://www.netflix.com/title/80117555",
+      "year": "2018",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt6297682",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDdhNzA2NzktNTUxMS00Yzc5LWFlMDktMjk1ZjQxOWJkZmJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tensions run high between black citizens and white cops in Jersey City when a black teenage boy is critically injured by a cop."
+    },
+    {
       "title": "Messiah",
       "netflix_url": "https://www.netflix.com/title/80117557",
       "year": "2020",
@@ -903,6 +967,15 @@
       "Plot": "A teenager is charged with lying about being raped, but two detectives follow the path to the truth."
     },
     {
+      "title": "StartUp",
+      "netflix_url": "https://www.netflix.com/title/80154285",
+      "year": "2018",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32560880",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjUzYzZjYWYtODJjZi00ODM3LTkxZTktNDJlNGFjMWM3ZjYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A startup company takes part in an incentive program to help integrate the Cryptid community."
+    },
+    {
       "title": "The Rain",
       "netflix_url": "https://www.netflix.com/title/80154610",
       "year": "2020",
@@ -936,7 +1009,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Troy: Fall of a City",
@@ -955,6 +1029,15 @@
       "imdb_id": "tt6257970",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTVkZTI3MmMtMDY1Yi00NjJhLTgyYTctNWE1OTJkNmZiZjdlXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father."
+    },
+    {
+      "title": "The Sinner",
+      "netflix_url": "https://www.netflix.com/title/80175802",
+      "year": "2021",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt6048596",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTRkNGZlMjUtZGVhZi00YjgzLTgwZmMtMGVlZTc4OGUzODk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Detective Ambrose employs some unusual tactics, and a deep capacity for empathy to solve his cases. His boundless dedication is driven by his dark past, leading him into powerful and often dangerously intimate bonds with his suspe..."
     },
     {
       "title": "Warrior",
@@ -1047,6 +1130,15 @@
       "Plot": "When teenagers, Harry and June, run away from their repressive families to be together, they're derailed by an extraordinary discovery--June's ability to shape-shift. A scientist tries to capture her and discover the key to her po..."
     },
     {
+      "title": "Collateral",
+      "netflix_url": "https://www.netflix.com/title/80185171",
+      "year": "2018",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt6729080",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2MDg2Njk3MV5BMl5BanBnXkFtZTgwMTE4MTY4NDM@._V1_SX300.jpg",
+      "Plot": "Investigating the murder of a pizza delivery man, a London detective uncovers a tangled conspiracy involving drug dealers, smugglers and spies."
+    },
+    {
       "title": "Reply 1988",
       "netflix_url": "https://www.netflix.com/title/80188351",
       "year": "2015",
@@ -1107,7 +1199,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The A List",
@@ -1162,6 +1255,15 @@
       "imdb_id": "tt8210856",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjkzMzI1NTItNTcxMi00YTQ0LTk3ZDAtYWQ4ZGYzNDc4OTgxXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A teenage sorceress named Nimue encounters a young Arthur on her quest to find a powerful and ancient sword."
+    },
+    {
+      "title": "When They See Us",
+      "netflix_url": "https://www.netflix.com/title/80200549",
+      "year": "2019",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt7137906",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGU0MDIzZTAtYjBjZi00ZDQ1LThlYzctNWJkOWU4NTI5OWNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Five teens from Harlem become trapped in a nightmare when they're falsely accused of a brutal attack in Central Park. Based on the true story."
     },
     {
       "title": "Elite",
@@ -1225,6 +1327,15 @@
       "imdb_id": "tt7423538",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTU2YjcwNzQtMzE0Ni00M2MwLThhZDgtMjZlNjcxYzBlN2FhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In 1947, Mildred Ratched begins working as a nurse at a leading psychiatric hospital. But beneath her stylish exterior lurks a growing darkness."
+    },
+    {
+      "title": "Puerta 7",
+      "netflix_url": "https://www.netflix.com/title/80214339",
+      "year": "2020",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt9170386",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGZlMmVmNzAtY2JiYS00YTgzLWFiZWYtZTYxNjdkYzg1MWU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An unflinching exploration of Argentina's infamous soccer \"barra bravas,\" bare torso-ed soccer fans feared by the public and even police responsible for fatalities at soccer matches."
     },
     {
       "title": "A Korean Odyssey",
@@ -1333,6 +1444,15 @@
       "imdb_id": "tt7949200",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjlmNTM5YzQtMTdiMi00ZTc0LTgzZGUtMTdiNzNmZTZmOTQ1XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A look at the life and career of the Latin music superstar, Nicky Jam."
+    },
+    {
+      "title": "Brotherhood",
+      "netflix_url": "https://www.netflix.com/title/80221210",
+      "year": "2022",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt19704920",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ4OGU4ZWEtZWNhNC00ZWE3LWE2YmYtNGJlYzQ3Yzc3MGEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After years of fighting to survive on the streets of Lagos, two brothers fall on opposite sides of the law. The bonds of brotherhood are put to the ultimate test as one joins a Taskforce that hunts down the other and his gang."
     },
     {
       "title": "October Faction",
@@ -1524,6 +1644,15 @@
       "Plot": "Set in Victorian London, the series follows a gang of troubled street teens who are manipulated into solving crimes for the sinister Doctor Watson and his mysterious business partner, the elusive Sherlock Holmes."
     },
     {
+      "title": "Dirty John",
+      "netflix_url": "https://www.netflix.com/title/80241855",
+      "year": "2020",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt7945720",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQzYWU4NDEtYTlhZi00M2E0LWFiYTQtNjg3ZTU4NGZjODlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Anthology series in which each season is based on a true crime story featuring an epic tale of love gone wrong."
+    },
+    {
       "title": "Girl from Nowhere",
       "netflix_url": "https://www.netflix.com/title/80241947",
       "year": "2021",
@@ -1531,6 +1660,15 @@
       "imdb_id": "tt8351032",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzc2M2JiNjgtMWIxZC00NzAxLWJmYTQtNzQwMmY5ZjcwYzNhXkEyXkFqcGdeQXVyNTUxNTA3NDU@._V1_SX300.jpg",
       "Plot": "Annie, a young vampire recently returned from the dead, comes to visit her childhood love and discovers that her newfound blood lust might be greater than the love she's carried for him through all their years apart."
+    },
+    {
+      "title": "Behind Her Eyes",
+      "netflix_url": "https://www.netflix.com/title/80244630",
+      "year": "2021",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt9698442",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTYzZjMzMTctNWZjYy00MGYxLWEzZTAtOTc5ZTcxNDAzNGUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows Louise, a single mum with a son and a part-time job in a psychiatrist's office. She begins an affair with her boss and strikes up an unlikely friendship with his wife."
     },
     {
       "title": "The English Game",
@@ -1663,7 +1801,8 @@
       "netflix_url": "https://www.netflix.com/title/80998965",
       "year": "2015",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Yong Pal",
@@ -1826,6 +1965,15 @@
       "imdb_id": "tt9184986",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjAwODM2NmEtMjZjMS00Mzc3LWE2ZTktNjRkZmY3NGVkNDhjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Torn between the mighty empire that raised him and his own tribal people, a Roman officer's conflicted allegiances lead to an epic historical clash."
+    },
+    {
+      "title": "3 Body Problem",
+      "netflix_url": "https://www.netflix.com/title/81024821",
+      "year": "2024",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt13016388",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdkYWZiZWYtMzA0Yi00NzNlLThkODktY2Q3N2NjN2ExZmMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fateful decision made in 1960s China reverberates in the present, where a group of scientists partner with a detective to confront an existential planetary threat."
     },
     {
       "title": "The Inmate",
@@ -1999,6 +2147,15 @@
       "Plot": "Charlie, a high-strung, openly gay overthinker, and Nick, a cheerful, soft-hearted rugby player, one day are made to sit together in class. Their friendship becomes something more for Charlie, but he does not believe he has a chance."
     },
     {
+      "title": "Sweet Home",
+      "netflix_url": "https://www.netflix.com/title/81061734",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34925873",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjljOGNlMjUtMTBiNy00YTNiLWFhNzUtN2NkODk3YjZlZjAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Iginio Massari and the APEI masters teach the art of Italian sweetness."
+    },
+    {
       "title": "Roswell, New Mexico",
       "netflix_url": "https://www.netflix.com/title/81062075",
       "year": "2022",
@@ -2024,6 +2181,33 @@
       "imdb_id": "tt10405394",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWM3YWMxNzgtZWU4Yi00MDI3LTk5N2QtNmYxYmM0Mjg0NjJmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "When the National Assembly suffers a catastrophic attack, Minister of Environment Park Mu Jin must find a way to lead Korea through the ensuing chaos."
+    },
+    {
+      "title": "The Barrier",
+      "netflix_url": "https://www.netflix.com/title/81073507",
+      "year": "2020",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt9460858",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTBhY2VjODQtMTU2OC00ZTJjLWJkMjctNzNjZGY1MWMzMTNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2045, Spain like the rest of the western world has been driven into a dictatorial regime by the lack of natural resources. Life in the countryside is impossible, and in the city a fence divides peoples into the powerful, and th..."
+    },
+    {
+      "title": "The Billion Dollar Code",
+      "netflix_url": "https://www.netflix.com/title/81074012",
+      "year": "2021",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt15392100",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzVmYWFkNDQtMWI1MC00ZWQyLTkzNzktZWQ0MTZkZTZhMTE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1990s Berlin, an artist and a hacker invented a new way to see the world. Years later, they reunite to sue Google for patent infringement on it."
+    },
+    {
+      "title": "In the Dark",
+      "netflix_url": "https://www.netflix.com/title/81078217",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt11687216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzcwZGM0MzUtMDc0YS00NjhlLThhMjMtMGU3MGRkNWZhMTM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A documentary exploring fears and experiences in the indie horror community."
     },
     {
       "title": "All the Light We Cannot See",
@@ -2107,6 +2291,15 @@
       "Plot": "At a hospice for terminally ill young adults, eight patients come together every night at midnight to tell each other stories - and make a pact that the next of them to die will give the group a sign from the beyond."
     },
     {
+      "title": "Lockwood & Co.",
+      "netflix_url": "https://www.netflix.com/title/81116060",
+      "year": "2023",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt13802576",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI1ODdjY2UtYzdkOC00Y2NjLWE2NzYtZjlmYWFkMGE1MDBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Lucy, a girl with psychic abilities, joins two boys, Anthony and George, at the ghost-hunting agency Lockwood and Co. to fight the deadly spirits plaguing London, doing their best to save the day without any adult supervision."
+    },
+    {
       "title": "Rookie Historian Goo Hae-Ryung",
       "netflix_url": "https://www.netflix.com/title/81116487",
       "year": "2019",
@@ -2125,6 +2318,15 @@
       "Plot": "In Cali during the '60s and '70s, two brothers juggle family, romance and the joint pursuit of a burning ambition: to rule Colombia's drug industry."
     },
     {
+      "title": "Snabba Cash",
+      "netflix_url": "https://www.netflix.com/title/81128450",
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt10540276",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzNhZmY1NWItMzg2Ny00ODJhLWE5YjYtODZlODc4N2I0M2JjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The entrepreneurial jet set and the criminal world are more brutal, chaotic, and ruthless than ever. When these two worlds collide, loyalty, friendships, and business partners will be tested in the never-ending quest for easy money."
+    },
+    {
       "title": "Katla",
       "netflix_url": "https://www.netflix.com/title/81133094",
       "year": "2021",
@@ -2141,6 +2343,15 @@
       "imdb_id": "tt15837600",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzdlNGU1MmItZDFhMi00YzQ1LTkyMDMtNWI4MDM5MDE3ZDg1XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Fleeing from Medellín to Miami, Griselda Blanco creates one of the most ruthless cartels in history."
+    },
+    {
+      "title": "Mo",
+      "netflix_url": "https://www.netflix.com/title/81134264",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32408442",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDFlNTJjYzMtYzBhNS00Y2U2LTk2N2YtMTc2MGZjMmFmY2JmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two women hurt by the same man form an alliance to catch their womanizer boyfriend in the act. But their unexpected bond leads to an unlikely romance between them."
     },
     {
       "title": "All For Love",
@@ -2195,6 +2406,15 @@
       "imdb_id": "tt1751634",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjk0M2ZhZTQtZjQ0NC00ODA2LWFkN2ItMTA0ZTc0MjJjODg0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment."
+    },
+    {
+      "title": "The Brave Ones",
+      "netflix_url": "https://www.netflix.com/title/81151771",
+      "year": "2022",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt21432090",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjM0ZTc5M2QtZTRiNi00NWRmLTg2NjMtZjUyZGY3MThkN2VlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An all-mighty goddess reincarnated as a young woman must harness her divine powers to avenge her sister's death and protect her family from destruction."
     },
     {
       "title": "Anatomy of a Scandal",
@@ -2494,6 +2714,15 @@
       "Plot": "An extraordinary road to emotional healing opens up for an selfish antisocial children's-book writer and a selfless psych-ward caretaker when they cross paths."
     },
     {
+      "title": "Hi Bye, Mama!",
+      "netflix_url": "https://www.netflix.com/title/81243996",
+      "year": "2020",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt11804034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ2NTQ5ZWItZWRhZi00NGIwLTk1MjUtYmU1ZGM3OTFkY2FjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It's the story of a mother who died and begins a 49-day long project of reincarnation and a husband who has barely begun to live a new life after overcoming the pain of losing his wife."
+    },
+    {
       "title": "One Day",
       "netflix_url": "https://www.netflix.com/title/81256740",
       "year": "2024",
@@ -2509,7 +2738,17 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Missing You",
+      "netflix_url": "https://www.netflix.com/title/81258639",
+      "year": "2025",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt31019484",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzBiMzBjYTQtYjkyNy00NjhhLTlkNmItN2JiZTk3MmE1MjY5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Detective Kat Donovan's world unravels when she finds her estranged fiancé on a dating app. Leading her to reopen her father's unsolved murder."
     },
     {
       "title": "The Marked Heart",
@@ -2548,6 +2787,33 @@
       "Plot": "More than a thousand years before the events of \"The Witcher,\" seven outcasts in an Elven world join forces in a quest against an all-powerful empire."
     },
     {
+      "title": "CAT",
+      "netflix_url": "https://www.netflix.com/title/81281063",
+      "year": "2022",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt22297578",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2I0NzNlYWUtNjQzMy00ZmQ4LTk2ZTItOTE5ZmNlZmU2YjBiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A former police informant is forced to become an informant again to save the life of his brother, which forces him to come to terms with his dark past."
+    },
+    {
+      "title": "Far From Home",
+      "netflix_url": "https://www.netflix.com/title/81282563",
+      "year": "2022",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt23747008",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjY2OGJlZTUtZjJjNi00YzA1LWIxZGYtNzRhMTVhYzk3NTgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A financially struggling teen finds himself in the world of luxury after a prestigious scholarship sends him to an exclusive school for the one percent."
+    },
+    {
+      "title": "Justice Served",
+      "netflix_url": "https://www.netflix.com/title/81287440",
+      "year": "2022",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt21195532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzUxNjlmZWYtMGM5Yy00OTM0LWI5YjUtZmE5MjVjNDhmZmZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A band of freedom fighters invade the trial of a white police officer who shot a Black man and a hostage situation unfolds on screens nationwide."
+    },
+    {
       "title": "DAHMER",
       "netflix_url": "https://www.netflix.com/title/81287562",
       "year": "2022",
@@ -2557,6 +2823,15 @@
       "Plot": "Serial killer Jeffrey Dahmer confesses to his gruesome crimes in unguarded interviews, offering an unsettling view into a disturbed mind."
     },
     {
+      "title": "Bangkok Breaking",
+      "netflix_url": "https://www.netflix.com/title/81287826",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt14202282",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjdkODlhMTgtNGEzNi00YjdiLTk4ZjEtNjc4MjdkYTllYTExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Newly arrived in Bangkok, Wanchai joins the road rescue service and unravels a city-wide conspiracy with the help of a journalist."
+    },
+    {
       "title": "The Diplomat",
       "netflix_url": "https://www.netflix.com/title/81288983",
       "year": "2025",
@@ -2564,6 +2839,15 @@
       "imdb_id": "tt26229612",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjNhODY5OWEtZjMxNy00NzFhLWIzOTQtZTNmYjUwOGRiMzYwXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "An Indian diplomat who tries to repatriate an Indian girl from Pakistan, where she was presumably forced and deceived into marrying against her will."
+    },
+    {
+      "title": "Stay Close",
+      "netflix_url": "https://www.netflix.com/title/81289581",
+      "year": "2021",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt2201227",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWI1NTIwN2UtY2VmYS00NzM5LWFhOTQtODM3MWI1MWU4ZGFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The lives of a photojournalist, a soccer mom and a homicide detective are disturbed by a terrible event from the past."
     },
     {
       "title": "Record of Youth",
@@ -2627,6 +2911,15 @@
       "imdb_id": "tt15553922",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTY0MmUzMTQtNTdmZS00NDE4LWE2ODMtMGJhNzM3NDE5YmZhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A prickly judge who despises juvenile criminals arrives at a juvenile court, where she takes on a complex role examining punishment for young offenders."
+    },
+    {
+      "title": "Agatha Christie's Seven Dials",
+      "netflix_url": "https://www.netflix.com/title/81314952",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31974288",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjkzY2VmODgtNzYyYi00ODQyLWE3YjItODFjM2Q4MGVhYjI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1925, a country house party prank turns deadly. Lady Eileen \"Bundle\" Brent investigates the chilling murder plot. Lady Caterham and Superintendent Battle assist in solving the country house mystery that changes Bundle's life."
     },
     {
       "title": "Supacell",
@@ -2719,6 +3012,15 @@
       "Plot": "In a refreshing take on the genre, \"Doctor John\" will portray the doctors' search for the cause of their patients' mysterious pain as a thrilling chase, almost like a detective hunting down the perpetrator behind an unsolved crime."
     },
     {
+      "title": "A Model Family",
+      "netflix_url": "https://www.netflix.com/title/81349413",
+      "year": "2022",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt21289712",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDYyMWJhNDItODQ1My00YTczLTgzMzEtZjA3MDdjYjZlNDhhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After unwittingly stealing money from a cartel, a cash-strapped professor finds the only way to save his broken family is by working as a drug courier."
+    },
+    {
       "title": "The Cook of Castamar",
       "netflix_url": "https://www.netflix.com/title/81354529",
       "year": "2021",
@@ -2750,7 +3052,8 @@
       "netflix_url": "https://www.netflix.com/title/81362748",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Vincenzo",
@@ -2762,6 +3065,15 @@
       "Plot": "During a visit to his motherland, a Korean-Italian Mafia lawyer gives an unrivaled conglomerate a taste of its own medicine with a side of justice."
     },
     {
+      "title": "Toxic Town",
+      "netflix_url": "https://www.netflix.com/title/81372304",
+      "year": "2025",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt28631067",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTZiYWIxZDktYzJlMS00NzQzLWJhZjQtYTJkMTRiODZjNjQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When dozens of babies in Corby are born with disabilities, their mothers embark on a battle to hold those responsible to account."
+    },
+    {
       "title": "Another Self",
       "netflix_url": "https://www.netflix.com/title/81380432",
       "year": "2024",
@@ -2769,6 +3081,15 @@
       "imdb_id": "tt14899624",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ3MGViMjEtNmJhMS00NDczLTkxMTMtY2U2ODFhZjI5NDQxXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Three close friends set off on a journey to Ayvalik and then to their reshaped future."
+    },
+    {
+      "title": "Brigands: The Quest for Gold",
+      "netflix_url": "https://www.netflix.com/title/81383127",
+      "year": "2024",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt15441086",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjJkYWI5MGUtMTRlZC00NWRlLTk0ZGYtOThiZWZiOWQ4MmM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In mid-19th-century southern Italy, a woman forced to go on the run transforms from dutiful wife to the ruthless leader of a group of bandits."
     },
     {
       "title": "The Leopard",
@@ -2814,6 +3135,15 @@
       "imdb_id": "tt32375039",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDM1ZjIwOTgtZWI2Ni00ZTcwLWE2YjQtOGI4OWEyNzc4OWI2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In San Francisco, a nurse switches two newborns. Years later, when the truth is revealed, the now-wealthy man loses everything while the other gains status. This ignites a bitter rivalry, affecting relationships and sparking new r..."
+    },
+    {
+      "title": "Copenhagen Cowboy",
+      "netflix_url": "https://www.netflix.com/title/81402987",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt26452836",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWY4MjIwY2UtNDBlMy00MWQwLTk5YjktMjIzYWE2MGVkYjMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this neon drenched behind the scenes documentary the Copenhagen Cowboy show creator Nicolas Winding Refn and his team detail how they brought the stoic heroine and dark fairy tale version of Copenhagen's netherworld to life."
     },
     {
       "title": "Do You Like Brahms?",
@@ -2948,7 +3278,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "My Life With the Walter Boys",
@@ -3030,6 +3361,15 @@
       "imdb_id": "tt36456619",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzY3ZTQyMzItZmJkYS00MjlmLWI0MmQtY2FmOGI2YjgzM2E1XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "The stars and creators of Yellowjackets (2021) gather to discuss the making of season two at the Dolby Theatre in Hollywood."
+    },
+    {
+      "title": "Death by Lightning",
+      "netflix_url": "https://www.netflix.com/title/81438325",
+      "year": "2025",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt31121364",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGM3ZGYzMTUtNGJjMS00Y2FkLWEwOTktNThlZDVhNTgyMDVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dramatizes the stranger-than-fiction true story of 20th U.S. President James Garfield, and admirer Charles Guiteau, who assassinated him."
     },
     {
       "title": "Criminal Code",
@@ -3149,6 +3489,15 @@
       "Plot": "Betrothed against her will to King George, young Charlotte arrives in London on her wedding day and faces scrutiny from the monarch's cunning mother."
     },
     {
+      "title": "Dabba Cartel",
+      "netflix_url": "https://www.netflix.com/title/81476853",
+      "year": "2025",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt15340954",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjUzMDI2MGUtNDU2MS00YTQ5LTkzYjctOGE2OWVhMDQ2ODU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In VivaLife Society, men and women lead parallel lives - one caught in a pharma investigation, the other in drug peddling through a dabba delivery business."
+    },
+    {
       "title": "Champion",
       "netflix_url": "https://www.netflix.com/title/81478663",
       "year": "2024",
@@ -3164,7 +3513,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "From Me to You: Kimi ni Todoke",
@@ -3183,6 +3533,15 @@
       "imdb_id": "tt16280546",
       "Poster": "N/A",
       "Plot": "When a corrupt force of wealth and power covets the lands of a group of diverse and atypical families and tries to drive them out, they must pursue their Manifest Destiny."
+    },
+    {
+      "title": "Chastity High",
+      "netflix_url": "https://www.netflix.com/title/81486321",
+      "year": "2024",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt32740307",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYThlNjE5ZWUtNzU1ZS00OTQ5LWI0MTYtMjdmNDgxNjRhMGM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The consequences of forbidden love as a mysterious social media account begins exposing scandalous secrets. Students fight to expose one another as they rebel against the school and its overbearing rules."
     },
     {
       "title": "Doom at Your Service",
@@ -3374,6 +3733,15 @@
       "Plot": "Liana, a woman who dreams of becoming a mother, ends up having her path crossed by events of high dramatic force, which affect her marriage with Tomás."
     },
     {
+      "title": "Ferry: The Series",
+      "netflix_url": "https://www.netflix.com/title/81579442",
+      "year": "2023",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt28466970",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ1NDg2ZjAtNzYzZi00NmYwLWE0MDgtYmUwZjM2M2IwNmM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Before \"Undercover's\" Ferry Bouman became a notorious drug lord, he had to rise from obscurity by ascending the ranks of Brabant's criminal underbelly."
+    },
+    {
       "title": "The Trunk",
       "netflix_url": "https://www.netflix.com/title/81582447",
       "year": "2024",
@@ -3531,7 +3899,8 @@
       "netflix_url": "https://www.netflix.com/title/81618666",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Poong, the Joseon Psychiatrist",
@@ -3577,6 +3946,15 @@
       "imdb_id": "tt23055142",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjNkZDQzYTItZDgzNi00ZDU4LWI2NWItYjA0ZDdlMjgyMWI2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "When the owner of a New York City hotspot allows his turbulent brother back in his life, he opens the door to escalating dangers that threaten to bring down everything he's built."
+    },
+    {
+      "title": "Shanty Town",
+      "netflix_url": "https://www.netflix.com/title/81630495",
+      "year": "2023",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt22099034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTIxZDc3MjktZjIwZi00ZTdjLThlNDgtZWJkZTczNDc5MDMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of courtesans attempts to escape the grasp of a notorious kingpin- but political corruption and blood ties make freedom a near - impossible goal."
     },
     {
       "title": "The Longest Promise",
@@ -3657,7 +4035,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "I Will Be Your Bloom",
@@ -3676,6 +4055,24 @@
       "imdb_id": "tt31220187",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWYxNGY3MGQtNTBkYi00YWUxLWE3YzQtMTNmYzFkZTU3ZjM1XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In Baja California, an elite six-member unit searches for and captures American fugitives fleeing U.S. law on warrants from Marshals, bringing to justice criminals from scammers to kidnappers and murderers who cross the border."
+    },
+    {
+      "title": "Gangs of Oslo",
+      "netflix_url": "https://www.netflix.com/title/81653643",
+      "year": "2023",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt24364150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc5MWU0MGYtNDQyOC00NjljLTgyYWUtOWI2YzJjYTQ4YTllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Policeman Moaz Ibrahim is forced into living a dangerous double life with the criminal gang Enemiez as an attempt to keep his shady past hidden from the outside world."
+    },
+    {
+      "title": "Amsterdam Empire",
+      "netflix_url": "https://www.netflix.com/title/81654735",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31835154",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjAyNjFhYjUtOTQyYS00OWM4LTk3NTEtOWZjMDc1Nzc3MTM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Amsterdam Empire is an extravagant crime drama full of glamour and grime at the heart of the Amsterdam cannabis scene."
     },
     {
       "title": "The Accident",
@@ -3750,6 +4147,15 @@
       "Plot": "Ban Ji-eun can remember all her past lives. When her previous life is cut short by a tragic accident, she sets out to reunite with a man named Moon Seo-ha whom she met in her 18th life."
     },
     {
+      "title": "Agency",
+      "netflix_url": "https://www.netflix.com/title/81672245",
+      "year": "2023",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt26253514",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODI5NmQyYjUtMDE1ZC00Yzk3LTllYTAtY2U5MzkyNzhkN2UwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows a woman who became the first female executive in her group to make her way to the highest position."
+    },
+    {
       "title": "Found",
       "netflix_url": "https://www.netflix.com/title/81674523",
       "year": "2024",
@@ -3775,6 +4181,15 @@
       "imdb_id": "tt26471411",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTBhZTcwNWUtOTZjMi00ZjI2LWEzMzMtNWJkMWQ2ZDA0NTU3XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs, proving love endures across time."
+    },
+    {
+      "title": "Hound's Hill",
+      "netflix_url": "https://www.netflix.com/title/81681574",
+      "year": "2025",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt34476674",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDRhNDEwZTQtZDk0MC00YTg1LWE2MzAtNDNkYTVkYjg1MjdmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Famous writer Mikolaj returns to hometown facing blackmail over a book about a past murder. His activist father opposes local corruption. Mikolaj's journalist wife investigates, uncovering dark secrets tied to the town's tragic hi..."
     },
     {
       "title": "Doctor Cha",
@@ -3829,6 +4244,15 @@
       "imdb_id": "tt32213331",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTE3Mjc2YzItYjU0Yi00MWE2LWIxNDEtYzViMjg5OWM3MTkwXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Its not an easy time in the suburbs of London, as Josiah and his friends deal with the difficulties and emotions of everyday life."
+    },
+    {
+      "title": "In the Mud",
+      "netflix_url": "https://www.netflix.com/title/81689277",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt16359962",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDUyMGU2NzYtM2U5ZS00ZTE1LTk0MjgtZjY5NjFhYmVhZTE4XkEyXkFqcGdeQXVyNzEwMzUxMzU@._V1_SX300.jpg",
+      "Plot": "N/A"
     },
     {
       "title": "Trigger",
@@ -3918,7 +4342,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Defying Destiny",
@@ -3934,14 +4359,24 @@
       "netflix_url": "https://www.netflix.com/title/81710015",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "The Railway Men - The Untold Story Of Bhopal 1984",
+      "netflix_url": "https://www.netflix.com/title/81711003",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Rulers of Fortune",
       "netflix_url": "https://www.netflix.com/title/81711042",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Walking Dead: Dead City",
@@ -4133,11 +4568,21 @@
       "Plot": "A bold, self-made mogul faces of with an old-money diplomat. Can love find its way amidst a power struggle, where wealth and wit collide?"
     },
     {
+      "title": "To Love, To Lose",
+      "netflix_url": "https://www.netflix.com/title/81767762",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15585344",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODVlMjBjOGUtYjkxMi00OTBlLTg1MTAtODI0MzUwNjlmOTAzXkEyXkFqcGdeQXVyODM0MzM4OTg@._V1_SX300.jpg",
+      "Plot": "A surreal comedy set in NYC. Michael has just moved to the city and has to traverse the world of love and work while juggling all the surreal encounters he makes along the way."
+    },
+    {
       "title": "Black Forceps",
       "netflix_url": "https://www.netflix.com/title/81779950",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Kisarazu Cat's Eye",
@@ -4164,7 +4609,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "As You Stood By",
@@ -4198,7 +4644,8 @@
       "netflix_url": "https://www.netflix.com/title/81901151",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Princess Royal",
@@ -4232,7 +4679,8 @@
       "netflix_url": "https://www.netflix.com/title/81922658",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Beautiful Life",
@@ -4304,7 +4752,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Story of Pearl Girl",
@@ -4314,6 +4763,15 @@
       "imdb_id": "tt29362951",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWIwYTBhYTctNmUzZi00OWI4LTk1MmQtMDFiYmViYjhkYTczXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In Tang Dynasty, a girl escapes in pearl field during Dragon Boat Festival. To learn her past, she joins merchant Yan Zi Jing. She befriends Yue Yun Xiu and gains jewelry guidance from Yan Zi Jing but caught in a trap and nearly k..."
+    },
+    {
+      "title": "Kill Me Love Me",
+      "netflix_url": "https://www.netflix.com/title/81954820",
+      "year": "2024",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt32679129",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjUzZGEyYWEtZDc0Mi00ZTNmLTkyNDctZDhjMjRlNjlmMTY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Seeking revenge for her family's death, assassin Mei Lin is secretly trained by Prince Murong Jing He, the very man behind her suffering. Disguised as a bride, she awaits her chance to strike him down."
     },
     {
       "title": "The First Frost",
@@ -4331,7 +4789,17 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Black Warrant",
+      "netflix_url": "https://www.netflix.com/title/81971071",
+      "year": "2025",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt35064818",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQyOGM2ZWMtM2ZlNS00MTA3LWI0ZTctOWIwNmVhNWVlMDU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A newly appointed jailer at Tihar Prison confronts widespread corruption and injustice within its walls, forcing him to choose between maintaining the status quo or fighting for reform."
     },
     {
       "title": "Tastefully Yours",
@@ -4437,7 +4905,8 @@
       "netflix_url": "https://www.netflix.com/title/82072592",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "A Thousand Tomorrows",
@@ -4491,7 +4960,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Hataraki Man",
@@ -4539,11 +5009,21 @@
       "Plot": "Teacher Jake Epping gets a chance to travel back in time to stop the murder of John F. Kennedy. However, history's aversion to alteration, and his love for the era and a woman, endanger him."
     },
     {
+      "title": "The Staircase",
+      "netflix_url": "https://www.netflix.com/title/82166981",
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt11324406",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDA5MjYzNmQtMzYwMS00YTk0LTk1ZWItMDRjZjJlZDZjYWJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tells the story of Michael Peterson, a crime novelist accused of killing his wife Kathleen after she is found dead at the bottom of a staircase in their home, and the 16-year judicial battle that followed."
+    },
+    {
       "title": "Idol I",
       "netflix_url": "https://www.netflix.com/title/82634530",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Silent Truth",
@@ -4553,6 +5033,14 @@
       "imdb_id": "tt2266649",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2NzcwMzg1MV5BMl5BanBnXkFtZTgwOTMxNTQ2ODE@._V1_SX300.jpg",
       "Plot": "A fourteen year old boy who is gay is struggling with self-acceptance, reconciling who he is with his belief in God, and grappling with the decision of whether or not he should come out to his family."
+    },
+    {
+      "title": "Playing Adult: Pernikahan Dini Gen Z",
+      "netflix_url": "https://www.netflix.com/title/82663244",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     }
   ]
 }

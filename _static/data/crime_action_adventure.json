@@ -622,7 +622,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Lovebirds",
@@ -919,7 +920,8 @@
       "netflix_url": "https://www.netflix.com/title/81508718",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Kuttey",
@@ -1093,6 +1095,15 @@
       "Plot": "A dive into Paris's criminal underworld, where Lyna meets the enigmatic and brutal Furie, the boss of this hazardous environment."
     },
     {
+      "title": "The Ghost",
+      "netflix_url": "https://www.netflix.com/title/81614454",
+      "year": "2022",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt15309632",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTI1YjNhZGMtYjg0MC00YTU5LTkyMjctNGQwMGViNzYyOTljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family."
+    },
+    {
       "title": "Inkabi",
       "netflix_url": "https://www.netflix.com/title/81616776",
       "year": "2024",
@@ -1201,7 +1212,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Hard Days",
@@ -1274,7 +1286,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Jack",
