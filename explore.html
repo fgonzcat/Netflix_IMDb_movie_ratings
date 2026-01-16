@@ -437,10 +437,12 @@ document.write(`
 <h1>Explore Netflix Titles<a class="headerlink" href="#explore-netflix-titles" title="Permalink to this heading">#</a></h1>
 <p>Choose your criteria and explore the full catalog.</p>
 <style>
+  /* Labels inside flex container don't need inline-block */
   #controls label {
-    display: inline-block;
-    margin-right: 1em;
+    margin: 0; /* remove redundant margin; flex gap handles spacing */
   }
+
+  /* Movie cards */
   .card {
     border: 1px solid #ccc;
     padding: 0.5em;
@@ -450,6 +452,7 @@ document.write(`
     width: 200px;
     text-align: center;
   }
+
   .card img {
     width: 100%;
     height: auto;

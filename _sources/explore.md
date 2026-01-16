@@ -2,11 +2,14 @@
 
 Choose your criteria and explore the full catalog.
 
+
 <style>
+  /* Labels inside flex container don't need inline-block */
   #controls label {
-    display: inline-block;
-    margin-right: 1em;
+    margin: 0; /* remove redundant margin; flex gap handles spacing */
   }
+
+  /* Movie cards */
   .card {
     border: 1px solid #ccc;
     padding: 0.5em;
@@ -16,12 +19,12 @@ Choose your criteria and explore the full catalog.
     width: 200px;
     text-align: center;
   }
+
   .card img {
     width: 100%;
     height: auto;
   }
 </style>
-
 
 <div id="controls" style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
   <label>Genre:
@@ -42,6 +45,7 @@ Choose your criteria and explore the full catalog.
 </div>
 
 <div id="results" style="margin-top:1rem;"></div>
+
 
 
 <script>
