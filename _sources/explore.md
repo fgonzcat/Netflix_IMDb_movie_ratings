@@ -4,9 +4,19 @@ Choose your criteria and explore the full catalog.
 
 
 <style>
-  /* Labels inside flex container don't need inline-block */
+  /* Controls container */
+  #controls {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    align-items: center; /* vertically center the flex items */
+  }
+
+  /* Each label is a flex container so text + input/select align nicely */
   #controls label {
-    margin: 0; /* remove redundant margin; flex gap handles spacing */
+    display: flex;
+    flex-direction: column; /* or row if you prefer inline label+input */
+    justify-content: center; /* vertical center if row */
   }
 
   /* Movie cards */
@@ -26,20 +36,24 @@ Choose your criteria and explore the full catalog.
   }
 </style>
 
-<div id="controls" style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
-  <label>Genre:
+<div id="controls">
+  <label>
+    Genre:
     <select id="genre"></select>
   </label>
 
-  <label>Min IMDb rating:
+  <label>
+    Min IMDb rating:
     <input id="rating" type="number" step="0.1" value="7" style="width:4em;">
   </label>
 
-  <label>Year from:
+  <label>
+    Year from:
     <input id="yearFrom" type="number" value="2000" style="width:4em;">
   </label>
 
-  <label>Year to:
+  <label>
+    Year to:
     <input id="yearTo" type="number" value="2025" style="width:4em;">
   </label>
 </div>
