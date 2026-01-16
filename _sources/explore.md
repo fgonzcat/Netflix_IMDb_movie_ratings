@@ -77,24 +77,37 @@ async function init() {
     const r = parseFloat(document.getElementById('rating').value);
     const y0 = parseInt(document.getElementById('yearFrom').value);
     const y1 = parseInt(document.getElementById('yearTo').value);
-
-    const filtered = movies.filter(m =>
+  
+    // Step 1: Filter movies by selected criteria
+    let filtered = movies.filter(m =>
       (!g || m.genre === g) &&
-        m.imdb_rating && parseFloat(m.imdb_rating) >= r &&
+      m.imdb_rating && parseFloat(m.imdb_rating) >= r &&
       parseInt(m.year) >= y0 &&
       parseInt(m.year) <= y1
     );
-
+  
+    // Step 2: Deduplicate only if "All" is selected
+    if (!g) {
+      const seen = new Set();
+      filtered = filtered.filter(m => {
+        if (seen.has(m.netflix_url)) return false;
+        seen.add(m.netflix_url);
+        return true;
+      });
+    }
+  
+    // Step 3: Render cards
     document.getElementById('results').innerHTML =
       filtered.map(m => `
         <div class="card">
-         <a href="${m.netflix_url}" target="_blank" rel="noopener noreferrer">
-          <img src="${m.Poster}" alt="${m.title}" />
+          <a href="${m.netflix_url}" target="_blank" rel="noopener noreferrer">
+            <img src="${m.Poster}" alt="${m.title}" />
           </a>
-        <b>${m.title}</b> (${m.year}) – ${m.imdb_rating}
+          <b>${m.title}</b> (${m.year}) – ${m.imdb_rating}
         </div>
       `).join('');
   }
+
 
   document.querySelectorAll('#controls input, #controls select')
     .forEach(e => e.addEventListener('input', render));
