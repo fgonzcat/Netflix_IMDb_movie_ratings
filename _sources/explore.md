@@ -122,7 +122,7 @@ async function init() {
       m.imdb_rating && parseFloat(m.imdb_rating) >= r &&
       // year filter
       parseInt(m.year) >= y0 &&
-      parseInt(m.year) <= y1
+      parseInt(m.year) <= y1 &&
       // actor filter (null-safe)
       (!a || (m.Actors && m.Actors.split(',').map(x => x.trim()).includes(a))) &&
       // country filter (null-safe)
