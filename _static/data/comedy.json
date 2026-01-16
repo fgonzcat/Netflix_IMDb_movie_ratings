@@ -207,7 +207,8 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt2235370",
       "Poster": "N/A",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "SkipTitle": true
     },
     {
       "title": "Cheaper by the Dozen",
@@ -388,6 +389,13 @@
       "Plot": "Ricky, Julian, and Bubbles come up with a scheme to steal large amounts of untraceable coins."
     },
     {
+      "title": "Aaja Nachle",
+      "netflix_url": "https://www.netflix.com/title/70077538",
+      "year": "2007",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Om Shanti Om",
       "netflix_url": "https://www.netflix.com/title/70083535",
       "year": "2007",
@@ -548,6 +556,13 @@
       "imdb_id": "tt1436562",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2MDY3MzAzMl5BMl5BanBnXkFtZTcwMTg0NjM5NA@@._V1_SX300.jpg",
       "Plot": "When Blu, a domesticated macaw from small-town Minnesota, meets the fiercely independent Jewel, he takes off on an adventure to Rio de Janeiro with the bird of his dreams."
+    },
+    {
+      "title": "Badmaash Company",
+      "netflix_url": "https://www.netflix.com/title/70139286",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Just Go With It",
@@ -727,6 +742,13 @@
       "imdb_id": "tt2357291",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTgzMDczMDYzNl5BMl5BanBnXkFtZTgwMzk2MDIwMTE@._V1_SX300.jpg",
       "Plot": "It's a jungle out there for Blu, Jewel, and their three kids after they're hurtled from Rio de Janeiro to the wilds of the Amazon. As Blu tries to fit in, he goes beak-to-beak with the vengeful Nigel and meets his father-in-law."
+    },
+    {
+      "title": "Miss Granny",
+      "netflix_url": "https://www.netflix.com/title/70299544",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Sex Tape",
@@ -1203,6 +1225,13 @@
       "imdb_id": "tt7256866",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjE4NjE2MV5BMl5BanBnXkFtZTgwOTc1NjE4NTM@._V1_SX300.jpg",
       "Plot": "Before he leaves for NYC, college valedictorian Ben visits his trailer-park loser dad, then argues with Larry about whose dad can kick the other dad's ass. Loser dad hears of this and tries to beat up doormat dad. Chaos follows."
+    },
+    {
+      "title": "Trolls Holiday Special",
+      "netflix_url": "https://www.netflix.com/title/80185876",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Nappily Ever After",
@@ -1683,6 +1712,13 @@
       "Plot": "Two years after Cole survived a satanic blood cult, he's living another nightmare: high school. And the demons from his past? Still making his life hell."
     },
     {
+      "title": "5 Star Christmas",
+      "netflix_url": "https://www.netflix.com/title/81016408",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Perfect Date",
       "netflix_url": "https://www.netflix.com/title/81019888",
       "year": "2019",
@@ -1852,6 +1888,13 @@
       "imdb_id": "tt12823454",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjRiMjBkNGMtYTRkMi00MWRiLWE3OTUtZjljZTQ0NTBjOTE1XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Two long-distance best friends change each other's lives when she decides to pursue a lifelong dream and he volunteers to keep an eye on her teenage son."
+    },
+    {
+      "title": "Bankrolled",
+      "netflix_url": "https://www.netflix.com/title/81046147",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Sounds Like Love",
@@ -2668,6 +2711,13 @@
       "Plot": "Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her to question her commitment to her fiancé."
     },
     {
+      "title": "Dasvi",
+      "netflix_url": "https://www.netflix.com/title/81332225",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Private Lesson",
       "netflix_url": "https://www.netflix.com/title/81334950",
       "year": "2022",
@@ -3414,6 +3464,13 @@
       "imdb_id": "tt15206378",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTU4ZDc0OTAtYTMyOS00NDNiLTlkMWUtODE2OWYyZTdiYTE0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "7 women find themselves dealing with a mystery killing. Who's the killer and what are the motives of the murder?"
+    },
+    {
+      "title": "Licorice Pizza",
+      "netflix_url": "https://www.netflix.com/title/81514106",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "An Action Hero",
@@ -4515,6 +4572,13 @@
       "Plot": "N/A"
     },
     {
+      "title": "Fantasy Football Ruined Our Lives",
+      "netflix_url": "https://www.netflix.com/title/81923633",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Jingle Bell Heist",
       "netflix_url": "https://www.netflix.com/title/81928353",
       "year": "2025",
@@ -4720,6 +4784,13 @@
       "imdb_id": "tt35295730",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2U4MDg0NTItOTI3MS00ZDdlLTkyNmEtN2JjMzliZGU2ZmEyXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Faced with financial difficulties, Sari agrees to be a blind date stand-in for Yasmin, her best friend unaware that her date turns out to be none other than Utama, the owner of the company where Sari works, whom she dislikes."
+    },
+    {
+      "title": "Aaha Kalyanam (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/82062377",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "A Lot Like Christmas",

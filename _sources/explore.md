@@ -56,6 +56,17 @@ Choose your criteria and explore the full catalog.
     Year to:
     <input id="yearTo" type="number" value="2025" style="width:4em;">
   </label>
+
+  <label>
+    Actor:
+    <select id="actor"></select>
+  </label>
+  
+  <label>
+    Country:
+    <select id="country"></select>
+  </label>
+
 </div>
 
 <div id="results" style="margin-top:1rem;"></div>
@@ -68,22 +79,54 @@ async function init() {
   const movies = await res.json();
 
   const genreSel = document.getElementById('genre');
+  const actorSel = document.getElementById('actor');
+  const countrySel = document.getElementById('country');
+
+  // Populate Genre options
   const genres = [...new Set(movies.map(m => m.genre))].sort();
   genreSel.innerHTML = `<option value="">All</option>` +
     genres.map(g => `<option value="${g}">${g}</option>`).join('');
+
+  // Populate Actor options (flatten multiple actors in comma-separated list)
+  const actors = [...new Set(
+    movies
+      .filter(m => m.Actors)           // ignore null/undefined
+      .flatMap(m => m.Actors.split(',').map(a => a.trim()))
+  )].sort();
+  actorSel.innerHTML = `<option value="">All</option>` +
+    actors.map(a => `<option value="${a}">${a}</option>`).join('');
+
+  // Populate Country options
+  const countries = [...new Set(
+    movies
+      .filter(m => m.Country)
+      .map(m => m.Country.trim())
+  )].sort();
+  countrySel.innerHTML = `<option value="">All</option>` +
+    countries.map(c => `<option value="${c}">${c}</option>`).join('');
+
 
   function render() {
     const g = genreSel.value;
     const r = parseFloat(document.getElementById('rating').value);
     const y0 = parseInt(document.getElementById('yearFrom').value);
     const y1 = parseInt(document.getElementById('yearTo').value);
+    const a = actorSel.value;
+    const c = countrySel.value;
+
   
     // Step 1: Filter movies by selected criteria
     let filtered = movies.filter(m =>
       (!g || m.genre === g) &&
+      // IMDb rating filter
       m.imdb_rating && parseFloat(m.imdb_rating) >= r &&
+      // year filter
       parseInt(m.year) >= y0 &&
       parseInt(m.year) <= y1
+      // actor filter (null-safe)
+      (!a || (m.Actors && m.Actors.split(',').map(x => x.trim()).includes(a))) &&
+      // country filter (null-safe)
+      (!c || (m.Country && m.Country.includes(c)))
     );
   
     // Step 2: Deduplicate only if "All" is selected
