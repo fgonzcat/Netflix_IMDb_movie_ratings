@@ -3,6 +3,9 @@
 #############################
 #  This code basically runs
 #  ./scripts/update-genre i for each i in genre
+#
+#  There will probably hundreds of calls to OMDb so be careful.
+# ./scripts/update-genre has an emergency exit route when you exceed the limit that makes this script stop.
 ############################
 
 INTERACTIVE=0

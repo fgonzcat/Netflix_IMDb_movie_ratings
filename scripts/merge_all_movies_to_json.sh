@@ -69,9 +69,18 @@ for f in "${all_genres[@]}"
 do
   case "$(basename "$f")" in    all_movies.json|best.json) continue ;;   esac
 
+  #genre_url=$(jq -r '.genre_url' "$f")
+  #genre_name=$(  wget -q -O - "$genre_url" |     tr '{' '\n' |     grep '"@type":"ItemList","name":' |    sed -E 's/.*"name":"([^"]+)".*/\1/'   )
+
+  # For a given JSON file $f
+  base=$(basename "$f" .json)       # e.g., "cult"
+  md_file="$REPO_ROOT/website_jupyter_book/$base.md"
   genre_url=$(jq -r '.genre_url' "$f")
-  genre_name=$(  wget -q -O - "$genre_url" |     tr '{' '\n' |     grep '"@type":"ItemList","name":' |    sed -E 's/.*"name":"([^"]+)".*/\1/'   )
-  if [[ "$genre_name" == *"Essential Horror"* ]]; then  genre_name="Horror"; fi
+  genre_name=$(head -n1 "$md_file" | sed -E 's/^# *//')
+
+
+
+  #if [[ "$genre_name" == *"Essential Horror"* ]]; then  genre_name="Horror"; fi
   jq --arg genre "$genre_name" '.movies[] + {genre: $genre}' "$f" 
 done  | jq -s .   >  ${REPO_ROOT}/website_jupyter_book/_static/data/all_movies.json 
 
