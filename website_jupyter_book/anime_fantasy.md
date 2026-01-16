@@ -105,6 +105,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/11146" target="_bla
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*SWORDGAI The Animation*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80175350" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*DRAGON PILOT: Hisone & Masotan*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80241960" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*The Seven Deadly Sins the Movie: Prisoners of the Sky*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81006261" target="_blank">Netflix_link</a> |
+| N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Violet Evergarden: Special*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt9359564/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81010662" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*BASTARD‼ -Heavy Metal, Dark Fantasy-*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81281582" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Jujutsu Kaisen 0: The Movie*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81602834" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMGY1YjkyNTUtNmQxMS00NGI2LTllZjEtNmZhYzhjYjdlYTRkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Qi Refining for 3000 Years*</strong></summary>  <div class="movie-plot">Bai Qiuran is one of Qingming's disciples, and has a lot of potential to be his successor. Even though he's still a Qi cultivator, he believes he will finally make his breakthrough this time. As such, Bai Qiuran decides to go down...</div> </details> | <a href="https://www.imdb.com/title/tt33361731/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81648397" target="_blank">Netflix_link</a> |
@@ -115,6 +116,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/11146" target="_bla
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZTQ1NGFiNjctM2JlZC00Njc5LThkZTQtNDVjMDVmZjg4MjAxXkEyXkFqcGdeQXVyMTEwMDc4OTU@._V1_SX300.jpg" class="zoom-img" width="120"> | 2014 | <details> <summary><strong style="color:#1f6feb;">*Anpanman: Apple Boy And Everyone's Hope*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt15041652/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81719818" target="_blank">Netflix_link</a> |
 | N/A |  | 2016 | <details> <summary><strong style="color:#1f6feb;">*Anpanman: Nanda and Runda from Star of Toys*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81719826" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Pretty Guardian Sailor Moon Cosmos The Movie*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81732000" target="_blank">Netflix_link</a> |
+| N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Babanba Banban Vampire*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81949674" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -153,6 +155,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/11146" target="_bla
 
  
 ---
-*Page last updated on: 2026-01-15*
+*Page last updated on: 2026-01-16*
 
  

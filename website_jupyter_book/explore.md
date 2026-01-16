@@ -151,8 +151,16 @@ async function init() {
       (!a || (m.Actors && m.Actors.split(',').map(x => x.trim()).includes(a))) &&
       // country filter (null-safe)
       (!c || (m.Country && m.Country.includes(c))) &&
-      // language filter (null-safe)
-      (!lang || (m.Language && m.Language === lang))
+     // language filter (null-safe, token-based)
+     (!lang ||
+       (m.Language &&
+        m.Language
+          .split(',')
+          .map(l => l.trim())
+          .includes(lang)
+       )
+)
+
     );
   
     // Step 2: Deduplicate only if "All" is selected
