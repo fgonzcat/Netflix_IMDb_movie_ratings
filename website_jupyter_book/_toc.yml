@@ -15,6 +15,10 @@ parts:
     chapters:
       - file: best 
 
+  - caption: Explore
+    chapters:
+      - file: explore 
+
   - caption: Movie Categories on Netflix
     chapters:
       - file: anime
@@ -61,7 +65,7 @@ parts:
       - file: scifi 
       - file: spanish_movies_and_TV_shows 
       - file: standup_comedy 
-      - file: suspenful
+      - file: suspenseful
       - file: thrillers
 
 
