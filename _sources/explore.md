@@ -24,22 +24,24 @@ Choose your criteria and explore the full catalog.
 
 
 <div id="controls" style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
-  <label style="display:flex; align-items:center;">Genre:
+  <label>Genre:
     <select id="genre"></select>
   </label>
 
-  <label style="display:flex; align-items:center;">Min IMDb rating:
+  <label>Min IMDb rating:
     <input id="rating" type="number" step="0.1" value="7" style="width:4em;">
   </label>
 
-  <label style="display:flex; align-items:center;">Year from:
+  <label>Year from:
     <input id="yearFrom" type="number" value="2000" style="width:4em;">
   </label>
 
-  <label style="display:flex; align-items:center;">Year to:
+  <label>Year to:
     <input id="yearTo" type="number" value="2025" style="width:4em;">
   </label>
 </div>
+
+<div id="results" style="margin-top:1rem;"></div>
 
 
 <script>
