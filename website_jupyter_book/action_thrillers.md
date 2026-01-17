@@ -177,6 +177,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/43048" target="_bla
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Inside Furioza*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81623506" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Leo (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81639319" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*GodFather (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81648072" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Kantara (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81656709" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Thunivu (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81672761" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Den of Thieves 2: Pantera*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81677440" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMjJhZTE5NjMtMzU4Ni00MjFhLTk5ZGEtMGIyNjRkYzMxOTk5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Kingdom*</strong></summary>  <div class="movie-plot">KINGDOM is a short documentary about the drag kings of London: their performances, their community and their history.</div> </details> | <a href="https://www.imdb.com/title/tt37162821/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81678097" target="_blank">Netflix_link</a> |
@@ -226,6 +227,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/43048" target="_bla
 
  
 ---
-*Page last updated on: 2026-01-16*
+*Page last updated on: 2026-01-17*
 
  

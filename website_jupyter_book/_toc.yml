@@ -64,7 +64,9 @@ parts:
       - file: romantic_comedies
       - file: scifi 
         sections:
-          - file: scifi_fantasy
+          - file: scifi_action
+          - file: scifi_alien
+          - file: scifi_fantasy 
       - file: spanish_movies_and_TV_shows 
       - file: standup_comedy 
       - file: suspenseful
