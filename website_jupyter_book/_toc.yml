@@ -40,7 +40,10 @@ parts:
       - file: art_house 
       - file: classics 
       - file: comedy 
-      - file: crime_action_adventure
+      - file: crime
+        sections:
+          - file: crime_action_adventure
+          - file: true_crime 
       - file: cult
       - file: documentaries 
         sections:

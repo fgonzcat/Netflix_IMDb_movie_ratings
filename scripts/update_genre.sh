@@ -351,6 +351,8 @@ while IFS=$'\t' read -r title year url; do
     Language=$(echo "$json" | jq -r '.Language // empty')
     Country=$(echo "$json" | jq -r '.Country // empty')
     omdbError=$(echo "$json" | jq -r '.Error // empty')
+    
+    if [[ "$Country" == *USA* ]]; then  Country=$(echo "$Country" | sed 's/USA/United States/g'); fi
 
     if [[ -n "$omdbError"  ]]; then
       if [[ "$omdbError"  == *limit* ]]; then

@@ -61,6 +61,12 @@ Choose your criteria and explore the full catalog.
     Actor:
     <select id="actor"></select>
   </label>
+
+  <label>
+    Director:
+    <select id="director"></select>
+  </label>
+
   
   <label>
     Country:
