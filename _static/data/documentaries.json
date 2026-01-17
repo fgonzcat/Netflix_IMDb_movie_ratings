@@ -446,6 +446,23 @@
       "Country": "United States"
     },
     {
+      "title": "Tony Robbins: I Am Not Your Guru",
+      "netflix_url": "https://www.netflix.com/title/80102204",
+      "year": "2016",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt5151716",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzM3NTAwMjAxMl5BMl5BanBnXkFtZTgwMjU0ODkxOTE@._V1_SX300.jpg",
+      "Plot": "TONY ROBBINS: I AM NOT YOUR GURU, a feature documentary film about internationally renowned life and business strategist Tony Robbins, is a revelatory cinéma vérité film that goes behind the scenes of his mammoth seminar \"Date Wit...",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Documentary",
+      "Director": "Joe Berlinger",
+      "Writer": "N/A",
+      "Actors": "Sage Bonnie Humphrey, Steven Kronick, Anthony Robbins",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Quincy",
       "netflix_url": "https://www.netflix.com/title/80102952",
       "year": "2018",
@@ -5166,6 +5183,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Is That Black Enough for You?!?",
+      "netflix_url": "https://www.netflix.com/title/81387240",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt21438352",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjJjODQzZjgtYzllNC00NzkyLTkzNTMtYWY5YjU5MmJiZWZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tracks the history of Black cinema, focused mainly on the '70s, with archival and new interviews with many of the key players from the era.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Documentary, History",
+      "Director": "Elvis Mitchell",
+      "Writer": "Elvis Mitchell",
+      "Actors": "Elvis Mitchell, Margaret Avery, Harry Belafonte",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Stutz",
       "netflix_url": "https://www.netflix.com/title/81387962",
       "year": "2022",
@@ -8656,6 +8690,14 @@
       "title": "30 for 30: Celtics/Lakers: The Best of Enemies",
       "netflix_url": "https://www.netflix.com/title/81753676",
       "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "30 for 30: Lance",
+      "netflix_url": "https://www.netflix.com/title/81753677",
+      "year": "2020",
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true

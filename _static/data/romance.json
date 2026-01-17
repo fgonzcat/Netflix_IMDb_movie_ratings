@@ -88,6 +88,23 @@
       "Country": "India"
     },
     {
+      "title": "Aaina",
+      "netflix_url": "https://www.netflix.com/title/20257870",
+      "year": "1993",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0106203",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTI3N2RiYjctMTZmZS00N2IxLTkxYzAtZmYwOGE3Mzc4OWVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Roma leaves Ravi at the altar to pursue her ambitions. Her sister Reema steps in to marry Ravi. All's well till Roma returns. Reema must face Roma now.",
+      "Type": "movie",
+      "RunTime": "149 min",
+      "Genre": "Drama, Romance",
+      "Director": "Deepak Sareen",
+      "Writer": "Honey Irani, Shanker Iyer, Rahi Masoom Reza",
+      "Actors": "Jackie Shroff, Juhi Chawla, Amrita Singh",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Dil To Pagal Hai",
       "netflix_url": "https://www.netflix.com/title/20805023",
       "year": "1997",
@@ -273,6 +290,23 @@
       "Actors": "Kate Hudson, Matthew McConaughey, Adam Goldberg",
       "Language": "English",
       "Country": "Germany, United States"
+    },
+    {
+      "title": "Chalte Chalte",
+      "netflix_url": "https://www.netflix.com/title/60036112",
+      "year": "2003",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt0346723",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmU2OGNiMjktMmY0OS00MjNhLWIwZWMtNGY1NjgwNjA5MTRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man pursues a woman who is already engaged and eventually gets married to her. Differences between the two lead to a bitter separation that threatens to destroy their relationship forever.",
+      "Type": "movie",
+      "RunTime": "167 min",
+      "Genre": "Drama, Romance",
+      "Director": "Aziz Mirza",
+      "Writer": "Aziz Mirza, Robin Bhatt, Pramod Sharma",
+      "Actors": "Shah Rukh Khan, Rani Mukerji, Jas Arora",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Kal Ho Naa Ho",
@@ -479,6 +513,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Bunty Aur Babli",
+      "netflix_url": "https://www.netflix.com/title/70038540",
+      "year": "2005",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0448206",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ1MjI3YjEtYzFlMC00NTFhLTllZGUtZWMzMTBiOGQxMjRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small-town pair become the legendary Bunty and Babli, turning the world on its head caper after caper--until they meet a very upset police officer.",
+      "Type": "movie",
+      "RunTime": "170 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Shaad Ali",
+      "Writer": "Aditya Chopra, Jaideep Sahni",
+      "Actors": "Abhishek Bachchan, Rani Mukerji, Amitabh Bachchan",
+      "Language": "Hindi, English",
+      "Country": "India"
+    },
+    {
       "title": "Paheli",
       "netflix_url": "https://www.netflix.com/title/70039405",
       "year": "2005",
@@ -594,6 +645,23 @@
       "Director": "Anurag Basu",
       "Writer": "Anurag Basu, Sanjeev Dutta",
       "Actors": "Dharmendra, Gautam Kapur, Irrfan Khan",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Aaja Nachle",
+      "netflix_url": "https://www.netflix.com/title/70077538",
+      "year": "2007",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0986213",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODdjZTQxMTUtMWI3OC00NzM4LWI0YmEtM2EwZTExYTg4MGUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dia's dance teacher is dying. She returns to the town where she learnt to live and dance and most importantly to save the endangered Ajanta theatre.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Drama, Family, Music",
+      "Director": "Anil Mehta",
+      "Writer": "Aditya Chopra, Jaideep Sahni",
+      "Actors": "Madhuri Dixit, Darshan Jariwala, Raghubir Yadav",
       "Language": "Hindi",
       "Country": "India"
     },
@@ -1829,6 +1897,23 @@
       "Poster": null,
       "Plot": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Let It Snow",
+      "netflix_url": "https://www.netflix.com/title/80201542",
+      "year": "2019",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt1950235",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGRmNjFlZjAtYzNjOC00ZDBjLWFmODctZGE0OTYwNGMxYjRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a small town on Christmas Eve, a snowstorm brings together a group of young people.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Luke Snellin",
+      "Writer": "Laura Solon, Victoria Strouse, Kay Cannon",
+      "Actors": "Isabela Merced, Shameik Moore, Odeya Rush",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Always Be My Maybe",
@@ -4644,6 +4729,23 @@
       "Country": "United States"
     },
     {
+      "title": "Student of the Year 2",
+      "netflix_url": "https://www.netflix.com/title/81464996",
+      "year": "2019",
+      "imdb_rating": "2.2",
+      "imdb_id": "tt7255568",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRlMjFhYzktMGRjOC00NGQ5LTgzZjktNTg3ZWI2ZTgzNGQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A student must face off against bullies and overcome hurdles, both academic and romantic, to win his college's coveted Student of the Year trophy.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Punit Malhotra",
+      "Writer": "Arshad Syed, Karan Johar",
+      "Actors": "Tiger Shroff, Ananya Panday, Tara Sutaria",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Out of my league",
       "netflix_url": "https://www.netflix.com/title/81465008",
       "year": "2020",
@@ -6160,6 +6262,23 @@
       "Actors": "Simone Baldasseroni, Caterina Ferioli, Sabrina Paravicini",
       "Language": "Italian",
       "Country": "Italy"
+    },
+    {
+      "title": "Mr. & Mrs. Mahi",
+      "netflix_url": "https://www.netflix.com/title/81712516",
+      "year": "2024",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt16227342",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDk5OTcwZTEtMjllNC00OWI5LWI2ZGYtZGVmYzkwNWE2MWY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A married couple who share a love for cricket begin training in the game due to her natural talent.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Drama, Sport",
+      "Director": "Sharan Sharma",
+      "Writer": "Nikhil Mehrotra, Sharan Sharma",
+      "Actors": "Rajkummar Rao, Janhvi Kapoor, Rajesh Sharma",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "De De Pyaar De 2",
