@@ -9,7 +9,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt0118983",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjU1ZGI1MDctN2IzZi00ZDU3LTk5MTEtYTRkMTU3ZDI0ZTE4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A grand musical about three passionate and dreamy characters: Rahul, Pooja and Nisha. Will their dreams come true? Will they find their true love?"
+      "Plot": "A grand musical about three passionate and dreamy characters: Rahul, Pooja and Nisha. Will their dreams come true? Will they find their true love?",
+      "Type": "movie",
+      "RunTime": "180 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Yash Chopra",
+      "Writer": "Tanuja Chandra, Aditya Chopra, Pamela Chopra",
+      "Actors": "Shah Rukh Khan, Madhuri Dixit, Karisma Kapoor",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "iCarly",
@@ -18,7 +26,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt0972534",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2JlM2JiNmQtNTdhNy00MDljLThjNDQtZDExNWI0NTNhMjVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Carly hosts her own home-grown web show, iCarly, Carly and sidekick Sam's regular webcasts ultimately feature everything from comedy sketches and talent contests to interviews, recipes, and problem-solving."
+      "Plot": "Carly hosts her own home-grown web show, iCarly, Carly and sidekick Sam's regular webcasts ultimately feature everything from comedy sketches and talent contests to interviews, recipes, and problem-solving.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Comedy, Family, Romance",
+      "Director": "N/A",
+      "Writer": "Dan Schneider",
+      "Actors": "Miranda Cosgrove, Jerry Trainor, Jennette McCurdy",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Rio",
@@ -27,7 +43,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt1436562",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2MDY3MzAzMl5BMl5BanBnXkFtZTcwMTg0NjM5NA@@._V1_SX300.jpg",
-      "Plot": "When Blu, a domesticated macaw from small-town Minnesota, meets the fiercely independent Jewel, he takes off on an adventure to Rio de Janeiro with the bird of his dreams."
+      "Plot": "When Blu, a domesticated macaw from small-town Minnesota, meets the fiercely independent Jewel, he takes off on an adventure to Rio de Janeiro with the bird of his dreams.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Carlos Saldanha",
+      "Writer": "Carlos Saldanha, Earl Richey Jones, Todd R. Jones",
+      "Actors": "Jesse Eisenberg, Anne Hathaway, George Lopez",
+      "Language": "English, Portuguese, Arabic, Spanish, Brazilian Sign ",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Nashville",
@@ -36,7 +60,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt7365526",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4ZDA3NTctOGY4ZS00ZDE3LWI0YjYtM2FkOTFiZjExZTA1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Page Turner and DeRon Jenkins aren't just house flippers in Nashville, they're also exes. With a decade of partnership, this driven team takes on big, small and dirty jobs to get top dollar on their investments."
+      "Plot": "Page Turner and DeRon Jenkins aren't just house flippers in Nashville, they're also exes. With a decade of partnership, this driven team takes on big, small and dirty jobs to get top dollar on their investments.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Page Turner, DeRon Jenkins",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Justin Bieber's Believe",
@@ -45,7 +77,15 @@
       "imdb_rating": "1.6",
       "imdb_id": "tt3165608",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjgzMDgxNjU1Ml5BMl5BanBnXkFtZTgwMDc3NTI2MDE@._V1_SX300.jpg",
-      "Plot": "A backstage and on-stage look at Justin Bieber during his rise to super stardom."
+      "Plot": "A backstage and on-stage look at Justin Bieber during his rise to super stardom.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Music",
+      "Director": "Jon M. Chu",
+      "Writer": "Sarah Landman Serafini",
+      "Actors": "Justin Bieber, Scooter Braun, Ryan Good",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Whiplash",
@@ -54,7 +94,15 @@
       "imdb_rating": "8.5",
       "imdb_id": "tt2582802",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+      "Plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Drama, Music",
+      "Director": "Damien Chazelle",
+      "Writer": "Damien Chazelle",
+      "Actors": "Miles Teller, J.K. Simmons, Melissa Benoist",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "What Happened, Miss Simone?",
@@ -63,7 +111,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt4284010",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGNmNTdiM2YtMDkyZC00OGFhLTgwNTktMDczODFjM2Y0MDVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary about the life and legend Nina Simone, an American singer, pianist, and civil rights activist labeled the \"High Priestess of Soul.\""
+      "Plot": "A documentary about the life and legend Nina Simone, an American singer, pianist, and civil rights activist labeled the \"High Priestess of Soul.\"",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Liz Garbus",
+      "Writer": "N/A",
+      "Actors": "Nina Simone, Lisa Simone Kelly, Roger Nupie",
+      "Language": "English, French",
+      "Country": "United States"
     },
     {
       "title": "The Other One: The Long Strange Trip of Bob Weir",
@@ -72,7 +128,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt3692768",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWU4OGNlN2ItNmJiNy00MjU4LTkyMGQtZjc5MTRiMmQ4ZGU4XkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_SX300.jpg",
-      "Plot": "A documentary that explores Bob Weirs life, through the Grateful Dead, Ratdog, and his childhood."
+      "Plot": "A documentary that explores Bob Weirs life, through the Grateful Dead, Ratdog, and his childhood.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Mike Fleiss",
+      "Writer": "N/A",
+      "Actors": "John Perry Barlow, Chuck Berry, Neal Cassady",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Danny Collins",
@@ -81,7 +145,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt1772288",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDk5NTYxOTk2MV5BMl5BanBnXkFtZTgwMzIxMjE0MzE@._V1_SX300.jpg",
-      "Plot": "An aging rock star decides to change his life when he discovers a 40-year-old letter written to him by John Lennon."
+      "Plot": "An aging rock star decides to change his life when he discovers a 40-year-old letter written to him by John Lennon.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Dan Fogelman",
+      "Writer": "Dan Fogelman",
+      "Actors": "Al Pacino, Annette Bening, Jennifer Garner",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Your lie in April",
@@ -90,7 +162,15 @@
       "imdb_rating": "8.5",
       "imdb_id": "tt3895150",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGMyYmFmNzgtMWQ4NS00MWE2LTg4YmEtZGY1MTBiODE0YmE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A piano prodigy who lost his ability to play after suffering a traumatic event in his childhood is forced back into the spotlight by an eccentric girl with a secret of her own."
+      "Plot": "A piano prodigy who lost his ability to play after suffering a traumatic event in his childhood is forced back into the spotlight by an eccentric girl with a secret of her own.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Natsuki Hanae, Risa Taneda, Ayane Sakura",
+      "Language": "Japanese, English, German, Spanish",
+      "Country": "Japan"
     },
     {
       "title": "A Very Murray Christmas",
@@ -99,7 +179,15 @@
       "imdb_rating": "5.5",
       "imdb_id": "tt4537842",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MDI2NjAzMl5BMl5BanBnXkFtZTgwNDY4NDgyNzE@._V1_SX300.jpg",
-      "Plot": "Bill Murray worries no one will show up to his TV show due to a terrible snowstorm in New York City."
+      "Plot": "Bill Murray worries no one will show up to his TV show due to a terrible snowstorm in New York City.",
+      "Type": "movie",
+      "RunTime": "56 min",
+      "Genre": "Comedy, Music, Musical",
+      "Director": "Sofia Coppola",
+      "Writer": "Sofia Coppola, Mitch Glazer, Bill Murray",
+      "Actors": "Bill Murray, Paul Shaffer, Michael Cera",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Amy",
@@ -108,7 +196,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt2870648",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MzE4MTE3OF5BMl5BanBnXkFtZTgwOTcyNDM3NTE@._V1_SX300.jpg",
-      "Plot": "Archival footage and personal testimonials present an intimate portrait of the life and career of British singer/songwriter Amy Winehouse."
+      "Plot": "Archival footage and personal testimonials present an intimate portrait of the life and career of British singer/songwriter Amy Winehouse.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Asif Kapadia",
+      "Writer": "N/A",
+      "Actors": "Amy Winehouse, Mitch Winehouse, Mark Ronson",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Kill Your Friends",
@@ -117,7 +213,15 @@
       "imdb_rating": "6.0",
       "imdb_id": "tt2474958",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTY1MDMxMzY5OV5BMl5BanBnXkFtZTgwMzA0NjkwNzE@._V1_SX300.jpg",
-      "Plot": "An A&amp;R man working at the height of the Britpop music craze goes to extremes in order to find his next hit."
+      "Plot": "An A&amp;R man working at the height of the Britpop music craze goes to extremes in order to find his next hit.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Comedy, Crime, Music",
+      "Director": "Owen Harris",
+      "Writer": "John Niven",
+      "Actors": "Nicholas Hoult, Thomas Conroy, James Corden",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "XOXO",
@@ -126,7 +230,15 @@
       "imdb_rating": "5.3",
       "imdb_id": "tt4855748",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjkzNzI4MjQ5NV5BMl5BanBnXkFtZTgwNjc3MzM2OTE@._V1_SX300.jpg",
-      "Plot": "Six strangers' lives collide in one frenetic, dream-chasing, hopelessly romantic night."
+      "Plot": "Six strangers' lives collide in one frenetic, dream-chasing, hopelessly romantic night.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Drama, Music",
+      "Director": "Christopher Louie",
+      "Writer": "Christopher Louie, Dylan Meyer",
+      "Actors": "Sarah Hyland, Graham Phillips, Brett DelBuono",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Green Room",
@@ -135,7 +247,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt4062536",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_SX300.jpg",
-      "Plot": "A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar."
+      "Plot": "A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Jeremy Saulnier",
+      "Writer": "Jeremy Saulnier",
+      "Actors": "Anton Yelchin, Imogen Poots, Alia Shawkat",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Keith Richards: Under the Influence",
@@ -144,7 +264,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt4900018",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MDE0ODg3MV5BMl5BanBnXkFtZTgwOTAxOTU3NjE@._V1_SX300.jpg",
-      "Plot": "A portrait of Keith Richards that takes us on a journey to discover the genesis of his sound as a songwriter, guitarist and performer."
+      "Plot": "A portrait of Keith Richards that takes us on a journey to discover the genesis of his sound as a songwriter, guitarist and performer.",
+      "Type": "movie",
+      "RunTime": "81 min",
+      "Genre": "Documentary, Music",
+      "Director": "Morgan Neville",
+      "Writer": "N/A",
+      "Actors": "Keith Richards, Anthony DeCurtis, Steve Jordan",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Nodame Cantabile",
@@ -153,7 +281,15 @@
       "imdb_rating": "8.3",
       "imdb_id": "tt0965546",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmYzMjIzY2EtZmFjOC00ODk0LWJhZTQtNTlkMDMyNDlkYWI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Two musicians united in talent, divided by nature - the upper-class perfectionist Chiaki and the sloppy middle-classer Nodame - fall in love."
+      "Plot": "Two musicians united in talent, divided by nature - the upper-class perfectionist Chiaki and the sloppy middle-classer Nodame - fall in love.",
+      "Type": "series",
+      "RunTime": "47 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Juri Ueno, Hiroshi Tamaki, Eita Nagayama",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Quincy",
@@ -162,7 +298,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt7440432",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjFiYjM0OTctNzRlMy00ODcwLThiNWYtOTUwMjFlMWQxM2Q0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An intimate look into the life of icon Quincy Jones. A unique force in music and popular culture for 70 years, Jones has transcended racial and cultural boundaries; his story is inextricably woven into the fabric of America."
+      "Plot": "An intimate look into the life of icon Quincy Jones. A unique force in music and popular culture for 70 years, Jones has transcended racial and cultural boundaries; his story is inextricably woven into the fabric of America.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Alan Hicks, Rashida Jones",
+      "Writer": "Alan Hicks, Rashida Jones",
+      "Actors": "Quincy Jones, Rashida Jones, Kareem Abdul-Jabbar",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "David Brent: Life on the Road",
@@ -171,7 +315,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt3137630",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzI1ODE4NV5BMl5BanBnXkFtZTgwOTAwMDE0OTE@._V1_SX300.jpg",
-      "Plot": "A camera crew catches up with David Brent, the former star of the fictional British TV series The Office (2001), as he now fancies himself a rock star on the road."
+      "Plot": "A camera crew catches up with David Brent, the former star of the fictional British TV series The Office (2001), as he now fancies himself a rock star on the road.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Comedy, Music",
+      "Director": "Ricky Gervais",
+      "Writer": "Ricky Gervais",
+      "Actors": "Ricky Gervais, Rob Jarvis, Abbie Murphy",
+      "Language": "English",
+      "Country": "United Kingdom, United States, Canada"
     },
     {
       "title": "Bo Burnham: Make Happy",
@@ -180,7 +332,15 @@
       "imdb_rating": "8.3",
       "imdb_id": "tt5192124",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDgzZTA0NTYtOTBlMS00MWUyLTg2YzQtYmM0MGVhOGU4OTE4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Bo Burnham tackles life, death, sexuality, hypocrisy, mental illness and Pringles cans in his dazzling new stand-up special."
+      "Plot": "Bo Burnham tackles life, death, sexuality, hypocrisy, mental illness and Pringles cans in his dazzling new stand-up special.",
+      "Type": "movie",
+      "RunTime": "60 min",
+      "Genre": "Comedy, Music",
+      "Director": "Bo Burnham, Christopher Storer",
+      "Writer": "Bo Burnham",
+      "Actors": "Bo Burnham",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Reggie Watts: Spatial",
@@ -189,7 +349,15 @@
       "imdb_rating": "6.0",
       "imdb_id": "tt5861260",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDBmNjItNWVjZi00YzhhLWIxZmUtZjZlYjRhYjJlNjcyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Completely improvised show weaving together sketches, short stories, and dream sequences, filmed live on a soundstage in Los Angeles, Watts waxes poetic about flight, grits, and guns."
+      "Plot": "Completely improvised show weaving together sketches, short stories, and dream sequences, filmed live on a soundstage in Los Angeles, Watts waxes poetic about flight, grits, and guns.",
+      "Type": "movie",
+      "RunTime": "61 min",
+      "Genre": "Comedy, Music",
+      "Director": "Benjamin Dickinson",
+      "Writer": "N/A",
+      "Actors": "Rory Scovel, Reggie Watts",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "I'll Sleep When I'm Dead",
@@ -198,7 +366,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt4679136",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDQ0NjQ3Nl5BMl5BanBnXkFtZTgwNTkxNjA4OTE@._V1_SX300.jpg",
-      "Plot": "I'll Sleep When I'm Dead, directed by Justin Krook, is a heart-pumping yet heart-wrenching documentary about one of the most eminent DJs working today: Steve Aoki. In the lead-up to Aoki's biggest show of his career, this introspe..."
+      "Plot": "I'll Sleep When I'm Dead, directed by Justin Krook, is a heart-pumping yet heart-wrenching documentary about one of the most eminent DJs working today: Steve Aoki. In the lead-up to Aoki's biggest show of his career, this introspe...",
+      "Type": "movie",
+      "RunTime": "79 min",
+      "Genre": "Documentary",
+      "Director": "Justin Krook",
+      "Writer": "N/A",
+      "Actors": "Devon Aoki, Benji Madden, Will.i.am",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Turn Up Charlie",
@@ -207,7 +383,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt8304498",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGViODczYWUtYmVmMS00YjNjLTkxODItYmU1MzUwN2M5NTFhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Charlie, a struggling DJ and eternal bachelor is given a final chance at success when he reluctantly becomes a nanny to his famous best friend's problem-child daughter."
+      "Plot": "Charlie, a struggling DJ and eternal bachelor is given a final chance at success when he reluctantly becomes a nanny to his famous best friend's problem-child daughter.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Comedy, Music",
+      "Director": "N/A",
+      "Writer": "Idris Elba, Gary Reich",
+      "Actors": "Idris Elba, Piper Perabo, Frankie Hervey",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Justin Timberlake + the Tennessee Kids",
@@ -216,7 +400,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt5001772",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGQyNzRkNWItOWRmOS00YTk0LWIyYWYtZDcxMGIyMmQwNTU0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The final performance of Justin Timberlake and the Tennessee Kids' 20/20 Experience World Tour, filmed in 2015 at the MGM Grand Garden Arena in Las Vegas."
+      "Plot": "The final performance of Justin Timberlake and the Tennessee Kids' 20/20 Experience World Tour, filmed in 2015 at the MGM Grand Garden Arena in Las Vegas.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Music",
+      "Director": "Jonathan Demme",
+      "Writer": "N/A",
+      "Actors": "Adam Blackstone, Aaron Camper, Devine Evans",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Hip-Hop Evolution",
@@ -225,7 +417,15 @@
       "imdb_rating": "8.4",
       "imdb_id": "tt4130418",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmE1ZDdmZmYtNWRlZS00ZmU5LTgxMDctNTMzY2FiOTE4MmVkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "MC and journalist Shad Kabango meets with Hip-Hop's biggest stars to retrace how Hip-Hop became the world's most popular music, but realizes that Hip-Hop's true legacy is something much more profound."
+      "Plot": "MC and journalist Shad Kabango meets with Hip-Hop's biggest stars to retrace how Hip-Hop became the world's most popular music, but realizes that Hip-Hop's true legacy is something much more profound.",
+      "Type": "series",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Music",
+      "Director": "Darby Wheeler, Sam Dunn(co-director), Scot McFadyen(co-director)",
+      "Writer": "Rodrigo Bascunan",
+      "Actors": "Shad, LL Cool J, Big Daddy Kane",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "The After Party",
@@ -234,7 +434,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt3960240",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1NjgwODUyNV5BMl5BanBnXkFtZTgwOTQ0NTc5NTM@._V1_SX300.jpg",
-      "Plot": "When an aspiring rapper goes viral for all the wrong reasons, he thinks his career is over. But when his best friend gets them into a wild NYC after party, he gets one more chance to make the impossible happen."
+      "Plot": "When an aspiring rapper goes viral for all the wrong reasons, he thinks his career is over. But when his best friend gets them into a wild NYC after party, he gets one more chance to make the impossible happen.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Comedy, Music",
+      "Director": "Ian Edelman",
+      "Writer": "Ian Edelman",
+      "Actors": "Harrison Holzer, Kyle, Jordan Rock",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Rapture",
@@ -243,7 +451,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt7981052",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTUxOWRkMDQtOTdhMS00ZWVhLTgzMjQtMjYwMzNlNTQ5OGVkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Featuring an impressive collection of artists who have found worldwide success, this documentary series showcases hip-hop's impact on global culture."
+      "Plot": "Featuring an impressive collection of artists who have found worldwide success, this documentary series showcases hip-hop's impact on global culture.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Joseph Simmons III, Logic, A Boogie wit da Hoodie",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Ae Dil Hai Mushkil",
@@ -252,7 +468,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt4559006",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTMwMjExMjMtZjIyYi00NzM4LWE4YWItN2FhMDMyZTRhMDQ0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A story about unrequited love - the shapes it takes, the ways it changes us and the exhilarating and often heartbreaking ride it takes us on. It is the journey of three characters, Ayan, Alizeh and Saba, as their lives intertwine ..."
+      "Plot": "A story about unrequited love - the shapes it takes, the ways it changes us and the exhilarating and often heartbreaking ride it takes us on. It is the journey of three characters, Ayan, Alizeh and Saba, as their lives intertwine ...",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Drama, Music, Musical",
+      "Director": "Karan Johar",
+      "Writer": "Karan Johar, Niranjan Iyengar",
+      "Actors": "Ranbir Kapoor, Aishwarya Rai Bachchan, Anushka Sharma",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Michael Bolton's Big, Sexy Valentine's Day Special",
@@ -261,7 +485,15 @@
       "imdb_rating": "6.7",
       "imdb_id": "tt6343706",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDgwZWU1ODUtMjEyNS00ZTAyLThjZWMtZTE3OTE0ZmJkNTY3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After Santa tells Michael Bolton that he needs 75,000 new babies by Christmas to meet toy supply, Michael Bolton hosts a sexy telethon to get the world to start making love."
+      "Plot": "After Santa tells Michael Bolton that he needs 75,000 new babies by Christmas to meet toy supply, Michael Bolton hosts a sexy telethon to get the world to start making love.",
+      "Type": "movie",
+      "RunTime": "54 min",
+      "Genre": "Comedy, Music, Musical",
+      "Director": "Scott Aukerman, Akiva Schaffer",
+      "Writer": "Scott Aukerman, David Ferguson, Mike Hanford",
+      "Actors": "Michael Bolton, Sarah Shahi, Adam Scott",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Dirt",
@@ -270,7 +502,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt0800325",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmRjZWUzMWEtNWNmNC00YjBlLTliOTUtY2I1Y2JkZjQ4NmViXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Based on the bestselling autobiography from Mötley Crüe, the film is an unflinching tale of success and excess as four misfits rise from the streets of Hollywood to the heights of international fame."
+      "Plot": "Based on the bestselling autobiography from Mötley Crüe, the film is an unflinching tale of success and excess as four misfits rise from the streets of Hollywood to the heights of international fame.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Jeff Tremaine",
+      "Writer": "Rich Wilkes, Amanda Adelson, Tommy Lee",
+      "Actors": "Douglas Booth, Iwan Rheon, Colson Baker",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Roxanne Roxanne",
@@ -279,7 +519,15 @@
       "imdb_rating": "6.2",
       "imdb_id": "tt5796838",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzFmNGUyMzQtMGQxZi00ZmRkLTg0YWUtMWRhMTNlMTE2ODI0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In the late 80s/ early 1990s, the most feared battle MC in Queens, New York, was a fierce teenage girl with the weight of the world on her shoulders. At the age of 14, Lolita \"Roxanne Shanté\" Gooden was well on her way to becoming..."
+      "Plot": "In the late 80s/ early 1990s, the most feared battle MC in Queens, New York, was a fierce teenage girl with the weight of the world on her shoulders. At the age of 14, Lolita \"Roxanne Shanté\" Gooden was well on her way to becoming...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Michael Larnell",
+      "Writer": "Michael Larnell",
+      "Actors": "Chanté Adams, Nia Long, Mahershala Ali",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Black Godfather",
@@ -288,7 +536,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt10289996",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzdhOWNkMzEtYjRmYS00ZjdjLWE3MDctMzNjMmRmOGVkODJmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the life of Clarence Avant, the ultimate, uncensored mentor and behind-the-scenes rainmaker in music, film, TV and politics."
+      "Plot": "Follows the life of Clarence Avant, the ultimate, uncensored mentor and behind-the-scenes rainmaker in music, film, TV and politics.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Reginald Hudlin",
+      "Writer": "N/A",
+      "Actors": "Clarence Avant, Hank Aaron, Gwen Adolph",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "ReMastered: Who Killed Jam Master Jay?",
@@ -297,7 +553,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt9046560",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ4NmE4NDgtYjIzYS00NjE0LWI4OTAtNjE5NWQwOTU4MWFhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Run DMC's Jam Master Jay was shot and killed in a Jamaica, Queens recording studio in 2002. Despite six witnesses present at the murder, no one has ever been convicted."
+      "Plot": "Run DMC's Jam Master Jay was shot and killed in a Jamaica, Queens recording studio in 2002. Despite six witnesses present at the murder, no one has ever been convicted.",
+      "Type": "movie",
+      "RunTime": "58 min",
+      "Genre": "Documentary",
+      "Director": "Brian Oakes",
+      "Writer": "Jeff Zimbalist, Michael Zimbalist",
+      "Actors": "Jam Master Jay, DJ Hurricane, Rahman Dukes",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "ReMastered: The Two Killings of Sam Cooke",
@@ -306,7 +570,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt9046564",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmZmNzI3MWEtYmFiNS00NjIzLWI2ZmYtZDBlNTY4NDNjMTM3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An investigation into the circumstances and controversy surrounding Sam Cooke's murder."
+      "Plot": "An investigation into the circumstances and controversy surrounding Sam Cooke's murder.",
+      "Type": "movie",
+      "RunTime": "74 min",
+      "Genre": "Documentary, Music",
+      "Director": "Kelly Duane",
+      "Writer": "Jeff Zimbalist, Michael Zimbalist",
+      "Actors": "Sam Cooke, Quincy Jones, Smokey Robinson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "ReMastered: The Miami Showband Massacre",
@@ -315,7 +587,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt9046568",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzQwNWMxODUtYzZiMi00MjYyLTkxMzEtOTgzZjMzMzY5OGRiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In 1974, while on the way home from a gig, the apolitical rock group, The Miami Showband, fell into the crosshairs of a Protestant unionist paramilitary group that planted explosives on their bus when it was stopped at a fake chec..."
+      "Plot": "In 1974, while on the way home from a gig, the apolitical rock group, The Miami Showband, fell into the crosshairs of a Protestant unionist paramilitary group that planted explosives on their bus when it was stopped at a fake chec...",
+      "Type": "movie",
+      "RunTime": "71 min",
+      "Genre": "Documentary, Crime, Music",
+      "Director": "Stuart Sender",
+      "Writer": "Jeff Zimbalist, Michael Zimbalist",
+      "Actors": "Stephen Travers, Bertie Ahern, Alan Brecknell",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "ReMastered: Who Shot the Sheriff",
@@ -324,7 +604,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt9046548",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDcxZTdjOTQtYWQwZC00OGY4LTkwNGItNDAwOTkwNjBhY2Y0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-      "Plot": "The violent political suppression of the roots reggae movement in Jamaica told through an investigation into Jamaican politics and the CIA's involvement in the mysterious shooting of Bob Marley."
+      "Plot": "The violent political suppression of the roots reggae movement in Jamaica told through an investigation into Jamaican politics and the CIA's involvement in the mysterious shooting of Bob Marley.",
+      "Type": "movie",
+      "RunTime": "57 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "Kief Davidson",
+      "Writer": "Jeff Zimbalist, Michael Zimbalist",
+      "Actors": "Bob Marley, Arnold Bertram, Cindy Breakspeare",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "ReMastered: Massacre at the Stadium",
@@ -333,7 +621,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt9046562",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWU2M2M3ZjQtNmE5My00MTY4LTliMDItOWQwNDhjYjkzZmIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This documentary questions who killed Victor Jara, Chilean musician and activist who died during the dictatorship in his country."
+      "Plot": "This documentary questions who killed Victor Jara, Chilean musician and activist who died during the dictatorship in his country.",
+      "Type": "movie",
+      "RunTime": "64 min",
+      "Genre": "Documentary, Drama",
+      "Director": "B.J. Perlmutt, Bent-Jorgen Perlmutt",
+      "Writer": "Catalina Ausin, John Meroney, Jeff Zimbalist",
+      "Actors": "Víctor Jara, Joan Jara, Pascale Bonnefoy",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "ReMastered: Devil at the Crossroads",
@@ -342,7 +638,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt9046574",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ4MGU5MjQtZTNhZi00NDBlLTk4MjctNDEyM2FiMGFjYjU3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look at the short, mysterious life of blues legend, Robert Johnson, who was said to have made a deal with the Devil at a crossroads in rural Mississippi."
+      "Plot": "A look at the short, mysterious life of blues legend, Robert Johnson, who was said to have made a deal with the Devil at a crossroads in rural Mississippi.",
+      "Type": "movie",
+      "RunTime": "48 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Brian Oakes",
+      "Writer": "William Wheeler, Jeff Zimbalist, Michael Zimbalist",
+      "Actors": "Terry Harmonica Bean, Rory Block, Yvonne Chireau",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "ReMastered: The Lion's Share",
@@ -351,7 +655,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt9046576",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWMxODI3MjgtOTY1NS00N2M5LTliYWMtZjEyODA5MzBmMGNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "South African journalist Rian Malan searches for the original writers of the legendary song \"The Lion Sleeps Tonight.\""
+      "Plot": "South African journalist Rian Malan searches for the original writers of the legendary song \"The Lion Sleeps Tonight.\"",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary, Music",
+      "Director": "Sam Cullman",
+      "Writer": "Jeff Zimbalist, Michael Zimbalist",
+      "Actors": "Rian Malan, Solomon Linda, Delphi Linda",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "ReMastered: Tricky Dick & The Man in Black",
@@ -370,7 +682,15 @@
       "imdb_rating": "8.0",
       "imdb_id": "tt8045690",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGI0ZDZkNDItZTMxOC00OTNlLWJiOTYtYTM0MzU5OGY2OWQ3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The series dramatizes the life story of Mexican superstar singer Luis Miguel, who has captivated audiences in Latin America and beyond for decades."
+      "Plot": "The series dramatizes the life story of Mexican superstar singer Luis Miguel, who has captivated audiences in Latin America and beyond for decades.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Diego Boneta, Gabriel Nuncio, César Bordón",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "Gaga: Five Foot Two",
@@ -379,7 +699,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt7291268",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzNzAxNTM0MV5BMl5BanBnXkFtZTgwODE1NzMzMzI@._V1_SX300.jpg",
-      "Plot": "This documentary goes behind the scenes with pop provocateur Lady Gaga as she releases a bold new album and prepares for her Super Bowl halftime show."
+      "Plot": "This documentary goes behind the scenes with pop provocateur Lady Gaga as she releases a bold new album and prepares for her Super Bowl halftime show.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary, Music",
+      "Director": "Chris Moukarbel",
+      "Writer": "N/A",
+      "Actors": "Sandra Amador, Michael Bearden, Tony Bennett",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Eddy",
@@ -388,7 +716,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt7322210",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWQ3NGFjOTgtYTcwYi00ZmViLTkwYmYtNTlkODdjMTljNDc2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A French club owner deals with the everyday chaos of running a live music venue in the heart of Paris."
+      "Plot": "A French club owner deals with the everyday chaos of running a live music venue in the heart of Paris.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Music",
+      "Director": "N/A",
+      "Writer": "Jack Thorne",
+      "Actors": "André Holland, Joanna Kulig, Leïla Bekhti",
+      "Language": "French, English",
+      "Country": "United Kingdom, Germany, United States, France"
     },
     {
       "title": "Westside",
@@ -397,7 +733,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt8693758",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjM5Mzc2MjE4Ml5BMl5BanBnXkFtZTgwMDMxMTI1NjM@._V1_SX300.jpg",
-      "Plot": "An unscripted and deeply personal glimpse into the journeys of nine young L.A.-based musicians as they follow their dreams."
+      "Plot": "An unscripted and deeply personal glimpse into the journeys of nine young L.A.-based musicians as they follow their dreams.",
+      "Type": "series",
+      "RunTime": "50 min",
+      "Genre": "Musical",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Taz Zavala, Arika Gluck, Pia Toscano",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Biggie: I Got a Story to Tell",
@@ -406,7 +750,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt14058484",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmYyYzIzZTktYzBhOC00ZWNiLWE4MzAtNTlmOGIzNzE3ODBhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This documentary features rare footage filmed by Christopher Wallace's best friend, Damion \"D-Roc\" Butler, and interviews with his closest friends and family, revealing a side of Biggie Smalls that the world never knew."
+      "Plot": "This documentary features rare footage filmed by Christopher Wallace's best friend, Damion \"D-Roc\" Butler, and interviews with his closest friends and family, revealing a side of Biggie Smalls that the world never knew.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Emmett Malloy",
+      "Writer": "Sam Sweet",
+      "Actors": "The Notorious B.I.G., Damion Butler, Sean 'Diddy' Combs",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Barbra: The Music ... The Mem'ries ... The Magic!",
@@ -415,7 +767,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt7588584",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTA5ODQ2MDktZmU1OC00YmM5LTk2MjgtODQ4ZWUwN2ZiMmZmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Barbra Streisand's film concert event finds the legend joined by a roster of special guests, as she takes audiences on a journey of her life's work, like a stroll down memory lane with a good friend."
+      "Plot": "Barbra Streisand's film concert event finds the legend joined by a roster of special guests, as she takes audiences on a journey of her life's work, like a stroll down memory lane with a good friend.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Music",
+      "Director": "Jim Gable, Barbra Streisand",
+      "Writer": "Richard Jay-Alexander, Jay Landers, Barbra Streisand",
+      "Actors": "Barbra Streisand, Stephanie 'Stevvi' Alexander, Alec Baldwin",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Cowboy Bebop",
@@ -424,7 +784,15 @@
       "imdb_rating": "6.7",
       "imdb_id": "tt1267295",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjY4Yjk5MmEtYmNjYy00MjI1LWJlZjktMWRkYmU0YThlZWVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price."
+      "Plot": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Christopher L. Yost",
+      "Actors": "John Cho, Mustafa Shakir, Daniella Pineda",
+      "Language": "English",
+      "Country": "United States, Japan"
     },
     {
       "title": "Girls from Ipanema",
@@ -433,7 +801,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt8001788",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2EwMDAwZTgtZmUwZC00YmU5LTgzNjAtODIwZjc4M2E1YTRmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After her husband's disappearance, Maria Luiza opens a Bossa Nova club in defiance of her normally conservative demeanor."
+      "Plot": "After her husband's disappearance, Maria Luiza opens a Bossa Nova club in defiance of her normally conservative demeanor.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "Giuliano Cedroni, Heather Roth",
+      "Actors": "Maria Casadevall, Pathy Dejesus, Mel Lisboa",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Shawn Mendes: In Wonder",
@@ -442,7 +818,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt13276386",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjU3ZDJkZmYtZmVkOC00MWI2LTg3NTQtZmIxNzZjY2ZlNzQ0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A portrait of singer/songwriter Shawn Mendes' life, chronicling the past few years of his rise and journey."
+      "Plot": "A portrait of singer/songwriter Shawn Mendes' life, chronicling the past few years of his rise and journey.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Documentary, Music",
+      "Director": "Grant Singer",
+      "Writer": "Connor Brashier",
+      "Actors": "Shawn Mendes, Camila Cabello, Cez Darke",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Beats",
@@ -451,7 +835,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt8530978",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDZlYjg2MDQtNmQzYi00ZDFmLWJjY2MtNDA1MmZkZWEyMGI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A reclusive teenage musical prodigy forms an unlikely friendship with a down-on-his-luck high school security guard. United by their mutual love of hiphop, they confront the demons of their past and try to break into Chicago's mus..."
+      "Plot": "A reclusive teenage musical prodigy forms an unlikely friendship with a down-on-his-luck high school security guard. United by their mutual love of hiphop, they confront the demons of their past and try to break into Chicago's mus...",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Drama, Music",
+      "Director": "Chris Robinson",
+      "Writer": "Miles Orion Feldsott",
+      "Actors": "Khalil Everage, Evan J. Simpson, Ashley Jackson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Vai Anitta",
@@ -460,7 +852,15 @@
       "imdb_rating": "5.5",
       "imdb_id": "tt8961530",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjE0YjIxODctOTRmOS00ZDEyLTk5ZDQtYjBlODE5YzA2NDQ5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
-      "Plot": "Go behind the scenes with Brazilian superstar Anitta as the singer reveals how she's consolidating her international career."
+      "Plot": "Go behind the scenes with Brazilian superstar Anitta as the singer reveals how she's consolidating her international career.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Anitta, Paulo Pimenta, Sam Shahidi",
+      "Language": "Portuguese, English, Spanish",
+      "Country": "Brazil"
     },
     {
       "title": "Rhythm + Flow",
@@ -469,7 +869,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt31974344",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTFkYzY5OTAtYjhmNy00MTRhLWFiZGEtYTliYmYwMmY4NzNmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow the artistic growth of the participants throughout the competition and will crown a rising star on the Brazilian rap and trap scene."
+      "Plot": "Follow the artistic growth of the participants throughout the competition and will crown a rising star on the Brazilian rap and trap scene.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Game-Show, Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kamau, DJ Miya B, Djonga",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Sintonia",
@@ -478,7 +886,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt8165086",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWVjYTlhZGEtMGRmNS00NWU1LWE4NzQtYjE5OTdjNzBmZDI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Three teens living in the same São Paulo shanty town pursue their dreams while maintaining their friendship, amid a world of music, drugs and religion."
+      "Plot": "Three teens living in the same São Paulo shanty town pursue their dreams while maintaining their friendship, amid a world of music, drugs and religion.",
+      "Type": "series",
+      "RunTime": "40 min",
+      "Genre": "Crime, Drama, Music",
+      "Director": "N/A",
+      "Writer": "Guilherme Quintella, Felipe Braga, Kondzilla",
+      "Actors": "Fernanda Viacava, Gabriela Mag, Rhamon Garcia",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "I'm with the Band: Nasty Cherry",
@@ -487,7 +903,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt6233916",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmU1NjI5YjEtNDFhNS00ZTBmLTk2MWMtZjU3NzkwNjY3M2I2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An unscripted docu-series following a musical artist or band and their entourage as they prepare for and embark on tour."
+      "Plot": "An unscripted docu-series following a musical artist or band and their entourage as they prepare for and embark on tour.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Charli XCX, Gabbriette, Chloe Chaidez",
+      "Language": "N/A",
+      "Country": "United States"
     },
     {
       "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
@@ -506,7 +930,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt7949200",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjlmNTM5YzQtMTdiMi00ZTc0LTgzZGUtMTdiNzNmZTZmOTQ1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look at the life and career of the Latin music superstar, Nicky Jam."
+      "Plot": "A look at the life and career of the Latin music superstar, Nicky Jam.",
+      "Type": "series",
+      "RunTime": "45 min",
+      "Genre": "Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Nicky Jam, Jose Caro, Darkiel",
+      "Language": "Spanish, English",
+      "Country": "United States, Colombia"
     },
     {
       "title": "Part-Time Idol",
@@ -515,7 +947,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt8835780",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDEwY2U2YjQtNmM0ZC00OWNmLWFmMDYtMmY4ODRlZWM1MGI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The story line takes place at an entertainment agency. After creating a bunch of famous idols, a producer begins to question the whole process of making a star, so he goes on a break for a few years. Once he returns to the company..."
+      "Plot": "The story line takes place at an entertainment agency. After creating a bunch of famous idols, a producer begins to question the whole process of making a star, so he goes on a break for a few years. Once he returns to the company...",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Hwang Seung-eon, Kim Hee-jung, Kim Min-kyo",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "The Forty-Year-Old Version",
@@ -524,7 +964,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt10642834",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDg0YTk0YjMtM2I4YS00NDFjLWJhNzItODU2YWUyZjg0ZmFmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Radha is a down-on-her-luck NY playwright, who is desperate for a breakthrough before 40. Reinventing herself as rapper RadhaMUSPrime, she vacillates between the worlds of Hip Hop and theater in order to find her true voice."
+      "Plot": "Radha is a down-on-her-luck NY playwright, who is desperate for a breakthrough before 40. Reinventing herself as rapper RadhaMUSPrime, she vacillates between the worlds of Hip Hop and theater in order to find her true voice.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Radha Blank",
+      "Writer": "Radha Blank",
+      "Actors": "Radha Blank, Peter Kim, Oswin Benjamin",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Springsteen on Broadway",
@@ -533,7 +981,15 @@
       "imdb_rating": "8.5",
       "imdb_id": "tt8716334",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyMjY3MjkyNzZeQTJeQWpwZ15BbWU4MDY4MjUzODYz._V1_SX300.jpg",
-      "Plot": "The intimate, final performance of Bruce Springsteen's 236-show run at Jujamcyn's Walter Kerr Theatre on Broadway."
+      "Plot": "The intimate, final performance of Bruce Springsteen's 236-show run at Jujamcyn's Walter Kerr Theatre on Broadway.",
+      "Type": "movie",
+      "RunTime": "153 min",
+      "Genre": "Documentary, Music",
+      "Director": "Thom Zimny",
+      "Writer": "Bruce Springsteen",
+      "Actors": "Bruce Springsteen, Patti Scialfa",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Camarón: The Film",
@@ -560,7 +1016,15 @@
       "imdb_rating": "4.0",
       "imdb_id": "tt7949046",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzkwODIyMF5BMl5BanBnXkFtZTgwMTk2NzAyNTM@._V1_SX300.jpg",
-      "Plot": "A group of outlaws search for a mountain treasure and experience the supernatural powers of a full moon."
+      "Plot": "A group of outlaws search for a mountain treasure and experience the supernatural powers of a full moon.",
+      "Type": "movie",
+      "RunTime": "73 min",
+      "Genre": "Fantasy, Music",
+      "Director": "Daryl Hannah",
+      "Writer": "Daryl Hannah",
+      "Actors": "Neil Young, Lukas Nelson, Micah Nelson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Forest of Piano",
@@ -569,7 +1033,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt8043492",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjgxY2IzZGUtYzY1Yi00YmIxLWFjZjMtYjEwM2QwY2FkNzc3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Two different people - the son of a prostitute, and the son of a professional musician - develop a bond of friendship through their love of playing the piano."
+      "Plot": "Two different people - the son of a prostitute, and the son of a professional musician - develop a bond of friendship through their love of playing the piano.",
+      "Type": "series",
+      "RunTime": "25 min",
+      "Genre": "Animation, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Johnny Yong Bosch, Erika Harlacher, Kyle McCarley",
+      "Language": "Japanese",
+      "Country": "Japan, Italy"
     },
     {
       "title": "Military Wives",
@@ -578,7 +1050,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt8951692",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTI0MzkxOTUtNGZiMy00MDI5LTg3MDctNWMzMGM5YjhjYWZlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "With their partners away serving in Afghanistan, a group of women on the home front form a choir and quickly find themselves at the center of a media sensation and global movement."
+      "Plot": "With their partners away serving in Afghanistan, a group of women on the home front form a choir and quickly find themselves at the center of a media sensation and global movement.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Peter Cattaneo",
+      "Writer": "Rachel Tunnard, Rosanne Flynn",
+      "Actors": "Kristin Scott Thomas, Sharon Horgan, Emma Lowndes",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Song Exploder",
@@ -587,7 +1067,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt13110256",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTcxYjJmNzAtMzc1MS00MWVhLWIzYzEtYTlmNjdlMWM0NjRiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Weaves together in-depth interviews, archival footage, and raw recordings as each artist breaks down their song, layer by layer, sharing intimate insight into the personal inspiration behind the music and lyrics."
+      "Plot": "Weaves together in-depth interviews, archival footage, and raw recordings as each artist breaks down their song, layer by layer, sharing intimate insight into the personal inspiration behind the music and lyrics.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Hrishikesh Hirway, Lin-Manuel Miranda, Dua Lipa",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Ladies First: A Story of Women in Hip-Hop",
@@ -596,7 +1084,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt28491199",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0MjNiZjMtNWY0NS00NGNlLThjYjEtNTBiNzQ3MDJhOGU2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Recreates the role that the unstoppable women of hip-hop have played across the 50 years of this groundbreaking genre, putting them where they belong: at the heart of the present day."
+      "Plot": "Recreates the role that the unstoppable women of hip-hop have played across the 50 years of this groundbreaking genre, putting them where they belong: at the heart of the present day.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Cardi B, Megan Thee Stallion, Lil' Kim",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Voices of Fire",
@@ -605,7 +1101,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt13329282",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGM2YzI4NzktNzViOC00M2ZhLTgxYzItY2Q5OWJlZmE3YmVmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Pharrell Williams's hometown community leaders attempt to build one of the world's most inspiring gospel choirs."
+      "Plot": "Pharrell Williams's hometown community leaders attempt to build one of the world's most inspiring gospel choirs.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Marcus Richardson, Shakara Monique, Keith Ball",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "BREAK IT ALL: The History of Rock in Latin America",
@@ -614,7 +1118,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt13570366",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGFlMTllYjYtN2MzZS00N2M0LTlmYTktZmM2Yzg3YmNhNWRlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Soda Stereo, Café Tacvba, Aterciopelados and others feature in this 50-year history of Latin American rock through dictatorships, disasters and dissent."
+      "Plot": "Soda Stereo, Café Tacvba, Aterciopelados and others feature in this 50-year history of Latin American rock through dictatorships, disasters and dissent.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Gustavo Santaolalla, Rubén Albarrán, Javier Batiz",
+      "Language": "Spanish",
+      "Country": "N/A"
     },
     {
       "title": "Only For Love",
@@ -623,7 +1135,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt29366100",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTMyM2JkM2MtOGU4My00NmNiLWE1ODktYjdjNTgyYzg0ZjM4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Zheng Shu Yi is a hard-working reporter for one of China's leading financial newspapers. Shi Yan, the businessman, is looking to make a series of investments. Could this blossoming working relationship also lead them on the path t..."
+      "Plot": "Zheng Shu Yi is a hard-working reporter for one of China's leading financial newspapers. Shi Yan, the businessman, is looking to make a series of investments. Could this blossoming working relationship also lead them on the path t...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Lu Bai, Dylan Wang, Yuan Nie",
+      "Language": "Chinese, Mandarin",
+      "Country": "China"
     },
     {
       "title": "HOMECOMING: A film by Beyoncé",
@@ -632,7 +1152,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt10147546",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDEzODFjZDUtYjFhMy00OTdiLThiMzctYzg5Yjc4ZTVkMmQ3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This intimate, in-depth look at Beyoncé's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement."
+      "Plot": "This intimate, in-depth look at Beyoncé's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Documentary, Music",
+      "Director": "Beyoncé, Ed Burke",
+      "Writer": "Beyoncé",
+      "Actors": "Beyoncé, Jay-Z, Kelly Rowland",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Nobody Knows I'm Here",
@@ -641,7 +1169,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt10728764",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ3NDA2NWEtN2U0ZC00OWQ1LTgxNmUtY2QxN2ExNTkxOWU3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Memo lives on a remote Chilean sheep farm, hiding a beautiful singing voice from the outside world. A recluse with a glittery flair, he can't stop dwelling on the past, but what will happen once someone finally listens?"
+      "Plot": "Memo lives on a remote Chilean sheep farm, hiding a beautiful singing voice from the outside world. A recluse with a glittery flair, he can't stop dwelling on the past, but what will happen once someone finally listens?",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama, Music",
+      "Director": "Gaspar Antillo",
+      "Writer": "Gaspar Antillo, Josefina Fernández, Enrique Videla",
+      "Actors": "Jorge Garcia, Lukas Vergara, Millaray Lobos",
+      "Language": "Spanish, English",
+      "Country": "Chile"
     },
     {
       "title": "Karma's World",
@@ -650,7 +1186,15 @@
       "imdb_rating": "6.7",
       "imdb_id": "tt13321232",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWI5OWM4YmEtY2RlZS00Y2E5LTlmZDgtN2IzYmNiOWM2MDUyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg",
-      "Plot": "Lyrically gifted middle schooler Karma juggles rap dreams and rhyme schemes while using her talent, ambition and heart to solve any problem."
+      "Plot": "Lyrically gifted middle schooler Karma juggles rap dreams and rhyme schemes while using her talent, ambition and heart to solve any problem.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Animation, Short, Comedy",
+      "Director": "N/A",
+      "Writer": "Ludacris",
+      "Actors": "Asiahn, Isaia Alvarez Kohn, Camden Coley",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "The Queen of Flow",
@@ -659,7 +1203,15 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt8560918",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGIzOWNlMDktZjkzMy00MjcxLTgzMjAtMzdkM2EwNTk2Y2JhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A talented young Reggaeton music composer from Medellín, Colombia gets wrongly imprisoned in New York City, all her music is stolen, and her family is murdered. Years later she returns to Medellín to wreak revenge on those who wro..."
+      "Plot": "A talented young Reggaeton music composer from Medellín, Colombia gets wrongly imprisoned in New York City, all her music is stolen, and her family is murdered. Years later she returns to Medellín to wreak revenge on those who wro...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Music, Romance",
+      "Director": "N/A",
+      "Writer": "Said Chamie, Claudia Sánchez Morales, Andres Salgado",
+      "Actors": "Carolina Ramírez, Carlos Torres, Andres Sandoval",
+      "Language": "Spanish",
+      "Country": "Colombia"
     },
     {
       "title": "Selena: The Series",
@@ -668,7 +1220,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt9421868",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGVkMzkzNGYtMjNjYS00NWVlLTk3MzMtNjgyZTc1Mjg0NjdkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows late Tejana singer Selena as she tries to make her dreams come true and her family makes life-changing choices on her journey to success."
+      "Plot": "Follows late Tejana singer Selena as she tries to make her dreams come true and her family makes life-changing choices on her journey to success.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "N/A",
+      "Writer": "Moisés Zamora",
+      "Actors": "Christian Serratos, Gabriel Chavarria, Ricardo Chavira",
+      "Language": "English",
+      "Country": "Mexico, United States"
     },
     {
       "title": "Sing On!",
@@ -677,7 +1237,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt12923734",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNWRlNzg5ZDgtMTcyMi00MWE3LTlhNTgtNzNjNzM2ODkxNTkwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In each themed episode, six contestants belt out the biggest hits from that genre while being judged by a vocal analyzer comparing their vocal performance to the original artist's."
+      "Plot": "In each themed episode, six contestants belt out the biggest hits from that genre while being judged by a vocal analyzer comparing their vocal performance to the original artist's.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Game-Show, Music",
+      "Director": "N/A",
+      "Writer": "Stuart Shawcross",
+      "Actors": "Tituss Burgess, Chaneé, Hanah Chang",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "I'm No Longer Here",
@@ -686,7 +1254,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt4323594",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTM3OWZjOTQtNTA0My00YTNkLWJhY2MtNWI5YzA1ZTE2Y2QxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In Monterrey, Mexico, a young street gang spends their days dancing to slowed-down cumbia and attending parties. After a mix-up with a local cartel, their leader is forced to migrate to the U.S. but quickly longs to return home."
+      "Plot": "In Monterrey, Mexico, a young street gang spends their days dancing to slowed-down cumbia and attending parties. After a mix-up with a local cartel, their leader is forced to migrate to the U.S. but quickly longs to return home.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama",
+      "Director": "Fernando Frias",
+      "Writer": "Fernando Frias",
+      "Actors": "Juan Daniel García Treviño, Emily May Jampel, Xueming Angelina Chen",
+      "Language": "Spanish, English",
+      "Country": "Mexico, United States"
     },
     {
       "title": "Miss Americana",
@@ -695,7 +1271,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt11388580",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWY3ODNlZjEtZWU4Zi00YzBhLWE3YWMtMmMyMzZkZmYxOTMyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look at iconic pop artist Taylor Swift during a transformational time in her life as she embraces her role as a singer/songwriter and harnesses the full power of her voice."
+      "Plot": "A look at iconic pop artist Taylor Swift during a transformational time in her life as she embraces her role as a singer/songwriter and harnesses the full power of her voice.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Lana Wilson",
+      "Writer": "N/A",
+      "Actors": "Taylor Swift, Andrea Swift, Scott Swift",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "GIMS: On the Record",
@@ -704,7 +1288,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt12982218",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGI5YzI4NWUtMGZkNC00NmM5LWE3MTctZGU5ZTg2N2EwZGVkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Go backstage with beloved rap superstar Gims in the year leading up to his major 2019 Stade de France performance in this up-close documentary."
+      "Plot": "Go backstage with beloved rap superstar Gims in the year leading up to his major 2019 Stade de France performance in this up-close documentary.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Documentary, Music",
+      "Director": "Florent Bodin",
+      "Writer": "N/A",
+      "Actors": "Chaz Hodges, Lorene Chesley, Maître Gims",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Los Tigres del Norte at Folsom Prison",
@@ -713,7 +1305,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt10857582",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjlhNzI2MmMtNGQ3Yi00ZTViLTg4YTUtODU3YWMwNTM1YWM3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The band Los Tigres del Norte visit both the male and female inmates of Folsom Prison. Inmates share their stories and how the music of Los Tigres del Norte speaks to them."
+      "Plot": "The band Los Tigres del Norte visit both the male and female inmates of Folsom Prison. Inmates share their stories and how the music of Los Tigres del Norte speaks to them.",
+      "Type": "movie",
+      "RunTime": "64 min",
+      "Genre": "Documentary, Music",
+      "Director": "Tom Donahue",
+      "Writer": "Zach Horowitz, Los Tigres del Norte",
+      "Actors": "Los Tigres del Norte",
+      "Language": "Spanish",
+      "Country": "United States"
     },
     {
       "title": "Halftime",
@@ -722,7 +1322,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt19637852",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjVlM2Q1MzItZTNiMS00YWI3LTk3NDctNGVjZTM3NzIyNWYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary."
+      "Plot": "Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Amanda Micheli, Sam Wrench",
+      "Writer": "N/A",
+      "Actors": "Jennifer Lopez, Ben Affleck, Adam Blackstone",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Rebelde",
@@ -731,7 +1339,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt14153686",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTE3NjY5ZWQtYzZmMS00MjYyLWJkMzEtZjQxMmU0ZGI3MzFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A group of students are doing their best to win EWS' Battle of the Bands. Along the way, love and friendship bloom between them while a mysterious secret society casts a shadow over their dreams of becoming the next big music star."
+      "Plot": "A group of students are doing their best to win EWS' Battle of the Bands. Along the way, love and friendship bloom between them while a mysterious secret society casts a shadow over their dreams of becoming the next big music star.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Quetzal Santana, Azul Guaita, Franco Masini",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "Parchís: the Documentary",
@@ -740,7 +1356,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt10511826",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWE1M2M0ZWYtNGI5Ni00ZWZkLTk3NmItOWEwNTI1ZmQxODk0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary about the rise and fall of the Spanish children's music group, Parchis."
+      "Plot": "A documentary about the rise and fall of the Spanish children's music group, Parchis.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Documentary",
+      "Director": "Daniel Arasanz",
+      "Writer": "Daniel Arasanz, Jordi Meya, Richard Royuela",
+      "Actors": "Eva Mariol, Imma Cabecerans, Joaquín Oristrell",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Purple Hearts",
@@ -749,7 +1373,15 @@
       "imdb_rating": "6.7",
       "imdb_id": "tt4614584",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ4NzU3MTktZTYzOC00OWU4LWI2MWUtYWViYjI3MTc0YTRhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In spite of their many differences, Cassie, a struggling singer-songwriter, and Luke, a troubled Marine, agree to marry solely for military benefits, but when tragedy strikes, the line between real and pretend begins to blur."
+      "Plot": "In spite of their many differences, Cassie, a struggling singer-songwriter, and Luke, a troubled Marine, agree to marry solely for military benefits, but when tragedy strikes, the line between real and pretend begins to blur.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "Elizabeth Allen Rosenbaum",
+      "Writer": "Kyle Jarrow, Liz W. Garcia",
+      "Actors": "Sofia Carson, Nicholas Galitzine, Chosen Jacobs",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Da 5 Bloods",
@@ -758,7 +1390,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt9777644",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjIwN2IxODEtNDhhMi00NDEwLWIwODEtYjIzZDVhZjg0Y2MyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Four black veterans battle the forces of man and nature when they return to Vietnam seeking the remains of their fallen squad leader and the gold fortune he helped them hide."
+      "Plot": "Four black veterans battle the forces of man and nature when they return to Vietnam seeking the remains of their fallen squad leader and the gold fortune he helped them hide.",
+      "Type": "movie",
+      "RunTime": "154 min",
+      "Genre": "Adventure, Drama, War",
+      "Director": "Spike Lee",
+      "Writer": "Danny Bilson, Paul De Meo, Kevin Willmott",
+      "Actors": "Delroy Lindo, Jonathan Majors, Clarke Peters",
+      "Language": "English, Finnish, French, Vietnamese",
+      "Country": "United States"
     },
     {
       "title": "Travis Scott: Look Mom I Can Fly",
@@ -767,7 +1407,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt10856726",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjFhZGI3YzktOThlMC00OTZlLWE5MWUtOTUxODMxZTQyNmQ3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "'Travis Scott: Look Mom I Can Fly' traces the Houston rapper's rise to super-stardom, focusing on the months surrounding ASTROWORLD."
+      "Plot": "'Travis Scott: Look Mom I Can Fly' traces the Houston rapper's rise to super-stardom, focusing on the months surrounding ASTROWORLD.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary, Music",
+      "Director": "White Trash Tyler, Isaac Yowman",
+      "Writer": "N/A",
+      "Actors": "Kylie Jenner, Travis Scott, Stormi Webster",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "This Is Pop",
@@ -776,7 +1424,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt14155414",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0Mzk1NWEtNGYzMy00YTExLTkzMTctNjYwOGZiY2Y1YTI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Uncover the real stories behind your favorite pop songs as this docuseries charts the impact of the festival scene, Auto-Tune, boy bands and more."
+      "Plot": "Uncover the real stories behind your favorite pop songs as this docuseries charts the impact of the festival scene, Auto-Tune, boy bands and more.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ludwig Göransson, Hozier, T-Pain",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Country Comfort",
@@ -785,7 +1441,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt11717394",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWE3MTI3M2EtODViNi00ODlmLWI5YzQtNzcxNDVlMzE1Yzg0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An aspiring young country singer finds the band she's been missing when she takes a job as nanny for a musically talented family: a rugged cowboy and his five children."
+      "Plot": "An aspiring young country singer finds the band she's been missing when she takes a job as nanny for a musically talented family: a rugged cowboy and his five children.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "N/A",
+      "Writer": "Caryn Lucas",
+      "Actors": "Katharine McPhee, Eddie Cibrian, Ricardo Hurtado",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Dolly Parton: A MusiCares Tribute",
@@ -794,7 +1458,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt14299926",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODcxYTk2MjktNTJlYy00YzAyLWFjMzYtNjYwZjNlZTVkYTI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In a star-studded evening of music and memories, a community of iconic performers honor Dolly Parton as the MusiCares Person of the Year."
+      "Plot": "In a star-studded evening of music and memories, a community of iconic performers honor Dolly Parton as the MusiCares Person of the Year.",
+      "Type": "movie",
+      "RunTime": "55 min",
+      "Genre": "Documentary, Music",
+      "Director": "Christian Lamb",
+      "Writer": "N/A",
+      "Actors": "Brooke Weirick",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Racionais MC's: From the Streets of São Paulo",
@@ -803,7 +1475,15 @@
       "imdb_rating": "8.2",
       "imdb_id": "tt22988228",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDA4YTBkOTgtYjA1NS00ZmM3LWJkNDgtM2ZlMGU4YzU3NTE1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Armed with music and a message, influential hip-hop group Racionais MC's turned their street poetry into a powerful movement in Brazil and beyond"
+      "Plot": "Armed with music and a message, influential hip-hop group Racionais MC's turned their street poetry into a powerful movement in Brazil and beyond",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Documentary, Music",
+      "Director": "Juliana Vicente",
+      "Writer": "Elton de Almeida",
+      "Actors": "Ice Blue, Mano Brown, Georgina Elizabeth Okon",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Savage Rhythm",
@@ -812,7 +1492,15 @@
       "imdb_rating": "5.4",
       "imdb_id": "tt14494806",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmMwYzczYmUtODJmOS00YmM3LWI5ZjItZWE5MmRhNTY2Mzc5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Two groups from opposite worlds walk their own paths until they come face to face in a dance battle."
+      "Plot": "Two groups from opposite worlds walk their own paths until they come face to face in a dance battle.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Music",
+      "Director": "N/A",
+      "Writer": "Juliana Barrera",
+      "Actors": "Paulina Dávila, Brooke Newton, Olivia Castanho",
+      "Language": "Spanish",
+      "Country": "Colombia"
     },
     {
       "title": "Ma Rainey's Black Bottom",
@@ -821,7 +1509,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt10514222",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWIzMTAyZGMtZTIzZi00YTc4LTlmNGEtMzMxYTgzYWM5ODM3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Tensions rise when trailblazing blues singer Ma Rainey and her band gather at a recording studio in Chicago in 1927."
+      "Plot": "Tensions rise when trailblazing blues singer Ma Rainey and her band gather at a recording studio in Chicago in 1927.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Drama, Music",
+      "Director": "George C. Wolfe",
+      "Writer": "Ruben Santiago-Hudson, August Wilson",
+      "Actors": "Viola Davis, Chadwick Boseman, Glynn Turman",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "BLACKPINK: Light Up the Sky",
@@ -830,7 +1526,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt13058290",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjNhOGUxYTAtZDFhNC00ZjVmLWEyNmEtOWMxZjdjMjMyMjlmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Chart the meteoric rise of the South Korean girl group BLACKPINK in director Caroline Suh's documentary."
+      "Plot": "Chart the meteoric rise of the South Korean girl group BLACKPINK in director Caroline Suh's documentary.",
+      "Type": "movie",
+      "RunTime": "79 min",
+      "Genre": "Documentary, Music",
+      "Director": "Caroline Suh",
+      "Writer": "Leonard Kevin Moberg (story by)",
+      "Actors": "Reila Post, Blackpink, Kim Jisoo",
+      "Language": "Korean, English, Thai",
+      "Country": "United States, South Korea"
     },
     {
       "title": "ANIMA",
@@ -839,7 +1543,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt10516984",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTZmZmMzZDctZjk2Ny00YmMzLThhZWMtMTFmYTgzZWUxNWNlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In a short musical film directed by Paul Thomas Anderson, Thom Yorke of Radiohead scores and stars in a mind-bending visual piece. Best played loud."
+      "Plot": "In a short musical film directed by Paul Thomas Anderson, Thom Yorke of Radiohead scores and stars in a mind-bending visual piece. Best played loud.",
+      "Type": "movie",
+      "RunTime": "15 min",
+      "Genre": "Short, Music",
+      "Director": "Paul Thomas Anderson",
+      "Writer": "N/A",
+      "Actors": "Thom Yorke, Dajana Roncione, Frida Dam Seidel",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Last Christmas",
@@ -848,7 +1560,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt8623904",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2NlNTMwYzgtZjI2Ny00ZWExLWE2NDUtNzFlYTQyMmY1NjkwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Kate is a young woman subscribed to bad decisions. Working as an elf in a year-round Christmas store is not good for the wannabe singer. However, she meets Tom there. Her life takes a new turn--that seems too good to be true."
+      "Plot": "Kate is a young woman subscribed to bad decisions. Working as an elf in a year-round Christmas store is not good for the wannabe singer. However, she meets Tom there. Her life takes a new turn--that seems too good to be true.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Paul Feig",
+      "Writer": "George Michael, Emma Thompson, Greg Wise",
+      "Actors": "Madison Ingoldsby, Emma Thompson, Boris Isakovic",
+      "Language": "English, Serbo-Croatian, Mandarin, French",
+      "Country": "United Kingdom, China, United States"
     },
     {
       "title": "Sing On! Spain",
@@ -877,7 +1597,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt27726927",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWIzMTFiNWMtMzZmOC00YWJlLTgwOGItMTcwMzFkNDhmMTAxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Through archival interviews and footage, George Michael and Andrew Ridgeley relive the arc of their Wham career, from '70s best buds to '80s pop icons."
+      "Plot": "Through archival interviews and footage, George Michael and Andrew Ridgeley relive the arc of their Wham career, from '70s best buds to '80s pop icons.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Chris Smith",
+      "Writer": "Clare Keogh",
+      "Actors": "Wham!, George Michael, Andrew Ridgeley",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Almost Pyaar With DJ Mohabbat",
@@ -886,7 +1614,15 @@
       "imdb_rating": "4.9",
       "imdb_id": "tt23472806",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGFmYWQ2NTItNGFhNy00ZDJlLTlkY2ItNDA5NjMwZDU0NzBlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In London, a girl likes a boy, a little too much. And, in a parallel universe exists a boy that likes a girl. The two unrequited love stories, burdened by social status, caste and inequality are breathlessly, heading on towards ea..."
+      "Plot": "In London, a girl likes a boy, a little too much. And, in a parallel universe exists a boy that likes a girl. The two unrequited love stories, burdened by social status, caste and inequality are breathlessly, heading on towards ea...",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Drama, Musical, Romance",
+      "Director": "Anurag Kashyap",
+      "Writer": "Anurag Kashyap",
+      "Actors": "Alaya F, Karan Mehta, Vicky Kaushal",
+      "Language": "English, Urdu, Hindi",
+      "Country": "India"
     },
     {
       "title": "All For Love",
@@ -895,7 +1631,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt10347886",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTczMGExYjUtM2JkYy00YWZjLWFhNGMtZTVmYTJkMDRiMTQyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Irene, singer of the market band 'Los Milagrosos', meets Joaquín, a mechanic arriving in town with only the clothes on his back. Their encounter sparks a profound connection."
+      "Plot": "Irene, singer of the market band 'Los Milagrosos', meets Joaquín, a mechanic arriving in town with only the clothes on his back. Their encounter sparks a profound connection.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Alex Paez, Vilma Vera, Alden Rojas",
+      "Language": "Spanish",
+      "Country": "Colombia"
     },
     {
       "title": "Ben Platt Live from Radio City Music Hall",
@@ -904,7 +1648,15 @@
       "imdb_rating": "8.3",
       "imdb_id": "tt11000894",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGZjN2ZiNDMtYTEyYi00ZDdiLWEyNDUtYjQ4ZTVkMGU3ZDA4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Backed by a full band and a ready wit, actor Ben Platt opens up a very personal songbook onstage - numbers from his debut LP, \"Sing to Me Instead.\""
+      "Plot": "Backed by a full band and a ready wit, actor Ben Platt opens up a very personal songbook onstage - numbers from his debut LP, \"Sing to Me Instead.\"",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Music",
+      "Director": "Alex Timbers, Sam Wrench",
+      "Writer": "N/A",
+      "Actors": "Ben Platt, Nir Felder, Justin Goldner",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Maestro",
@@ -913,7 +1665,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt5535276",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2M1MWUyYzctMzk1Zi00M2RkLTkwY2YtMzE4MDhiZGQwZmU5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This love story chronicles the lifelong relationship of conductor-composer Leonard Bernstein and actress Felicia Montealegre Cohn Bernstein."
+      "Plot": "This love story chronicles the lifelong relationship of conductor-composer Leonard Bernstein and actress Felicia Montealegre Cohn Bernstein.",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Bradley Cooper",
+      "Writer": "Bradley Cooper, Josh Singer",
+      "Actors": "Carey Mulligan, Bradley Cooper, Matt Bomer",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Britney Vs Spears",
@@ -922,7 +1682,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt15469820",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTNjZGMwOTgtMTVhYS00MzUyLTg2OTItODUwZTQ2N2FjYTY5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Journalist Jenny Eliscu and filmmaker Erin Lee Carr investigate Britney Spears' fight for freedom by way of exclusive interviews and confidential evidence."
+      "Plot": "Journalist Jenny Eliscu and filmmaker Erin Lee Carr investigate Britney Spears' fight for freedom by way of exclusive interviews and confidential evidence.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "Erin Lee Carr",
+      "Writer": "Sloane Klevin",
+      "Actors": "Britney Spears, Erin Lee Carr, Jenny Eliscu",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Playlist",
@@ -931,7 +1699,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt11564258",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDExODQ3OGMtOWVlMC00NjgzLWE4YmEtNzY0MGQ2ZjM2NzRhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "How Swedish tech entrepreneur Daniel Ek and business partner Martin Lorentzon revolutionized the music industry through free and legal music streaming when they launched Spotify."
+      "Plot": "How Swedish tech entrepreneur Daniel Ek and business partner Martin Lorentzon revolutionized the music industry through free and legal music streaming when they launched Spotify.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography, Drama, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Christian Hillborg, Edvin Endre, Severija Janusauskaite",
+      "Language": "Swedish, English",
+      "Country": "Sweden"
     },
     {
       "title": "Fanático",
@@ -940,7 +1716,15 @@
       "imdb_rating": "5.1",
       "imdb_id": "tt13322978",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGZiZjY4ZTctYzViYS00Njg5LWI3M2ItMTIyY2NmOGU5YjVmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An unconditional fan starts impersonating his new idol following his death."
+      "Plot": "An unconditional fan starts impersonating his new idol following his death.",
+      "Type": "series",
+      "RunTime": "10 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "N/A",
+      "Writer": "Yago de Torres Peño, Dani del Águila, Federico Maniá Sibona",
+      "Actors": "Lorenzo Ferro, Dollar Selmouni, Carlota Urdiales",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Johnny Hallyday: Beyond Rock",
@@ -949,7 +1733,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt14465966",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODNhMGE2MDctMjdmNC00NDQ0LThhYmYtZjhiM2I3MDUwOTYwXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_SX300.jpg",
-      "Plot": "An intimate docuseries that explores the life and career of France's rock icon through archival film and interviews."
+      "Plot": "An intimate docuseries that explores the life and career of France's rock icon through archival film and interviews.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "J-Style Trip",
@@ -958,7 +1750,15 @@
       "imdb_rating": "4.9",
       "imdb_id": "tt11942052",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNWUwODNkMjctNjY2Ny00MWVlLTk4NDgtMGY2ZTZkZjc5YmNjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jay Chou, Funky Tu, Chen Kuan-Lin",
+      "Language": "Mandarin",
+      "Country": "Taiwan, China"
     },
     {
       "title": "ARASHI's Diary -Voyage-",
@@ -967,7 +1767,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt11434874",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjhmMzhhMDgtMjIxOC00N2JkLTgwYjAtNjI3MzRiODZiYTI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Twenty years after their debut, join the beloved members of Arashi on a new journey as they showcase their lives, talents and gifts to the world."
+      "Plot": "Twenty years after their debut, join the beloved members of Arashi on a new journey as they showcase their lives, talents and gifts to the world.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Arashi",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Love & Hip Hop New York",
@@ -986,7 +1794,15 @@
       "imdb_rating": "4.9",
       "imdb_id": "tt15478968",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1MTUxNDctNzBjYi00NzRkLWFjZjgtM2Q0ZDQwNTQyNmFlXkEyXkFqcGdeQXVyNzA1MjA5NzA@._V1_SX300.jpg",
-      "Plot": "Join the creative process behind Nacho Cano's new musical based on the love story of Malinche and Hernan Cortes and the merging of their two worlds."
+      "Plot": "Join the creative process behind Nacho Cano's new musical based on the love story of Malinche and Hernan Cortes and the merging of their two worlds.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Documentary, Musical",
+      "Director": "Marta Hermida, Lana Love",
+      "Writer": "N/A",
+      "Actors": "Nacho Cano, Andrés Domit del Valle, Kristen Grace Gonzalez",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "ariana grande: excuse me, i love you",
@@ -995,7 +1811,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt13615386",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTY1MGE4Y2EtNDVlMi00NWQwLWFmN2YtYmE0NTBkMDQyMjYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road."
+      "Plot": "Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary, Music",
+      "Director": "Rashad Ismail, Stuart Merser, Paul Dugdale",
+      "Writer": "N/A",
+      "Actors": "Ariana Grande, Natural, Eric Ingram",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "One Take",
@@ -1004,7 +1828,15 @@
       "imdb_rating": "5.7",
       "imdb_id": "tt12401232",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTczZGM2MDAtMTYyYS00MzI4LTk5NWItM2NkYzk5ZDY0OWE4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Members of Thai girl group BNK48 share the ups and downs of preparing for the 6th Single Senbatsu General Election."
+      "Plot": "Members of Thai girl group BNK48 share the ups and downs of preparing for the 6th Single Senbatsu General Election.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Documentary, Music",
+      "Director": "Manatsanun Phanlerdwongsakul",
+      "Writer": "N/A",
+      "Actors": "Jiradapa Intajak, Praewa Suthamphong",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Rhythm + Flow France",
@@ -1013,7 +1845,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt20192132",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWJmODM4OGItNzNkYi00ODc5LTk1NmUtOTlhNGY0MDk1M2YyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "French rappers freestyle, battle and write their way to a game-changing 100,000 euro prize in a music competition series judged by Niska, Shay and SCH."
+      "Plot": "French rappers freestyle, battle and write their way to a game-changing 100,000 euro prize in a music competition series judged by Niska, Shay and SCH.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Elias Argentiere, Brandon English, Phillip Andre Botello",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Misfit: The Series",
@@ -1022,7 +1862,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt15517928",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzZjZTY4OGUtOWI3YS00N2UzLTliZmUtNDg0YjE1YTkwYjIyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The Misfits are in for a wild year as they prepare a school musical; it's up to Julia to save the day after the new headmaster bans the show."
+      "Plot": "The Misfits are in for a wild year as they prepare a school musical; it's up to Julia to save the day after the new headmaster bans the show.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Comedy, Musical",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Djamila, Niek Roozen, Jolijn Henneman",
+      "Language": "Dutch",
+      "Country": "Netherlands"
     },
     {
       "title": "Forever Rich",
@@ -1031,7 +1879,15 @@
       "imdb_rating": "5.6",
       "imdb_id": "tt12748300",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjg0NDM0ZmMtMjk5Yy00MGM4LWEzOWItNWNkMzJiMDQzZmM2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When Richie's watch is stolen in a violent robbery and humiliating images of the encounter go viral, the rapper has to fix his reputation to save his career."
+      "Plot": "When Richie's watch is stolen in a violent robbery and humiliating images of the encounter go viral, the rapper has to fix his reputation to save his career.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Shady El-Hamus",
+      "Writer": "Shady El-Hamus, Jeroen Scholten van Aschat",
+      "Actors": "Jonas Smulders, Daniël Kolf, Sinem Kavus",
+      "Language": "Dutch",
+      "Country": "Netherlands"
     },
     {
       "title": "Broken Idol: The Undoing of Diomedes Díaz",
@@ -1040,7 +1896,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt18750180",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODAwYjE2NzYtNTNlYy00Njk0LTkxYzEtYzczMWFjMDEwMzBmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Chronicles Diomedes Díaz's rise as one of Colombia's most iconic singers, and his downfall after being accused of killing a fan."
+      "Plot": "Chronicles Diomedes Díaz's rise as one of Colombia's most iconic singers, and his downfall after being accused of killing a fan.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Jaime Barbosa, Jorge Duran",
+      "Writer": "N/A",
+      "Actors": "Diomedes Diaz, Jorge Oñate, Marciano Martínez",
+      "Language": "Spanish",
+      "Country": "Colombia"
     },
     {
       "title": "Anitta: Made In Honório",
@@ -1049,7 +1913,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt13486136",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmFlOTRkODAtMjUxZi00NzkzLThlZjEtODhhNGE4NThmNzYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this intimate documentary, Brazilian pop queen Anitta opens up about fame, family and her fierce work ethic, revealing the woman behind the hits."
+      "Plot": "In this intimate documentary, Brazilian pop queen Anitta opens up about fame, family and her fierce work ethic, revealing the woman behind the hits.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Anitta, Lauren McFall, Arielle Macedo",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Reign Supreme",
@@ -1058,7 +1930,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt14302518",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTc2NmI4MWYtMGVjYi00ODBhLWIyNTEtODgzNGMwNWVmM2UxXkEyXkFqcGdeQXVyNTgyNzE1Njg@._V1_SX300.jpg",
-      "Plot": "A series full of music about the famous french rap band NTM before it was even NTM, and about the arrival of hip hop in France, a time of changes, a portrait of France in the 80s."
+      "Plot": "A series full of music about the famous french rap band NTM before it was even NTM, and about the arrival of hip hop in France, a time of changes, a portrait of France in the 80s.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography, Drama, Music",
+      "Director": "N/A",
+      "Writer": "Hélier Cisterne, David Elkaïm, Vincent Poymiro",
+      "Actors": "Anthony Bajon, Melvin Boomer, Andranic Manet",
+      "Language": "French, English",
+      "Country": "France"
     },
     {
       "title": "Emicida: AmarElo - It’s All For Yesterday",
@@ -1067,7 +1947,15 @@
       "imdb_rating": "8.5",
       "imdb_id": "tt13458600",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjJlYjA0YmItNDgwYy00ZTQ0LTg5MWQtNzA0NGM4ZTAzMGQ5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Between scenes from his concert in São Paulo's Theatro Municipal, rapper and activist Emicida celebrates the rich legacy of Black Brazilian culture."
+      "Plot": "Between scenes from his concert in São Paulo's Theatro Municipal, rapper and activist Emicida celebrates the rich legacy of Black Brazilian culture.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary, Music",
+      "Director": "Fred Ouro Preto",
+      "Writer": "N/A",
+      "Actors": "Emicida, Zeca Pagodinho, Pabllo Vittar",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Angèle",
@@ -1076,7 +1964,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt15820298",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODEzODMzZjktZjdhZi00NzU0LTk3YmItMjMwNjhmZDRjZDg1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Belgian pop star Angèle reflects on her life and hopes as she finds balance amid the tears, joys and loneliness of fame. Told through her own words."
+      "Plot": "Belgian pop star Angèle reflects on her life and hopes as she finds balance amid the tears, joys and loneliness of fame. Told through her own words.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Sébastien Rensonnet, Brice Vdh",
+      "Writer": "N/A",
+      "Actors": "Angèle",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Rainbow",
@@ -1085,7 +1981,15 @@
       "imdb_rating": "4.7",
       "imdb_id": "tt14722598",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmZkMjI0MDctOTNhOC00ODc1LTgwZTMtOWU0ZmQxYmQxN2JjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Modern day Dorothy (Wizard of Oz inspiration) faces the challenges of being a teenager nowdays and the harsh words of peers."
+      "Plot": "Modern day Dorothy (Wizard of Oz inspiration) faces the challenges of being a teenager nowdays and the harsh words of peers.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Drama",
+      "Director": "Paco León",
+      "Writer": "Javier Gullón, Paco León",
+      "Actors": "Dora Postigo, Carmen Maura, Carmen Machi",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Emicida: AmarElo - Live in São Paulo",
@@ -1094,7 +1998,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt14910946",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGJhODBjNDYtODdlZi00NjMwLTkzMDItNzFlZDgzNzQwNmNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Brazilian rapper Emicida brings his progressive rhymes and eclectic beats to São Paulo's Theatro Municipal as he performs hits from the album \"AmarElo.\""
+      "Plot": "Brazilian rapper Emicida brings his progressive rhymes and eclectic beats to São Paulo's Theatro Municipal as he performs hits from the album \"AmarElo.\"",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Music",
+      "Director": "Fred Ouro Preto",
+      "Writer": "N/A",
+      "Actors": "Emicida",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Heartsong",
@@ -1103,7 +2015,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt21339860",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjM4NWQxODgtOWZlYi00ZDM2LTk1NDItMDkwMGIzOTZjZWYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "While serenading a wedding that quickly implodes, o nomadic musician falls for the bride, who runs afoul of her family. Now he has to save her life."
+      "Plot": "While serenading a wedding that quickly implodes, o nomadic musician falls for the bride, who runs afoul of her family. Now he has to save her life.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Soner Caner",
+      "Writer": "Soner Caner",
+      "Actors": "Erkan Kolçak Köstendil, Hazar Ergüçlü, Bülent Emin Yarar",
+      "Language": "Turkish",
+      "Country": "Turkey"
     },
     {
       "title": "The Disciple",
@@ -1112,7 +2032,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt14444016",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTM0YjkzYTQtZjgxYS00ZDM3LTk1MDktNTYwMjk2YTAzNDM1XkEyXkFqcGdeQXVyMjI4Njg0MDM@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "14 min",
+      "Genre": "Documentary, Short",
+      "Director": "Kamelya Alexan",
+      "Writer": "N/A",
+      "Actors": "Shango Johnson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Heroes: Silence and Rock & Roll",
@@ -1139,7 +2067,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt14307536",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODQ3ZGM2YjctY2MyZC00NTIzLTg4NDgtZDVhNDZhZWQ5M2Q1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret."
+      "Plot": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Drama, Mystery, Romance",
+      "Director": "Tyler Perry",
+      "Writer": "Tyler Perry",
+      "Actors": "Joshua Boone, Amirah Vann, Solea Pfeiffer",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Do You Like Brahms?",
@@ -1148,7 +2084,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt12867750",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzllYjEzMzAtMzkwYy00ZmZlLWJhOWEtYWU3ZjgzMTkyMzEyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A drama about the dreams and love of classical music students who find their own happiness after wandering between talent and reality."
+      "Plot": "A drama about the dreams and love of classical music students who find their own happiness after wandering between talent and reality.",
+      "Type": "series",
+      "RunTime": "65 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Park Eun-bin, Kim Min-jae, Kim Sung-cheol",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "The Family That Sings Together: The Camargos",
@@ -1201,7 +2145,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt27417159",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ4ZWFjYTctNTFhNC00NzcwLWE1Y2ItZTVkYTg0ODQ4ZjFjXkEyXkFqcGdeQXVyMTYyMTQxOTcw._V1_SX300.jpg",
-      "Plot": "An aspiring singer reunites with her childhood friends to catch her big break, paving the road toward musical stardom."
+      "Plot": "An aspiring singer reunites with her childhood friends to catch her big break, paving the road toward musical stardom.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Music, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Suppapong Udomkaewkanjana, Talay Sanguandikul, Chonnikan Netjui",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Vasco Rossi: Living It",
@@ -1210,7 +2162,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt28081900",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzg2ZTZhMWYtYWJmMi00NDkzLWJkYTgtMGU5MGM5NTc5ODE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Italy's most beloved rock star Vasco Rossi grants unprecedented access to intimate details of his personal life and successful career over the decades."
+      "Plot": "Italy's most beloved rock star Vasco Rossi grants unprecedented access to intimate details of his personal life and successful career over the decades.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Vasco Rossi",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "Qala",
@@ -1219,7 +2179,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt14428598",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGFjYTliNzAtOTRlYi00NjNkLThmMGMtMmNhZjUyM2UyYWZhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Haunted by her past, a talented singer with a rising career copes with the pressure of success, a mother's disdain and the voices of doubt within her."
+      "Plot": "Haunted by her past, a talented singer with a rising career copes with the pressure of success, a mother's disdain and the voices of doubt within her.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Drama, Music",
+      "Director": "Anvita Dutt",
+      "Writer": "Anvita Dutt",
+      "Actors": "Triptii Dimri, Babil Khan, Swastika Mukherjee",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "The Price of Glory",
@@ -1228,7 +2196,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt11459858",
       "Poster": "N/A",
-      "Plot": "Another dream comes to Crazy Lizard showing glimpses of the future. A new member of the Dragon Clan proves he is a capable warrior by dueling Mr. Killer."
+      "Plot": "Another dream comes to Crazy Lizard showing glimpses of the future. A new member of the Dragon Clan proves he is a capable warrior by dueling Mr. Killer.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short, Fantasy",
+      "Director": "James Muia",
+      "Writer": "James Muia",
+      "Actors": "James Muia",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Unbroken Voice",
@@ -1247,7 +2223,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt15807910",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDY2ZDNlNzUtZGQyNS00ZWQwLThkODAtNjU2MTI3YTBlZGFmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows Vince, a desperate former popstar who dreams of making a comeback. An impromptu jam session with autistic young drummer Stevie sparks an unexpected friendship between the two misunderstood musicians."
+      "Plot": "Follows Vince, a desperate former popstar who dreams of making a comeback. An impromptu jam session with autistic young drummer Stevie sparks an unexpected friendship between the two misunderstood musicians.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Eddie Sternberg",
+      "Writer": "Eddie Sternberg, Zak Klein",
+      "Actors": "Ed Skrein, Eleanor Matsuura, Leo Long",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "jeen-yuhs: A Kanye Trilogy",
@@ -1256,7 +2240,15 @@
       "imdb_rating": "8.0",
       "imdb_id": "tt14599438",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODI1Yjg3ODEtYTgxNC00NzA0LWIyODItMTA3NWFhNjVjZGE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the life of Kanye West, in an intimate portrait as he builds his way from singer to businessman and becomes a global brand."
+      "Plot": "Follows the life of Kanye West, in an intimate portrait as he builds his way from singer to businessman and becomes a global brand.",
+      "Type": "series",
+      "RunTime": "270 min",
+      "Genre": "Documentary, Music",
+      "Director": "Coodie, Chike Ozah",
+      "Writer": "N/A",
+      "Actors": "Ye, Naeem Ghefari, Kid Cudi",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Zero to Hero",
@@ -1265,7 +2257,15 @@
       "imdb_rating": "6.7",
       "imdb_id": "tt14892216",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTM5ZDFlNGQtMzc3YS00NGQ3LWE2ZmMtMDIzNjE4MzcxMjQ3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Biopic tribute to So Wa Wai, Hong Kong's first Paralympic athlete to win gold. Even if you start at a disadvantage, you can still be first across the finish line."
+      "Plot": "Biopic tribute to So Wa Wai, Hong Kong's first Paralympic athlete to win gold. Even if you start at a disadvantage, you can still be first across the finish line.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Chi-Man Wan",
+      "Writer": "Man-Tsun Lo, Chi-Man Wan",
+      "Actors": "Chung-Hang Leung, Louis Cheung, Sandra Ng",
+      "Language": "Cantonese, English",
+      "Country": "Hong Kong"
     },
     {
       "title": "Infamy",
@@ -1274,7 +2274,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt28658091",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjEzMDE4MTUtNDBlMC00MzRiLWEwZmMtZDNkOGFjYzA5Yzc4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Caught between her Roma roots and pressure from her friends, a 17-year-old girl aspires to become a hip-hop musician despite her parents' strict rules."
+      "Plot": "Caught between her Roma roots and pressure from her friends, a 17-year-old girl aspires to become a hip-hop musician despite her parents' strict rules.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Zofia Jastrzebska, Sebastian Lach, Magdalena Czerwinska",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "More than Blue: The Series",
@@ -1283,7 +2291,15 @@
       "imdb_rating": "8.1",
       "imdb_id": "tt15381716",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjhiNjhhYTEtYzFkMy00Y2VlLWFkNDAtODAxNWQ2NzU4MDQ2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this series based on the movie, a man with a terminal illness seeks to help his beloved find a long-term partner."
+      "Plot": "In this series based on the movie, a man with a terminal illness seeks to help his beloved find a long-term partner.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Fandy Fan, Gingle Wang, Bo-Chieh Wang",
+      "Language": "Mandarin",
+      "Country": "Taiwan"
     },
     {
       "title": "Takizawa Kabuki ZERO 2020 The Movie",
@@ -1302,7 +2318,15 @@
       "imdb_rating": "5.2",
       "imdb_id": "tt23477248",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmY2MzY4ZGQtYjIxMC00NjZlLWFkZGQtNTM4MWNiMGNmZWRjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Three friends move from a small town in Florida with the hope of making it in the world of reggaeton in Miami."
+      "Plot": "Three friends move from a small town in Florida with the hope of making it in the world of reggaeton in Miami.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Music",
+      "Director": "N/A",
+      "Writer": "Max Searle, Shea Serrano",
+      "Actors": "Tyler Dean Flores, Emma Ferreira, Jordan Mendoza",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Flip a Coin -ONE OK ROCK Documentary-",
@@ -1311,7 +2335,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt15478858",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGMxMjBiYmItM2ZiNS00MzM5LWEyNjUtMzk0NDk1YjU4ZGEyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Unable to tour in 2020, the members of ONE OK ROCK work for months to put on an online concert that matches the energy of their in-person shows."
+      "Plot": "Unable to tour in 2020, the members of ONE OK ROCK work for months to put on an online concert that matches the energy of their in-person shows.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Documentary, Music",
+      "Director": "Naoto Amazutsumi",
+      "Writer": "N/A",
+      "Actors": "Tomoya Kanki, Ryota Kohama, Takahiro Moriuchi",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Return of the King: The Fall and Rise of Elvis Presley",
@@ -1320,7 +2352,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt34139335",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjRiNWU0MjYtYzk0OS00ZTExLTkyZGYtZDUxNDM4ZjJjNmQ4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "He had one chance to show the world he was still the King of Rock 'n' Roll. Discover the story behind Elvis Presley's triumphant '68 comeback special."
+      "Plot": "He had one chance to show the world he was still the King of Rock 'n' Roll. Discover the story behind Elvis Presley's triumphant '68 comeback special.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Music",
+      "Director": "Jason Hehir",
+      "Writer": "N/A",
+      "Actors": "Steve Binder, Billy Corgan, Bob Dylan",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Champion",
@@ -1329,7 +2369,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt33085651",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmE1ZjFiMjgtNDFkNC00MDYyLThiNTAtMmVjMzI2Mjc0ODY4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In a race against time, a forgetful husband must utilize his own time-travel app to retrieve his lunch box from a friend's house before his wife arrives, to prevent disastrous consequences."
+      "Plot": "In a race against time, a forgetful husband must utilize his own time-travel app to retrieve his lunch box from a friend's house before his wife arrives, to prevent disastrous consequences.",
+      "Type": "movie",
+      "RunTime": "5 min",
+      "Genre": "Short, Comedy",
+      "Director": "Swaroop Elamon",
+      "Writer": "Swaroop Elamon",
+      "Actors": "Soma Narayanan",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Upcoming Summer",
@@ -1348,7 +2396,15 @@
       "imdb_rating": "6.7",
       "imdb_id": "tt28703558",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDYwM2FmMjQtNzU3ZC00NzU4LWJmZWEtMmNjZjUxNGFlZjcwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This documentary traces the meteoric rise of Australia's first drill rap stars, defiant in the face of police's efforts to stop them from performing."
+      "Plot": "This documentary traces the meteoric rise of Australia's first drill rap stars, defiant in the face of police's efforts to stop them from performing.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Documentary, Crime, Music",
+      "Director": "Gabriel Gasparinatos",
+      "Writer": "Gabriel Gasparinatos, Erin Moy, Joseph Nizeti",
+      "Actors": "The Kid Laroi",
+      "Language": "English",
+      "Country": "Australia"
     },
     {
       "title": "LiSA Another Great Day",
@@ -1357,7 +2413,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt19112110",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjRkOWQ0MTMtZDhkNy00Yjg4LWFiMDEtZWVjNGE1NzAxYzJiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It follows the true face of LiSA, the popular Japanese singer well known for her numerous hit songs such as the theme song of \"Demon Slayer\"."
+      "Plot": "It follows the true face of LiSA, the popular Japanese singer well known for her numerous hit songs such as the theme song of \"Demon Slayer\".",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary, Music",
+      "Director": "Taketoshi Sado",
+      "Writer": "N/A",
+      "Actors": "LiSA",
+      "Language": "Japanese",
+      "Country": "United States, Japan"
     },
     {
       "title": "Yo Yo Honey Singh: Famous",
@@ -1366,7 +2430,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt27139868",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODg5MThiYjItNzY3Zi00Y2ZiLWFlNDAtMzZhMWQ4ZWJhOWI0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Dive deep into Yo Yo Honey Singh's sudden disappearance at the peak of his career."
+      "Plot": "Dive deep into Yo Yo Honey Singh's sudden disappearance at the peak of his career.",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Documentary, Drama",
+      "Director": "Mozez Singh",
+      "Writer": "N/A",
+      "Actors": "Shah Rukh Khan, Salman Khan, Yo Yo Honey Singh",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "An Elf's Story: The Elf on the Shelf",
@@ -1375,7 +2447,15 @@
       "imdb_rating": "5.1",
       "imdb_id": "tt2094761",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3MTE1Njc2Nl5BMl5BanBnXkFtZTcwOTA2MzA3Nw@@._V1_SX300.jpg",
-      "Plot": "An elf attempts to help a boy believe."
+      "Plot": "An elf attempts to help a boy believe.",
+      "Type": "movie",
+      "RunTime": "26 min",
+      "Genre": "Animation, Family, Fantasy",
+      "Director": "Chad Eikhoff",
+      "Writer": "Chanda Bell, Carol Aebersold, Christa Pitts",
+      "Actors": "Brendan Dooling, Michael May, Doug Williams",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Signing",
@@ -1384,7 +2464,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt27128307",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWRhNmFiMjgtMTEwMS00Y2JmLWE5OTQtNWYwYjQ2ODljYjNlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Latino artists must impress Rauw Alejandro, Tainy, Nicki Nicole, Yandel, and Lex Borrero to score a contract."
+      "Plot": "Latino artists must impress Rauw Alejandro, Tainy, Nicki Nicole, Yandel, and Lex Borrero to score a contract.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rauw Alejandro, Nicki Nicole, Lex Borrero",
+      "Language": "Spanish",
+      "Country": "United States"
     },
     {
       "title": "KPop Demon Hunters",
@@ -1393,7 +2481,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt14205554",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A world-renowned K-Pop girl group balance their lives in the spotlight with their secret identities as demon hunters."
+      "Plot": "A world-renowned K-Pop girl group balance their lives in the spotlight with their secret identities as demon hunters.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Chris Appelhans, Maggie Kang",
+      "Writer": "Danya Jimenez, Hannah McMechan, Maggie Kang",
+      "Actors": "Arden Cho, May Hong, Ji-young Yoo",
+      "Language": "English, Korean",
+      "Country": "United States, Canada"
     },
     {
       "title": "Glass Heart",
@@ -1402,7 +2498,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt31501513",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjBmOGJjZmEtMDIxYy00NTFiLThiMTgtZGNlN2QxZjQ4ZGQyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A college student and aspiring drummer gets unexpectedly ousted from her band. But her luck changes when the talented musician Naoki Fujitani discovers her skill and invites her to join his new ensemble."
+      "Plot": "A college student and aspiring drummer gets unexpectedly ousted from her band. But her luck changes when the talented musician Naoki Fujitani discovers her skill and invites her to join his new ensemble.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ell, Erika Karata, Takeru Satoh",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Bank of Dave",
@@ -1411,7 +2515,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt14308636",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmFmYWNkYmItOWY1Yy00NWQ5LWI3NjUtYjI2NWU2M2MwMzc2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Based on the true-life experiences of Dave Fishwick; 'Bank of Dave' tells the story of how a working class Burnley man and self-made millionaire fought to set up a community bank."
+      "Plot": "Based on the true-life experiences of Dave Fishwick; 'Bank of Dave' tells the story of how a working class Burnley man and self-made millionaire fought to set up a community bank.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Chris Foggin",
+      "Writer": "Piers Ashworth, Clare Keogh",
+      "Actors": "Joel Fry, Phoebe Dynevor, Rory Kinnear",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Take 1",
@@ -1420,7 +2532,15 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt22071828",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDQzZWQ3NTgtZjE4Zi00MWMxLWEwZTctNTQ0NTczZTllMzg2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Renowned musicians pull out all the stops to give a song of their choice the greatest live performance they can muster and all in a single take."
+      "Plot": "Renowned musicians pull out all the stops to give a song of their choice the greatest live performance they can muster and all in a single take.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rain, Sumi Jo, You Hee-Yeol",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "A Beautiful Life",
@@ -1429,7 +2549,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt15282148",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWM5MjY3NGEtNzZlYS00NzFlLWEyNDgtYzU3NDQxNDExYjliXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Elliott, a young fisherman with an extraordinary voice, gets the chance of a lifetime when high-profile music manager Suzanne discovers him at a party."
+      "Plot": "Elliott, a young fisherman with an extraordinary voice, gets the chance of a lifetime when high-profile music manager Suzanne discovers him at a party.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "Mehdi Avaz",
+      "Writer": "Stefan Jaworski",
+      "Actors": "David Blue, Inga Ibsdotter Lilleaas, Ardalan Esmaili",
+      "Language": "Danish",
+      "Country": "Denmark"
     },
     {
       "title": "Pop Star Academy: KATSEYE",
@@ -1438,7 +2566,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt28810495",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGVkZWYxOTctOTFjOS00OTZhLWJiNDEtNTVhOWQ3MGM2MTAzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Twenty aspiring pop stars undergo a K-pop training program in this docuseries about the creation of HYBE x Geffen's first global girl group, KATSEYE."
+      "Plot": "Twenty aspiring pop stars undergo a K-pop training program in this docuseries about the creation of HYBE x Geffen's first global girl group, KATSEYE.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Megan Skiendiel, Sophia Laforteza, Daniela Avanzini",
+      "Language": "English",
+      "Country": "United States, South Korea"
     },
     {
       "title": "Volume",
@@ -1447,7 +2583,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt30693412",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTgxZGE1ZTMtZGRlYy00NjQwLTg3M2ItMjU3ZTgzMjhkNjNlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "While chasing his dream of making a living through music, a talented young man from humble origins gets entangled in dubious dealings."
+      "Plot": "While chasing his dream of making a living through music, a talented young man from humble origins gets entangled in dubious dealings.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "David 'Tosh' Gitonga, Njiiri Karago",
+      "Actors": "Fredrick Asiago, Vera Atsango, Tania Chania",
+      "Language": "Swahili",
+      "Country": "Kenya"
     },
     {
       "title": "Moonage Daydream",
@@ -1456,7 +2600,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt9883832",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjgyZGU2ODAtMzg2ZC00ZWMxLWJhZWItNjk2NjE4OTI2MjQyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A cinematic odyssey exploring David Bowie's creative and musical journey. From visionary filmmaker Brett Morgen, and sanctioned by the Bowie estate."
+      "Plot": "A cinematic odyssey exploring David Bowie's creative and musical journey. From visionary filmmaker Brett Morgen, and sanctioned by the Bowie estate.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Brett Morgen",
+      "Writer": "Brett Morgen",
+      "Actors": "David Bowie, Trevor Bolder, Ken Fordham",
+      "Language": "English",
+      "Country": "United States, Germany"
     },
     {
       "title": "Girls5eva",
@@ -1465,7 +2617,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt11650492",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGViMjI5ZDAtY2RkNi00ZTMyLWE5YzMtOWFjYTJmNTY2NGU4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A one-hit-wonder band from the '90s gets a second shot at fame when a young rapper samples their song."
+      "Plot": "A one-hit-wonder band from the '90s gets a second shot at fame when a young rapper samples their song.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Music",
+      "Director": "N/A",
+      "Writer": "Meredith Scardino",
+      "Actors": "Sara Bareilles, Busy Philipps, Paula Pell",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Erin & Aaron",
@@ -1474,7 +2634,15 @@
       "imdb_rating": "5.3",
       "imdb_id": "tt12225618",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmU0MjJmMjMtM2MxZS00MTk2LThjYWMtMGM3NzNkMDY2ZjQ0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A newly blended family and two polar opposite stepsiblings named Erin and Aaron who come together through music."
+      "Plot": "A newly blended family and two polar opposite stepsiblings named Erin and Aaron who come together through music.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "N/A",
+      "Writer": "Dicky Murphy",
+      "Actors": "Ava Ro, Jensen Gering, David S. Jung",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Robbie Williams",
@@ -1483,7 +2651,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt28210840",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDU3N2U5ZWItZDg5ZC00ZTAzLTgxYzQtODQ5OTRmOTEzZGE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After 25 years of his record-breaking solo career, Robbie looks back on his younger self and reflects on a lifetime spent in the spotlight."
+      "Plot": "After 25 years of his record-breaking solo career, Robbie looks back on his younger self and reflects on a lifetime spent in the spotlight.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Robbie Williams, Fil Eisler, Guy Chambers",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Quartet",
@@ -1492,7 +2668,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt6287398",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTM0OGRjYzctYzkyYy00ZTViLWJlOWYtYTVkZjgzOTVhMmMzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Maki, Suzume, Iemori, and Beppu accidentally met in a karaoke one day while bringing instruments. They then decided to form a musical quartet and live together in Karuizawa during the winter."
+      "Plot": "Maki, Suzume, Iemori, and Beppu accidentally met in a karaoke one day while bringing instruments. They then decided to form a musical quartet and live together in Karuizawa during the winter.",
+      "Type": "series",
+      "RunTime": "45 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Takako Matsu, Hikari Mitsushima, Issei Takahashi",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "I Will Be Your Bloom",
@@ -1501,7 +2685,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt26346520",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjA5MGM5MGItZjRjNC00MTMyLWI1NWQtNDVjYjZlMTg3ZTVmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Nakamachi Asuka is 30 years old, single and has finally fulfilled her dream of working as a teacher."
+      "Plot": "Nakamachi Asuka is 30 years old, single and has finally fulfilled her dream of working as a teacher.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mamoru Miyano, Yûki Kaji, Fumiya Takahashi",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "If I Were Luísa Sonza",
@@ -1510,7 +2702,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt28995977",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWZjNmI2MjEtM2UxYi00MDQ3LWJkMDktNGVjMWUwMTlkYWE2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Brazil's most polarizing pop singer opens up in this docuseries about her love life, career, controversies and the creation of a new album."
+      "Plot": "Brazil's most polarizing pop singer opens up in this docuseries about her love life, career, controversies and the creation of a new album.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Luísa Sonza, Lucas Pinho, Eliane Gerloff",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Rhythm + Flow Italy",
@@ -1519,7 +2719,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt28020043",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTZiNzA5ZWItMzQyNi00ZmUyLTk4NWMtZjI0YjIyZGUwMjMzXkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_SX300.jpg",
-      "Plot": "In this music competition show, Fabri Fibra, Geolier and Rose Villain hit the streets of Rome, Naples and Milan to find the next Italian rap superstar."
+      "Plot": "In this music competition show, Fabri Fibra, Geolier and Rose Villain hit the streets of Rome, Naples and Milan to find the next Italian rap superstar.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Elias Argentiere, Fabri Fibra, Geolier",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "It's OK",
@@ -1528,7 +2736,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt28280697",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmVjMDIyYTYtNzFkNC00MzcyLWJhYzQtYTZiZjc2YzE3ZmU4XkEyXkFqcGdeQXVyMTUxMzQ1MjIx._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "News",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "E.R. Fightmaster, Justin Tranter, Jaren Merrell",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Lewis Capaldi: How I'm Feeling Now",
@@ -1537,7 +2753,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt27078772",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTJmY2JmYTItYTZmMi00ZjViLTgyZmUtN2U5MTg0NTkyZTkyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This intimate, all-access documentary chronicles Lewis Capaldi's journey from a scrappy teen with a viral performance to a Grammy-nominated pop star."
+      "Plot": "This intimate, all-access documentary chronicles Lewis Capaldi's journey from a scrappy teen with a viral performance to a Grammy-nominated pop star.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Documentary, Music",
+      "Director": "Joe Pearlman",
+      "Writer": "N/A",
+      "Actors": "Amy Allen, Nick Atkinson, Tom Barnes",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Amar Singh Chamkila",
@@ -1546,7 +2770,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt26658272",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTc1NzAwMGItZWNiNS00ZWI4LWE0ZTEtMmI4OTcyODYzZWQ2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the life of pop star duo Amar Singh Chamkila and Amarjot Kaur, whose songs that were social commentaries or devotionals became massive hits in the 80's."
+      "Plot": "Follows the life of pop star duo Amar Singh Chamkila and Amarjot Kaur, whose songs that were social commentaries or devotionals became massive hits in the 80's.",
+      "Type": "movie",
+      "RunTime": "145 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Imtiaz Ali",
+      "Writer": "Imtiaz Ali, Sajid Ali",
+      "Actors": "Diljit Dosanjh, Parineeti Chopra, Apinderdeep Singh",
+      "Language": "Punjabi, Hindi",
+      "Country": "India"
     },
     {
       "title": "Rebellion",
@@ -1555,7 +2787,15 @@
       "imdb_rating": "5.9",
       "imdb_id": "tt15344424",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTc4Nzk2MmItNTkxNS00Y2I0LWFhMzktYzllYmY5YzY1NWMzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "La película retrata a un vulnerable y anónimo Joe Arroyo, quizás el cantante colombiano de salsa más importante de la historia, en su viaje claustrofóbico por diferentes momentos de su vida. Un genio musical, cantante y compositor..."
+      "Plot": "La película retrata a un vulnerable y anónimo Joe Arroyo, quizás el cantante colombiano de salsa más importante de la historia, en su viaje claustrofóbico por diferentes momentos de su vida. Un genio musical, cantante y compositor...",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "José Luis Rugeles",
+      "Writer": "Chucky García, Martín Mauregui, José Luis Rugeles",
+      "Actors": "Angie Cepeda, Roger Duguay, Jhon Narváez",
+      "Language": "Spanish",
+      "Country": "Colombia, Argentina, United States"
     },
     {
       "title": "Fujii Kaze Love All Serve All Stadium Live",
@@ -1574,7 +2814,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt28634523",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWI0YTkxODktMDNiZi00ODA5LTg1ZjMtZGQ1MzE5MTUxYzNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When a pair of newlywed musicians get trapped in a storm on their island honeymoon, they must face difficult truths that could tear their marriage apart."
+      "Plot": "When a pair of newlywed musicians get trapped in a storm on their island honeymoon, they must face difficult truths that could tear their marriage apart.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama, Romance",
+      "Director": "Manny Palo",
+      "Writer": "Alessandra De Rossi, Mike G. Rivera",
+      "Actors": "Alessandra De Rossi, JM De Guzman, Chard Ocampo",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
     },
     {
       "title": "INKSYLAND Concert",
@@ -1593,7 +2841,15 @@
       "imdb_rating": "5.3",
       "imdb_id": "tt35657531",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTJiMzUxMjctYjhjMy00YzczLTg4YWQtM2MzYjdjMjA1OGY2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Two dreamers, Entoy and Lorina, pursue stardom in '90s Filipino pop music. Can they achieve their big dreams the second time around?"
+      "Plot": "Two dreamers, Entoy and Lorina, pursue stardom in '90s Filipino pop music. Can they achieve their big dreams the second time around?",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "Marla Ancheta",
+      "Writer": "Marla Ancheta",
+      "Actors": "Sue Ramirez, Khalil Ramos, Romnick Sarmenta",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
     },
     {
       "title": "Tri Am the Movie",
@@ -1602,7 +2858,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt27469258",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODRiMjcxMTgtZDhiMi00YWYwLWI3MGEtOGM5NmRjNmFjM2NlXkEyXkFqcGdeQXVyNDc0Njc1NTY@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "My Tam",
+      "Actors": "My Tam",
+      "Language": "Vietnamese",
+      "Country": "Vietnam"
     },
     {
       "title": "Babo: The Haftbefehl Story",
@@ -1621,7 +2885,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt31806050",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y0MTc2MDAtNmM0Mi00YWU2LWJkMGYtMTlkZmM5ZmVlODdlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Twin brothers and superstars Tom and Bill Kaulitz offer a glimpse into their private lives in LA and Germany in this funny and intimate reality series."
+      "Plot": "Twin brothers and superstars Tom and Bill Kaulitz offer a glimpse into their private lives in LA and Germany in this funny and intimate reality series.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bill Kaulitz, Tom Kaulitz, Tyler Menjivar",
+      "Language": "German, English",
+      "Country": "Germany"
     },
     {
       "title": "Banger",
@@ -1630,7 +2902,15 @@
       "imdb_rating": "4.9",
       "imdb_id": "tt35434840",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjdhMDhhNTAtMTExOS00YWE4LTlmNDUtODgzZTIwODMxYjJmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When an intelligence agent offers a washed-up DJ the opportunity to take down his young rival, he sees it as a chance to return to the top with a banger."
+      "Plot": "When an intelligence agent offers a washed-up DJ the opportunity to take down his young rival, he sees it as a chance to return to the top with a banger.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Music",
+      "Director": "So-Me",
+      "Writer": "So-Me, Elias Belkeddar, Baptiste Fillon",
+      "Actors": "Vincent Cassel, Laura Felpin, Mister V",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Building The Band",
@@ -1639,7 +2919,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt32492739",
       "Poster": "N/A",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Game-Show, Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Keys to the Heart",
@@ -1648,7 +2936,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt29025883",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGJlNzU3NDYtZWJjYi00MjI0LTkwNmUtMWFjMzkyNjdjYmFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Troubled and alone, a boxer moves in with his long-lost mother and autistic pianist brother - but must fit in with a family he hasn't known for years."
+      "Plot": "Troubled and alone, a boxer moves in with his long-lost mother and autistic pianist brother - but must fit in with a family he hasn't known for years.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Kerwin Go, Morgan Bailey Keaton",
+      "Writer": "BJ Song, Pam Miras",
+      "Actors": "Zanjoe Marudo, Dolly De Leon, Elijah Canlas",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines, South Korea"
     },
     {
       "title": "Beautiful Rebel",
@@ -1657,7 +2953,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt28690443",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZiMmYyNWItZjQwZS00NGNmLThjOWEtZTFmOTMzYzAxNjUzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The origin story of one of Italy's greatest rock stars, Gianna Nannini, who chased her dream despite obstacles from her family and the music industry."
+      "Plot": "The origin story of one of Italy's greatest rock stars, Gianna Nannini, who chased her dream despite obstacles from her family and the music industry.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Cinzia TH Torrini",
+      "Writer": "N/A",
+      "Actors": "Robi Arquette, Noemi Brando, Selene Caramazza",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "Gen Hoshino Concert Recollections 2015-2023",
@@ -1676,7 +2980,15 @@
       "imdb_rating": "7.9",
       "imdb_id": "tt30796448",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDhiMmU0YzEtNzE0Mi00OTRmLWEyMjAtZWRhNzJlZmRiM2U2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "On January 28th 1985, dozens of the era's most popular musicians gathered in Los Angeles to record a charity single for African famine relief. Setting egos aside, they collaborated on a song that would make history."
+      "Plot": "On January 28th 1985, dozens of the era's most popular musicians gathered in Los Angeles to record a charity single for African famine relief. Setting egos aside, they collaborated on a song that would make history.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Documentary, Music",
+      "Director": "Bao Nguyen",
+      "Writer": "N/A",
+      "Actors": "Lionel Richie, Harriet Sternberg, Wendy Rees",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Bob Marley: One Love",
@@ -1685,7 +2997,15 @@
       "imdb_rating": "6.2",
       "imdb_id": "tt8521778",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmYwODViNzUtZmZiNy00M2IwLWI4ZDEtMWMyOTc4ZjliZjI0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The story of how reggae icon Bob Marley overcame adversity, and the journey behind his revolutionary music."
+      "Plot": "The story of how reggae icon Bob Marley overcame adversity, and the journey behind his revolutionary music.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Reinaldo Marcus Green",
+      "Writer": "Terence Winter, Frank E. Flowers, Zach Baylin",
+      "Actors": "Kingsley Ben-Adir, Lashana Lynch, James Norton",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "BOWKYLION Lanta Concert",
@@ -1704,7 +3024,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt31974344",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTFkYzY5OTAtYjhmNy00MTRhLWFiZGEtYTliYmYwMmY4NzNmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow the artistic growth of the participants throughout the competition and will crown a rising star on the Brazilian rap and trap scene."
+      "Plot": "Follow the artistic growth of the participants throughout the competition and will crown a rising star on the Brazilian rap and trap scene.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Game-Show, Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kamau, DJ Miya B, Djonga",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Larissa: The Other Side of Anitta",
@@ -1713,7 +3041,15 @@
       "imdb_rating": "5.4",
       "imdb_id": "tt35630679",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjUyZTk5ZDAtN2RjNi00MjY1LTg5YTAtYWI1YWZmNzg2YTljXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Behind global star Anitta is Larissa, known only to her inner circle. Through an old flame's perspective, we see her true self emerge as she navigates personal challenges that reshape her life's direction."
+      "Plot": "Behind global star Anitta is Larissa, known only to her inner circle. Through an old flame's perspective, we see her true self emerge as she navigates personal challenges that reshape her life's direction.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Jeff Berlin, Pedro Cantelmo, João Wainer",
+      "Writer": "Maria Ribeiro",
+      "Actors": "Snoop Dogg, Anitta, Sophia Thomas",
+      "Language": "English, Portuguese, Spanish",
+      "Country": "United States"
     },
     {
       "title": "American Symphony",
@@ -1722,7 +3058,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt28865980",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTU5MTY2ZWEtZWMzYy00NmIyLWFlNTQtMmQ3MjUwZWVhNGRlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this deeply intimate documentary, musician Jon Batiste attempts to compose a symphony as his wife, writer Suleika Jaouad, undergoes cancer treatment."
+      "Plot": "In this deeply intimate documentary, musician Jon Batiste attempts to compose a symphony as his wife, writer Suleika Jaouad, undergoes cancer treatment.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Matthew Heineman",
+      "Writer": "N/A",
+      "Actors": "Jon Batiste, Lindsey Byrnes, Jonathan Dinklage",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Hitmakers",
@@ -1731,7 +3075,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt37438632",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzFlMzZkZTItZTQ0NS00YmRlLWEwMjMtNmU2NzdiMzk1ZGQ0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Talented songwriters collaborate to create hit songs for major music stars."
+      "Plot": "Talented songwriters collaborate to create hit songs for major music stars.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Tommy Brown, Sevyn Streeter, Tommy Brown",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Rhythm + Flow: Poland",
@@ -1740,7 +3092,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt32764263",
       "Poster": "N/A",
-      "Plot": "Aspiring Polish rappers drop bars, battle, and craft tracks to impress judges Bedoes 2115, DZIARMA, and Sokól vying for fame and a 500,000 zloty prize."
+      "Plot": "Aspiring Polish rappers drop bars, battle, and craft tracks to impress judges Bedoes 2115, DZIARMA, and Sokól vying for fame and a 500,000 zloty prize.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Agata Dziarmagowska, Borys Przybylski, Wojciech Sosnowski",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Find Me Falling",
@@ -1749,7 +3109,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt19862722",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTllNzJmYjctNWMzZi00Yzc2LWE5MTMtNDBhNWU1NDdmMDFhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After a failed comeback album, rock star John Allman escapes to a dreamy Mediterranean island, only to discover that his new cliffside home has an unfortunate notoriety that attracts unwanted visitors and an old flame."
+      "Plot": "After a failed comeback album, rock star John Allman escapes to a dreamy Mediterranean island, only to discover that his new cliffside home has an unfortunate notoriety that attracts unwanted visitors and an old flame.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Comedy, Music, Romance",
+      "Director": "Stelana Kliris",
+      "Writer": "Stelana Kliris",
+      "Actors": "Harry Connick Jr., Agni Scott, Ali Fumiko Whitney",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "I’m Still a Superstar",
@@ -1758,7 +3126,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt37388226",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTViZDk2NmQtNzk0YS00YWJiLWE5NGQtY2E4YjNlMWRkYmIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A nostalgic look at a Spanish media sensation from the early 2000s, following the rise of singer Yurena (then known as Tamara) and her journey to becoming a pop culture icon with her hit \"No cambié.\""
+      "Plot": "A nostalgic look at a Spanish media sensation from the early 2000s, following the rise of singer Yurena (then known as Tamara) and her journey to becoming a pop culture icon with her hit \"No cambié.\"",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "Marc Pujolar",
+      "Writer": "Marc Pujolar, María Zuil",
+      "Actors": "Arlequín, Leonardo Dantés, Toni Genil",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "They Shot the Piano Player",
@@ -1767,7 +3143,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt11242654",
       "Poster": "https://m.media-amazon.com/images/M/MV5BN2IwY2JiMGQtZjZhMS00MDkxLThlNjYtMWE0ODRhM2ZhMDE3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A New York music journalist goes on a quest to uncover the truth behind the mysterious disappearance of a young Brazilian piano virtuoso in Argentina."
+      "Plot": "A New York music journalist goes on a quest to uncover the truth behind the mysterious disappearance of a young Brazilian piano virtuoso in Argentina.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Animation, Drama, History",
+      "Director": "Javier Mariscal, Fernando Trueba",
+      "Writer": "Fernando Trueba",
+      "Actors": "Jeff Goldblum, Tony Ramos, Abel Ayala",
+      "Language": "Spanish, Portuguese, English",
+      "Country": "Spain, France, Netherlands, Portugal, Peru, United Kingdom, United States, Brazil"
     },
     {
       "title": "Simon Cowell: The Next Act",
@@ -1776,7 +3160,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt37610565",
       "Poster": "N/A",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "It's Only Life After All",
@@ -1785,7 +3177,15 @@
       "imdb_rating": "8.0",
       "imdb_id": "tt12716222",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjg4YzA2MWQtNzgyNC00OWFlLWE1ZTQtMGQxODM2NGFkNDZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg",
-      "Plot": "Known for stirring harmonies and socially conscious lyrics, iconic folk rock duo Indigo Girls are the subject of this intimate and insightful documentary, which tracks their decades-long career."
+      "Plot": "Known for stirring harmonies and socially conscious lyrics, iconic folk rock duo Indigo Girls are the subject of this intimate and insightful documentary, which tracks their decades-long career.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Documentary, Music",
+      "Director": "Alexandria Bombach",
+      "Writer": "N/A",
+      "Actors": "Amy Ray, Emily Saliers, Winona LaDuke",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Going Varsity in Mariachi",
@@ -1794,7 +3194,15 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt24079640",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDI3YzQ4ZmEtYjJlMy00OTA4LTk3MGMtZDc3Yjg5NmVlMTMyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In the world high school mariachi, musicians from South Texas reigns supreme. Under guidance of coach Abel Acuña, the Edinburg North High School team must turn shoestring and diverse inexperienced musicians into state champions."
+      "Plot": "In the world high school mariachi, musicians from South Texas reigns supreme. Under guidance of coach Abel Acuña, the Edinburg North High School team must turn shoestring and diverse inexperienced musicians into state champions.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Documentary",
+      "Director": "Sam Osborn, Alejandra Vasquez",
+      "Writer": "N/A",
+      "Actors": "Edinburg North High School's Mariachi Oro",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "A-List to Playlist",
@@ -1803,7 +3211,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt33038099",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmZkYmZmOTAtOWMwOC00MzczLWE2ZWQtMDIzMjliZTM3NmQ0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After two decades working as an actor, Cho Jung-seok challenges himself to make his debut as a pop star in 100 days."
+      "Plot": "After two decades working as an actor, Cho Jung-seok challenges himself to make his debut as a pop star in 100 days.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "June Yoon, Kim Eana, Jo Jung-suk",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Latin Blood - The Ballad of Ney Matogrosso",
@@ -1812,7 +3228,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt35301431",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmU0NDY3ODctNjhmMS00Y2YxLTljZTAtN2E5NzA4NTExODU2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From a repressive childhood to artistic revolution, Ney Matogrosso transforms Brazil's stages - and himself - through music, creativity and inner fire."
+      "Plot": "From a repressive childhood to artistic revolution, Ney Matogrosso transforms Brazil's stages - and himself - through music, creativity and inner fire.",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Esmir Filho",
+      "Writer": "Esmir Filho, Laura Malin",
+      "Actors": "Jesuíta Barbosa, Rômulo Braga, Hermila Guedes",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Southern All Stars Chigasaki Live 2023",
@@ -1831,7 +3255,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt13220796",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDg0MTk1NTAtMzQ3OS00ZTA2LTkzNmUtMGYyYzA5ZTc2Y2Q5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow the iconic group that influenced an entire generation and survived against all odds, showing personal stories about their world fame."
+      "Plot": "Follow the iconic group that influenced an entire generation and survived against all odds, showing personal stories about their world fame.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Matt Kay",
+      "Writer": "N/A",
+      "Actors": "Denise Richards, Rosie O'Donnell, Whitney Houston",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Hate to Love: Nickelback",
@@ -1840,7 +3272,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt28490042",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDZjNGM5MWYtOWM5Yi00ZDU5LWI5N2EtYWFkMzA4NDAzZDk2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An intimate portrait of the Canadian stadium rockers roller coaster career. From their rural roots in Alberta to becoming one of the most successful, yet divisive acts in music history."
+      "Plot": "An intimate portrait of the Canadian stadium rockers roller coaster career. From their rural roots in Alberta to becoming one of the most successful, yet divisive acts in music history.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Music",
+      "Director": "Leigh Brooks",
+      "Writer": "N/A",
+      "Actors": "Daniel Adair, Chad Kroeger, Mike Kroeger",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Mon Laferte, te amo",
@@ -1849,7 +3289,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt32090526",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzRlNTVlMjgtYmJmZC00NDBmLWE5NzUtMWVjNmRmMzgwM2JlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this intimate documentary, artist and singer Mon Laferte recounts her life as she navigates a global tour, motherhood and her deepest wounds."
+      "Plot": "In this intimate documentary, artist and singer Mon Laferte recounts her life as she navigates a global tour, motherhood and her deepest wounds.",
+      "Type": "movie",
+      "RunTime": "77 min",
+      "Genre": "Documentary, Music",
+      "Director": "Joanna Reposi Garibaldi, Camila Grandi",
+      "Writer": "Joanna Reposi Garibaldi, Jaime Villarreal",
+      "Actors": "Mon Laferte",
+      "Language": "Spanish",
+      "Country": "Chile"
     },
     {
       "title": "BLUE GIANT",
@@ -1858,7 +3306,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt15737898",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWNkYjQyNDktYjdjMS00MjJiLThmMzEtMDMyM2YyYjdmZDZmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Dai Miyamoto, a student from Sendai, receives a saxophone as a gift from his brother, Masayuki. He starts practicing immediately."
+      "Plot": "Dai Miyamoto, a student from Sendai, receives a saxophone as a gift from his brother, Masayuki. He starts practicing immediately.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Animation, Drama, Music",
+      "Director": "Yuzuru Tachikawa",
+      "Writer": "Number 8, Shin'ichi Ishizuka",
+      "Actors": "Junya Abe, Yutaka Aoyama, Mika Doi",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "ABBA: Against the Odds",
@@ -1867,7 +3323,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt31319003",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWQwZWYxYTQtZjk3NC00Y2RmLWFjMTYtMzIwOGFkZDdjMjg4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "To commemorate the 50th anniversary of the iconic Swedish group winning the Eurovision Song Contest."
+      "Plot": "To commemorate the 50th anniversary of the iconic Swedish group winning the Eurovision Song Contest.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, History, Music",
+      "Director": "James Rogan",
+      "Writer": "N/A",
+      "Actors": "ABBA, Björn Ulvaeus, Anni-Frid Lyngstad",
+      "Language": "English, German, Swedish, Spanish",
+      "Country": "United Kingdom, Norway, Iceland, Sweden, Denmark, Finland, Belgium, Germany, Estonia, Netherlands, France, Czech Republic, Switzerland"
     },
     {
       "title": "Christopher – A Beautiful Real Life",
@@ -1876,7 +3340,15 @@
       "imdb_rating": "5.9",
       "imdb_id": "tt33293194",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWJiZDE0YzUtYWY4ZS00MjRiLTk2ZTUtZTUyYmQzNDFiMmEwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Pop star Christopher nears his dream of global stardom just as his second child arrives. Torn between career and family, he questions sacrificing time with his kids and wife Cecilie for success, like his role in A Beautiful Life."
+      "Plot": "Pop star Christopher nears his dream of global stardom just as his second child arrives. Torn between career and family, he questions sacrificing time with his kids and wife Cecilie for success, like his role in A Beautiful Life.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Nynne Duvaa Hall",
+      "Writer": "N/A",
+      "Actors": "Carla Capretto, Cecilie Haugaard, Christopher Nissen",
+      "Language": "Danish",
+      "Country": "Denmark"
     },
     {
       "title": "The Only Girl in the Orchestra",
@@ -1885,7 +3357,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt29497240",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDVlNmEyMTQtYmJkMi00MDQ0LTljMGYtZDJkYzA0NDdiN2NkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A celebration of trailblazing double bassist Orin O'Brien, the first woman to become a full-time member of the New York Philharmonic."
+      "Plot": "A celebration of trailblazing double bassist Orin O'Brien, the first woman to become a full-time member of the New York Philharmonic.",
+      "Type": "movie",
+      "RunTime": "34 min",
+      "Genre": "Documentary, Short, Music",
+      "Director": "Molly O'Brien",
+      "Writer": "N/A",
+      "Actors": "Orin O'Brien, Manny Alvarez, Julian Barrera",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Rhythm + Flow France: After the Beat",
@@ -1904,7 +3384,15 @@
       "imdb_rating": "6.0",
       "imdb_id": "tt35315539",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDM0OGU2ZWYtMmU5Yi00YmU1LTgzMGYtZDc4ZTljYzllNzM0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow pop star Aitana's journey in this 6-part series as she grows personally and professionally, shares her hits, faces challenges, and emerges as a leading Spanish music artist."
+      "Plot": "Follow pop star Aitana's journey in this 6-part series as she grows personally and professionally, shares her hits, faces challenges, and emerges as a leading Spanish music artist.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Aitana, Burgandi Trejo Phoenix",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Rockstar Duki from the end of the world",
@@ -1933,7 +3421,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt31495242",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDU2OWQ1OGQtZmIwOS00ZjNkLThhNjYtYTBlYzY2NDE3YzdlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Raisa's career journey. Before pursuing a career in the world of music, Raisa apparently had the desire to become an artist since she was child."
+      "Plot": "Raisa's career journey. Before pursuing a career in the world of music, Raisa apparently had the desire to become an artist since she was child.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Soleh Solihun",
+      "Writer": "Soleh Solihun",
+      "Actors": "Raisa, Hamish Daud, Allan N. Rachman",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "We Are! Let's get the party STARTO!!",
@@ -1952,7 +3448,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt36159349",
       "Poster": "N/A",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Fuma Kikuchi, Shori Sato, So Matsushima",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Karol G: Tomorrow was Beautiful",
@@ -1961,7 +3465,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt36617085",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTQyZjBkMGQtNTQ2NS00MTQyLWFiMzktOTc2ZjUwNjA2ZTlmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "Cristina Costantini",
+      "Writer": "N/A",
+      "Actors": "Karol G",
+      "Language": "Spanish",
+      "Country": "Colombia"
     },
     {
       "title": "A Nonsense Christmas with Sabrina Carpenter",
@@ -1970,7 +3482,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt33427273",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ4Y2MyMWEtNGMzZS00ODBjLTg4MmUtNTUzZmJjYmU1MzNkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Pop icon Sabrina Carpenter jingles all the bells in her first ever variety music special."
+      "Plot": "Pop icon Sabrina Carpenter jingles all the bells in her first ever variety music special.",
+      "Type": "movie",
+      "RunTime": "50 min",
+      "Genre": "Documentary, Comedy, Music",
+      "Director": "Sam Wrench",
+      "Writer": "Megan Amram, Jimmy Fowlie, Fran Gillespie",
+      "Actors": "Sabrina Carpenter, Cara Delevingne, Chappell Roan",
+      "Language": "N/A",
+      "Country": "United States"
     },
     {
       "title": "Avicii - I'm Tim",
@@ -1979,7 +3499,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt32138523",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmJiNjAyZmMtOTkyOS00ZmI0LWI0MWMtYmQ0ZDQzYWU1NDVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This is the story of Tim Bergling, a shy and insecure boy who, without realizing it, suddenly created one of the world's most loved artists - Avicii."
+      "Plot": "This is the story of Tim Bergling, a shy and insecure boy who, without realizing it, suddenly created one of the world's most loved artists - Avicii.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Henrik Burman",
+      "Writer": "Henrik Burman",
+      "Actors": "Avicii, Aloe Blacc, Chris Martin",
+      "Language": "English",
+      "Country": "Sweden"
     },
     {
       "title": "Olivia Rodrigo: GUTS World Tour",
@@ -1988,7 +3516,15 @@
       "imdb_rating": "7.9",
       "imdb_id": "tt33562156",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjBlNGZlZjctZDUwYy00OWRkLThhYjYtMGJkMDhjOWNkMzVhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Olivia Rodrigo's concert special features performances from her albums \"GUTS\" and \"SOUR\"."
+      "Plot": "Olivia Rodrigo's concert special features performances from her albums \"GUTS\" and \"SOUR\".",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Documentary, Music",
+      "Director": "James B. Merryman",
+      "Writer": "N/A",
+      "Actors": "Olivia Rodrigo, Hayley Brownell, Camila Mora",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Maestra",
@@ -1997,7 +3533,15 @@
       "imdb_rating": "8.2",
       "imdb_id": "tt26935953",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTVhZjc3MGQtNTMwNy00ODJkLTgyNDktMjcyZWNiYzQ1MWIxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows five international women who participate in 'La Maestra', the only competition in the world for female orchestra conductors. Personal stories of survival in this one-of-a-kind event created to break another glass ceiling f..."
+      "Plot": "Follows five international women who participate in 'La Maestra', the only competition in the world for female orchestra conductors. Personal stories of survival in this one-of-a-kind event created to break another glass ceiling f...",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Documentary, Music",
+      "Director": "Maggie Contreras",
+      "Writer": "Neil Berkeley, Maggie Contreras",
+      "Actors": "Marin Alsop, Deborah Borda, Mélisse Brunet",
+      "Language": "English",
+      "Country": "United States, Poland, France"
     },
     {
       "title": "Avicii - My Last Show",
@@ -2006,7 +3550,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt34619547",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmM5ZWIwM2UtYjYyNy00OTYyLWJlN2MtYjI3NzBlMTRmMzI2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "On Aug. 28, 2016, Tim Bergling, better known as Avicii, graced the stage of the Ushuaïa nightclub in Ibiza for what would be his final performance."
+      "Plot": "On Aug. 28, 2016, Tim Bergling, better known as Avicii, graced the stage of the Ushuaïa nightclub in Ibiza for what would be his final performance.",
+      "Type": "movie",
+      "RunTime": "30 min",
+      "Genre": "Short, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Avicii, Aloe Blacc, Carl Falk",
+      "Language": "Swedish",
+      "Country": "Sweden"
     },
     {
       "title": "Maria",
@@ -2015,7 +3567,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt22893404",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmJlZTkzOWMtYjBmMi00MWY2LTg0YTUtNGUzZjI0MzgxYTY4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Maria Callas, the world's greatest opera singer, lives the last days of her life in 1970s Paris, as she confronts her identity."
+      "Plot": "Maria Callas, the world's greatest opera singer, lives the last days of her life in 1970s Paris, as she confronts her identity.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Pablo Larraín",
+      "Writer": "Steven Knight",
+      "Actors": "Angelina Jolie, Pierfrancesco Favino, Alba Rohrwacher",
+      "Language": "English, Greek, French, Italian",
+      "Country": "Italy, Germany, Chile, United States"
     },
     {
       "title": "Lali: Time to Step Up",
@@ -2043,7 +3603,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt27367464",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjI3MTQ3OGMtYjU5My00NDA3LWE1Y2UtZDFmZmExYTNjZWYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When fate brings Belfast teacher JJ into the orbit of self-confessed \"low life scum\" Naoise and Liam Óg, the needle drops on a hip hop act like no other. Rapping in their native Irish, they lead a movement to save their mother ton..."
+      "Plot": "When fate brings Belfast teacher JJ into the orbit of self-confessed \"low life scum\" Naoise and Liam Óg, the needle drops on a hip hop act like no other. Rapping in their native Irish, they lead a movement to save their mother ton...",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Rich Peppiatt",
+      "Writer": "Rich Peppiatt, Móglaí Bap, Mo Chara",
+      "Actors": "Móglaí Bap, Mo Chara, DJ Próvaí",
+      "Language": "English, Irish Gaelic",
+      "Country": "Ireland, United Kingdom"
     },
     {
       "title": "Mariah Carey: Merry Christmas to All!",
@@ -2052,7 +3620,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt24805850",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2E2MGMwNTgtMDJiZC00MTVlLTlhOWItZDA0ZWQ4MzEyZGRkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The singer-songwriter performs a repertoire of her festive holiday hits, including the chart-topping perennial favorite \"All I Want for Christmas Is You.\""
+      "Plot": "The singer-songwriter performs a repertoire of her festive holiday hits, including the chart-topping perennial favorite \"All I Want for Christmas Is You.\"",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Musical",
+      "Director": "Joseph Kahn",
+      "Writer": "N/A",
+      "Actors": "Mariah Carey, Billy Porter, Drew Barrymore",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Fujii Kaze Stadium Live “Feelin' Good”",
@@ -2080,7 +3656,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt34352717",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzA2OGExYTQtYzNjMC00MTIyLWJlODItOWQ1Nzg3NGEyYzc0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary chronicling the meteoric rise of Wham!'s \"Last Christmas\". Features new interviews with Andrew Ridgeley and archival footage of George Michael."
+      "Plot": "A documentary chronicling the meteoric rise of Wham!'s \"Last Christmas\". Features new interviews with Andrew Ridgeley and archival footage of George Michael.",
+      "Type": "movie",
+      "RunTime": "59 min",
+      "Genre": "Documentary, Music",
+      "Director": "Nigel Cole",
+      "Writer": "N/A",
+      "Actors": "Mary J. Blige, Chris Cameron, Helen DeMacque",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Songs From the Hole",
@@ -2089,7 +3673,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt30835190",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDhiNGRiMDYtOWJmYy00MDQ4LTg3ODgtYjMwNzhkNWRlNzRlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "At 15, he took a life. Three days later, his brother's life was taken. An incarcerated musician struggles for healing and peace as he comes of age in this documentary visual album composed behind bars."
+      "Plot": "At 15, he took a life. Three days later, his brother's life was taken. An incarcerated musician struggles for healing and peace as he comes of age in this documentary visual album composed behind bars.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Documentary, Drama, Music",
+      "Director": "Contessa Gayles",
+      "Writer": "Contessa Gayles, JJ'88",
+      "Actors": "Kellie Evans, Devonte Hoy, Myles Lassiter",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Kadhalikka Neramillai",
@@ -2098,7 +3690,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt27795377",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODdkYTM2ODgtMDFiMy00YzlmLWJlYjMtNjE2YmVjY2U0MzFhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A man falls for his boss' daughter and convinces his friend to pose as his father to gain approval for their marriage, resulting in a hilarious series of misunderstandings."
+      "Plot": "A man falls for his boss' daughter and convinces his friend to pose as his father to gain approval for their marriage, resulting in a hilarious series of misunderstandings.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "N/A",
+      "Director": "Kiruthiga Udhayanidhi",
+      "Writer": "Kiruthiga Udhayanidhi",
+      "Actors": "Jayam Ravi, Yogi Babu, Nithya Menen",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "Mogura",
@@ -2107,7 +3707,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt36147111",
       "Poster": "N/A",
-      "Plot": "A narcotics cop infiltrates a hip-hop group suspected of drug trafficking, based on true events."
+      "Plot": "A narcotics cop infiltrates a hip-hop group suspected of drug trafficking, based on true events.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mitsuru Fukikoshi, Riko Narumi, Hannya",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Becoming Led Zeppelin",
@@ -2116,7 +3724,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt10365912",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTBhMzliNzYtMjQwMy00MjdhLWIyOGYtYzdiY2FlNjk3YTkzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The film traces the journeys of the four members of the Stairway To Heaven rockers through the music scene of the 1960s and their meeting in the summer of 1968, culminating in 1970."
+      "Plot": "The film traces the journeys of the four members of the Stairway To Heaven rockers through the music scene of the 1960s and their meeting in the summer of 1968, culminating in 1970.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Documentary, Music",
+      "Director": "Bernard MacMahon",
+      "Writer": "Bernard MacMahon, Allison McGourty",
+      "Actors": "Led Zeppelin, Jimmy Page, John Paul Jones",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Saiyaara",
@@ -2125,7 +3741,32 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt28037987",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2ZmFhYjctYWZiYy00N2IxLWEzMWItZGRiMDY4ZDQwZWFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Vaani and Krish will have to navigate life, their problems, their insecurities to hopefully realise that only love can be the answer to everything."
+      "Plot": "Vaani and Krish will have to navigate life, their problems, their insecurities to hopefully realise that only love can be the answer to everything.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Drama, Musical, Romance",
+      "Director": "Mohit Suri",
+      "Writer": "Sankalp Sadanah, Rohan Shankar",
+      "Actors": "Ahaan Panday, Aneet Padda, Rajesh Kumar",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "FireAid Benefit Concert",
+      "netflix_url": "https://www.netflix.com/title/82027106",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35471898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmE5YWU0YTItNmJlOC00NjQyLWIxZDUtYmQzZTk4ZjBkMGM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "360 min",
+      "Genre": "Music",
+      "Director": "Martin Pasetta, Joe DeMaio, Joel Gallen",
+      "Writer": "N/A",
+      "Actors": "Gracie Abrams, Jessica Alba, Lil Baby",
+      "Language": "N/A",
+      "Country": "United States"
     },
     {
       "title": "Qaidi Band",
@@ -2134,7 +3775,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt5617172",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4OTc2OTYzOF5BMl5BanBnXkFtZTgwMzU3NTYyNTM@._V1_SX300.jpg",
-      "Plot": "A riveting tale of undertrials who are brought together to form a band in jail for a social event. As their popularity grows through social media, they use their music to protest against jail authorities &amp; the Indian judicial syst..."
+      "Plot": "A riveting tale of undertrials who are brought together to form a band in jail for a social event. As their popularity grows through social media, they use their music to protest against jail authorities &amp; the Indian judicial syst...",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Drama, Music",
+      "Director": "Habib Faisal",
+      "Writer": "Habib Faisal, Sanjay Sharma",
+      "Actors": "Sachin Pilgaonkar, Ram Kapoor, Ashi Singh",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Selena y Los Dinos: A Family’s Legacy",
@@ -2153,7 +3802,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt27666516",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjUwYzRlN2EtODFiNi00MWFiLWE5NmMtODg2MGY3MWFiYmFjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When ancient strategist Kongming is transported to modern Japan, he employs military tactics to turn his new friend Eiko into a music star and the music industry becomes a battlefield."
+      "Plot": "When ancient strategist Kongming is transported to modern Japan, he employs military tactics to turn his new friend Eiko into a music star and the music industry becomes a battlefield.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Fantasy, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Osamu Mukai, Moka Kamishiraishi, Dean Fujioka",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "DEVO",
@@ -2162,7 +3819,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt36435547",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjU1YjNmNzgtMzU1ZC00N2QzLWIzNzUtOTY5NDFhMmI1ZThmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "Vishwaa",
+      "Writer": "Vishwaa",
+      "Actors": "Prasad Oak, Khushi Hajare, Prarthana Behere",
+      "Language": "Marathi",
+      "Country": "India"
     },
     {
       "title": "Pagtatag! The Documentary",
@@ -2231,7 +3896,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt36590288",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDdmNzBmNDgtYTAzMi00NzQ0LWJhZGYtNmFmOTQ0Y2EyYzg0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Concert film weaves Depeche Mode's 2023 Mexico City performances with segments examining music, mortality, and Mexican death traditions."
+      "Plot": "Concert film weaves Depeche Mode's 2023 Mexico City performances with segments examining music, mortality, and Mexican death traditions.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Music",
+      "Director": "Fernando Frias",
+      "Writer": "N/A",
+      "Actors": "Depeche Mode, Christian Eigner, Dave Gahan",
+      "Language": "English",
+      "Country": "United States, Mexico"
     },
     {
       "title": "Rebbeca",
@@ -2240,7 +3913,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt36590342",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjNkNGMyN2MtZTcyMC00MDMwLTk5NWMtYmI0NTI3OWE5NWYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Pop star Becky G explores her heritage while creating her first Mexican regional album, reflecting on her complex background and history."
+      "Plot": "Pop star Becky G explores her heritage while creating her first Mexican regional album, reflecting on her complex background and history.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Music",
+      "Director": "Gabriela Cavanagh, Jennifer Tiexiera",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "The Parkinson Chamber Orchestra Concert",

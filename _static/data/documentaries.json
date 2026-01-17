@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/6839",
   "movies": [
     {
+      "title": "Cocaine Cowboys 2",
+      "netflix_url": "https://www.netflix.com/title/70100553",
+      "year": "2008",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1176726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5NzIzMTk4NF5BMl5BanBnXkFtZTcwNDE4MTc3MQ@@._V1_SX300.jpg",
+      "Plot": "The sequel follows cocaine dealer Charles Crosby beginning in 1991 on the inner-city streets of Oakland, California. The story of Griselda Blanco is presented in greater depth.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "Billy Corben",
+      "Writer": "N/A",
+      "Actors": "Nelson Andreu, Jorge Ayala, Griselda Blanco",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Sergio",
       "netflix_url": "https://www.netflix.com/title/70112740",
       "year": "2009",
@@ -1136,6 +1153,23 @@
       "Country": "France"
     },
     {
+      "title": "First and Last",
+      "netflix_url": "https://www.netflix.com/title/80190843",
+      "year": "2018",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt8893502",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU0NGIyNTgtNzExOC00OGQ2LWEyNWItY2UwNDk1N2MwOTFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Cameras enter Georgia's Gwinnett County Jail to document the first days of its newest inmates and the final days of those about to be released.",
+      "Type": "series",
+      "RunTime": "40 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Alex R., Shantee G., Velma S.",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
       "title": "ReMastered: The Two Killings of Sam Cooke",
       "netflix_url": "https://www.netflix.com/title/80191045",
       "year": "2019",
@@ -1619,6 +1653,23 @@
       "Country": "United States"
     },
     {
+      "title": "Grass Is Greener",
+      "netflix_url": "https://www.netflix.com/title/80213712",
+      "year": "2019",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt10050782",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjk4YTdiYjItYjU4Yi00ZGMzLTllYjktYTVlZGZmNjcyYzk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look at America's complicated relationship with cannabis.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary",
+      "Director": "Fab 5 Freddy",
+      "Writer": "N/A",
+      "Actors": "Harry J. Anslinger, Louis Armstrong, B-Real",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
       "title": "Life on Our Planet",
       "netflix_url": "https://www.netflix.com/title/80213846",
       "year": "2023",
@@ -1702,6 +1753,23 @@
       "Actors": "David Attenborough, Max Hughes",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Jailbirds",
+      "netflix_url": "https://www.netflix.com/title/80216756",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt10243628",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGIzODM1ZmQtNzQ3MS00NzE4LTk1M2YtNGI5MzcxMGIxYWY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "At the Sacramento County Jail, incarcerated women fight the power and one another as they try to make the best of life - and love - on the inside.",
+      "Type": "series",
+      "RunTime": "45 min",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Monster, Yasmin Sundermeyer, Andrea Gunderson",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Murder Mountain",
@@ -2133,6 +2201,23 @@
       "Director": "N/A",
       "Writer": "David Gelb, Brian McGinn",
       "Actors": "Philip Hersh, Caitlyn Elizabeth, Daniel Lee Gray",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Crack: Cocaine, Corruption & Conspiracy",
+      "netflix_url": "https://www.netflix.com/title/80988518",
+      "year": "2021",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt13649700",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzE5NDAwZDctYzdjMi00MmZlLWIxYjktYTJlOTgxM2FmY2E5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the early 1980s, the crack epidemic tore through America’s inner cities like a tsunami, ravaging all in its wake.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "Stanley Nelson",
+      "Writer": "N/A",
+      "Actors": "Elizabeth Hinton, Nelson George, Alan Charles",
       "Language": "English",
       "Country": "United States"
     },
@@ -2677,6 +2762,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Syra Madad, Jake Glanville, Sarah Ives",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Untold: Malice at the Palace",
+      "netflix_url": "https://www.netflix.com/title/81026439",
+      "year": "2021",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt15085802",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0N2M2YmYtZWMzOC00OTM3LWIwYzktZjc0YzBhZTA1MGZhXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+      "Plot": "A brawl broke out near the end of a game between the Indiana Pacers and the Detroit Pistons on November 19, 2004. Nearly 17 years later, we re-examine that night and all the consequences that came from it.",
+      "Type": "movie",
+      "RunTime": "68 min",
+      "Genre": "Documentary, Crime, Sport",
+      "Director": "Floyd Russ",
+      "Writer": "N/A",
+      "Actors": "Jermaine O'Neal, Stephen Jackson, Metta World Peace",
       "Language": "English",
       "Country": "United States"
     },
@@ -3693,6 +3795,14 @@
       "Actors": "Alec Newman, Julian Alaphilippe, Fabio Jakobsen",
       "Language": "French, English",
       "Country": "France, United Kingdom"
+    },
+    {
+      "title": "Magical Andes",
+      "netflix_url": "https://www.netflix.com/title/81154549",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Bob Ross: Happy Accidents, Betrayal & Greed",
@@ -5285,6 +5395,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Hatchet Wielding Hitchhiker",
+      "netflix_url": "https://www.netflix.com/title/81436777",
+      "year": "2023",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt24509990",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2I3OWRiYzEtZmJkNy00YmYzLWIyZWEtYzMwZGJkOTNmMmUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This shocking documentary chronicles a happy-go-lucky nomad's ascent to viral stardom and the steep downward spiral that resulted in his imprisonment.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Colette Camden",
+      "Writer": "Colette Camden",
+      "Actors": "Kai Lawrence, Jessob Reisbeck, Terry Woods",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Harry & Meghan",
       "netflix_url": "https://www.netflix.com/title/81439256",
       "year": "2022",
@@ -6682,6 +6809,23 @@
       "Actors": "Russell Boulter, Jonathan Parshall, Laura Lawfer Orr",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "The Playing Card Killer",
+      "netflix_url": "https://www.netflix.com/title/81610240",
+      "year": "2023",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt27749701",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTYxMDAzNmEtNjIyOS00MDBmLTlhMDYtNmYwOTk5NDJhYWM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A playing card left at a murder scene connects a string of killings in this docuseries tracking a notorious serial killer who terrorized Spain in 2003.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ángel Moya, Beatriz de Vicente, F. Javier Barroso",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Lover, Stalker, Killer",
@@ -8583,6 +8727,14 @@
       "Actors": "Connor Stalions",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Power Moves with Shaquille O'Neal",
+      "netflix_url": "https://www.netflix.com/title/81757187",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Don't Die: The Man Who Wants to Live Forever",

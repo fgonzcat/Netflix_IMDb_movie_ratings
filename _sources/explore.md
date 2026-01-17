@@ -49,7 +49,7 @@ Choose your criteria and explore the full catalog.
 
   <label>
     Year from:
-    <input id="yearFrom" type="number" value="2000" style="width:4em;">
+    <input id="yearFrom" type="number" value="1945" style="width:4em;">
   </label>
 
   <label>
@@ -87,6 +87,8 @@ async function init() {
   const actorSel = document.getElementById('actor');
   const countrySel = document.getElementById('country');
   const languageSel = document.getElementById('language');
+  const directorSel = document.getElementById('director');
+
 
   // Populate Genre options
   const genres = [...new Set(movies.map(m => m.genre))].sort();
@@ -111,7 +113,6 @@ async function init() {
         : []
     )
   )].sort();
-  
   countrySel.innerHTML = `<option value="">All</option>` +
     countries.map(c => `<option value="${c}">${c}</option>`).join('');
 
@@ -124,9 +125,22 @@ async function init() {
         : []
     )
   )].sort();
-  
   languageSel.innerHTML = `<option value="">All</option>` +
     languages.map(l => `<option value="${l}">${l}</option>`).join('');
+
+
+  // Populate Directors
+  const directors = [...new Set(
+    movies.flatMap(m =>
+      m.Director && m.Director !== "N/A"
+        ? m.Director.split(',').map(d => d.trim()).filter(d => d)
+        : []
+    )
+  )].sort();
+  directorSel.innerHTML = `<option value="">All</option>` +
+    directors.map(d => `<option value="${d}">${d}</option>`).join('');
+
+
 
 
   function render() {
@@ -137,6 +151,8 @@ async function init() {
     const a = actorSel.value;
     const c = countrySel.value;
     const lang = languageSel.value;
+    const dir = directorSel.value;
+
 
   
     // Step 1: Filter movies by selected criteria
@@ -152,14 +168,9 @@ async function init() {
       // country filter (null-safe)
       (!c || (m.Country && m.Country.includes(c))) &&
      // language filter (null-safe, token-based)
-     (!lang ||
-       (m.Language &&
-        m.Language
-          .split(',')
-          .map(l => l.trim())
-          .includes(lang)
-       )
-)
+     (!lang ||   (m.Language &&  m.Language  .split(',')   .map(l => l.trim())  .includes(lang) ) )  &&
+     // director filter (null-safe, token-based)
+     (!dir ||    (m.Director && m.Director.split(',').map(x => x.trim()).includes(dir)))
 
     );
   
@@ -180,7 +191,8 @@ async function init() {
           <a href="${m.netflix_url}" target="_blank" rel="noopener noreferrer">
             <img src="${m.Poster}" alt="${m.title}" />
           </a>
-          <b>${m.title}</b> (${m.year}) – ${m.imdb_rating}
+          <b>${m.title}</b> (${m.year})<br>
+          <div class="rating">⭐ ${m.imdb_rating}</div>
         </div>
       `).join('');
   }
