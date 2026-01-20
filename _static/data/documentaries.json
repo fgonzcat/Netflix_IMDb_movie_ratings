@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/6839",
   "movies": [
     {
+      "title": "The Last Days",
+      "netflix_url": "https://www.netflix.com/title/21477429",
+      "year": "1998",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt0174852",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTNmNzkwZDctM2U1Ny00MWNjLWE2OWMtYmI4MWViZDJlOWI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In late 1944, even as they faced imminent defeat, the Nazis expended enormous resources to kill or deport over 425,000 Jews during the \"cleansing\" of Hungary. This Oscar-winning documentary, executive produced by Steven Spielberg,...",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Documentary, War",
+      "Director": "James Moll",
+      "Writer": "N/A",
+      "Actors": "Bill Basch, Martin Basch, Randolph Braham",
+      "Language": "English, German, Hungarian",
+      "Country": "United States"
+    },
+    {
       "title": "Cocaine Cowboys 2",
       "netflix_url": "https://www.netflix.com/title/70100553",
       "year": "2008",
@@ -342,6 +359,23 @@
       "Actors": "Amanda Knox, Meredith Kercher, Raffaele Sollecito",
       "Language": "English, Italian",
       "Country": "Denmark, United States"
+    },
+    {
+      "title": "13TH",
+      "netflix_url": "https://www.netflix.com/title/80091741",
+      "year": "2016",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt5895028",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_SX300.jpg",
+      "Plot": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "Ava DuVernay",
+      "Writer": "Spencer Averick, Ava DuVernay",
+      "Actors": "Melina Abdullah, Michelle Alexander, Cory Booker",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Last Chance U",
@@ -745,6 +779,23 @@
       "Country": "Canada"
     },
     {
+      "title": "Trigger Warning with Killer Mike",
+      "netflix_url": "https://www.netflix.com/title/80144442",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt9426194",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjUwN2M4YjMtM2I3ZC00ZDEwLWIzYTktMTg5MTRlNzZjNWU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Conducting a different social experiment in each episode -- including only spending money in the black community for three days, helping the Crips cash in on its personal brand by launching a line of soda, rethinking public school...",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Documentary, Comedy",
+      "Director": "N/A",
+      "Writer": "Vernon Chatman, Daniel Weidenfeld, Nick Weidenfeld",
+      "Actors": "Killer Mike, Mario Alberto Pagan, Sir Maejor",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
       "title": "Wild Wild Country",
       "netflix_url": "https://www.netflix.com/title/80145240",
       "year": "2018",
@@ -1119,6 +1170,40 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "The Innocent Man",
+      "netflix_url": "https://www.netflix.com/title/80187030",
+      "year": "2018",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0914376",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3NjU3MTQ0OV5BMl5BanBnXkFtZTgwMzQwMzA4NjM@._V1_SX300.jpg",
+      "Plot": "The story of Ron Williamson, a man who sat on Oklahoma's death row for 11 years for a crime he didn't commit. Based on John Grisham's \"The Innocent Man: Murder and Injustice in a Small Town.\"",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "Ross M. Dinerstein, Clay Tweel",
+      "Actors": "Heather McPhaul, John Grisham, Erik Anthony Russo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Time: The Kalief Browder Story",
+      "netflix_url": "https://www.netflix.com/title/80187052",
+      "year": "2017",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt6133034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGRmNDI0OTgtZDQyNy00NmY1LWE5MzUtZGFiZjA5OWFjMTM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After his arrest at age 16, Kalief Browder fought the system and prevailed, despite unthinkable circumstances. He became an American hero.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "Jenner Furst, Julia Willoughby Nason, Nick Sandow",
+      "Actors": "Jay-Z, Kalief Browder, Venida Browder",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Afflicted",
       "netflix_url": "https://www.netflix.com/title/80188953",
       "year": "2018",
@@ -1347,6 +1432,23 @@
       "Country": "N/A"
     },
     {
+      "title": "Trial By Media",
+      "netflix_url": "https://www.netflix.com/title/80198329",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt11963042",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzgxMTZkMWItN2ExNC00NmUyLTgyZmUtYzZjNDJkNWIyYjkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In our modern media landscape where real courtroom dramas have increasingly been transformed into a form of entertainment, this series reflects on some of the most dramatic and memorable trials in recent history.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Al Sharpton, Curtis Sliwa, Patti Blagojevich",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Business of Drugs",
       "netflix_url": "https://www.netflix.com/title/80199963",
       "year": "2020",
@@ -1547,6 +1649,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Karl Lagerfeld, Matthew Haag, Frank Bruni",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Unnatural Selection",
+      "netflix_url": "https://www.netflix.com/title/80208910",
+      "year": "2019",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt11063952",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTZhNDM3YjktNGU0OC00NmMxLWFmNWMtZTFlMDQ0NTViYmYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "DNA, the very essence of life, can now be altered. Not only by Harvard geneticists and multi-billion dollar corporations, but also by renegade biohackers working out of their garages.",
+      "Type": "series",
+      "RunTime": "66 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "David Ishee, Jeffrey Kahn, Jackson Kennedy",
       "Language": "English",
       "Country": "United States"
     },
@@ -2154,6 +2273,14 @@
       "Country": "United States"
     },
     {
+      "title": "Into the Deep: The Submarine Murder Case",
+      "netflix_url": "https://www.netflix.com/title/80239100",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Empire Games",
       "netflix_url": "https://www.netflix.com/title/80240840",
       "year": "2018",
@@ -2169,6 +2296,23 @@
       "Actors": "Jim O'Brien, Fabrizio Conti, Caroline Dodds Pennock",
       "Language": "English",
       "Country": "Czech Republic, United States"
+    },
+    {
+      "title": "Worn Stories",
+      "netflix_url": "https://www.netflix.com/title/80240923",
+      "year": "2021",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt14177168",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzNmNzU3ZDItOGU3NC00ZGUyLWExYzItZWM5MzcwNjZmNTU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this funny, heartfelt and moving docuseries, real people unpack the fascinating and quirky stories around their most meaningful pieces of clothing.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Timmy Cappello, Patrice Jetter, Simon Doonan",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Colin in Black & White",
@@ -2219,6 +2363,40 @@
       "Writer": "David Gelb, Brian McGinn",
       "Actors": "Philip Hersh, Caitlyn Elizabeth, Daniel Lee Gray",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Exhibit A",
+      "netflix_url": "https://www.netflix.com/title/80245117",
+      "year": "2019",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt10376904",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNThhYTQ1NzQtNjZhZS00OWFiLWFlOWQtYTRkMTExNmRjZjA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This true crime series shows how innocent people have been convicted with dubious forensic techniques and tools such as touch DNA and cadaver dogs.",
+      "Type": "series",
+      "RunTime": "144 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "Kelly Loudenberg",
+      "Actors": "Martin Grime, Arthur Young, David Rossi",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Basketball or Nothing",
+      "netflix_url": "https://www.netflix.com/title/80245353",
+      "year": "2019",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt10698408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGMxMDhkYzUtMWU1YS00NzRkLWIzYjgtNzQxYjczNTU5ZDE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The lives of the Chinle High School boys' basketball team based on the Navajo Nation reservation in Arizona.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
       "Country": "United States"
     },
     {
@@ -3109,6 +3287,14 @@
       "Country": "South Korea"
     },
     {
+      "title": "Dig Deeper: The Disappearance of Birgit Meier",
+      "netflix_url": "https://www.netflix.com/title/81040563",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Taco Chronicles",
       "netflix_url": "https://www.netflix.com/title/81040704",
       "year": "2022",
@@ -3313,6 +3499,14 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Hope Frozen: A Quest to Live Twice",
+      "netflix_url": "https://www.netflix.com/title/81072979",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Murder to Mercy: The Cyntoia Brown Story",
       "netflix_url": "https://www.netflix.com/title/81074065",
       "year": "2020",
@@ -3327,6 +3521,23 @@
       "Writer": "N/A",
       "Actors": "N/A",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Period. End of Sentence.",
+      "netflix_url": "https://www.netflix.com/title/81074663",
+      "year": "2018",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt6939026",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWEwZmI5MDQtODU4Ni00YTFkLTlmNzItOWFjYWU3MzRkN2IyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Indian women fight the stigma surrounding menstruation and begin manufacturing sanitary pads.",
+      "Type": "movie",
+      "RunTime": "26 min",
+      "Genre": "Documentary, Short",
+      "Director": "Rayka Zehtabchi",
+      "Writer": "N/A",
+      "Actors": "Ajeya, Anita, Gouri Choudari",
+      "Language": "Hindi, English",
       "Country": "United States"
     },
     {
@@ -3466,6 +3677,40 @@
       "Country": "United States"
     },
     {
+      "title": "Reasonable Doubt: A Tale of Two Kidnappings",
+      "netflix_url": "https://www.netflix.com/title/81094883",
+      "year": "2021",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt15796900",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjIxZDEyM2ItZWRmZi00MWE3LTg2NjQtNDA1NzRmMThlYTFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fender bender that turned into a kidnapping case leads documentalist Roberto Hernández to expose the truth behind Mexico's flawed justice system.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jeremy Levy, Gary Littman, James Weaver Clark",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
+      "title": "House of Secrets: The Burari Deaths",
+      "netflix_url": "https://www.netflix.com/title/81095095",
+      "year": "2021",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt14167390",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDIxNWU4YTctNmQwYS00OWYyLTg4ZTctYWRiMmU0MGNkYzFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Suicide, murder or something else? This docuseries examines chilling truths and theories around the deaths of 11 members of a Delhi family.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "Leena Yadav",
+      "Actors": "Manoj Kumar, Naresh Bhatia, Vishal Anand",
+      "Language": "Hindi, English",
+      "Country": "India"
+    },
+    {
       "title": "The Puppet Master: Hunting the Ultimate Conman",
       "netflix_url": "https://www.netflix.com/title/81097362",
       "year": "2022",
@@ -3498,6 +3743,40 @@
       "Actors": "Douglas Bence, Bob Brenton, Mike Cattran",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "John of God: The Crimes of a Spiritual Healer",
+      "netflix_url": "https://www.netflix.com/title/81103570",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt15233856",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY5MmQwYTctNjZlMC00MzNhLTk0NDUtMTVhZTBkOTRiYTE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Idolized medium João Teixeira de Faria rises to international fame before horrifying abuse is revealed by survivors, prosecutors and the press.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Andrea Mannelli, Rejane Araújo, Jardel Wagner",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
+      "title": "The Hunt for Veerappan",
+      "netflix_url": "https://www.netflix.com/title/81111279",
+      "year": "2023",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt28306965",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzE3ODMwN2EtNzVhYy00YTAwLWE3N2EtZTE1ZDUwODU4YWU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A poacher who conquered the jungles of South India and became the subject of the biggest manhunt of India.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Kannada, English, Tamil",
+      "Country": "India"
     },
     {
       "title": "Return to Space",
@@ -3568,6 +3847,23 @@
       "Country": "United Kingdom, Italy"
     },
     {
+      "title": "Web of Make Believe: Death, Lies and the Internet",
+      "netflix_url": "https://www.netflix.com/title/81122462",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt20602042",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjcxMDI0ZWMtMmExNi00ODRmLTkyZWEtMWVhYzZkOWIyMjI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Conspiracy. Fraud. Violence. Murder. What starts out virtual can get real all too quickly--and when the web is worldwide, so are the consequences.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paul Black, Daniel Rigmaiden, Devin McGee",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Becoming",
       "netflix_url": "https://www.netflix.com/title/81122487",
       "year": "2020",
@@ -3598,6 +3894,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Jurnee Smollett, Rose Eveleth, Tim Maughan",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Naomi Osaka",
+      "netflix_url": "https://www.netflix.com/title/81128594",
+      "year": "2021",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt11898920",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTkwODE0NjktNmFjNi00OWJhLTk2MzYtNTQ3ODFhZGJmMTBiXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg",
+      "Plot": "Featuring unprecedented access to Osaka, the documentary follows her pivotal year, from the U.S. Open in August 2019 and on tour, as she plays in each of the Grand Slams and prepares for the 2020 Tokyo Olympics.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Naomi Osaka, Leonard François, Tamaki Osaka",
       "Language": "English",
       "Country": "United States"
     },
@@ -5251,6 +5564,14 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Vendetta: Truth, Lies and The Mafia",
+      "netflix_url": "https://www.netflix.com/title/81399651",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Club América vs. Club América",
       "netflix_url": "https://www.netflix.com/title/81403860",
       "year": "2022",
@@ -5393,6 +5714,23 @@
       "Actors": "Wanna Marchi, Stefania Nobile, Frank Gerrish",
       "Language": "Italian",
       "Country": "Italy"
+    },
+    {
+      "title": "Eat the Rich: The GameStop Saga",
+      "netflix_url": "https://www.netflix.com/title/81424332",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt14036920",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDM0NWZlODYtMzRkNS00NzhkLWJiNWMtNWJlYTg0MmY4N2I2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Daniel Wilson, Peter Sasaki, Diana Wilson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "jeen-yuhs: A Kanye Trilogy",
@@ -5616,6 +5954,23 @@
       "Country": "United States"
     },
     {
+      "title": "Trese After Dark",
+      "netflix_url": "https://www.netflix.com/title/81452597",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt14859638",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjgwNTE1MDItNjY0ZS00YzNiLThjMDctNmQ5OWE4N2ZlYzk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Stars and creators gather to discuss \"Trese\", from its Filipino folklore inspirations to the comic's beginnings and its journey to an anime series.",
+      "Type": "movie",
+      "RunTime": "35 min",
+      "Genre": "Documentary, Short",
+      "Director": "Gio Puyat",
+      "Writer": "Toni Potenciano",
+      "Actors": "Yvette Tan, Atom Araullo, Jay Oliva",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Redeem Team",
       "netflix_url": "https://www.netflix.com/title/81452996",
       "year": "2022",
@@ -5629,6 +5984,23 @@
       "Director": "Jon Weinbach",
       "Writer": "N/A",
       "Actors": "LeBron James, Dwyane Wade, Carmelo Anthony",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Longest Third Date",
+      "netflix_url": "https://www.netflix.com/title/81456532",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt27218658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2I2MmYxZTgtZmMyZi00MGUzLThiOGUtMzIzYmE2ODM5MmZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Matt and Khani match on Hinge, sparks fly. They spontaneously fly to Costa Rica for their third date - and get stuck as the world shuts down in March 2020. An extended stay in paradise becomes the ultimate test of compatibility.",
+      "Type": "movie",
+      "RunTime": "75 min",
+      "Genre": "Documentary",
+      "Director": "Brent Hodge",
+      "Writer": "N/A",
+      "Actors": "Khani Le, Matt Robertson",
       "Language": "English",
       "Country": "United States"
     },
@@ -5922,6 +6294,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "My Encounter with Evil",
+      "netflix_url": "https://www.netflix.com/title/81474570",
+      "year": "2022",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt22437092",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWIxOGVjODUtYWI0Ni00MDlkLTk0ODYtZDFmNWE3MzZhZTUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A chilling story about how three women, their relatives and friends face evil; its protagonists testify about their experiences of possession, infestation and exorcisms.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Horror",
+      "Director": "N/A",
+      "Writer": "Andrés Borda, Oscar Botia",
+      "Actors": "Olivia Cane, Frank Gerrish, Rob Saladino",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "Call Me Kate",
       "netflix_url": "https://www.netflix.com/title/81475700",
       "year": "2022",
@@ -6010,6 +6399,23 @@
       "SkipTitle": true
     },
     {
+      "title": "Chaos: The Manson Murders",
+      "netflix_url": "https://www.netflix.com/title/81482892",
+      "year": "2025",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt35628886",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwYjk3MzItZmM3Mi00OGQxLTkzYTctZWI5ZGY1ZGFkY2I0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A deep dive into alternative theories surrounding the Manson murders reveals unexpected connections to government agencies, mind control experiments, and key figures from the era, challenging the accepted narrative.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Errol Morris",
+      "Writer": "Tom O'Neill, Dan Piepenbring",
+      "Actors": "Charles Manson, Stephen Kay, Tom O'Neill",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Quarterback",
       "netflix_url": "https://www.netflix.com/title/81482895",
       "year": "2025",
@@ -6078,6 +6484,40 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Encounters",
+      "netflix_url": "https://www.netflix.com/title/81489034",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt28692332",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDZkYmJhMGEtMDZmYy00YTljLThlYzAtYzUzMjQ4N2U4MTQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mass UFO sightings from the last 50 years fuel a global mystery in this docuseries featuring eyewitness accounts, expert interviews and new evidence.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Oprah Winfrey, Maury Povich, Steven Lim",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The King Who Never Was",
+      "netflix_url": "https://www.netflix.com/title/81495974",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt28091734",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY1MWQ4ZTctZDU3OS00OGE5LWFkZTMtMmJlNDViYmM1ODcwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This docuseries sheds light on the killing of a German teenager in '78 through the accounts of his sister and the royal family involved in the case.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Vittorio Emanuele di Savoia, Birgit Hamer, Stacy Ines",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "When Missing Turns to Murder",
       "netflix_url": "https://www.netflix.com/title/81497521",
       "year": "2023",
@@ -6127,6 +6567,23 @@
       "Actors": "Amy James-Kelly, Max Parker, Adam Astill",
       "Language": "English, Ukrainian",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Making The Billion Dollar Code",
+      "netflix_url": "https://www.netflix.com/title/81503864",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27727713",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Menendez Brothers",
@@ -6214,6 +6671,23 @@
       "Country": "United States"
     },
     {
+      "title": "Making The Witcher: Season 2",
+      "netflix_url": "https://www.netflix.com/title/81520054",
+      "year": "2021",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt16464142",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQxM2JjMTMtNTVlYi00ZThiLWI1NWYtNDkxMmY1Y2IzNzJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Short documentary about making the second season of The Witcher (2019).",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Nathan Wiley",
+      "Writer": "N/A",
+      "Actors": "Henry Cavill",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Jimmy Savile: A British Horror Story",
       "netflix_url": "https://www.netflix.com/title/81520549",
       "year": "2022",
@@ -6254,6 +6728,30 @@
       "Actors": "Jason Kyle Johnson, Aedin Waldorf, Jenn Wright",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Witcher Bestiary Season 1, Part 1",
+      "netflix_url": "https://www.netflix.com/title/81555914",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "The Witcher Bestiary Season 1, Part 2",
+      "netflix_url": "https://www.netflix.com/title/81555915",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Nightmare of the Wolf Bestiary",
+      "netflix_url": "https://www.netflix.com/title/81557435",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Hitler and the Nazis: Evil on Trial",
@@ -6646,6 +7144,14 @@
       "Actors": "Viola Davis, Oprah Winfrey",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Witcher Bestiary Season 2",
+      "netflix_url": "https://www.netflix.com/title/81593746",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Files of the Unexplained",
@@ -7049,6 +7555,23 @@
       "Country": "United States"
     },
     {
+      "title": "Can I Tell You A Secret?",
+      "netflix_url": "https://www.netflix.com/title/81637286",
+      "year": "2024",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt31035015",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGE1MjVhMTQtMDE1Zi00NjkwLThlYWItNjUxYzdiZThkNjBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The lives of three women are forever changed when a prolific stalker infiltrates their social-media accounts. And they're only a fraction of his many victims.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Savannah Gracey, Fintan Quinn, Amy Pearson",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Dancing for the Devil: The 7M TikTok Cult",
       "netflix_url": "https://www.netflix.com/title/81638162",
       "year": "2024",
@@ -7115,6 +7638,23 @@
       "Actors": "Rafa Márquez",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Making The Witcher: Season 3",
+      "netflix_url": "https://www.netflix.com/title/81644500",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt29102636",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmYwOWVjNDUtNzU5OC00ZGE2LWI0YzEtMmNjMWJhMTY2NTQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Flesh monsters. Ice-skating. Fight training. Venture behind the scenes of \"The Witcher\" with this inside look at Season 3's story-lines, stunts and stars.",
+      "Type": "movie",
+      "RunTime": "30 min",
+      "Genre": "Documentary",
+      "Director": "Nathan Wiley",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Bill Russell: Legend",
@@ -7261,6 +7801,23 @@
       "Actors": "Barack Obama, Malia Obama, Michelle Obama",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Making The Witcher: Blood Origin",
+      "netflix_url": "https://www.netflix.com/title/81657880",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30151281",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjkwN2QwNzYtMTJmNi00NGM1LTkxMjktMjdjYzYzNDA5ZmE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "14 min",
+      "Genre": "Documentary",
+      "Director": "Nathan Wiley",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "N/A"
     },
     {
       "title": "Start Up, Fall Down: From Billionaire to Convict",
@@ -8847,6 +9404,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Truth About Jussie Smollett?",
+      "netflix_url": "https://www.netflix.com/title/81758844",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37670615",
+      "Poster": "N/A",
+      "Plot": "Features Smollett interview plus talks with police, lawyers and investigators claiming new case evidence. Viewers can judge who's telling the truth about the Jussie Smollett case.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary",
+      "Director": "Gagan Rehill",
+      "Writer": "N/A",
+      "Actors": "Jussie Smollett",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
       "title": "TLC Forever",
       "netflix_url": "https://www.netflix.com/title/81759221",
       "year": "2023",
@@ -9273,6 +9847,31 @@
       "Writer": "N/A",
       "Actors": "Cody Rhodes, Paul Levesque, Ed Koskey",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Lali: Time to Step Up",
+      "netflix_url": "https://www.netflix.com/title/81940759",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "The Turnaround",
+      "netflix_url": "https://www.netflix.com/title/81945091",
+      "year": "2024",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt33303813",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzEwY2FhMTItM2ZhYS00YmJiLThmMzUtNmJjNzk3ZTU1ODYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jon McCann, a Phillies fan from the city's Bridesburg neighborhood and a content creator known as \"The Philly Captain\" who helped spearhead the standing ovation.",
+      "Type": "movie",
+      "RunTime": "25 min",
+      "Genre": "Documentary, Short, Biography",
+      "Director": "Ben Proudfoot, Kyle Thrash",
+      "Writer": "N/A",
+      "Actors": "Jon McCann, Stewie the Dog, J.D. Drew",
+      "Language": "N/A",
       "Country": "United States"
     },
     {

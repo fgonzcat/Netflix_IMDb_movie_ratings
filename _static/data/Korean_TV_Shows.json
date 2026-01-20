@@ -176,7 +176,8 @@
       "netflix_url": "https://www.netflix.com/title/80176842",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Man to Man",
@@ -275,6 +276,13 @@
       "imdb_id": "tt7099334",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzljMThlOTEtOTQwYi00NDg2LWEzM2ItNjgwNmVkOWY5YTQxXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In 2017, Son Oh Gong and Ma Wang are in conflict with each other and they look for a true light in a dark world where evils exists everywhere."
+    },
+    {
+      "title": "Prison Playbook",
+      "netflix_url": "https://www.netflix.com/title/80214406",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "YG Future Strategy Office",
@@ -400,7 +408,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Yong Pal",
@@ -1159,6 +1168,13 @@
       "imdb_id": "tt13273826",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWE5NGQ5YmUtZGU1Ny00ZDM3LWIyZGMtZWI0YWRkZTM0Y2I4XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Noodle shop employees by day and demon hunters by night, the Counters use special abilities to chase down malevolent spirits that prey on humans."
+    },
+    {
+      "title": "Glitch",
+      "netflix_url": "https://www.netflix.com/title/81340251",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Lovestruck in the City",
@@ -2172,6 +2188,13 @@
       "Plot": "About two men who are trying to solve a mess after firearms are suddenly widely available in South Korea, which used to be a gun-free country, through an unknown source."
     },
     {
+      "title": "Can This Love Be Translated?",
+      "netflix_url": "https://www.netflix.com/title/81697769",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Strong Girl Nam-soon",
       "netflix_url": "https://www.netflix.com/title/81697981",
       "year": "2023",
@@ -2816,6 +2839,13 @@
       "SkipTitle": true
     },
     {
+      "title": "No Tail to Tell",
+      "netflix_url": "https://www.netflix.com/title/82076348",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Queen Mantis",
       "netflix_url": "https://www.netflix.com/title/82083709",
       "year": "2025",
@@ -2891,6 +2921,13 @@
       "imdb_id": null,
       "Poster": null,
       "Plot": null
+    },
+    {
+      "title": "Undercover Miss Hong",
+      "netflix_url": "https://www.netflix.com/title/82632108",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Idol I",
