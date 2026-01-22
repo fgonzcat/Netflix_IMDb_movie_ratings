@@ -2,6 +2,19 @@
 
 Choose your criteria and explore the full catalog.
 
+<small>
+⭐ IMDb scale:  
+1–3 😴 | 4–5 💣 | 6 🤔 | 7 👍 | 8+ 🌟
+</small>
+
+Interpretation
+😴 = Very boring
+💣 = Likely bad
+🤔 = Might be good
+👍 = Very likely good
+🌟 = Excellent
+
+
 
 <style>
   /* Controls container */
@@ -44,7 +57,7 @@ Choose your criteria and explore the full catalog.
 
   <label>
     ⭐ Min IMDb rating:
-    <input id="rating" type="number" step="0.1" value="0" style="width:4em;">
+    <input id="rating" type="number" step="0.1" value="6" style="width:4em;">
   </label>
 
   <label>
