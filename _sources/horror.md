@@ -199,6 +199,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*The Blackening*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt31379549/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81672086" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Monster*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81678617" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNzU0Y2I5ODktZjFjNy00MTdjLTlmMDMtOTU1ZThmNDE3MTIyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Guna Guna Istri Muda*</strong></summary>  <div class="movie-plot">A young wife attempt to destroy a family using witchcraft.</div> </details> | <a href="https://www.imdb.com/title/tt28363725/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81678618" target="_blank">Netflix_link</a> |
+| N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Asvins (Telugu)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81711449" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BODJlMTlhNTYtOGE1Mi00NzAxLWFlNzMtYTcwMDIxMzNiZjlhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Suzzanna: Kliwon Friday Night*</strong></summary>  <div class="movie-plot">After a shaman casts a curse on her, a woman is killed by dark sorcery and resurrected as a wrathful spirit who seeks to reunite with her newborn baby.</div> </details> | <a href="https://www.imdb.com/title/tt27411059/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81720031" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*The Origin: Madam Koi-Koi - Chapter 1: The Awakening*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81730153" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*The Origin: Madam Koi-Koi - Chapter 2: The Spirit of Vengeance*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81730154" target="_blank">Netflix_link</a> |
@@ -253,6 +254,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 
  
 ---
-*Page last updated on: 2026-01-22*
+*Page last updated on: 2026-01-23*
 
  
