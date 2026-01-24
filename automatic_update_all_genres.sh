@@ -9,21 +9,31 @@
 ############################
 
 INTERACTIVE=0
+APIKEY=""
 
 while [[ $# -gt 0 ]]; do
-    case "$1" in
-        -i|--interactive)
-            INTERACTIVE=1
-            shift
-            ;;
-        *)
-            echo "Unknown option: $1"
-            exit 1
-            ;;
-    esac
+ case "$1" in
+  -i|--interactive)
+    INTERACTIVE=1
+    shift
+    ;;
+  --apikey=*)
+    APIKEY="${1#--apikey=}"
+    shift
+    ;;
+  --apikey)
+    APIKEY="$2"
+    shift 2
+    ;;
+  *)
+    echo "Unknown option: $1" >&2
+    exit 1
+    ;;
+ esac
 done
-export INTERACTIVE   # <-- now child scripts can see it
 
+export INTERACTIVE
+export APIKEY
 
 
 genres=$(awk '/Movie Categories/{bool=1}  /file/ && bool==1{print $NF} ' website_jupyter_book/_toc.yml)
@@ -34,8 +44,8 @@ do
  netflix_url=$(grep "Netflix genre:"  $md | tr '"' '\n' |grep netflix | head -1)
 
  echo -e "\n\033[34m==>\033[0m \033[1mGENRE: \033[0m \033[36m $g \033[0m"
- echo "./scripts/update_genre.sh $g  $netflix_url"
- ./scripts/update_genre.sh $g  $netflix_url   || {
+ echo "./scripts/update_genre.sh $g  $netflix_url  --apikey=$APIKEY"
+ ./scripts/update_genre.sh $g  $netflix_url  --apikey=$APIKEY  || {
     echo "Stopping automatic update: OMDb limit or fatal error." >&2
     exit 1
   }
