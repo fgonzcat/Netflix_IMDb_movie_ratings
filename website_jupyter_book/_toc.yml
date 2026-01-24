@@ -27,19 +27,29 @@ parts:
           - file: anime_comedies
           - file: anime_drama
           - file: anime_fantasy
+          - file: anime_features
           - file: anime_horror
           - file: anime_scifi
 
-      - file: animated_movies
+      - file: animation
+        sections:
+          - file: animated_movies
       - file: action_adventure
         sections:
           - file: action_comedy 
           - file: action_thrillers
           - file: action_scifi_and_fantasy
+          - file: adventure 
+          - file: martial_arts 
+          - file: spy_action_adventure
+          - file: westerns 
 
       - file: art_house 
       - file: classics 
       - file: comedy 
+        sections:
+          - file: dark_comedies
+          - file: teen_comedies
       - file: crime_documentaries
         sections:
           - file: crime_action_adventure
@@ -54,6 +64,10 @@ parts:
 
       - file: dramas 
       - file: family 
+        sections:
+          - file: animal_tales
+          - file: children_and_family
+      - file: film_noir 
       - file: horror
       - file: independent 
       - file: korean 

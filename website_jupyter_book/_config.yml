@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Netflix IMDb Movie Ratings (2025)
-author: IMDb Movie Ratings (2025) 
+author: Felipe Gonzalez
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
@@ -46,4 +46,7 @@ html:
       gtag('js', new Date());
       gtag('config', 'G-7LWVRGQWEC');
     </script>
+
+html_meta:
+  google-site-verification: 4aaaU3iaFvSSjjx-Yb95M7ozez-jlXb368RBAR8nOng
 

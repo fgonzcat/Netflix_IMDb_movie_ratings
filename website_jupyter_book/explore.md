@@ -2,6 +2,19 @@
 
 Choose your criteria and explore the full catalog.
 
+<small>
+⭐ IMDb scale:  
+1–3 😴 | 4–5 💣 | 6 🤔 | 7 👍 | 8+ 🌟
+</small>
+
+Interpretation
+- 😴 = Very boring
+- 💣 = Likely bad
+- 🤔 = Might be good
+- 👍 = Very likely good
+- 🌟 = Excellent
+
+
 
 <style>
   /* Controls container */
@@ -44,7 +57,7 @@ Choose your criteria and explore the full catalog.
 
   <label>
     ⭐ Min IMDb rating:
-    <input id="rating" type="number" step="0.1" value="0" style="width:4em;">
+    <input id="rating" type="number" step="0.1" value="6" style="width:4em;">
   </label>
 
   <label>
@@ -54,7 +67,7 @@ Choose your criteria and explore the full catalog.
 
   <label>
     Year to:
-    <input id="yearTo" type="number" value="2025" style="width:4em;">
+    <input id="yearTo" type="number" value="2026" style="width:4em;">
   </label>
 
   <label>
@@ -78,6 +91,11 @@ Choose your criteria and explore the full catalog.
     <select id="language"></select>
   </label>
 
+  <label>
+    Movie/Series:
+    <select id="type"></select>
+  </label>
+
 </div>
 
 <div id="results" style="margin-top:1rem;"></div>
@@ -94,6 +112,7 @@ async function init() {
   const countrySel = document.getElementById('country');
   const languageSel = document.getElementById('language');
   const directorSel = document.getElementById('director');
+  const typeSel     = document.getElementById('type');
 
 
   // Populate Genre options
@@ -147,6 +166,11 @@ async function init() {
     directors.map(d => `<option value="${d}">${d}</option>`).join('');
 
 
+  // Populate Type 
+  typeSel.innerHTML = ` <option value="">All</option>
+    <option value="movie">🎬 Movies</option>
+    <option value="series">📺 Series</option> `;
+
 
 
   function render() {
@@ -158,6 +182,7 @@ async function init() {
     const c = countrySel.value;
     const lang = languageSel.value;
     const dir = directorSel.value;
+    const type = typeSel.value;
 
 
   
@@ -176,8 +201,8 @@ async function init() {
      // language filter (null-safe, token-based)
      (!lang ||   (m.Language &&  m.Language  .split(',')   .map(l => l.trim())  .includes(lang) ) )  &&
      // director filter (null-safe, token-based)
-     (!dir ||    (m.Director && m.Director.split(',').map(x => x.trim()).includes(dir)))
-
+     (!dir ||    (m.Director && m.Director.split(',').map(x => x.trim()).includes(dir))) &&
+     (!type || m.Type === type)
     );
   
     // Step 2: Deduplicate only if "All" is selected

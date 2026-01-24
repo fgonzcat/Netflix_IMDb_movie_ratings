@@ -833,6 +833,23 @@
       "Country": "United States"
     },
     {
+      "title": "A Life of Speed: The Juan Manuel Fangio Story",
+      "netflix_url": "https://www.netflix.com/title/80227556",
+      "year": "2020",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt6668212",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTgyMTE4NDktYjc4OC00NmUzLTg1NWQtNzQ1ZjZiNGZiOTIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Plot": "The life of five-time Formula One world champion Juan Manuel Fangio. The first official documentary.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "Francisco Macri",
+      "Writer": "Luciano Origlio, Rodrigo H. Vila",
+      "Actors": "Jackie Stewart, Toto Wolff, Fernando Alonso",
+      "Language": "Spanish, English, Italian, German",
+      "Country": "Argentina"
+    },
+    {
       "title": "Camarón Revolution",
       "netflix_url": "https://www.netflix.com/title/80233223",
       "year": "2018",
@@ -1247,6 +1264,14 @@
       "Actors": "Eva Mariol, Imma Cabecerans, Joaquín Oristrell",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "Guillermo Vilas: Settling the Score",
+      "netflix_url": "https://www.netflix.com/title/81037873",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Dig Deeper: The Disappearance of Birgit Meier",
@@ -2664,6 +2689,14 @@
       "Actors": "Andrea Andermann, Rino Barillari, Valerio Caprara",
       "Language": "Italian",
       "Country": "Italy"
+    },
+    {
+      "title": "Amazing Antoine",
+      "netflix_url": "https://www.netflix.com/title/81709732",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Garbo: Where Did You Go?",

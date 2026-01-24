@@ -946,6 +946,23 @@
       "Country": "United States"
     },
     {
+      "title": "The 3rd Eye",
+      "netflix_url": "https://www.netflix.com/title/81016750",
+      "year": "2018",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt8893590",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTVmZGUwNTktNjhlZC00NzQ5LTliY2QtYzJlYjA2YmU0NTVmXkEyXkFqcGdeQXVyMjcxOTQ0Mjc@._V1_SX300.jpg",
+      "Plot": "When her little sister claims she sees the dead, Alia consults a psychic, who opens her own eyes to the vengeful ghosts haunting their childhood home.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
       "title": "Rattlesnake",
       "netflix_url": "https://www.netflix.com/title/81018455",
       "year": "2019",
@@ -1150,6 +1167,23 @@
       "Country": "Malaysia"
     },
     {
+      "title": "Suzzanna: Buried Alive",
+      "netflix_url": "https://www.netflix.com/title/81062674",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9044128",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5OTMxN2YtY2E4OS00NjZmLTkxNmYtY2MwMWQwZWRlZWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a pregnant woman is murdered, her spirit seeks revenge against her increasingly terrified killers, who are determined to finish her off for good.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Rocky Soraya, Anggy Umbara",
+      "Writer": "Ferry Lesmana, Bene Dion Rajagukguk, Sunil Soraya",
+      "Actors": "Luna Maya, Herjunot Ali, T. Rifnu Wikana",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Till Death",
       "netflix_url": "https://www.netflix.com/title/81075469",
       "year": "2021",
@@ -1250,6 +1284,14 @@
       "Actors": "Julia Wieniawa-Narkiewicz, Michal Lupa, Wiktoria Gasiewska",
       "Language": "Polish",
       "Country": "Poland"
+    },
+    {
+      "title": "Game Over (Tamil Version)",
+      "netflix_url": "https://www.netflix.com/title/81151877",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Game Over (Hindi Version)",
@@ -1411,6 +1453,23 @@
       "Actors": "Michael Caine, Katharine Ross, Richard Widmark",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Bridge Curse",
+      "netflix_url": "https://www.netflix.com/title/81224632",
+      "year": "2020",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt11242242",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRkOGU2NGUtZjRjOS00YjU5LThkZTMtNjNmNDZjNmNiMmVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "University students, planning a bravery initiation test for their fellow classmates, choose a campus bridge rumored to be haunted by a vengeful female ghost.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Lester Hsi",
+      "Writer": "Keng-Ming Chang, Po-Hsiang Hao",
+      "Actors": "Ning Chang, Joe Hsieh, Cheng Ko",
+      "Language": "Chinese",
+      "Country": "Taiwan"
     },
     {
       "title": "His House",
@@ -2049,6 +2108,14 @@
       "Country": "Italy"
     },
     {
+      "title": "Boomika (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81496130",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "The Girl Who Got Away",
       "netflix_url": "https://www.netflix.com/title/81500351",
       "year": "2021",
@@ -2303,6 +2370,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Possessed",
+      "netflix_url": "https://www.netflix.com/title/81631032",
+      "year": "2022",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt22400006",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDlkNWZiODctMjM5OC00Y2U5LTg3YmMtNGRjODE2OWQ5NmJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Nazmi, a teacher must put aside his personal traumas to rally his school in a fight for survival against a group of violent, possessed students.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Horror, Thriller",
+      "Director": "James Lee",
+      "Writer": "Adib Zaini, Laili Noordin",
+      "Actors": "Alif Satar, Ikmal Amry, Abbas Mahmood",
+      "Language": "Malay",
+      "Country": "Malaysia"
+    },
+    {
       "title": "Katteri",
       "netflix_url": "https://www.netflix.com/title/81632774",
       "year": "2022",
@@ -2325,6 +2409,23 @@
       "Writer": "P. Vasu",
       "Actors": "Raghava Lawrence, Kangana Ranaut, Aathmika",
       "Language": "Tamil",
+      "Country": "India"
+    },
+    {
+      "title": "Kumari",
+      "netflix_url": "https://www.netflix.com/title/81644920",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt13531020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQxNDdhYTUtZDJhNC00NjgyLTk1NDAtZDFhZTZmODdiN2QyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+      "Plot": "The world of Kumari, who is married off far away in Kanhirangat, a cursed land beyond Illymala, in the west. A naive Kumari arrives in the cursed land, where people are ready to sacrifice their lives to preserve tradition",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Nirmal Sahadev",
+      "Writer": "Fazal Hameed, Nirmal Sahadev",
+      "Actors": "Prithviraj Sukumaran, Aishwarya Lekshmi, Shine Tom Chacko",
+      "Language": "Malayalam",
       "Country": "India"
     },
     {
@@ -2426,6 +2527,23 @@
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Guna Guna Istri Muda",
+      "netflix_url": "https://www.netflix.com/title/81678618",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28363725",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU0Y2I5ODktZjFjNy00MTdjLTlmMDMtOTU1ZThmNDE3MTIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young wife attempt to destroy a family using witchcraft.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Razka Robby Ertanto",
+      "Writer": "Ackyl Anwari, Alim Sudio, Titien Wattimena",
+      "Actors": "Anjasmara, Lulu Tobing, Carissa Perusset",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Possession: Kerasukan",
@@ -2564,6 +2682,14 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Asvins (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81711449",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Bone Lake",
       "netflix_url": "https://www.netflix.com/title/81716210",
       "year": "2024",
@@ -2682,6 +2808,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Do You See What I See",
+      "netflix_url": "https://www.netflix.com/title/81738676",
+      "year": "2024",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt28088336",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA2MzI3ODQtOWE5MS00ZmE0LWE2OTUtNWQwNGQ5NzAwNzBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On her birthday, Mawar's dream, who was lonely and only accompanied by her boarding house friends, came true about the partner she dreamed of. However, after finding this partner, Mawar's behavior became increasingly strange.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Horror",
+      "Director": "Awi Suryadi",
+      "Writer": "Lele Laila, Mizter Popo",
+      "Actors": "Shenina Cinnamon, Diandra Agatha, Yesaya Abraham",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Outside",
       "netflix_url": "https://www.netflix.com/title/81739319",
       "year": "2024",
@@ -2748,6 +2891,57 @@
       "Actors": "Iza Calzado, Miggs Cuaderno, Donna Cariaga",
       "Language": "Tagalog, Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "Siksa Neraka",
+      "netflix_url": "https://www.netflix.com/title/81753728",
+      "year": "2023",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt27657534",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTkxNmRiOGUtODYzMy00MTA2LTg3MGYtMDI3MWMxN2RlZDhlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four siblings, always taught lessons about heaven and hell, suddenly go missing and they now face hell itself and the punishments it has to offer for their sins.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Anggy Umbara",
+      "Writer": "Lele Laila, M.B. Rahimsyah",
+      "Actors": "Safira Ratu Sofya, Kiesha Alvaro, Ariyo Wahab",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
+      "title": "Kampon",
+      "netflix_url": "https://www.netflix.com/title/81754265",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt29544860",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjY3ZGMxZDItY2FlMi00MDQ1LWIwZTQtOWQ5MDQzNTM4ODJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Movie about married couple who takes in girl claiming to be husband's child. Wife bonds with her as husband probes girl's past. Tension builds over child's mysterious behavior and unclear origins.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Action, Drama, Horror",
+      "Director": "King Palisoc",
+      "Writer": "Dodo Dayao, King Palisoc",
+      "Actors": "Derek Ramsay, Beauty Gonzalez, Erin Espiritu",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
+      "title": "Wanita Ahli Neraka",
+      "netflix_url": "https://www.netflix.com/title/81755763",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33771507",
+      "Poster": "N/A",
+      "Plot": "The life of a woman named Farah. After officially getting married and having the status of a wife, Farah was suddenly possessed by a dark power until she slowly lost control of herself.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Horror",
+      "Director": "Farishad I. Latjuba",
+      "Writer": "N/A",
+      "Actors": "Febby Rastanty, Oka Antara, Ashira Zamita",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Kuyang",
@@ -3053,6 +3247,14 @@
       "Actors": "Jodi Sta. Maria, Joem Bascon, Juan Karlos Labajo",
       "Language": "Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "The Redemption of Sin",
+      "netflix_url": "https://www.netflix.com/title/82018121",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Heart Eyes",

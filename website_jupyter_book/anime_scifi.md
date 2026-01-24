@@ -68,6 +68,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2729" target="_blan
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Transformers: War for Cybertron: Kingdom*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81393636" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Revelations: The Masters of the Universe: Revelation Aftershow*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt30788647/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81473420" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*T・P BON*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81497635" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Cosmic Princess Kaguya!*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81756595" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -106,6 +107,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2729" target="_blan
 
  
 ---
-*Page last updated on: 2026-01-21*
+*Page last updated on: 2026-01-24*
 
  

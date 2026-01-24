@@ -249,6 +249,14 @@
       "Country": "Brazil"
     },
     {
+      "title": "Flavors of Youth: International Version",
+      "netflix_url": "https://www.netflix.com/title/80234491",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Trailer Park Boys: The Animated Series",
       "netflix_url": "https://www.netflix.com/title/80235932",
       "year": "2020",
@@ -1010,6 +1018,23 @@
       "Actors": "Lazare Herson-Macarel, Eric Herson-Macarel, Damien Boisseau",
       "Language": "French",
       "Country": "France, Luxembourg"
+    },
+    {
+      "title": "Adam by Eve: A live in Animation",
+      "netflix_url": "https://www.netflix.com/title/81450005",
+      "year": "2022",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt18274178",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTMyYmNmZjctMDkxYy00ZDU0LWFjMzktYWI4YjYxNDY1ODZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Anime, live action and music by cutting-edge artist Eve - all weave together into this dreamlike sonic experience inspired by the story of Adam and Eve.",
+      "Type": "movie",
+      "RunTime": "58 min",
+      "Genre": "Animation, Music",
+      "Director": "Nobutaka Yoda",
+      "Writer": "Nobutaka Yoda",
+      "Actors": "Hanon, Ano, Eve",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Exploding Kittens",

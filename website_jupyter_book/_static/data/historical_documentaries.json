@@ -686,7 +686,8 @@
       "netflix_url": "https://www.netflix.com/title/81108230",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Hunt for Veerappan",
