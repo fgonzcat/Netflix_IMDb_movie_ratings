@@ -1013,6 +1013,14 @@
       "Country": "United States"
     },
     {
+      "title": "This Is a Robbery: The World's Biggest Art Heist",
+      "netflix_url": "https://www.netflix.com/title/81032570",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Athlete A",
       "netflix_url": "https://www.netflix.com/title/81034185",
       "year": "2020",
@@ -1769,6 +1777,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Mr. Good: Cop or Crook?",
+      "netflix_url": "https://www.netflix.com/title/81311768",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt20113404",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc5NzVhOTQtZTY1NS00OWFkLTllNWEtMDNhMmNlYTljYWNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this riveting docuseries, when Norway's top cop is suspected of drug trafficking, investigators must ask: Is he a good officer or a major criminal?",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Tommy Hyving, Eric Vorenholt",
+      "Language": "Norwegian",
+      "Country": "Norway"
+    },
+    {
       "title": "Monique Olivier: Accessory to Evil",
       "netflix_url": "https://www.netflix.com/title/81313519",
       "year": "2023",
@@ -2439,6 +2464,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "The Masked Scammer",
+      "netflix_url": "https://www.netflix.com/title/81512109",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt23246772",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmRjYWY3ZjUtN2MyZi00NDVjLTlkZjEtNjUxNTJjNTQzNDVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A master conman schemes and scams his way into stealing millions from the French elites. His accomplices and victims look back on the man's career to try and find out what made him so successful.",
+      "Type": "movie",
+      "RunTime": "78 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Dominic Sivyer, Yvann Yagchi",
+      "Writer": "Olivier Bouchara",
+      "Actors": "N/A",
+      "Language": "French, English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Caught in the Web: The Murders Behind Zona Divas",
       "netflix_url": "https://www.netflix.com/title/81517594",
       "year": "2024",
@@ -2847,11 +2889,38 @@
       "Country": "India"
     },
     {
+      "title": "Indian Predator: Murder in a Courtroom",
+      "netflix_url": "https://www.netflix.com/title/81610577",
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt22756480",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTY2ZmI3MDQtN2UxZi00ZGU1LWI5ZDktN2JhMzA4NjEwNWIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2004, a brutal predator was lynched in a courtroom. This is the story of the community he terrorized - and the vengeance they unleashed.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Shubham Ugale, Sangramsingh Thakur, Happy Kalizpuria",
+      "Language": "N/A",
+      "Country": "India"
+    },
+    {
       "title": "Beast of Bangalore: Indian Predator",
       "netflix_url": "https://www.netflix.com/title/81610578",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2022",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt23751640",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjliZDQ0MGYtYTAwYS00MWNjLWEzMjMtYmIwNzZiNzcyMjJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dangerous predator on the streets of Bangalore, lurking in the shadows leaving women feeling unsafe. He changed the whole landscape of this city.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Raj Kumar Singh",
+      "Language": "N/A",
+      "Country": "India"
     },
     {
       "title": "Lover, Stalker, Killer",
@@ -2886,6 +2955,23 @@
       "Actors": "N/A",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "Illusions for Sale: The Rise and Fall of Generation Zoe",
+      "netflix_url": "https://www.netflix.com/title/81617277",
+      "year": "2024",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt32201656",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWI5NWEyMDAtM2FlOS00NTUwLWFkOWEtY2ZiYmYxNDJlYmMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The genesis, growth, and fall of the most bizarre and ambitious financial platform in Latin America, which turns out to be, to a large extent, a faithful reflection of its eccentric creator: Leonardo Cositorto.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Matías Gueilburt",
+      "Writer": "Nicolás Gueilburt",
+      "Actors": "Leonardo Cositorto, Maximiliano Batista, Juliana Companys",
+      "Language": "Spanish",
+      "Country": "Argentina"
     },
     {
       "title": "American Nightmare",

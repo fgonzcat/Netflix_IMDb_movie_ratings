@@ -385,6 +385,23 @@
       "Country": "United States"
     },
     {
+      "title": "Nisman: The Prosecutor, the President, and the Spy",
+      "netflix_url": "https://www.netflix.com/title/80197991",
+      "year": "2020",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt10291112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2NiZjU1MzMtYmRlNi00M2M4LWI5OTctNTE1M2NkZWI3ZWNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The suspicious death of Alberto Nisman, investigator of the attack on the headquarters of the AMIA in 1994.",
+      "Type": "series",
+      "RunTime": "373 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dexter Filkins, Ross Newland, Gustavo Perednik",
+      "Language": "Spanish, English, Hebrew",
+      "Country": "Spain, Germany, Denmark, United States"
+    },
+    {
       "title": "Trial By Media",
       "netflix_url": "https://www.netflix.com/title/80198329",
       "year": "2020",
@@ -587,6 +604,23 @@
       "Actors": "Vicki Rains, Heidi Jackson, J.P. Smith",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Killer Ratings",
+      "netflix_url": "https://www.netflix.com/title/80217946",
+      "year": "2019",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt10243692",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWU1YzA0NDktN2YyYS00OGY1LTkzMTQtN2Y2Y2I2MWM3MjIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The true-life story of Brazilian TV host Wallace Souza, who was accused of literally killing for ratings, and using his crime TV show to cover up the grizzly truth.",
+      "Type": "series",
+      "RunTime": "351 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "Daniel Bogado, Dinah Lord, Eamonn Matthews",
+      "Actors": "Paula Litaiff, Thomaz Vasconcelos, Willace Souza",
+      "Language": "Portuguese",
+      "Country": "United Kingdom, Brazil"
     },
     {
       "title": "Fear City: New York vs The Mafia",
@@ -1098,6 +1132,14 @@
       "Country": "United States"
     },
     {
+      "title": "This Is a Robbery: The World's Biggest Art Heist",
+      "netflix_url": "https://www.netflix.com/title/81032570",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Athlete A",
       "netflix_url": "https://www.netflix.com/title/81034185",
       "year": "2020",
@@ -1138,6 +1180,23 @@
       "Actors": "Stephanie Sherry, Thaís Nunes, Luciano Santoro",
       "Language": "Portuguese",
       "Country": "Brazil"
+    },
+    {
+      "title": "The 43",
+      "netflix_url": "https://www.netflix.com/title/81045551",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt9789272",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmVhYzI5NjEtMDczYi00YzEyLTg1ZDQtMTJjNzA2ZjM2MzFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This docuseries disputes the Mexican government's account of how and why 43 students from Ayotzinapa Rural Teachers' College vanished in Iguala in 2014.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paco Ignacio Taibo II",
+      "Language": "Spanish",
+      "Country": "Argentina"
     },
     {
       "title": "The Sons of Sam: A Descent into Darkness",
@@ -1259,6 +1318,23 @@
       "Country": "South Korea, Singapore"
     },
     {
+      "title": "Sophie: A Murder in West Cork",
+      "netflix_url": "https://www.netflix.com/title/81094755",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt14681732",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmYyOTBiY2EtYWUxYS00OWI2LWI3ODctYmJmMTc4YWYxYTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The documentary follows the investigation of Sophie Toscan Du Plantier, a French film and TV producer who was killed while at her isolated holiday cottage in West Cork, Ireland, in 1996.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ian Bailey, Barry Roche, Eugene Gilligan",
+      "Language": "English, French",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "House of Secrets: The Burari Deaths",
       "netflix_url": "https://www.netflix.com/title/81095095",
       "year": "2021",
@@ -1276,6 +1352,23 @@
       "Country": "India"
     },
     {
+      "title": "The Puppet Master: Hunting the Ultimate Conman",
+      "netflix_url": "https://www.netflix.com/title/81097362",
+      "year": "2022",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt15479704",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWRhYTRkYWItZjFjYS00NWE2LWE1YTctMTc3M2M2MjcwNDQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this harrowing docuseries, a cruel conman masquerading as a British spy manipulates and steals from his victims, leaving ruined families in his wake.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Stephen Corrall, Sophie Clifton, Mark Clifton",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Memories of a Murderer: The Nilsen Tapes",
       "netflix_url": "https://www.netflix.com/title/81097791",
       "year": "2021",
@@ -1291,6 +1384,23 @@
       "Actors": "Douglas Bence, Bob Brenton, Mike Cattran",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "John of God: The Crimes of a Spiritual Healer",
+      "netflix_url": "https://www.netflix.com/title/81103570",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt15233856",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY5MmQwYTctNjZlMC00MzNhLTk0NDUtMTVhZTBkOTRiYTE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Idolized medium João Teixeira de Faria rises to international fame before horrifying abuse is revealed by survivors, prosecutors and the press.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Andrea Mannelli, Rejane Araújo, Jardel Wagner",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Apache: The Life of Carlos Tevez",
@@ -1429,6 +1539,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Under Suspicion: Uncovering the Wesphael Case",
+      "netflix_url": "https://www.netflix.com/title/81149020",
+      "year": "2021",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt14078186",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTc0ZGFhYjctNTc5Zi00NTNiLWI3YTgtZmMwYzcxZTQxYjRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This docuseries examines the story of Belgian politician Bernard Wesphael, who was accused of murdering his wife, Véronique Pirotton, in 2013. She had been found dead in a hotel room in Ostend.",
+      "Type": "series",
+      "RunTime": "180 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "Georges Huercano, Pascal Vrebos",
+      "Actors": "Nadine Pirotton, Bernard Sohet, Bernard Wesphael",
+      "Language": "French, English",
+      "Country": "Belgium"
+    },
+    {
       "title": "The Indrani Mukerjea Story: Buried Truth",
       "netflix_url": "https://www.netflix.com/title/81150989",
       "year": "2024",
@@ -1444,6 +1571,23 @@
       "Actors": "Anurita Jha, Vivek Kumar, Samaksh Sudi",
       "Language": "N/A",
       "Country": "India"
+    },
+    {
+      "title": "The Women and the Murderer",
+      "netflix_url": "https://www.netflix.com/title/81168281",
+      "year": "2021",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt15216504",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg0OTQ2ZTEtMDY4OS00YzBkLTk2YTItNWM3YTQzMzEwMDQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two brave women, a police chief and a victim's mother, make tireless efforts to find and prosecute serial killer Guy Georges, in 1990s Paris.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Mona Achache, Patricia Tourancheau",
+      "Writer": "N/A",
+      "Actors": "Anne Gautier, Hélène Frinking, Agnès Nijkamp",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "American Conspiracy: The Octopus Murders",
@@ -1854,6 +1998,23 @@
       "Country": "United States"
     },
     {
+      "title": "Senzo: Murder of a Soccer Star",
+      "netflix_url": "https://www.netflix.com/title/81343263",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt18954258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5NzljYWMtOWY2Ny00ODc4LWFhNjUtZTBjODAzNmNmMDc4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The thrilling five-part true crime documentary series delves into the beloved soccer star’s murder, sharing insight into what transpired that fateful night when Meyiwa was gunned down in what was alleged to be a botched robbery in...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mzillikazi Wa Afrika, Robert Marawa, Irene Meyiwa",
+      "Language": "English",
+      "Country": "South Africa"
+    },
+    {
       "title": "Yara",
       "netflix_url": "https://www.netflix.com/title/81346330",
       "year": "2021",
@@ -1903,6 +2064,23 @@
       "Actors": "Cabot Rea, Tim Cullingworth-Hudson, Audrina Patridge",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "D.B. Cooper: Where Are You?!",
+      "netflix_url": "https://www.netflix.com/title/81349547",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt21063148",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5YjVmMmYtY2FkOC00MjY4LThlODItOGRhZmZmOTMwZmZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows the 50-year quest to find Cooper, the man who hijacked a Northwest Airlines passenger jet in November 1971 and escaped with $200,000.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Eric Ulis, Tom Colbert, Jonna Mendez",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Outreau Case: A French Nightmare",
@@ -2014,6 +2192,23 @@
       "Country": "United States"
     },
     {
+      "title": "Fortune Seller: A TV Scam",
+      "netflix_url": "https://www.netflix.com/title/81417724",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt21340378",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWFhODkxN2ItOGEyNC00MTNlLTg1MTYtNDg5N2E1YmIzZDI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow controversial slimming cream sellers turned con artists Wanna Marchi and Stefania Nobile, from their TV success to their scam and jail time.",
+      "Type": "series",
+      "RunTime": "31S min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "Alessandro Garramone",
+      "Actors": "Wanna Marchi, Stefania Nobile, Frank Gerrish",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "How to Rob a Bank",
       "netflix_url": "https://www.netflix.com/title/81427740",
       "year": "2024",
@@ -2097,6 +2292,23 @@
       "Actors": "Marion Löblich, Dieter Degowski, Hans-Jürgen Rösner",
       "Language": "German",
       "Country": "Germany"
+    },
+    {
+      "title": "The Motive",
+      "netflix_url": "https://www.netflix.com/title/81449754",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt5451244",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzk4OGNkODItMGVmZC00YWUxLWJlYTktNWE4OTdiZTljZThmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man obsessed with the idea of writing \"high literature\" starts to cause conflicts around him to write about it.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Manuel Martín Cuenca",
+      "Writer": "Javier Cercas, Alejandro Hernández, Manuel Martín Cuenca",
+      "Actors": "Javier Gutiérrez, María León, Adelfa Calvo",
+      "Language": "Spanish, English",
+      "Country": "Spain, Mexico"
     },
     {
       "title": "I Am Vanessa Guillen",
@@ -2243,6 +2455,23 @@
       "Country": "United States"
     },
     {
+      "title": "Orgasm Inc: The Story of OneTaste",
+      "netflix_url": "https://www.netflix.com/title/81487901",
+      "year": "2022",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt22900124",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTEzYjg5ZmItYTU1My00MGY2LTk4MjEtMzJiNWZiYjVjM2Y5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A sexual wellness company gains fame and followers for its practice of \"orgasmic meditation\" — until members come forward with disturbing allegations.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Sarah Gibson, Sloane Klevin",
+      "Writer": "Marissa Díaz",
+      "Actors": "Frank Fu, Yves Gore",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Devil on Trial",
       "netflix_url": "https://www.netflix.com/title/81487924",
       "year": "2023",
@@ -2275,6 +2504,31 @@
       "Actors": "Andrew Lee, Keisuke Hoashi, June Yoon",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Big Mäck: Gangsters and Gold",
+      "netflix_url": "https://www.netflix.com/title/81495571",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "The King Who Never Was",
+      "netflix_url": "https://www.netflix.com/title/81495974",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt28091734",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY1MWQ4ZTctZDU3OS00OGE5LWFkZTMtMmJlNDViYmM1ODcwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This docuseries sheds light on the killing of a German teenager in '78 through the accounts of his sister and the royal family involved in the case.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Vittorio Emanuele di Savoia, Birgit Hamer, Stacy Ines",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "When Missing Turns to Murder",
@@ -2430,6 +2684,23 @@
       "Country": "France"
     },
     {
+      "title": "The Yara Gambirasio Case: Beyond Reasonable Doubt",
+      "netflix_url": "https://www.netflix.com/title/81519400",
+      "year": "2024",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt32843606",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI1ODhkM2QtODc1OC00OTg3LWEyNWMtODhjYjg0OTE0NDRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This docuseries digs into the disappearance of 13-year-old Yara and the disconcerting investigation that shattered the peace of a small Italian town.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "Gianluca Neri",
+      "Actors": "Marita Comi, Marco Oliva, Paola Abrate",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "Murdaugh Murders: A Southern Scandal",
       "netflix_url": "https://www.netflix.com/title/81519789",
       "year": "2023",
@@ -2513,6 +2784,23 @@
       "Actors": "B.A. Aloor, C.S. Chandrika, Nikhila Henry",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Crime Scene Berlin: Nightlife Killer",
+      "netflix_url": "https://www.netflix.com/title/81566571",
+      "year": "2024",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt31592633",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGEyYzY0ZjUtZTdlNS00ZmU4LWFlMGItNzcyYzVlNTk0ZGU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2012, a string of grisly murders sends shock waves through the Berlin party scene. As news of the murders hits the headlines across Germany, the pressure mounts on the investigators to solve the case.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Miroslaw Wawak, Katrin Faust, Monika Laschke",
+      "Language": "German",
+      "Country": "Germany"
     },
     {
       "title": "The Breakthrough",
@@ -2804,6 +3092,23 @@
       "Country": "India"
     },
     {
+      "title": "Indian Predator: Murder in a Courtroom",
+      "netflix_url": "https://www.netflix.com/title/81610577",
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt22756480",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTY2ZmI3MDQtN2UxZi00ZGU1LWI5ZDktN2JhMzA4NjEwNWIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2004, a brutal predator was lynched in a courtroom. This is the story of the community he terrorized - and the vengeance they unleashed.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Shubham Ugale, Sangramsingh Thakur, Happy Kalizpuria",
+      "Language": "N/A",
+      "Country": "India"
+    },
+    {
       "title": "Beast of Bangalore: Indian Predator",
       "netflix_url": "https://www.netflix.com/title/81610578",
       "year": "2022",
@@ -2836,6 +3141,23 @@
       "Actors": "Dave Kroupa, Nancy Raney, Chris LeGrow",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "I Survived a Crime",
+      "netflix_url": "https://www.netflix.com/title/81612244",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt13471702",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzRiM2I5NWItYTFkOC00YzhhLWJkODAtZWM1MzZmMDdiNjI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Hosted by award-winning ABC News reporter Gio Benitez, \"I Survived a Crime\" takes viewers on a journey into the experience of being a victim of a sudden crime, from the moment those attacked first perceive the danger through the p...",
+      "Type": "series",
+      "RunTime": "4 min",
+      "Genre": "Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Gio Benitez, Patty Breton",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Kuttavum Shikshayum",
@@ -3089,6 +3411,23 @@
       "Actors": "N/A",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Little Nicholas: Life of a Scoundrel",
+      "netflix_url": "https://www.netflix.com/title/81667933",
+      "year": "2023",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt31183676",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTBjNWFkODYtNTIzNy00NjdhLTkwMTEtNTY4MGM2MGJlZWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As a teen, little Nicolás managed to sneak between politicians, millionaires and even royals. This docuseries revisits his case through key testimonies.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Missing: The Lucie Blackman Case",

@@ -1294,6 +1294,14 @@
       "SkipTitle": true
     },
     {
+      "title": "Game Over (Telugu Version)",
+      "netflix_url": "https://www.netflix.com/title/81151878",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Game Over (Hindi Version)",
       "netflix_url": "https://www.netflix.com/title/81151880",
       "year": "2019",
@@ -1766,6 +1774,23 @@
       "Actors": "Elli Rhiannon Müller Osborne, Liv Mjönes, Ívar Örn Sverrisson",
       "Language": "Norwegian, Swedish",
       "Country": "Norway"
+    },
+    {
+      "title": "Hospital",
+      "netflix_url": "https://www.netflix.com/title/81341307",
+      "year": "2020",
+      "imdb_rating": "3.3",
+      "imdb_id": "tt14288764",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ0YzVjNDEtYzRmZS00MDI3LTljNDUtODc1ZDgzZDVjZGRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A grieving wife and the sister of of a nurse paid two Tao priests to commune with the spirits of their deceased loved ones in a famous haunted hospital.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Horror",
+      "Director": "Chia-Lin Chu",
+      "Writer": "Chia-Lin Chu",
+      "Actors": "Li-Chi Hsu, Lei Hung, Samuel Ku",
+      "Language": "Chinese",
+      "Country": "Taiwan"
     },
     {
       "title": "The Trip",
@@ -3112,6 +3137,23 @@
       "Actors": "Madi Bready, Laura Campbell, Ally Davis",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Janji Darah",
+      "netflix_url": "https://www.netflix.com/title/81927385",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32569446",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjE3YjQ4MjUtNDRhZS00YjUzLThhYjUtNmJiOGU1ODQ2M2RjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two people who once tied a promise to each other, face a very impossible problem after death separates them, because their promise is to always protect each other wherever they are.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Sentot Sahid, Andri Sofyansyah",
+      "Writer": "Jujur Prananto",
+      "Actors": "Natasha Wilona, Emir Mahira, Fergie Brittany",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "La Ciguapa Siempre",

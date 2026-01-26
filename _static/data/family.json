@@ -1574,6 +1574,14 @@
       "Country": "United States"
     },
     {
+      "title": "Free Rein: Valentine's Day",
+      "netflix_url": "https://www.netflix.com/title/81001413",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Nightbooks",
       "netflix_url": "https://www.netflix.com/title/81002270",
       "year": "2021",
@@ -3398,6 +3406,14 @@
       "Country": "Indonesia, Malaysia"
     },
     {
+      "title": "My Little Pony: A New Generation: Sing-Along",
+      "netflix_url": "https://www.netflix.com/title/81597959",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Habaddi",
       "netflix_url": "https://www.netflix.com/title/81602979",
       "year": "2019",
@@ -3413,6 +3429,23 @@
       "Actors": "Rupesh Bane, Karan Dave, Niranjan Javir",
       "Language": "Marathi",
       "Country": "India"
+    },
+    {
+      "title": "Summer Vacation",
+      "netflix_url": "https://www.netflix.com/title/81611183",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt5220122",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzU4MmE4MjEtOTU4NS00ZTZiLTg5NTYtNzE2ZWMyODcyYzFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Count Dracula and company participate in a cruise for sea-loving monsters, unaware that their boat is being commandeered by the monster-hating Van Helsing family.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Genndy Tartakovsky",
+      "Writer": "Genndy Tartakovsky, Michael McCullers",
+      "Actors": "Adam Sandler, Andy Samberg, Selena Gomez",
+      "Language": "English, Spanish, German, Russian",
+      "Country": "United States, South Korea"
     },
     {
       "title": "The Twits",

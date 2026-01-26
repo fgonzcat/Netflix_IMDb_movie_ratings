@@ -1047,6 +1047,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "CAROLE & TUESDAY",
+      "netflix_url": "https://www.netflix.com/title/80992137",
+      "year": "2019",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt8107988",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWNjMzVjODUtMjE1Ny00YTVmLTgyMDctOGQwM2I5YjRiYThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two girls, from different backgrounds but sharing a love for music, meet and change history with their united musical talent.",
+      "Type": "series",
+      "RunTime": "22 min",
+      "Genre": "Animation, Drama, Music",
+      "Director": "N/A",
+      "Writer": "Shin'ichirô Watanabe",
+      "Actors": "Miyuri Shimabukuro, Kana Ichinose, Akio Ôtsuka",
+      "Language": "Japanese, English",
+      "Country": "Japan"
+    },
+    {
       "title": "Song Exploder",
       "netflix_url": "https://www.netflix.com/title/80992997",
       "year": "2020",
@@ -2308,6 +2325,31 @@
       "Actors": "Fandy Fan, Gingle Wang, Bo-Chieh Wang",
       "Language": "Mandarin",
       "Country": "Taiwan"
+    },
+    {
+      "title": "Takizawa Kabuki ZERO 2020 The Movie",
+      "netflix_url": "https://www.netflix.com/title/81445807",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Adam by Eve: A live in Animation",
+      "netflix_url": "https://www.netflix.com/title/81450005",
+      "year": "2022",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt18274178",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTMyYmNmZjctMDkxYy00ZDU0LWFjMzktYWI4YjYxNDY1ODZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Anime, live action and music by cutting-edge artist Eve - all weave together into this dreamlike sonic experience inspired by the story of Adam and Eve.",
+      "Type": "movie",
+      "RunTime": "58 min",
+      "Genre": "Animation, Music",
+      "Director": "Nobutaka Yoda",
+      "Writer": "Nobutaka Yoda",
+      "Actors": "Hanon, Ano, Eve",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Neon",
@@ -3587,6 +3629,13 @@
       "SkipTitle": true
     },
     {
+      "title": "LIM YOUNG WOONG│IM HERO THE STADIUM",
+      "netflix_url": "https://www.netflix.com/title/81942257",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Kneecap",
       "netflix_url": "https://www.netflix.com/title/81956594",
       "year": "2024",
@@ -3846,6 +3895,14 @@
       "Actors": "N/A",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "timelesz project -REAL-",
+      "netflix_url": "https://www.netflix.com/title/82111864",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "ONE SHOT with Ed Sheeran",

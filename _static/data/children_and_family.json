@@ -596,6 +596,23 @@
       "Country": "United States, United Kingdom"
     },
     {
+      "title": "The Mars Generation",
+      "netflix_url": "https://www.netflix.com/title/80117263",
+      "year": "2017",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt6333096",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQxMzE4MTAxMV5BMl5BanBnXkFtZTgwNTYyMjUyMjI@._V1_SX300.jpg",
+      "Plot": "Aspiring teenage astronauts reveal that a journey to Mars is closer than you think.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary",
+      "Director": "Michael Barnett",
+      "Writer": "Michael Barnett, Michael Mahaffie",
+      "Actors": "Bob Behnken, Alayna Bidlack, Niko Blanks",
+      "Language": "N/A",
+      "Country": "United States"
+    },
+    {
       "title": "Sing",
       "netflix_url": "https://www.netflix.com/title/80117526",
       "year": "2016",
@@ -959,6 +976,23 @@
       "Actors": "David Attenborough, Max Hughes",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Dance Dreams: Hot Chocolate Nutcracker",
+      "netflix_url": "https://www.netflix.com/title/80217229",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt8741182",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdhNmMzZjctOWQzYi00ZTVkLTkyMGMtMWViOTJkMzQwOTAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Behind-the-scenes at the Debbie Allen Dance Academy and their award-winning version of The Nutcracker, which blends a variety of dance traditions.",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Documentary, Family",
+      "Director": "Oliver Bokelberg",
+      "Writer": "N/A",
+      "Actors": "Debbie Allen, Tichina Arnold, Ryan Phuong",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "13: The Musical",
@@ -2082,6 +2116,23 @@
       "Country": "United States, Philippines, Austria"
     },
     {
+      "title": "Spelling the Dream",
+      "netflix_url": "https://www.netflix.com/title/81069312",
+      "year": "2020",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt6193522",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2M0MmQ0Y2MtZDhkYy00MjhjLTkyZDMtNDczYTQzNmE0N2QxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chronicle of the ups and downs of four Indian-American students as they compete to realize their dream of winning the iconic tournament.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Documentary",
+      "Director": "Sam Rega",
+      "Writer": "Sam Rega, Chris Weller",
+      "Actors": "Srinivas Ayyagari, Jacques Bailly, Valerie Browning",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Princess Switch: Switched Again",
       "netflix_url": "https://www.netflix.com/title/81084350",
       "year": "2020",
@@ -2224,6 +2275,14 @@
       "Actors": "Bella Ramsey, Ameerah Falzon, Oliver Nelson",
       "Language": "English",
       "Country": "United Kingdom, United States, Canada"
+    },
+    {
+      "title": "Angela's Christmas 2",
+      "netflix_url": "https://www.netflix.com/title/81151926",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Wish Dragon",
@@ -3075,6 +3134,23 @@
       "Country": "South Korea, United States"
     },
     {
+      "title": "Kangaroo Valley",
+      "netflix_url": "https://www.netflix.com/title/81362829",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt15553758",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI4MjJmNzEtNjA0Zi00YjM4LTljYTMtNjViM2RjYmFiMWYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Coming-of-age story of a young kangaroo joey called Mala, learning what it takes to survive her incredible first year. Only one in five joeys make it to their first birthday. Mala's greatest enemy is the dingo pack that stalks her...",
+      "Type": "movie",
+      "RunTime": "76 min",
+      "Genre": "Documentary",
+      "Director": "Kylie Stott",
+      "Writer": "Phil Lott, Ari Mark, Tab Murphy",
+      "Actors": "Sarah Snook",
+      "Language": "English",
+      "Country": "United States, Australia"
+    },
+    {
       "title": "Firedrake the Silver Dragon",
       "netflix_url": "https://www.netflix.com/title/81370442",
       "year": "2021",
@@ -3626,6 +3702,23 @@
       "Country": "India"
     },
     {
+      "title": "Summer Vacation",
+      "netflix_url": "https://www.netflix.com/title/81611183",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt5220122",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzU4MmE4MjEtOTU4NS00ZTZiLTg5NTYtNzE2ZWMyODcyYzFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Count Dracula and company participate in a cruise for sea-loving monsters, unaware that their boat is being commandeered by the monster-hating Van Helsing family.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Genndy Tartakovsky",
+      "Writer": "Genndy Tartakovsky, Michael McCullers",
+      "Actors": "Adam Sandler, Andy Samberg, Selena Gomez",
+      "Language": "English, Spanish, German, Russian",
+      "Country": "United States, South Korea"
+    },
+    {
       "title": "The Twits",
       "netflix_url": "https://www.netflix.com/title/81612165",
       "year": "2025",
@@ -3830,6 +3923,40 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Horizon",
+      "netflix_url": "https://www.netflix.com/title/81714296",
+      "year": "2024",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt30783713",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2JiNjMwMzctM2QyYy00YmFjLTkyNzItMWNjZjJjYTdmZGJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "From the turtles of the Farasan Islands to the ibexes roaming the Asir mountains, this documentary showcases Saudi Arabia's rich wildlife and breathtaking landscapes",
+      "Type": "movie",
+      "RunTime": "50 min",
+      "Genre": "Documentary",
+      "Director": "Lilou Lemaire",
+      "Writer": "N/A",
+      "Actors": "David Gasman, Khaled Alenzi",
+      "Language": "English",
+      "Country": "Saudi Arabia"
+    },
+    {
+      "title": "Anpanman: Adventure of Happie",
+      "netflix_url": "https://www.netflix.com/title/81719798",
+      "year": "2005",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15684228",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ4NzQ0ZWEtMWZlZS00NjAzLTlkOWQtMDAwNGQxNGRjODU1XkEyXkFqcGdeQXVyNTM3NDk5MTg@._V1_SX300.jpg",
+      "Plot": "Anpanman gets a new apprentice named Happie who starts getting influenced from their enemy Baikinman, which Anpanman must stop to save their village.",
+      "Type": "movie",
+      "RunTime": "51 min",
+      "Genre": "Animation",
+      "Director": "Hiroyuki Yano",
+      "Writer": "N/A",
+      "Actors": "Ghia Burns, Andrio Chavarro, Jason Kesser",
+      "Language": "English, Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Anpanman: Star-Spirited Dollie",
       "netflix_url": "https://www.netflix.com/title/81719799",
       "year": "2006",
@@ -3887,6 +4014,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Anpanman: Apple Boy And Everyone's Hope",
+      "netflix_url": "https://www.netflix.com/title/81719818",
+      "year": "2014",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15041652",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NGFiNjctM2JlZC00Njc5LThkZTQtNDVjMDVmZjg4MjAxXkEyXkFqcGdeQXVyMTEwMDc4OTU@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "46 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mauriett Chayeb, Ghia Burns, Andrio Chavarro",
+      "Language": "English, Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Anpanman: Nanda and Runda from Star of Toys",
@@ -3962,6 +4106,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Backyard Wilderness",
+      "netflix_url": "https://www.netflix.com/title/81752453",
+      "year": "2018",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt4076648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwMTI4NjA4Ml5BMl5BanBnXkFtZTgwMDU4Njk2NDM@._V1_SX300.jpg",
+      "Plot": "This large format digital film follows the daily dramas of common animals - like the turtle, heron, frog, raccoon and dragonfly - juxtaposed with the activities of nearby humans more concerned with their computer screens, mobile d...",
+      "Type": "movie",
+      "RunTime": "42 min",
+      "Genre": "Documentary, Short, Drama",
+      "Director": "Susan Todd, Andrew Young",
+      "Writer": "Andrew Young, Susan Todd, Wendy MacKeigan",
+      "Actors": "Christian Ryan, Susan Todd, Andrew Young",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Miraculous World: New York, United Heroez",

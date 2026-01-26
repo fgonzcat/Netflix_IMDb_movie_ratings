@@ -2056,6 +2056,14 @@
       "SkipTitle": true
     },
     {
+      "title": "Leo (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81639323",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Revolver Rita",
       "netflix_url": "https://www.netflix.com/title/81643034",
       "year": "2025",
@@ -2090,8 +2098,33 @@
       "Country": "India"
     },
     {
+      "title": "Thunivu",
+      "netflix_url": "https://www.netflix.com/title/81644302",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15163652",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDAzY2RhNmItMDY0MS00OTE4LTg4MGUtOTU2ZGE4NjdjMThkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mysterious mastermind - Daredevil and his team forms a plan and commits bank heist to find the corporate looted people's money.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "H. Vinoth",
+      "Writer": "H. Vinoth",
+      "Actors": "Ajith Kumar, Manju Warrier, Samuthirakani",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "GodFather (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81648072",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "The Ghost (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81648103",
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null,

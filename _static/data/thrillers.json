@@ -1473,6 +1473,23 @@
       "Country": "Spain, Germany"
     },
     {
+      "title": "Offering to the Storm",
+      "netflix_url": "https://www.netflix.com/title/80990328",
+      "year": "2020",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt7304824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgyYWEzNWYtN2FlNy00NTc3LWI1ZDktNjQyNjk5MzM0Njc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds the darkest secrets of the Baztan valley.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Fernando González Molina",
+      "Writer": "Luiso Berdejo, Dolores Redondo",
+      "Actors": "Marta Etura, Leonardo Sbaraglia, Carlos Librado 'Nene'",
+      "Language": "Spanish, French, English",
+      "Country": "Spain, Germany"
+    },
+    {
       "title": "Mirage",
       "netflix_url": "https://www.netflix.com/title/80991158",
       "year": "2018",
@@ -2070,6 +2087,14 @@
     {
       "title": "Game Over (Tamil Version)",
       "netflix_url": "https://www.netflix.com/title/81151877",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Game Over (Telugu Version)",
+      "netflix_url": "https://www.netflix.com/title/81151878",
       "year": "2019",
       "imdb_rating": null,
       "imdb_id": null,
@@ -3181,6 +3206,23 @@
       "Plot": "Follows Sadik, an ex-lawyer who is working as a private investigator. He takes up a complicated case, and his simple life starts to unravel.",
       "Type": "movie",
       "RunTime": "123 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Uluç Bayraktar",
+      "Writer": "Mehmet Eroglu, Damla Serim",
+      "Actors": "Nejat Isler, Riza Kocaoglu, Kadir Çermik",
+      "Language": "Turkish",
+      "Country": "Turkey"
+    },
+    {
+      "title": "10 Days of a Curious Man",
+      "netflix_url": "https://www.netflix.com/title/81428004",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt28713370",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2FkZDhkM2QtOGI5OS00MzkzLTg0ODctM2IzMDZkN2I2ZjQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a young woman goes missing in Istanbul, a jaded writer gets tangled up in a deadly chain of events as he sets out to find her and a good story.",
+      "Type": "movie",
+      "RunTime": "110 min",
       "Genre": "Crime, Drama, Mystery",
       "Director": "Uluç Bayraktar",
       "Writer": "Mehmet Eroglu, Damla Serim",
@@ -4627,6 +4669,23 @@
       "Actors": "Lumko Leqela, Huey Louw, Letoya Makhene",
       "Language": "English",
       "Country": "South Africa"
+    },
+    {
+      "title": "Phir Aayi Hasseen Dillruba",
+      "netflix_url": "https://www.netflix.com/title/81683052",
+      "year": "2024",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt26225118",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM5Zjc2ZmMtOWIwMy00OWY4LTkzZmQtODA5NTVlNDFlNGZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While evading the cops in Agra, Rani and Rishu scheme to run away together. But when their plans go awry, Rani asks a mild-mannered admirer for help.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Jayprad Desai",
+      "Writer": "Kanika Dhillon, Anaya Mazumdar, Anuj Kumar Pandey",
+      "Actors": "Taapsee Pannu, Vikrant Massey, Sunny Kaushal",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "To Catch a Killer",

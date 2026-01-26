@@ -1210,6 +1210,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Manhunt",
+      "netflix_url": "https://www.netflix.com/title/80209866",
+      "year": "2017",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt5618256",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_SX300.jpg",
+      "Plot": "An in-depth look at how an FBI profiler helped track down the terrorist Ted Kaczynski, the Unabomber.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Andrew Sodroski, Jim Clemente, Tony Gittelson",
+      "Actors": "Gethin Anthony, Arliss Howard, Kelly Jenrette",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Mother",
       "netflix_url": "https://www.netflix.com/title/80210920",
       "year": "2023",
@@ -1548,6 +1565,23 @@
       "Actors": "Milo Rau",
       "Language": "English",
       "Country": "Belgium"
+    },
+    {
+      "title": "Game Changer",
+      "netflix_url": "https://www.netflix.com/title/81048780",
+      "year": "2021",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt13677352",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTEyNTYxY2ItM2JjZi00NzE1LWEwY2ItMTkyYzVlMTBjNzk4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When the city's mafia boss dies, his four aides decide to keep his death a secret and continue to run his rackets - but deception is a dangerous game.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Tiwa Moeithaisong",
+      "Writer": "Nattapot Potchumnean",
+      "Actors": "Greg Matt Garcia, Tom Issara, Isara Kitnitchee",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Overhaul",
@@ -1966,6 +2000,14 @@
       "Country": "India"
     },
     {
+      "title": "The K.E.OP/S System",
+      "netflix_url": "https://www.netflix.com/title/81418159",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Restless",
       "netflix_url": "https://www.netflix.com/title/81424708",
       "year": "2022",
@@ -2227,6 +2269,23 @@
       "Actors": "Alexander Skarsgård, Nicole Kidman, Claes Bang",
       "Language": "English, Norse, Old, Ukrainian",
       "Country": "United Kingdom, China, United States"
+    },
+    {
+      "title": "The Assistant",
+      "netflix_url": "https://www.netflix.com/title/81504695",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt16997558",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmYxNWFlMGYtMmEwNS00MjY0LWJiNTktNWU4YTE5MmI2N2MyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Zafik is unjustly imprisoned and not pleased about it. When he is released, he gets the help of the unhinged Feroz to get revenge.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Adrian Teh",
+      "Writer": "Chi-Ren Choong, Adrian Teh",
+      "Actors": "Iedil Dzuhrie Alaudin, Hairul Azreen, Henley Hii",
+      "Language": "Malay",
+      "Country": "Malaysia"
     },
     {
       "title": "Lost Bullet 2",
@@ -2568,6 +2627,22 @@
       "Country": "India"
     },
     {
+      "title": "Leo (Tamil)",
+      "netflix_url": "https://www.netflix.com/title/81639319",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Leo (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81639323",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "VidaaMuyarchi",
       "netflix_url": "https://www.netflix.com/title/81644287",
       "year": "2025",
@@ -2585,12 +2660,46 @@
       "Country": "India"
     },
     {
+      "title": "Stealing Raden Saleh",
+      "netflix_url": "https://www.netflix.com/title/81647967",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt13484872",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDY0ZTZkNTctYzc3My00YjU0LWExZGQtY2UyZmY1ZjI4M2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To save his father, a master forger sets out to steal an invaluable painting with the help of a motley crew of specialists.",
+      "Type": "movie",
+      "RunTime": "154 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Angga Dwimas Sasongko",
+      "Writer": "Angga Dwimas Sasongko, Husein M. Atmodjo",
+      "Actors": "Iqbaal Dhiafakhri Ramadhan, Angga Yunanda, Rachel Amanda",
+      "Language": "Indonesian",
+      "Country": "Indonesia, Malaysia"
+    },
+    {
       "title": "GodFather (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81648072",
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Hard Days",
+      "netflix_url": "https://www.netflix.com/title/81650217",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt26594589",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2VmY2EyYWItYWY0Ni00MDE4LWJjZDYtYmU3YmYxZmFhN2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Detective Yuji Kudo drives his car to see his mother, who is hospitalized with a serious health condition. Yuji then accidentally hits a man with his car and that man dies. At the hospital, Yuji tries to cover up the death of the ...",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Michihito Fujii",
+      "Writer": "Michihito Fujii, Kenya Hirata, Kim Seong-hun",
+      "Actors": "Gô Ayano, Tim Dang, Akira Emoto",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "The Wages of Fear",
@@ -2853,6 +2962,14 @@
       "Actors": "Wisarut Himmarat, Supassra Thanachat, Apo Nattawin Wattanagitiphat",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Leo (English)",
+      "netflix_url": "https://www.netflix.com/title/81742215",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Wrath of Becky",
