@@ -1,0 +1,3408 @@
+{
+  "genre": "TV_shows",
+  "genre_url": "https://www.netflix.com/browse/genre/83",
+  "movies": [
+    {
+      "title": "Sex and the City",
+      "netflix_url": "https://www.netflix.com/title/70136137",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Spartacus",
+      "netflix_url": "https://www.netflix.com/title/70136152",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "iCarly",
+      "netflix_url": "https://www.netflix.com/title/70136153",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Arrested Development",
+      "netflix_url": "https://www.netflix.com/title/70140358",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Grey's Anatomy",
+      "netflix_url": "https://www.netflix.com/title/70140391",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Nurse Jackie",
+      "netflix_url": "https://www.netflix.com/title/70142362",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "NCIS",
+      "netflix_url": "https://www.netflix.com/title/70142386",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Veronica Mars",
+      "netflix_url": "https://www.netflix.com/title/70142391",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Fairly OddParents",
+      "netflix_url": "https://www.netflix.com/title/70142394",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Avatar: The Last Airbender",
+      "netflix_url": "https://www.netflix.com/title/70142405",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Wildfire",
+      "netflix_url": "https://www.netflix.com/title/70142433",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Gossip Girl",
+      "netflix_url": "https://www.netflix.com/title/70143811",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Breaking Bad",
+      "netflix_url": "https://www.netflix.com/title/70143836",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Seinfeld",
+      "netflix_url": "https://www.netflix.com/title/70153373",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Trailer Park Boys",
+      "netflix_url": "https://www.netflix.com/title/70153385",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Venture Bros.",
+      "netflix_url": "https://www.netflix.com/title/70153386",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Johnny Test",
+      "netflix_url": "https://www.netflix.com/title/70155579",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Closer",
+      "netflix_url": "https://www.netflix.com/title/70155602",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Say Yes to the Dress",
+      "netflix_url": "https://www.netflix.com/title/70155605",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Touched by an Angel",
+      "netflix_url": "https://www.netflix.com/title/70155613",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Gilmore Girls",
+      "netflix_url": "https://www.netflix.com/title/70155618",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Home Improvement",
+      "netflix_url": "https://www.netflix.com/title/70155627",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The West Wing",
+      "netflix_url": "https://www.netflix.com/title/70157152",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Game",
+      "netflix_url": "https://www.netflix.com/title/70157205",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Martin",
+      "netflix_url": "https://www.netflix.com/title/70157348",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Girlfriends",
+      "netflix_url": "https://www.netflix.com/title/70157416",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dawson's Creek",
+      "netflix_url": "https://www.netflix.com/title/70157460",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Blue Mountain State",
+      "netflix_url": "https://www.netflix.com/title/70157491",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "A Different World",
+      "netflix_url": "https://www.netflix.com/title/70157520",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Drake & Josh",
+      "netflix_url": "https://www.netflix.com/title/70171939",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Heartland",
+      "netflix_url": "https://www.netflix.com/title/70171946",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Scooby-Doo!: Mystery Incorporated",
+      "netflix_url": "https://www.netflix.com/title/70171947",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Victorious",
+      "netflix_url": "https://www.netflix.com/title/70172485",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Zoey 101",
+      "netflix_url": "https://www.netflix.com/title/70177036",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Walking Dead",
+      "netflix_url": "https://www.netflix.com/title/70177057",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "H2O: Just Add Water",
+      "netflix_url": "https://www.netflix.com/title/70180051",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Big C",
+      "netflix_url": "https://www.netflix.com/title/70180085",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Garfield Show",
+      "netflix_url": "https://www.netflix.com/title/70180088",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Homeland",
+      "netflix_url": "https://www.netflix.com/title/70180387",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Shameless (U.S.)",
+      "netflix_url": "https://www.netflix.com/title/70184207",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Portlandia",
+      "netflix_url": "https://www.netflix.com/title/70185015",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Suits",
+      "netflix_url": "https://www.netflix.com/title/70195800",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Scandal",
+      "netflix_url": "https://www.netflix.com/title/70197057",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "DEATH NOTE",
+      "netflix_url": "https://www.netflix.com/title/70204970",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "netflix_url": "https://www.netflix.com/title/70204981",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "InuYasha",
+      "netflix_url": "https://www.netflix.com/title/70204995",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto",
+      "netflix_url": "https://www.netflix.com/title/70205012",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "La Reina del Sur",
+      "netflix_url": "https://www.netflix.com/title/70205672",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Bernie Mac Show",
+      "netflix_url": "https://www.netflix.com/title/70212179",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Boys Over Flowers",
+      "netflix_url": "https://www.netflix.com/title/70213130",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Teen Wolf",
+      "netflix_url": "https://www.netflix.com/title/70219484",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Nashville",
+      "netflix_url": "https://www.netflix.com/title/70242086",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Orange Is the New Black",
+      "netflix_url": "https://www.netflix.com/title/70242311",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Following",
+      "netflix_url": "https://www.netflix.com/title/70242520",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Call the Midwife",
+      "netflix_url": "https://www.netflix.com/title/70245163",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Total Drama",
+      "netflix_url": "https://www.netflix.com/title/70252898",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "LEGO Ninjago: Masters of Spinjitzu",
+      "netflix_url": "https://www.netflix.com/title/70252973",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Goosebumps",
+      "netflix_url": "https://www.netflix.com/title/70264616",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rooftop Prince",
+      "netflix_url": "https://www.netflix.com/title/70278876",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Antiques Roadshow",
+      "netflix_url": "https://www.netflix.com/title/70279649",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mom",
+      "netflix_url": "https://www.netflix.com/title/70280923",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Blacklist",
+      "netflix_url": "https://www.netflix.com/title/70281312",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mako Mermaids: An H2O Adventure",
+      "netflix_url": "https://www.netflix.com/title/70281343",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Brooklyn Nine-Nine",
+      "netflix_url": "https://www.netflix.com/title/70281562",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Outlander",
+      "netflix_url": "https://www.netflix.com/title/70285581",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Masha and the Bear",
+      "netflix_url": "https://www.netflix.com/title/70286901",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Barbie Life in the Dreamhouse",
+      "netflix_url": "https://www.netflix.com/title/70294800",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Hunter X Hunter (2011)",
+      "netflix_url": "https://www.netflix.com/title/70300472",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "BoJack Horseman",
+      "netflix_url": "https://www.netflix.com/title/70300800",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Vikings",
+      "netflix_url": "https://www.netflix.com/title/70301870",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Making a Murderer",
+      "netflix_url": "https://www.netflix.com/title/80000770",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Peaky Blinders",
+      "netflix_url": "https://www.netflix.com/title/80002479",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Grace and Frankie",
+      "netflix_url": "https://www.netflix.com/title/80017537",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Better Call Saul",
+      "netflix_url": "https://www.netflix.com/title/80021955",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Narcos",
+      "netflix_url": "https://www.netflix.com/title/80025172",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Peppa Pig",
+      "netflix_url": "https://www.netflix.com/title/80025494",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Crown",
+      "netflix_url": "https://www.netflix.com/title/80025678",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "PAW Patrol",
+      "netflix_url": "https://www.netflix.com/title/80026226",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Flash",
+      "netflix_url": "https://www.netflix.com/title/80027042",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sam & Cat",
+      "netflix_url": "https://www.netflix.com/title/80027564",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "F is for Family",
+      "netflix_url": "https://www.netflix.com/title/80028732",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Younger",
+      "netflix_url": "https://www.netflix.com/title/80031533",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Pablo Escobar, el patrón del mal",
+      "netflix_url": "https://www.netflix.com/title/80035684",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Mafia Dolls",
+      "netflix_url": "https://www.netflix.com/title/80036140",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dragons: Race to the Edge",
+      "netflix_url": "https://www.netflix.com/title/80039394",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Master's Sun",
+      "netflix_url": "https://www.netflix.com/title/80039906",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bella and the Bulldogs",
+      "netflix_url": "https://www.netflix.com/title/80045925",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Our Planet",
+      "netflix_url": "https://www.netflix.com/title/80049832",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "netflix_url": "https://www.netflix.com/title/80050008",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Seven Deadly Sins",
+      "netflix_url": "https://www.netflix.com/title/80050063",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Fuller House",
+      "netflix_url": "https://www.netflix.com/title/80051137",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Henry Danger",
+      "netflix_url": "https://www.netflix.com/title/80057134",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Stranger Things",
+      "netflix_url": "https://www.netflix.com/title/80057281",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Lucifer",
+      "netflix_url": "https://www.netflix.com/title/80057918",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Blindspot",
+      "netflix_url": "https://www.netflix.com/title/80058486",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "C.I.D",
+      "netflix_url": "https://www.netflix.com/title/80059132",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Kuroko's Basketball",
+      "netflix_url": "https://www.netflix.com/title/80063153",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Great British Baking Show",
+      "netflix_url": "https://www.netflix.com/title/80063224",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "DC's Legends of Tomorrow",
+      "netflix_url": "https://www.netflix.com/title/80066080",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ingobernable",
+      "netflix_url": "https://www.netflix.com/title/80066429",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Poldark",
+      "netflix_url": "https://www.netflix.com/title/80070050",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bunk'd",
+      "netflix_url": "https://www.netflix.com/title/80072207",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Last Kingdom",
+      "netflix_url": "https://www.netflix.com/title/80074249",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Trollhunters: Tales of Arcadia",
+      "netflix_url": "https://www.netflix.com/title/80075820",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Nicky, Ricky, Dicky & Dawn",
+      "netflix_url": "https://www.netflix.com/title/80077508",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Ranch",
+      "netflix_url": "https://www.netflix.com/title/80077977",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Pokémon The Series: XY",
+      "netflix_url": "https://www.netflix.com/title/80088367",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Haikyu!!",
+      "netflix_url": "https://www.netflix.com/title/80090673",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Castlevania",
+      "netflix_url": "https://www.netflix.com/title/80095241",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Disenchantment",
+      "netflix_url": "https://www.netflix.com/title/80095697",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Santa Clarita Diet",
+      "netflix_url": "https://www.netflix.com/title/80095815",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "ALVINNN!!! And the Chipmunks",
+      "netflix_url": "https://www.netflix.com/title/80097036",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Godless",
+      "netflix_url": "https://www.netflix.com/title/80097141",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Beat Bobby Flay",
+      "netflix_url": "https://www.netflix.com/title/80099092",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Teen Titans Go!",
+      "netflix_url": "https://www.netflix.com/title/80103408",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Lost in Space",
+      "netflix_url": "https://www.netflix.com/title/80104198",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Animal Kingdom",
+      "netflix_url": "https://www.netflix.com/title/80104434",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "One Piece",
+      "netflix_url": "https://www.netflix.com/title/80107103",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Queen of the South",
+      "netflix_url": "https://www.netflix.com/title/80107369",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Designated Survivor",
+      "netflix_url": "https://www.netflix.com/title/80113647",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Spirit Riding Free",
+      "netflix_url": "https://www.netflix.com/title/80115432",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Big Mouth",
+      "netflix_url": "https://www.netflix.com/title/80117038",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Atypical",
+      "netflix_url": "https://www.netflix.com/title/80117540",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ozark",
+      "netflix_url": "https://www.netflix.com/title/80117552",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Disjointed",
+      "netflix_url": "https://www.netflix.com/title/80117694",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Disastrous Life of Saiki K.",
+      "netflix_url": "https://www.netflix.com/title/80117781",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Raising Dion",
+      "netflix_url": "https://www.netflix.com/title/80117803",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "On My Block",
+      "netflix_url": "https://www.netflix.com/title/80117809",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Free Rein",
+      "netflix_url": "https://www.netflix.com/title/80134695",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "My Hero Academia",
+      "netflix_url": "https://www.netflix.com/title/80135674",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anne with an E",
+      "netflix_url": "https://www.netflix.com/title/80136311",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sailor Moon Crystal",
+      "netflix_url": "https://www.netflix.com/title/80145747",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "World Trigger",
+      "netflix_url": "https://www.netflix.com/title/80149562",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Unbelievable",
+      "netflix_url": "https://www.netflix.com/title/80153467",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Queer Eye",
+      "netflix_url": "https://www.netflix.com/title/80160037",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The House of Flowers",
+      "netflix_url": "https://www.netflix.com/title/80160935",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Miraculous: Tales of Ladybug & Cat Noir",
+      "netflix_url": "https://www.netflix.com/title/80164216",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love Alarm",
+      "netflix_url": "https://www.netflix.com/title/80168068",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rosario Tijeras (Mexico)",
+      "netflix_url": "https://www.netflix.com/title/80170690",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Kakegurui",
+      "netflix_url": "https://www.netflix.com/title/80175351",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Good Girls",
+      "netflix_url": "https://www.netflix.com/title/80177342",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "My Only Love Song",
+      "netflix_url": "https://www.netflix.com/title/80178564",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Black Lightning",
+      "netflix_url": "https://www.netflix.com/title/80178687",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Boss Baby: Back in Business",
+      "netflix_url": "https://www.netflix.com/title/80178943",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Never Have I Ever",
+      "netflix_url": "https://www.netflix.com/title/80179190",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "S.W.A.T.",
+      "netflix_url": "https://www.netflix.com/title/80179292",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Kingdom",
+      "netflix_url": "https://www.netflix.com/title/80180171",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Girls Incarcerated",
+      "netflix_url": "https://www.netflix.com/title/80185178",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cinderella and the Four Knights",
+      "netflix_url": "https://www.netflix.com/title/80188605",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "netflix_url": "https://www.netflix.com/title/80189221",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Witcher",
+      "netflix_url": "https://www.netflix.com/title/80189685",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Paradise PD",
+      "netflix_url": "https://www.netflix.com/title/80191522",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Money Heist",
+      "netflix_url": "https://www.netflix.com/title/80192098",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Young Sheldon",
+      "netflix_url": "https://www.netflix.com/title/80192612",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "A Discovery of Witches",
+      "netflix_url": "https://www.netflix.com/title/80197103",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sex Education",
+      "netflix_url": "https://www.netflix.com/title/80197526",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Workin' Moms",
+      "netflix_url": "https://www.netflix.com/title/80198991",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Kim's Convenience",
+      "netflix_url": "https://www.netflix.com/title/80199128",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sugar Rush",
+      "netflix_url": "https://www.netflix.com/title/80201328",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Victoria",
+      "netflix_url": "https://www.netflix.com/title/80201726",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "I AM A KILLER",
+      "netflix_url": "https://www.netflix.com/title/80202283",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Self Made: Inspired by the Life of Madam C.J. Walker",
+      "netflix_url": "https://www.netflix.com/title/80202462",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Last Dance",
+      "netflix_url": "https://www.netflix.com/title/80203144",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "BAKI",
+      "netflix_url": "https://www.netflix.com/title/80204451",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mr. Iglesias",
+      "netflix_url": "https://www.netflix.com/title/80209013",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Last Czars",
+      "netflix_url": "https://www.netflix.com/title/80211648",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "You",
+      "netflix_url": "https://www.netflix.com/title/80211991",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Life on Our Planet",
+      "netflix_url": "https://www.netflix.com/title/80213846",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Blown Away",
+      "netflix_url": "https://www.netflix.com/title/80215147",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Jailbirds",
+      "netflix_url": "https://www.netflix.com/title/80216756",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Top Boy",
+      "netflix_url": "https://www.netflix.com/title/80217669",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Missing: Dead or Alive?",
+      "netflix_url": "https://www.netflix.com/title/80217818",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "ONE PIECE",
+      "netflix_url": "https://www.netflix.com/title/80217863",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dead to Me",
+      "netflix_url": "https://www.netflix.com/title/80219707",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Undercover Law",
+      "netflix_url": "https://www.netflix.com/title/80220145",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bolívar",
+      "netflix_url": "https://www.netflix.com/title/80220422",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Go! Live Your Way",
+      "netflix_url": "https://www.netflix.com/title/80220541",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Secrets of Summer",
+      "netflix_url": "https://www.netflix.com/title/80220644",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Fate: The Winx Saga",
+      "netflix_url": "https://www.netflix.com/title/80220679",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Selling Sunset",
+      "netflix_url": "https://www.netflix.com/title/80223108",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Prince of Peoria",
+      "netflix_url": "https://www.netflix.com/title/80223556",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Jeffrey Epstein: Filthy Rich",
+      "netflix_url": "https://www.netflix.com/title/80224905",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bridgerton",
+      "netflix_url": "https://www.netflix.com/title/80232398",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ragnarok",
+      "netflix_url": "https://www.netflix.com/title/80232926",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Queen's Gambit",
+      "netflix_url": "https://www.netflix.com/title/80234304",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Family Reunion",
+      "netflix_url": "https://www.netflix.com/title/80234451",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Outer Banks",
+      "netflix_url": "https://www.netflix.com/title/80236318",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Black Clover",
+      "netflix_url": "https://www.netflix.com/title/80238012",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Derry Girls",
+      "netflix_url": "https://www.netflix.com/title/80238565",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sweet Magnolias",
+      "netflix_url": "https://www.netflix.com/title/80239866",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Virgin River",
+      "netflix_url": "https://www.netflix.com/title/80240027",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Solar Opposites",
+      "netflix_url": "https://www.netflix.com/title/80240068",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Too Hot to Handle",
+      "netflix_url": "https://www.netflix.com/title/80241027",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Manifest",
+      "netflix_url": "https://www.netflix.com/title/80241318",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Cuphead Show!",
+      "netflix_url": "https://www.netflix.com/title/80242531",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Greatest Events of WWII in Colour",
+      "netflix_url": "https://www.netflix.com/title/80989924",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rise of Empires: Ottoman",
+      "netflix_url": "https://www.netflix.com/title/80990771",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "KENGAN ASHURA",
+      "netflix_url": "https://www.netflix.com/title/80992228",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Lupin",
+      "netflix_url": "https://www.netflix.com/title/80994082",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Hajime no Ippo: The Fighting!",
+      "netflix_url": "https://www.netflix.com/title/80995578",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Inside Job",
+      "netflix_url": "https://www.netflix.com/title/80995819",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love Is Blind",
+      "netflix_url": "https://www.netflix.com/title/80996601",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cocaine Cowboys: The Kings of Miami",
+      "netflix_url": "https://www.netflix.com/title/80996810",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Narcos: Mexico",
+      "netflix_url": "https://www.netflix.com/title/80997085",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "After Life",
+      "netflix_url": "https://www.netflix.com/title/80998491",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Doctors",
+      "netflix_url": "https://www.netflix.com/title/80998959",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Birth of a Beauty",
+      "netflix_url": "https://www.netflix.com/title/80999059",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Blood of Zeus",
+      "netflix_url": "https://www.netflix.com/title/81001988",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cobra Kai",
+      "netflix_url": "https://www.netflix.com/title/81002370",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Daughter From Another Mother",
+      "netflix_url": "https://www.netflix.com/title/81002483",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Residence",
+      "netflix_url": "https://www.netflix.com/title/81005297",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Baby-Sitters Club",
+      "netflix_url": "https://www.netflix.com/title/81005407",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Jurassic World Camp Cretaceous",
+      "netflix_url": "https://www.netflix.com/title/81009646",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "My Name",
+      "netflix_url": "https://www.netflix.com/title/81011211",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "All American",
+      "netflix_url": "https://www.netflix.com/title/81012998",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Kath and Kim",
+      "netflix_url": "https://www.netflix.com/title/81014647",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Queen of Flow",
+      "netflix_url": "https://www.netflix.com/title/81022683",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Selena: The Series",
+      "netflix_url": "https://www.netflix.com/title/81022733",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ginny & Georgia",
+      "netflix_url": "https://www.netflix.com/title/81025696",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Unsolved Mysteries",
+      "netflix_url": "https://www.netflix.com/title/81026055",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Next in Fashion",
+      "netflix_url": "https://www.netflix.com/title/81026300",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Upshaws",
+      "netflix_url": "https://www.netflix.com/title/81028174",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cashero",
+      "netflix_url": "https://www.netflix.com/title/81028446",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cooked with Cannabis",
+      "netflix_url": "https://www.netflix.com/title/81032347",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "AlRawabi School for Girls",
+      "netflix_url": "https://www.netflix.com/title/81034661",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Emily in Paris",
+      "netflix_url": "https://www.netflix.com/title/81037371",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cheer",
+      "netflix_url": "https://www.netflix.com/title/81039393",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Squid Game",
+      "netflix_url": "https://www.netflix.com/title/81040344",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Circle",
+      "netflix_url": "https://www.netflix.com/title/81044551",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Oddballs",
+      "netflix_url": "https://www.netflix.com/title/81045859",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dr.STONE",
+      "netflix_url": "https://www.netflix.com/title/81046193",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mr. McMahon",
+      "netflix_url": "https://www.netflix.com/title/81048394",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "BEASTARS",
+      "netflix_url": "https://www.netflix.com/title/81054847",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Road to Love",
+      "netflix_url": "https://www.netflix.com/title/81055408",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Queen and the Conqueror",
+      "netflix_url": "https://www.netflix.com/title/81055416",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Barbecue Showdown",
+      "netflix_url": "https://www.netflix.com/title/81057855",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Rising of the Shield Hero",
+      "netflix_url": "https://www.netflix.com/title/81058649",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Heartstopper",
+      "netflix_url": "https://www.netflix.com/title/81059939",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sweet Home",
+      "netflix_url": "https://www.netflix.com/title/81061734",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Roswell, New Mexico",
+      "netflix_url": "https://www.netflix.com/title/81062075",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Chicago Party Aunt",
+      "netflix_url": "https://www.netflix.com/title/81067223",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Senna",
+      "netflix_url": "https://www.netflix.com/title/81068725",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Glow Up",
+      "netflix_url": "https://www.netflix.com/title/81075536",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Our Great National Parks",
+      "netflix_url": "https://www.netflix.com/title/81086133",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "netflix_url": "https://www.netflix.com/title/81091393",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sugar Rush Christmas",
+      "netflix_url": "https://www.netflix.com/title/81094391",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "El Dragón: Return of a Warrior",
+      "netflix_url": "https://www.netflix.com/title/81098497",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "From Scratch",
+      "netflix_url": "https://www.netflix.com/title/81104486",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Tiger King",
+      "netflix_url": "https://www.netflix.com/title/81115994",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rookie Historian Goo Hae-Ryung",
+      "netflix_url": "https://www.netflix.com/title/81116487",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Snitch Cartel: Origins",
+      "netflix_url": "https://www.netflix.com/title/81120861",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Wolf King",
+      "netflix_url": "https://www.netflix.com/title/81133419",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Griselda",
+      "netflix_url": "https://www.netflix.com/title/81133447",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mo",
+      "netflix_url": "https://www.netflix.com/title/81134264",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "7 Bears",
+      "netflix_url": "https://www.netflix.com/title/81135728",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Our Oceans",
+      "netflix_url": "https://www.netflix.com/title/81139969",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "All For Love",
+      "netflix_url": "https://www.netflix.com/title/81144163",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Blood Ties",
+      "netflix_url": "https://www.netflix.com/title/81144216",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Vikings: Valhalla",
+      "netflix_url": "https://www.netflix.com/title/81149450",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Leviathan",
+      "netflix_url": "https://www.netflix.com/title/81152269",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Baking Impossible",
+      "netflix_url": "https://www.netflix.com/title/81152744",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "El Rey, Vicente Fernández",
+      "netflix_url": "https://www.netflix.com/title/81152939",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Crash Landing on You",
+      "netflix_url": "https://www.netflix.com/title/81159258",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Who Killed Sara?",
+      "netflix_url": "https://www.netflix.com/title/81166747",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Maid",
+      "netflix_url": "https://www.netflix.com/title/81166770",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Five Juanas",
+      "netflix_url": "https://www.netflix.com/title/81167761",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Wild Babies",
+      "netflix_url": "https://www.netflix.com/title/81170676",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ranma1/2",
+      "netflix_url": "https://www.netflix.com/title/81171925",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Halo",
+      "netflix_url": "https://www.netflix.com/title/81181219",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Thundermans",
+      "netflix_url": "https://www.netflix.com/title/81186615",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Loud House",
+      "netflix_url": "https://www.netflix.com/title/81186971",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Yanxi Palace: Princess Adventures",
+      "netflix_url": "https://www.netflix.com/title/81203251",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "School of Chocolate",
+      "netflix_url": "https://www.netflix.com/title/81207686",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Young Royals",
+      "netflix_url": "https://www.netflix.com/title/81210762",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ancient Apocalypse",
+      "netflix_url": "https://www.netflix.com/title/81211003",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Flower Crew: Joseon Marriage Agency",
+      "netflix_url": "https://www.netflix.com/title/81211303",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bake Squad",
+      "netflix_url": "https://www.netflix.com/title/81218438",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sweet Tooth",
+      "netflix_url": "https://www.netflix.com/title/81221380",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Empress",
+      "netflix_url": "https://www.netflix.com/title/81222923",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Iron Chef: Quest for an Iron Legend",
+      "netflix_url": "https://www.netflix.com/title/81224668",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Last Empress",
+      "netflix_url": "https://www.netflix.com/title/81225069",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Married at First Sight",
+      "netflix_url": "https://www.netflix.com/title/81228456",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Komi Can't Communicate",
+      "netflix_url": "https://www.netflix.com/title/81228573",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Queen Cleopatra",
+      "netflix_url": "https://www.netflix.com/title/81230204",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Wednesday",
+      "netflix_url": "https://www.netflix.com/title/81231974",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Baki Hanma",
+      "netflix_url": "https://www.netflix.com/title/81236338",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Haunting of Bly Manor",
+      "netflix_url": "https://www.netflix.com/title/81237854",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "All of Us Are Dead",
+      "netflix_url": "https://www.netflix.com/title/81237994",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "VINLAND SAGA",
+      "netflix_url": "https://www.netflix.com/title/81249833",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "One Day",
+      "netflix_url": "https://www.netflix.com/title/81256740",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Half Bad: The Bastard Son & The Devil Himself",
+      "netflix_url": "https://www.netflix.com/title/81258637",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Missing You",
+      "netflix_url": "https://www.netflix.com/title/81258639",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The King: Eternal Monarch",
+      "netflix_url": "https://www.netflix.com/title/81260283",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Marked Heart",
+      "netflix_url": "https://www.netflix.com/title/81261170",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Catching Killers",
+      "netflix_url": "https://www.netflix.com/title/81264650",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "100 Days My Prince",
+      "netflix_url": "https://www.netflix.com/title/81267722",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Parkers",
+      "netflix_url": "https://www.netflix.com/title/81269607",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Keep Breathing",
+      "netflix_url": "https://www.netflix.com/title/81276119",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "netflix_url": "https://www.netflix.com/title/81278456",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Witcher: Blood Origin",
+      "netflix_url": "https://www.netflix.com/title/81279312",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Record of Ragnarok",
+      "netflix_url": "https://www.netflix.com/title/81281579",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Mole",
+      "netflix_url": "https://www.netflix.com/title/81286686",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Diplomat",
+      "netflix_url": "https://www.netflix.com/title/81288983",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Stay Close",
+      "netflix_url": "https://www.netflix.com/title/81289581",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Her Mother's Killer",
+      "netflix_url": "https://www.netflix.com/title/81291299",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Ultimatum: Marry or Move On",
+      "netflix_url": "https://www.netflix.com/title/81292203",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sins of Our Mother",
+      "netflix_url": "https://www.netflix.com/title/81300060",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Lincoln Lawyer",
+      "netflix_url": "https://www.netflix.com/title/81303831",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "World War II: From the Frontlines",
+      "netflix_url": "https://www.netflix.com/title/81303911",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Fake Profile",
+      "netflix_url": "https://www.netflix.com/title/81304948",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Snack VS. Chef",
+      "netflix_url": "https://www.netflix.com/title/81307101",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Predators",
+      "netflix_url": "https://www.netflix.com/title/81319177",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Uncanny Counter",
+      "netflix_url": "https://www.netflix.com/title/81323551",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "XO, Kitty",
+      "netflix_url": "https://www.netflix.com/title/81324724",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bullsh*t The Gameshow",
+      "netflix_url": "https://www.netflix.com/title/81326202",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Smurfs",
+      "netflix_url": "https://www.netflix.com/title/81330960",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Is It Cake?",
+      "netflix_url": "https://www.netflix.com/title/81333845",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love on the Spectrum",
+      "netflix_url": "https://www.netflix.com/title/81338328",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Testament: The Story of Moses",
+      "netflix_url": "https://www.netflix.com/title/81341795",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Cook of Castamar",
+      "netflix_url": "https://www.netflix.com/title/81354529",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Power Rangers Dino Fury",
+      "netflix_url": "https://www.netflix.com/title/81354663",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love (ft. Marriage and Divorce)",
+      "netflix_url": "https://www.netflix.com/title/81362748",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Vincenzo",
+      "netflix_url": "https://www.netflix.com/title/81365087",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Watcher",
+      "netflix_url": "https://www.netflix.com/title/81380441",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Recruit",
+      "netflix_url": "https://www.netflix.com/title/81396545",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "FUBAR",
+      "netflix_url": "https://www.netflix.com/title/81397077",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "High Heat",
+      "netflix_url": "https://www.netflix.com/title/81397422",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Pedro el escamoso",
+      "netflix_url": "https://www.netflix.com/title/81398329",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Newly Rich, Newly Poor",
+      "netflix_url": "https://www.netflix.com/title/81398330",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Resident Alien",
+      "netflix_url": "https://www.netflix.com/title/81405070",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "A Perfect Day For Arsenide",
+      "netflix_url": "https://www.netflix.com/title/81405587",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Easy-Bake Battle: The Home Cooking Competition",
+      "netflix_url": "https://www.netflix.com/title/81406124",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Surrogacy",
+      "netflix_url": "https://www.netflix.com/title/81406598",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "True Beauty",
+      "netflix_url": "https://www.netflix.com/title/81410834",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Obliterated",
+      "netflix_url": "https://www.netflix.com/title/81413928",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "FOREVER",
+      "netflix_url": "https://www.netflix.com/title/81418639",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mr. Queen",
+      "netflix_url": "https://www.netflix.com/title/81422314",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Unbroken Voice",
+      "netflix_url": "https://www.netflix.com/title/81424958",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "My Life With the Walter Boys",
+      "netflix_url": "https://www.netflix.com/title/81426967",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Beast in Me",
+      "netflix_url": "https://www.netflix.com/title/81427733",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The King's Affection",
+      "netflix_url": "https://www.netflix.com/title/81430282",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Nevertheless,",
+      "netflix_url": "https://www.netflix.com/title/81435649",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Single’s Inferno",
+      "netflix_url": "https://www.netflix.com/title/81436209",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Drink Masters",
+      "netflix_url": "https://www.netflix.com/title/81437299",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Harry & Meghan",
+      "netflix_url": "https://www.netflix.com/title/81439256",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Okupas",
+      "netflix_url": "https://www.netflix.com/title/81443363",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bloodhounds",
+      "netflix_url": "https://www.netflix.com/title/81444051",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "BEEF",
+      "netflix_url": "https://www.netflix.com/title/81447461",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Nothing to See Here",
+      "netflix_url": "https://www.netflix.com/title/81449035",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Night Agent",
+      "netflix_url": "https://www.netflix.com/title/81450827",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Madness",
+      "netflix_url": "https://www.netflix.com/title/81457258",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "American Primeval",
+      "netflix_url": "https://www.netflix.com/title/81457507",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ransom Canyon",
+      "netflix_url": "https://www.netflix.com/title/81459107",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "KLASS 95: The Power of Beauty",
+      "netflix_url": "https://www.netflix.com/title/81460774",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Hughleys",
+      "netflix_url": "https://www.netflix.com/title/81472618",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Hometown Cha-Cha-Cha",
+      "netflix_url": "https://www.netflix.com/title/81473182",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Perfect Couple",
+      "netflix_url": "https://www.netflix.com/title/81474158",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Queen Charlotte: A Bridgerton Story",
+      "netflix_url": "https://www.netflix.com/title/81476183",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Unlocked: A Jail Experiment",
+      "netflix_url": "https://www.netflix.com/title/81476420",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Outlast",
+      "netflix_url": "https://www.netflix.com/title/81480322",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Quarterback",
+      "netflix_url": "https://www.netflix.com/title/81482895",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Running Point",
+      "netflix_url": "https://www.netflix.com/title/81483318",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Our Beloved Summer",
+      "netflix_url": "https://www.netflix.com/title/81486372",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Doom at Your Service",
+      "netflix_url": "https://www.netflix.com/title/81488912",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Perfect Match",
+      "netflix_url": "https://www.netflix.com/title/81497817",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love Through a Prism",
+      "netflix_url": "https://www.netflix.com/title/81498882",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Five Star Chef",
+      "netflix_url": "https://www.netflix.com/title/81507383",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Business Proposal",
+      "netflix_url": "https://www.netflix.com/title/81509440",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Miss Adrenaline: A Tale of Twins",
+      "netflix_url": "https://www.netflix.com/title/81511881",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Influencer",
+      "netflix_url": "https://www.netflix.com/title/81511883",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love of my life",
+      "netflix_url": "https://www.netflix.com/title/81511891",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dear Child",
+      "netflix_url": "https://www.netflix.com/title/81513233",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Alchemy of Souls",
+      "netflix_url": "https://www.netflix.com/title/81517188",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Extraordinary Attorney Woo",
+      "netflix_url": "https://www.netflix.com/title/81518991",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Glory",
+      "netflix_url": "https://www.netflix.com/title/81519223",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Murdaugh Murders: A Southern Scandal",
+      "netflix_url": "https://www.netflix.com/title/81519789",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Jurassic World: Chaos Theory",
+      "netflix_url": "https://www.netflix.com/title/81557031",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Alpha Males",
+      "netflix_url": "https://www.netflix.com/title/81559021",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Hitler and the Nazis: Evil on Trial",
+      "netflix_url": "https://www.netflix.com/title/81561941",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+      "netflix_url": "https://www.netflix.com/title/81562396",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Rising Impact",
+      "netflix_url": "https://www.netflix.com/title/81563026",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Delicious in Dungeon",
+      "netflix_url": "https://www.netflix.com/title/81564899",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Luz: The Light of the Heart",
+      "netflix_url": "https://www.netflix.com/title/81566662",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Forecasting Love and Weather",
+      "netflix_url": "https://www.netflix.com/title/81572781",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Desperate Lies",
+      "netflix_url": "https://www.netflix.com/title/81578306",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Big Nailed It Baking Challenge",
+      "netflix_url": "https://www.netflix.com/title/81586274",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Pop Star Academy: KATSEYE",
+      "netflix_url": "https://www.netflix.com/title/81587828",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sirens",
+      "netflix_url": "https://www.netflix.com/title/81589551",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Nobody Wants This",
+      "netflix_url": "https://www.netflix.com/title/81591296",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Royals",
+      "netflix_url": "https://www.netflix.com/title/81593166",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Zero Day",
+      "netflix_url": "https://www.netflix.com/title/81598435",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Ultimatum: Queer Love",
+      "netflix_url": "https://www.netflix.com/title/81598495",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Under the Queen's Umbrella",
+      "netflix_url": "https://www.netflix.com/title/81610893",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Manny",
+      "netflix_url": "https://www.netflix.com/title/81611640",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Turning Point: The Bomb and the Cold War",
+      "netflix_url": "https://www.netflix.com/title/81614129",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Squid Game: The Challenge",
+      "netflix_url": "https://www.netflix.com/title/81615540",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "American Nightmare",
+      "netflix_url": "https://www.netflix.com/title/81620852",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cassandra",
+      "netflix_url": "https://www.netflix.com/title/81621534",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love Is Blind, Habibi",
+      "netflix_url": "https://www.netflix.com/title/81622654",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Black Rabbit",
+      "netflix_url": "https://www.netflix.com/title/81630027",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "La Palma",
+      "netflix_url": "https://www.netflix.com/title/81640070",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Don’t Come Home",
+      "netflix_url": "https://www.netflix.com/title/81641421",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "No Doubt in Us",
+      "netflix_url": "https://www.netflix.com/title/81648185",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "African Queens: Njinga",
+      "netflix_url": "https://www.netflix.com/title/81650731",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Tom and Jerry Tales",
+      "netflix_url": "https://www.netflix.com/title/81652570",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "HIS & HERS",
+      "netflix_url": "https://www.netflix.com/title/81662954",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "netflix_url": "https://www.netflix.com/title/81663325",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Monsters",
+      "netflix_url": "https://www.netflix.com/title/81665094",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Worst Ex Ever",
+      "netflix_url": "https://www.netflix.com/title/81666858",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Behind Your Touch",
+      "netflix_url": "https://www.netflix.com/title/81669777",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Fit for TV: The Reality of the Biggest Loser",
+      "netflix_url": "https://www.netflix.com/title/81670924",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "King the Land",
+      "netflix_url": "https://www.netflix.com/title/81671440",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Haunted Hotel",
+      "netflix_url": "https://www.netflix.com/title/81674500",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Found",
+      "netflix_url": "https://www.netflix.com/title/81674523",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love Is Blind: UK",
+      "netflix_url": "https://www.netflix.com/title/81676358",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Katrina: Come Hell and High Water",
+      "netflix_url": "https://www.netflix.com/title/81676595",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "A Man on the Inside",
+      "netflix_url": "https://www.netflix.com/title/81677257",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "When Life Gives You Tangerines",
+      "netflix_url": "https://www.netflix.com/title/81681535",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Yizo Yizo",
+      "netflix_url": "https://www.netflix.com/title/81682804",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Medusa",
+      "netflix_url": "https://www.netflix.com/title/81683616",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Magic and Muscles",
+      "netflix_url": "https://www.netflix.com/title/81685164",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love Con Revenge",
+      "netflix_url": "https://www.netflix.com/title/81685732",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Can This Love Be Translated?",
+      "netflix_url": "https://www.netflix.com/title/81697769",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Lady's Companion",
+      "netflix_url": "https://www.netflix.com/title/81699152",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "American Manhunt: Osama bin Laden",
+      "netflix_url": "https://www.netflix.com/title/81700898",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "American Manhunt: O.J. Simpson",
+      "netflix_url": "https://www.netflix.com/title/81700899",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Battle Camp",
+      "netflix_url": "https://www.netflix.com/title/81701535",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Building The Band",
+      "netflix_url": "https://www.netflix.com/title/81701544",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "W.A.G.s to Riches",
+      "netflix_url": "https://www.netflix.com/title/81704369",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Queen of Tears",
+      "netflix_url": "https://www.netflix.com/title/81707950",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Defying Destiny",
+      "netflix_url": "https://www.netflix.com/title/81710012",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Until You Burn",
+      "netflix_url": "https://www.netflix.com/title/81710015",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Apothecary Diaries",
+      "netflix_url": "https://www.netflix.com/title/81712068",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Newly Rich, Newly Poor",
+      "netflix_url": "https://www.netflix.com/title/81714569",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "My Demon",
+      "netflix_url": "https://www.netflix.com/title/81716080",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love Is Blind: Argentina",
+      "netflix_url": "https://www.netflix.com/title/81720712",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Starting 5",
+      "netflix_url": "https://www.netflix.com/title/81720808",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Animal Control",
+      "netflix_url": "https://www.netflix.com/title/81724633",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "America's Team: The Gambler and His Cowboys",
+      "netflix_url": "https://www.netflix.com/title/81725526",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sisters' Feud",
+      "netflix_url": "https://www.netflix.com/title/81726001",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Frieren: Beyond Journey's End",
+      "netflix_url": "https://www.netflix.com/title/81726714",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Unspeakable Sins",
+      "netflix_url": "https://www.netflix.com/title/81728308",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Culinary Class Wars",
+      "netflix_url": "https://www.netflix.com/title/81728365",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Gone Girls: The Long Island Serial Killer",
+      "netflix_url": "https://www.netflix.com/title/81729869",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Million Dollar Secret",
+      "netflix_url": "https://www.netflix.com/title/81731670",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "American Murder: Gabby Petito",
+      "netflix_url": "https://www.netflix.com/title/81733793",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Miss Night and Day",
+      "netflix_url": "https://www.netflix.com/title/81738994",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Love Next Door",
+      "netflix_url": "https://www.netflix.com/title/81739044",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "What's in the Box?",
+      "netflix_url": "https://www.netflix.com/title/81739833",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Jamie Foxx Show",
+      "netflix_url": "https://www.netflix.com/title/81741579",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Weak Hero",
+      "netflix_url": "https://www.netflix.com/title/81742615",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Captivating the King",
+      "netflix_url": "https://www.netflix.com/title/81742988",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Run Away",
+      "netflix_url": "https://www.netflix.com/title/81744420",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Temptation Island",
+      "netflix_url": "https://www.netflix.com/title/81744518",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Genie, Make a Wish",
+      "netflix_url": "https://www.netflix.com/title/81748484",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Four Seasons",
+      "netflix_url": "https://www.netflix.com/title/81750702",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Next Gen Chef",
+      "netflix_url": "https://www.netflix.com/title/81755409",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Adolescence",
+      "netflix_url": "https://www.netflix.com/title/81756069",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Turning Point: The Vietnam War",
+      "netflix_url": "https://www.netflix.com/title/81756795",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Price of Confession",
+      "netflix_url": "https://www.netflix.com/title/81757813",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Tires",
+      "netflix_url": "https://www.netflix.com/title/81758875",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Judge Dee's Mystery",
+      "netflix_url": "https://www.netflix.com/title/81761553",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Beauty in Black",
+      "netflix_url": "https://www.netflix.com/title/81764523",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Raw",
+      "netflix_url": "https://www.netflix.com/title/81788927",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Double",
+      "netflix_url": "https://www.netflix.com/title/81900131",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sean Combs: The Reckoning",
+      "netflix_url": "https://www.netflix.com/title/81906780",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "When the Phone Rings",
+      "netflix_url": "https://www.netflix.com/title/81912961",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "WWE: Unreal",
+      "netflix_url": "https://www.netflix.com/title/81928921",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "WWE No Mercy",
+      "netflix_url": "https://www.netflix.com/title/81929912",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "WWE No Mercy (UK)",
+      "netflix_url": "https://www.netflix.com/title/81930620",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dr. Coto's Clinic",
+      "netflix_url": "https://www.netflix.com/title/81947201",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "I Am Not Mendoza",
+      "netflix_url": "https://www.netflix.com/title/81948201",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Star Search",
+      "netflix_url": "https://www.netflix.com/title/81950682",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Kill Me Love Me",
+      "netflix_url": "https://www.netflix.com/title/81954820",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Tougen Anki",
+      "netflix_url": "https://www.netflix.com/title/81969861",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Tastefully Yours",
+      "netflix_url": "https://www.netflix.com/title/81971172",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ms. Rachel",
+      "netflix_url": "https://www.netflix.com/title/81975233",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Physical: Asia",
+      "netflix_url": "https://www.netflix.com/title/82006516",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Fragrant Flower Blooms With Dignity",
+      "netflix_url": "https://www.netflix.com/title/82024665",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bon Appétit, Your Majesty",
+      "netflix_url": "https://www.netflix.com/title/82024852",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dynamite Kiss",
+      "netflix_url": "https://www.netflix.com/title/82037587",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Kurukshetra: The Great War of Mahabharata",
+      "netflix_url": "https://www.netflix.com/title/82063102",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Beyond the Bar",
+      "netflix_url": "https://www.netflix.com/title/82065691",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Divorce Lawyer",
+      "netflix_url": "https://www.netflix.com/title/82078262",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Steve Harvey Show",
+      "netflix_url": "https://www.netflix.com/title/82078695",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "11.22.63",
+      "netflix_url": "https://www.netflix.com/title/82166536",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    }
+  ]
+}
