@@ -397,11 +397,54 @@ while IFS=$'\t' read -r title year url; do
       #netflix_year=$(echo "$netflix_json" | jq -r '.dateCreated' | cut -d- -f1)
 
 
+      #===================================#
+      #           TRY AGAIN               #
+      #===================================#
       # Retry using the first search result by OMDb rather than with no year
       echo " ❌ CAN'T FIND $title. Originally:   safe_title= $safe_title"    >&2
       safe_title=$(echo "$safe_title" | sed -E 's/[Tt]he\+Movie:?//g; s/\+\+/+/g; s/^\+//; s/\+$//')  # Remove literal “the+Movie”, collapse “++” into “+”, and trim leading/trailing “+”
       omdb_url="http://www.omdbapi.com/?s=$safe_title&apikey=$APIKEY"                                        # No year, and Switch from exact title match (?t=) to search mode (?s=)
-      search0=$(curl -s "$omdb_url" | jq -r '.Search[0]')      
+      # Look at the Netflix exact type for the titlee
+      netflix_json=$(wget -q -O - "$url" | tr '<>' '\n\n' | grep actors | grep -m 1 context | jq '.' 2>/dev/null || echo "")
+      netflix_type=$(echo "$netflix_json" | jq -r '.["@type"]')
+      if [[ "$netflix_type" == *Serie* ]]; then netflix_type="series";
+      elif [[ "$netflix_type" == "Movie" ]]; then netflix_type="movie"; fi
+
+
+      #search0=$(curl -s "$omdb_url" | jq -r '.Search[0]')      # Just naiively pick the first result of the list (0) 
+
+      # Let's look more carefylly inside the list of the $omdb_url search:
+      search=$(curl -s "$omdb_url" )   # All search results in a json list: {"Search":[{"Title":"...},...,{"Title":...} ] }
+      if ! echo "$search" | jq -e '.Response=="True"' >/dev/null; then
+        echo "OMDb search failed" >&2
+        exit 1
+      fi
+      search_array=$(echo "$search" | jq -c '.Search // empty')
+      search0=$(
+        echo "$search_array" |
+        jq -c --arg title "$safe_title" --arg type "$netflix_type" '
+          # Helper: lowercase strings for case-insensitive comparison
+          def norm: ascii_downcase;
+      
+          # Save the input array as $S for repeated use
+          . as $S
+      
+          | (  # 1️⃣  Exact match: title AND type
+              $S | map(select(type=="object"  and (.Title | norm) == ($title | norm) and .Type == $type)) | .[0]
+            )
+            // # 2️⃣ Fallback: Title match only
+            (  
+              $S | map(select(type=="object" and (.Title | norm) == ($title | norm))) | .[0]
+            )
+            // # 3️⃣ Fallback: Type match only
+            (
+              $S | map(select(type=="object" and .Type == $type))  | .[0]
+            )
+            //  # 4️⃣ Final fallback: just pick the first element of the array
+            $S[0]
+        '
+      )
+
       omdb_search0_title=$(echo $search0 | jq -r '.Title // empty')                   # Extract the Title of the first search result (or empty if none)
       imdb_id_from_search0=$(echo $search0 | jq -r '.imdbID // empty')      
       if [ -n "$omdb_search0_title" ]; then                                          # If OMDb returned at least one result...
@@ -415,12 +458,14 @@ while IFS=$'\t' read -r title year url; do
       safe_title=$(echo "$safe_title"   | sed -e 's/ /+/g' -e 's/://g' -e 's/&/%26/g' -e 's/(/%28/g' -e 's/)/%29/g')  # Final URL-escaping / cleanup pass
 
 
-      echo " 🔍 I'm gonna try to search (?s=) rather than to match (?t=) title for '$title':  $omdb_url" >&2
-      echo " 🔍 For '$title', the OMDb search returned title= '$omdb_search0_title'"     >&2
+      echo "   ---> 🔍 I'm gonna try to search (?s=) rather than to match (?t=) title for '$title':  $omdb_url" >&2
+      echo "   ---> 🔍 For '$title', the OMDb search returned title= '$omdb_search0_title'"     >&2
+
+
       # Back to  exact title match (?t=), but with $safe_title from the $omdb_search0_title.
       #omdb_url=$(echo "http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY")
       omdb_url=$(echo "http://www.omdbapi.com/?i=$imdb_id_from_search0&apikey=$APIKEY")
-      echo "   ---> New safe title: $safe_title searched with:  $omdb_url"         >&2
+      echo "   ---> New safe title: $safe_title searched with:  $omdb_url  -> https://www.imdb.com/title/$imdb_id_from_search0 -> $url"        >&2
       json=$(curl -s "$omdb_url") 
       rating=$(echo "$json" | jq -r '.imdbRating // empty')
       imdbid=$(echo "$json" | jq -r '.imdbID // empty')
