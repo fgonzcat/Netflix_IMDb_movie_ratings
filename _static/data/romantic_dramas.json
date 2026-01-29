@@ -292,6 +292,23 @@
       "Country": "India"
     },
     {
+      "title": "Doosara Aadmi",
+      "netflix_url": "https://www.netflix.com/title/70004840",
+      "year": "1973",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0301215",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk5NmJlMzAtN2IzMS00OGQ0LWJkN2ItNWJhZmVjODQwMTAwXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_SX300.jpg",
+      "Plot": "Kanu, Timsi and Nisha find themselves entangled in an emotional saga, the struggle of Nisha's past, Kanu and Timsi's present and an uncertain future.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "Ramesh Talwar",
+      "Writer": "Raju Saigal, Sagar Sarhadi",
+      "Actors": "Shashi Kapoor, Rishi Kapoor, Neetu Singh",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Sawaal",
       "netflix_url": "https://www.netflix.com/title/70009687",
       "year": "1982",
@@ -409,6 +426,13 @@
       "Actors": "Shah Rukh Khan, Rani Mukerji, Amitabh Bachchan",
       "Language": "Hindi, English",
       "Country": "India"
+    },
+    {
+      "title": "Maya Memsaab",
+      "netflix_url": "https://www.netflix.com/title/70057994",
+      "year": "1993",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Ta Ra Rum Pum",
@@ -1064,11 +1088,45 @@
       "Country": "United States, Thailand"
     },
     {
+      "title": "Ae Dil Hai Mushkil",
+      "netflix_url": "https://www.netflix.com/title/80147949",
+      "year": "2016",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt4559006",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTMwMjExMjMtZjIyYi00NzM4LWE4YWItN2FhMDMyZTRhMDQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A story about unrequited love - the shapes it takes, the ways it changes us and the exhilarating and often heartbreaking ride it takes us on. It is the journey of three characters, Ayan, Alizeh and Saba, as their lives intertwine ...",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Drama, Music, Musical",
+      "Director": "Karan Johar",
+      "Writer": "Karan Johar, Niranjan Iyengar",
+      "Actors": "Ranbir Kapoor, Aishwarya Rai Bachchan, Anushka Sharma",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Aashik Awara",
       "netflix_url": "https://www.netflix.com/title/80157084",
       "year": "1993",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Amrapali",
+      "netflix_url": "https://www.netflix.com/title/80158390",
+      "year": "1966",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0060104",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjM5NzUwNDctZDlmMC00MWIzLTgzZTItNDViNGMwODQxMzNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A victory over neighboring state Vaishai has always eluded Magadh Samrat Ajaatshatru despite being winning and taking control over all neighboring states. He attacks Vaishali only get defeated again. Wounded, lost and on the run, ...",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Fantasy, History",
+      "Director": "Lekh Tandon",
+      "Writer": "Arjun Dev Rashk, Balbir Singh, Omkar Sahib",
+      "Actors": "Vyjayanthimala, Sunil Dutt, Premnath Malhotra",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Prince",
@@ -1154,6 +1212,13 @@
       "Actors": "Aditya Roy Kapoor, Shraddha Kapoor, Naseeruddin Shah",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Badrinath Ki Dulhania",
+      "netflix_url": "https://www.netflix.com/title/80180043",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Irreplaceable You",
@@ -1399,6 +1464,23 @@
       "Actors": "Sonia Rathee, Harshvardhan Rane, Shammi Aulakh",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Us and Them",
+      "netflix_url": "https://www.netflix.com/title/80993655",
+      "year": "2018",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt8033592",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWUxMjZjNDYtYjUxYS00NmM5LWE2ZDItODljNTI0ZjJjMWQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ten years ago, on a train home, fate brings Xiaoxiao and Jianqing together. Like many young couples, they meet, fall in love, and strive to make it work, but eventually, the harsh realities of life make them drift apart.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Drama, Romance",
+      "Director": "Rene Liu",
+      "Writer": "Wei An, Shing-Ming Ho, Rene Liu",
+      "Actors": "Boran Jing, Dongyu Zhou, Zhuangzhuang Tian",
+      "Language": "Mandarin",
+      "Country": "China"
     },
     {
       "title": "Rebecca",
@@ -1884,6 +1966,13 @@
       "Country": "United States"
     },
     {
+      "title": "The Last Paradiso",
+      "netflix_url": "https://www.netflix.com/title/81176731",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Ajeeb Daastaans",
       "netflix_url": "https://www.netflix.com/title/81206929",
       "year": "2021",
@@ -2083,6 +2172,23 @@
       "Actors": "Alexandra Pfeifer, Anton Wichers, Trystan Pütter",
       "Language": "German, English, Russian",
       "Country": "Germany"
+    },
+    {
+      "title": "Ride or Die",
+      "netflix_url": "https://www.netflix.com/title/81261676",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt14164234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBkZTU0ZWYtYWI4Ni00YmE5LWIyNzUtYzAxMTA0YjM4ZmE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rei helps the woman she's been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.",
+      "Type": "movie",
+      "RunTime": "142 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Ryûichi Hiroki",
+      "Writer": "Nami Yoshikawa, Ching Nakamura",
+      "Actors": "Kiko Mizuhara, Honami Satô, Shinya Niiro",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "The Princess Switch 3: Romancing the Star",
@@ -2347,6 +2453,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Namaste Wahala",
+      "netflix_url": "https://www.netflix.com/title/81397313",
+      "year": "2021",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt12423052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjgyMWUwN2EtMWJlMS00YjZlLWJmNjItZjUxYzdhMjA0ZjJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Nigerian woman and an Indian man won't let cultural differences get in the way of their romance.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Drama, Romance",
+      "Director": "Hamisha Daryani Ahuja",
+      "Writer": "Hamisha Daryani Ahuja, Temitope Bolade, Diche Enunwa",
+      "Actors": "Ini Dima Okojie, Ruslaan Mumtaz, Richard Mofe-Damijo",
+      "Language": "English",
+      "Country": "Nigeria"
+    },
+    {
       "title": "After We Fell",
       "netflix_url": "https://www.netflix.com/title/81397455",
       "year": "2021",
@@ -2483,6 +2606,23 @@
       "Country": "Norway"
     },
     {
+      "title": "A Naija Christmas",
+      "netflix_url": "https://www.netflix.com/title/81434660",
+      "year": "2021",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt15565704",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDI0MTIxM2ItNzAzNy00ZjMyLTlkNzUtNGJjOGFlNmU4MzRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mother's Christmas wish - and the grand prize that comes with it - sets off a fierce competition between her sons.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Kunle Afolayan",
+      "Writer": "Kemi Adesoye",
+      "Actors": "Onikosi Bukola Abisoye, Lateef Adedimeji, Soledayo Adegbite",
+      "Language": "English",
+      "Country": "Nigeria"
+    },
+    {
       "title": "Beyond the Universe",
       "netflix_url": "https://www.netflix.com/title/81435930",
       "year": "2022",
@@ -2496,6 +2636,23 @@
       "Director": "Diego Freitas",
       "Writer": "Diego Freitas, Ana Reber, Rod Azevedo",
       "Actors": "Henrique Zaga, Ashleigh Morghan, João Miguel",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
+      "title": "Cheers to Life",
+      "netflix_url": "https://www.netflix.com/title/81436780",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt26849593",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTgzYjk2YjYtOWZjZi00YTlmLTkzNjMtOTc3YmNkYTkyMDE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama",
+      "Director": "Cris D'Amato",
+      "Writer": "Natalia Klein",
+      "Actors": "Thati Lopes, Jonas Bloch, Rodrigo Simas",
       "Language": "Portuguese",
       "Country": "Brazil"
     },
@@ -2539,6 +2696,23 @@
       "Actors": "Adanilo, Kevin Andrew Rivera, Jaffar Bambirra",
       "Language": "Portuguese",
       "Country": "Brazil"
+    },
+    {
+      "title": "Good Grief",
+      "netflix_url": "https://www.netflix.com/title/81462549",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32204945",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Marlon Wayans",
+      "Actors": "Marlon Wayans",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Dreamy Eyes",
@@ -2752,6 +2926,23 @@
       "Country": "Denmark"
     },
     {
+      "title": "No Limit",
+      "netflix_url": "https://www.netflix.com/title/81513875",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt14995258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIxYjYzMDItNTU2MS00MDBkLThjOTktYjUxMTIwYjNjNzg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Roxana Aubrey decides to drop her studies and escape her life in Paris for a free diving course in the south of France. She is quickly pulled into a life that reaches new depths brought by the weight of an ocean's descent.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Drama, Romance, Sport",
+      "Director": "David M. Rosenthal",
+      "Writer": "David M. Rosenthal",
+      "Actors": "Camille Rowe, Sofiane Zermani, César Domboy",
+      "Language": "French, English",
+      "Country": "France"
+    },
+    {
       "title": "Vengeance Is Mine, All Others Pay Cash",
       "netflix_url": "https://www.netflix.com/title/81520225",
       "year": "2021",
@@ -2878,11 +3069,45 @@
       "Country": "Japan"
     },
     {
+      "title": "Diorama",
+      "netflix_url": "https://www.netflix.com/title/81591290",
+      "year": "2022",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt10851466",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmQ0M2RmZjctOTVkZC00ZWIxLWJlOTItNjA0NDZlNDA1YTBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows Frida and Björn's love story, from passion to marriage to family life, from a scientific perspective.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Tuva Novotny",
+      "Writer": "Tuva Novotny",
+      "Actors": "Claes Bang, David Dencik, Gustav Lindh",
+      "Language": "Danish, Norwegian, Swedish",
+      "Country": "Sweden"
+    },
+    {
       "title": "A Star Shoots Across the Sky",
       "netflix_url": "https://www.netflix.com/title/81594244",
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Story of Dinda: Second Chance of Happiness",
+      "netflix_url": "https://www.netflix.com/title/81597204",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt14807282",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU2YzVmY2YtZDY5Zi00ZTA4LTgyOWItYTY5NDliYmY5MTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dinda believes that there is a kind of love that doesn't hurt, and Pram is the proof. Meeting Pram makes his world that almost collapsed back into one.",
+      "Type": "movie",
+      "RunTime": "59 min",
+      "Genre": "Drama, Romance",
+      "Director": "Ginanti Rona",
+      "Writer": "Marchella F.P., Mohammad Irfan Ramly",
+      "Actors": "Aurélie Moeremans, Abimana Aryasatya, Ardhito Pramono",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "The Entitled",
@@ -3395,6 +3620,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "Ketika Berhenti di Sini",
+      "netflix_url": "https://www.netflix.com/title/81716462",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt24546804",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2YwZDQ4ODItNGZhZS00MmU1LTlmNTMtYTU0Nzg2OGUyMzFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dita, a graphic designer torn between the holographic presence of her deceased love Ed and her current relationship with Ifan, must choose between the past and the present.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Drama, Romance, Sci-Fi",
+      "Director": "Umay Shahab",
+      "Writer": "Alim Sudio, Umay Shahab, Monty Tiwa",
+      "Actors": "Prilly Latuconsina, Refal Hady, Bryan Domani",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "I Love Lizzy",
       "netflix_url": "https://www.netflix.com/title/81716908",
       "year": "2023",
@@ -3429,6 +3671,23 @@
       "Country": "Vietnam"
     },
     {
+      "title": "Kushi",
+      "netflix_url": "https://www.netflix.com/title/81719490",
+      "year": "2023",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt15380630",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q1YzlhODEtNWRiZS00ZGJkLWJlMzgtMTE2NmIyYzg5ODg1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Raised in an atheist household, a young man falls in love with the daughter of his father's arch-rival, a devout Hindu leader.",
+      "Type": "movie",
+      "RunTime": "163 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Shiva Nirvana",
+      "Writer": "Shiva Nirvana, Rajendra Sapre",
+      "Actors": "Samantha Ruth Prabhu, Vijay Deverakonda, Murli Sharma",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Amaran",
       "netflix_url": "https://www.netflix.com/title/81728596",
       "year": "2024",
@@ -3461,6 +3720,23 @@
       "Actors": "N/A",
       "Language": "N/A",
       "Country": "United States"
+    },
+    {
+      "title": "Dunki",
+      "netflix_url": "https://www.netflix.com/title/81731618",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt15428134",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMThhZjM4M2UtYmE1NC00YTMzLTk3ZTAtNmQ1ZmI4YmRmZGE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When his friends in Punjab struggle to clear the immigration process, an ex-soldier guides them on a risky journey to enter the UK without permission.",
+      "Type": "movie",
+      "RunTime": "160 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Rajkumar Hirani",
+      "Writer": "Abhijat Joshi, Rajkumar Hirani, Kanika Dhillon",
+      "Actors": "Taapsee Pannu, Ryan Cretney, Priya Sindher",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Chasing the Wind",
@@ -3611,6 +3887,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Dragon",
+      "netflix_url": "https://www.netflix.com/title/81762715",
+      "year": "2025",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0892769",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+      "Plot": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Dean DeBlois, Chris Sanders",
+      "Writer": "William Davies, Dean DeBlois, Chris Sanders",
+      "Actors": "Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",
+      "Language": "English",
+      "Country": "United Kingdom, France, United States"
     },
     {
       "title": "Chances Are You and I",
@@ -3858,6 +4151,13 @@
       "Country": "South Africa"
     },
     {
+      "title": "Umjolo: My Beginning, My End!",
+      "netflix_url": "https://www.netflix.com/title/81903225",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Umjolo: There is No Cure",
       "netflix_url": "https://www.netflix.com/title/81903226",
       "year": "2025",
@@ -4022,6 +4322,23 @@
       "Writer": "Imtiaz Ali, Sajid Ali",
       "Actors": "Avinash Tiwary, Triptii Dimri, Sumit Kaul",
       "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Kadhalikka Neramillai",
+      "netflix_url": "https://www.netflix.com/title/81994074",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27795377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODdkYTM2ODgtMDFiMy00YzlmLWJlYjMtNjE2YmVjY2U0MzFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man falls for his boss' daughter and convinces his friend to pose as his father to gain approval for their marriage, resulting in a hilarious series of misunderstandings.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "N/A",
+      "Director": "Kiruthiga Udhayanidhi",
+      "Writer": "Kiruthiga Udhayanidhi",
+      "Actors": "Jayam Ravi, Yogi Babu, Nithya Menen",
+      "Language": "Tamil",
       "Country": "India"
     },
     {

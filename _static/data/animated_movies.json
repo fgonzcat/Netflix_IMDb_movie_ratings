@@ -248,6 +248,13 @@
       "Country": "Brazil"
     },
     {
+      "title": "Flavors of Youth: International Version",
+      "netflix_url": "https://www.netflix.com/title/80234491",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Trailer Park Boys: The Animated Series",
       "netflix_url": "https://www.netflix.com/title/80235932",
       "year": "2020",
@@ -925,6 +932,23 @@
       "Country": "Japan, United States"
     },
     {
+      "title": "New Gods: Nezha Reborn",
+      "netflix_url": "https://www.netflix.com/title/81418302",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt13269670",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmEwMTUxNjctNWE3NC00NDY4LThkZDQtNTk4MmJlYjdjZDMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A normal young deliveryman Li Yunxiang, though coming from the slum area, is living a satisfying life but when the arrogant wealthy son of Boss beats him down, his deep anger turns into a blast of Truth Fire.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Animation, Action, Fantasy",
+      "Director": "Ji Zhao",
+      "Writer": "Xixing Lu, Gary Wang, Zhonglin Xu",
+      "Actors": "Nicole Fong, Victoria Grace, Jason Ko",
+      "Language": "Mandarin, Chinese",
+      "Country": "China"
+    },
+    {
       "title": "Arcane",
       "netflix_url": "https://www.netflix.com/title/81435684",
       "year": "2024",
@@ -991,6 +1015,23 @@
       "Actors": "Lazare Herson-Macarel, Eric Herson-Macarel, Damien Boisseau",
       "Language": "French",
       "Country": "France, Luxembourg"
+    },
+    {
+      "title": "Adam by Eve: A live in Animation",
+      "netflix_url": "https://www.netflix.com/title/81450005",
+      "year": "2022",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt18274178",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTMyYmNmZjctMDkxYy00ZDU0LWFjMzktYWI4YjYxNDY1ODZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Anime, live action and music by cutting-edge artist Eve - all weave together into this dreamlike sonic experience inspired by the story of Adam and Eve.",
+      "Type": "movie",
+      "RunTime": "58 min",
+      "Genre": "Animation, Music",
+      "Director": "Nobutaka Yoda",
+      "Writer": "Nobutaka Yoda",
+      "Actors": "Hanon, Ano, Eve",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Exploding Kittens",

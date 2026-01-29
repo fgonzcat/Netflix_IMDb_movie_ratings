@@ -530,6 +530,40 @@
       "Country": "United States"
     },
     {
+      "title": "Tokyo Dogs",
+      "netflix_url": "https://www.netflix.com/title/80174876",
+      "year": "2013",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt1527561",
+      "Poster": "https://occ-0-1340-1339.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWgpvE2GlxyDchA4vuJ7izHqr8YViIJ33HW_c867kQPIvlbFEtUUugKsYZcif3LXXBcEGqAQ3tyEqYOLr5uifsZ-64xlfny9nD_N.jpg?r=3a1",
+      "Plot": "Takakura So witnessed his father's murder at a young age. Pledging to catch the killer, he grows up to become an elite cop in New York City, where the criminal lives. His character is cool-headed and disciplined, yet adapts well. ...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Shun Oguri, Hiro Mizushima, Yuriko Yoshitaka",
+      "Language": "Japanese",
+      "Country": "Japan, United States"
+    },
+    {
+      "title": "Troy: Fall of a City",
+      "netflix_url": "https://www.netflix.com/title/80175352",
+      "year": "2018",
+      "imdb_rating": "4.1",
+      "imdb_id": "tt5103758",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzAwYWI5YTMtNDQwMC00YTg5LThmMmUtYmNhY2RmNTYyMTE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Retells the story of the 10 year siege of Troy, which occurred in the 12 or 13th century BC.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "N/A",
+      "Writer": "David Farr",
+      "Actors": "Louis Hunter, Christiaan Schoombie, Bella Dayne",
+      "Language": "English",
+      "Country": "United Kingdom, South Africa, Australia, United States"
+    },
+    {
       "title": "Blazing Transfer Students",
       "netflix_url": "https://www.netflix.com/title/80175822",
       "year": "2017",
@@ -766,6 +800,23 @@
       "Actors": "Kento Yamazaki, Tao Tsuchiya, Nijirô Murakami",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Nowhere Man",
+      "netflix_url": "https://www.netflix.com/title/80203920",
+      "year": "2019",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt10895588",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWRlZmViYmQtMGRjMS00NTcxLTljN2EtMDdjNGYwNzJiYmM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A strange encounter that causes a man awaiting execution to experience alternate timelines. That leads to his escape from prison to protect his family.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Hsiao-chuan Chang, Alyssa Chia, Mavis Fan",
+      "Language": "Mandarin",
+      "Country": "Taiwan"
     },
     {
       "title": "Hit & Run",
@@ -1822,6 +1873,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "The King's Avatar",
+      "netflix_url": "https://www.netflix.com/title/81175361",
+      "year": "2019",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt10732794",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTdmZWM1MDgtNGI3Ni00NjM0LTgwNjItYjgxMzc5YTIxNDE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ye Xiu (Yang Yang) is a well known top tier player in an online game Glory. After forcefully expelled out of his professional team, he was employed in an Internet Cafe as an odd-job worker.",
+      "Type": "series",
+      "RunTime": "45 min",
+      "Genre": "Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Hudie Lan",
+      "Actors": "Yang Yang, Shuying Jiang, Tu-Te-Ha-Meng",
+      "Language": "Mandarin",
+      "Country": "China"
+    },
+    {
       "title": "Ganglands",
       "netflix_url": "https://www.netflix.com/title/81175433",
       "year": "2023",
@@ -2807,6 +2875,23 @@
       "Actors": "Manuel Masalva, Harold Torres, Andrew Leland Rogers",
       "Language": "English, Spanish",
       "Country": "Mexico, United States"
+    },
+    {
+      "title": "Invisible",
+      "netflix_url": "https://www.netflix.com/title/81649819",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt20247096",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI1MjQwNGUtYWU5Yy00MDE5LWFmZDAtYTQ0MjMyOTI5YzZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A maverick detective hunts elusive criminals. He meets a woman called \"Invisible\" with intel on them. Could she be the key to cracking the case?",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Issei Takahashi, Kô Shibasaki, Kenta Kiritani",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Black Doves",

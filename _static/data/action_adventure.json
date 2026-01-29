@@ -819,6 +819,23 @@
       "Country": "Japan"
     },
     {
+      "title": "District 9",
+      "netflix_url": "https://www.netflix.com/title/70113005",
+      "year": "2009",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt1136608",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4OTI1OTM5NF5BMl5BanBnXkFtZTcwMzk5MTU1Mg@@._V1_SX300.jpg",
+      "Plot": "In a future Earth in which aliens are isolated in a remote ghetto, a government agent finds himself banished there.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Neill Blomkamp",
+      "Writer": "Neill Blomkamp, Terri Tatchell",
+      "Actors": "Sharlto Copley, David James, Jason Cope",
+      "Language": "English, Nyanja, Afrikaans, Zulu, Xhosa, Sotho",
+      "Country": "South Africa, United States, New Zealand, Canada"
+    },
+    {
       "title": "Ip Man",
       "netflix_url": "https://www.netflix.com/title/70118799",
       "year": "2008",
@@ -1244,6 +1261,23 @@
       "Country": "Ireland, South Africa"
     },
     {
+      "title": "Survivor",
+      "netflix_url": "https://www.netflix.com/title/80046729",
+      "year": "2015",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt3247714",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5NDM5MTQ0MF5BMl5BanBnXkFtZTgwMDEzNTUxNTE@._V1_SX300.jpg",
+      "Plot": "A Foreign Service Officer in London tries to prevent a terrorist attack set to hit New York City, but is forced to go on the run when she is framed for crimes she did not commit.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "James McTeigue",
+      "Writer": "Philip Shelby",
+      "Actors": "Milla Jovovich, Pierce Brosnan, Dylan McDermott",
+      "Language": "English, Pashtu, Mandarin",
+      "Country": "United States, United Kingdom"
+    },
+    {
       "title": "Spectre",
       "netflix_url": "https://www.netflix.com/title/80056799",
       "year": "2015",
@@ -1383,6 +1417,23 @@
       "Director": "Jeremy Rush",
       "Writer": "Jeremy Rush",
       "Actors": "Frank Grillo, Caitlin Carmichael, Garret Dillahunt",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "BLAME!",
+      "netflix_url": "https://www.netflix.com/title/80115466",
+      "year": "2017",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt4607722",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjkzOTE3OTc3OF5BMl5BanBnXkFtZTgwODAzMTQxNDM@._V1_SX300.jpg",
+      "Plot": "A drama teacher's taboo relationship with an unstable student strikes a nerve in her jealous classmate, sparking a vengeful chain of events within their suburban high school that draws parallels to 'The Crucible'.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Quinn Shephard",
+      "Writer": "Quinn Shephard, Laurie Shephard",
+      "Actors": "Quinn Shephard, Marcia DeBonis, Elizabeth Howell",
       "Language": "English",
       "Country": "United States"
     },
@@ -1707,6 +1758,23 @@
       "Writer": "Misha Green, Andrea Berloff, Peter Craig",
       "Actors": "Jennifer Lopez, Lucy Paez, Omari Hardwick",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Rim of the World",
+      "netflix_url": "https://www.netflix.com/title/80218306",
+      "year": "2019",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt8179388",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyNTE0MTQzNF5BMl5BanBnXkFtZTgwMjc2MzUwODM@._V1_SX300.jpg",
+      "Plot": "Four misfit campers must band together and conquer their fears in order to save the world during an alien invasion.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "McG",
+      "Writer": "Zack Stentz",
+      "Actors": "Jack Gore, Miya Cech, Benjamin Flores Jr.",
+      "Language": "English, Chinese",
       "Country": "United States"
     },
     {
@@ -2084,6 +2152,23 @@
       "Country": "United States"
     },
     {
+      "title": "Atlas",
+      "netflix_url": "https://www.netflix.com/title/81012048",
+      "year": "2024",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt14856980",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDUwNTFkNzYtMGM5NS00NTc4LWEwMDUtMmE5MzgyMjcwOWM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a bleak-sounding future, an A.I. soldier has determined that the only way to end war is to end humanity.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Brad Peyton",
+      "Writer": "Leo Sardarian, Aron Eli Coleite",
+      "Actors": "Jennifer Lopez, Simu Liu, Sterling K. Brown",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Honest Thief",
       "netflix_url": "https://www.netflix.com/title/81013492",
       "year": "2020",
@@ -2183,6 +2268,23 @@
       "Writer": "Danny Bilson, Paul De Meo, Kevin Willmott",
       "Actors": "Delroy Lindo, Jonathan Majors, Clarke Peters",
       "Language": "English, Finnish, French, Vietnamese",
+      "Country": "United States"
+    },
+    {
+      "title": "Army of the Dead",
+      "netflix_url": "https://www.netflix.com/title/81046394",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0993840",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc0MDFjZmQtMWMxZi00YzY4LWI5N2EtOGQwM2IzZjRkYmY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+      "Type": "movie",
+      "RunTime": "148 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Zack Snyder",
+      "Writer": "Zack Snyder, Shay Hatten, Joby Harold",
+      "Actors": "Dave Bautista, Ella Purnell, Ana de la Reguera",
+      "Language": "English, Spanish, German, French, Bable, Polish",
       "Country": "United States"
     },
     {
@@ -2771,6 +2873,23 @@
       "Country": "Poland"
     },
     {
+      "title": "Fullmetal Alchemist The Revenge of Scar",
+      "netflix_url": "https://www.netflix.com/title/81266975",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt18671386",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxNzUwYzctOGJjZS00NmRkLWEwY2ItZTU2NDhlZjJlMjU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a mysterious figure starts to target State Alchemists for their sins against God, Alchemist Edward Elric and his brother Alphonse are at their most vulnerable, meanwhile the homunculi begin to unveil themselves once again.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Fumihiko Sori",
+      "Writer": "Hiromu Arakawa, Fumihiko Sori, Takeshi Miyamoto",
+      "Actors": "Ryôsuke Yamada, Tsubasa Honda, Mackenyu",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Enola Holmes",
       "netflix_url": "https://www.netflix.com/title/81277950",
       "year": "2020",
@@ -2837,6 +2956,23 @@
       "Actors": "Mark Wahlberg, Halle Berry, J.K. Simmons",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "Spaceman",
+      "netflix_url": "https://www.netflix.com/title/81301595",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt11097384",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGY0NDk5YjYtMTI0Zi00ZDc4LTk3NzEtYmUyNDNlN2U1ZmYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Half a year into his solo mission on the edge of the solar system, an astronaut concerned with the state of his life back on Earth is helped by an ancient creature he discovers in the bowels of his ship.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Adventure, Drama, Romance",
+      "Director": "Johan Renck",
+      "Writer": "Jaroslav Kalfar, Colby Day",
+      "Actors": "Adam Sandler, Carey Mulligan, Paul Dano",
+      "Language": "English",
+      "Country": "Czech Republic, United States"
     },
     {
       "title": "Back in Action",
@@ -3179,6 +3315,23 @@
       "Country": "United States"
     },
     {
+      "title": "Bionic",
+      "netflix_url": "https://www.netflix.com/title/81406459",
+      "year": "2024",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt16427902",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQxZmJhMzctZmI1Ni00MjFjLWEyZmMtMTRkOTQ4NTBiMjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When the progress of robotics makes Paralympic athletes the new sports stars, Maria dreams of competing against her sister. For that, she will have to enter a world of crime and violence.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Afonso Poyart",
+      "Writer": "Cris Cera, Victor Navas, Josefina Trotta",
+      "Actors": "Jessica Córes, Bibi Flor, Emilly Nayara",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
       "title": "Monster Run",
       "netflix_url": "https://www.netflix.com/title/81406611",
       "year": "2020",
@@ -3417,6 +3570,23 @@
       "Country": "United States"
     },
     {
+      "title": "Zom 100: Bucket List of the Dead",
+      "netflix_url": "https://www.netflix.com/title/81464329",
+      "year": "2023",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt25811262",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhkNDM2OGUtOGUzZC00NjAzLThmODktOGE4ZjgxZjA3OWQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A worker in a foreign finance company is bullied and worked around the clock, before a zombie outbreak finally makes him feel alive.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Haro Aso",
+      "Actors": "Shûichirô Umeda, Zeno Robinson, Bill Millsap",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "14 Peaks: Nothing Is Impossible",
       "netflix_url": "https://www.netflix.com/title/81464765",
       "year": "2021",
@@ -3432,6 +3602,23 @@
       "Actors": "Nirmal Purja, Suchi Purja, Klára Kolouchová",
       "Language": "English, Nepali",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "JUNG_E",
+      "netflix_url": "https://www.netflix.com/title/81465109",
+      "year": "2023",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt22352848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyNGY3NjMtNTRkMS00OWMwLWExNWEtMWJiZmI3MDExOWZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On an uninhabitable 22nd-century Earth, the outcome of a civil war hinges on cloning the brain of an elite soldier to create a robot mercenary.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Yeon Sang-ho",
+      "Writer": "Yeon Sang-ho",
+      "Actors": "Kang Soo-youn, Kim Hyun-joo, Ryu Kyung-soo",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Warriors of Future",
@@ -4384,6 +4571,47 @@
       "Country": "Japan"
     },
     {
+      "title": "Mantis",
+      "netflix_url": "https://www.netflix.com/title/81771384",
+      "year": "2025",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt33312131",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ2MmEwZmMtNzA4MC00MjljLWIyOWItZjhhMmI0NWJhNzJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mantis, an ace assassin, returns to the contract killer industry after a hiatus, encountering his trainee friend Jae-yi and a retired legendary killer Dok-go, who now runs the organization.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Thriller",
+      "Director": "Lee Tae-sung",
+      "Writer": "Byun Sung-hyun, Lee Tae-sung",
+      "Actors": "Yim Si-wan, Park Gyuyoung, Jo Woo-jin",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Chhaava",
+      "netflix_url": "https://www.netflix.com/title/81902061",
+      "year": "2025",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt27922706",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDMyZjFmZTctNDAxYi00MWM3LWJiYmItM2VhNWZiM2IwNjNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A historical drama based on the life of Chhatrapati Sambhaji Maharaj, the son of Chhatrapati Shivaji Maharaj.",
+      "Type": "movie",
+      "RunTime": "161 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Laxman Utekar",
+      "Writer": "Laxman Utekar, Rishi Virmani, Kaustubh Savarkar",
+      "Actors": "Vicky Kaushal, Akshaye Khanna, Rashmika Mandanna",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "They Call Him OG",
+      "netflix_url": "https://www.netflix.com/title/81902063",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Rip",
       "netflix_url": "https://www.netflix.com/title/81915745",
       "year": "2026",
@@ -4457,6 +4685,23 @@
       "Actors": "Jean-Claude Van Damme, Jacqueline Fernandez, Dimitar Doychinov",
       "Language": "English",
       "Country": "United States, Italy"
+    },
+    {
+      "title": "In Youth We Trust",
+      "netflix_url": "https://www.netflix.com/title/81941938",
+      "year": "2024",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt35047753",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGY4MWFmZmUtYmEyYi00YTVlLWEzODQtYjRiNGYxOWI4YzVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Puek, a boy from the slums, had no choice but to endure his circumstances, feeling that he could never have the same worth as others. He remained silent, accepting the bullying of others just to survive in society.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Crime",
+      "Director": "Putthipong Naktong",
+      "Writer": "Putthipong Naktong",
+      "Actors": "Arak Amornsupasiri, Nat Kitcharit, Todsapol Maisuk",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Death Whisperer 2",

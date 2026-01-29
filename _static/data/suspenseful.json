@@ -122,6 +122,23 @@
       "Country": "United Kingdom, United States, Spain"
     },
     {
+      "title": "Darr",
+      "netflix_url": "https://www.netflix.com/title/20704518",
+      "year": "1993",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0109555",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWJjZGZjMDItZTgzOS00Y2UwLThlZWEtN2QyNmE3NzgwZTM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rahul is obsessed with Kiran and stalks her constantly. However, Rahul goes berserk when she gets engaged to Sunil, a navy officer, and he decides to forcefully claim Kiran for himself.",
+      "Type": "movie",
+      "RunTime": "178 min",
+      "Genre": "Action, Drama, Romance",
+      "Director": "Yash Chopra",
+      "Writer": "Honey Irani, Javed Siddiqui",
+      "Actors": "Sunny Deol, Juhi Chawla, Shah Rukh Khan",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "GoldenEye",
       "netflix_url": "https://www.netflix.com/title/22040803",
       "year": "1995",
@@ -564,6 +581,23 @@
       "Country": "United States, Luxembourg, Canada"
     },
     {
+      "title": "Sergio",
+      "netflix_url": "https://www.netflix.com/title/70112740",
+      "year": "2009",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1333656",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDllNGU4MTgtODI0Yy00OWJjLTlhOGYtMGYxMjliNTkwMmViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look at the life and work of United Nations High Commissioner for Human Rights, Sergio Vieira de Mello, and the rescue operation when he was trapped and injured by a bomb explosion at UN headquarters in Baghdad.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Greg Barker",
+      "Writer": "Samantha Power",
+      "Actors": "Sergio Vieira de Mello, Tony Blair, Samantha Power",
+      "Language": "Spanish, Portuguese, French, English",
+      "Country": "United States"
+    },
+    {
       "title": "New York",
       "netflix_url": "https://www.netflix.com/title/70121511",
       "year": "2009",
@@ -717,6 +751,23 @@
       "Country": "United States"
     },
     {
+      "title": "Creep",
+      "netflix_url": "https://www.netflix.com/title/70306646",
+      "year": "2014",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt2428170",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NTU2ODM5Ml5BMl5BanBnXkFtZTgwMTAwOTA5NTE@._V1_SX300.jpg",
+      "Plot": "A young videographer answers an online ad for a one-day job in a remote town to record the last messages of a dying man. When he notices the man's odd behavior, he starts to question his intentions.",
+      "Type": "movie",
+      "RunTime": "77 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Patrick Brice",
+      "Writer": "Patrick Brice, Mark Duplass",
+      "Actors": "Mark Duplass, Patrick Brice, Katie Aselton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Moonraker",
       "netflix_url": "https://www.netflix.com/title/772447",
       "year": "1979",
@@ -817,6 +868,23 @@
       "Actors": "Bobby Naderi, Narges Rashidi, Mia Sinclair Jenness",
       "Language": "Persian",
       "Country": "United Kingdom, Jordan, Qatar, Iran"
+    },
+    {
+      "title": "Clinical",
+      "netflix_url": "https://www.netflix.com/title/80096955",
+      "year": "2017",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt5577742",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzNTkwNzMyMF5BMl5BanBnXkFtZTgwNTg2MzIxMTI@._V1_SX300.jpg",
+      "Plot": "A psychiatrist tries to put her life back together after a violent attack by seeking to repair the life of a new patient, but he has his own terrifying history.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Alistair Legrand",
+      "Writer": "Luke Harvis, Alistair Legrand",
+      "Actors": "Vinessa Shaw, Kevin Rahm, India Eisley",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Spectral",
@@ -972,6 +1040,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Pandora",
+      "netflix_url": "https://www.netflix.com/title/80158577",
+      "year": "2016",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt6302160",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjRkMjAxMjgtZTUwMC00MDI0LWI3YTYtYzVjZDFkMWQ1YTkyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The explosion of a nuclear power plant caused by an earthquake leads to a disaster which no one other than its workers can stop from spreading further.",
+      "Type": "movie",
+      "RunTime": "136 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Jeong-woo Park",
+      "Writer": "Jeong-woo Park",
+      "Actors": "Kim Nam-gil, Kim Joo-Hyun, Jung Jin-young",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "The Babysitter",
       "netflix_url": "https://www.netflix.com/title/80164456",
       "year": "2017",
@@ -987,6 +1072,23 @@
       "Actors": "Judah Lewis, Samara Weaving, Robbie Amell",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Ittefaq",
+      "netflix_url": "https://www.netflix.com/title/80164904",
+      "year": "2017",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt6692354",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDc5NzYzNl5BMl5BanBnXkFtZTgwMDQ0Mjc3MzI@._V1_SX300.jpg",
+      "Plot": "A detective seeks out the truth between two different stories of a crime scene.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Mystery, Thriller",
+      "Director": "Abhay Chopra",
+      "Writer": "Abhay Chopra, Shreyas Jain, Nikhil Mehrotra",
+      "Actors": "Sidharth Malhotra, Sonakshi Sinha, Akshaye Khanna",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Only the Brave",
@@ -1174,6 +1276,13 @@
       "Actors": "Freida Pinto, Logan Marshall-Green, Robert John Burke",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "THE WOLF HOUR",
+      "netflix_url": "https://www.netflix.com/title/80208042",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Mother",
@@ -1482,6 +1591,23 @@
       "Country": "Netherlands, Belgium"
     },
     {
+      "title": "Solo",
+      "netflix_url": "https://www.netflix.com/title/80245041",
+      "year": "2018",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt6699860",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2ZDExYTEtMDhmMy00ZDc5LWIyZGItNDBlNzI0YWY3OGMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After falling by a cliff on a desert beach, a seriously injured surfer starts a lonely fight to survive against the merciless nature.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "Hugo Stuven",
+      "Writer": "Santiago Lallana, Hugo Stuven",
+      "Actors": "Alain Hernández, Aura Garrido, Ben Temple",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "Operation Finale",
       "netflix_url": "https://www.netflix.com/title/80986885",
       "year": "2018",
@@ -1497,6 +1623,40 @@
       "Actors": "Oscar Isaac, Ben Kingsley, Mélanie Laurent",
       "Language": "English, Spanish, French, German, Hebrew, Arabic",
       "Country": "United States, Argentina"
+    },
+    {
+      "title": "The Legacy of the Bones",
+      "netflix_url": "https://www.netflix.com/title/80990327",
+      "year": "2019",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt7304802",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU5YTFlZmYtMTAyYy00OTA4LThjNTYtZTQ1ZGNiZmNkZTk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Inspector Amaia Salazar returns to the Baztán's valley for a new case, and this time even her loved ones won't be safe.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Fernando González Molina",
+      "Writer": "Luiso Berdejo, Dolores Redondo",
+      "Actors": "Marta Etura, Carlos Librado 'Nene', Leonardo Sbaraglia",
+      "Language": "Spanish, English, Basque",
+      "Country": "Spain, Germany"
+    },
+    {
+      "title": "Offering to the Storm",
+      "netflix_url": "https://www.netflix.com/title/80990328",
+      "year": "2020",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt7304824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgyYWEzNWYtN2FlNy00NTc3LWI1ZDktNjQyNjk5MzM0Njc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds the darkest secrets of the Baztan valley.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Fernando González Molina",
+      "Writer": "Luiso Berdejo, Dolores Redondo",
+      "Actors": "Marta Etura, Leonardo Sbaraglia, Carlos Librado 'Nene'",
+      "Language": "Spanish, French, English",
+      "Country": "Spain, Germany"
     },
     {
       "title": "Damsel",
@@ -1550,6 +1710,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "The Son",
+      "netflix_url": "https://www.netflix.com/title/80994020",
+      "year": "2019",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt10665234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGMyOWY5NDYtYmMwZi00YjE1LTgwNDktNjI2Y2QzZGRmZWMyXkEyXkFqcGdeQXVyMzM3NTgyMzY@._V1_SX300.jpg",
+      "Plot": "Adopted son Arman (18) has an unstable character and cannot find peace in the struggle for his identity. His parents and younger brother Dado (14), who was born after Arman's adoption, suffer due to his restlessness and the enormo...",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Drama",
+      "Director": "Ines Tanovic",
+      "Writer": "Ines Tanovic",
+      "Actors": "Dino Bajrovic, Snezana Bogdanovic, Uliks Fehmiu",
+      "Language": "Bosnian",
+      "Country": "Bosnia and Herzegovina"
+    },
+    {
       "title": "Beckett",
       "netflix_url": "https://www.netflix.com/title/80994937",
       "year": "2021",
@@ -1582,6 +1759,23 @@
       "Actors": "Brenda Song, Mike Vogel, Dennis Haysbert",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Black Beach",
+      "netflix_url": "https://www.netflix.com/title/80999751",
+      "year": "2020",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt9660688",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjY0YWMwYmYtNDAyMC00ZGQ4LTlhOTAtN2Q5MmRiYWFiZjQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Carlos is a businessman who gets a request to intercede on behalf of a US engineer in the oil industry who's been kidnapped.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Esteban Crespo, Gonzalo Gilsanz",
+      "Writer": "Esteban Crespo, David Moreno",
+      "Actors": "Raúl Arévalo, Paulina García, Candela Peña",
+      "Language": "Spanish, English",
+      "Country": "Spain, Belgium, United States"
     },
     {
       "title": "Wasp Network",
@@ -2349,6 +2543,23 @@
       "Country": "Romania, Sweden"
     },
     {
+      "title": "Thambi",
+      "netflix_url": "https://www.netflix.com/title/81176204",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt10468636",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdhMjNkZDQtMmZjMC00ZWY5LWIyN2UtNDM3NWY2Yjc3ZWE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Parvathy is elated when she finds out that her brother, Saravanan, who has been missing for 15 years, is in Goa. However, somebody has already hatched a plan to kill him.",
+      "Type": "movie",
+      "RunTime": "149 min",
+      "Genre": "Action, Thriller",
+      "Director": "Jeethu Joseph",
+      "Writer": "Sameer Arora, Nani Challagulla, Renzil D'Silva",
+      "Actors": "Karthi, Jyotika, Sathyaraj",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "Silverton Siege",
       "netflix_url": "https://www.netflix.com/title/81176353",
       "year": "2022",
@@ -2604,6 +2815,40 @@
       "Country": "Belgium, Netherlands"
     },
     {
+      "title": "JJ+E",
+      "netflix_url": "https://www.netflix.com/title/81248121",
+      "year": "2021",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt12299824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MDY5ZGMtODMxNi00MDljLWEyZmQtMTJiYTFiODE5NmJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two youngsters are raised in the same city, yet they live light years apart, separated economically, socially and culturally. That is until the day they start in the same high school class.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Drama, Romance",
+      "Director": "Alexis Almström",
+      "Writer": "Dunja Vujovic, Mats Wahl",
+      "Actors": "Mustapha Aarab, Elsa Öhrn, Jonay Pineda Skallak",
+      "Language": "Swedish",
+      "Country": "Sweden"
+    },
+    {
+      "title": "Robbing Mussolini",
+      "netflix_url": "https://www.netflix.com/title/81256747",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt14270848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzczOTI1OTItYzAwNS00MDVhLWIwMzMtODE3MWEwMjJmODZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Milanese wartime entrepreneur forms a band of misfits and rogues to stage an elaborate heist of a legendary treasure belonging to Benito Mussolini.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Renato De Maria",
+      "Writer": "Renato De Maria",
+      "Actors": "Pietro Castellitto, Matilda De Angelis, Tommaso Ragno",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "Recurrence",
       "netflix_url": "https://www.netflix.com/title/81259570",
       "year": "2022",
@@ -2636,6 +2881,23 @@
       "Actors": "Eddie Redmayne, Denise Pillott, Dartel McRae",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Bartkowiak",
+      "netflix_url": "https://www.netflix.com/title/81265968",
+      "year": "2021",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt14315566",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ1YzYxYTktMGFiNi00YjdjLWI2ODAtNjI2MmI0YjllMGVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After his brother dies in a car crash, a disgraced MMA fighter takes over the family nightclub and soon learns his sibling's death wasn't an accident.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Action, Crime, Sport",
+      "Director": "Daniel Markowicz",
+      "Writer": "Daniel Bernardi, Monika Slawecka",
+      "Actors": "Józef Pawlowski, Zofia Domalik, Szymon Bobrowski",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Roohi",
@@ -2823,6 +3085,23 @@
       "Actors": "Julia Roberts, Mahershala Ali, Ethan Hawke",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Code Name: Emperor",
+      "netflix_url": "https://www.netflix.com/title/81321674",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13660916",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmM3ZjRiMTUtZjc1Ni00OWRlLTk3YjEtYTM5Y2QxYmUxYjJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows Juan, an agent working for the intelligence services, who also reports to a parallel unit involved in illegal activities.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Jorge Coira",
+      "Writer": "Jorge Guerricaechevarría",
+      "Actors": "Luis Tosar, Alexandra Masangkay, Georgina Amorós",
+      "Language": "Spanish, English",
+      "Country": "Spain, France"
     },
     {
       "title": "Stowaway",
@@ -3048,6 +3327,23 @@
       "Actors": "Kang-sheng Lee, Wilson Hsu, Vera Chen",
       "Language": "Mandarin, Min Nan",
       "Country": "Taiwan"
+    },
+    {
+      "title": "The Yin-Yang Master: Dream Of Eternity",
+      "netflix_url": "https://www.netflix.com/title/81386963",
+      "year": "2021",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt11454718",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzBhNzQxZDEtMmNhOS00ODg4LWI3ZDUtNmU5MzlmNWFjMGIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Qing Ming, the Yin-Yang Master, took his master's last wish and went to the Captial Tiandu City to attend the heaven ceremony.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "Jingming Guo",
+      "Writer": "Jingming Guo, Baku Yumemakura",
+      "Actors": "Mark Chao, Allen Deng, Ziwen Wang",
+      "Language": "Chinese",
+      "Country": "China"
     },
     {
       "title": "Bird Box Barcelona",
@@ -3305,6 +3601,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "Malbatt: Misi Bakara",
+      "netflix_url": "https://www.netflix.com/title/81440944",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt22024396",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM2ZGZiNmQtNmQxMy00YWRjLWE2ZjYtZjhjMTQ2MGY4ZGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of the 19th Battalion Malay Regiment, which was deployed as part of the United Nations peacekeeping force in 1993, and their mission to rescue the trapped American soldiers following the Black Hawk Down attack.",
+      "Type": "movie",
+      "RunTime": "131 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Adrian Teh",
+      "Writer": "Adrian Teh, Ashraf Modee Zain",
+      "Actors": "Bront Palarae, Shaheizy Sam, Hairul Azreen",
+      "Language": "Malay, English, Somali",
+      "Country": "Malaysia"
+    },
+    {
       "title": "Apollo 13: Survival",
       "netflix_url": "https://www.netflix.com/title/81444292",
       "year": "2024",
@@ -3516,6 +3829,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Kill Boksoon",
+      "netflix_url": "https://www.netflix.com/title/81478985",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt16900880",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjkyOTBlMmItYTFmNS00ZDZkLTk5OTktODEwZWJhOGQ3OTI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A single mother who is a renowned hired killer finds it difficult to achieve a balance between her personal and work life.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Action, Thriller",
+      "Director": "Byun Sung-hyun",
+      "Writer": "Byun Sung-hyun",
+      "Actors": "Lee Jae-wook, Fahim Fazli, Jeon Do-yeon",
+      "Language": "Korean, Japanese",
+      "Country": "South Korea"
+    },
+    {
       "title": "Eloá the Hostage: Live on TV",
       "netflix_url": "https://www.netflix.com/title/81481358",
       "year": "2025",
@@ -3693,6 +4023,23 @@
       "Country": "India, United Kingdom"
     },
     {
+      "title": "iNumber Number: Jozi Gold",
+      "netflix_url": "https://www.netflix.com/title/81516052",
+      "year": "2023",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt27728519",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmJmNjI5ZjItYjE4YS00OTZjLTlkMjYtOGI5N2RmN2I2YzZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When an undercover cop is tasked with investigating a historic gold heist in Johannesburg, he’s forced to choose between his conscience and the law.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Donovan Marsh",
+      "Writer": "Donovan Marsh",
+      "Actors": "Lonwabo Bokamoso, Presley Chweneyagae, Willem Jacobus de Jongh",
+      "Language": "N/A",
+      "Country": "South Africa"
+    },
+    {
       "title": "Hunger",
       "netflix_url": "https://www.netflix.com/title/81517155",
       "year": "2023",
@@ -3812,6 +4159,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "A Day and a Half",
+      "netflix_url": "https://www.netflix.com/title/81564974",
+      "year": "2023",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt20414642",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVkODQyNzMtY2FmZS00NzhhLTlmOTUtZTBjNDJhMjIwZDA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a desperate bid to reunite with his daughter, an armed man bursts into the medical center where his estranged wife works and kidnaps her.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Fares Fares",
+      "Writer": "Fares Fares, Peter Smirnakos",
+      "Actors": "Fares Fares, Annika Hallin, Suanne Braun",
+      "Language": "Swedish",
+      "Country": "Sweden"
+    },
+    {
       "title": "The Getaway King",
       "netflix_url": "https://www.netflix.com/title/81565223",
       "year": "2021",
@@ -3914,6 +4278,23 @@
       "Country": "United States"
     },
     {
+      "title": "Gumraah",
+      "netflix_url": "https://www.netflix.com/title/81595555",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt11905536",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTUyNmJjZDktYTdkMC00MmEyLWE2MzEtYjM5NzcwZTgzOGU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The murder investigation of a young man takes an unexpected turn when the cops discover that the prime suspect has a lookalike.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Vardhan Ketkar",
+      "Writer": "Sunny Mandavarra, Magizh Thirumeni",
+      "Actors": "Aditya Roy Kapoor, Mrunal Thakur, Ronit Roy",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "The Murderer",
       "netflix_url": "https://www.netflix.com/title/81597188",
       "year": "2023",
@@ -3929,6 +4310,13 @@
       "Actors": "Phetthai Vongkumlao, Eisaya Hosuwan, James Laver",
       "Language": "Thai, English",
       "Country": "Thailand"
+    },
+    {
+      "title": "Kalagathalaivan",
+      "netflix_url": "https://www.netflix.com/title/81597751",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Cobweb",
@@ -4065,6 +4453,23 @@
       "Actors": "Chun Woo-hee, Yim Si-wan, Kim Hee-won",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Broken Wings",
+      "netflix_url": "https://www.netflix.com/title/81644088",
+      "year": "2022",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt18938680",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmI2NTM3NGItYTllZi00OWRiLWIyMDItYzVlZDQ3ZGRlYWQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When violence erupts at a detention center, a police officer combats armed prisoners - as his wife goes into labor without him. Inspired by real events.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Drama, Romance",
+      "Director": "Rudy Soedjarwo",
+      "Writer": "Monty Tiwa, Erik Tiwa, Alim Sudio",
+      "Actors": "Nicholas Saputra, Ariel Tatum, Iwa K.",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "VidaaMuyarchi",
@@ -4265,6 +4670,23 @@
       "Country": "United States, Hungary"
     },
     {
+      "title": "She Walks in Darkness",
+      "netflix_url": "https://www.netflix.com/title/81700950",
+      "year": "2025",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt32129665",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI1MGMyMWUtZmRkMC00NTg4LWFlYzYtOWFjZDIyMmJmMmI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young Spanish civil guard goes undercover within ETA, the Basque separatist group, spending over a decade locating their hideouts in the South of France.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama, History, Thriller",
+      "Director": "Agustín Díaz Yanes",
+      "Writer": "Agustín Díaz Yanes",
+      "Actors": "Susana Abaitua, Andrés Gertrúdix, Iraia Elias",
+      "Language": "Spanish, Basque, French",
+      "Country": "Spain"
+    },
+    {
       "title": "Officer Black Belt",
       "netflix_url": "https://www.netflix.com/title/81702144",
       "year": "2024",
@@ -4297,6 +4719,23 @@
       "Actors": "Pooja Hegde, Shahid Kapoor, Meenal Sahu",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Eye of the Storm",
+      "netflix_url": "https://www.netflix.com/title/81707591",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt26686436",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc4ZTNiMzctNTI4Yy00YmU5LTllZTktYzM0Mjg0NzJlYjhkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Right after thoracic surgeon Dr. Xia is called back to treat an emergency patient, an unknown virus outbreak forces the hospital to go into lockdown, trapping Xia, along with hundreds of healthcare providers, patients, and their f...",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Drama",
+      "Director": "Chun-Yang Lin",
+      "Writer": "Ting-Fei Chang",
+      "Actors": "Bo-Chieh Wang, Jing-Hua Tseng, Shih-ling Hsueh",
+      "Language": "Mandarin",
+      "Country": "Taiwan, Hong Kong"
     },
     {
       "title": "iHostage",
@@ -4518,6 +4957,23 @@
       "Actors": "Brittany O'Grady, James Morosini, Gavin Leatherwood",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Wall to Wall",
+      "netflix_url": "https://www.netflix.com/title/81762713",
+      "year": "2025",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt32237537",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y1MjcwMWMtN2IyZi00MGIwLWFiM2YtZjkzZWE1NmJlMGFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Woo-seong, a man who finally saves up enough to buy an apartment, only to have it turn into a nightmare with financial ruin and mysterious noises from neighboring floors.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Kim Tae-joon, Sharon S. Park",
+      "Writer": "Kim Tae-joon",
+      "Actors": "Kang Ha-neul, Yeom Hye-ran, Seo Hyun-woo",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Don't Move",
@@ -4933,6 +5389,23 @@
       "Actors": "Jenna Dalanyi, Douglas Hann",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "Thammudu",
+      "netflix_url": "https://www.netflix.com/title/83072495",
+      "year": "2025",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt0240084",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc3ZjE4NTctZGY1MS00YTM5LTlhYTUtMTQ4YjBhMzAyYjBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An aimless student is banished from his home by his father. When his brother, a boxing champion, gets injured, the student must step up and take his brother's place.",
+      "Type": "movie",
+      "RunTime": "160 min",
+      "Genre": "Action, Drama, Sport",
+      "Director": "P.A. Arun Prasad",
+      "Writer": "Ramana Chintapally, P.A. Arun Prasad",
+      "Actors": "Preeti Jhangiani, Aditi Govitrikar, Achyuth",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Caught Stealing",

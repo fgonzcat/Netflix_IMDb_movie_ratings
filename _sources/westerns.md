@@ -6,7 +6,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7700" target="_blan
 
 | IMDb ⭐ | Poster | Year | Title | IMDb | Netflix |
 |:-------:|:-------:|:-------:|:------|------|---------|
-| 7.8 | <img src="https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg" class="zoom-img" width="120"> | 2015 | <details> <summary><strong style="color:#1f6feb;">*The Hateful Eight*</strong></summary>  <div class="movie-plot">In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.</div> </details> | <a href="https://www.imdb.com/title/tt3460252/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80064515" target="_blank">Netflix_link</a> |
 | 7.2 | <img src="https://m.media-amazon.com/images/M/MV5BOTc0MzZjYTktYzBlZC00MmViLTgyNDYtNjljNTcxMzdjODRkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*The Ballad of Buster Scruggs*</strong></summary>  <div class="movie-plot">Six tales of life and violence in the Old West, following a singing gunslinger, a bank robber, a traveling impresario, an elderly prospector, a wagon train and a perverse pair of bounty hunters.</div> </details> | <a href="https://www.imdb.com/title/tt6412452/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80200267" target="_blank">Netflix_link</a> |
 | 6.8 | <img src="https://m.media-amazon.com/images/M/MV5BNzgyMzA2NDEtZWUxNy00MDNmLTllMDYtNzZmNTU5ZWVmMzhlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*The Power of the Dog*</strong></summary>  <div class="movie-plot">Charismatic rancher Phil Burbank inspires fear and awe in those around him. When his brother brings home a new wife and her son, Phil torments them until he finds himself exposed to the possibility of love.</div> </details> | <a href="https://www.imdb.com/title/tt10293406/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81127997" target="_blank">Netflix_link</a> |
 | 6.7 | <img src="https://m.media-amazon.com/images/M/MV5BYzY5ZjRhNDgtZjNmYS00NGNhLWJhYWMtNDg3YjZlNTlkNjMzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Redeeming Love*</strong></summary>  <div class="movie-plot">Sold into prostitution as a child, Angel knows nothing but betrayal. Can her heart ever be mended? Based upon the novel by Francine Rivers.</div> </details> | <a href="https://www.imdb.com/title/tt11365186/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81522433" target="_blank">Netflix_link</a> |
@@ -58,6 +57,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7700" target="_blan
 
  
 ---
-*Page last updated on: 2026-01-26*
+*Page last updated on: 2026-01-29*
 
  

@@ -104,7 +104,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7442" target="_blan
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Kalki 2898 AD (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81726031" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Rebel Moon — Part Two: Director’s Cut*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81746591" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNTc0NzA4M2UtNzBlMi00MDU4LWE4MDMtM2NmOTJkOTMyYjdmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Azaad*</strong></summary>  <div class="movie-plot">Azaad is an upcoming movie set in 1920s India, produced by RSVP and Guy In The Sky Pictures. Directed by Abhishek Kapoor, the film stars Ajay Devgn, Aaman Devgan, Rasha Thadani, Diana Penty, Mohit Malik, and Piyush Mishra. A young...</div> </details> | <a href="https://www.imdb.com/title/tt26439870/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81977810" target="_blank">Netflix_link</a> |
-| N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Thugs of Hindostan (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82062358" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Thugs of Hindostaan (Telugu)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82062373" target="_blank">Netflix_link</a> |
 | N/A |  | 1975 | <details> <summary><strong style="color:#1f6feb;">*Rooster Cogburn (...and the Lady)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/919537" target="_blank">Netflix_link</a> |
 
@@ -145,6 +144,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7442" target="_blan
 
  
 ---
-*Page last updated on: 2026-01-26*
+*Page last updated on: 2026-01-29*
 
  

@@ -874,6 +874,23 @@
       "imdb_id": null
     },
     {
+      "title": "Let It Snow",
+      "netflix_url": "https://www.netflix.com/title/80201542",
+      "year": "2019",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt1950235",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGRmNjFlZjAtYzNjOC00ZDBjLWFmODctZGE0OTYwNGMxYjRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a small town on Christmas Eve, a snowstorm brings together a group of young people.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Luke Snellin",
+      "Writer": "Laura Solon, Victoria Strouse, Kay Cannon",
+      "Actors": "Isabela Merced, Shameik Moore, Odeya Rush",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Always Be My Maybe",
       "netflix_url": "https://www.netflix.com/title/80202874",
       "year": "2019",

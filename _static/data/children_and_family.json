@@ -357,6 +357,13 @@
       "imdb_id": null
     },
     {
+      "title": "A Holiday Engagement",
+      "netflix_url": "https://www.netflix.com/title/70209267",
+      "year": "2011",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Despicable Me 2",
       "netflix_url": "https://www.netflix.com/title/70264803",
       "year": "2013",
@@ -440,6 +447,23 @@
       "Actors": "Jesse Eisenberg, Anne Hathaway, Jemaine Clement",
       "Language": "English, Portuguese",
       "Country": "United States, Iraq, Canada"
+    },
+    {
+      "title": "Silent",
+      "netflix_url": "https://www.netflix.com/title/70304298",
+      "year": "2014",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt3583608",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQxNDE3MTk4NV5BMl5BanBnXkFtZTgwMzQzOTczMTE@._V1_SX300.jpg",
+      "Plot": "Two street performers dream of bringing their 'Picture and Sound Show'to life. When they discover a magical contraption inside an old theatre, they embark on a cinematic adventure of sight and sound, traveling through movie histor...",
+      "Type": "movie",
+      "RunTime": "3 min",
+      "Genre": "Animation, Short, Adventure",
+      "Director": "Limbert Fabian, Brandon Oldenburg",
+      "Writer": "Limbert Fabian, William Joyce, Brandon Oldenburg",
+      "Actors": "N/A",
+      "Language": "None",
+      "Country": "United States"
     },
     {
       "title": "Annie",
@@ -1187,6 +1211,23 @@
       "Country": "Australia"
     },
     {
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "netflix_url": "https://www.netflix.com/title/80242602",
+      "year": "2019",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt6193408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg2MDJmYmYtYzc2MC00MzEyLTg3MmQtMDU4Mjc4MzdlM2VjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When an alien with amazing powers crash-lands near Mossy Bottom Farm, Shaun the Sheep goes on a mission to shepherd the intergalactic visitor home before a sinister organization can capture her.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Will Becher, Richard Phelan",
+      "Writer": "Mark Burton, Jon Brown, Richard Starzak",
+      "Actors": "Justin Fletcher, John Sparkes, Amalia Vitale",
+      "Language": "English",
+      "Country": "United Kingdom, France"
+    },
+    {
       "title": "The Princess Switch",
       "netflix_url": "https://www.netflix.com/title/80242926",
       "year": "2018",
@@ -1602,6 +1643,23 @@
       "Country": "United States, Mexico, China, India"
     },
     {
+      "title": "A Trash Truck Christmas",
+      "netflix_url": "https://www.netflix.com/title/81010807",
+      "year": "2020",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt13458584",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGU5MTA4MmMtMjdjNC00ZWY3LTlhNTQtOTE3OWZhZTQxNTkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Santa crash-lands in the junkyard on Christmas Eve, Hank, Trash Truck and their animal friends all have a hand in rescuing the holiday for everyone.",
+      "Type": "movie",
+      "RunTime": "28 min",
+      "Genre": "Animation, Short, Adventure",
+      "Director": "Eddie Rosas, John Kahrs",
+      "Writer": "Max Keane, Angie Sun, Todd Casey",
+      "Actors": "Henry Keane, Glen Keane, Lucas Neff",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "YES DAY",
       "netflix_url": "https://www.netflix.com/title/81011712",
       "year": "2021",
@@ -1983,6 +2041,23 @@
       "Country": "United States"
     },
     {
+      "title": "Hilda and the Mountain King",
+      "netflix_url": "https://www.netflix.com/title/81150180",
+      "year": "2021",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt15777864",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQyOTJiMDUtMGFmZC00NDE2LTk2MGEtNWE1NzA1YmQwYmQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again and save the city of Trolberg.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Andy Coyle",
+      "Writer": "Luke Pearson, Stephanie Simpson, Kurt Mueller",
+      "Actors": "Bella Ramsey, Ameerah Falzon, Oliver Nelson",
+      "Language": "English",
+      "Country": "United Kingdom, United States, Canada"
+    },
+    {
       "title": "Wish Dragon",
       "netflix_url": "https://www.netflix.com/title/81153694",
       "year": "2021",
@@ -2340,6 +2415,23 @@
       "Country": "United States"
     },
     {
+      "title": "Chip and Potato: Chip’s Holiday",
+      "netflix_url": "https://www.netflix.com/title/81236197",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt20754622",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTgwZGEyYWMtNzkyOS00OTBiLTkyZDgtMWQzNjZlM2JlYWFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Falling coconuts are putting a damper on Chip and Potato's pugtastic vacation; with the help of a friendly tamarin and a new friend, they hatch a plan to get a puggy good sleep.",
+      "Type": "movie",
+      "RunTime": "24 min",
+      "Genre": "Animation, Family",
+      "Director": "Joel Dickie, Matt Ferguson, Dallas Parker",
+      "Writer": "Allison Craig, Maddy Darrall, Lesley Jenner",
+      "Actors": "Briana Buckmaster, Brian Dobson, Chance Hurstfield",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
       "title": "Fearless",
       "netflix_url": "https://www.netflix.com/title/81252403",
       "year": "2020",
@@ -2379,6 +2471,23 @@
       "Actors": "Nicholas Corda, Sylvana Joyce, Alyson Leigh Rosenfeld",
       "Language": "English",
       "Country": "Russia, United States, Cyprus"
+    },
+    {
+      "title": "A Whisker Away",
+      "netflix_url": "https://www.netflix.com/title/81281872",
+      "year": "2020",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt11958344",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjEyNGY0MTYtYjE4ZC00MDI1LWJmNjgtMzA2MjhhOGY2ZDhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Miyo Sasaki is in love with her classmate Kento Hinode and tries repeatedly to get Kento's attention by transforming into a cat, but at some point, the boundary between herself and the cat becomes ambiguous.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Animation, Adventure, Drama",
+      "Director": "Jun'ichi Satô, Tomotaka Shibayama",
+      "Writer": "Mari Okada",
+      "Actors": "Mirai Shida, Natsuki Hanae, Minako Kotobuki",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Skater Girl",
@@ -2626,6 +2735,23 @@
       "Country": "Australia"
     },
     {
+      "title": "Pinkfong & Baby Shark's Space Adventure",
+      "netflix_url": "https://www.netflix.com/title/81362788",
+      "year": "2019",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt11727004",
+      "Poster": "https://occ-0-1339-1340.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXBgNVb3yPWqEhos6-MWZL3F4zboU7ENgdlfpsb85dsrLxDpb7Hxbq6jqL95Lo7uXDrG-_JXTyjE35qjT51ZCWuNlQ_7UYM-qqie.jpg?r=b70",
+      "Plot": "Follow PinkFong and Baby Shark's space journey as they visit mysterious planets to help find the special star for PinkFong.",
+      "Type": "movie",
+      "RunTime": "66 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "Byeon Hee-sun, Jinyoung Jung, Nayoon Kim",
+      "Writer": "N/A",
+      "Actors": "Jo Kyoung-i, Colleen O'Shaughnessey, Connor Andrade",
+      "Language": "Korean, English",
+      "Country": "South Korea, United States"
+    },
+    {
       "title": "Firedrake the Silver Dragon",
       "netflix_url": "https://www.netflix.com/title/81370442",
       "year": "2021",
@@ -2699,6 +2825,23 @@
       "Actors": "Guillaume Canet, Gilles Lellouche, Vincent Cassel",
       "Language": "French",
       "Country": "France, Belgium, United States"
+    },
+    {
+      "title": "Kleks Academy",
+      "netflix_url": "https://www.netflix.com/title/81399299",
+      "year": "2024",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt20857676",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTI2YmU3NWYtMTljZC00ZWJmLTlmNzUtNWViYWQwMjkyYTQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Teenage girl Ada ends up in mysterious Kleks Academy where crossing to the world of fairy tales and reaching boundaries of imagination is possible. She also discovers a way to find out her most hidden family secret.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Fantasy",
+      "Director": "Maciej Kawulski",
+      "Writer": "Jan Brzechwa, Krzysztof Gureczny, Agnieszka Kruk",
+      "Actors": "Tomasz Kot, Antonina Litwiniak, Piotr Fronczewski",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "The Mitchells vs. The Machines",
@@ -2818,6 +2961,23 @@
       "Actors": "Bakarhythm, Brian Beacock, Johnny Yong Bosch",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Heart Parade",
+      "netflix_url": "https://www.netflix.com/title/81452638",
+      "year": "2022",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt20597408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1ZWI3NjYtNTlkNy00OWRmLWI2MjEtYmJkN2QwNmQxZDE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A careerist from Warsaw, who does not like dogs, has to go to Kraków for professional reasons, where she meets a charming widower, his son and their four-legged pet.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Filip Zylber",
+      "Writer": "Wiktor Piatkowski, Natalia Matuszek, Marianna Pochron",
+      "Actors": "Anna Próchniak, Michal Czernecki, Iwo Rajski",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Chickenhare and the Hamster of Darkness",
