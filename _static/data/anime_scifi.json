@@ -41,23 +41,22 @@
       "netflix_url": "https://www.netflix.com/title/80018959",
       "year": "2006",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "TIGER & BUNNY",
       "netflix_url": "https://www.netflix.com/title/80039972",
       "year": "2022",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt12076822",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFlM2E0YjUtY2M1YS00YTI5LWExOTEtMmYzOGE3MDU0OTYzXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_SX300.jpg",
-      "Plot": "Another entry in the Tiger and Bunny franchise, about the reality show star superheroes of a major city. Follows Tiger and Bunny: The Rising (2014).",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt2061527",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzNjMGRhMzktM2M3Zi00NTVlLTk1NDYtYzRlZDM2YzAxOTc5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a world where superheroes have corporate sponsors and are the stars of their own reality TV show, a new superhero team is born as the veteran hero Wild Tiger is assigned to be partners with rookie Barnaby Brooks Jr.",
       "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Animation",
+      "RunTime": "1 min",
+      "Genre": "Animation, Action, Adventure",
       "Director": "N/A",
       "Writer": "N/A",
-      "Actors": "Masakazu Morita, Hiroaki Hirata",
+      "Actors": "Hiroaki Hirata, Masakazu Morita, Wally Wingert",
       "Language": "Japanese",
       "Country": "Japan"
     },
@@ -320,17 +319,17 @@
       "title": "Ultraman",
       "netflix_url": "https://www.netflix.com/title/80231373",
       "year": "2023",
-      "imdb_rating": "8.1",
-      "imdb_id": "tt27560594",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmIwNmUyOGQtNjQzOS00MDMwLThlOTMtOTE3ODUxNTkwMThlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The Global Guardian Force deals with extraterrestrial attacks on Earth. Gento leads SKaRD, using robot Earth Garon against Kaiju. Gento investigates Ultraman, has memories of a blazar.",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt8699270",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY2ZmE3ZWQtMzEzYi00NTJhLTkwZmEtZWFhZTc4OWE5YzA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Shinjiro Hayata learns that his father passed on the \"Ultraman Factor\" to him and fights against evil.",
       "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Action, Adventure, Comedy",
+      "RunTime": "25 min",
+      "Genre": "Animation, Action, Adventure",
       "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Genki Yoshimoto, Tomoya Warabino, Himena Yamada",
-      "Language": "Japanese",
+      "Writer": "Eiichi Shimizu, Tomohiro Shimoguchi, Eiji Tsuburaya",
+      "Actors": "Josh Hutcherson, D.C. Douglas, Tara Sands",
+      "Language": "English, Japanese",
       "Country": "Japan"
     },
     {
@@ -440,8 +439,7 @@
       "netflix_url": "https://www.netflix.com/title/81002438",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "exception",
@@ -539,18 +537,18 @@
       "title": "Dr.STONE",
       "netflix_url": "https://www.netflix.com/title/81046193",
       "year": "2022",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt19607932",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU0NjM5NGUtYWNlZC00NzUyLTg3YzktY2Q5NTliN2EwMjgxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A web series by the channel \"Blind Wave\", who discuss and react to the show \"Dr. Stone\"",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt9679542",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzZkYjM1MWMtNTY3Mi00MTMzLTlhNmQtN2ExZjFkYzdjZmFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "High schooler Taiju awakens from petrification millennia after a blinding light turned humanity to stone. He finds his scientific genius friend Senku working on a plan to rebuild civilization using science.",
       "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Talk-Show",
+      "RunTime": "23 min",
+      "Genre": "Animation, Action, Adventure",
       "Director": "N/A",
       "Writer": "N/A",
-      "Actors": "Eric Whiteley, Aaron Elliott, Calvin Grubb",
-      "Language": "English",
-      "Country": "United States"
+      "Actors": "Yûsuke Kobayashi, Manami Numakura, Karin Takahashi",
+      "Language": "Japanese, English, Portuguese, Spanish, Italian, German, French",
+      "Country": "Japan"
     },
     {
       "title": "SPRIGGAN",
@@ -659,8 +657,7 @@
       "netflix_url": "https://www.netflix.com/title/81171121",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Sonic X",
@@ -888,16 +885,14 @@
       "netflix_url": "https://www.netflix.com/title/81393633",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Transformers: War for Cybertron: Kingdom",
       "netflix_url": "https://www.netflix.com/title/81393636",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Mobile Suit Gundam Hathaway",
@@ -996,8 +991,7 @@
       "netflix_url": "https://www.netflix.com/title/81756595",
       "year": "2026",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     }
   ]
 }

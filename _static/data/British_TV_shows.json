@@ -3,20 +3,11 @@
   "genre_url": "https://www.netflix.com/browse/genre/52117",
   "movies": [
     {
-      "title": "Danger Mouse: Classic Collection",
-      "netflix_url": "https://www.netflix.com/title/70177040",
-      "year": "1992",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Top Boy: Summerhouse",
       "netflix_url": "https://www.netflix.com/title/70236561",
       "year": "2011",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Call the Midwife",
@@ -32,23 +23,6 @@
       "Director": "N/A",
       "Writer": "Heidi Thomas",
       "Actors": "Vanessa Redgrave, Laura Main, Jenny Agutter",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
-      "title": "Derek",
-      "netflix_url": "https://www.netflix.com/title/70258489",
-      "year": "2015",
-      "imdb_rating": "8.1",
-      "imdb_id": "tt2616280",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzZlYmY1NWEtMWRhNy00Y2QyLWI5YjMtYjkzOGY0ZTM3ZTk0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Derek is a loyal nursing home care assistant who sees only the good in his quirky co-workers as they struggle against prejudice and shrinking budgets to care for their elderly residents.",
-      "Type": "series",
-      "RunTime": "23 min",
-      "Genre": "Comedy, Drama",
-      "Director": "N/A",
-      "Writer": "Ricky Gervais",
-      "Actors": "Ricky Gervais, Kerry Godliman, David Earl",
       "Language": "English",
       "Country": "United Kingdom"
     },
@@ -376,38 +350,21 @@
       "Country": "United Kingdom, Germany"
     },
     {
-      "title": "Crashing",
-      "netflix_url": "https://www.netflix.com/title/80133117",
-      "year": "2016",
-      "imdb_rating": "7.6",
-      "imdb_id": "tt5295524",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ0MDFjNWYtMThlNy00Yzk5LWI1MmMtZTdmZjY1MDRiZTZjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A comedy series following the lives of six 20- and 30-somethings living together as property guardians of a large, disused hospital.",
-      "Type": "series",
-      "RunTime": "41S min",
-      "Genre": "Comedy",
-      "Director": "N/A",
-      "Writer": "Phoebe Waller-Bridge",
-      "Actors": "Phoebe Waller-Bridge, Jonathan Bailey, Julie Dray",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
       "title": "Free Rein",
       "netflix_url": "https://www.netflix.com/title/80134695",
       "year": "2019",
-      "imdb_rating": "5.7",
-      "imdb_id": "tt9315418",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjAxY2JkZDItZGRjYy00OWI3LWI4MWItMTk4NmRlNjcyMDdkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "While Bright Fields preps for its Mistletoe Ball, a broken ornament leads Zoe to a family secret, while Gaby finds herself at the mercy of new boss Mia.",
-      "Type": "movie",
-      "RunTime": "56 min",
-      "Genre": "Adventure, Comedy, Drama",
-      "Director": "Marek Losey",
-      "Writer": "Vicki Lutas, Anna McCleery, Kevin Rundle",
-      "Actors": "Jaylen Barron, Billy Angel, Manpreet Bambra",
-      "Language": "N/A",
-      "Country": "N/A"
+      "imdb_rating": "7.1",
+      "imdb_id": "tt6928052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzUxMDc5NjgtMTk5MC00NzJiLTlkYzQtNWZjY2E0ZWViMWUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After befriending a mysterious horse during a summer in the English countryside, 15-year-old Zoe finds the strength to deal with issues she faces.",
+      "Type": "series",
+      "RunTime": "26 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Vicki Lutas, Anna McCleery",
+      "Actors": "Freddy Carter, Jaylen Barron, Manpreet Bambra",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Hitler's Circle of Evil",
@@ -529,6 +486,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Requiem",
+      "netflix_url": "https://www.netflix.com/title/80184068",
+      "year": "2018",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt6712390",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE4NjJkMTUtMWI3OC00MDNlLWI0OTgtZjVhNWY3YWJlZGE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When her mother commits suicide, a cellist's life is turned upside down by mysterious questions raised about her past.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Drama, Fantasy, Mystery",
+      "Director": "N/A",
+      "Writer": "Kris Mrksa",
+      "Actors": "Lydia Wilson, James Frecheville, Sian Reese-Williams",
+      "Language": "English, British Sign , Welsh",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "The Innocents",
       "netflix_url": "https://www.netflix.com/title/80184405",
       "year": "2018",
@@ -580,23 +554,6 @@
       "Country": "United Kingdom"
     },
     {
-      "title": "Jack Whitehall: Travels with My Father",
-      "netflix_url": "https://www.netflix.com/title/80186848",
-      "year": "2021",
-      "imdb_rating": "7.6",
-      "imdb_id": "tt7453996",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzYwNzgwNDk2M15BMl5BanBnXkFtZTgwNzIyNTIzNjM@._V1_SX300.jpg",
-      "Plot": "Follows Jack Whitehall as he embarks on the trip of a lifetime with his father, Michael. The two set off on a journey across South East Asia to partake in a series of adventures, mishaps and escapades with two very different persp...",
-      "Type": "series",
-      "RunTime": "30 min",
-      "Genre": "Documentary, Comedy",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Jack Whitehall, Michael Whitehall, Hilary Whitehall",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
       "title": "Giri / Haji",
       "netflix_url": "https://www.netflix.com/title/80190519",
       "year": "2019",
@@ -611,23 +568,6 @@
       "Writer": "N/A",
       "Actors": "Takehiro Hira, Kelly Macdonald, Yôsuke Kubozuka",
       "Language": "English, Japanese",
-      "Country": "United Kingdom"
-    },
-    {
-      "title": "White Gold",
-      "netflix_url": "https://www.netflix.com/title/80191680",
-      "year": "2019",
-      "imdb_rating": "7.3",
-      "imdb_id": "tt6010920",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxZGU5MGItYmQ0Yy00MGIwLWJhNjYtMDRjOGUzZWY4ZDlmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The story of a double-glazing showroom in Essex in 1983, led by charismatic salesman Vincent who will happily break the rules if it guarantees a sale.",
-      "Type": "series",
-      "RunTime": "31S min",
-      "Genre": "Comedy",
-      "Director": "N/A",
-      "Writer": "Damon Beesley",
-      "Actors": "Ed Westwick, James Buckley, Joe Thomas",
-      "Language": "English",
       "Country": "United Kingdom"
     },
     {
@@ -753,18 +693,18 @@
       "title": "I AM A KILLER",
       "netflix_url": "https://www.netflix.com/title/80202283",
       "year": "2025",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt4303340",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBhMzEyNTYtZjk5Yy00ZTljLWFkNDEtM2ZiYjllN2Q1MTRiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In a small Midwestern town, a troubled teen with homicidal tendencies must hunt down and destroy a supernatural killer while keeping his own inner demons at bay.",
-      "Type": "movie",
-      "RunTime": "104 min",
-      "Genre": "Crime, Drama, Horror",
-      "Director": "Billy O'Brien",
-      "Writer": "Billy O'Brien, Christopher Hyde, Dan Wells",
-      "Actors": "Max Records, Christopher Lloyd, Laura Fraser",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt8300324",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ViMTdkOTUtYTk4Zi00MWFiLWFhNzktNWIzODI4MWNmNTZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows incarcerated killers, who tell the story of how they ended up there.",
+      "Type": "series",
+      "RunTime": "3 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Swaylee Loughnane, Reece Alexander-Putinas, David Galea",
       "Language": "English",
-      "Country": "Ireland, United States, United Kingdom"
+      "Country": "United Kingdom"
     },
     {
       "title": "Formula 1: Drive to Survive",
@@ -867,40 +807,6 @@
       "Actors": "Toni Collette, Steven Mackintosh, Joe Hurst",
       "Language": "English",
       "Country": "United Kingdom"
-    },
-    {
-      "title": "James Acaster: Repertoire",
-      "netflix_url": "https://www.netflix.com/title/80213803",
-      "year": "2018",
-      "imdb_rating": "8.4",
-      "imdb_id": "tt7818686",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzFjOTJlZDEtY2NmMC00YzY2LWExMTgtZWRmNmE3MGM2ODNkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "James Acaster presents four interwoven stand-up comedy specials.",
-      "Type": "series",
-      "RunTime": "205 min",
-      "Genre": "Comedy",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "James Acaster, Stuart Laws, Pat Cahill",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
-      "title": "Creeped Out",
-      "netflix_url": "https://www.netflix.com/title/80214792",
-      "year": "2019",
-      "imdb_rating": "6.6",
-      "imdb_id": "tt7573024",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNGY0NzQtMjUwNy00YTAzLWE2MjYtY2YxZTJhZDExZDRiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Creeped Out is a series of spellbinding, enchanting, intriguing tales. Each episode is a different story set in a different place and time, with different characters exploring their way through the unexplained.",
-      "Type": "series",
-      "RunTime": "30 min",
-      "Genre": "Action, Adventure, Crime",
-      "Director": "N/A",
-      "Writer": "Bede Blake, Robert Butler",
-      "Actors": "Victoria Diamond, William Romain, Jaiden Cannatelli",
-      "Language": "English",
-      "Country": "United Kingdom, Canada"
     },
     {
       "title": "Criminal: UK",
@@ -1086,23 +992,6 @@
       "Director": "N/A",
       "Writer": "Jed Mercurio",
       "Actors": "Richard Madden, Sophie Rundle, Vincent Franklin",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
-      "title": "Feel Good",
-      "netflix_url": "https://www.netflix.com/title/80241545",
-      "year": "2021",
-      "imdb_rating": "7.5",
-      "imdb_id": "tt10098620",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmUyNjc4ZTYtMDA0ZC00NjJhLWJiNTctODFjOGEzYjUxOTIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The series follows recovering addict and comedian Mae, who is trying to control the addictive behaviors and intense romanticism that permeate every facet of their life.",
-      "Type": "series",
-      "RunTime": "1 min",
-      "Genre": "Comedy, Drama, Romance",
-      "Director": "N/A",
-      "Writer": "Joe Hampson, Mae Martin",
-      "Actors": "Mae Martin, Charlotte Ritchie, Phil Burgers",
       "Language": "English",
       "Country": "United Kingdom"
     },
@@ -1328,31 +1217,6 @@
       "Country": "United Kingdom"
     },
     {
-      "title": "Free Rein: The Twelve Neighs of Christmas",
-      "netflix_url": "https://www.netflix.com/title/81001412",
-      "year": "2018",
-      "imdb_rating": "5.7",
-      "imdb_id": "tt9315418",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjAxY2JkZDItZGRjYy00OWI3LWI4MWItMTk4NmRlNjcyMDdkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "While Bright Fields preps for its Mistletoe Ball, a broken ornament leads Zoe to a family secret, while Gaby finds herself at the mercy of new boss Mia.",
-      "Type": "movie",
-      "RunTime": "56 min",
-      "Genre": "Adventure, Comedy, Drama",
-      "Director": "Marek Losey",
-      "Writer": "Vicki Lutas, Anna McCleery, Kevin Rundle",
-      "Actors": "Jaylen Barron, Billy Angel, Manpreet Bambra",
-      "Language": "N/A",
-      "Country": "N/A"
-    },
-    {
-      "title": "Free Rein: Valentine's Day",
-      "netflix_url": "https://www.netflix.com/title/81001413",
-      "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "The Ripper",
       "netflix_url": "https://www.netflix.com/title/81006684",
       "year": "2020",
@@ -1408,25 +1272,7 @@
       "netflix_url": "https://www.netflix.com/title/81036559",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "The Last Bus",
-      "netflix_url": "https://www.netflix.com/title/81037539",
-      "year": "2022",
-      "imdb_rating": "5.3",
-      "imdb_id": "tt12885670",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODdiNjk2OTAtNTE0Yi00YmU0LThkYmYtMWU0MzdmMTdiYTQzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A group of mismatched school kids band together to face a fearsome new machine intelligence.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Adventure, Comedy, Drama",
-      "Director": "N/A",
-      "Writer": "Paul Neafcy, Jess Cleverly, Sarah Mattingley",
-      "Actors": "Moosa Mostafa, Lauryn Ajufo, Phoebe De Silva",
-      "Language": "English",
-      "Country": "United Kingdom"
+      "imdb_id": null
     },
     {
       "title": "The Big Flower Fight",
@@ -1511,23 +1357,6 @@
       "Writer": "N/A",
       "Actors": "David Attenborough, Regis Passera, Mark Smith",
       "Language": "English, Russian, Spanish",
-      "Country": "United Kingdom"
-    },
-    {
-      "title": "Sue Perkins: Perfectly Legal",
-      "netflix_url": "https://www.netflix.com/title/81087300",
-      "year": "2022",
-      "imdb_rating": "6.8",
-      "imdb_id": "tt22171778",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWMzZWY1NzAtNDI0Ni00NTYwLWFlZmQtZjVmZmE4YmI0NDg3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Sue Perkins confronts middle age by experiencing Latin American countries in adventurous, shockingly legal and sometimes dangerous ways.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Documentary",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Sue Perkins",
-      "Language": "English, Spanish",
       "Country": "United Kingdom"
     },
     {
@@ -1616,6 +1445,23 @@
       "Country": "United Kingdom, Italy"
     },
     {
+      "title": "LEGO City",
+      "netflix_url": "https://www.netflix.com/title/81121910",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt10332322",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzYWQ5YzAtZTc5Ni00ZjAzLTkxMTItM2NmYjhkOTYzZGQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Welcome to LEGO City. A modern metropolis filled with the fiercest firefighters, the cream of the crop cops, and so many BLOCKHEADS. Every citizen will assemble together for the most awesomely awesome adventures.",
+      "Type": "series",
+      "RunTime": "22 min",
+      "Genre": "Animation, Short, Action",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Gabriella Graves, Jack Fisher, Joe Zieja",
+      "Language": "English",
+      "Country": "United States, France, Denmark, United Kingdom"
+    },
+    {
       "title": "Dance 100",
       "netflix_url": "https://www.netflix.com/title/81127121",
       "year": "2023",
@@ -1629,23 +1475,6 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Liam Lunniss, Erica Stubbs, Keenan Cooks",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
-      "title": "Hard Cell",
-      "netflix_url": "https://www.netflix.com/title/81127330",
-      "year": "2022",
-      "imdb_rating": "6.4",
-      "imdb_id": "tt14959710",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM3MzA4YTEtMjAyOS00ZTNjLWI3YWYtMjU4NjVjZGRhMjE0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary crew follows the inmates and staff of HMP Woldsley while Catherine Tate portrays multiple characters to capture the penal system at its brutal humorous best.",
-      "Type": "series",
-      "RunTime": "1 min",
-      "Genre": "Comedy",
-      "Director": "N/A",
-      "Writer": "Catherine Tate",
-      "Actors": "Catherine Tate, Niky Wardley, Donna Preston",
       "Language": "English",
       "Country": "United Kingdom"
     },
@@ -1665,23 +1494,6 @@
       "Actors": "Ceallach Spellman, Nina Barker-Francis, Paterson Joseph",
       "Language": "English",
       "Country": "United Kingdom"
-    },
-    {
-      "title": "Big Tree City",
-      "netflix_url": "https://www.netflix.com/title/81135649",
-      "year": "2022",
-      "imdb_rating": "8.0",
-      "imdb_id": "tt15527362",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjhmNmZjYzUtNjc1Ny00NmQwLTk5NWItZTZiNDU4YmUyMzgyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows Major Prickles and his overzealous team, as they try to save the citizens of Big Tree City.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Joseph Balderrama, Lucy Capri, Mark Benton",
-      "Language": "English, Ukrainian",
-      "Country": "United States"
     },
     {
       "title": "Our Living World",
@@ -1790,8 +1602,7 @@
       "netflix_url": "https://www.netflix.com/title/81185359",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Shaun the Sheep: Adventures from Mossy Bottom",
@@ -1860,23 +1671,6 @@
       "Actors": "Richard Gadd, Jessica Gunning, Nava Mau",
       "Language": "English",
       "Country": "United Kingdom, United States"
-    },
-    {
-      "title": "Man Vs Bee",
-      "netflix_url": "https://www.netflix.com/title/81222715",
-      "year": "2022",
-      "imdb_rating": "6.7",
-      "imdb_id": "tt13640670",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzIxMmU0MzktZGQ3ZS00NDQ4LWFmMDctZjg4OWRmYzZiYzhlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A man finds himself at war with a bee while housesitting a luxurious mansion. Who will win, and what irreparable damage will be done in the process?",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Short, Comedy, Family",
-      "Director": "N/A",
-      "Writer": "Rowan Atkinson, William Davies",
-      "Actors": "Rowan Atkinson, Claudie Blakley, Jing Lusi",
-      "Language": "English, Persian",
-      "Country": "United Kingdom"
     },
     {
       "title": "Beckham",
@@ -1951,8 +1745,7 @@
       "netflix_url": "https://www.netflix.com/title/81258637",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Missing You",
@@ -1985,23 +1778,6 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Shea Foster, Linda C. Okoli, Taylor Brielle Olympios",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
-      "title": "Numberblocks",
-      "netflix_url": "https://www.netflix.com/title/81272431",
-      "year": "2021",
-      "imdb_rating": "8.6",
-      "imdb_id": "tt7978538",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ2MTZlNjgtNDEyNS00ZTU5LWJlZTEtYWZiMGQ5NjFiN2ExXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Learning numbers and how to count with colourful personified blocks, each with their own quirks.",
-      "Type": "series",
-      "RunTime": "5 min",
-      "Genre": "Animation, Adventure, Family",
-      "Director": "N/A",
-      "Writer": "Joe Elliot",
-      "Actors": "Beth Chalmers, Marcel McCalla, Teresa Gallagher",
       "Language": "English",
       "Country": "United Kingdom"
     },
@@ -2055,23 +1831,6 @@
       "Actors": "Rob Delaney, Bella Glanville, James Leon",
       "Language": "English",
       "Country": "United Kingdom"
-    },
-    {
-      "title": "Bad Dinosaurs",
-      "netflix_url": "https://www.netflix.com/title/81301887",
-      "year": "2024",
-      "imdb_rating": "6.7",
-      "imdb_id": "tt20917538",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGJlY2M5MWEtYTEyNi00MThiLWI3NjQtNjIxODRiN2QyMjdlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the hilarious shenanigans of a Tyrannosaurus family as they deal with the trials of life in the prehistoric wilderness, while surrounded by incompetent dinosaurs.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Animation, Adventure, Comedy",
-      "Director": "N/A",
-      "Writer": "David Shute, Joel Veitch",
-      "Actors": "Talullah Veitch, Adam Diggle, Josie Long",
-      "Language": "English",
-      "Country": "United Kingdom, Spain"
     },
     {
       "title": "World War II: From the Frontlines",
@@ -2346,23 +2105,6 @@
       "Country": "United Kingdom"
     },
     {
-      "title": "Russell Howard: Lubricant",
-      "netflix_url": "https://www.netflix.com/title/81435750",
-      "year": "2021",
-      "imdb_rating": "7.2",
-      "imdb_id": "tt16146342",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjQxYmI4YjItMjAyZS00ODdhLWI4NGItNzE4MmMyMWJhMGRjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Until the Wheels Come Off is the story of a comedy obsession persevering through the grip of a global pandemic.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Comedy",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Russell Howard, John Oliver, Will Hodgson",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
       "title": "Everything Now",
       "netflix_url": "https://www.netflix.com/title/81437049",
       "year": "2023",
@@ -2395,23 +2137,6 @@
       "Actors": "Theo James, Kaya Scodelario, Daniel Ings",
       "Language": "English",
       "Country": "United Kingdom, United States"
-    },
-    {
-      "title": "Romesh Ranganathan: The Cynic",
-      "netflix_url": "https://www.netflix.com/title/81472368",
-      "year": "2023",
-      "imdb_rating": "6.7",
-      "imdb_id": "tt23157336",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGZkYmEzNGItZjQwZi00YmQ2LWEwZjMtZjZjZWE3ZGNkMDU1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Going back to his hometown of Crawley, England, Romesh Ranganathan will talk about vegan-ism, his kids - and offers a peek into the making of his comedy special.",
-      "Type": "movie",
-      "RunTime": "62 min",
-      "Genre": "Comedy",
-      "Director": "Benjamin Green",
-      "Writer": "N/A",
-      "Actors": "Romesh Ranganathan",
-      "Language": "English",
-      "Country": "United Kingdom"
     },
     {
       "title": "Who is Erin Carter?",
@@ -2499,23 +2224,6 @@
       "Country": "United Kingdom"
     },
     {
-      "title": "When Missing Turns to Murder",
-      "netflix_url": "https://www.netflix.com/title/81497521",
-      "year": "2023",
-      "imdb_rating": "6.9",
-      "imdb_id": "tt11165808",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2M0NTYyNmEtOTBiMy00MzUwLWJjNWMtNmVmYzUxMmI4Y2Q2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "British true crime documentary series using powerful and emotional testimony from families and friends when a missing persons enquiry turns into a murder investigation.",
-      "Type": "series",
-      "RunTime": "60 min",
-      "Genre": "Documentary, Crime",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Shaun Dooley, David Swindle, Ed Mayo",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
       "title": "My Lover My Killer",
       "netflix_url": "https://www.netflix.com/title/81497580",
       "year": "2022",
@@ -2530,6 +2238,23 @@
       "Writer": "N/A",
       "Actors": "Will Hanrahan, Roberta Babb, Jill Barr",
       "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
+      "title": "Blood, Sex & Royalty",
+      "netflix_url": "https://www.netflix.com/title/81498384",
+      "year": "2022",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt23061466",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc4YjFhM2EtY2IxMi00MzhmLWEwMWYtMGJiMThjODMyNzgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A modern take on the British royal drama, offering a window into the lives of history's deadliest, sexiest and most iconic monarchs.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography, Drama, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Amy James-Kelly, Max Parker, Adam Astill",
+      "Language": "English, Ukrainian",
       "Country": "United Kingdom"
     },
     {
@@ -2639,17 +2364,17 @@
       "netflix_url": "https://www.netflix.com/title/81569920",
       "year": "2024",
       "imdb_rating": "7.3",
-      "imdb_id": "tt0102685",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTI3YzY3N2MtODI1OC00NmU0LThlMDYtNmFjMGFkNzhhNTRlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers.",
-      "Type": "movie",
-      "RunTime": "122 min",
-      "Genre": "Action, Crime, Thriller",
-      "Director": "Kathryn Bigelow",
-      "Writer": "Rick King, W. Peter Iliff",
-      "Actors": "Patrick Swayze, Keanu Reeves, Gary Busey",
+      "imdb_id": "tt17048442",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ5ODVhMWItNWY0OS00Mzc4LWIyZjMtYWRiZDMwOGFjOWVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows men's and women's pro tennis players throughout four Grand Slam tournaments.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Courtney Nguyen, Nick Kyrgios, Ajla Tomljanovic",
       "Language": "English",
-      "Country": "United States, Japan"
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Secret World of Sound with David Attenborough",
@@ -2667,23 +2392,6 @@
       "Actors": "David Attenborough",
       "Language": "English",
       "Country": "United Kingdom"
-    },
-    {
-      "title": "The Rats: A Witcher Tale",
-      "netflix_url": "https://www.netflix.com/title/81572393",
-      "year": "2025",
-      "imdb_rating": "4.8",
-      "imdb_id": "tt28283547",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2VjNmE3ZTctZjAyNS00Yjk0LTg3NGYtNDMwNzIwN2JiNWJjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows a group of thieves as they plan the biggest heist of their lives against the most dangerous crime ring in the kingdom.",
-      "Type": "movie",
-      "RunTime": "80 min",
-      "Genre": "Action, Fantasy",
-      "Director": "Mairzee Almas",
-      "Writer": "Haily Hall, Lauren Schmidt Hissrich",
-      "Actors": "Christelle Elwin, Ben Radcliffe, Fabian McCallum",
-      "Language": "English",
-      "Country": "United States"
     },
     {
       "title": "Don't Pick Up the Phone",
@@ -2716,6 +2424,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Rasa Bagdonaviciute, Juliana Ardenius, Daniel Daggers",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
+      "title": "Captains",
+      "netflix_url": "https://www.netflix.com/title/81580687",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt23019922",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk2MWM5MzEtYWVmYi00NDgzLTgwYjItNDczODE4NzhjYzE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "From heartbreak to triumph, this series follows six football captains and their teams as they vie for a qualifying spot in the 2022 FIFA World Cup.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Pierre-Emerick Aubameyang, Luka Modric, Thiago Silva",
       "Language": "English",
       "Country": "United Kingdom"
     },
@@ -2826,8 +2551,7 @@
       "netflix_url": "https://www.netflix.com/title/81613670",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "At Home With The Furys",
@@ -2932,6 +2656,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Six Nations: Full Contact",
+      "netflix_url": "https://www.netflix.com/title/81647358",
+      "year": "2025",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt26218826",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU2NzQxZGEtNDZkOC00YjdiLWI1M2QtYjY1ZDQzMDkyZWEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Round by round, match by match, the best rugby teams in Europe battle it out to take home the trophy in the 2023 Six Nations Championship.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ugo Monye, Finn Russell, Gregor Townsend",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "The Man with 1000 Kids",
       "netflix_url": "https://www.netflix.com/title/81653509",
       "year": "2024",
@@ -2981,23 +2722,6 @@
       "Actors": "Carol Rainey, Linda Napolitano, Peter Robbins",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Too Much",
-      "netflix_url": "https://www.netflix.com/title/81671844",
-      "year": "2025",
-      "imdb_rating": "6.3",
-      "imdb_id": "tt30406366",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOThkZGJjM2ItZDI5ZS00Yjc4LTk1YzQtZGM3ZDNhMTUyOTMyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After a breakup, New York workaholic Jessica moves to London planning on being alone. She meets Felix who causes her to reconsider finding love again.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Comedy, Romance",
-      "Director": "N/A",
-      "Writer": "Lena Dunham, Luis Felber",
-      "Actors": "Megan Stalter, Will Sharpe, Michael Zegen",
-      "Language": "English",
-      "Country": "United Kingdom, United States"
     },
     {
       "title": "Love Is Blind: UK",
@@ -3174,8 +2898,7 @@
       "netflix_url": "https://www.netflix.com/title/81707030",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Attack on London: Hunting The 7/7 Bombers",
@@ -3256,6 +2979,23 @@
       "Type": "series",
       "RunTime": "N/A",
       "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
+      "title": "Together: Treble Winners",
+      "netflix_url": "https://www.netflix.com/title/81733186",
+      "year": "2024",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt31579076",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWFlN2U5YjctMzg1YS00OWU4LWJhOGUtYTVlOWM0NjgwMzZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows the chronicling of Manchester City's 2022-2023 season, following the team through preseason, new player arrivals, and their journey to a historic treble.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "N/A",
@@ -3380,6 +3120,23 @@
       "Actors": "Emma Myers, Zain Iqbal, Jude Morgan-Collie",
       "Language": "English",
       "Country": "United Kingdom, Germany"
+    },
+    {
+      "title": "Take That",
+      "netflix_url": "https://www.netflix.com/title/81901625",
+      "year": "2026",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt1763289",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjZlOWNlOTgtNjI4ZC00MWZhLThkNjktNGQ4NjYxNmUyMTRjXkEyXkFqcGdeQXVyNDE4NzM2MTI@._V1_SX300.jpg",
+      "Plot": "A documentary telling the story of the newly reformed Take That. Global mega star 'Robbie Williams' rejoins his former band mates for the first time in over 15 years to record Take That's sixth studio album 'Progress'. 'Look Back,...",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Documentary",
+      "Director": "Nick Davies, Fred Scott",
+      "Writer": "N/A",
+      "Actors": "Gary Barlow, Howard Donald, Jason Orange",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Man Vs Baby",

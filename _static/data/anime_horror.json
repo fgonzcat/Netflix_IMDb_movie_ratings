@@ -40,18 +40,18 @@
       "title": "Castlevania",
       "netflix_url": "https://www.netflix.com/title/80095241",
       "year": "2021",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15562720",
-      "Poster": "N/A",
-      "Plot": "Castlevania, the Machinima, is based on the popular video game franchise from Konami. Tracking the adventures of vampire hunter; Richter Belmont and his dreaded battle with the Lord of Darkness, Dracula.",
-      "Type": "movie",
-      "RunTime": "32 min",
-      "Genre": "Animation, Short, Action",
-      "Director": "Brennan Jarvis",
-      "Writer": "Brennan Jarvis",
-      "Actors": "N/A",
-      "Language": "English",
-      "Country": "Australia"
+      "imdb_rating": "8.3",
+      "imdb_id": "tt6517102",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzMjU2MjYzMl5BMl5BanBnXkFtZTgwNTQ4Nzk1NjM@._V1_SX300.jpg",
+      "Plot": "A vampire hunter fights to save a besieged city from an army of otherworldly creatures controlled by Dracula.",
+      "Type": "series",
+      "RunTime": "23 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Warren Ellis",
+      "Actors": "Richard Armitage, James Callis, Alejandra Reynoso",
+      "Language": "English, Latin",
+      "Country": "United States"
     },
     {
       "title": "Mononoke",
@@ -211,8 +211,7 @@
       "netflix_url": "https://www.netflix.com/title/81580574",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Mononoke The Movie: Chapter II - The Ashes of Rage",
@@ -252,16 +251,16 @@
       "title": "DAN DA DAN",
       "netflix_url": "https://www.netflix.com/title/81736884",
       "year": "2025",
-      "imdb_rating": "7.9",
-      "imdb_id": "tt36440312",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODY1NzNkYmQtN2I4My00NzdlLWExOTgtNmJhMGFmY2VkYThiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Momo and Okarun set out on their latest adventure, traveling to a hot springs town home rented by Jiji, Momo's childhood friend and former crush, with the goal to solve the mystery surrounding his family.",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt33343397",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmE4NGI0NWUtOGFmNS00Yzk4LWFjYWYtYjU2MTAxYTMxMGQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Momo Ayase is a school girl who meets her classmate Ken Takakura (named after the actor). Their unlikely friendship will face them against ghosts and aliens in a series of dark and funny adventures.",
       "Type": "movie",
-      "RunTime": "93 min",
-      "Genre": "Animation, Action, Sci-Fi",
-      "Director": "N/A",
-      "Writer": "Hiroshi Seko",
-      "Actors": "Natsuki Hanae, Morgana Ignis, Mayumi Tanaka",
+      "RunTime": "83 min",
+      "Genre": "Animation, Action, Comedy",
+      "Director": "Fûga Yamashiro",
+      "Writer": "Hiroshi Seko, Yukinobu Tatsu",
+      "Actors": "Shion Wakayama, Natsuki Hanae, Mayumi Tanaka",
       "Language": "Japanese",
       "Country": "Japan"
     },
@@ -287,8 +286,7 @@
       "netflix_url": "https://www.netflix.com/title/82047155",
       "year": "2026",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     }
   ]
 }

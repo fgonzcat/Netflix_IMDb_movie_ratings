@@ -20,12 +20,28 @@
       "Country": "United States"
     },
     {
+      "title": "Sergio",
+      "netflix_url": "https://www.netflix.com/title/70112740",
+      "year": "2009",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1333656",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDllNGU4MTgtODI0Yy00OWJjLTlhOGYtMGYxMjliNTkwMmViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look at the life and work of United Nations High Commissioner for Human Rights, Sergio Vieira de Mello, and the rescue operation when he was trapped and injured by a bomb explosion at UN headquarters in Baghdad.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Greg Barker",
+      "Writer": "Samantha Power",
+      "Actors": "Sergio Vieira de Mello, Tony Blair, Samantha Power",
+      "Language": "Spanish, Portuguese, French, English",
+      "Country": "United States"
+    },
+    {
       "title": "30 for 30: The Two Escobars",
       "netflix_url": "https://www.netflix.com/title/70137756",
       "year": "2010",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Brother Outsider: The Life of Bayard Rustin",
@@ -49,8 +65,7 @@
       "netflix_url": "https://www.netflix.com/title/70178627",
       "year": "2011",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Venus and Serena",
@@ -85,23 +100,6 @@
       "Actors": "Diana Nyad, Johnny Carson, Candace Hogan",
       "Language": "English",
       "Country": "United States, Cuba, Mexico"
-    },
-    {
-      "title": "Mitt",
-      "netflix_url": "https://www.netflix.com/title/70296733",
-      "year": "2014",
-      "imdb_rating": "6.9",
-      "imdb_id": "tt1757800",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDkwMzA0NzIzMV5BMl5BanBnXkFtZTgwMjY1ODY3MDE@._V1_SX300.jpg",
-      "Plot": "Mitt Romney and his family are followed through their U.S. Presidential campaigns for the Republic Party.",
-      "Type": "movie",
-      "RunTime": "94 min",
-      "Genre": "Documentary, Biography, Family",
-      "Director": "Greg Whiteley",
-      "Writer": "Greg Whiteley",
-      "Actors": "Mitt Romney, Candy Crowley, Eric Draper",
-      "Language": "English",
-      "Country": "United States"
     },
     {
       "title": "What Happened, Miss Simone?",
@@ -142,16 +140,14 @@
       "netflix_url": "https://www.netflix.com/title/80020312",
       "year": "2014",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "30 for 30: I Hate Christian Laettner",
       "netflix_url": "https://www.netflix.com/title/80020315",
       "year": "2015",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Tig",
@@ -167,23 +163,6 @@
       "Director": "Kristina Goolsby, Ashley York",
       "Writer": "Jennifer Arnold",
       "Actors": "Stephanie Allynne, Zach Galifianakis, Sarah Silverman",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Hot Girls Wanted",
-      "netflix_url": "https://www.netflix.com/title/80038162",
-      "year": "2015",
-      "imdb_rating": "6.1",
-      "imdb_id": "tt4382552",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxZmZhMmUtNTY3YS00YmQyLWI3ODctMWI2ZTEwMWRmYTJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary about young women who have been drawn into the sex trade - and how easy it is for a web-savvy generation to end up making porn.",
-      "Type": "movie",
-      "RunTime": "84 min",
-      "Genre": "Documentary, Crime",
-      "Director": "Jill Bauer, Ronna Gradus",
-      "Writer": "Brittany Huckabee",
-      "Actors": "Stella May, Riley Reynolds, Rachel Bernard",
       "Language": "English",
       "Country": "United States"
     },
@@ -405,23 +384,6 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Joseph Simmons III, Logic, A Boogie wit da Hoodie",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "The Rachel Divide",
-      "netflix_url": "https://www.netflix.com/title/80149821",
-      "year": "2018",
-      "imdb_rating": "6.3",
-      "imdb_id": "tt8106570",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmExMzkwMGMtYmQ3NC00OTUzLWFjOGMtZmZlMTRkM2Y3ODVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Rachel Dolezal becomes a social phenomenon when she passes herself off as an African American and becomes the head of her local N.A.A.C.P. chapter.",
-      "Type": "movie",
-      "RunTime": "100 min",
-      "Genre": "Documentary",
-      "Director": "Laura Brownson",
-      "Writer": "Laura Brownson, Jeff Gilbert",
-      "Actors": "Rachel Dolezal, Franklin Dolezal, Izaiah Dolezal",
       "Language": "English",
       "Country": "United States"
     },
@@ -685,8 +647,7 @@
       "netflix_url": "https://www.netflix.com/title/80209608",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Ram Dass, Going Home",
@@ -812,8 +773,7 @@
       "netflix_url": "https://www.netflix.com/title/80221016",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Conversations with a Killer: The Ted Bundy Tapes",
@@ -854,8 +814,7 @@
       "netflix_url": "https://www.netflix.com/title/80233223",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Dick Johnson Is Dead",
@@ -1043,23 +1002,6 @@
       "Actors": "Gustavo Santaolalla, Rubén Albarrán, Javier Batiz",
       "Language": "Spanish",
       "Country": "N/A"
-    },
-    {
-      "title": "Kevin Hart: Don’t F**k This Up",
-      "netflix_url": "https://www.netflix.com/title/81010817",
-      "year": "2019",
-      "imdb_rating": "6.5",
-      "imdb_id": "tt11313054",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTdlOGNkZTMtZmU3OC00NzVmLTg0YWYtYTNlYzRkNDIwZDdlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Comedian Kevin Hart reflects on the events from the past year that have shaped his life.",
-      "Type": "series",
-      "RunTime": "30 min",
-      "Genre": "Documentary, Biography",
-      "Director": "N/A",
-      "Writer": "Kevin Hart",
-      "Actors": "Kevin Hart, Joe Rogan, Dave Becky",
-      "Language": "English",
-      "Country": "United States"
     },
     {
       "title": "Circus of Books",
@@ -1270,16 +1212,14 @@
       "netflix_url": "https://www.netflix.com/title/81037873",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Dig Deeper: The Disappearance of Birgit Meier",
       "netflix_url": "https://www.netflix.com/title/81040563",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The 43",
@@ -1370,18 +1310,18 @@
       "title": "Pelé",
       "netflix_url": "https://www.netflix.com/title/81074673",
       "year": "2021",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt19382188",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjFmODQxYWItMGQ2YS00YzM0LWExMDItNTlmN2NiNTc2YjcxXkEyXkFqcGdeQXVyMjAyOTcwMjA@._V1_SX300.jpg",
-      "Plot": "The interaction between the inhabitants of the city and what is expressed in its walls.",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt0793430",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzNmNGM1M2EtZTc5Ni00N2U4LWJiNzktNTQzYWU0NmE2YTIzXkEyXkFqcGdeQXVyNjg1NTY4MA@@._V1_SX300.jpg",
+      "Plot": "N/A",
       "Type": "movie",
-      "RunTime": "75 min",
-      "Genre": "Documentary",
-      "Director": "Marcos Pimentel",
-      "Writer": "Ivan Morales Jr., Marcos Pimentel",
-      "Actors": "N/A",
+      "RunTime": "100 min",
+      "Genre": "Drama",
+      "Director": "Fernando Vendrell",
+      "Writer": "Carla Baptista, Henrique Galvão, Fernando Vendrell",
+      "Actors": "Daniela Costa, Francisco Nascimento, Manuel Wiborg",
       "Language": "Portuguese",
-      "Country": "Brazil"
+      "Country": "Portugal"
     },
     {
       "title": "Pretend It’s a City",
@@ -1609,8 +1549,7 @@
       "netflix_url": "https://www.netflix.com/title/81130094",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "WHAM!",
@@ -1749,6 +1688,23 @@
       "Country": "Germany"
     },
     {
+      "title": "Searching For Sheela",
+      "netflix_url": "https://www.netflix.com/title/81211264",
+      "year": "2021",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt14167424",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2M4NTAyM2QtYmE4OS00NTEyLWE0NGQtNTU2Y2YyNDBiZDBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commune's spokesperson returns to India after decades for an interview tour.",
+      "Type": "movie",
+      "RunTime": "58 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "Shakun Batra",
+      "Writer": "Shakun Batra",
+      "Actors": "Ma Anand Sheela, Shoma Chaudhury, Anurag Chauhan",
+      "Language": "Hindi, English",
+      "Country": "India"
+    },
+    {
       "title": "Beckham",
       "netflix_url": "https://www.netflix.com/title/81223488",
       "year": "2023",
@@ -1872,8 +1828,7 @@
       "netflix_url": "https://www.netflix.com/title/81306326",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Angèle",
@@ -1991,23 +1946,6 @@
       "Director": "Ursula Macfarlane",
       "Writer": "N/A",
       "Actors": "Anna Nicole Smith, RuPaul, Ozzy Osbourne",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Stutz",
-      "netflix_url": "https://www.netflix.com/title/81387962",
-      "year": "2022",
-      "imdb_rating": "7.8",
-      "imdb_id": "tt21819228",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjZiMjQ4YzYtMWNhZi00NzBmLWE1YzEtMzQxZTRlMWZjNGU3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow Hill and his therapist as he has candid discussions of mental health and the progressively worsening anxiety attacks related to movie promotion that have turned his dream job into a nightmare.",
-      "Type": "movie",
-      "RunTime": "96 min",
-      "Genre": "Documentary",
-      "Director": "Jonah Hill",
-      "Writer": "N/A",
-      "Actors": "Sharon Feldstein, Jonah Hill, Phil Stutz",
       "Language": "English",
       "Country": "United States"
     },
@@ -2199,23 +2137,6 @@
       "Country": "United States, United Kingdom"
     },
     {
-      "title": "Call Me Kate",
-      "netflix_url": "https://www.netflix.com/title/81475700",
-      "year": "2022",
-      "imdb_rating": "7.1",
-      "imdb_id": "tt13093834",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQzYjkwN2YtMDg1NS00NmZkLTk0OTctNGIyN2NiMDlhYmJiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A feature documentary which captures Katharine Hepburn's spirit and determination, exploring her story using her own words, through a combination of hours of previously hidden and intimate audio tapes, video and photographic archive.",
-      "Type": "movie",
-      "RunTime": "86 min",
-      "Genre": "Documentary",
-      "Director": "Lorna Tucker",
-      "Writer": "Lorna Tucker",
-      "Actors": "Katharine Hepburn, Bonnie Greer, Mundy Hepburn",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Black Sunshine Baby",
       "netflix_url": "https://www.netflix.com/title/81478987",
       "year": "2022",
@@ -2271,8 +2192,7 @@
       "netflix_url": "https://www.netflix.com/title/81495571",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Blood, Sex & Royalty",
@@ -2568,15 +2488,15 @@
       "netflix_url": "https://www.netflix.com/title/81661226",
       "year": "2023",
       "imdb_rating": "N/A",
-      "imdb_id": "tt28280697",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmVjMDIyYTYtNzFkNC00MzcyLWJhYzQtYTZiZjc2YzE3ZmU4XkEyXkFqcGdeQXVyMTUxMzQ1MjIx._V1_SX300.jpg",
+      "imdb_id": "tt3823916",
+      "Poster": "N/A",
       "Plot": "N/A",
       "Type": "series",
       "RunTime": "N/A",
-      "Genre": "News",
+      "Genre": "Talk-Show",
       "Director": "N/A",
       "Writer": "N/A",
-      "Actors": "E.R. Fightmaster, Justin Tranter, Jaren Merrell",
+      "Actors": "Lark Voorhies",
       "Language": "English",
       "Country": "United States"
     },
@@ -2636,8 +2556,7 @@
       "netflix_url": "https://www.netflix.com/title/81673047",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Kaulitz & Kaulitz",
@@ -2708,31 +2627,6 @@
       "Country": "Italy"
     },
     {
-      "title": "Amazing Antoine",
-      "netflix_url": "https://www.netflix.com/title/81709732",
-      "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Garbo: Where Did You Go?",
-      "netflix_url": "https://www.netflix.com/title/81715821",
-      "year": "2024",
-      "imdb_rating": "5.9",
-      "imdb_id": "tt31042115",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQyNzQxMjMtYTQ4Mi00ODBjLWFkY2YtODlmN2M4OWVmYTIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An urgent, timely and compelling portrait of Hollywood icon Greta Garbo, whose fame, isolation and loneliness still captures us.",
-      "Type": "movie",
-      "RunTime": "90 min",
-      "Genre": "Documentary",
-      "Director": "Lorna Tucker",
-      "Writer": "Lorna Tucker",
-      "Actors": "Elyn Daniels",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
       "title": "Larissa: The Other Side of Anitta",
       "netflix_url": "https://www.netflix.com/title/81728000",
       "year": "2025",
@@ -2771,8 +2665,7 @@
       "netflix_url": "https://www.netflix.com/title/81730289",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Nam June Paik: Moon Is the Oldest TV",
@@ -2847,8 +2740,7 @@
       "netflix_url": "https://www.netflix.com/title/81753677",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Sue Bird: In the Clutch",
@@ -2923,8 +2815,7 @@
       "netflix_url": "https://www.netflix.com/title/81763596",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "ABBA: Against the Odds",
@@ -2995,6 +2886,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Take That",
+      "netflix_url": "https://www.netflix.com/title/81901625",
+      "year": "2026",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt1763289",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjZlOWNlOTgtNjI4ZC00MWZhLThkNjktNGQ4NjYxNmUyMTRjXkEyXkFqcGdeQXVyNDE4NzM2MTI@._V1_SX300.jpg",
+      "Plot": "A documentary telling the story of the newly reformed Take That. Global mega star 'Robbie Williams' rejoins his former band mates for the first time in over 15 years to record Take That's sixth studio album 'Progress'. 'Look Back,...",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Documentary",
+      "Director": "Nick Davies, Fred Scott",
+      "Writer": "N/A",
+      "Actors": "Gary Barlow, Howard Donald, Jason Orange",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Avicii - I'm Tim",
       "netflix_url": "https://www.netflix.com/title/81915373",
       "year": "2024",
@@ -3050,8 +2958,7 @@
       "netflix_url": "https://www.netflix.com/title/81942953",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Songs From the Hole",
@@ -3109,8 +3016,7 @@
       "netflix_url": "https://www.netflix.com/title/82028788",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Sunday Best: The Untold Story of Ed Sullivan",
@@ -3133,18 +3039,18 @@
       "title": "DEVO",
       "netflix_url": "https://www.netflix.com/title/82052197",
       "year": "2025",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt36435547",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU1YjNmNzgtMzU1ZC00N2QzLWIzNzUtOTY5NDFhMmI1ZThmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt27210519",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTlmM2U5ZDItMzUzMC00YzViLThhYTQtM2MyNTFmOTdkYzg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1980, new wave band Devo scored a hit with \"Whip It\" and gained mainstream success with their message of societal \"de-evolution\", formed in response to the 1970 Kent State shootings.",
       "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Drama",
-      "Director": "Vishwaa",
-      "Writer": "Vishwaa",
-      "Actors": "Prasad Oak, Khushi Hajare, Prarthana Behere",
-      "Language": "Marathi",
-      "Country": "India"
+      "RunTime": "90 min",
+      "Genre": "Documentary, Music",
+      "Director": "Chris Smith",
+      "Writer": "N/A",
+      "Actors": "Mark Mothersbaugh, Bob Casale, Gerald Casale",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Sangre del Toro",
@@ -3168,8 +3074,7 @@
       "netflix_url": "https://www.netflix.com/title/82184420",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     }
   ]
 }

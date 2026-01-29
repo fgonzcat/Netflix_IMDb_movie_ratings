@@ -3,23 +3,6 @@
   "genre_url": "https://www.netflix.com/browse/genre/869",
   "movies": [
     {
-      "title": "Deconstructing Harry",
-      "netflix_url": "https://www.netflix.com/title/1179827",
-      "year": "1997",
-      "imdb_rating": "7.3",
-      "imdb_id": "tt0118954",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDEyMzNhZTQtMmJkNC00ZWRkLWE1YjEtNzRkZGY5YWFiZmVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Suffering from writer's block and eagerly awaiting his writing award, Harry Block remembers events from his past and scenes from his best-selling books as characters, real and fictional, come back to haunt him.",
-      "Type": "movie",
-      "RunTime": "96 min",
-      "Genre": "Comedy",
-      "Director": "Woody Allen",
-      "Writer": "Woody Allen",
-      "Actors": "Woody Allen, Judy Davis, Julia Louis-Dreyfus",
-      "Language": "English, Hebrew",
-      "Country": "United States"
-    },
-    {
       "title": "Election",
       "netflix_url": "https://www.netflix.com/title/21060973",
       "year": "1999",
@@ -309,14 +292,6 @@
       "Country": "United States"
     },
     {
-      "title": "Trailer Park Boys: Say Goodnight to the Bad Guys",
-      "netflix_url": "https://www.netflix.com/title/70304189",
-      "year": "2008",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "The Perfect Dictatorship",
       "netflix_url": "https://www.netflix.com/title/80032640",
       "year": "2014",
@@ -349,23 +324,6 @@
       "Actors": "Jay Duplass, Linas Phillips, Leonora Pitts",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Special Correspondents",
-      "netflix_url": "https://www.netflix.com/title/80048940",
-      "year": "2016",
-      "imdb_rating": "5.9",
-      "imdb_id": "tt4181052",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzUwODQzMF5BMl5BanBnXkFtZTgwMTA5MDM0ODE@._V1_SX300.jpg",
-      "Plot": "A radio journalist and his technician get in over their heads when they hatch a scheme to fake their own kidnapping during a rebel uprising in South America and hide out in New York instead.",
-      "Type": "movie",
-      "RunTime": "101 min",
-      "Genre": "Comedy",
-      "Director": "Ricky Gervais",
-      "Writer": "Ricky Gervais, Jacques Labib, Simon Michaël",
-      "Actors": "Ricky Gervais, Eric Bana, Vera Farmiga",
-      "Language": "English, Spanish",
-      "Country": "Canada, United Kingdom, United States"
     },
     {
       "title": "Kill Your Friends",
@@ -593,8 +551,7 @@
       "netflix_url": "https://www.netflix.com/title/80174434",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Prevenge",
@@ -737,8 +694,7 @@
       "netflix_url": "https://www.netflix.com/title/80992995",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Laundromat",
@@ -898,8 +854,7 @@
       "netflix_url": "https://www.netflix.com/title/81158472",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Tammy's Always Dying",
@@ -951,23 +906,6 @@
       "Actors": "Jamie Foxx, Dave Franco, Natasha Liu Bordizzo",
       "Language": "English, Spanish",
       "Country": "United States"
-    },
-    {
-      "title": "Masameer - The Movie",
-      "netflix_url": "https://www.netflix.com/title/81212780",
-      "year": "2020",
-      "imdb_rating": "6.0",
-      "imdb_id": "tt11561866",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdjYzBkZDctZDNlZi00OWEwLThmYjAtZWE0MmMxMmRmNmEyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A child with a knack for AI decided to change the world by creating crime-fighting heroes out of her unlikely friends.",
-      "Type": "movie",
-      "RunTime": "110 min",
-      "Genre": "Animation",
-      "Director": "Malik Nejer",
-      "Writer": "Abdulaziz Ghonem, Malik Nejer",
-      "Actors": "Shahad Alahmari, Yousef Aldakheel, Lama Alfard",
-      "Language": "Arabic",
-      "Country": "Saudi Arabia"
     },
     {
       "title": "Parasite",
@@ -1382,8 +1320,7 @@
       "netflix_url": "https://www.netflix.com/title/81418159",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Quarantine Tales",
@@ -1509,8 +1446,7 @@
       "netflix_url": "https://www.netflix.com/title/81510752",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "An Action Hero",
@@ -1738,8 +1674,7 @@
       "netflix_url": "https://www.netflix.com/title/81664300",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Blackening",

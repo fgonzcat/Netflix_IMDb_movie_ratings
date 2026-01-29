@@ -125,18 +125,18 @@
       "title": "Bordertown",
       "netflix_url": "https://www.netflix.com/title/70068648",
       "year": "2006",
-      "imdb_rating": "7.6",
-      "imdb_id": "tt4937942",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU2NzM3YjEtYTg2MC00NDMzLWFiODItNWEwNDZjNTRlMzMzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Quirky police detective, in Finland, delves into his memory palace to solve despicable crimes all the while trying to keep his family together. If Sherlock was based in Finland this would be it.",
-      "Type": "series",
-      "RunTime": "2 min",
-      "Genre": "Crime, Drama, Mystery",
-      "Director": "N/A",
-      "Writer": "Miikko Oikkonen",
-      "Actors": "Ville Virtanen, Matleena Kuusniemi, Anu Sinisalo",
-      "Language": "Finnish, Russian, English",
-      "Country": "Finland, France"
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0445935",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM0YjE5MGEtZmFkYy00ZWM4LThlMTItYzUzNDYzYzRiYzBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A journalist investigates a series of murders near American-owned factories on the border of Juarez and El Paso.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Gregory Nava",
+      "Writer": "Gregory Nava",
+      "Actors": "Jennifer Lopez, Antonio Banderas, Maya Zapata",
+      "Language": "English, Spanish, Central American Indian languages",
+      "Country": "Mexico, United States"
     },
     {
       "title": "Bhool Bhulaiyaa",
@@ -1040,6 +1040,23 @@
       "Country": "Taiwan"
     },
     {
+      "title": "WHAT DID JACK DO?",
+      "netflix_url": "https://www.netflix.com/title/81226955",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt11644096",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWY5NWRkNjItYWJhNS00MzA2LTgyNTYtNjNkNzNhNzIzMmFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a locked down train station, a homicide detective conducts an interview with a tormented monkey.",
+      "Type": "movie",
+      "RunTime": "17 min",
+      "Genre": "Short, Comedy, Crime",
+      "Director": "David Lynch",
+      "Writer": "David Lynch",
+      "Actors": "Jack Cruz, David Lynch, Toototabon",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Recurrence",
       "netflix_url": "https://www.netflix.com/title/81259570",
       "year": "2022",
@@ -1486,8 +1503,7 @@
       "netflix_url": "https://www.netflix.com/title/81458424",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Reptile",
@@ -1681,8 +1697,7 @@
       "netflix_url": "https://www.netflix.com/title/81580574",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Mononoke The Movie: Chapter II - The Ashes of Rage",
@@ -1774,8 +1789,7 @@
       "netflix_url": "https://www.netflix.com/title/81615047",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Colors of Evil: Red",
@@ -1982,37 +1996,18 @@
       "Country": "United States, Canada"
     },
     {
-      "title": "Wicked Little Letters",
-      "netflix_url": "https://www.netflix.com/title/81700125",
-      "year": "2023",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt20234774",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZGUzOTFjNWYtY2Q2ZC00ZDU0LWIyZWEtMzFlNmI3OTdjN2VkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When people in Littlehampton--including conservative local, Edith--begin receiving letters full of hilarious profanities, the rowdy, Irish migrant, Rose, is charged with the crime. Suspecting that something is amiss, the town's wo...",
-      "Type": "movie",
-      "RunTime": "100 min",
-      "Genre": "Comedy, Crime, Drama",
-      "Director": "Thea Sharrock",
-      "Writer": "Jonny Sweet",
-      "Actors": "Jessie Buckley, Olivia Colman, Timothy Spall",
-      "Language": "English",
-      "Country": "United Kingdom, United States, France"
-    },
-    {
-      "title": "Merry Christmas (Hindi)",
-      "netflix_url": "https://www.netflix.com/title/81713665",
+      "title": "Merry Christmas (Tamil)",
+      "netflix_url": "https://www.netflix.com/title/81713401",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "ManSuang",
       "netflix_url": "https://www.netflix.com/title/81720538",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Brick",
@@ -2206,8 +2201,7 @@
       "netflix_url": "https://www.netflix.com/title/82018121",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Haunted Apartment \"Miss K\"",

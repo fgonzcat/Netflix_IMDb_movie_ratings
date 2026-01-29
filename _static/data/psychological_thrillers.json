@@ -241,6 +241,23 @@
       "Country": "United States"
     },
     {
+      "title": "Rebirth",
+      "netflix_url": "https://www.netflix.com/title/80064459",
+      "year": "2016",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt4902716",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmRlZmJiYzYtYzE0My00MWMxLWE2MDgtYTQ3ODQ3Y2ExOWJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "He's a family man headed for a weekend of self-discovery. But it's about to turn into a nightmare with no escape.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Thriller",
+      "Director": "Karl Mueller",
+      "Writer": "Karl Mueller",
+      "Actors": "Fran Kranz, Adam Goldberg, Nicky Whelan",
+      "Language": "English, French",
+      "Country": "United States"
+    },
+    {
       "title": "Money Monster",
       "netflix_url": "https://www.netflix.com/title/80084089",
       "year": "2016",
@@ -887,12 +904,11 @@
       "Country": "India"
     },
     {
-      "title": "Game Over (Telugu Version)",
-      "netflix_url": "https://www.netflix.com/title/81151878",
+      "title": "Game Over (Hindi Version)",
+      "netflix_url": "https://www.netflix.com/title/81151880",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "HOMUNCULUS",
@@ -1256,8 +1272,7 @@
       "netflix_url": "https://www.netflix.com/title/81514144",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Lost Patient",
@@ -1349,8 +1364,7 @@
       "netflix_url": "https://www.netflix.com/title/81615047",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Prime",
@@ -1540,12 +1554,11 @@
       "Country": "Japan"
     },
     {
-      "title": "Merry Christmas (Hindi)",
-      "netflix_url": "https://www.netflix.com/title/81713665",
+      "title": "Merry Christmas (Tamil)",
+      "netflix_url": "https://www.netflix.com/title/81713401",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Bone Lake",

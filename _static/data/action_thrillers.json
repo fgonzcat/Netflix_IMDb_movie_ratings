@@ -226,7 +226,7 @@
     {
       "title": "From Russia with Love",
       "netflix_url": "https://www.netflix.com/title/526574",
-      "year": "1964",
+      "year": "1963",
       "imdb_rating": "7.3",
       "imdb_id": "tt0057076",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWY2MWY2ODAtMTY5Ny00MzA2LWFkMWYtODU2MjE0MmM4ZTQ4XkEyXkFqcGc@._V1_SX300.jpg",
@@ -479,23 +479,6 @@
       "Country": "United Kingdom, United States, Mexico"
     },
     {
-      "title": "Dhoom",
-      "netflix_url": "https://www.netflix.com/title/70018451",
-      "year": "2004",
-      "imdb_rating": "6.6",
-      "imdb_id": "tt0422091",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDcyYTI4YTktOTVmYy00ZTQ3LTk2YzEtMmU1Y2IxMGQ1YmJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A gang of bikers are on a robbing spree and infuse terror in the city. In order to nab the perpetrators, ACP Jai teams up with Ali, a mechanic.",
-      "Type": "movie",
-      "RunTime": "129 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Sanjay Gadhvi",
-      "Writer": "Vijay Krishna Acharya",
-      "Actors": "Abhishek Bachchan, John Abraham, Uday Chopra",
-      "Language": "Hindi, English",
-      "Country": "India"
-    },
-    {
       "title": "Mr. & Mrs. Smith",
       "netflix_url": "https://www.netflix.com/title/70021641",
       "year": "2005",
@@ -547,23 +530,6 @@
       "Country": "United States, United Kingdom, Czech Republic, Germany, Bahamas, Italy"
     },
     {
-      "title": "Dhoom: 2",
-      "netflix_url": "https://www.netflix.com/title/70059536",
-      "year": "2006",
-      "imdb_rating": "6.6",
-      "imdb_id": "tt0441048",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgxNjUzZDctYWJmOS00MDI4LTkzNTctMDdmOGYzN2M5ZmY3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Mr A, a fearless thief, steals valuable artefacts and teams up with the girl he is attracted to but cannot trust. Close on their heels are three police officers trying to apprehend them.",
-      "Type": "movie",
-      "RunTime": "152 min",
-      "Genre": "Action, Crime, Thriller",
-      "Director": "Sanjay Gadhvi",
-      "Writer": "Vijay Krishna Acharya, Aditya Chopra",
-      "Actors": "Hrithik Roshan, Abhishek Bachchan, Aishwarya Rai Bachchan",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
       "title": "Quantum of Solace",
       "netflix_url": "https://www.netflix.com/title/70099117",
       "year": "2008",
@@ -584,18 +550,18 @@
       "title": "The A-Team",
       "netflix_url": "https://www.netflix.com/title/70103526",
       "year": "2010",
-      "imdb_rating": "7.8",
-      "imdb_id": "tt7215706",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZGIxNmY1MzEtNWU5Yy00NTljLWE2NDktZTA0ZWFjYTdmNGFjXkEyXkFqcGdeQXVyODE3MDg1OTE@._V1_SX300.jpg",
-      "Plot": "A day in the life of a homeless, cocaine smoking, prostitute.",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0429493",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4ODc4NTQ1N15BMl5BanBnXkFtZTcwNDUxODUyMw@@._V1_SX300.jpg",
+      "Plot": "A group of Iraq War veterans look to clear their name with the U.S. Military, who suspect the four men of committing a crime for which they were framed.",
       "Type": "movie",
-      "RunTime": "5 min",
-      "Genre": "Short, Drama, Music",
-      "Director": "Ruskin Kyle",
-      "Writer": "N/A",
-      "Actors": "Katie Brady, Selina MacDonald",
-      "Language": "English",
-      "Country": "UK"
+      "RunTime": "117 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Joe Carnahan",
+      "Writer": "Joe Carnahan, Brian Bloom, Skip Woods",
+      "Actors": "Liam Neeson, Bradley Cooper, Sharlto Copley",
+      "Language": "English, Spanish, French, Swahili, German",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "The Hurt Locker",
@@ -683,23 +649,6 @@
       "Country": "United States, Canada, South Africa, Mexico"
     },
     {
-      "title": "Ek Tha Tiger",
-      "netflix_url": "https://www.netflix.com/title/70252882",
-      "year": "2012",
-      "imdb_rating": "5.7",
-      "imdb_id": "tt2016894",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjUzOWEzZTMtNDQzYS00ZDI4LWI4NjctNzcyN2NkY2IwMTA4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A RAW agent, Tiger, is sent to Dublin to observe an Indian scientist who is suspected of sharing nuclear secrets with the ISI. He meets and falls for his caretaker Zoya, a girl with a dark secret.",
-      "Type": "movie",
-      "RunTime": "132 min",
-      "Genre": "Action, Adventure, Drama",
-      "Director": "Kabir Khan",
-      "Writer": "Aditya Chopra, Kabir Khan, Neelesh Misra",
-      "Actors": "Salman Khan, Katrina Kaif, Girish Karnad",
-      "Language": "Hindi, English",
-      "Country": "India"
-    },
-    {
       "title": "Stolen",
       "netflix_url": "https://www.netflix.com/title/70257818",
       "year": "2012",
@@ -749,23 +698,6 @@
       "Actors": "Arnold Schwarzenegger, Sam Worthington, Terrence Howard",
       "Language": "English, Spanish",
       "Country": "United States"
-    },
-    {
-      "title": "Dhoom: 3",
-      "netflix_url": "https://www.netflix.com/title/70287293",
-      "year": "2013",
-      "imdb_rating": "5.4",
-      "imdb_id": "tt1833673",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIxODBmZjYtYWM3Ny00N2U1LWI3M2ItMzZkNmQ4NWYyNDFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Jai and Ali return to catch the clown thief, Sahir, who has targeted various branches of the Western Bank of Chicago.",
-      "Type": "movie",
-      "RunTime": "172 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Vijay Krishna Acharya",
-      "Writer": "Vijay Krishna Acharya, Aditya Chopra",
-      "Actors": "Aamir Khan, Katrina Kaif, Abhishek Bachchan",
-      "Language": "Hindi, English",
-      "Country": "India, United States"
     },
     {
       "title": "Gunday",
@@ -1004,91 +936,6 @@
       "Actors": "Jeffrey Wright, Alexander Skarsgård, James Badge Dale",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Jaal",
-      "netflix_url": "https://www.netflix.com/title/80157086",
-      "year": "1986",
-      "imdb_rating": "5.1",
-      "imdb_id": "tt0239495",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzhkYjhjZjYtZDU5YS00ZGM2LWI2ZDgtNzM1NGZhNjExZGE2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Shankar Verma lives a poor lifestyle with his mom, Shanti, in India after His father, Sathpal, leaves the family for a courtesan by the name of Meenabai. Years later, Shankar has now grown up and finds himself the object of affect...",
-      "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Action, Drama, Thriller",
-      "Director": "Umesh Mehra",
-      "Writer": "Anand Kaushal, Javed Siddiqui",
-      "Actors": "Rekha, Mithun Chakraborty, Mandakini",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
-      "title": "Salaakhen",
-      "netflix_url": "https://www.netflix.com/title/80158479",
-      "year": "1975",
-      "imdb_rating": "5.7",
-      "imdb_id": "tt0395743",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMyOWE3OTMtNTEzOS00YmM0LTljNGQtMGFiNGZlMjNhODU1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Plot": "In-separable childhood friends, Raju and Guddi are separated when Guddi's dad, Ramlal is arrested by the police for theft. Years later Guddi is now a cabaret dancer and singer, Seema, while Raju is a thief and professional gambler...",
-      "Type": "movie",
-      "RunTime": "129 min",
-      "Genre": "Action, Thriller",
-      "Director": "A. Salaam",
-      "Writer": "Shanti Prakash Bakshi, A. Salaam",
-      "Actors": "Shashi Kapoor, Sulakshana Pandit, Mehmood",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
-      "title": "Khoon Khoon",
-      "netflix_url": "https://www.netflix.com/title/80158480",
-      "year": "1973",
-      "imdb_rating": "5.2",
-      "imdb_id": "tt0230412",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI0MjRkMTMtZWRlMi00ZGZmLTg2MDYtMWZhZjRiMjdjZjFjXkEyXkFqcGdeQXVyMjU3MzYxODk@._V1_SX300.jpg",
-      "Plot": "A Bombay cop tries to track down a serial killer who snipes at random victims.",
-      "Type": "movie",
-      "RunTime": "127 min",
-      "Genre": "Crime, Mystery, Thriller",
-      "Director": "Mohammed Hussain",
-      "Writer": "Umesh, Vrajendra Gaur",
-      "Actors": "Mahendra Sandhu, Danny Denzongpa, Jagdeep",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
-      "title": "Elaan",
-      "netflix_url": "https://www.netflix.com/title/80158482",
-      "year": "1971",
-      "imdb_rating": "6.0",
-      "imdb_id": "tt0367695",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTFkZmI2YWQtYWI1ZC00NmI5LWEwYTUtOTYxYzM3YTU1MTAzXkEyXkFqcGdeQXVyNDQwOTAzNw@@._V1_SX300.jpg",
-      "Plot": "Journalist Naresh is hired to probe illegal activities on an island. When he's captured, a fellow prisoner gives him a ring with magic powers.",
-      "Type": "movie",
-      "RunTime": "144 min",
-      "Genre": "Action, Drama, Musical",
-      "Director": "K. Ramanlal",
-      "Writer": "Umesh, Vrajendra Gaur",
-      "Actors": "Vinod Mehra, Rekha, Vinod Khanna",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
-      "title": "Force 2",
-      "netflix_url": "https://www.netflix.com/title/80159955",
-      "year": "2016",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt5156746",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdlYjJmODItYjNhMy00ZGMxLTlhNjItN2JlMzFmMzYyZDVmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "ACP Yashvardhan teams up with RAW Agent KK to bring down the mole within RAW.",
-      "Type": "movie",
-      "RunTime": "127 min",
-      "Genre": "Action, Thriller",
-      "Director": "Abhinay Deo",
-      "Writer": "Jasmeet K Reen, Parveez Shaikh",
-      "Actors": "John Abraham, Sonakshi Sinha, Tahir Raj Bhasin",
-      "Language": "Hindi",
-      "Country": "India"
     },
     {
       "title": "How It Ends",
@@ -1553,18 +1400,18 @@
       "title": "Mosul",
       "netflix_url": "https://www.netflix.com/title/81041495",
       "year": "2020",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt26818737",
-      "Poster": "N/A",
-      "Plot": "N/A",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt9252468",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGM4N2E5NDAtMWZjNC00ZWNjLTk4YjgtYTU0OGVjM2JmZDc3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A police unit from Mosul fight to liberate the Iraqi city from thousands of ISIS militants.",
       "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Documentary",
-      "Director": "Daniel Demoustier",
-      "Writer": "N/A",
-      "Actors": "Milo Rau",
-      "Language": "English",
-      "Country": "Belgium"
+      "RunTime": "101 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Matthew Michael Carnahan",
+      "Writer": "Matthew Michael Carnahan",
+      "Actors": "Waleed Elgadi, Suhail Dabbach, Adam Bessa",
+      "Language": "Arabic, English",
+      "Country": "United States, Germany, Canada"
     },
     {
       "title": "Game Changer",
@@ -1669,40 +1516,6 @@
       "Country": "France"
     },
     {
-      "title": "Sooryavanshi",
-      "netflix_url": "https://www.netflix.com/title/81144150",
-      "year": "2021",
-      "imdb_rating": "5.8",
-      "imdb_id": "tt9531772",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzM0YWRjNGYtYTdiMy00YzZhLThjMWYtMTY3N2Q5NGZkOTI2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "DCP Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India, tries to bring down a terrorist organization with which he has a history.",
-      "Type": "movie",
-      "RunTime": "145 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Rohit Shetty",
-      "Writer": "Sanchit Bedre, Vidhi Ghodgaonkar, Yunus Sajawal",
-      "Actors": "Akshay Kumar, Katrina Kaif, Ajay Devgn",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
-      "title": "Saaho",
-      "netflix_url": "https://www.netflix.com/title/81157385",
-      "year": "2019",
-      "imdb_rating": "5.1",
-      "imdb_id": "tt6836936",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmNlM2NkNzEtODAwOS00MTFjLTljODAtNjJjODdhZjI5MGYzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A man uses an arsenal of weapons to battle a gang of heavily armed thugs in the city. With the city under fire and people's lives at risk, the one man has to give everything he has got to take the city back.",
-      "Type": "movie",
-      "RunTime": "170 min",
-      "Genre": "Action, Thriller",
-      "Director": "Sujeeth",
-      "Writer": "Sujeeth, K.G.R Ashok, Abbas Dalal",
-      "Actors": "Prabhas, Shraddha Kapoor, Jackie Shroff",
-      "Language": "Hindi, Telugu, Tamil",
-      "Country": "India"
-    },
-    {
       "title": "The Gray Man",
       "netflix_url": "https://www.netflix.com/title/81160697",
       "year": "2022",
@@ -1771,23 +1584,6 @@
       "Country": "United Kingdom, United States"
     },
     {
-      "title": "Malang",
-      "netflix_url": "https://www.netflix.com/title/81214289",
-      "year": "2020",
-      "imdb_rating": "6.5",
-      "imdb_id": "tt9877170",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODc5NWY1NzctMWEwYS00NmU0LWJlYzEtNzg1ZGJjZTEwODE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his...",
-      "Type": "movie",
-      "RunTime": "135 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Mohit Suri",
-      "Writer": "Aseem Arrora, Aniruddha Guha, Mohit Suri",
-      "Actors": "Aditya Roy Kapoor, Anil Kapoor, Disha Patani",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
       "title": "Sentinelle",
       "netflix_url": "https://www.netflix.com/title/81218770",
       "year": "2021",
@@ -1803,23 +1599,6 @@
       "Actors": "Olga Kurylenko, Marilyn Lima, Michel Nabokoff",
       "Language": "French, Arabic, Russian, English",
       "Country": "France"
-    },
-    {
-      "title": "Nikamma",
-      "netflix_url": "https://www.netflix.com/title/81242572",
-      "year": "2022",
-      "imdb_rating": "2.8",
-      "imdb_id": "tt10687220",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzU1ZWM2ZjItZjM5OC00ZmI2LTk3NDMtODFmZjFlMTY1YWJmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A lazy slacker struggles to get along with his diligent sister-in-law - until they must step up and fight together against a common enemy.",
-      "Type": "movie",
-      "RunTime": "152 min",
-      "Genre": "Action, Comedy, Drama",
-      "Director": "Sabbir Khan, Arjunsinh Pravinsinh Zala",
-      "Writer": "Sabbir Khan, Venu Sriram, Sanamjit Singh Talwar",
-      "Actors": "Abhimanyu Dasani, Shilpa Shetty Kundra, Shirley Setia",
-      "Language": "Hindi",
-      "Country": "India"
     },
     {
       "title": "Bartkowiak",
@@ -1924,14 +1703,6 @@
       "Country": "United States"
     },
     {
-      "title": "Codename: Tiranga",
-      "netflix_url": "https://www.netflix.com/title/81387252",
-      "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Interceptor",
       "netflix_url": "https://www.netflix.com/title/81388316",
       "year": "2022",
@@ -2004,8 +1775,7 @@
       "netflix_url": "https://www.netflix.com/title/81418159",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Restless",
@@ -2199,8 +1969,7 @@
       "netflix_url": "https://www.netflix.com/title/81493411",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Ambulance",
@@ -2233,23 +2002,6 @@
       "Director": "Daniel Markowicz",
       "Writer": "Daniel Bernardi, Jan Kuznik",
       "Actors": "Piotr Witkowski, Jan Wieczorkowski, Antonina Jarnuszkiewicz",
-      "Language": "Polish",
-      "Country": "Poland"
-    },
-    {
-      "title": "Soulcatcher",
-      "netflix_url": "https://www.netflix.com/title/81498378",
-      "year": "2023",
-      "imdb_rating": "3.7",
-      "imdb_id": "tt28290233",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTRjMDMzNWYtY2U5ZC00NzgzLThmMzQtMWVkYTg1NzZjY2ZlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A military contractor hired to seize a weapon that turns people into savage killers seeks revenge when his brother falls victim to the device.",
-      "Type": "movie",
-      "RunTime": "98 min",
-      "Genre": "Action, Adventure, Thriller",
-      "Director": "Daniel Markowicz",
-      "Writer": "Dawid Kowalewicz, Daniel Markowicz",
-      "Actors": "Piotr Witkowski, Jacek Koman, Jacek Poniedzialek",
       "Language": "Polish",
       "Country": "Poland"
     },
@@ -2303,23 +2055,6 @@
       "Actors": "Alban Lenoir, Stéfi Celma, Sébastien Lalanne",
       "Language": "French",
       "Country": "France"
-    },
-    {
-      "title": "An Action Hero",
-      "netflix_url": "https://www.netflix.com/title/81514149",
-      "year": "2022",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt15600222",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWUzNzljNjMtYTdiZS00MWQ2LWFkZWItYTM0MzVmZGFhYzNjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A murder accusation turns a movie star's own life into an eccentric action thriller as he flees the country, with a vengeful politician hot on his heels.",
-      "Type": "movie",
-      "RunTime": "130 min",
-      "Genre": "Action, Comedy, Crime",
-      "Director": "Anirudh Iyer",
-      "Writer": "Anirudh Iyer, Neeraj Yadav",
-      "Actors": "Ayushmann Khurrana, Jaideep Ahlawat, Gautam Joglekar",
-      "Language": "Hindi",
-      "Country": "India, United Kingdom"
     },
     {
       "title": "Kaaval",
@@ -2427,18 +2162,18 @@
       "title": "Tehran",
       "netflix_url": "https://www.netflix.com/title/81577018",
       "year": "2025",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt35205646",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzYxMmJhMGEtNTY4MS00YzA1LWI2YjYtZDcxYzE0ZWViYWIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Leyli and Pasha, who were once in a relationship, unexpectedly meet at a mutual friend's wedding. The film immerses us in the heroes' past, showing how they met and how they broke up, unable to choose between love and personal fre...",
-      "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Drama",
-      "Director": "Ali Behrad",
-      "Writer": "Ali Behrad",
-      "Actors": "Anahita Afshar, Ali Shadman, Aida Mahiani",
-      "Language": "Persian",
-      "Country": "Iran"
+      "imdb_rating": "7.6",
+      "imdb_id": "tt10577736",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDA5ZTVjM2EtM2EwMy00NzJiLWI5MjktYWUwYzAwYjE5N2FkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Mossad agent embarks on her first mission as a computer hacker in her home town of Tehran.",
+      "Type": "series",
+      "RunTime": "31S min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Dana Eden, Maor Kohn, Omri Shenhar",
+      "Actors": "Niv Sultan, Shaun Toub, Shila Ommi",
+      "Language": "Persian, Hebrew, English",
+      "Country": "Israel, United States, United Kingdom, Greece"
     },
     {
       "title": "Heart of the Hunter",
@@ -2496,8 +2231,7 @@
       "netflix_url": "https://www.netflix.com/title/81597751",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Kaapa",
@@ -2534,29 +2268,11 @@
       "Country": "India"
     },
     {
-      "title": "The Ghost",
-      "netflix_url": "https://www.netflix.com/title/81614454",
-      "year": "2022",
-      "imdb_rating": "5.1",
-      "imdb_id": "tt15309632",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTI1YjNhZGMtYjg0MC00YTU5LTkyMjctNGQwMGViNzYyOTljXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family.",
-      "Type": "movie",
-      "RunTime": "138 min",
-      "Genre": "Action, Thriller",
-      "Director": "Praveen Sattaru",
-      "Writer": "Ali Lucknowi, Abhijeeth Poondla, Praveen Sattaru",
-      "Actors": "Nagarjuna Akkineni, Sonal Chauhan, Gul Panag",
-      "Language": "Telugu",
-      "Country": "India"
-    },
-    {
       "title": "Inside Furioza",
       "netflix_url": "https://www.netflix.com/title/81623506",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Shadow Strays",
@@ -2627,20 +2343,11 @@
       "Country": "India"
     },
     {
-      "title": "Leo (Tamil)",
-      "netflix_url": "https://www.netflix.com/title/81639319",
-      "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Leo (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81639323",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "VidaaMuyarchi",
@@ -2681,8 +2388,7 @@
       "netflix_url": "https://www.netflix.com/title/81648072",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Hard Days",
@@ -2736,20 +2442,11 @@
       "Country": "Thailand"
     },
     {
-      "title": "Thunivu (Hindi)",
-      "netflix_url": "https://www.netflix.com/title/81672761",
-      "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Den of Thieves 2: Pantera",
       "netflix_url": "https://www.netflix.com/title/81677440",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Kingdom",
@@ -2773,8 +2470,7 @@
       "netflix_url": "https://www.netflix.com/title/81678098",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Savi",
@@ -2968,8 +2664,7 @@
       "netflix_url": "https://www.netflix.com/title/81742215",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Wrath of Becky",
@@ -3027,8 +2722,7 @@
       "netflix_url": "https://www.netflix.com/title/81762714",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Bad Boys: Ride or Die",
@@ -3086,8 +2780,7 @@
       "netflix_url": "https://www.netflix.com/title/81902063",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Rip",
@@ -3111,17 +2804,17 @@
       "netflix_url": "https://www.netflix.com/title/81936018",
       "year": "2025",
       "imdb_rating": "N/A",
-      "imdb_id": "tt35791886",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTMxOTdiODYtZWIyZC00Y2I5LWI4MWEtYzdmMzEzMGY1ZTIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Bad girls falsely accused of eve-teasing and misbehaving to a good man, the honorable Dr. Vyom fights for his good name against a society that rewards the dishonest and punishes the noble.",
-      "Type": "series",
+      "imdb_id": "tt1899265",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmM5ZmQ2YWQtMWJhOS00NGQ1LTg3NzUtOTY3NDZiMDNjMGIzXkEyXkFqcGdeQXVyNDY2MDMwMjU@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
       "RunTime": "N/A",
-      "Genre": "Drama",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "V S Prince Ratan, Ashok Nath",
-      "Language": "Hindi",
-      "Country": "India"
+      "Genre": "War",
+      "Director": "Ali Asghar Shadravan",
+      "Writer": "Ali Asghar Shadravan, Ali Tavakkol Nia",
+      "Actors": "Hosein Gil, Reza Safayipoor, Ali Tavakkol Nia",
+      "Language": "Persian",
+      "Country": "Iran"
     },
     {
       "title": "War 2",
@@ -3179,8 +2872,7 @@
       "netflix_url": "https://www.netflix.com/title/82050407",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Ice Road: Vengeance",
@@ -3249,23 +2941,6 @@
       "Actors": "Dean Norris, Julio Macias, Danforth Comins",
       "Language": "English, Spanish",
       "Country": "Mexico, United States"
-    },
-    {
-      "title": "Thammudu",
-      "netflix_url": "https://www.netflix.com/title/83072495",
-      "year": "2025",
-      "imdb_rating": "7.9",
-      "imdb_id": "tt0240084",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc3ZjE4NTctZGY1MS00YTM5LTlhYTUtMTQ4YjBhMzAyYjBmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An aimless student is banished from his home by his father. When his brother, a boxing champion, gets injured, the student must step up and take his brother's place.",
-      "Type": "movie",
-      "RunTime": "160 min",
-      "Genre": "Action, Drama, Sport",
-      "Director": "P.A. Arun Prasad",
-      "Writer": "Ramana Chintapally, P.A. Arun Prasad",
-      "Actors": "Preeti Jhangiani, Aditi Govitrikar, Achyuth",
-      "Language": "Telugu",
-      "Country": "India"
     },
     {
       "title": "The Spy Who Loved Me",

@@ -160,48 +160,49 @@
       "netflix_url": "https://www.netflix.com/title/70129459",
       "year": "2010",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "30 for 30: The Two Escobars",
       "netflix_url": "https://www.netflix.com/title/70137756",
       "year": "2010",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "30 for 30: June 17th, 1994",
       "netflix_url": "https://www.netflix.com/title/70144640",
       "year": "2010",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "30 for 30: The U",
       "netflix_url": "https://www.netflix.com/title/70144811",
       "year": "2009",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
+    },
+    {
+      "title": "30 for 30: Pony Excess",
+      "netflix_url": "https://www.netflix.com/title/70170088",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "30 for 30: Once Brothers",
       "netflix_url": "https://www.netflix.com/title/70170093",
       "year": "2010",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "30 for 30: The Fab Five",
       "netflix_url": "https://www.netflix.com/title/70178627",
       "year": "2011",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Never Back Down 2: The Beatdown",
@@ -255,6 +256,13 @@
       "Country": "United States"
     },
     {
+      "title": "30 for 30: Broke",
+      "netflix_url": "https://www.netflix.com/title/70239460",
+      "year": "2012",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Venus and Serena",
       "netflix_url": "https://www.netflix.com/title/70259674",
       "year": "2012",
@@ -276,8 +284,7 @@
       "netflix_url": "https://www.netflix.com/title/70272846",
       "year": "2013",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Other Shore: The Diana Nyad Story",
@@ -314,29 +321,11 @@
       "Country": "United States"
     },
     {
-      "title": "The Battered Bastards of Baseball",
-      "netflix_url": "https://www.netflix.com/title/70299904",
-      "year": "2014",
-      "imdb_rating": "8.0",
-      "imdb_id": "tt3445270",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZkODY5ZjUtMDA0OS00NTdjLWI0ODUtYjAyY2Q1MzI3N2E1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In 1973, Hollywood actor Bing Russell starts an independent minor league baseball team in Portland consisting of outcasts and misfits, and turns them into unlikely overnight success.",
-      "Type": "movie",
-      "RunTime": "80 min",
-      "Genre": "Documentary, Sport",
-      "Director": "Chapman Way, Maclain Way",
-      "Writer": "N/A",
-      "Actors": "Lou Russell, Kurt Russell, Ken Wheeler",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "30 for 30: Bad Boys",
       "netflix_url": "https://www.netflix.com/title/80001103",
       "year": "2014",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "When the Game Stands Tall",
@@ -360,24 +349,21 @@
       "netflix_url": "https://www.netflix.com/title/80020312",
       "year": "2014",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "30 for 30: I Hate Christian Laettner",
       "netflix_url": "https://www.netflix.com/title/80020315",
       "year": "2015",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "30 for 30: This Magic Moment",
       "netflix_url": "https://www.netflix.com/title/80020316",
       "year": "2016",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Race",
@@ -452,8 +438,7 @@
       "netflix_url": "https://www.netflix.com/title/80092543",
       "year": "2015",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Amateur",
@@ -953,8 +938,7 @@
       "netflix_url": "https://www.netflix.com/title/81026438",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Untold: Malice at the Palace",
@@ -970,23 +954,6 @@
       "Director": "Floyd Russ",
       "Writer": "N/A",
       "Actors": "Jermaine O'Neal, Stephen Jackson, Metta World Peace",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Untold: The Rise and Fall of AND1",
-      "netflix_url": "https://www.netflix.com/title/81026440",
-      "year": "2022",
-      "imdb_rating": "6.8",
-      "imdb_id": "tt21388560",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWY4ODJiNGMtYzRlOC00ZmZkLTlhN2EtNjMzOTBkZmYwZjY5XkEyXkFqcGdeQXVyMjEyODE0NTc@._V1_SX300.jpg",
-      "Plot": "Inspired by New York City streetball, influential brand AND1 turned local legends on the court into international icons. So why did it come to an end?",
-      "Type": "movie",
-      "RunTime": "68 min",
-      "Genre": "Documentary, History, Sport",
-      "Director": "Kevin Wilson Jr.",
-      "Writer": "N/A",
-      "Actors": "Rafer Alston, Tom Austin, Seth Berger",
       "Language": "English",
       "Country": "United States"
     },
@@ -1063,16 +1030,14 @@
       "netflix_url": "https://www.netflix.com/title/81036190",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Guillermo Vilas: Settling the Score",
       "netflix_url": "https://www.netflix.com/title/81037873",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Bruised",
@@ -1088,6 +1053,23 @@
       "Director": "Andrew Essig",
       "Writer": "N/A",
       "Actors": "Isabelle Abel, Natasha Kalimada",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Sisters on Track",
+      "netflix_url": "https://www.netflix.com/title/81043583",
+      "year": "2021",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt9337574",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWFlY2Q5ZDEtNDk0YS00Zjg1LTg3ODctYTUxNjA1ZGU0ODUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A coming of age story about hope, belonging, and the metaphorical and literal sisterhood of young athletes Tai, Rainn, and Brooke Sheppard living in New York.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Tone Grøttjord-Glenne, Corinne van der Borch",
+      "Writer": "Sean Gullette",
+      "Actors": "Tai Sheppard, Rainn Sheppard, Brooke Sheppard",
       "Language": "English",
       "Country": "United States"
     },
@@ -1113,8 +1095,24 @@
       "netflix_url": "https://www.netflix.com/title/81057229",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
+    },
+    {
+      "title": "2,215",
+      "netflix_url": "https://www.netflix.com/title/81059183",
+      "year": "2018",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt8891536",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGUyZTE4OWEtMzVkMy00NzA4LWJmZjgtN2VlMmZjY2VlMmFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A documentary based on true story of thai singer named \"Artiwara Kongmalai\", who dedicates himself to long-running from Betong, Yala district, South of Thailand to Mae sai, Chiang Rai, North of Thailand. It takes 2 215 kilometres ...",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary",
+      "Director": "Nottapon Boonprakob",
+      "Writer": "N/A",
+      "Actors": "Artiwara Kongmalai, Samitada Sungkapo",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "We Are Legends",
@@ -1137,18 +1135,18 @@
       "title": "Pelé",
       "netflix_url": "https://www.netflix.com/title/81074673",
       "year": "2021",
-      "imdb_rating": "7.1",
-      "imdb_id": "tt0995868",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2NzQwMzQyMF5BMl5BanBnXkFtZTgwNzkzODk2ODE@._V1_SX300.jpg",
-      "Plot": "Pele's meteoric rise from the slums of Sao Paulo to leading Brazil to its first World Cup victory at the age of 17 is chronicled in this biographical drama.",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt0793430",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzNmNGM1M2EtZTc5Ni00N2U4LWJiNzktNTQzYWU0NmE2YTIzXkEyXkFqcGdeQXVyNjg1NTY4MA@@._V1_SX300.jpg",
+      "Plot": "N/A",
       "Type": "movie",
-      "RunTime": "107 min",
-      "Genre": "Biography, Drama, Sport",
-      "Director": "Jeff Zimbalist, Michael Zimbalist",
-      "Writer": "Jeff Zimbalist, Michael Zimbalist",
-      "Actors": "Vincent D'Onofrio, Rodrigo Santoro, Diego Boneta",
-      "Language": "English, Portuguese, Swedish",
-      "Country": "United States"
+      "RunTime": "100 min",
+      "Genre": "Drama",
+      "Director": "Fernando Vendrell",
+      "Writer": "Carla Baptista, Henrique Galvão, Fernando Vendrell",
+      "Actors": "Daniela Costa, Francisco Nascimento, Manuel Wiborg",
+      "Language": "Portuguese",
+      "Country": "Portugal"
     },
     {
       "title": "Hold Your Breath: The Ice Dive",
@@ -1321,23 +1319,6 @@
       "Country": "India, United States"
     },
     {
-      "title": "Torbaaz",
-      "netflix_url": "https://www.netflix.com/title/81264422",
-      "year": "2020",
-      "imdb_rating": "5.1",
-      "imdb_id": "tt7805960",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzZkOGY1ZDQtZjJmNC00OGMwLThiMGYtZmQzMDg1NTk1YmFjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A man rises from personal tragedy to lead a group of children from a refugee camp to victory, transforming their lives through the game of cricket.",
-      "Type": "movie",
-      "RunTime": "133 min",
-      "Genre": "Action, Drama, Sport",
-      "Director": "Girish Malik",
-      "Writer": "Girish Malik, Bharti Jakhar, Humayoon Shams Khan",
-      "Actors": "Sanjay Dutt, Nargis Fakhri, Rahul Dev",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
       "title": "Bartkowiak",
       "netflix_url": "https://www.netflix.com/title/81265968",
       "year": "2021",
@@ -1393,8 +1374,7 @@
       "netflix_url": "https://www.netflix.com/title/81318084",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Jaadugar",
@@ -1652,23 +1632,6 @@
       "Country": "Hong Kong"
     },
     {
-      "title": "The Saint of Second Chances",
-      "netflix_url": "https://www.netflix.com/title/81476121",
-      "year": "2023",
-      "imdb_rating": "7.5",
-      "imdb_id": "tt27549543",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ5YjA2ODItMGI4MS00NjAwLWJkN2YtMTU2YzJiMzMxOTc2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Mike Veeck, son of legendary Major League Baseball owner Bill Veeck, blows up his father's career and then spends the next few decades learning the value of a second chance.",
-      "Type": "movie",
-      "RunTime": "93 min",
-      "Genre": "Documentary, Biography, Drama",
-      "Director": "Jeff Malmberg, Morgan Neville",
-      "Writer": "N/A",
-      "Actors": "Mike Veeck, Charlie Day, Jeff Daniels",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Sixty Minutes",
       "netflix_url": "https://www.netflix.com/title/81486233",
       "year": "2024",
@@ -1701,23 +1664,6 @@
       "Actors": "William Adams, Athenkosi Cwele, Gcinuhlanga Dibi",
       "Language": "Xhosa, English",
       "Country": "South Africa"
-    },
-    {
-      "title": "Forever",
-      "netflix_url": "https://www.netflix.com/title/81509437",
-      "year": "2023",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt18312914",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzNjMDRjN2MtOTRlMC00N2VlLWJlN2MtODhlZmFlMGZkMTY5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Mila and Kia, a pair of teenage best friends and aspiring football professionals. When the girls get a new demanding football coach Lollo, they slowly start to drift apart.",
-      "Type": "movie",
-      "RunTime": "103 min",
-      "Genre": "Drama, Sport",
-      "Director": "Anders Hazelius",
-      "Writer": "Jessika Jankert",
-      "Actors": "Agnes Lindström Bolmgren, Mattias Nordkvist, Mustapha Aarab",
-      "Language": "Swedish",
-      "Country": "Sweden"
     },
     {
       "title": "No Limit",
@@ -1860,8 +1806,7 @@
       "netflix_url": "https://www.netflix.com/title/81582387",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Untold: The Murder of Air McNair",
@@ -1885,8 +1830,7 @@
       "netflix_url": "https://www.netflix.com/title/81582390",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Fast & Feel Love",
@@ -2008,14 +1952,6 @@
       "Country": "Mexico"
     },
     {
-      "title": "Sesham Mike-il Fathima",
-      "netflix_url": "https://www.netflix.com/title/81643044",
-      "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Pattathu Arasan",
       "netflix_url": "https://www.netflix.com/title/81644286",
       "year": "2022",
@@ -2084,6 +2020,23 @@
       "Country": "Japan"
     },
     {
+      "title": "American Girl: Corinne Tan",
+      "netflix_url": "https://www.netflix.com/title/81652372",
+      "year": "2023",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt20215534",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGIzYjc5ZDgtNzVmZC00ZDBkLWJkZWEtNWNiMzQ5Nzk2OTlhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "13-year-old Corrine deals with her parents' recent divorce while everyone else is already adapted to their new roles as a blended family, challenging herself to train a rambunctious puppy as she discovers her new purpose.",
+      "Type": "movie",
+      "RunTime": "61 min",
+      "Genre": "Drama, Family",
+      "Director": "Angela C. Tortu",
+      "Writer": "Wendy Wan-Long Shang, May Chan",
+      "Actors": "Miya Cech, Michelle Krusiec, Rryla McIntosh",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Elway",
       "netflix_url": "https://www.netflix.com/title/81660046",
       "year": "2025",
@@ -2139,8 +2092,7 @@
       "netflix_url": "https://www.netflix.com/title/81675917",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Fuchsia Libre",
@@ -2266,16 +2218,14 @@
       "netflix_url": "https://www.netflix.com/title/81725537",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Off Track 2",
       "netflix_url": "https://www.netflix.com/title/81735101",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "It's All Over: The Kiss That Changed Spanish Football",
@@ -2293,14 +2243,6 @@
       "Actors": "Jennifer Hermoso, Alexia Putellas, Irene Paredes",
       "Language": "Spanish",
       "Country": "Spain"
-    },
-    {
-      "title": "The Ladies with Style",
-      "netflix_url": "https://www.netflix.com/title/81737939",
-      "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
     },
     {
       "title": "The Wrong Track",
@@ -2337,60 +2279,53 @@
       "Country": "France, Belgium"
     },
     {
-      "title": "30 for 30: Nature Boy",
-      "netflix_url": "https://www.netflix.com/title/81748052",
-      "year": "2017",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Untold: The Fall of Favre",
       "netflix_url": "https://www.netflix.com/title/81748451",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Who Killed the Montreal Expos?",
       "netflix_url": "https://www.netflix.com/title/81748607",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "30 for 30: Deion's Double Play",
       "netflix_url": "https://www.netflix.com/title/81752193",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
+    },
+    {
+      "title": "30 for 30: The Good, The Bad, The Hungry",
+      "netflix_url": "https://www.netflix.com/title/81752194",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "30 for 30: Catholics vs. Convicts",
       "netflix_url": "https://www.netflix.com/title/81752199",
       "year": "2016",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "30 for 30: This Was the XFL",
       "netflix_url": "https://www.netflix.com/title/81752201",
       "year": "2016",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "30 for 30: Celtics/Lakers: The Best of Enemies",
       "netflix_url": "https://www.netflix.com/title/81753676",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Untold: Sign Stealer",
@@ -2482,8 +2417,7 @@
       "netflix_url": "https://www.netflix.com/title/81778837",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Bison Kaalamaadan",
@@ -2558,8 +2492,7 @@
       "netflix_url": "https://www.netflix.com/title/81923633",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Turnaround",
@@ -2634,8 +2567,7 @@
       "netflix_url": "https://www.netflix.com/title/82184420",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     }
   ]
 }

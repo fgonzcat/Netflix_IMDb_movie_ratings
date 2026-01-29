@@ -108,18 +108,18 @@
       "title": "The A-Team",
       "netflix_url": "https://www.netflix.com/title/70103526",
       "year": "2010",
-      "imdb_rating": "7.8",
-      "imdb_id": "tt7215706",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZGIxNmY1MzEtNWU5Yy00NTljLWE2NDktZTA0ZWFjYTdmNGFjXkEyXkFqcGdeQXVyODE3MDg1OTE@._V1_SX300.jpg",
-      "Plot": "A day in the life of a homeless, cocaine smoking, prostitute.",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0429493",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4ODc4NTQ1N15BMl5BanBnXkFtZTcwNDUxODUyMw@@._V1_SX300.jpg",
+      "Plot": "A group of Iraq War veterans look to clear their name with the U.S. Military, who suspect the four men of committing a crime for which they were framed.",
       "Type": "movie",
-      "RunTime": "5 min",
-      "Genre": "Short, Drama, Music",
-      "Director": "Ruskin Kyle",
-      "Writer": "N/A",
-      "Actors": "Katie Brady, Selina MacDonald",
-      "Language": "English",
-      "Country": "UK"
+      "RunTime": "117 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Joe Carnahan",
+      "Writer": "Joe Carnahan, Brian Bloom, Skip Woods",
+      "Actors": "Liam Neeson, Bradley Cooper, Sharlto Copley",
+      "Language": "English, Spanish, French, Swahili, German",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "30 Minutes or Less",
@@ -262,8 +262,7 @@
       "netflix_url": "https://www.netflix.com/title/80080514",
       "year": "2016",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "True Memoirs of an International Assassin",
@@ -281,23 +280,6 @@
       "Actors": "Kevin James, Kim Coates, Maurice Compte",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Okja",
-      "netflix_url": "https://www.netflix.com/title/80091936",
-      "year": "2017",
-      "imdb_rating": "7.3",
-      "imdb_id": "tt3967856",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQxMTcxNDgxN15BMl5BanBnXkFtZTgwOTczNTIzMjI@._V1_SX300.jpg",
-      "Plot": "A young girl risks everything to prevent a powerful, multinational company from kidnapping her best friend - a fascinating beast named Okja.",
-      "Type": "movie",
-      "RunTime": "120 min",
-      "Genre": "Action, Adventure, Drama",
-      "Director": "Bong Joon Ho",
-      "Writer": "Bong Joon Ho, Jon Ronson",
-      "Actors": "Tilda Swinton, Paul Dano, Ahn Seo-hyun",
-      "Language": "English, Korean, Spanish",
-      "Country": "South Korea, United States"
     },
     {
       "title": "Bon Cop Bad Cop 2",
@@ -610,8 +592,7 @@
       "netflix_url": "https://www.netflix.com/title/81057229",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
@@ -669,8 +650,7 @@
       "netflix_url": "https://www.netflix.com/title/81110387",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Red Notice",
@@ -1092,8 +1072,7 @@
       "netflix_url": "https://www.netflix.com/title/81382296",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Astérix & Obélix: The Middle Kingdom",
@@ -1185,8 +1164,7 @@
       "netflix_url": "https://www.netflix.com/title/81418159",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "THE FABLE",
@@ -1427,23 +1405,6 @@
       "Country": "India, United Kingdom"
     },
     {
-      "title": "Happy Birthday",
-      "netflix_url": "https://www.netflix.com/title/81551312",
-      "year": "2022",
-      "imdb_rating": "5.5",
-      "imdb_id": "tt21149558",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmMyZGI3ZDQtZDNjYy00ZTZiLWIzMGUtN2ZiMWFkZjA0MWI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Defense Minister Ritwik Sodhi passes a gun amendment bill that enables one to own a gun. This is the story of how Happy, Lucky, Max Pain, Uncle Fixit, Serena and William's stories intertwine among themselves amidst passing of the ...",
-      "Type": "movie",
-      "RunTime": "154 min",
-      "Genre": "Comedy",
-      "Director": "Ritesh Rana",
-      "Writer": "Ritesh Rana",
-      "Actors": "Lavanya Tripathi, Naresh Agastya, Baaji",
-      "Language": "Telugu",
-      "Country": "India"
-    },
-    {
       "title": "Meter",
       "netflix_url": "https://www.netflix.com/title/81551313",
       "year": "2023",
@@ -1635,8 +1596,7 @@
       "netflix_url": "https://www.netflix.com/title/81660256",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Almost Cops",
@@ -1779,8 +1739,7 @@
       "netflix_url": "https://www.netflix.com/title/81716244",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Bogeyman",
@@ -1957,8 +1916,7 @@
       "netflix_url": "https://www.netflix.com/title/81937233",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Mathu Vadalara 2",
@@ -1999,16 +1957,14 @@
       "netflix_url": "https://www.netflix.com/title/82125877",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "KPop Demon Hunters Lyric Videos",
       "netflix_url": "https://www.netflix.com/title/82174859",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     }
   ]
 }

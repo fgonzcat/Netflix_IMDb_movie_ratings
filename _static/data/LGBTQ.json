@@ -245,8 +245,7 @@
       "netflix_url": "https://www.netflix.com/title/80235267",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Boy Erased",
@@ -848,8 +847,7 @@
       "netflix_url": "https://www.netflix.com/title/81325689",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Eldorado: Everything the Nazis Hate",
@@ -890,16 +888,14 @@
       "netflix_url": "https://www.netflix.com/title/81334750",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Anne+: The Film",
       "netflix_url": "https://www.netflix.com/title/81337079",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Heart Shot",
@@ -956,18 +952,18 @@
       "title": "I Care a Lot",
       "netflix_url": "https://www.netflix.com/title/81350429",
       "year": "2021",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt22606428",
-      "Poster": "N/A",
-      "Plot": "N/A",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9893250",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg5M2NlZDItMmI5Yi00N2VmLTgyYmMtNDgzMzQ2ZjlmNzg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A crooked legal guardian who drains the savings of her elderly wards meets her match when a woman she tries to swindle turns out to be more than she first appears.",
       "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "N/A",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Language": "N/A",
-      "Country": "N/A"
+      "RunTime": "118 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "J Blakeson",
+      "Writer": "J Blakeson",
+      "Actors": "Rosamund Pike, Peter Dinklage, Eiza González",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "The Dreamlife of Georgie Stone",
@@ -1042,8 +1038,7 @@
       "netflix_url": "https://www.netflix.com/title/81468397",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Happy Ending",
@@ -1152,8 +1147,7 @@
       "netflix_url": "https://www.netflix.com/title/81665492",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "LSD 2: Love Sex aur Dhokha 2",
@@ -1194,8 +1188,7 @@
       "netflix_url": "https://www.netflix.com/title/81682079",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Brother",
@@ -1406,8 +1399,7 @@
       "netflix_url": "https://www.netflix.com/title/81759550",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Will & Harper",
@@ -1512,29 +1504,11 @@
       "Country": "United States"
     },
     {
-      "title": "Quinceañero",
-      "netflix_url": "https://www.netflix.com/title/81923253",
-      "year": "2021",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt14734610",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg5MjZhNmYtY2Q4My00ODJkLWIyNDMtOGI0YzJkYzEzOTkzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A whimsical musical about a Catholic boy's dream of having a Quinceañera.",
-      "Type": "movie",
-      "RunTime": "24 min",
-      "Genre": "Short, Musical",
-      "Director": "Justin Floyd",
-      "Writer": "Justin Floyd",
-      "Actors": "Christian Zamudio, Oscar Balderrama, Los Tigres del Norte",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Lali: Time to Step Up",
       "netflix_url": "https://www.netflix.com/title/81940759",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Paradise of Thorns",

@@ -278,16 +278,16 @@
       "title": "Naruto Shippuden: The Movie",
       "netflix_url": "https://www.netflix.com/title/70124999",
       "year": "2007",
-      "imdb_rating": "6.7",
-      "imdb_id": "tt0988982",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjNiOWU3ODQtNDE4Zi00M2FlLWFjMjYtZDA0NGZiZTc3Yjc2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A powerful spirit that once threatened to destroy the world is back! Naruto's mission is to protect a priestess named Shion, who is the only one with the power to seal away the monster.",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt1999167",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTgwZDkyODktYjk0My00NTVhLWIxMmQtMGY4ODYzMTlhYmE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Naruto Uzumaki is framed and sent to an inescapable prison where he must escape by any means necessary.",
       "Type": "movie",
-      "RunTime": "94 min",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "Hajime Kamegaki",
-      "Writer": "Masashi Kishimoto, Junki Takegami",
-      "Actors": "Junko Takeuchi, Chie Nakamura, Yôichi Masukawa",
+      "RunTime": "108 min",
+      "Genre": "Animation, Action, Mystery",
+      "Director": "Masahiko Murata",
+      "Writer": "Akira Higashiyama, Masashi Kishimoto",
+      "Actors": "Junko Takeuchi, Chie Nakamura, Rikiya Koyama",
       "Language": "Japanese",
       "Country": "Japan"
     },
@@ -1680,32 +1680,28 @@
       "netflix_url": "https://www.netflix.com/title/81722297",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Kalki 2898 AD (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81726031",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Pretty Guardian Sailor Moon Cosmos The Movie",
       "netflix_url": "https://www.netflix.com/title/81732000",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Rebel Moon — Part Two: Director’s Cut",
       "netflix_url": "https://www.netflix.com/title/81746591",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Mobile Suit Gundam SEED FREEDOM",
@@ -1746,8 +1742,7 @@
       "netflix_url": "https://www.netflix.com/title/81767637",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Panji Tengkorak",
@@ -1788,8 +1783,7 @@
       "netflix_url": "https://www.netflix.com/title/82180284",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     }
   ]
 }

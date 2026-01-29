@@ -3,23 +3,6 @@
   "genre_url": "https://www.netflix.com/browse/genre/9584",
   "movies": [
     {
-      "title": "Aakhri Adaalat",
-      "netflix_url": "https://www.netflix.com/title/20254278",
-      "year": "1988",
-      "imdb_rating": "5.1",
-      "imdb_id": "tt0177505",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWViZTZlYmEtOTMzMC00OGFjLTkzZWUtZjdmMjc2ZGJjNThiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Plot": "An intrepid police inspector forced into a desk job must take matters into his own hands when ruthless criminals are released on a technicality.",
-      "Type": "movie",
-      "RunTime": "148 min",
-      "Genre": "Action, Thriller",
-      "Director": "Rajiv Mehra",
-      "Writer": "Mohan Kaul, Ravi Kapoor, Javed Siddiqui",
-      "Actors": "Vinod Khanna, Dimple Kapadia, Jackie Shroff",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
       "title": "Ace Ventura: When Nature Calls",
       "netflix_url": "https://www.netflix.com/title/215318",
       "year": "1995",
@@ -411,23 +394,6 @@
       "Country": "India"
     },
     {
-      "title": "Kill Dil",
-      "netflix_url": "https://www.netflix.com/title/80024000",
-      "year": "2014",
-      "imdb_rating": "4.5",
-      "imdb_id": "tt3380264",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWY0NzYzNzktMDNjOC00MDRiLTlhN2ItMzE4YTUwMTFlZGQyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Abandoned when young, Bhaiyaji gives shelter to Dev and Tutu. A game of defiance, deception and love follows when free-spirited Disha enters their life.",
-      "Type": "movie",
-      "RunTime": "127 min",
-      "Genre": "Action, Comedy, Drama",
-      "Director": "Shaad Ali",
-      "Writer": "Nitesh Tiwari, Shreyas Jain, Nikhil Mehrotra",
-      "Actors": "Ranveer Singh, Ali Zafar, Parineeti Chopra",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
       "title": "Headshot",
       "netflix_url": "https://www.netflix.com/title/80109145",
       "year": "2016",
@@ -530,23 +496,6 @@
       "Country": "India"
     },
     {
-      "title": "Mujrim",
-      "netflix_url": "https://www.netflix.com/title/80156939",
-      "year": "1989",
-      "imdb_rating": "5.4",
-      "imdb_id": "tt0097926",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQwZWE5MjctMTlkYy00NWUwLTg0ZTktZmUxYzcxZGE4NWNkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Plot": "Jailed as a teenager, Shankar has been unable to stay on the right side of the law ever since, despite his wife's pleas and his mother's rejection.",
-      "Type": "movie",
-      "RunTime": "163 min",
-      "Genre": "Action, Crime",
-      "Director": "Umesh Mehra",
-      "Writer": "Mukul Dutt, P.D. Mehra, Vinay Shukla",
-      "Actors": "Mithun Chakraborty, Madhuri Dixit, Suresh Oberoi",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
       "title": "Hold the Dark",
       "netflix_url": "https://www.netflix.com/title/80157072",
       "year": "2018",
@@ -562,40 +511,6 @@
       "Actors": "Jeffrey Wright, Alexander Skarsgård, James Badge Dale",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Salaakhen",
-      "netflix_url": "https://www.netflix.com/title/80158479",
-      "year": "1975",
-      "imdb_rating": "5.7",
-      "imdb_id": "tt0395743",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMyOWE3OTMtNTEzOS00YmM0LTljNGQtMGFiNGZlMjNhODU1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Plot": "In-separable childhood friends, Raju and Guddi are separated when Guddi's dad, Ramlal is arrested by the police for theft. Years later Guddi is now a cabaret dancer and singer, Seema, while Raju is a thief and professional gambler...",
-      "Type": "movie",
-      "RunTime": "129 min",
-      "Genre": "Action, Thriller",
-      "Director": "A. Salaam",
-      "Writer": "Shanti Prakash Bakshi, A. Salaam",
-      "Actors": "Shashi Kapoor, Sulakshana Pandit, Mehmood",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
-      "title": "Khoon Khoon",
-      "netflix_url": "https://www.netflix.com/title/80158480",
-      "year": "1973",
-      "imdb_rating": "5.2",
-      "imdb_id": "tt0230412",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI0MjRkMTMtZWRlMi00ZGZmLTg2MDYtMWZhZjRiMjdjZjFjXkEyXkFqcGdeQXVyMjU3MzYxODk@._V1_SX300.jpg",
-      "Plot": "A Bombay cop tries to track down a serial killer who snipes at random victims.",
-      "Type": "movie",
-      "RunTime": "127 min",
-      "Genre": "Crime, Mystery, Thriller",
-      "Director": "Mohammed Hussain",
-      "Writer": "Umesh, Vrajendra Gaur",
-      "Actors": "Mahendra Sandhu, Danny Denzongpa, Jagdeep",
-      "Language": "Hindi",
-      "Country": "India"
     },
     {
       "title": "Raees",
@@ -715,23 +630,6 @@
       "Actors": "Frank Grillo, Stuart F. Wilson, Buster Reeves",
       "Language": "English",
       "Country": "France, United States"
-    },
-    {
-      "title": "BuyBust",
-      "netflix_url": "https://www.netflix.com/title/80222787",
-      "year": "2018",
-      "imdb_rating": "5.7",
-      "imdb_id": "tt5938084",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZmMWZjNDMtMWI2ZS00ZWU3LThkYjktOTRlZWU3MTZmMTRmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An anti-drug enforcement agency stages a massive drug bust in the slums of Manila.",
-      "Type": "movie",
-      "RunTime": "127 min",
-      "Genre": "Action, Crime, Thriller",
-      "Director": "Erik Matti",
-      "Writer": "Anton Santamaria, Erik Matti",
-      "Actors": "Anne Curtis, Brandon Vera, Victor Neri",
-      "Language": "Filipino, Tagalog",
-      "Country": "Philippines"
     },
     {
       "title": "Polar",
@@ -1091,37 +989,18 @@
       "Country": "United States"
     },
     {
-      "title": "Malang",
-      "netflix_url": "https://www.netflix.com/title/81214289",
-      "year": "2020",
-      "imdb_rating": "6.5",
-      "imdb_id": "tt9877170",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODc5NWY1NzctMWEwYS00NmU0LWJlYzEtNzg1ZGJjZTEwODE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his...",
-      "Type": "movie",
-      "RunTime": "135 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Mohit Suri",
-      "Writer": "Aseem Arrora, Aniruddha Guha, Mohit Suri",
-      "Actors": "Aditya Roy Kapoor, Anil Kapoor, Disha Patani",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
       "title": "Dostana (1980)",
       "netflix_url": "https://www.netflix.com/title/81244365",
       "year": "1980",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Agneepath (2012)",
       "netflix_url": "https://www.netflix.com/title/81244367",
       "year": "2012",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Lovebirds",
@@ -1229,18 +1108,18 @@
       "title": "Centauro",
       "netflix_url": "https://www.netflix.com/title/81307119",
       "year": "2022",
-      "imdb_rating": "8.2",
-      "imdb_id": "tt4689000",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2U5ZTgyMDgtY2ViMS00NDRiLWFkMDEtNjA4ZDU4YzAzNDYyXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_SX300.jpg",
-      "Plot": "Yolanda Acosta is an attractive and intelligent woman capable of breaking the law just to protect her beloved daughter Cristina, but destiny makes her the lover of Benedicto Suárez alias El Centauro, one of the most important drug...",
-      "Type": "series",
-      "RunTime": "60 min",
-      "Genre": "Drama, Thriller",
-      "Director": "N/A",
-      "Writer": "Lina Uribe, Dario Vanegas",
-      "Actors": "Humberto Zurita, Michel Brown, Wayne LeGette",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt6067908",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGM3ZTEyODktYjRiZC00MTIwLTk1MzYtMTdmOWVhZTc1MDQ5L2ltYWdlXkEyXkFqcGdeQXVyNjcxMjI4MA@@._V1_SX300.jpg",
+      "Plot": "A man falls from a horse and can no longer be saved. Man and horse become one, for a short moment.",
+      "Type": "movie",
+      "RunTime": "14 min",
+      "Genre": "Animation, Short",
+      "Director": "Nicolás Suárez",
+      "Writer": "Nicolás Suárez",
+      "Actors": "Walter Jakob, Agustín Alcides Otero",
       "Language": "Spanish",
-      "Country": "United States, Mexico, Colombia"
+      "Country": "Argentina"
     },
     {
       "title": "Havoc",
@@ -1264,8 +1143,7 @@
       "netflix_url": "https://www.netflix.com/title/81337210",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Sky High",
@@ -1289,8 +1167,7 @@
       "netflix_url": "https://www.netflix.com/title/81382296",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Amigos",
@@ -1359,6 +1236,23 @@
       "Actors": "Franck Gastambide, Simon Abkarian, Michaël Abiteboul",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "Wild Dog",
+      "netflix_url": "https://www.netflix.com/title/81427455",
+      "year": "2020",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt11503178",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjUwZGUyMjYtYWI1Yi00NGMwLTkzYmMtMjE1OTNhNjYzMGUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A brash but brilliant Indian intelligence agent leads a covert operation to nab the mastermind behind a series of attacks threatening national security.",
+      "Type": "movie",
+      "RunTime": "145 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Ahishor Solomon",
+      "Writer": "Ahishor Solomon, Kiran Kumar",
+      "Actors": "Nagarjuna Akkineni, Dia Mirza, Saiyami Kher",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Animal",
@@ -1684,14 +1578,6 @@
       "Country": "India"
     },
     {
-      "title": "Maha Samudram (Tamil)",
-      "netflix_url": "https://www.netflix.com/title/81509786",
-      "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Ghost in the Shell: SAC_2045 Sustainable War",
       "netflix_url": "https://www.netflix.com/title/81513128",
       "year": "2021",
@@ -1950,18 +1836,18 @@
       "title": "Furies",
       "netflix_url": "https://www.netflix.com/title/81603171",
       "year": "2023",
-      "imdb_rating": "5.4",
-      "imdb_id": "tt8228172",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmI3ZmVmNGEtZDk2Yy00ZTc4LTgwMjctNjQzNjYxMzUxNWU0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A woman is kidnapped and finds herself an unwilling participant in a deadly game where women are hunted by masked men.",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt25260664",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmMxNjM5MjMtMmNjNi00YmU0LTlkNTctYjIzZTJlN2JhNTUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Prequel to Furie (2019). Tells the story about the early life of Thanh Soi, Hai Phuong's vicious antagonist in the merciless street of bygone days in Saigon.",
       "Type": "movie",
-      "RunTime": "82 min",
-      "Genre": "Action, Horror, Thriller",
-      "Director": "Tony D'Aquino",
-      "Writer": "Tony D'Aquino",
-      "Actors": "Danielle Horvat, Leo Stripp, Dean Gould",
-      "Language": "English",
-      "Country": "Australia"
+      "RunTime": "109 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Veronica Ngo",
+      "Writer": "Vo Nguyen Dan, Nha Uyen Ly Nguyen, Veronica Ngo",
+      "Actors": "Dong Anh Quynh, Toc Tien, Thuan Nguyen",
+      "Language": "Vietnamese",
+      "Country": "Vietnam"
     },
     {
       "title": "Inkabi",
@@ -1985,16 +1871,14 @@
       "netflix_url": "https://www.netflix.com/title/81623070",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Inside Furioza",
       "netflix_url": "https://www.netflix.com/title/81623506",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Shadow Strays",
@@ -2031,37 +1915,11 @@
       "Country": "India"
     },
     {
-      "title": "Buffoon",
-      "netflix_url": "https://www.netflix.com/title/81632917",
-      "year": "2022",
-      "imdb_rating": "5.0",
-      "imdb_id": "tt14391226",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk3MDQyNmUtYWM4MC00ZGZkLWIwMGItNTY2NzgxMDUxZjYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Rangarajan, a powerful casteist politician confronts the party leader for MLA seat and if denied warns to start a separate party. How far will he go to see it happen?",
-      "Type": "movie",
-      "RunTime": "119 min",
-      "Genre": "Drama",
-      "Director": "Ashok Veerappan",
-      "Writer": "Ashok Veerappan",
-      "Actors": "Vaibhav Reddy, Anagha L.K., Anthakudi Ilayaraja",
-      "Language": "Tamil",
-      "Country": "India"
-    },
-    {
-      "title": "Leo (Tamil)",
-      "netflix_url": "https://www.netflix.com/title/81639319",
-      "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Leo (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81639323",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Revolver Rita",
@@ -2098,37 +1956,18 @@
       "Country": "India"
     },
     {
-      "title": "Thunivu",
-      "netflix_url": "https://www.netflix.com/title/81644302",
-      "year": "2023",
-      "imdb_rating": "6.1",
-      "imdb_id": "tt15163652",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDAzY2RhNmItMDY0MS00OTE4LTg4MGUtOTU2ZGE4NjdjMThkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A mysterious mastermind - Daredevil and his team forms a plan and commits bank heist to find the corporate looted people's money.",
-      "Type": "movie",
-      "RunTime": "146 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "H. Vinoth",
-      "Writer": "H. Vinoth",
-      "Actors": "Ajith Kumar, Manju Warrier, Samuthirakani",
-      "Language": "Tamil",
-      "Country": "India"
-    },
-    {
       "title": "GodFather (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81648072",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Ghost (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81648103",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Hard Days",
@@ -2220,8 +2059,7 @@
       "netflix_url": "https://www.netflix.com/title/81677440",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Kingdom",
@@ -2245,8 +2083,7 @@
       "netflix_url": "https://www.netflix.com/title/81678098",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Jack",
@@ -2525,8 +2362,7 @@
       "netflix_url": "https://www.netflix.com/title/81742215",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "K.O.",
@@ -2703,8 +2539,7 @@
       "netflix_url": "https://www.netflix.com/title/81902063",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Thug Life",
@@ -2744,8 +2579,7 @@
       "netflix_url": "https://www.netflix.com/title/81937233",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Mathu Vadalara 2",
@@ -2769,24 +2603,21 @@
       "netflix_url": "https://www.netflix.com/title/81949635",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Bleeding Tiger: Internal Affairs",
       "netflix_url": "https://www.netflix.com/title/81949636",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Bleeding Tiger: Resolution",
       "netflix_url": "https://www.netflix.com/title/81949637",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Bagheera",
@@ -2810,16 +2641,14 @@
       "netflix_url": "https://www.netflix.com/title/81987104",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Pushpa 2: The Rule (Reloaded Version)",
       "netflix_url": "https://www.netflix.com/title/82006666",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "GATAO: Like Father Like Son",
@@ -2843,8 +2672,7 @@
       "netflix_url": "https://www.netflix.com/title/82050407",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Stone Cold Fox",
@@ -2885,8 +2713,7 @@
       "netflix_url": "https://www.netflix.com/title/82630592",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Ride",

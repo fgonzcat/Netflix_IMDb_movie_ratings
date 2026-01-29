@@ -58,8 +58,7 @@
       "netflix_url": "https://www.netflix.com/title/70137756",
       "year": "2010",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Colombiana",
@@ -491,8 +490,7 @@
       "netflix_url": "https://www.netflix.com/title/81026438",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Untold: Operation Flagrant Foul",
@@ -771,8 +769,7 @@
       "netflix_url": "https://www.netflix.com/title/81337210",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Sky High",
@@ -813,8 +810,7 @@
       "netflix_url": "https://www.netflix.com/title/81382296",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Mumbai Mafia: Police vs The Underworld",
@@ -849,6 +845,23 @@
       "Actors": "Tomasz Wlosok, Aleks Kurdzielewicz, Antoni Królikowski",
       "Language": "Polish",
       "Country": "Poland"
+    },
+    {
+      "title": "The Photographer: Murder in Pinamar",
+      "netflix_url": "https://www.netflix.com/title/81404183",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt19731714",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODFlNDhlMmEtZTUyNC00NDI3LTkxMmEtN2MwY2Q2YzAwZjVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This documentary examines the murder of photojournalist José Luis Cabezas, a crime that shook Argentina and exposed a political and financial conspiracy.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Alejandro Hartmann",
+      "Writer": "Oscar Andreani, Raúl Aragón, Osvaldo Baratucci",
+      "Actors": "Elias Argentiere, José Luis Cabezas, Domingo Cavallo",
+      "Language": "Spanish",
+      "Country": "Argentina"
     },
     {
       "title": "Pig",
@@ -1191,12 +1204,28 @@
       "Country": "South Korea"
     },
     {
+      "title": "GodFather",
+      "netflix_url": "https://www.netflix.com/title/81597036",
+      "year": "2022",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt13130308",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDI2OTU2MzctMzYwZC00MjM5LThmNmQtZjRhOWFlMjQ4NjkyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A political leader's death leads to a power struggle. Amid corruption, greed and deceit, an unlikely opponent steps up.",
+      "Type": "movie",
+      "RunTime": "157 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Mohan Raja",
+      "Writer": "Lakshmi Bhupala, Murali Gopy, Mohan Raja",
+      "Actors": "Chiranjeevi, Salman Khan, Nayanthara",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "HELL DOGS - IN THE HOUSE OF BAMBOO -",
       "netflix_url": "https://www.netflix.com/title/81623070",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Violence Action",
@@ -1220,8 +1249,7 @@
       "netflix_url": "https://www.netflix.com/title/81623506",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Shadow Strays",
@@ -1262,16 +1290,7 @@
       "netflix_url": "https://www.netflix.com/title/81639323",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "GodFather (Hindi)",
-      "netflix_url": "https://www.netflix.com/title/81648072",
-      "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Almost Cops",
@@ -1516,8 +1535,7 @@
       "netflix_url": "https://www.netflix.com/title/81742215",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "K.O.",
@@ -1575,16 +1593,14 @@
       "netflix_url": "https://www.netflix.com/title/81902063",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Pushpa 2: The Rule (Reloaded Version)",
       "netflix_url": "https://www.netflix.com/title/82006666",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Uninvited",
@@ -1642,8 +1658,7 @@
       "netflix_url": "https://www.netflix.com/title/82630592",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Pulp Fiction",

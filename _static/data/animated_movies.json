@@ -41,8 +41,7 @@
       "netflix_url": "https://www.netflix.com/title/80019503",
       "year": "2014",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "F is for Family",
@@ -249,14 +248,6 @@
       "Country": "Brazil"
     },
     {
-      "title": "Flavors of Youth: International Version",
-      "netflix_url": "https://www.netflix.com/title/80234491",
-      "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Trailer Park Boys: The Animated Series",
       "netflix_url": "https://www.netflix.com/title/80235932",
       "year": "2020",
@@ -345,16 +336,16 @@
       "title": "Inside Job",
       "netflix_url": "https://www.netflix.com/title/80995819",
       "year": "2022",
-      "imdb_rating": "8.2",
-      "imdb_id": "tt1645089",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjkyODA2Nl5BMl5BanBnXkFtZTcwNzQxMTU4Mw@@._V1_SX300.jpg",
-      "Plot": "Takes a closer look at what brought about the 2008 financial meltdown.",
-      "Type": "movie",
-      "RunTime": "109 min",
-      "Genre": "Documentary, Crime",
-      "Director": "Charles Ferguson",
-      "Writer": "Charles Ferguson, Chad Beck, Adam Bolt",
-      "Actors": "Matt Damon, Gylfi Zoega, Andri Snær Magnason",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt10231312",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjJkMjhhNzctNjMxOS00M2Y1LWFiMmMtZjQ5ZjllM2UxYjAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "For employees of the Deep State, conspiracies aren't just theories, they're fact. And keeping them a secret is a full-time job.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Shion Takeuchi, Alex Hirsch",
+      "Actors": "Lizzy Caplan, Christian Slater, Clark Duke",
       "Language": "English",
       "Country": "United States"
     },
@@ -397,8 +388,7 @@
       "netflix_url": "https://www.netflix.com/title/81008536",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Liberator",
@@ -935,38 +925,21 @@
       "Country": "Japan, United States"
     },
     {
-      "title": "New Gods: Nezha Reborn",
-      "netflix_url": "https://www.netflix.com/title/81418302",
-      "year": "2021",
-      "imdb_rating": "6.8",
-      "imdb_id": "tt13269670",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmEwMTUxNjctNWE3NC00NDY4LThkZDQtNTk4MmJlYjdjZDMxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A normal young deliveryman Li Yunxiang, though coming from the slum area, is living a satisfying life but when the arrogant wealthy son of Boss beats him down, his deep anger turns into a blast of Truth Fire.",
-      "Type": "movie",
-      "RunTime": "118 min",
-      "Genre": "Animation, Action, Fantasy",
-      "Director": "Ji Zhao",
-      "Writer": "Xixing Lu, Gary Wang, Zhonglin Xu",
-      "Actors": "Nicole Fong, Victoria Grace, Jason Ko",
-      "Language": "Mandarin, Chinese",
-      "Country": "China"
-    },
-    {
       "title": "Arcane",
       "netflix_url": "https://www.netflix.com/title/81435684",
       "year": "2024",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt33560027",
-      "Poster": "N/A",
-      "Plot": "N/A",
-      "Type": "movie",
+      "imdb_rating": "9.0",
+      "imdb_id": "tt11126994",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA2NzhlMDItNWRmZC00MzRjLWE3ZjAtZjBlZDAwOWY2ODdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+      "Type": "series",
       "RunTime": "N/A",
-      "Genre": "Short, Action",
+      "Genre": "Animation, Action, Adventure",
       "Director": "N/A",
       "Writer": "N/A",
-      "Actors": "Maisa van Zwieten, Charlotte Tol, Laurent Arrabito",
-      "Language": "English",
-      "Country": "Netherlands"
+      "Actors": "Kevin Alejandro, Hailee Steinfeld, Ella Purnell",
+      "Language": "English, French",
+      "Country": "United States, France"
     },
     {
       "title": "Castlevania: Nocturne",
@@ -1018,23 +991,6 @@
       "Actors": "Lazare Herson-Macarel, Eric Herson-Macarel, Damien Boisseau",
       "Language": "French",
       "Country": "France, Luxembourg"
-    },
-    {
-      "title": "Adam by Eve: A live in Animation",
-      "netflix_url": "https://www.netflix.com/title/81450005",
-      "year": "2022",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt18274178",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTMyYmNmZjctMDkxYy00ZDU0LWFjMzktYWI4YjYxNDY1ODZkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Anime, live action and music by cutting-edge artist Eve - all weave together into this dreamlike sonic experience inspired by the story of Adam and Eve.",
-      "Type": "movie",
-      "RunTime": "58 min",
-      "Genre": "Animation, Music",
-      "Director": "Nobutaka Yoda",
-      "Writer": "Nobutaka Yoda",
-      "Actors": "Hanon, Ano, Eve",
-      "Language": "Japanese",
-      "Country": "Japan"
     },
     {
       "title": "Exploding Kittens",
@@ -1381,8 +1337,7 @@
       "netflix_url": "https://www.netflix.com/title/82063102",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Mahavatar Narsimha",

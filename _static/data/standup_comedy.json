@@ -173,14 +173,6 @@
       "Country": "United States"
     },
     {
-      "title": "Chelsea Handler: Uganda Be Kidding Me Live",
-      "netflix_url": "https://www.netflix.com/title/80003481",
-      "year": "2014",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Bill Burr: I'm Sorry You Feel That Way",
       "netflix_url": "https://www.netflix.com/title/80004478",
       "year": "2014",
@@ -194,23 +186,6 @@
       "Director": "Jaime Eliezer Karas",
       "Writer": "Bill Burr",
       "Actors": "Bill Burr",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Ralphie May: Imperfectly Yours",
-      "netflix_url": "https://www.netflix.com/title/80015210",
-      "year": "2015",
-      "imdb_rating": "5.6",
-      "imdb_id": "tt3216296",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWQzMTJjNGEtYjcxOS00OTdkLWJmOWQtODMxZjM4MzU1NjUwXkEyXkFqcGdeQXVyNjE3MjQyNQ@@._V1_SX300.jpg",
-      "Plot": "Comedian Ralphie May takes to the Las Vegas stage with his raw, rollicking take on men's fashion, racism, sex and even waffles.",
-      "Type": "movie",
-      "RunTime": "69 min",
-      "Genre": "Documentary, Comedy",
-      "Director": "Anthony Pierce",
-      "Writer": "Ralphie May",
-      "Actors": "Ralphie May",
       "Language": "English",
       "Country": "United States"
     },
@@ -351,20 +326,11 @@
       "Country": "United States"
     },
     {
-      "title": "Jeff Foxworthy and Larry the Cable Guy: We’ve Been Thinking...",
-      "netflix_url": "https://www.netflix.com/title/80097431",
-      "year": "2016",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Sofía Niño de Rivera: Exposed",
       "netflix_url": "https://www.netflix.com/title/80097641",
       "year": "2016",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Ali Wong: Baby Cobra",
@@ -380,23 +346,6 @@
       "Director": "Jaime Eliezer Karas",
       "Writer": "Ali Wong",
       "Actors": "Ali Wong",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Sebastian Maniscalco: Aren't You Embarrassed?",
-      "netflix_url": "https://www.netflix.com/title/80104111",
-      "year": "2014",
-      "imdb_rating": "7.7",
-      "imdb_id": "tt4240704",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3NTM4NjQxMl5BMl5BanBnXkFtZTgwNjIyOTAzNjE@._V1_SX300.jpg",
-      "Plot": "Sebastian Maniscalco returns home to Chicago to perform in front of a live sold-out audience in this all-new comedy event. With his inimitable delivery, he burns modern-day society through the lens of his old-world Italian-America...",
-      "Type": "movie",
-      "RunTime": "63 min",
-      "Genre": "Documentary, Comedy",
-      "Director": "John Asher",
-      "Writer": "Sebastian Maniscalco",
-      "Actors": "Sebastian Maniscalco",
       "Language": "English",
       "Country": "United States"
     },
@@ -558,8 +507,7 @@
       "netflix_url": "https://www.netflix.com/title/80117628",
       "year": "2016",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Jim Gaffigan: Cinco",
@@ -577,23 +525,6 @@
       "Actors": "Jim Gaffigan, Marre Gaffigan, Katie Gaffigan",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Alan Saldaña: Mi vida de pobre",
-      "netflix_url": "https://www.netflix.com/title/80124724",
-      "year": "2017",
-      "imdb_rating": "6.3",
-      "imdb_id": "tt7183082",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWE3NTc5ZTctOTBkNS00MjViLWE3ZjUtNDA2Yjk1MDJjNDA5XkEyXkFqcGdeQXVyMjMyNzY5MDg@._V1_SX300.jpg",
-      "Plot": "Mexican comic Alan Saldaña has fun with everything from the pressure of sitting in an exit row to maxing out his credit card in this stand-up special.",
-      "Type": "movie",
-      "RunTime": "70 min",
-      "Genre": "Comedy",
-      "Director": "Raúl Campos, Jan Suter",
-      "Writer": "Alan Saldaña",
-      "Actors": "Alan Saldaña",
-      "Language": "Spanish",
-      "Country": "Mexico"
     },
     {
       "title": "Karol Modzelewski, Łukasz \"Lotek” Lodkowski No Offense",
@@ -614,8 +545,7 @@
       "netflix_url": "https://www.netflix.com/title/80131375",
       "year": "2016",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Rafał Banaś, Michał Leja Laugh out Loud",
@@ -775,23 +705,6 @@
       "Country": "United States"
     },
     {
-      "title": "Jo Koy: Live from Seattle",
-      "netflix_url": "https://www.netflix.com/title/80134826",
-      "year": "2017",
-      "imdb_rating": "7.3",
-      "imdb_id": "tt6720442",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI0MmY0MjktMjcyNi00MGMxLTg2ZTEtNjI5YjkzNTk2ODhjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Between raising a teenage boy and growing up with a Filipino mother, stand-up comic Jo Koy has been through a lot. He's here to tell you about it.",
-      "Type": "movie",
-      "RunTime": "62 min",
-      "Genre": "Comedy",
-      "Director": "Shannon Hartman",
-      "Writer": "Jo Koy",
-      "Actors": "Jo Koy",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Brian Regan: Nunchucks and Flamethrowers",
       "netflix_url": "https://www.netflix.com/title/80134827",
       "year": "2017",
@@ -822,23 +735,6 @@
       "Director": "Lance Bangs",
       "Writer": "Jen Kirkman",
       "Actors": "Jen Kirkman",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Jim Norton: Mouthful of Shame",
-      "netflix_url": "https://www.netflix.com/title/80134967",
-      "year": "2017",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt6664120",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMGUyMGUzOTUtYWE0Mi00ODViLTk4YTAtN2QxNGQyM2FlMzYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this unrestricted jaunt, comic Jim Norton offers a personal perspective on romance, desire, and sexual proclivities.",
-      "Type": "movie",
-      "RunTime": "61 min",
-      "Genre": "Comedy",
-      "Director": "Shannon Hartman",
-      "Writer": "Jim Norton",
-      "Actors": "Jim Norton, Louis C.K., Robert De Niro",
       "Language": "English",
       "Country": "United States"
     },
@@ -996,6 +892,13 @@
       "Country": "N/A"
     },
     {
+      "title": "Felipe Neto: My Life Makes No Sense",
+      "netflix_url": "https://www.netflix.com/title/80162210",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Jerry Before Seinfeld",
       "netflix_url": "https://www.netflix.com/title/80163156",
       "year": "2017",
@@ -1132,23 +1035,6 @@
       "Country": "United States"
     },
     {
-      "title": "Kevin Hart: Zero F**ks Given",
-      "netflix_url": "https://www.netflix.com/title/80174688",
-      "year": "2020",
-      "imdb_rating": "6.1",
-      "imdb_id": "tt13433082",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI4M2IyNTQtYmJkNi00ZjgyLThjMWYtZDY4NGIzMDM0YjM5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Kevin Hart comedy special from the comfort of his own home.",
-      "Type": "movie",
-      "RunTime": "69 min",
-      "Genre": "Comedy",
-      "Director": "Leslie Small",
-      "Writer": "Kevin Hart",
-      "Actors": "Kevin Hart, Heaven Hart, Hendrix Hart",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "The Standups",
       "netflix_url": "https://www.netflix.com/title/80175685",
       "year": "2021",
@@ -1198,23 +1084,6 @@
       "Actors": "Sofia Niño de Rivera",
       "Language": "Spanish",
       "Country": "Mexico"
-    },
-    {
-      "title": "Aditi Mittal: Things They Wouldn't Let Me Say",
-      "netflix_url": "https://www.netflix.com/title/80183329",
-      "year": "2017",
-      "imdb_rating": "4.5",
-      "imdb_id": "tt7127976",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzUwOWMyM2ItZDMzMS00YTQwLTk5NjYtZWJmZmM3Nzc0MjQyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Trailblazing comic Aditi Mittal mixes topical stand-up with frank talk about being single, wearing thongs and the awkwardness of Indian movie ratings.",
-      "Type": "movie",
-      "RunTime": "62 min",
-      "Genre": "Comedy",
-      "Director": "Fazila Allana",
-      "Writer": "Aditi Mittal",
-      "Actors": "Aditi Mittal",
-      "Language": "English, Hindi",
-      "Country": "India"
     },
     {
       "title": "Ryan Hamilton: Happy Face",
@@ -1302,23 +1171,6 @@
       "Country": "United States"
     },
     {
-      "title": "Ricky Gervais: Humanity",
-      "netflix_url": "https://www.netflix.com/title/80189653",
-      "year": "2018",
-      "imdb_rating": "8.0",
-      "imdb_id": "tt7830574",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTliZmE3MmMtZDVhMi00NjhjLWJjOTUtNTIxMjhhZjMwZTAwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Live performance of British comedian Ricky Gervais filmed in London's Eventim Apollo.",
-      "Type": "movie",
-      "RunTime": "79 min",
-      "Genre": "Comedy",
-      "Director": "John L. Spencer",
-      "Writer": "Ricky Gervais",
-      "Actors": "Ricky Gervais",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
       "title": "Rodney Carrington: Here Comes the Truth",
       "netflix_url": "https://www.netflix.com/title/80191665",
       "year": "2017",
@@ -1404,23 +1256,6 @@
       "Country": "Argentina"
     },
     {
-      "title": "W. Kamau Bell: Private School Negro",
-      "netflix_url": "https://www.netflix.com/title/80200015",
-      "year": "2018",
-      "imdb_rating": "6.5",
-      "imdb_id": "tt8467788",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDBkYTg1OWEtNjUwZC00YzhkLWI5MDUtMjA5Yzk2MzQxMmI0XkEyXkFqcGdeQXVyNzE3MDkxODc@._V1_SX300.jpg",
-      "Plot": "Activist and comedian W. Kamau Bell muses on parenting in the Trump era, \"free speech\" dustups, woke children's TV and his fear of going off the grid.",
-      "Type": "movie",
-      "RunTime": "65 min",
-      "Genre": "Comedy",
-      "Director": "Shannon Hartman",
-      "Writer": "W. Kamau Bell",
-      "Actors": "W. Kamau Bell",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Christina P: Mother Inferior",
       "netflix_url": "https://www.netflix.com/title/80205204",
       "year": "2017",
@@ -1459,38 +1294,20 @@
       "netflix_url": "https://www.netflix.com/title/80210736",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "D.L. Hughley: Contrarian",
-      "netflix_url": "https://www.netflix.com/title/80213654",
-      "year": "2018",
-      "imdb_rating": "6.6",
-      "imdb_id": "tt8426270",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzVkN2VjZTktZDk0OC00NmY1LTgxYWYtMzE1ZDU3NjY2NDEyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Hughley keeps his audience in hysterics as he tells it like it is about the hypocrisy of racism in America, being a man during the #MeToo movement, why cell phones are ruining relationships, and parents who don't follow warning si...",
-      "Type": "movie",
-      "RunTime": "58 min",
-      "Genre": "Comedy",
-      "Director": "Jay Chapman",
-      "Writer": "D.L. Hughley",
-      "Actors": "D.L. Hughley",
-      "Language": "English",
-      "Country": "United States"
+      "imdb_id": null
     },
     {
       "title": "The Honeymoon Stand Up Special",
       "netflix_url": "https://www.netflix.com/title/80213655",
       "year": "2018",
       "imdb_rating": "6.8",
-      "imdb_id": "tt8292086",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2UzYzZjMmQtMzdkOC00NDBmLWI1ZWUtNTlmMGMzZWFkZmQ4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A",
-      "Type": "movie",
-      "RunTime": "N/A",
+      "imdb_id": "tt7698408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjM4OTEzZTItMjUzNy00YjlhLTlmZjktZjBhZjBiZjU2NTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Husband-and-wife comics Moshe Kasher and Natasha Leggero share their terror and reluctance on becoming new parents; she wonders why men are needed at this point; he recalls a story from his childhood; filmed at The North Door in A...",
+      "Type": "series",
+      "RunTime": "31 min",
       "Genre": "Comedy",
-      "Director": "Jaime Eliezer Karas",
+      "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Natasha Leggero, Moshe Kasher",
       "Language": "English",
@@ -1518,8 +1335,7 @@
       "netflix_url": "https://www.netflix.com/title/80213658",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "James Acaster: Repertoire",
@@ -1539,23 +1355,6 @@
       "Country": "United Kingdom"
     },
     {
-      "title": "Jimmy Carr: The Best of Ultimate Gold Greatest Hits",
-      "netflix_url": "https://www.netflix.com/title/80214087",
-      "year": "2019",
-      "imdb_rating": "7.3",
-      "imdb_id": "tt9817258",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmFkMzMzMmQtOWY3MS00N2NjLWE4NTktNmQ4Nzk4NTZmYWRjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Nothing is off limits as Jimmy Carr serves up the best jokes from his storied stand-up career in a special that's as inappropriate as it is hilarious.",
-      "Type": "movie",
-      "RunTime": "58 min",
-      "Genre": "Comedy",
-      "Director": "Brian Klein",
-      "Writer": "Jimmy Carr",
-      "Actors": "Jimmy Carr",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
       "title": "Jim Jefferies: This Is Me Now",
       "netflix_url": "https://www.netflix.com/title/80214743",
       "year": "2018",
@@ -1571,6 +1370,23 @@
       "Actors": "Jim Jefferies",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Joe Rogan: Strange Times",
+      "netflix_url": "https://www.netflix.com/title/80215419",
+      "year": "2018",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt9017614",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzNiY2QwNTctZTExMy00NmE4LThhOTQtYjBkMGJlZDBiNzcwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Outspoken as ever, comedian Joe Rogan takes on current culture, pro wrestling, pot laws, cats, vegans and more in a stand-up special shot in Boston.",
+      "Type": "movie",
+      "RunTime": "63 min",
+      "Genre": "Comedy",
+      "Director": "Anthony Giordano",
+      "Writer": "Joe Rogan",
+      "Actors": "Joe Rogan",
+      "Language": "English",
+      "Country": "N/A"
     },
     {
       "title": "Bumping Mics with Jeff Ross & Dave Attell",
@@ -1603,23 +1419,6 @@
       "Director": "Leslie Small",
       "Writer": "Katt Williams",
       "Actors": "Katt Williams",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Eric Andre: Legalize Everything",
-      "netflix_url": "https://www.netflix.com/title/80216229",
-      "year": "2020",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt12327104",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTdiOWNiMzMtMDMxZC00NjVkLWE1YTUtNDUwM2VkMzVjM2VhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Eric Andre takes the stage in New Orleans and tackles flawed fast-food icons, the wonders of autofill and the bizarre choice for the \"Cops\" theme song.",
-      "Type": "movie",
-      "RunTime": "51 min",
-      "Genre": "Comedy",
-      "Director": "Eric Notarnicola",
-      "Writer": "N/A",
-      "Actors": "Eric André",
       "Language": "English",
       "Country": "United States"
     },
@@ -1726,29 +1525,11 @@
       "Country": "United States"
     },
     {
-      "title": "Ricky Gervais: SuperNature",
-      "netflix_url": "https://www.netflix.com/title/80225917",
-      "year": "2022",
-      "imdb_rating": "7.6",
-      "imdb_id": "tt19885626",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBjNjE2MTktMTY2OC00ZmY1LWE3OWEtZjIzNjEwNWFkMzgzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows Ricky Gervais as he gives his take on the rules of comedy, spoiling his cat and debunks the supernatural, concluding that actual nature is super enough.",
-      "Type": "movie",
-      "RunTime": "64 min",
-      "Genre": "Comedy",
-      "Director": "John L. Spencer",
-      "Writer": "Ricky Gervais",
-      "Actors": "Ricky Gervais",
-      "Language": "English",
-      "Country": "United States, United Kingdom"
-    },
-    {
       "title": "Cheuk Wan-Chi: Two Night Stand",
       "netflix_url": "https://www.netflix.com/title/80227028",
       "year": "2015",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Anthony Jeselnik: Fire in the Maternity Ward",
@@ -1772,8 +1553,7 @@
       "netflix_url": "https://www.netflix.com/title/80230402",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Hannah Gadsby: Nanette",
@@ -1832,23 +1612,6 @@
       "Actors": "Katherine Ryan",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Bert Kreischer: Secret Time",
-      "netflix_url": "https://www.netflix.com/title/80238360",
-      "year": "2018",
-      "imdb_rating": "7.3",
-      "imdb_id": "tt8786466",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg0OWJmMGItZTgzMC00ZGNiLTg3ZGQtOGExYWM4MDkxZGJmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Bert regales the audience at the Trocadero Theatre with stories about zip-lining with his family, his daughter practicing softball with an imaginary ball, and upstaging ex-NBA player Ralph Sampson at a childhood basketball camp.",
-      "Type": "movie",
-      "RunTime": "57 min",
-      "Genre": "Comedy",
-      "Director": "Todd Biermann",
-      "Writer": "Bert Kreischer",
-      "Actors": "Bert Kreischer",
-      "Language": "English",
-      "Country": "N/A"
     },
     {
       "title": "My Name Is Mo’Nique",
@@ -1957,8 +1720,7 @@
       "netflix_url": "https://www.netflix.com/title/80990665",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Bert Kreischer: The Machine",
@@ -1974,23 +1736,6 @@
       "Director": "Ryan Polito",
       "Writer": "Bert Kreischer",
       "Actors": "Bert Kreischer",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Adam Devine: Best Time of Our Lives",
-      "netflix_url": "https://www.netflix.com/title/80993404",
-      "year": "2019",
-      "imdb_rating": "5.9",
-      "imdb_id": "tt10376844",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjBiZDM2NDgtOWZkMS00MjZhLWEyYjctNTM4MDEzZDhlNzM5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Frenetic comic Adam Devine talks teen awkwardness, celebrity encounters, his \"Pitch Perfect\" audition and more in a special from his hometown of Omaha.",
-      "Type": "movie",
-      "RunTime": "58 min",
-      "Genre": "Comedy",
-      "Director": "Jaime Eliezer Karas",
-      "Writer": "Adam Devine",
-      "Actors": "Adam Devine",
       "Language": "English",
       "Country": "United States"
     },
@@ -2059,23 +1804,6 @@
       "Director": "Ryan Polito",
       "Writer": "Nate Bargatze",
       "Actors": "Nate Bargatze",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Jo Koy: Comin' In Hot",
-      "netflix_url": "https://www.netflix.com/title/81002929",
-      "year": "2019",
-      "imdb_rating": "7.4",
-      "imdb_id": "tt10377036",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjI0YWY2OTctNWY3YS00ZjUxLTkzY2EtZmVhMmYxY2I2ZmNjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Comedian Jo Koy takes center stage in Hawaii, and shares his candid take on cultural curiosities, filter free fatherhood, and more.",
-      "Type": "movie",
-      "RunTime": "60 min",
-      "Genre": "Comedy",
-      "Director": "Shannon Hartman",
-      "Writer": "Jo Koy",
-      "Actors": "Jo Koy",
       "Language": "English",
       "Country": "United States"
     },
@@ -2233,23 +1961,6 @@
       "Country": "United States"
     },
     {
-      "title": "Simon Amstell: Set Free",
-      "netflix_url": "https://www.netflix.com/title/81045860",
-      "year": "2019",
-      "imdb_rating": "6.5",
-      "imdb_id": "tt10687642",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzNmM1NTQtYTJjOS00NThkLTg4MzAtMjQ3NmExODQ4NmJkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Comedies Honest, introspective comic Simon Amstell digs deep and delivers a uniquely vulnerable stand-up set on love, ego, intimacy and ayahuasca.",
-      "Type": "movie",
-      "RunTime": "51 min",
-      "Genre": "Comedy",
-      "Director": "Julia Knowles",
-      "Writer": "Simon Amstell",
-      "Actors": "Simon Amstell",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
       "title": "Park Na-rae: Glamour Warning",
       "netflix_url": "https://www.netflix.com/title/81053240",
       "year": "2019",
@@ -2282,40 +1993,6 @@
       "Actors": "Jonathan Chacko, Seth Meyers",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Leslie Jones: Time Machine",
-      "netflix_url": "https://www.netflix.com/title/81060049",
-      "year": "2020",
-      "imdb_rating": "5.4",
-      "imdb_id": "tt10795784",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg5MmViZDctOTcwZC00YmQwLWI2ZDEtZmVhMDdiOTUxNDdkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-      "Plot": "Leslie Jones discusses being 52 and what she would tell her 20-year-old self in her first Netflix stand-up special.",
-      "Type": "movie",
-      "RunTime": "66 min",
-      "Genre": "Comedy",
-      "Director": "David Benioff, D.B. Weiss",
-      "Writer": "Leslie Jones",
-      "Actors": "Leslie Jones",
-      "Language": "N/A",
-      "Country": "United States"
-    },
-    {
-      "title": "Jack Whitehall: I'm Only Joking",
-      "netflix_url": "https://www.netflix.com/title/81060252",
-      "year": "2020",
-      "imdb_rating": "6.7",
-      "imdb_id": "tt12588432",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjBjOTRiZGItYWU3Mi00ZGMyLTgwNGMtZGM1ZDhiZmQyMDY1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Jack Whitehall hits the stage with hilarious tales about happy couples, life in hotels, human stupidity and his well-traveled father.",
-      "Type": "movie",
-      "RunTime": "58 min",
-      "Genre": "Comedy",
-      "Director": "Dave Skinner, Freddie Waters",
-      "Writer": "Jack Whitehall",
-      "Actors": "Jack Whitehall, Michael Whitehall",
-      "Language": "English",
-      "Country": "United Kingdom"
     },
     {
       "title": "Iliza Shlesinger: Unveiled",
@@ -2369,23 +2046,6 @@
       "Country": "United States"
     },
     {
-      "title": "Jeff Garlin: Our Man In Chicago",
-      "netflix_url": "https://www.netflix.com/title/81078466",
-      "year": "2019",
-      "imdb_rating": "5.9",
-      "imdb_id": "tt11108064",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTdiOTY3ZGMtOWFkNS00NDA4LTk2YjUtZTdmNjFlNWVmY2Q4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Jeff Garlin (unintentionally) celebrates his 37th year of stand-up and shares his learnings on love, loss, success and food addiction.",
-      "Type": "movie",
-      "RunTime": "58 min",
-      "Genre": "Comedy",
-      "Director": "Christopher Storer",
-      "Writer": "N/A",
-      "Actors": "Jeff Garlin",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Katt Williams: World War III",
       "netflix_url": "https://www.netflix.com/title/81078615",
       "year": "2022",
@@ -2418,23 +2078,6 @@
       "Actors": "Sam Jay",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Fadily Camara : La plus drôle de tes copines",
-      "netflix_url": "https://www.netflix.com/title/81096745",
-      "year": "2019",
-      "imdb_rating": "5.5",
-      "imdb_id": "tt11168150",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDRhMDY0YTUtNGMwOC00ODMzLTkwZjgtYjg0MzE3ZjRiNTM0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A",
-      "Type": "movie",
-      "RunTime": "54 min",
-      "Genre": "Comedy",
-      "Director": "Fary Brito",
-      "Writer": "Fadily Camara, Fary",
-      "Actors": "Fadily Camara",
-      "Language": "French",
-      "Country": "France"
     },
     {
       "title": "Jonas Brothers Family Roast",
@@ -2590,23 +2233,6 @@
       "Country": "India"
     },
     {
-      "title": "Arsenio Hall: Smart & Classy",
-      "netflix_url": "https://www.netflix.com/title/81148672",
-      "year": "2019",
-      "imdb_rating": "6.0",
-      "imdb_id": "tt10150694",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmQyZmIzNjQtMTJmOC00OGExLTg1YjEtYWJkZGE3ZDAwZjQwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-      "Plot": "Arsenio Hall performs his first stand-up comedy special, filmed live in San Jose, California in April 2019.",
-      "Type": "movie",
-      "RunTime": "63 min",
-      "Genre": "Comedy",
-      "Director": "Brian Volk-Weiss",
-      "Writer": "Arsenio Hall",
-      "Actors": "Arsenio Hall",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Michael Che: Shame the Devil",
       "netflix_url": "https://www.netflix.com/title/81152775",
       "year": "2021",
@@ -2760,40 +2386,6 @@
       "Country": "United States"
     },
     {
-      "title": "Bill Burr Presents: Friends Who Kill",
-      "netflix_url": "https://www.netflix.com/title/81222748",
-      "year": "2022",
-      "imdb_rating": "4.6",
-      "imdb_id": "tt20723672",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjNjMzJlZjctODQ1Ny00MDUxLWIzN2MtYjcxMDU3NDk3N2IxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Bill Burr shares the stage with his favorite comedians.",
-      "Type": "movie",
-      "RunTime": "73 min",
-      "Genre": "Documentary, Comedy",
-      "Director": "Ryan Polito",
-      "Writer": "N/A",
-      "Actors": "Bill Burr, Dave Attell, Joe Bartnick",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Dave Chappelle: The Closer",
-      "netflix_url": "https://www.netflix.com/title/81228510",
-      "year": "2021",
-      "imdb_rating": "7.9",
-      "imdb_id": "tt15523010",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTAzZTA5MGItZTc5OC00N2VkLWEzODEtNTQ2YjNiNzE0ZWUyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "As he closes out his slate of comedy specials, Dave takes the stage to try and set the record straight; and get a few things off his chest.",
-      "Type": "movie",
-      "RunTime": "72 min",
-      "Genre": "Comedy",
-      "Director": "Stan Lathan",
-      "Writer": "Dave Chappelle",
-      "Actors": "Dave Chappelle, Daphne Dorman",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Trevor Noah: I Wish You Would",
       "netflix_url": "https://www.netflix.com/title/81228515",
       "year": "2022",
@@ -2809,13 +2401,6 @@
       "Actors": "Trevor Noah",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Catherine Cohen: The Twist…? She’s Gorgeous",
-      "netflix_url": "https://www.netflix.com/title/81229042",
-      "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null
     },
     {
       "title": "Pete Davidson Presents: The Best Friends",
@@ -2954,29 +2539,11 @@
       "Country": "United States"
     },
     {
-      "title": "Ronny Chieng: Love to Hate It",
-      "netflix_url": "https://www.netflix.com/title/81267396",
-      "year": "2024",
-      "imdb_rating": "7.1",
-      "imdb_id": "tt34344071",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ExNjA4ZGMtZDlkZS00MTdiLThkZDQtNzFjZjA1YWE2ZGFhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Comedian Ronny Chieng shares humorous insights on topics like IVF, online discourse, politics, and generational divides during a sold-out, multi-night show.",
-      "Type": "movie",
-      "RunTime": "65 min",
-      "Genre": "Documentary, Comedy",
-      "Director": "Cameron Barnett",
-      "Writer": "Ronny Chieng",
-      "Actors": "Ronny Chieng",
-      "Language": "N/A",
-      "Country": "United States"
-    },
-    {
       "title": "London Hughes: To Catch a D*ck",
       "netflix_url": "https://www.netflix.com/title/81273458",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Ms. Pat: Y'all Wanna Hear Something Crazy?",
@@ -3102,104 +2669,91 @@
       "netflix_url": "https://www.netflix.com/title/81343825",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #1 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344238",
       "year": "1995",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #2 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344239",
       "year": "1996",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #3 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344240",
       "year": "1997",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #4 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344241",
       "year": "1999",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #5 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344242",
       "year": "2002",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #6 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344243",
       "year": "2003",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #7 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344244",
       "year": "2008",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #8 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344245",
       "year": "2010",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #9 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344246",
       "year": "2011",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #10 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344247",
       "year": "2013",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #11 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344249",
       "year": "2015",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "DEAW #12 Stand Up Comedy Show",
       "netflix_url": "https://www.netflix.com/title/81344250",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Schulz Saves America",
@@ -3321,48 +2875,6 @@
       "Country": "United States"
     },
     {
-      "title": "Mo Gilligan: There's Mo to Life",
-      "netflix_url": "https://www.netflix.com/title/81464775",
-      "year": "2022",
-      "imdb_rating": "6.1",
-      "imdb_id": "tt17162494",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjYxZjYyZmMtOWIwZC00YTZhLWJlNGItOTcwYThmZWEzODc0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From a fully packed Hackney Empire Mo Gilligan brings his stand-up comedy talking about some personal experiences, his previous jobs, going out with his bros, smelly food in the work break room, and some sing along.",
-      "Type": "movie",
-      "RunTime": "65 min",
-      "Genre": "Comedy",
-      "Director": "Chris Howe",
-      "Writer": "N/A",
-      "Actors": "Mo Gilligan",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
-      "title": "Panayotis Pascot: Almost",
-      "netflix_url": "https://www.netflix.com/title/81470399",
-      "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Bert Kreischer: Razzle Dazzle",
-      "netflix_url": "https://www.netflix.com/title/81471776",
-      "year": "2023",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt26752731",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjcxM2FjZDQtMWQxNi00NjkxLTg4Y2MtNzQ1MjAzY2YyOTlkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It follows Bert Kreischer as he spills on bodily emissions, being bullied by his kids and the end to his family's escape room outing.",
-      "Type": "movie",
-      "RunTime": "60 min",
-      "Genre": "Documentary, Comedy",
-      "Director": "Jeff Tomsic",
-      "Writer": "N/A",
-      "Actors": "Bert Kreischer",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Romesh Ranganathan: The Cynic",
       "netflix_url": "https://www.netflix.com/title/81472368",
       "year": "2023",
@@ -3380,23 +2892,6 @@
       "Country": "United Kingdom"
     },
     {
-      "title": "Michela Giraud: The Truth, I Swear!",
-      "netflix_url": "https://www.netflix.com/title/81480979",
-      "year": "2022",
-      "imdb_rating": "5.4",
-      "imdb_id": "tt18396984",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzdjZDFjNDAtY2U2MC00OTZmLTk3ZWEtYmM5YTU1ZGRhYzVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From the stage of Vinile, in Rome, rigorously standing up alone in front of her audience, Michela Giraud tells her own truth through the strong and self-deprecating point of view that has always distinguished her.",
-      "Type": "movie",
-      "RunTime": "60 min",
-      "Genre": "Documentary, Comedy",
-      "Director": "Vittorio Antonacci",
-      "Writer": "Marco Vicari",
-      "Actors": "Michela Giraud",
-      "Language": "Italian",
-      "Country": "Italy"
-    },
-    {
       "title": "Iliza Shlesinger: Hot Forever",
       "netflix_url": "https://www.netflix.com/title/81485998",
       "year": "2022",
@@ -3410,23 +2905,6 @@
       "Director": "Steve Paley",
       "Writer": "N/A",
       "Actors": "Iliza Shlesinger",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Nicole Byer: BBW (Big Beautiful Weirdo)",
-      "netflix_url": "https://www.netflix.com/title/81489095",
-      "year": "2021",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15204492",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTE0NDYyYTAtMTk1MC00ZDIyLTg4MDQtYTQ2YWE0MzM5NjhjXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SX300.jpg",
-      "Plot": "Plot under wraps.",
-      "Type": "movie",
-      "RunTime": "65 min",
-      "Genre": "Comedy",
-      "Director": "Betsy Thomas",
-      "Writer": "Nicole Byer",
-      "Actors": "Nicole Byer",
       "Language": "English",
       "Country": "United States"
     },
@@ -3482,29 +2960,11 @@
       "Country": "United States"
     },
     {
-      "title": "The Roast of Tom Brady",
-      "netflix_url": "https://www.netflix.com/title/81577726",
-      "year": "2024",
-      "imdb_rating": "7.2",
-      "imdb_id": "tt32244679",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDg2OWM2NGEtZDFhZC00MTAzLWFjOWQtNDhhZDliMTE5OTc0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Tom Brady faces the heat in this livestreamed, star-studded roast hosted by Kevin Hart.",
-      "Type": "movie",
-      "RunTime": "179 min",
-      "Genre": "Documentary, Comedy",
-      "Director": "Beth McCarthy-Miller",
-      "Writer": "Mike Gibbons, Benji Aflalo, Pat Barker",
-      "Actors": "Tom Brady, Kevin Hart, Jeffrey Ross",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Franco Escamilla: Eavesdropping",
       "netflix_url": "https://www.netflix.com/title/81580505",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Patton Oswalt: We All Scream",
@@ -3528,8 +2988,7 @@
       "netflix_url": "https://www.netflix.com/title/81605925",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Tom Segura: Sledgehammer",
@@ -3587,16 +3046,14 @@
       "netflix_url": "https://www.netflix.com/title/81621584",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "CMXXIV",
       "netflix_url": "https://www.netflix.com/title/81622696",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Mathieu Dufour at Bell Centre",
@@ -3739,8 +3196,7 @@
       "netflix_url": "https://www.netflix.com/title/81663307",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Dave Chappelle: The Dreamer",
@@ -3777,29 +3233,11 @@
       "Country": "United States"
     },
     {
-      "title": "Jimmy Carr: Natural Born Killer",
-      "netflix_url": "https://www.netflix.com/title/81679673",
-      "year": "2024",
-      "imdb_rating": "6.7",
-      "imdb_id": "tt31723041",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU5YTE5MTItMGRkNi00ZTk4LWE2MzEtMjVkMWE0OTZkMDNlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An iconic comedian tackles controversial issues such as gun control, religion, cancellation culture and consent through provocative humor.",
-      "Type": "movie",
-      "RunTime": "59 min",
-      "Genre": "Documentary, Comedy",
-      "Director": "Jimmy Carr, Brian Klein",
-      "Writer": "Jimmy Carr",
-      "Actors": "Jimmy Carr",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
       "title": "AY: Spotting the Difference",
       "netflix_url": "https://www.netflix.com/title/81680246",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Katt Williams: Woke Foke",
@@ -3942,8 +3380,7 @@
       "netflix_url": "https://www.netflix.com/title/81697085",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Jo Koy: Live from Brooklyn",
@@ -3984,8 +3421,7 @@
       "netflix_url": "https://www.netflix.com/title/81697864",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Earthquake: Joke Telling Business",
@@ -4039,23 +3475,6 @@
       "Country": "United States"
     },
     {
-      "title": "Matt Rife: Natural Selection",
-      "netflix_url": "https://www.netflix.com/title/81708429",
-      "year": "2023",
-      "imdb_rating": "5.0",
-      "imdb_id": "tt29650142",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjIzODgxMDAtMmEzZi00MmNiLTlhMzgtNGFiNTM3NGE2YzlkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Matt embarked on a sold-out world tour. Now in his first Netflix comedy special, Matt leaves no topic untouched - from crystals to social media trolls - and no audience member spared.",
-      "Type": "movie",
-      "RunTime": "64 min",
-      "Genre": "Comedy",
-      "Director": "Erik Griffin",
-      "Writer": "Matt Rife",
-      "Actors": "Matt Rife",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Deaw Special: Super Soft Power",
       "netflix_url": "https://www.netflix.com/title/81712037",
       "year": "2024",
@@ -4105,23 +3524,6 @@
       "Actors": "Bert Kreischer",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Ricky Gervais: Armageddon",
-      "netflix_url": "https://www.netflix.com/title/81714181",
-      "year": "2023",
-      "imdb_rating": "7.1",
-      "imdb_id": "tt30088797",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODk5YWRmNWQtZTg1MC00MDlkLWJkMjQtNmY3ZjZhYjcyN2RmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A stand-up show that touches on topics such as artificial intelligence, political correctness, family weddings, funerals, and the end of humanity.",
-      "Type": "movie",
-      "RunTime": "63 min",
-      "Genre": "Documentary, Comedy",
-      "Director": "John L. Spencer",
-      "Writer": "Ricky Gervais",
-      "Actors": "Ricky Gervais",
-      "Language": "English",
-      "Country": "United Kingdom"
     },
     {
       "title": "Fern Brady: Autistic Bikini Queen",
@@ -4247,8 +3649,7 @@
       "netflix_url": "https://www.netflix.com/title/81733615",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Andrew Schulz: LIFE",
@@ -4283,31 +3684,6 @@
       "Actors": "Deon Cole",
       "Language": "N/A",
       "Country": "N/A"
-    },
-    {
-      "title": "Mo Amer: Wild World",
-      "netflix_url": "https://www.netflix.com/title/81745791",
-      "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Rachel Bloom: Death, Let Me Do My Special",
-      "netflix_url": "https://www.netflix.com/title/81746515",
-      "year": "2024",
-      "imdb_rating": "6.7",
-      "imdb_id": "tt33335530",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRlYTk0M2ItYjdmYi00ZTA4LWI0MGEtZGEwOGVmMGUxZThjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Comedian and actor Rachel Bloom muses on birth, death, cosmic uncertainty and pungent trees in this whimsical and reflective musical comedy special.",
-      "Type": "movie",
-      "RunTime": "77 min",
-      "Genre": "Documentary, Comedy, Music",
-      "Director": "Seth Barrish",
-      "Writer": "Rachel Bloom, David Hull",
-      "Actors": "Rachel Bloom, Kelsey Flynn, David Hull",
-      "Language": "English",
-      "Country": "United States"
     },
     {
       "title": "Adam Sandler: Love You",
@@ -4433,50 +3809,14 @@
       "netflix_url": "https://www.netflix.com/title/81766092",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Joe Rogan: Burn the Boats",
-      "netflix_url": "https://www.netflix.com/title/81771853",
-      "year": "2024",
-      "imdb_rating": "4.5",
-      "imdb_id": "tt32875161",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWNhYjBmZDMtNmNjNi00N2JhLWE5YmEtODQzYmU4ODJjMjJjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Renowned comedian and podcast host Joe Rogan delivers a live stand-up set at the Majestic Theatre in San Antonio, Texas, for his third Netflix special.",
-      "Type": "movie",
-      "RunTime": "67 min",
-      "Genre": "Comedy",
-      "Director": "Anthony Giordano",
-      "Writer": "N/A",
-      "Actors": "Neil Downanlich, Ari Matti Mustonen, Joe Rogan",
-      "Language": "N/A",
-      "Country": "United States"
+      "imdb_id": null
     },
     {
       "title": "Marcello Hernández: American Boy",
       "netflix_url": "https://www.netflix.com/title/81775183",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Hasan Minhaj: Off With His Head",
-      "netflix_url": "https://www.netflix.com/title/81776083",
-      "year": "2024",
-      "imdb_rating": "6.9",
-      "imdb_id": "tt33323522",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjE2OTU4Y2ItNTc2Yi00NjI4LTk5YjYtZmEzZGQxNmVlMTJmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It covers topics like politics, self-improvement, parenting young kids, and aging parents.",
-      "Type": "movie",
-      "RunTime": "61 min",
-      "Genre": "Documentary, Comedy",
-      "Director": "Tyler Babin",
-      "Writer": "N/A",
-      "Actors": "Minhaj Chowdhury, Hasan Minhaj, Juan J Guevara",
-      "Language": "English",
-      "Country": "United States"
+      "imdb_id": null
     },
     {
       "title": "Tim Dillon: This Is Your Country",
@@ -4513,38 +3853,11 @@
       "Country": "United States"
     },
     {
-      "title": "Vir Das: Fool Volume",
-      "netflix_url": "https://www.netflix.com/title/81788399",
-      "year": "2025",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt35668659",
-      "Poster": "N/A",
-      "Plot": "A beloved Emmy winner delivers heartwarming laughs and thought-provoking moments in their latest Netflix comedy special.",
-      "Type": "movie",
-      "RunTime": "63 min",
-      "Genre": "Comedy",
-      "Director": "Vir Das",
-      "Writer": "Vir Das",
-      "Actors": "Vir Das",
-      "Language": "English",
-      "Country": "India"
-    },
-    {
-      "title": "Adrienne Iapalucci: The Dark Queen",
-      "netflix_url": "https://www.netflix.com/title/81900915",
-      "year": "2024",
-      "imdb_rating": "6.6",
-      "imdb_id": "tt33996575",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmJiMzUxODYtMzg1Ni00MDkyLTlkOWQtYzQ0YWRiYjQ0YTcxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Comedian Adrienne Iapalucci takes aim at our public figures, awkward tribute tattoos, virtue signaling and more in this unfiltered stand-up special.",
-      "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Documentary, Comedy",
-      "Director": "Louis C.K.",
-      "Writer": "N/A",
-      "Actors": "Adrienne Iapalucci",
-      "Language": "English",
-      "Country": "United States"
+      "title": "Mike Epps: Delusional",
+      "netflix_url": "https://www.netflix.com/title/81900681",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Nate Jackson: Super Funny",
@@ -4632,29 +3945,11 @@
       "Country": "United States"
     },
     {
-      "title": "Jim Jefferies: Two Limb Policy",
-      "netflix_url": "https://www.netflix.com/title/81969830",
-      "year": "2025",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt37649515",
-      "Poster": "N/A",
-      "Plot": "Comedian Jim Jefferies shares his comedic takes on small mustaches, challenges faced by straight men, and his dismissive view of acting as a profession.",
-      "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Talk-Show",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Jim Jefferies",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Robby Hoffman: Wake Up",
       "netflix_url": "https://www.netflix.com/title/81978270",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Jordan Jensen: Take Me With You",
@@ -4677,18 +3972,18 @@
       "title": "Right Time",
       "netflix_url": "https://www.netflix.com/title/81983651",
       "year": "2024",
-      "imdb_rating": "6.4",
-      "imdb_id": "tt10570100",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTUwZDYwMDktZmU4MC00ZmM3LWI5MDctYTY5MjhkMmVlNzAwXkEyXkFqcGdeQXVyMTQ4MzQ1ODE0._V1_SX300.jpg",
-      "Plot": "Ahmad owns and runs a neighborhood bakery in Tehran When Ahmad suddenly passes away, he leaves his three adult children scrambling and fighting with each other to get their share of the inheritance.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Comedy, Drama",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Reza Attaran, Ali Sadeghi, Hamid Lolayi",
-      "Language": "Persian",
-      "Country": "Iran"
+      "imdb_rating": "4.4",
+      "imdb_id": "tt1176455",
+      "Poster": "N/A",
+      "Plot": "A man that has lost almost everything, but in the end finds himself and what is most important to him.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Michael Allen Carter, Red Carter",
+      "Writer": "Michael Allen Carter, Carlos Hardy",
+      "Actors": "Aubrey Caldwell, Michael Allen Carter, Red Carter, Ebon Charles",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Felipe Esparza: Raging Fool",
@@ -4780,8 +4075,7 @@
       "netflix_url": "https://www.netflix.com/title/82014058",
       "year": "2026",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Ricky Gervais: Mortality",
@@ -4822,8 +4116,7 @@
       "netflix_url": "https://www.netflix.com/title/82132941",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Michelle Wolf: The Well",
@@ -4881,16 +4174,16 @@
       "netflix_url": "https://www.netflix.com/title/82627260",
       "year": "2025",
       "imdb_rating": "N/A",
-      "imdb_id": "tt7274636",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGYzN2RlY2YtNTBkZS00MjU5LThmOGMtOWEwZDlhMGYzZWM3XkEyXkFqcGdeQXVyNTcxOTU4Njg@._V1_SX300.jpg",
-      "Plot": "A young legal assistant is tormented by her mysterious employer.",
+      "imdb_id": "tt1604124",
+      "Poster": "N/A",
+      "Plot": "Mens Rea, Latin for guilty mind, is a powerful psychological essence that can dictate someones' life.",
       "Type": "movie",
-      "RunTime": "20 min",
-      "Genre": "Short, Drama, Mystery",
-      "Director": "Ben Senior, Matilda Wolf",
-      "Writer": "Kevin Lucero Less, Ben Senior, Matilda Wolf",
-      "Actors": "Kevin Lucero Less, Ben Senior, Matilda Wolf",
-      "Language": "English",
+      "RunTime": "16 min",
+      "Genre": "Short, Crime, Drama",
+      "Director": "Michael Gugger, Dexter Loscher, Benjamin Norris",
+      "Writer": "Benjamin Norris",
+      "Actors": "Christopher Chemaly, Domenico D'Ippolito, Benjamin Norris",
+      "Language": "N/A",
       "Country": "United States"
     },
     {
@@ -4898,8 +4191,14 @@
       "netflix_url": "https://www.netflix.com/title/82662593",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
+    },
+    {
+      "title": "Deaw Still Alive",
+      "netflix_url": "https://www.netflix.com/title/82663236",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

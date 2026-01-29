@@ -23,18 +23,18 @@
       "title": "The Texas Chainsaw Massacre",
       "netflix_url": "https://www.netflix.com/title/15815343",
       "year": "1974",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt34081214",
-      "Poster": "N/A",
-      "Plot": "N/A",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0324216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY0MDQwMTctYzQ1Mi00ODIwLThlMWQtODQ0NzA2ZTg3ZDFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a deformed chainsaw-wielding loon and his family of equally psychopathic killers.",
       "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "N/A",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Language": "N/A",
-      "Country": "N/A"
+      "RunTime": "98 min",
+      "Genre": "Horror",
+      "Director": "Marcus Nispel",
+      "Writer": "Kim Henkel, Tobe Hooper, Scott Kosar",
+      "Actors": "Jessica Biel, Jonathan Tucker, Andrew Bryniarski",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Night of the Living Dead",
@@ -330,8 +330,7 @@
       "netflix_url": "https://www.netflix.com/title/81713692",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Pulp Fiction",

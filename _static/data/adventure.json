@@ -483,24 +483,14 @@
       "netflix_url": "https://www.netflix.com/title/80203996",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Baahubali: The Beginning (Hindi Version)",
       "netflix_url": "https://www.netflix.com/title/80204117",
       "year": "2015",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Baahubali: The Beginning (English Version)",
-      "netflix_url": "https://www.netflix.com/title/80205231",
-      "year": "2015",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Guillermo del Toro’s Pinocchio",
@@ -1442,16 +1432,14 @@
       "netflix_url": "https://www.netflix.com/title/81716244",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Rebel Moon — Part One: Director’s Cut",
       "netflix_url": "https://www.netflix.com/title/81722297",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Dhak Dhak",
@@ -1475,8 +1463,7 @@
       "netflix_url": "https://www.netflix.com/title/81726031",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Golden Kamuy",
@@ -1500,8 +1487,7 @@
       "netflix_url": "https://www.netflix.com/title/81746591",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Ranveer vs. Wild with Bear Grylls",
@@ -1555,20 +1541,11 @@
       "Country": "Australia, United States"
     },
     {
-      "title": "Thugs of Hindostan (Tamil)",
-      "netflix_url": "https://www.netflix.com/title/82062358",
-      "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Thugs of Hindostaan (Telugu)",
       "netflix_url": "https://www.netflix.com/title/82062373",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Kingdom",
@@ -1609,8 +1586,7 @@
       "netflix_url": "https://www.netflix.com/title/919537",
       "year": "1975",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Spy Who Loved Me",
