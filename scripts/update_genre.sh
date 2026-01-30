@@ -495,6 +495,15 @@ while IFS=$'\t' read -r title year url; do
         fi
       fi
 
+      # If it did find it, check whether the Poster pic actually exists
+      found_poster=$(curl -s "$Poster")
+      if [ "$found_poster" = "Not Found" ]; then
+          netflix_json=$(wget -q -O -  "$url"    | tr '<>' '\n\n'   | grep actors | grep -m 1 context   | jq '.'  || true )
+          Poster=$(echo "$netflix_json" | jq -r '.image // empty')
+          echo "   ---> Original poster from OMDb Not Found. Using netflix image: $Poster"        >&2
+      fi
+
+
     else
       echo "⚠️  OMDb API error: $omdbError  :  $title  'http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY' "
     fi
