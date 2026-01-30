@@ -1904,6 +1904,13 @@
       "Country": "South Korea"
     },
     {
+      "title": "Kabuki Akadousuzunosuke",
+      "netflix_url": "https://www.netflix.com/title/81517566",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Women at War",
       "netflix_url": "https://www.netflix.com/title/81564749",
       "year": "2022",
@@ -2045,6 +2052,23 @@
       "Actors": "Gang Dong-won, Park Jeong-min, Kim Shin-rock",
       "Language": "Korean, Japanese",
       "Country": "South Korea"
+    },
+    {
+      "title": "Buya Hamka Vol. 1",
+      "netflix_url": "https://www.netflix.com/title/81678775",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt10656212",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc1MjllYjMtM2VjNC00YTAxLWIwN2UtMTljODRiZjNmYzQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This sweeping biopic captures the life of renowned Muslim scholar Buya Hamka, from his humble West Sumatra origins to his political achievements.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Fajar Bustomi",
+      "Writer": "Cassandra Massardi, Alim Sudio",
+      "Actors": "Vino G. Bastian, Laudya Cynthia Bella, Donny Damara",
+      "Language": "Indonesian, Arabic, Malay, Minangkabau, Japanese, Dutch",
+      "Country": "Indonesia"
     },
     {
       "title": "House of Ga'a",
@@ -2195,6 +2219,23 @@
       "Actors": "Bang Di, Hong-Anh, Vi Van Hua",
       "Language": "Vietnamese",
       "Country": "Vietnam"
+    },
+    {
+      "title": "GomBurZa",
+      "netflix_url": "https://www.netflix.com/title/81754253",
+      "year": "2023",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt27203116",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBjMDY1NjgtYmE5NC00MzBmLWJlYzctMzNhZTJhZjIxNWVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mariano Gomes, José Burgos, and Jacinto Zamora are three brave Filipino Catholic priests whose narrative is told in this stirring and inspirational historical drama.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Action, Biography, Drama",
+      "Director": "Pepe Diokno",
+      "Writer": "Rody Vera, Pepe Diokno, Ian Victoriano",
+      "Actors": "Cedrick Juan, Dante Rivero, Enchong Dee",
+      "Language": "Tagalog, Spanish",
+      "Country": "Philippines"
     },
     {
       "title": "Judge Dee's Mystery",

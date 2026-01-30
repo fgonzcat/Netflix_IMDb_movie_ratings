@@ -367,6 +367,13 @@
       "imdb_id": null
     },
     {
+      "title": "A Holiday Engagement",
+      "netflix_url": "https://www.netflix.com/title/70209267",
+      "year": "2011",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Despicable Me 2",
       "netflix_url": "https://www.netflix.com/title/70264803",
       "year": "2013",
@@ -1513,6 +1520,13 @@
       "Country": "United States"
     },
     {
+      "title": "Free Rein: Valentine's Day",
+      "netflix_url": "https://www.netflix.com/title/81001413",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Nightbooks",
       "netflix_url": "https://www.netflix.com/title/81002270",
       "year": "2021",
@@ -2054,6 +2068,23 @@
       "Country": "Brazil"
     },
     {
+      "title": "A Week Away",
+      "netflix_url": "https://www.netflix.com/title/81183451",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt11388278",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTBhNmM2YzYtMmM0ZS00ZTFlLWFmOTktNDZkZmUwZjk5MTM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "With nowhere left to go, Will Hawkins finds himself at camp for the first time. His instinct is to run, but he finds a friend, a father figure, and even a girl who awakens his heart. Most of all, he finally finds a home.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Drama, Family, Musical",
+      "Director": "Roman White",
+      "Writer": "Alan Powell, Kali Bailey, Gabe Vasquez",
+      "Actors": "Kevin Quinn, Bailee Madison, Jahbril Cook",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Animal Crackers",
       "netflix_url": "https://www.netflix.com/title/81191856",
       "year": "2020",
@@ -2120,6 +2151,23 @@
       "Actors": "Lin-Manuel Miranda, Ynairaly Simo, Zoe Saldaña",
       "Language": "English, Spanish",
       "Country": "Hong Kong, Austria, United States"
+    },
+    {
+      "title": "Confessions of an Invisible Girl",
+      "netflix_url": "https://www.netflix.com/title/81209537",
+      "year": "2021",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt15204288",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTgwNTFlNzYtNTAwNC00MDdhLWE5OTctYTU2Y2M0NTdiY2QzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When the clever but socially-awkward Tetê joins a new school, she'll do anything to fit in. But the queen bee among her classmates has other ideas.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Bruno Garotti",
+      "Writer": "Bruno Garotti, Flávia Lins e Silva, Christiana Oliveira",
+      "Actors": "Lucca Picon, Marcus Bessa, Caio Cabral",
+      "Language": "Portuguese, English",
+      "Country": "Brazil"
     },
     {
       "title": "Leo",
@@ -2314,6 +2362,23 @@
       "Actors": "Millie Bobby Brown, Henry Cavill, Sam Claflin",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "A Whisker Away",
+      "netflix_url": "https://www.netflix.com/title/81281872",
+      "year": "2020",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt11958344",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjEyNGY0MTYtYjE4ZC00MDI1LWJmNjgtMzA2MjhhOGY2ZDhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Miyo Sasaki is in love with her classmate Kento Hinode and tries repeatedly to get Kento's attention by transforming into a cat, but at some point, the boundary between herself and the cat becomes ambiguous.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Animation, Adventure, Drama",
+      "Director": "Jun'ichi Satô, Tomotaka Shibayama",
+      "Writer": "Mari Okada",
+      "Actors": "Mirai Shida, Natsuki Hanae, Minako Kotobuki",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Skater Girl",
@@ -2595,6 +2660,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Xico's Journey",
+      "netflix_url": "https://www.netflix.com/title/81354432",
+      "year": "2021",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt12481806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmYzMzRkZmItMmUzYS00YmIxLTljNTQtNjg3Y2JiMDA3YmM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A girl, a dog and her best pal set out to save a mountain from a gold-hungry corporation. But the key lies closer to home, with her sidekick pup, Xico.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "Eric Cabello, Wayne Dearing",
+      "Writer": "Mayra Gabriela Aldana Castro, Adrian Guerra, Carlos Pascual",
+      "Actors": "Verónica Jalil, Luis Angel Jaramillo, Pablo Gama Iturrarán",
+      "Language": "English, Spanish",
+      "Country": "Mexico, Philippines"
+    },
+    {
       "title": "Seal Team",
       "netflix_url": "https://www.netflix.com/title/81354554",
       "year": "2021",
@@ -2840,6 +2922,40 @@
       "Country": "Japan"
     },
     {
+      "title": "STAND BY ME Doraemon 2",
+      "netflix_url": "https://www.netflix.com/title/81451264",
+      "year": "2020",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt13428402",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc2ZGZlZmMtMjZhOC00YWI0LWIxYzQtZWRmODNhZGJhYjY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Nobita travels to the future to show his beloved grandma his bride, but adult Nobita has fled his own wedding. Can he ever be a good husband to Shizuka?",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Animation, Comedy, Drama",
+      "Director": "Ryuichi Yagi, Takashi Yamazaki",
+      "Writer": "Takashi Yamazaki, Fujio F. Fujiko, Marlan Moore",
+      "Actors": "Bakarhythm, Brian Beacock, Johnny Yong Bosch",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
+      "title": "Heart Parade",
+      "netflix_url": "https://www.netflix.com/title/81452638",
+      "year": "2022",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt20597408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1ZWI3NjYtNTlkNy00OWRmLWI2MjEtYmJkN2QwNmQxZDE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A careerist from Warsaw, who does not like dogs, has to go to Kraków for professional reasons, where she meets a charming widower, his son and their four-legged pet.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Filip Zylber",
+      "Writer": "Wiktor Piatkowski, Natalia Matuszek, Marianna Pochron",
+      "Actors": "Anna Próchniak, Michal Czernecki, Iwo Rajski",
+      "Language": "Polish",
+      "Country": "Poland"
+    },
+    {
       "title": "Zero to Hero",
       "netflix_url": "https://www.netflix.com/title/81473628",
       "year": "2021",
@@ -2957,6 +3073,23 @@
       "Actors": "Sam Rockwell, Marc Maron, Awkwafina",
       "Language": "English, Spanish",
       "Country": "United States"
+    },
+    {
+      "title": "Christmas on Mistletoe Farm",
+      "netflix_url": "https://www.netflix.com/title/81517419",
+      "year": "2022",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt20561114",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJhZjFkMTMtYTU0MS00YTkxLTk4MjItYWQ5YjA5NDFjNGZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After inheriting a farm at Christmas time, a widowed father makes a bumpy adjustment to village life - while his kids hatch a plan to stay there forever.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Family",
+      "Director": "Debbie Isitt",
+      "Writer": "Debbie Isitt",
+      "Actors": "Scott Garnham, Scott Paige, Kathryn Drysdale",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Disaster Holiday",
