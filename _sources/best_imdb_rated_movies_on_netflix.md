@@ -12,7 +12,9 @@ All movies are sorted purely by IMDb score, without additional filtering.
 | 3 | 9.1 | Fullmetal Alchemist: Brotherhood | 2010 | Anime |
 | … | … | … | … | … |
 
-> ℹ️ Availability may vary by country.
+```{warning}
+Availability may vary by country.
+```
 
 ---
 
