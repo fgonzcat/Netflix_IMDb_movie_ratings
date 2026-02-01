@@ -71,6 +71,23 @@
       "Country": "United States"
     },
     {
+      "title": "Ex Machina",
+      "netflix_url": "https://www.netflix.com/title/80023689",
+      "year": "2015",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0470752",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX300.jpg",
+      "Plot": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama, Sci-Fi, Thriller",
+      "Director": "Alex Garland",
+      "Writer": "Alex Garland",
+      "Actors": "Alicia Vikander, Domhnall Gleeson, Oscar Isaac",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "My Beautiful Broken Brain",
       "netflix_url": "https://www.netflix.com/title/80049951",
       "year": "2016",

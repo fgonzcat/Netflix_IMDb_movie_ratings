@@ -116,6 +116,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5505" target="_blan
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Deception - Round D Corner*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81514144" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Aaryan (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81615047" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Merry Christmas (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81713401" target="_blank">Netflix_link</a> |
+| N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Merry Christmas (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81713665" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMWJhNDRkYTEtOTkxNy00MzhjLThhMjMtODE3MGQxNDUxMDAwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Maareesan*</strong></summary>  <div class="movie-plot">In an unusual situation , Velayudham sets out on a journey with Dhaya from Nagercoil to Tiruvannamalai-a journey that will alter both their lives in ways they never imagined. What unfolds becomes the heart of the story.</div> </details> | <a href="https://www.imdb.com/title/tt29383191/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81781839" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*STEPHEN*</strong></summary>  <div class="movie-plot">Stephen's boyfriend recommends an ideal spot for raving, but the party holds unexpected surprises.</div> </details> | <a href="https://www.imdb.com/title/tt35838090/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82057638" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNTM5OTFhY2EtMDBhNy00MjViLTgzOTktMzgzY2ZiYjU3NWMzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Vash Level 2*</strong></summary>  <div class="movie-plot">Ten years after saving his daughter Arya from a dark force, Atharva learns it never left her. When strange events begin again, he must fight to save her once more.</div> </details> | <a href="https://www.imdb.com/title/tt35529436/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82175331" target="_blank">Netflix_link</a> |
@@ -157,6 +158,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5505" target="_blan
 
  
 ---
-*Page last updated on: 2026-01-30*
+*Page last updated on: 2026-02-01*
 
  

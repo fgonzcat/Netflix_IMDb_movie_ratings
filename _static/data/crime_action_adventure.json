@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/9584",
   "movies": [
     {
+      "title": "Aakhri Adaalat",
+      "netflix_url": "https://www.netflix.com/title/20254278",
+      "year": "1988",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt0177505",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWViZTZlYmEtOTMzMC00OGFjLTkzZWUtZjdmMjc2ZGJjNThiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Plot": "An intrepid police inspector forced into a desk job must take matters into his own hands when ruthless criminals are released on a technicality.",
+      "Type": "movie",
+      "RunTime": "148 min",
+      "Genre": "Action, Thriller",
+      "Director": "Rajiv Mehra",
+      "Writer": "Mohan Kaul, Ravi Kapoor, Javed Siddiqui",
+      "Actors": "Vinod Khanna, Dimple Kapadia, Jackie Shroff",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Ace Ventura: When Nature Calls",
       "netflix_url": "https://www.netflix.com/title/215318",
       "year": "1995",
@@ -52,6 +69,23 @@
       "Actors": "Cameron Diaz, Drew Barrymore, Lucy Liu",
       "Language": "English, German",
       "Country": "Germany, United States"
+    },
+    {
+      "title": "Wyatt Earp",
+      "netflix_url": "https://www.netflix.com/title/60011597",
+      "year": "1994",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0111756",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ5YzJmMjktMmYwNi00ZTU4LWFhMDgtZWRhZDAxZTA2MzIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "From Wichita to Dodge City, to the OK Corral in Tombstone, a man becomes a myth in this thrilling journey of romance, adventure, and desperate heroic action.",
+      "Type": "movie",
+      "RunTime": "191 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "Lawrence Kasdan",
+      "Writer": "Dan Gordon, Lawrence Kasdan",
+      "Actors": "Kevin Costner, Dennis Quaid, Gene Hackman",
+      "Language": "English, Spanish",
+      "Country": "United States, Canada"
     },
     {
       "title": "Vijay",
@@ -292,6 +326,23 @@
       "Country": "India"
     },
     {
+      "title": "Homefront",
+      "netflix_url": "https://www.netflix.com/title/70281529",
+      "year": "2013",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt2312718",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwOTAzNzAwMl5BMl5BanBnXkFtZTgwOTc1NDIyMDE@._V1_SX300.jpg",
+      "Plot": "A former DEA agent moves his family to a quiet town, where he soon tangles with a local meth druglord.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Gary Fleder",
+      "Writer": "Sylvester Stallone, Chuck Logan",
+      "Actors": "Jason Statham, James Franco, Winona Ryder",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Sabotage",
       "netflix_url": "https://www.netflix.com/title/70287290",
       "year": "2014",
@@ -390,6 +441,23 @@
       "Director": "Farah Khan",
       "Writer": "Althea Kaushal, Farah Khan, Mayur Puri",
       "Actors": "Shah Rukh Khan, Deepika Padukone, Abhishek Bachchan",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Kill Dil",
+      "netflix_url": "https://www.netflix.com/title/80024000",
+      "year": "2014",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt3380264",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWY0NzYzNzktMDNjOC00MDRiLTlhN2ItMzE4YTUwMTFlZGQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Abandoned when young, Bhaiyaji gives shelter to Dev and Tutu. A game of defiance, deception and love follows when free-spirited Disha enters their life.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Shaad Ali",
+      "Writer": "Nitesh Tiwari, Shreyas Jain, Nikhil Mehrotra",
+      "Actors": "Ranveer Singh, Ali Zafar, Parineeti Chopra",
       "Language": "Hindi",
       "Country": "India"
     },
@@ -528,6 +596,40 @@
       "Actors": "Jeffrey Wright, Alexander Skarsgård, James Badge Dale",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Salaakhen",
+      "netflix_url": "https://www.netflix.com/title/80158479",
+      "year": "1975",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt0395743",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMyOWE3OTMtNTEzOS00YmM0LTljNGQtMGFiNGZlMjNhODU1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Plot": "In-separable childhood friends, Raju and Guddi are separated when Guddi's dad, Ramlal is arrested by the police for theft. Years later Guddi is now a cabaret dancer and singer, Seema, while Raju is a thief and professional gambler...",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Action, Thriller",
+      "Director": "A. Salaam",
+      "Writer": "Shanti Prakash Bakshi, A. Salaam",
+      "Actors": "Shashi Kapoor, Sulakshana Pandit, Mehmood",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Khoon Khoon",
+      "netflix_url": "https://www.netflix.com/title/80158480",
+      "year": "1973",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt0230412",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI0MjRkMTMtZWRlMi00ZGZmLTg2MDYtMWZhZjRiMjdjZjFjXkEyXkFqcGdeQXVyMjU3MzYxODk@._V1_SX300.jpg",
+      "Plot": "A Bombay cop tries to track down a serial killer who snipes at random victims.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Mohammed Hussain",
+      "Writer": "Umesh, Vrajendra Gaur",
+      "Actors": "Mahendra Sandhu, Danny Denzongpa, Jagdeep",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Raees",
@@ -904,6 +1006,23 @@
       "Country": "United States"
     },
     {
+      "title": "Cold Pursuit",
+      "netflix_url": "https://www.netflix.com/title/81079733",
+      "year": "2019",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt5719748",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ5OTk1OWMtYmY0MS00ZjFlLTk5MmYtMGRhZGRkZDI5ZGJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A grieving snowplow driver seeks revenge against the drug dealers who killed his son.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Hans Petter Moland",
+      "Writer": "Frank Baldwin, Kim Fupz Aakeson",
+      "Actors": "Liam Neeson, Laura Dern, Micheál Neeson",
+      "Language": "English, Vietnamese, Shoshoni",
+      "Country": "United Kingdom, Norway, China, Canada, United States, France"
+    },
+    {
       "title": "Lost Bullet",
       "netflix_url": "https://www.netflix.com/title/81108579",
       "year": "2020",
@@ -1038,6 +1157,23 @@
       "Actors": "Adam Sandler, Jennifer Aniston, Mark Strong",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Malang",
+      "netflix_url": "https://www.netflix.com/title/81214289",
+      "year": "2020",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt9877170",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODc5NWY1NzctMWEwYS00NmU0LWJlYzEtNzg1ZGJjZTEwODE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his...",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Mohit Suri",
+      "Writer": "Aseem Arrora, Aniruddha Guha, Mohit Suri",
+      "Actors": "Aditya Roy Kapoor, Anil Kapoor, Disha Patani",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Dostana (1980)",
@@ -1287,6 +1423,23 @@
       "Actors": "Franck Gastambide, Simon Abkarian, Michaël Abiteboul",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "Copshop",
+      "netflix_url": "https://www.netflix.com/title/81425046",
+      "year": "2022",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt5748448",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmM4YzA5NDEtM2Q2Ny00ZDlkLWFiMGUtNDhmY2JkZmU2YTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On the run from a lethal assassin, a wily con artist devises a scheme to hide out inside a small-town police station-but when the hitman turns up at the precinct, an unsuspecting rookie cop finds herself caught in the crosshairs.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Thriller",
+      "Director": "Joe Carnahan",
+      "Writer": "Kurt McLeod, Joe Carnahan, Mark Williams",
+      "Actors": "Gerard Butler, Frank Grillo, Alexis Louder",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Wild Dog",
@@ -1901,6 +2054,23 @@
       "Country": "Vietnam"
     },
     {
+      "title": "The Ghost",
+      "netflix_url": "https://www.netflix.com/title/81614454",
+      "year": "2022",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt15309632",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTI1YjNhZGMtYjg0MC00YTU5LTkyMjctNGQwMGViNzYyOTljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Action, Thriller",
+      "Director": "Praveen Sattaru",
+      "Writer": "Ali Lucknowi, Abhijeeth Poondla, Praveen Sattaru",
+      "Actors": "Nagarjuna Akkineni, Sonal Chauhan, Gul Panag",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Inkabi",
       "netflix_url": "https://www.netflix.com/title/81616776",
       "year": "2024",
@@ -2506,6 +2676,13 @@
       "Actors": "Ethan Juan, Ben Yuen, Chen Yiwen",
       "Language": "Mandarin, Cantonese",
       "Country": "Taiwan"
+    },
+    {
+      "title": "Japan (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81749751",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Magik Rompak",

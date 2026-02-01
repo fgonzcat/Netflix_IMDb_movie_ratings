@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/7700",
   "movies": [
     {
+      "title": "Wyatt Earp",
+      "netflix_url": "https://www.netflix.com/title/60011597",
+      "year": "1994",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0111756",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ5YzJmMjktMmYwNi00ZTU4LWFhMDgtZWRhZDAxZTA2MzIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "From Wichita to Dodge City, to the OK Corral in Tombstone, a man becomes a myth in this thrilling journey of romance, adventure, and desperate heroic action.",
+      "Type": "movie",
+      "RunTime": "191 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "Lawrence Kasdan",
+      "Writer": "Dan Gordon, Lawrence Kasdan",
+      "Actors": "Kevin Costner, Dennis Quaid, Gene Hackman",
+      "Language": "English, Spanish",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Kill Dil",
       "netflix_url": "https://www.netflix.com/title/80024000",
       "year": "2014",
@@ -33,6 +50,23 @@
       "Director": "Frank Coraci",
       "Writer": "Tim Herlihy, Adam Sandler",
       "Actors": "Adam Sandler, Terry Crews, Jorge Garcia",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Hell or High Water",
+      "netflix_url": "https://www.netflix.com/title/80108616",
+      "year": "2016",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt2582782",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_SX300.jpg",
+      "Plot": "Toby is a divorced father who's trying to make a better life. His brother is an ex-con with a short temper and a loose trigger finger. Together, they plan a series of heists against the bank that's about to foreclose on their fami...",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "David Mackenzie",
+      "Writer": "Taylor Sheridan",
+      "Actors": "Chris Pine, Ben Foster, Jeff Bridges",
       "Language": "English",
       "Country": "United States"
     },

@@ -113,6 +113,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/83059" target="_bla
 | N/A |  | None | <details> <summary><strong style="color:#1f6feb;">*Playing Gracie Darling*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82127445" target="_blank">Netflix_link</a> |
 | N/A |  | None | <details> <summary><strong style="color:#1f6feb;">*Zomvivor*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82132596" target="_blank">Netflix_link</a> |
 | N/A |  | None | <details> <summary><strong style="color:#1f6feb;">*NOS4A2*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82134739" target="_blank">Netflix_link</a> |
+| N/A |  | None | <details> <summary><strong style="color:#1f6feb;">*Jekyll and Hyde*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82159904" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -151,6 +152,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/83059" target="_bla
 
  
 ---
-*Page last updated on: 2026-01-30*
+*Page last updated on: 2026-02-01*
 
  

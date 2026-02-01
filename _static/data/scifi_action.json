@@ -88,6 +88,23 @@
       "Country": "United States, Mexico"
     },
     {
+      "title": "Independence Day",
+      "netflix_url": "https://www.netflix.com/title/60000363",
+      "year": "1996",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0116629",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGMwN2UwZjEtYjFjMi00ZDA1LWJlYTQtMjA1MTYxMzIyNTdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.",
+      "Type": "movie",
+      "RunTime": "145 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Roland Emmerich",
+      "Writer": "Dean Devlin, Roland Emmerich",
+      "Actors": "Will Smith, Bill Pullman, Jeff Goldblum",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Battlefield Earth",
       "netflix_url": "https://www.netflix.com/title/60000872",
       "year": "2000",
@@ -392,6 +409,23 @@
       "Actors": "Andrew Garfield, Emma Stone, Jamie Foxx",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Pixels",
+      "netflix_url": "https://www.netflix.com/title/80037476",
+      "year": "2015",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt2120120",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzIyNTc1NmUtOTBlNS00YzEwLTlkZTMtZjJkMGM2YzNkYmY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When aliens misinterpret video feeds of classic arcade games as a declaration of war, they attack the Earth in the form of the video games.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Chris Columbus",
+      "Writer": "Tim Herlihy, Timothy Dowling, Patrick Jean",
+      "Actors": "Adam Sandler, Kevin James, Michelle Monaghan",
+      "Language": "English",
+      "Country": "China, United States, Canada"
     },
     {
       "title": "The 5th Wave",

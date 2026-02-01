@@ -105,6 +105,13 @@
       "Country": "United States"
     },
     {
+      "title": "Night at the Museum 2: Battle of the Smithsonian",
+      "netflix_url": "https://www.netflix.com/title/70103525",
+      "year": "2009",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The A-Team",
       "netflix_url": "https://www.netflix.com/title/70103526",
       "year": "2010",
@@ -222,6 +229,23 @@
       "Actors": "Shah Rukh Khan, Deepika Padukone, Abhishek Bachchan",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Pixels",
+      "netflix_url": "https://www.netflix.com/title/80037476",
+      "year": "2015",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt2120120",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzIyNTc1NmUtOTBlNS00YzEwLTlkZTMtZjJkMGM2YzNkYmY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When aliens misinterpret video feeds of classic arcade games as a declaration of war, they attack the Earth in the form of the video games.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Chris Columbus",
+      "Writer": "Tim Herlihy, Timothy Dowling, Patrick Jean",
+      "Actors": "Adam Sandler, Kevin James, Michelle Monaghan",
+      "Language": "English",
+      "Country": "China, United States, Canada"
     },
     {
       "title": "The Do-Over",
@@ -661,6 +685,23 @@
       "Actors": "Melissa McCarthy, Octavia Spencer, Jason Bateman",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Cold Pursuit",
+      "netflix_url": "https://www.netflix.com/title/81079733",
+      "year": "2019",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt5719748",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ5OTk1OWMtYmY0MS00ZjFlLTk5MmYtMGRhZGRkZDI5ZGJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A grieving snowplow driver seeks revenge against the drug dealers who killed his son.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Hans Petter Moland",
+      "Writer": "Frank Baldwin, Kim Fupz Aakeson",
+      "Actors": "Liam Neeson, Laura Dern, Micheál Neeson",
+      "Language": "English, Vietnamese, Shoshoni",
+      "Country": "United Kingdom, Norway, China, Canada, United States, France"
     },
     {
       "title": "R.K.Nagar",
@@ -1701,6 +1742,13 @@
       "Country": "India"
     },
     {
+      "title": "Chandramukhi 2 (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81683124",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Marry My Dead Body",
       "netflix_url": "https://www.netflix.com/title/81689962",
       "year": "2023",
@@ -1808,6 +1856,13 @@
       "Actors": "Petchtai Wongkamlao, Thiti Mahayotaruk, Chingduang Duijkers",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Japan (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81749751",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Rifle Club",

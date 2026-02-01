@@ -54,6 +54,23 @@
       "Country": "India"
     },
     {
+      "title": "Shakespeare in Love",
+      "netflix_url": "https://www.netflix.com/title/18170373",
+      "year": "1998",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0138097",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM3MTllNzYtN2MzNS00NWQwLTk0NTEtNjY1MmMwYjNkNTE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "History's greatest playwright is young, out of ideas and short of cash, but meets his ideal woman and is inspired to write one of his most famous plays.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Comedy, Drama, History",
+      "Director": "John Madden",
+      "Writer": "Marc Norman, Tom Stoppard",
+      "Actors": "Gwyneth Paltrow, Joseph Fiennes, Geoffrey Rush",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Daag",
       "netflix_url": "https://www.netflix.com/title/20258369",
       "year": "1973",

@@ -112,6 +112,23 @@
       "Country": "India"
     },
     {
+      "title": "Triple 9",
+      "netflix_url": "https://www.netflix.com/title/80045504",
+      "year": "2016",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1712261",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQyMjg2NDk0MV5BMl5BanBnXkFtZTgwNzU5Njc5NjE@._V1_SX300.jpg",
+      "Plot": "Criminals and crooked cops hatch a devious scheme to use an honest lawman as a pawn for a heist.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "John Hillcoat",
+      "Writer": "Matt Cook",
+      "Actors": "Casey Affleck, Chiwetel Ejiofor, Anthony Mackie",
+      "Language": "English, Spanish, Russian",
+      "Country": "United States"
+    },
+    {
       "title": "He Never Died",
       "netflix_url": "https://www.netflix.com/title/80058460",
       "year": "2015",
@@ -593,6 +610,23 @@
       "Actors": "Ali Fazal, Shriya Pilgaonkar, Jim Sarbh",
       "Language": "Hindi, English",
       "Country": "India"
+    },
+    {
+      "title": "Cold Pursuit",
+      "netflix_url": "https://www.netflix.com/title/81079733",
+      "year": "2019",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt5719748",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ5OTk1OWMtYmY0MS00ZjFlLTk5MmYtMGRhZGRkZDI5ZGJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A grieving snowplow driver seeks revenge against the drug dealers who killed his son.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Hans Petter Moland",
+      "Writer": "Frank Baldwin, Kim Fupz Aakeson",
+      "Actors": "Liam Neeson, Laura Dern, Micheál Neeson",
+      "Language": "English, Vietnamese, Shoshoni",
+      "Country": "United Kingdom, Norway, China, Canada, United States, France"
     },
     {
       "title": "The Ruthless",

@@ -20,6 +20,13 @@
       "Country": "United States"
     },
     {
+      "title": "Deconstructing Harry",
+      "netflix_url": "https://www.netflix.com/title/1179827",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Election",
       "netflix_url": "https://www.netflix.com/title/21060973",
       "year": "1999",
@@ -34,6 +41,40 @@
       "Writer": "Tom Perrotta, Alexander Payne, Jim Taylor",
       "Actors": "Matthew Broderick, Reese Witherspoon, Loren Nelson",
       "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
+      "title": "The American President",
+      "netflix_url": "https://www.netflix.com/title/251922",
+      "year": "1995",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0112346",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTcyNDAzYTUtNjBjMC00YTk3LTg5MTItMzM3MjhlNGE5YWNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A widowered U.S. President running for reelection and an environmental lobbyist fall in love. It's all above-board, but \"politics is perception,\" and sparks fly anyway.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Rob Reiner",
+      "Writer": "Aaron Sorkin",
+      "Actors": "Michael Douglas, Annette Bening, Martin Sheen",
+      "Language": "English, French, Spanish",
+      "Country": "United States"
+    },
+    {
+      "title": "Best in Show",
+      "netflix_url": "https://www.netflix.com/title/60002428",
+      "year": "2000",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0218839",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5OTc0NDU1MF5BMl5BanBnXkFtZTYwNzk1OTI3._V1_SX300.jpg",
+      "Plot": "A behind-the-scenes look into the highly competitive and cut-throat world of dog shows through the eyes of a group of ruthless dog owners.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy",
+      "Director": "Christopher Guest",
+      "Writer": "Christopher Guest, Eugene Levy",
+      "Actors": "Jay Brazeau, Parker Posey, Michael Hitchcock",
+      "Language": "English",
       "Country": "United States"
     },
     {
@@ -120,6 +161,23 @@
       "Actors": "Peter Sallis, Helena Bonham Carter, Ralph Fiennes",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Crazy, Stupid, Love.",
+      "netflix_url": "https://www.netflix.com/title/70167068",
+      "year": "2011",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1570728",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_SX300.jpg",
+      "Plot": "A middle-aged husband's life changes dramatically when his wife asks him for a divorce. He seeks to rediscover his manhood with the help of a newfound friend, Jacob, learning to pick up girls at bars.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Glenn Ficarra, John Requa",
+      "Writer": "Dan Fogelman",
+      "Actors": "Steve Carell, Ryan Gosling, Julianne Moore",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Friends with Benefits",

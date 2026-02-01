@@ -411,6 +411,23 @@
       "Country": "United States, Mexico, Spain, Malta"
     },
     {
+      "title": "Watership Down",
+      "netflix_url": "https://www.netflix.com/title/80107989",
+      "year": "2018",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt5670764",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA5MjNmYWYtNzA5MC00YmIwLTljOGUtYTIyODA5MzcyZmU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Fleeing their doomed warren, a colony of rabbits struggle to find and defend a new home.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "James McAvoy, Nicholas Hoult, John Boyega",
+      "Language": "English",
+      "Country": "United Kingdom, Ireland, United States"
+    },
+    {
       "title": "Fauda",
       "netflix_url": "https://www.netflix.com/title/80113612",
       "year": "2023",
@@ -1125,6 +1142,23 @@
       "Country": "United States"
     },
     {
+      "title": "Age of Samurai: Battle for Japan",
+      "netflix_url": "https://www.netflix.com/title/80237990",
+      "year": "2021",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt10551256",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTIyOGYxMjktZjliZC00NTc3LTkzNDYtYjk0MWFiMjBlNzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An exploration of the warring kingdoms of feudal Japan when several powerful warlords fought to become absolute ruler.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Hiro Kanagawa, Hayate Masao, Michael Auslin",
+      "Language": "Korean, Japanese, English",
+      "Country": "United States"
+    },
+    {
       "title": "Agent Elvis",
       "netflix_url": "https://www.netflix.com/title/80240585",
       "year": "2023",
@@ -1548,6 +1582,13 @@
       "Actors": "Pallance Dladla, Khathu Ramabulana, Amanda Du-Pont",
       "Language": "English",
       "Country": "South Africa"
+    },
+    {
+      "title": "The Lost Pirate Kingdom",
+      "netflix_url": "https://www.netflix.com/title/81035118",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Queen Sono",
@@ -3377,6 +3418,23 @@
       "Country": "United States"
     },
     {
+      "title": "WWE Super Show-Down",
+      "netflix_url": "https://www.netflix.com/title/81930373",
+      "year": "2020",
+      "imdb_rating": "3.7",
+      "imdb_id": "tt11749636",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjUxZDQzMmYtN2NmOC00YTdlLTllYmEtMDk4MDliMzlkYzRiXkEyXkFqcGdeQXVyMzQwNDk2ODM@._V1_SX300.jpg",
+      "Plot": "WWE Superstars comes to Saudi Arabia to fight each other to see who is the best.",
+      "Type": "movie",
+      "RunTime": "204 min",
+      "Genre": "Action, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Windham Rotunda, Bill Goldberg, Brock Lesnar",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "WWE One Night Stand",
       "netflix_url": "https://www.netflix.com/title/81930396",
       "year": "2008",
@@ -3760,6 +3818,13 @@
       "title": "Kurukshetra: The Great War of Mahabharata",
       "netflix_url": "https://www.netflix.com/title/82063102",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Matori & Kyoken Men in the Back Alleys",
+      "netflix_url": "https://www.netflix.com/title/82113726",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },

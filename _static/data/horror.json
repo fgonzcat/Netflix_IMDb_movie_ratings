@@ -173,6 +173,23 @@
       "Country": "United States"
     },
     {
+      "title": "Kaal",
+      "netflix_url": "https://www.netflix.com/title/70037493",
+      "year": "2005",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt0415908",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQyNmQ4MTgtMTUyYS00ZjE0LTk2ODItZTdjMDJkYmNjNDZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A tiger expert, his wife, two tourists and a village chief engage in a battle for survival against supernatural beasts within Jim Corbett National Wildlife Park.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Adventure, Horror, Mystery",
+      "Director": "Soham Shah",
+      "Writer": "Soham Shah",
+      "Actors": "Ajay Devgn, Vivek Oberoi, John Abraham",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Wind Chill",
       "netflix_url": "https://www.netflix.com/title/70053467",
       "year": "2007",
@@ -1013,6 +1030,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Eerie",
+      "netflix_url": "https://www.netflix.com/title/81028404",
+      "year": "2019",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt10962002",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTVlYzEyZTItZTdmMi00OTZmLTliMTMtMmRlNmVjODkxZmZlXkEyXkFqcGdeQXVyMjYyMjIyNzM@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "1 min",
+      "Genre": "Short, Fantasy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Iuliana Erofei",
+      "Language": "N/A",
+      "Country": "Romania"
+    },
+    {
       "title": "Bulbbul",
       "netflix_url": "https://www.netflix.com/title/81029150",
       "year": "2020",
@@ -1183,6 +1217,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Ghost Stories",
+      "netflix_url": "https://www.netflix.com/title/81088083",
+      "year": "2020",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt10230404",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk1ZjFiM2EtZGQ1My00MjRjLWEwZDYtMTI1YTlhMmIzZjk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The winning team of \"Lust Stories\" reunites to tell some spine-chilling tales. \"Ghost Stories\" is a 2020 Indian anthology horror film consisting of four short film segments.",
+      "Type": "movie",
+      "RunTime": "144 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Zoya Akhtar, Dibakar Banerjee, Karan Johar",
+      "Writer": "Zoya Akhtar, Dibakar Banerjee, Niranjan Iyengar",
+      "Actors": "Janhvi Kapoor, Surekha Sikri, Amruta Subhash",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "The 3rd Eye 2",
       "netflix_url": "https://www.netflix.com/title/81088277",
       "year": "2019",
@@ -1215,6 +1266,23 @@
       "Actors": "Ella Rubin, Michael Cimino, Odessa A'zion",
       "Language": "English",
       "Country": "United States, Hungary"
+    },
+    {
+      "title": "Countdown",
+      "netflix_url": "https://www.netflix.com/title/81133023",
+      "year": "2019",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt10039344",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzJjODI5ZTQtMTIxNy00MjY0LTlhNDgtNzk0YjZjM2Q1ZDIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a nurse downloads an app that claims to predict the moment a person will die, it tells her she only has three days to live. With the clock ticking and a figure haunting her, she must find a way to save her life before time ru...",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Justin Dec",
+      "Writer": "Justin Dec",
+      "Actors": "Elizabeth Lail, Jordan Calloway, Talitha Eliana Bateman",
+      "Language": "English, Latin",
+      "Country": "United States"
     },
     {
       "title": "Nobody Sleeps in the Woods Tonight",
@@ -2027,6 +2095,30 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Don't Kill Me",
+      "netflix_url": "https://www.netflix.com/title/81490650",
+      "year": "2022",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt11116374",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZGJlYzItZmE3NS00YTY1LWIzNGUtNzNjNmE0NDEyYjliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "19-year-old Mirta dies of drug overdose with her lover Robin. She then resuscitates alone and finds out that, in order to keep living, she must eat living humans.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Fantasy, Horror, Romance",
+      "Director": "Andrea De Sica",
+      "Writer": "Chiara Palazzolo, Gianni Romoli, Andrea De Sica",
+      "Actors": "Alice Pagani, Rocco Fasano, Silvia Calderoni",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
+      "title": "Boomika (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81496130",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Girl Who Got Away",
       "netflix_url": "https://www.netflix.com/title/81500351",
       "year": "2021",
@@ -2303,6 +2395,23 @@
       "imdb_id": null
     },
     {
+      "title": "Shaitaan",
+      "netflix_url": "https://www.netflix.com/title/81632775",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt27744786",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGI3YTcwNTgtMmY5Ny00M2Y0LWFjOWUtYjhkMzNjMjhmYjVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A family's getaway turns terrifying when an intruder possesses the teen daughter's body, putting her at the mercy of his increasingly sinister commands.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Vikas Bahl",
+      "Writer": "Aamil Keeyan Khan, Krishnadev Yagnik",
+      "Actors": "Ajay Devgn, Madhavan, Jyotika",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Chandramukhi 2",
       "netflix_url": "https://www.netflix.com/title/81644300",
       "year": "2023",
@@ -2317,6 +2426,23 @@
       "Writer": "P. Vasu",
       "Actors": "Raghava Lawrence, Kangana Ranaut, Aathmika",
       "Language": "Tamil",
+      "Country": "India"
+    },
+    {
+      "title": "Kumari",
+      "netflix_url": "https://www.netflix.com/title/81644920",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt13531020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQxNDdhYTUtZDJhNC00NjgyLTk1NDAtZDFhZTZmODdiN2QyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+      "Plot": "The world of Kumari, who is married off far away in Kanhirangat, a cursed land beyond Illymala, in the west. A naive Kumari arrives in the cursed land, where people are ready to sacrifice their lives to preserve tradition",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Nirmal Sahadev",
+      "Writer": "Fazal Hameed, Nirmal Sahadev",
+      "Actors": "Prithviraj Sukumaran, Aishwarya Lekshmi, Shine Tom Chacko",
+      "Language": "Malayalam",
       "Country": "India"
     },
     {
@@ -2487,6 +2613,13 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Chandramukhi 2 (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81683124",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Bhool Bhulaiyaa 3",
       "netflix_url": "https://www.netflix.com/title/81686134",
       "year": "2024",
@@ -2570,6 +2703,13 @@
       "Actors": "Faradina Mufti, Reza Rahadian, Widuri Puteri",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "Asvins (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81711449",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Bone Lake",
@@ -3009,6 +3149,40 @@
       "Actors": "Punyawee Jungcharoen, Phuang Keawprasert, Jorin Khumpiraphan",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "The Blue Drum",
+      "netflix_url": "https://www.netflix.com/title/81923256",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15421298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk2ODRkMmUtYWVlYy00OTBiLTg0ZDAtMTkyY2U1MTZlNmRhXkEyXkFqcGdeQXVyNDIzMTk5OTA@._V1_SX300.jpg",
+      "Plot": "A woman mourning her father's passing is tormented by memories of a mother she never knew. A presence reveals secrets hidden within her family home.",
+      "Type": "movie",
+      "RunTime": "17 min",
+      "Genre": "Short, Horror",
+      "Director": "Angelita Mendoza",
+      "Writer": "Angelita Mendoza",
+      "Actors": "Crystal Hernandez, Jonathan Medina, Judith Scarpone",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Mama Retreat",
+      "netflix_url": "https://www.netflix.com/title/81923259",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15390994",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA2NzE2NDEtOTBmMi00Y2E5LTkyYjktZTdhN2U2ODBmZTRkXkEyXkFqcGdeQXVyNjE3NDY5NDU@._V1_SX300.jpg",
+      "Plot": "A weary mother-to-be attends an all-inclusive glamping retreat in the mountains, only to have her greatest fears about motherhood realized.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short, Horror",
+      "Director": "Eileen Álvarez",
+      "Writer": "Eileen Álvarez",
+      "Actors": "Madi Bready, Laura Campbell, Ally Davis",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Janji Darah",

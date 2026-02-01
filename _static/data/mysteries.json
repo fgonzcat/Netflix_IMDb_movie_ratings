@@ -71,6 +71,23 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "The Glass House",
+      "netflix_url": "https://www.netflix.com/title/60020817",
+      "year": "2001",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0221218",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MzA4NzYyOF5BMl5BanBnXkFtZTYwNjk3Nzc5._V1_SX300.jpg",
+      "Plot": "A teenage orphan fears her adoptive parents.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Daniel Sackheim",
+      "Writer": "Wesley Strick",
+      "Actors": "Diane Lane, Leelee Sobieski, Stellan Skarsgård",
+      "Language": "English, Spanish, Greek",
+      "Country": "United States"
+    },
+    {
       "title": "The Illusionist",
       "netflix_url": "https://www.netflix.com/title/70043951",
       "year": "2006",
@@ -1998,6 +2015,13 @@
     {
       "title": "Merry Christmas (Tamil)",
       "netflix_url": "https://www.netflix.com/title/81713401",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Merry Christmas (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81713665",
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null

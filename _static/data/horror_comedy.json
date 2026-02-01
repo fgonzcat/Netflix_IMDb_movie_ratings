@@ -323,6 +323,23 @@
       "imdb_id": null
     },
     {
+      "title": "Shaitaan",
+      "netflix_url": "https://www.netflix.com/title/81632775",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt27744786",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGI3YTcwNTgtMmY5Ny00M2Y0LWFjOWUtYjhkMzNjMjhmYjVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A family's getaway turns terrifying when an intruder possesses the teen daughter's body, putting her at the mercy of his increasingly sinister commands.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Vikas Bahl",
+      "Writer": "Aamil Keeyan Khan, Krishnadev Yagnik",
+      "Actors": "Ajay Devgn, Madhavan, Jyotika",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Chandramukhi 2",
       "netflix_url": "https://www.netflix.com/title/81644300",
       "year": "2023",
@@ -374,6 +391,13 @@
       "Country": "Philippines"
     },
     {
+      "title": "Chandramukhi 2 (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81683124",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Bhool Bhulaiyaa 3",
       "netflix_url": "https://www.netflix.com/title/81686134",
       "year": "2024",
@@ -423,6 +447,13 @@
       "Actors": "Bene Dion Rajagukguk, Oki Rengga, Indra Jegel",
       "Language": "Indonesian, Sign ",
       "Country": "Indonesia"
+    },
+    {
+      "title": "Conjuring Kannappan (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81754783",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "My Boo",
