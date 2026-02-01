@@ -11,6 +11,10 @@ parts:
       - file: scripts 
       - file: netflix_codes
 
+  - caption: 🔎 IMDb Rankings
+    chapters:
+      - file: best_imdb_rated_movies_on_netflix
+
   - caption: ⭐ Best of the Best
     chapters:
       - file: best 
@@ -49,6 +53,7 @@ parts:
       - file: bollywood 
       - file: brazilian_movies
       - file: canadian_movies
+      - file: cerebral_movies
       - file: classics 
       - file: comedy 
         sections:
@@ -97,6 +102,7 @@ parts:
           - file: LGBTQ_Romantic
 
       - file: music 
+      - file: psychological_movies
       - file: romance 
         sections:
           - file: classical_romantic_movies 
@@ -114,8 +120,10 @@ parts:
       - file: short-ass_movies
       - file: spanish_movies_and_TV_shows 
       - file: sports 
+      - file: spy_movies
       - file: standup_comedy 
       - file: suspenseful
+      - file: swedish_movies
       - file: thrillers
         sections:
           - file: mysteries 
