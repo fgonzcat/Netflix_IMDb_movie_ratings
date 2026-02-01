@@ -25,7 +25,7 @@ All movies are sorted purely by IMDb score, without additional filtering.
 
 ## Explore by genre
 - [Anime](anime.md)
-- [Drama](drama.md)
+- [Drama](dramas.md)
 - [Horror](horror.md)
 - [Documentaries](documentaries.md)
 
