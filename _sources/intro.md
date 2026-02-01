@@ -6,7 +6,9 @@ I created a website to rank Netflix movies from best to worst according to [IMDb
 :class: tip
 
 **No scrolling. No guessing.**  
+Looking for a complete IMDb ranking?
 Just pick a genre and start watching.
+See [Best IMDb-Rated Movies on Netflix](best_imdb_rated_movies_on_netflix.md)
 
 <div style="margin-top:0.5em; font-size:1.1em;">
 👈 <strong>Choose a category from the menu on the left</strong><br>
