@@ -1,6 +1,6 @@
-# Brazilian Movies & TV
+# Brazilian Movies
 
-Netflix genre: <a href="https://www.netflix.com/browse/genre/100373" target="_blank">https://www.netflix.com/browse/genre/100373</a>
+Netflix genre: <a href="https://www.netflix.com/browse/genre/798" target="_blank">https://www.netflix.com/browse/genre/798</a>
 
 ## 🎬 Movie list
 
@@ -149,11 +149,11 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/100373" target="_bl
  Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
  
  1. **Select a Netflix genre**
-  For example: [https://www.netflix.com/browse/genre/100373](https://www.netflix.com/browse/genre/100373)
+  For example: [https://www.netflix.com/browse/genre/798](https://www.netflix.com/browse/genre/798)
  
  2. **Run the main script**
     ```bash
-    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/100373
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/798
     ```
  
  3. **What the script does**
