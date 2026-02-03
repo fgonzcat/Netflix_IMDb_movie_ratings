@@ -206,8 +206,8 @@ NPROC=$(nproc 2>/dev/null || sysctl -n hw.ncpu)
 while IFS=$'\t' read -r title url; do
   (
     echo "Fetching year for: $title" >&2
-    year=$(wget -q -O - --user-agent="Mozilla/5.0" "$url"       | sed -n 's/.*"latestYear":\([0-9]\{4\}\).*/\1/p'       | head -1)
-    if [[ -z "$year" ]]; then      echo "⚠️  Year lookup FAILED: $title" >&2;      fi
+    year=$(wget --no-check-certificate -q -O - --user-agent="Mozilla/5.0" "$url"       | sed -n 's/.*"latestYear":\([0-9]\{4\}\).*/\1/p'       | head -1)
+    if [[ -z "$year" ]]; then      echo "⚠️  Year lookup FAILED: $title: $url" >&2;      fi
 
     printf "%s\t%s\n" "$url" "${year:-}"
   ) >> "$TMP_OUT" &
@@ -303,7 +303,6 @@ while IFS=$'\t' read -r title year url; do
       fi
     fi
 
-    echo "Processing OMDb: $title ($year)"   >&2
     safe_title=$(printf '%s' "$title" \
       | perl -CS -MUnicode::Normalize -pe '$_=NFD($_); s/\pM//g' \
       | sed -e "s/’/'/g; s/–/-/g; s/—/+/g; s/-/+/g;" \
@@ -313,6 +312,7 @@ while IFS=$'\t' read -r title year url; do
 
 
     omdb_url=$(echo "http://www.omdbapi.com/?t=$safe_title&y=$year&apikey=$APIKEY")
+    echo "Processing OMDb: $title ($year) : $omdb_url"   >&2
     json=$(curl -s "$omdb_url") 
     # Fields typically available in OMDb ($json):
     #  {
@@ -373,12 +373,17 @@ while IFS=$'\t' read -r title year url; do
     omdbError=$(echo "$json" | jq -r '.Error // empty')
     if [[ "$Country" == *USA* ]]; then  Country=$(echo "$Country" | sed 's/USA/United States/g'); fi
 
-    # First, let's check whether the title from Netflix ($title) is the same I found in OMDb after the search ($Title)
+    # Normalize Titles: First, let's check whether the title from Netflix ($title) is the same I found in OMDb after the search ($Title)
     if [[ -n "$Title" ]]; then
      norm_title=$(echo      "$title"  | LC_ALL=C tr '[:upper:]' '[:lower:]' | LC_ALL=C sed -E 's/[^a-z0-9]+/ /g; s/^ +| +$//g') 
      norm_omdb_title=$(echo "$Title"  | LC_ALL=C tr '[:upper:]' '[:lower:]' | LC_ALL=C sed -E 's/[^a-z0-9]+/ /g; s/^ +| +$//g')
+     norm_title=$(echo "$norm_title" | sed -E "s/$year//g" | xargs)            # Eliminate the year from cases like "Title (2012)"
+     norm_omdb_title=$(echo "$norm_omdb_title" | sed -E "s/$year//g" | xargs)  # Eliminate the year from cases like "Title (2012)"
     fi
 
+    #===================================#
+    #        ERROR & MISMATCH           #
+    #===================================#
     if [[ -n "$omdbError" ]] || [[ -n "$Title" && "$norm_title" != "$norm_omdb_title" ]]; then
       if [[ "$omdbError"  == *limit* ]]; then
        echo "⚠️  OMDb rate limit reached — skipping $title" >&2
