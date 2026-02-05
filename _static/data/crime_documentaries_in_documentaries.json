@@ -27,6 +27,13 @@
       "imdb_id": null
     },
     {
+      "title": "30 for 30: June 17th, 1994",
+      "netflix_url": "https://www.netflix.com/title/70144640",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Making a Murderer",
       "netflix_url": "https://www.netflix.com/title/80000770",
       "year": "2018",
@@ -1456,6 +1463,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "La Línea: Shadow of Narco",
+      "netflix_url": "https://www.netflix.com/title/81095075",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt12875794",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ2NmYzM2UtNjIzMy00ZTcwLTk3MTMtMmY0MGZkZTdhZDk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Go inside La Línea, the Spanish beach town turned into Europe's drug trafficking hub, and meet the law enforcement officials determined to change that.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Juan Franco",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "House of Secrets: The Burari Deaths",
       "netflix_url": "https://www.netflix.com/title/81095095",
       "year": "2021",
@@ -2749,6 +2773,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Caught Out: Crime. Corruption. Cricket.",
+      "netflix_url": "https://www.netflix.com/title/81512107",
+      "year": "2023",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt27055390",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTRlYzE5OTEtMTkzYy00Mjg3LWE2MDQtMjM2OTM3MTI2MGE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "India's biggest match-fixing scandal, the icons caught in its web and the journalists who uncovered the corruption.",
+      "Type": "movie",
+      "RunTime": "77 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Supriya Sobti Gupta",
+      "Writer": "N/A",
+      "Actors": "Aniruddha Bahal, Sharda Ugra, Sriram Karri",
+      "Language": "N/A",
+      "Country": "India"
+    },
+    {
       "title": "Capturing the Killer Nurse",
       "netflix_url": "https://www.netflix.com/title/81512108",
       "year": "2022",
@@ -3708,6 +3749,13 @@
       "Actors": "N/A",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "The Investigation of Lucy Letby",
+      "netflix_url": "https://www.netflix.com/title/81719673",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Conversations with a Killer: The Son of Sam Tapes",

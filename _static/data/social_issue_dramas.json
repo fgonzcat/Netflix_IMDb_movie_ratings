@@ -918,6 +918,23 @@
       "Country": "Argentina, Venezuela"
     },
     {
+      "title": "LBJ",
+      "netflix_url": "https://www.netflix.com/title/80190815",
+      "year": "2016",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt4778988",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzM2Njg5NDU4MF5BMl5BanBnXkFtZTgwMDMwMTQ1MzI@._V1_SX300.jpg",
+      "Plot": "Lyndon B. Johnson aligns himself with John F. Kennedy, rises to the Presidency, and deals with the civil rights struggles of the 1960s.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Rob Reiner",
+      "Writer": "Joey Hartstone",
+      "Actors": "Woody Harrelson, Michael Stahl-David, Richard Jenkins",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Tubelight",
       "netflix_url": "https://www.netflix.com/title/80198682",
       "year": "2017",
@@ -1001,6 +1018,23 @@
       "Actors": "Adarsh Gourav, Rajkummar Rao, Priyanka Chopra Jonas",
       "Language": "Hindi, English",
       "Country": "India, United States"
+    },
+    {
+      "title": "Tigertail",
+      "netflix_url": "https://www.netflix.com/title/80202958",
+      "year": "2020",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt8902948",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWJhYzc1ZTYtMjZiNS00N2Y1LWIxYWEtZjdjY2U2ZmM3MjYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this multigenerational drama, a Taiwanese factory worker leaves his homeland to seek opportunity in America, where he struggles to find connection while balancing family and new-found responsibilities.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama",
+      "Director": "Alan Yang",
+      "Writer": "Alan Yang",
+      "Actors": "Tzi Ma, Christine Ko, Hong-Chi Lee",
+      "Language": "English, Min Nan, Mandarin",
+      "Country": "United States"
     },
     {
       "title": "22 July",
@@ -1197,6 +1231,13 @@
       "Country": "United States, Argentina"
     },
     {
+      "title": "La diosa del asfalto",
+      "netflix_url": "https://www.netflix.com/title/80990345",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "High Flying Bird",
       "netflix_url": "https://www.netflix.com/title/80991400",
       "year": "2019",
@@ -1282,6 +1323,23 @@
       "Country": "United States"
     },
     {
+      "title": "Class of '83",
+      "netflix_url": "https://www.netflix.com/title/80997361",
+      "year": "2020",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt10230422",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTllY2RiOTItMDg1My00NzcyLTlmOGUtODI3OTkzZjc1N2U2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of an upright policeman-turned-trainer whose wards deal with various complexities.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Atul Sabharwal",
+      "Writer": "Abhijeet Shirish Deshpande, Atul Sabharwal",
+      "Actors": "Bobby Deol, Anup Soni, Joy Sengupta",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "And Breathe Normally",
       "netflix_url": "https://www.netflix.com/title/80998427",
       "year": "2018",
@@ -1331,6 +1389,23 @@
       "Actors": "Penélope Cruz, Edgar Ramírez, Gael García Bernal",
       "Language": "Spanish, English, Russian, Italian",
       "Country": "France, Brazil, Spain, Belgium"
+    },
+    {
+      "title": "The Boys in the Band",
+      "netflix_url": "https://www.netflix.com/title/81000365",
+      "year": "2020",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10199914",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODFkOTU5ZDEtY2I1My00NWQyLWJmYTItZjgxZjAxZTU3MjM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "At a birthday party in 1968 New York, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Drama",
+      "Director": "Joe Mantello",
+      "Writer": "Mart Crowley, Ned Martel",
+      "Actors": "Jim Parsons, Zachary Quinto, Matt Bomer",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "On My Skin",
@@ -1433,6 +1508,23 @@
       "Actors": "Nacer Khemir",
       "Language": "French, Arabic",
       "Country": "Tunisia"
+    },
+    {
+      "title": "Crossroads: One Two Jaga",
+      "netflix_url": "https://www.netflix.com/title/81015153",
+      "year": "2018",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt6603812",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDZkNGM5ZjgtZmFmMS00NGVkLWFjYjMtMmQ4MzgyZDE1MWVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the outskirts and back-alleys of Kuala Lumpur, several individuals with money problems struggle to get their lives straight, finding their paths unexpectedly intersecting - with fatal results.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Namron",
+      "Writer": "Namron, Pitt Hanif, Muhammad Syafiq",
+      "Actors": "Zahiril Adzim, Rosdeen Suboh, Ario Bayu",
+      "Language": "Malay, Indonesian, Tagalog",
+      "Country": "Malaysia"
     },
     {
       "title": "Soni",
@@ -2374,6 +2466,13 @@
       "Country": "Sweden"
     },
     {
+      "title": "Vikrithi",
+      "netflix_url": "https://www.netflix.com/title/81248144",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Don't Look Up",
       "netflix_url": "https://www.netflix.com/title/81252357",
       "year": "2021",
@@ -2389,6 +2488,23 @@
       "Actors": "Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Miss India",
+      "netflix_url": "https://www.netflix.com/title/81258622",
+      "year": "2020",
+      "imdb_rating": "3.8",
+      "imdb_id": "tt11199310",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmNhN2RmYTEtNTI5ZS00OGQ0LTk0NzktZDMwODFhNmViNzY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An aspiring Indian entrepreneur confronts disapproval, sexism and rivalry as she draws from culture to start a tea business.",
+      "Type": "movie",
+      "RunTime": "136 min",
+      "Genre": "Drama",
+      "Director": "Narendra Nath",
+      "Writer": "Narendra Nath, Tharun Kumar, Ali Lucknowi",
+      "Actors": "Keerthy Suresh, Naveen Chandra, Sumanth Shailendra",
+      "Language": "Telugu, Tamil",
+      "Country": "India"
     },
     {
       "title": "Operation Hyacinth",
@@ -2709,6 +2825,23 @@
       "Actors": "Ayushmann Khurrana, Vaani Kapoor, Yograj Singh",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Ẹlẹṣin Ọba: The King's Horseman",
+      "netflix_url": "https://www.netflix.com/title/81332042",
+      "year": "2022",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt15374214",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg0ZDBlM2MtYmNhNy00ZGI5LWI0M2YtYTMzZDBlYzJiNDRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After his king dies, a horseman must sacrifice himself to serve his ruler in the afterlife but sudden distractions lead to unexpected tragedy.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Adventure, Drama, History",
+      "Director": "Biyi Bandele",
+      "Writer": "Biyi Bandele, Kola Tubosun",
+      "Actors": "Odunlade Adekola, Shaffy Bello, Olawale-Brymo Olofooro",
+      "Language": "Yoruba, English",
+      "Country": "Nigeria"
     },
     {
       "title": "Love or Money",
@@ -3497,6 +3630,13 @@
       "Country": "India"
     },
     {
+      "title": "Etharkkum Thunindhavan (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81508717",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Will You Marry",
       "netflix_url": "https://www.netflix.com/title/81510753",
       "year": "2021",
@@ -3580,6 +3720,23 @@
       "Actors": "Leszek Lichota, Maria Kowalska, Ignacy Liss",
       "Language": "Polish",
       "Country": "Poland"
+    },
+    {
+      "title": "The Substitute",
+      "netflix_url": "https://www.netflix.com/title/81516461",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt15941636",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzA1MzI2ZGMtNTM5Ny00NGRhLTlkYjYtZTdkZWI4NzgwZjA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A substitute teacher gets involved when one of his students is threatened by a drug kingpin.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Diego Lerman, Haley Veres",
+      "Writer": "Diego Lerman, María Meira, Luciana De Mello",
+      "Actors": "Bárbara Lennie, Alfredo Castro, Juan Minujín",
+      "Language": "Spanish",
+      "Country": "Argentina, Spain, Mexico, Italy, France, Switzerland, United Kingdom"
     },
     {
       "title": "Hunger",
@@ -3861,6 +4018,23 @@
       "imdb_id": null
     },
     {
+      "title": "Servant of the people",
+      "netflix_url": "https://www.netflix.com/title/81597220",
+      "year": "2017",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt6818880",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODBjNWYwMGUtMTJmZC00NGNmLTk0MGUtNWM2NmQxNzY5NTBiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "'What if an ordinary man, an honest and principled teacher, becomes the President? Would he be able to survive in the world of high politics, overcome all obstacles and corruption, and confront the oligarchs and all political oppo...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Comedy, Family",
+      "Director": "Aleksey Kiryushchenko",
+      "Writer": "N/A",
+      "Actors": "Volodymyr Zelenskyy, Evgeniy Koshevoy, Stanislav Boklan",
+      "Language": "Russian, Ukrainian",
+      "Country": "Ukraine"
+    },
+    {
       "title": "Gold Brick",
       "netflix_url": "https://www.netflix.com/title/81597242",
       "year": "2023",
@@ -4123,6 +4297,23 @@
       "Country": "India"
     },
     {
+      "title": "Sinam",
+      "netflix_url": "https://www.netflix.com/title/81644301",
+      "year": "2022",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt11226500",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjVkY2RmOTktNDEwNC00OWUzLTgyNGQtMDFiNTE4ODdkOTYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A straight forward sub inspector is handed a murder investigation above his pay grade, during an ongoing tiff with one of his unscrupulous superiors.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Kumaravelan",
+      "Writer": "R. Saravanan",
+      "Actors": "Pallak Lalwani, Rekha Suresh, Kaali Venkat",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "THE VILLAGE",
       "netflix_url": "https://www.netflix.com/title/81652131",
       "year": "2023",
@@ -4137,6 +4328,23 @@
       "Writer": "N/A",
       "Actors": "Arya, Aadukalam Naren, Muthukumar",
       "Language": "Tamil",
+      "Country": "India"
+    },
+    {
+      "title": "The Teacher",
+      "netflix_url": "https://www.netflix.com/title/81652777",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt21983758",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzdjZmVmODAtY2NlMS00ZjRkLTgwNjYtY2QwZDNkMzU3M2UwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows Amala, whose seemingly perfect life is turned upside down after a scandalous video involving her goes viral, becoming a social pariah, but she fights on her own to try to get out of the hole.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Vivek",
+      "Writer": "P.V. Shajikumar, Vivek",
+      "Actors": "Amala Paul, Hakkim Shah, Chemban Vinod Jose",
+      "Language": "Malayalam",
       "Country": "India"
     },
     {
@@ -4444,6 +4652,23 @@
       "Actors": "M. Adhiyat, Malea Emma Tjandrawidjaja, Ira Wibowo",
       "Language": "Indonesian, Chinese, Mandarin",
       "Country": "Indonesia"
+    },
+    {
+      "title": "Bangarang",
+      "netflix_url": "https://www.netflix.com/title/81680248",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt6553608",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUatsNIpRmW_JEOtWLZcj6wdMJWzmRZ7daDl-Ahzz4GN10EJF3ItAMSlX3wY7-c_JyFtQIONeT_7iZMj4lSSSdYksLSFTy4IYPDx.jpg?r=862",
+      "Plot": "In this prequel to Hook (1991), we see the origins of Rufio as he makes his way to Neverland.",
+      "Type": "movie",
+      "RunTime": "17 min",
+      "Genre": "Short, Adventure, Family",
+      "Director": "Jonah Feingold",
+      "Writer": "Jonah Feingold, Jeremy Mittleman",
+      "Actors": "Sheaden Gabriel, Dante Basco, Olivia Trujillo",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Jagun Jagun",

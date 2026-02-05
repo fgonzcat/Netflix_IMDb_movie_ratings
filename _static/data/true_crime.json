@@ -265,6 +265,23 @@
       "Country": "United States, United Kingdom"
     },
     {
+      "title": "Strong Island",
+      "netflix_url": "https://www.netflix.com/title/80168230",
+      "year": "2017",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt5873150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ4MGUxN2MtZWMzZC00M2NkLTljNzQtYzZlZGY0NzRhNjdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When filmmaker Yance Ford investigates the 1992 murder of a young Black man, it becomes an achingly personal journey, since the victim, 24-year-old William Ford Jr., was the filmmaker's brother.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Yance Ford",
+      "Writer": "N/A",
+      "Actors": "Yance Ford, Harvey Walker, Kevin Myers",
+      "Language": "English",
+      "Country": "United States, Denmark"
+    },
+    {
       "title": "Drug Lords",
       "netflix_url": "https://www.netflix.com/title/80177803",
       "year": "2018",
@@ -2078,6 +2095,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Mr. Good: Cop or Crook?",
+      "netflix_url": "https://www.netflix.com/title/81311768",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt20113404",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc5NzVhOTQtZTY1NS00OWFkLTllNWEtMDNhMmNlYTljYWNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this riveting docuseries, when Norway's top cop is suspected of drug trafficking, investigators must ask: Is he a good officer or a major criminal?",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Tommy Hyving, Eric Vorenholt",
+      "Language": "Norwegian",
+      "Country": "Norway"
+    },
+    {
       "title": "Monique Olivier: Accessory to Evil",
       "netflix_url": "https://www.netflix.com/title/81313519",
       "year": "2023",
@@ -3221,6 +3255,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Indian Predator: The Diary of a Serial Killer",
+      "netflix_url": "https://www.netflix.com/title/81610333",
+      "year": "2022",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt21811888",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE3NzYyNzktNWYyOC00ZjY2LWI1MDMtMjlhZTg2OGQ1NWYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a suspect is found in a journalist's murder, the case is considered closed until a secret diary suggests 13 more victims and possible cannibalism.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Shardanand Singh, Ravi Shah",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Beast of Bangalore: Indian Predator",
       "netflix_url": "https://www.netflix.com/title/81610578",
       "year": "2022",
@@ -3806,6 +3857,13 @@
       "Actors": "N/A",
       "Language": "English",
       "Country": "South Africa"
+    },
+    {
+      "title": "The Investigation of Lucy Letby",
+      "netflix_url": "https://www.netflix.com/title/81719673",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Conversations with a Killer: The Son of Sam Tapes",
