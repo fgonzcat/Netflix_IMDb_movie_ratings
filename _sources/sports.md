@@ -177,6 +177,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/4370" target="_blan
 | N/A |  | 2017 | <details> <summary><strong style="color:#1f6feb;">*30 for 30: Nature Boy*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81748052" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Untold: The Fall of Favre*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81748451" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Who Killed the Montreal Expos?*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81748607" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Queen of Chess*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81749912" target="_blank">Netflix_link</a> |
 | N/A |  | 2019 | <details> <summary><strong style="color:#1f6feb;">*30 for 30: Deion's Double Play*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81752193" target="_blank">Netflix_link</a> |
 | N/A |  | 2019 | <details> <summary><strong style="color:#1f6feb;">*30 for 30: The Good, The Bad, The Hungry*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81752194" target="_blank">Netflix_link</a> |
 | N/A |  | 2016 | <details> <summary><strong style="color:#1f6feb;">*30 for 30: Catholics vs. Convicts*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81752199" target="_blank">Netflix_link</a> |
@@ -228,6 +229,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/4370" target="_blan
 
  
 ---
-*Page last updated on: 2026-02-03*
+*Page last updated on: 2026-02-06*
 
  

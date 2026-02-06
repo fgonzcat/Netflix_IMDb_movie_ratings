@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "Indian",
+      "netflix_url": "https://www.netflix.com/title/27748788",
+      "year": "1996",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0116630",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODE4MmQ1ZDYtYTZkMC00ZmVhLWJjZjAtNTA5NGIyYzQ1YjI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A veteran freedom fighter enraged with the rising crime and corruption in the society murders all the wrong doers one by one using an ancient martial arts technique.",
+      "Type": "movie",
+      "RunTime": "185 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "S. Shankar",
+      "Writer": "S. Shankar, Umesh Sharma, Sujatha",
+      "Actors": "Kamal Haasan, Sukanya, Manisha Koirala",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "Mashaal",
       "netflix_url": "https://www.netflix.com/title/60002820",
       "year": "1984",
@@ -622,6 +639,23 @@
       "Country": "United States"
     },
     {
+      "title": "The White Helmets",
+      "netflix_url": "https://www.netflix.com/title/80101827",
+      "year": "2016",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt6073176",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjVlNzYxMmUtNzY0OS00OGQzLTk5ODctN2UyNTdmZTEwYTQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As daily airstrikes pound civilian targets in Syria, a group of indomitable first responders risk their lives to rescue victims from the rubble.",
+      "Type": "movie",
+      "RunTime": "41 min",
+      "Genre": "Documentary, Short, War",
+      "Director": "Orlando von Einsiedel",
+      "Writer": "N/A",
+      "Actors": "Dana Abed, Tia Alkerdi, Khalid Farah",
+      "Language": "Arabic, English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Hell or High Water",
       "netflix_url": "https://www.netflix.com/title/80108616",
       "year": "2016",
@@ -1113,6 +1147,23 @@
       "Actors": "Theo James, Ben Kingsley, Belçim Bilgin",
       "Language": "English, Persian, French",
       "Country": "Denmark, Canada, United States"
+    },
+    {
+      "title": "Zion",
+      "netflix_url": "https://www.netflix.com/title/80239831",
+      "year": "2018",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt7820962",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTMxMWNjZmMtN2Y5Ny00M2QzLTg3NzUtZmQwMGQ2ZWUwNDdkXkEyXkFqcGdeQXVyODU5NTM0OTk@._V1_SX300.jpg",
+      "Plot": "A portrait of Zion Clark, a young wrestler who was born without legs and grew up in foster care.",
+      "Type": "movie",
+      "RunTime": "12 min",
+      "Genre": "Documentary, Short, Biography",
+      "Director": "Floyd Russ",
+      "Writer": "N/A",
+      "Actors": "Zion Clark, Gilbert Donahue, Kimberly Clark",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Red Sea Diving Resort",
@@ -1639,6 +1690,40 @@
       "Country": "India"
     },
     {
+      "title": "King of Boys",
+      "netflix_url": "https://www.netflix.com/title/81172721",
+      "year": "2018",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt8329618",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmM0YzYyY2UtNWQ5Yy00ZTRhLTlmODctYzdjMGY5MTZkZjBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a powerful businesswoman's political ambitions are threatened by her underworld connections, the ensuing power struggle could cost her everything.",
+      "Type": "movie",
+      "RunTime": "169 min",
+      "Genre": "Crime, Drama",
+      "Director": "Kemi Adetiba",
+      "Writer": "Kemi Adetiba",
+      "Actors": "Sola Sobowale, Remilekun Reminisce Safaru, Adesua Etomi-Wellington",
+      "Language": "Yoruba, English, Ibo, Hausa",
+      "Country": "Nigeria"
+    },
+    {
+      "title": "Ultras",
+      "netflix_url": "https://www.netflix.com/title/81178339",
+      "year": "2020",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt10937434",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg4NGQzYTMtZTBjNy00NjBlLWI2NTMtYzFmZjA2ZjZjODIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Naples. At almost fifty years old Sandro is the leader of the Apache, a group of ultras with whom he has spent his whole life at the stadium: a life of violence, clashes, passions, and unshakable values. Now that a hooligan preven...",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama",
+      "Director": "Francesco Lettieri",
+      "Writer": "Peppe Fiore, Francesco Lettieri",
+      "Actors": "Aniello Arena, Ciro Nacca, Antonia Truppo",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "Outlaws",
       "netflix_url": "https://www.netflix.com/title/81193794",
       "year": "2021",
@@ -1758,6 +1843,13 @@
       "Country": "India, United States"
     },
     {
+      "title": "The Last Bomb of the Second World War",
+      "netflix_url": "https://www.netflix.com/title/81248141",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Operation Hyacinth",
       "netflix_url": "https://www.netflix.com/title/81258692",
       "year": "2021",
@@ -1841,6 +1933,23 @@
       "Actors": "Idris Elba, Cynthia Erivo, Andy Serkis",
       "Language": "English, Estonian, Portuguese",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Buba",
+      "netflix_url": "https://www.netflix.com/title/81281658",
+      "year": "2022",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt21195548",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDk3NjRhN2ItZjMxZS00MmIzLWE4Y2YtNDI5OGUwZjIzOWZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a small-town con artist joins the local mafia with his manipulative brother, his obsession with balancing his karma gets hilariously brutal.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Arne Feldhusen",
+      "Writer": "Sebastian Colley, Isaiah Michalski, Natalie Thomas",
+      "Actors": "Bjarne Mädel, Georg Friedrich, Anita Vulesica",
+      "Language": "German",
+      "Country": "Germany"
     },
     {
       "title": "Forever Rich",
@@ -2765,6 +2874,23 @@
       "Country": "United States"
     },
     {
+      "title": "Inkabi",
+      "netflix_url": "https://www.netflix.com/title/81616776",
+      "year": "2024",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt32365822",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmZhYWIxMzQtNGUwZS00YmJhLTk3ZGQtYjFjNjVmZGFhYmVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rank, a retired hitman, becomes a taxi driver. Lucy, a casino worker, witnesses a murder, is targeted. She turns to Frank for help. He kills to protect her, despite being retired, as she has no one else.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Action",
+      "Director": "Norman Maake",
+      "Writer": "Norman Maake",
+      "Actors": "Dumisani Dlamini, Nkosinathi Keswa, Mimi Mamabolo",
+      "Language": "English, Zulu",
+      "Country": "South Africa"
+    },
+    {
       "title": "Boxer",
       "netflix_url": "https://www.netflix.com/title/81620854",
       "year": "2024",
@@ -2966,6 +3092,23 @@
       "Country": "Canada"
     },
     {
+      "title": "Adagio",
+      "netflix_url": "https://www.netflix.com/title/81664676",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt22001304",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjI4OTE4NzktMTgyMS00ZWYxLWI4NjYtODQ0OTYyZDQyNGI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tangled up with blackmail and crooked cops, the son of a former gangster seeks out his father's old friends, who risk everything to save him.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Stefano Sollima",
+      "Writer": "Stefano Bises, Stefano Sollima",
+      "Actors": "Pierfrancesco Favino, Toni Servillo, Valerio Mastandrea",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "The Covenant",
       "netflix_url": "https://www.netflix.com/title/81667991",
       "year": "2023",
@@ -3157,6 +3300,23 @@
       "Country": "Poland"
     },
     {
+      "title": "Gangs of Godavari",
+      "netflix_url": "https://www.netflix.com/title/81715677",
+      "year": "2024",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt27349461",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWRiYjkwYWMtYjYzMy00YzhlLThkN2ItZjllZWQ2Y2I5ZGU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A morally-corrupt man seeks to rise within the gritty world of politics and power - but his ambition could ultimately cost him his life.",
+      "Type": "movie",
+      "RunTime": "165 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Krishna Chaitanya",
+      "Writer": "Krishna Chaitanya",
+      "Actors": "Vishwak Sen, Nassar, Anjali",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Kondal",
       "netflix_url": "https://www.netflix.com/title/81721827",
       "year": "2024",
@@ -3189,6 +3349,23 @@
       "Actors": "Reza Rahadian, Shenina Cinnamon, Laura Basuki",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "Daydreamers",
+      "netflix_url": "https://www.netflix.com/title/81727023",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15067498",
+      "Poster": "https://occ-0-1339-1340.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXSn3XYHrMpqOjq5UJ_Sw_c8mtiDrDM5h_w0N0jiQiK-WzEygPSUHiFXFd_XFElqUFsE1kkTIN4KT5drhSJDq3zNcsoOO-azDr6m.jpg?r=83f",
+      "Plot": "Many Somali refugees dream of a better life in the US. In order to get there, they have to cheat American authorities in an unprecedented way. But isn't a life in freedom worth the biggest scam of all times?",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama",
+      "Director": "Mahad Ahmed, Vincenzo Cavallo",
+      "Writer": "Vincenzo Cavallo, Abel Oreni",
+      "Actors": "Ilmi Ahmed, Ali Buul, Zeitun Salat",
+      "Language": "English, Somali, Swahili",
+      "Country": "Kenya, Germany"
     },
     {
       "title": "Salaar",
@@ -3653,6 +3830,13 @@
     {
       "title": "Bleeding Tiger: Resolution",
       "netflix_url": "https://www.netflix.com/title/81949637",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Soul's Peak",
+      "netflix_url": "https://www.netflix.com/title/81987104",
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null

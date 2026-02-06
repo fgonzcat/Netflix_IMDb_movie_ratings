@@ -292,6 +292,23 @@
       "Country": "United States"
     },
     {
+      "title": "Ludo",
+      "netflix_url": "https://www.netflix.com/title/80107037",
+      "year": "2015",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt7212754",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI3ZDU2ODQtODBjYy00NDZiLTg4ZWEtMjAzZDI1OTY1OGY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "From a resurfaced sex tape to a rogue suitcase of money, four wildly different stories overlap at the whims of fate, chance and one eccentric criminal.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Anurag Basu",
+      "Writer": "Anurag Basu, Samrat Chakraborty",
+      "Actors": "Rajkummar Rao, Pankaj Tripathi, Asha Negi",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Veronica",
       "netflix_url": "https://www.netflix.com/title/80109295",
       "year": "2017",
@@ -715,6 +732,23 @@
       "Actors": "Luna Maya, Herjunot Ali, T. Rifnu Wikana",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "Aurora",
+      "netflix_url": "https://www.netflix.com/title/81066244",
+      "year": "2018",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1403047",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQzMDY4MV5BMl5BanBnXkFtZTcwNTI5MjU1Mw@@._V1_SX300.jpg",
+      "Plot": "Viorel a 42 year old man troubled by obscure thoughts drives across the city to a destination known only to him.",
+      "Type": "movie",
+      "RunTime": "181 min",
+      "Genre": "Drama",
+      "Director": "Cristi Puiu",
+      "Writer": "Cristi Puiu",
+      "Actors": "Afrodita Andone, Geo Aur, Andrei Barbu",
+      "Language": "Romanian",
+      "Country": "Romania, France, Switzerland, Germany"
     },
     {
       "title": "Till Death",
@@ -1473,6 +1507,23 @@
       "Country": "Malaysia"
     },
     {
+      "title": "Chandramukhi 2",
+      "netflix_url": "https://www.netflix.com/title/81644300",
+      "year": "2023",
+      "imdb_rating": "2.6",
+      "imdb_id": "tt12132908",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI4NzFmOTItZmQ5MS00MWMxLWExY2YtZWY0MzYyZDVhOWI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A wealthy family faces numerous problems and reunites with their long-lost relatives to pray to their deity for solutions, unaware it will reawaken the feud between a classical dancer, Chandramukhi and Vettaiyan Raja from centurie...",
+      "Type": "movie",
+      "RunTime": "172 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "P. Vasu, Mahendran",
+      "Writer": "P. Vasu",
+      "Actors": "Raghava Lawrence, Kangana Ranaut, Aathmika",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "Kumari",
       "netflix_url": "https://www.netflix.com/title/81644920",
       "year": "2022",
@@ -1503,6 +1554,40 @@
       "Director": "Joe Begos",
       "Writer": "Joe Begos",
       "Actors": "Riley Dandy, Sam Delich, Jonah Ray",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Womb",
+      "netflix_url": "https://www.netflix.com/title/81655100",
+      "year": "2022",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt14954636",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmViY2E5ZmUtZDllMi00YTYxLThiMDgtZGU0ZjAxM2VmYWZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Grappling with an unplanned pregnancy, a woman turns in desperation to a mysterious older couple who promise to take care of her baby.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Fajar Nugros",
+      "Writer": "Deo Mahameru",
+      "Actors": "Naysila Mirdad, Dimas Anggara, Lydia Kandou",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
+      "title": "Spirited",
+      "netflix_url": "https://www.netflix.com/title/81671921",
+      "year": "2022",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt10999120",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2E3MWRiMjYtMjM2Yi00ZDJiLTgwZDctMjk2ZWQ0NjQyYzliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A musical version of Charles Dickens's story of a miserly misanthrope who is taken on a magical journey.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Sean Anders",
+      "Writer": "Sean Anders, John Morris, Charles Dickens",
+      "Actors": "Will Ferrell, Ryan Reynolds, Octavia Spencer",
       "Language": "English",
       "Country": "United States"
     },
@@ -1655,6 +1740,13 @@
       "Actors": "Faradina Mufti, Reza Rahadian, Widuri Puteri",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "Asvins (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81711449",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Suzzanna: Kliwon Friday Night",
@@ -1827,6 +1919,23 @@
       "Country": "Philippines"
     },
     {
+      "title": "Siksa Neraka",
+      "netflix_url": "https://www.netflix.com/title/81753728",
+      "year": "2023",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt27657534",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTkxNmRiOGUtODYzMy00MTA2LTg3MGYtMDI3MWMxN2RlZDhlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four siblings, always taught lessons about heaven and hell, suddenly go missing and they now face hell itself and the punishments it has to offer for their sins.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Anggy Umbara",
+      "Writer": "Lele Laila, M.B. Rahimsyah",
+      "Actors": "Safira Ratu Sofya, Kiesha Alvaro, Ariyo Wahab",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Kampon",
       "netflix_url": "https://www.netflix.com/title/81754265",
       "year": "2023",
@@ -1951,6 +2060,23 @@
       "Actors": "Piolo Pascual, Gloria Diaz, Janella Salvador",
       "Language": "Tagalog, Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "The Blue Drum",
+      "netflix_url": "https://www.netflix.com/title/81923256",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15421298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk2ODRkMmUtYWVlYy00OTBiLTg0ZDAtMTkyY2U1MTZlNmRhXkEyXkFqcGdeQXVyNDIzMTk5OTA@._V1_SX300.jpg",
+      "Plot": "A woman mourning her father's passing is tormented by memories of a mother she never knew. A presence reveals secrets hidden within her family home.",
+      "Type": "movie",
+      "RunTime": "17 min",
+      "Genre": "Short, Horror",
+      "Director": "Angelita Mendoza",
+      "Writer": "Angelita Mendoza",
+      "Actors": "Crystal Hernandez, Jonathan Medina, Judith Scarpone",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Janji Darah",
@@ -2247,6 +2373,23 @@
       "Actors": "Janki Bodiwala, Monal Gajjar, Hitu Kanodia",
       "Language": "Gujarati",
       "Country": "India"
+    },
+    {
+      "title": "Death Whisperer 3",
+      "netflix_url": "https://www.netflix.com/title/82187912",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34704729",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2VhYTY4MjYtYWFkNi00NTc3LTk0MjItM2I4MDNkMTFiOGU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After 25 years from the tragedy, Young Teenager found mystery box that belong his grandfather ..",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Horror, Thriller",
+      "Director": "Narit Yuvaboon",
+      "Writer": "N/A",
+      "Actors": "Rattawadee Wongthong, Jelilcha Kapaun, Nadech Kugimiya",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "I Know What You Did Last Summer",

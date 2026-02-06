@@ -3150,6 +3150,23 @@
       "Country": "United States"
     },
     {
+      "title": "Pokémon the Movie: Secrets of the Jungle",
+      "netflix_url": "https://www.netflix.com/title/81346307",
+      "year": "2021",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt11819890",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2NlMTFlNjMtNTg2Yi00MzkwLTk2NDUtMWNjZjU2MmEwOTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Koko, a young boy raised by Pokémon, and the creation of a new bond between humans and Pokémon.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tetsuo Yajima",
+      "Writer": "Satoshi Tajiri, Atsuhiro Tomioka, Tetsuo Yajima",
+      "Actors": "Sarah Natochenny, Kimlinh Tran, Edward Bosco",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Monster Hunter: Legends of the Guild",
       "netflix_url": "https://www.netflix.com/title/81346827",
       "year": "2021",
@@ -3723,6 +3740,23 @@
       "Actors": "Arden Cho, May Hong, Ji-young Yoo",
       "Language": "English, Korean",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "The Boss Baby: Christmas Bonus",
+      "netflix_url": "https://www.netflix.com/title/81500345",
+      "year": "2022",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt23546646",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzJhMWMyMzctYjJjOS00ZjIyLTkxZjgtZmQwODdlZWI2OWU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Christmas Eve takes a twisty turn when the Boss Baby accidentally swaps places with one of Santa's elves and gets stranded at the North Pole.",
+      "Type": "movie",
+      "RunTime": "45 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Matt Engstrom, Christo Stamboliev",
+      "Writer": "Marla Frazee, J.D. Ryznar, Tanner Tananbaum",
+      "Actors": "JP Karliak, Pierce Gagnon, Amaryllis Aubel",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Bad Guys",
@@ -4328,6 +4362,13 @@
       "title": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",
       "netflix_url": "https://www.netflix.com/title/81748104",
       "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Queen of Chess",
+      "netflix_url": "https://www.netflix.com/title/81749912",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },

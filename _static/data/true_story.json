@@ -384,6 +384,23 @@
       "Country": "Cambodia, United States"
     },
     {
+      "title": "War Machine",
+      "netflix_url": "https://www.netflix.com/title/80068327",
+      "year": "2017",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt4758646",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzgwNDE1M15BMl5BanBnXkFtZTgwMDAzMDM0MjI@._V1_SX300.jpg",
+      "Plot": "An idiosyncratic general confronts opposition from enemies, allies, and bureaucrats while leading a massive rebuilding operation in Afghanistan.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Comedy, Drama, War",
+      "Director": "David Michôd",
+      "Writer": "Michael Hastings, David Michôd",
+      "Actors": "Brad Pitt, Daniel Betts, John Magaro",
+      "Language": "English, Pashtu",
+      "Country": "United States"
+    },
+    {
       "title": "The Most Hated Woman in America",
       "netflix_url": "https://www.netflix.com/title/80082242",
       "year": "2017",
@@ -397,6 +414,23 @@
       "Director": "Tommy O'Haver",
       "Writer": "Tommy O'Haver, Irene Turner",
       "Actors": "Melissa Leo, Brandon Mychal Smith, Juno Temple",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Frank and Cindy",
+      "netflix_url": "https://www.netflix.com/title/80085439",
+      "year": "2015",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt1239242",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyODM5MDA3NF5BMl5BanBnXkFtZTgwODIyNTM1ODE@._V1_SX300.jpg",
+      "Plot": "A student filmmaker decides to film the rocky relationship he has with his bitter mother and unsuccessful stepfather, while also focusing on the dynamics of their own relationship.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy",
+      "Director": "G.J. Echternkamp",
+      "Writer": "G.J. Echternkamp, Alex Holdridge",
+      "Actors": "Rene Russo, Oliver Platt, Johnny Simmons",
       "Language": "English",
       "Country": "United States"
     },
@@ -464,6 +498,23 @@
       "year": "2016",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "A Futile and Stupid Gesture",
+      "netflix_url": "https://www.netflix.com/title/80107084",
+      "year": "2018",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt5566790",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3OTQyODAwOF5BMl5BanBnXkFtZTgwMDY1MDM0NDM@._V1_SX300.jpg",
+      "Plot": "In the 1970s and '80s, National Lampoon's success and influence creates a new media empire overseen in part by the brilliant and troubled Douglas Kenney.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Biography, Comedy",
+      "Director": "David Wain",
+      "Writer": "Michael Colton, John Aboud, Josh Karp",
+      "Actors": "Frank Gingerich, Morgan Gingerich, Annette O'Toole",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Lion",
@@ -821,6 +872,23 @@
       "Actors": "Gary Oldman, Lily James, Kristin Scott Thomas",
       "Language": "English, French, German, Italian",
       "Country": "United Kingdom, United States, China"
+    },
+    {
+      "title": "LBJ",
+      "netflix_url": "https://www.netflix.com/title/80190815",
+      "year": "2016",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt4778988",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzM2Njg5NDU4MF5BMl5BanBnXkFtZTgwMDMwMTQ1MzI@._V1_SX300.jpg",
+      "Plot": "Lyndon B. Johnson aligns himself with John F. Kennedy, rises to the Presidency, and deals with the civil rights struggles of the 1960s.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Rob Reiner",
+      "Writer": "Joey Hartstone",
+      "Actors": "Woody Harrelson, Michael Stahl-David, Richard Jenkins",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Outlaw King",
@@ -1835,6 +1903,13 @@
       "Actors": "Aiko Beemsterboer, Roeland Fernhout, Peter Blok",
       "Language": "Dutch, German, Hungarian",
       "Country": "Netherlands"
+    },
+    {
+      "title": "Vikrithi",
+      "netflix_url": "https://www.netflix.com/title/81248144",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Good Nurse",

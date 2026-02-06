@@ -1925,6 +1925,23 @@
       "Country": "United States"
     },
     {
+      "title": "Scrooge: A Christmas Carol",
+      "netflix_url": "https://www.netflix.com/title/81028225",
+      "year": "2022",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt20917338",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBhNGM2ZDYtYTBhMi00NjBjLTg5ZjQtZDAxZDk1MzA2YTcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A supernatural, time-travelling, musical adaptation of Charles Dickens's cult Christmas story.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Stephen Donnelly",
+      "Writer": "Leslie Bricusse, Stephen Donnelly, Charles Dickens",
+      "Actors": "Luke Evans, Olivia Colman, Jessie Buckley",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "A Boy Called Christmas",
       "netflix_url": "https://www.netflix.com/title/81029733",
       "year": "2021",
@@ -2243,6 +2260,13 @@
       "Actors": "N/A",
       "Language": "English",
       "Country": "Pakistan, United States"
+    },
+    {
+      "title": "Apollo 10 1/2: A Space Age Childhood",
+      "netflix_url": "https://www.netflix.com/title/81161042",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Dragon Quest Your Story",
@@ -3560,6 +3584,23 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Habaddi",
+      "netflix_url": "https://www.netflix.com/title/81602979",
+      "year": "2019",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt8747492",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzc5ZjRmNTYtOTdjMC00MDQwLWI0OTYtMzdkMmMyNzFlYzJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When the news of his village's school Kabaddi team travelling to Mumbai breaks out, a 10-year-old boy with a speech defect sees the opportunity to meet the girl he adores. But how will he chant 'Kabaddi, Kabaddi' without stammering?",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "Nachiket Samant",
+      "Writer": "Yogesh Vinayak Joshi, Nachiket Samant",
+      "Actors": "Rupesh Bane, Karan Dave, Niranjan Javir",
+      "Language": "Marathi",
+      "Country": "India"
     },
     {
       "title": "Summer Vacation",

@@ -207,6 +207,23 @@
       "Country": "United States"
     },
     {
+      "title": "Search Party",
+      "netflix_url": "https://www.netflix.com/title/80095957",
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt5460226",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzcwNWFiODUtNmUyOC00Y2JkLTliYmUtYTM3MWIwNWY5ODM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Search Party is a dark comedy about four self-absorbed twenty-somethings who become entangled in an ominous mystery when a former college acquaintance suddenly disappears.",
+      "Type": "series",
+      "RunTime": "24 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Sarah-Violet Bliss, Charles Rogers, Michael Showalter",
+      "Actors": "Alia Shawkat, John Reynolds, John Early",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Dark",
       "netflix_url": "https://www.netflix.com/title/80100172",
       "year": "2020",
@@ -628,6 +645,23 @@
       "Director": "Corey Feldman",
       "Writer": "Ronald Jacobs, Maria James",
       "Actors": "Corey Feldman, Corey Haim, Dominick Brascia, Mariana Morgan",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Chambers",
+      "netflix_url": "https://www.netflix.com/title/80210361",
+      "year": "2019",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt7949204",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MmU4OGItYTVlNS00MmQ2LTg4YzItOTA4NTIxY2VjNDgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman survives a heart transplant and begins to develop different personality traits.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "N/A",
+      "Writer": "Leah Rachel",
+      "Actors": "Sivan Alyra Rose, Marcus LaVoi, Nicholas Galitzine",
       "Language": "English",
       "Country": "United States"
     },
@@ -1081,6 +1115,57 @@
       "Country": "United States"
     },
     {
+      "title": "Criminal: France",
+      "netflix_url": "https://www.netflix.com/title/81020513",
+      "year": "2019",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt10986052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGNkZDliOGItYzJjMy00NWQwLWJkYTEtNjEyMzgyYjEzNjliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Secrets emerge and entire cases unravel inside a police interview room in Paris, where suspects and investigators face off in an intricate dance.",
+      "Type": "series",
+      "RunTime": "39 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "George Kay, Jim Field Smith",
+      "Actors": "Margot Bancilhon, Laurent Lucas, Stéphane Jobert",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
+      "title": "Criminal: Germany",
+      "netflix_url": "https://www.netflix.com/title/81020518",
+      "year": "2019",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt10986056",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDcxYzVhYWUtYTk4MC00MzExLWJlNTUtNTEyMzNkMDRlNjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the interview room, detectives go head-to-head with suspects and try to get to the truth - even if it means breaking the rules and risking it all.",
+      "Type": "series",
+      "RunTime": "59 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Jim Field Smith, George Kay",
+      "Actors": "Eva Meckbach, Sylvester Groth, Florence Kasumba",
+      "Language": "German",
+      "Country": "Germany"
+    },
+    {
+      "title": "Criminal: Spain",
+      "netflix_url": "https://www.netflix.com/title/81020523",
+      "year": "2019",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt10986050",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzI5MTc1MGUtNzNlYy00YjA4LWI3MTEtN2ExMzljYTczOWUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Psychological games abound between detectives and suspects in a tense interrogation room, where the search for answers sometimes comes at a moral cost.",
+      "Type": "series",
+      "RunTime": "40 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Jim Field Smith, George Kay",
+      "Actors": "Emma Suárez, Jorge Bosch, Álvaro Cervantes",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "Mr. Midnight: Beware The Monsters",
       "netflix_url": "https://www.netflix.com/title/81022058",
       "year": "2022",
@@ -1445,6 +1530,23 @@
       "Country": "Iceland"
     },
     {
+      "title": "Open Your Eyes",
+      "netflix_url": "https://www.netflix.com/title/81135995",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt13495314",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2M3OWNmOTgtNzgzOC00YmFjLWFmMGYtMDc1ZTkzY2QxZTIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Julia finds herself at an amnesia treatment center in the aftermath of a terrible accident that killed her family, she begins to form bonds with other patients who have experienced oddly similar traumas. She meets Adam, a mys...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Maria Wawreniuk, Ignacy Liss, Marta Nieradkiewicz",
+      "Language": "Polish",
+      "Country": "Poland"
+    },
+    {
       "title": "Tunnel",
       "netflix_url": "https://www.netflix.com/title/81142594",
       "year": "2019",
@@ -1530,6 +1632,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Murderville",
+      "netflix_url": "https://www.netflix.com/title/81193104",
+      "year": "2022",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt15264192",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcwZmVhNDMtMDg4Ny00ZDRlLWIzNDctZDdlZWNlM2M4ZmQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Eccentric detective Terry Seattle teams up with clueless celebrity guest stars to investigate a series of murders in this improvisational crime comedy.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Crime, Mystery",
+      "Director": "N/A",
+      "Writer": "Krister Johnson",
+      "Actors": "Will Arnett, Haneefah Wood, Lilan Bowden",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Untamed",
       "netflix_url": "https://www.netflix.com/title/81200228",
       "year": "2019",
@@ -1564,6 +1683,23 @@
       "Country": "France"
     },
     {
+      "title": "Anxious People",
+      "netflix_url": "https://www.netflix.com/title/81214609",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt11168604",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWZjZjM4ZjktODdiYi00NTBlLThiOTctM2Q5ZmExNTczMGZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A failed bank robber locks themself in a home, along with a real estate agent, two IKEA addicts, a pregnant woman, a suicidal millionaire and a rabbit.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Alfred Svensson, Dan Ekborg, Leif Andrée",
+      "Language": "Swedish",
+      "Country": "Sweden"
+    },
+    {
       "title": "The Victims' Game",
       "netflix_url": "https://www.netflix.com/title/81227121",
       "year": "2024",
@@ -1579,6 +1715,23 @@
       "Actors": "Hsiao-chuan Chang, Wei-Ning Hsu, Tsai-Hsing Chang",
       "Language": "Mandarin, Min Nan",
       "Country": "Taiwan"
+    },
+    {
+      "title": "Unsuspicious",
+      "netflix_url": "https://www.netflix.com/title/81227504",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15096920",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxYTZkYzktNmM5OC00YjM5LWI1ZTItMDQzNTliODUxZjdjXkEyXkFqcGdeQXVyMTA4NDQ3MDIz._V1_SX300.jpg",
+      "Plot": "Conned by the same playboy, three women and their families go to his mansion to get answers and must stay for an investigation when he's found dead.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Comedy, Mystery, Thriller",
+      "Director": "N/A",
+      "Writer": "César Rodrigues, Leandro Soares",
+      "Actors": "Mara Junot, Raphael Logam, Romulo Arantes Neto",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Wednesday",
@@ -1732,6 +1885,23 @@
       "Actors": "Michel Brown, Ana Lucía Domínguez, Sebastián Martínez",
       "Language": "Spanish",
       "Country": "Colombia, Argentina, Mexico"
+    },
+    {
+      "title": "42 Days of Darkness",
+      "netflix_url": "https://www.netflix.com/title/81283608",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt15090462",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxMTVhMzgtZDE2MC00NjlkLWI5NmItM2QyNmM1MjhkMmI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a town in Chile, a woman leads a frantic search to find her missing sister amid a media storm and the police investigation. Inspired by a true case.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Claudia Di Girolamo, Pablo Macaya, Daniel Alcaíno",
+      "Language": "Spanish",
+      "Country": "Chile"
     },
     {
       "title": "Stay Close",
@@ -1928,6 +2098,23 @@
       "Country": "Taiwan"
     },
     {
+      "title": "Belascoarán, PI",
+      "netflix_url": "https://www.netflix.com/title/81354865",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt21963650",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjFlZGI5MzktNWY0OC00YWE1LTg3NWUtYmNmZDE5N2FhYTM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Héctor Belascoarán leaves his corporate job and dull marriage to become an independent detective and tackle shocking criminal cases in 1970s Mexico City.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "N/A",
+      "Writer": "Rodrigo Santos",
+      "Actors": "Luis Gerardo Méndez, Paulina Gaitan, Irene Azuela",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "The Great Robbery of Brazil's Central Bank",
       "netflix_url": "https://www.netflix.com/title/81374470",
       "year": "2022",
@@ -2079,6 +2266,23 @@
       "Actors": "Claire Danes, Matthew Rhys, Brittany Snow",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Diary of a Gigolo",
+      "netflix_url": "https://www.netflix.com/title/81437215",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt16481820",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDVjOWVjNGUtMzkxMS00ZTU4LWE3NTAtNWIyNjIzYzRjMmE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A gigolo's life begins to unravel when he becomes involved in a client's family affairs and violates the fundamental rule of his job: don't fall in love.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Sebastián Ortega",
+      "Actors": "Jesús Castro, Victoria White, Fabiola Campomanes",
+      "Language": "Spanish",
+      "Country": "United States, Argentina"
     },
     {
       "title": "The Signal",
@@ -2251,6 +2455,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Detective Forst",
+      "netflix_url": "https://www.netflix.com/title/81488784",
+      "year": "2024",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt19723558",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTA4ZjBkMzQtOWFhYy00MzM3LWI4YjktYmI0ZmRiYzU3NzJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tatra Mountains will become an arena of brutal murder. The investigation is carried out by a cynical but effective policeman, Wiktor Forst.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Borys Szyc, Andrzej Bienias, Zuzanna Saporznikow",
+      "Language": "Polish",
+      "Country": "Poland"
+    },
+    {
       "title": "Sleeping Dog",
       "netflix_url": "https://www.netflix.com/title/81493689",
       "year": "2023",
@@ -2266,6 +2487,23 @@
       "Actors": "Max Riemelt, Luise von Finckh, Peri Baumeister",
       "Language": "German, German Sign ",
       "Country": "Germany"
+    },
+    {
+      "title": "Adoration",
+      "netflix_url": "https://www.netflix.com/title/81494906",
+      "year": "2024",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt15114854",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTE3ZDQ0ZWMtOWJjYi00Mjk0LWIzMzctNTQ1OGY2YjUwNWJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of teenage girls and boys in the city of Latina, just south of Rome, and its surrounding area during a summer that will change their lives forever.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Noemi Magagnini, Alice Lupparelli, Beatrice Puccilli",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "Triptych",
@@ -3316,6 +3554,40 @@
       "Country": "Taiwan"
     },
     {
+      "title": "Salvador",
+      "netflix_url": "https://www.netflix.com/title/81726809",
+      "year": "2026",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0091886",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDRiMjdlNDMtYjJiNC00MGQyLWE5NzQtZWZlNDY2MTY0Nzg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A burnt-out photojournalist becomes involved in a Central American revolution.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Drama, History, Thriller",
+      "Director": "Oliver Stone",
+      "Writer": "Oliver Stone, Richard Boyle",
+      "Actors": "James Woods, Jim Belushi, Michael Murphy",
+      "Language": "English, Spanish",
+      "Country": "United States, Mexico, United Kingdom"
+    },
+    {
+      "title": "The Deep State",
+      "netflix_url": "https://www.netflix.com/title/81732583",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt21204536",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWExMGY5ZGUtN2VhNS00N2NlLWIwZTgtM2U5ZTBjYTY0MzcxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Intelligence officers investigate warplane deal leading to pilot's death. Evidence points to National Security Minister's guilt, not innocence. Officers travel to Cuba, discover minister's criminal role in deal.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bashar Al-Shatti, Khalid Almuthafar, Rawan Bin Hussain",
+      "Language": "Arabic",
+      "Country": "Kuwait"
+    },
+    {
       "title": "GG Precinct",
       "netflix_url": "https://www.netflix.com/title/81740095",
       "year": "2024",
@@ -3634,6 +3906,30 @@
       "Actors": "Daniel Sovich, Dylan Aaron White, Tonee Purnell",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Unveil: Jadewind",
+      "netflix_url": "https://www.netflix.com/title/82706141",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34452086",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjdlOGU0MzAtM2JmYy00YjZjLWI5NTQtNmNlZDY4NDQ2NmExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Lu Bai, Xingyue Wang, Yiqin Zhao",
+      "Language": "Mandarin",
+      "Country": "China"
+    },
+    {
+      "title": "The Game: You Never Play Alone",
+      "netflix_url": "https://www.netflix.com/title/83077059",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

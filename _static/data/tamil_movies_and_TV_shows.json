@@ -655,6 +655,23 @@
       "Country": "India"
     },
     {
+      "title": "Japan",
+      "netflix_url": "https://www.netflix.com/title/81600230",
+      "year": "2023",
+      "imdb_rating": "3.1",
+      "imdb_id": "tt23474462",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU3OWQ0MzQtNWM3NC00YzQ1LWI5MTQtNTc4NzdhYzRhNDA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A daring robbery in a jewellery showroom kickstarts the hunt for Japan, a notorious robber, who is a law unto himself.",
+      "Type": "movie",
+      "RunTime": "156 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Raju Murugan",
+      "Writer": "C. Murugesh Babu, Raju Murugan",
+      "Actors": "Karthi, K.S. Ravikumar, Sunil",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "Super Senior Heroes",
       "netflix_url": "https://www.netflix.com/title/81602987",
       "year": "2020",
@@ -1076,6 +1093,13 @@
       "Actors": "Sathish, Regena Cassandrra, Nassar",
       "Language": "Tamil",
       "Country": "India"
+    },
+    {
+      "title": "Jigarthanda DoubleX (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81704207",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Por",

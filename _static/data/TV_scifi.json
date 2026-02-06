@@ -1935,6 +1935,23 @@
       "Country": "Italy"
     },
     {
+      "title": "Zero",
+      "netflix_url": "https://www.netflix.com/title/81059382",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt10619486",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Y0MzRkNjItYzk1ZS00ZjE3LTk0YWMtYTZkZjY0NTNkYThlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A teen with the power of invisibility is dragged into a small-time criminal's quest to rule the neighborhood, and gets to know a mysterious art student.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Menotti",
+      "Actors": "Giuseppe Dave Seke, Haroun Fall, Beatrice Grannò",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "Roswell, New Mexico",
       "netflix_url": "https://www.netflix.com/title/81062075",
       "year": "2022",
@@ -3515,6 +3532,13 @@
       "Actors": "Lee Min-ho, Kong Hyo-jin, Oh Jung-se",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Adventures of the Super Monkey -Journey to the West-",
+      "netflix_url": "https://www.netflix.com/title/81978372",
+      "year": "2006",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Kurukshetra: The Great War of Mahabharata",

@@ -105,6 +105,40 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Waiting for Guffman",
+      "netflix_url": "https://www.netflix.com/title/60020901",
+      "year": "1996",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0118111",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGY1MjZiOGEtNDE5Mi00N2EwLWI4OGMtYWZkNzJmYjI5ZWQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An aspiring director and the marginally talented amateur cast of a hokey small-town Missouri musical production go overboard when they learn that someone from Broadway will be in attendance.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Comedy",
+      "Director": "Christopher Guest",
+      "Writer": "Christopher Guest, Eugene Levy",
+      "Actors": "Christopher Guest, Fred Willard, Catherine O'Hara",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "A Mighty Wind",
+      "netflix_url": "https://www.netflix.com/title/60027592",
+      "year": "2003",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0310281",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDAwMTg1OV5BMl5BanBnXkFtZTYwMzg0MDI3._V1_SX300.jpg",
+      "Plot": "Mockumentary captures the reunion of 1960s folk trio the Folksmen as they prepare for a show at The Town Hall to memorialize a recently deceased concert promoter.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Comedy, Music",
+      "Director": "Christopher Guest",
+      "Writer": "Christopher Guest, Eugene Levy",
+      "Actors": "Christopher Guest, Eugene Levy, Michael McKean",
+      "Language": "English, Yiddish",
+      "Country": "United States"
+    },
+    {
       "title": "Monty Python's The Meaning of Life",
       "netflix_url": "https://www.netflix.com/title/60029676",
       "year": "1983",
@@ -171,6 +205,23 @@
       "Actors": "Peter Sallis, Helena Bonham Carter, Ralph Fiennes",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "For Your Consideration",
+      "netflix_url": "https://www.netflix.com/title/70041160",
+      "year": "2006",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0470765",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIxNzg0NTY4MV5BMl5BanBnXkFtZTcwNDk4NjkzMQ@@._V1_SX300.jpg",
+      "Plot": "Three actors learn that their respective performances in the film \"Home for Purim,\" a drama set in the mid-1940s American South, are generating award-season buzz.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Comedy",
+      "Director": "Christopher Guest",
+      "Writer": "Christopher Guest, Eugene Levy",
+      "Actors": "Catherine O'Hara, Harry Shearer, Parker Posey",
+      "Language": "English, French",
+      "Country": "United States"
     },
     {
       "title": "Crazy, Stupid, Love.",
@@ -290,6 +341,23 @@
       "Actors": "Bill Murray, Paul Shaffer, Michael Cera",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Special Correspondents",
+      "netflix_url": "https://www.netflix.com/title/80048940",
+      "year": "2016",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt4181052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzUwODQzMF5BMl5BanBnXkFtZTgwMTA5MDM0ODE@._V1_SX300.jpg",
+      "Plot": "A radio journalist and his technician get in over their heads when they hatch a scheme to fake their own kidnapping during a rebel uprising in South America and hide out in New York instead.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Comedy",
+      "Director": "Ricky Gervais",
+      "Writer": "Ricky Gervais, Jacques Labib, Simon Michaël",
+      "Actors": "Ricky Gervais, Eric Bana, Vera Farmiga",
+      "Language": "English, Spanish",
+      "Country": "Canada, United Kingdom, United States"
     },
     {
       "title": "Spectre",

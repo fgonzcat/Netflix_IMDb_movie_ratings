@@ -367,6 +367,23 @@
       "imdb_id": null
     },
     {
+      "title": "Anything Else",
+      "netflix_url": "https://www.netflix.com/title/60031207",
+      "year": "2003",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0313792",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjkyNjYyMzAzNV5BMl5BanBnXkFtZTYwMTMxNDU3._V1_SX300.jpg",
+      "Plot": "Jerry Falk learns a lesson the hard way when he falls in love with the beautiful but flighty Amanda.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Woody Allen",
+      "Writer": "Woody Allen",
+      "Actors": "Woody Allen, Jason Biggs, Christina Ricci",
+      "Language": "English, Latin",
+      "Country": "United States, France, United Kingdom"
+    },
+    {
       "title": "She's Gotta Have It",
       "netflix_url": "https://www.netflix.com/title/60034929",
       "year": "1986",
@@ -1164,6 +1181,23 @@
       "Actors": "Ranveer Singh, Anushka Sharma, Ranjit Batra",
       "Language": "Hindi, English, Punjabi",
       "Country": "India"
+    },
+    {
+      "title": "Take This Waltz",
+      "netflix_url": "https://www.netflix.com/title/70209166",
+      "year": "2011",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1592281",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzOTc1NTExNV5BMl5BanBnXkFtZTcwOTg5MTY2Nw@@._V1_SX300.jpg",
+      "Plot": "A happily married woman falls for the artist who lives across the street.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Sarah Polley",
+      "Writer": "Sarah Polley",
+      "Actors": "Michelle Williams, Seth Rogen, Sarah Silverman",
+      "Language": "English",
+      "Country": "Canada, Spain, Japan"
     },
     {
       "title": "A Holiday Engagement",
@@ -2236,6 +2270,13 @@
       "Actors": "Elle Fanning, Justice Smith, Alexandra Shipp",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Overboard (2018)",
+      "netflix_url": "https://www.netflix.com/title/80216281",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Guernsey Literary and Potato Peel Pie Society",
@@ -3602,6 +3643,30 @@
       "Country": "United States"
     },
     {
+      "title": "The Last Paradiso",
+      "netflix_url": "https://www.netflix.com/title/81176731",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Rose of Versailles",
+      "netflix_url": "https://www.netflix.com/title/81177638",
+      "year": "2025",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt21996220",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzI2MDk2ZmItYTRlNi00ZDZhLWE3NzgtYTNmYzRiYWE5NDg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Lady Oscar, a female military commander who served during the time of the French Revolution.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Animation, Drama, History",
+      "Director": "Ai Yoshimura",
+      "Writer": "Riyoko Ikeda, Tomoko Konparu",
+      "Actors": "Miyuki Sawashiro, Toshiyuki Toyonaga, Himika Akaneya",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "A Week Away",
       "netflix_url": "https://www.netflix.com/title/81183451",
       "year": "2021",
@@ -3990,6 +4055,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Ride or Die",
+      "netflix_url": "https://www.netflix.com/title/81261676",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt14164234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBkZTU0ZWYtYWI4Ni00YmE5LWIyNzUtYzAxMTA0YjM4ZmE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rei helps the woman she's been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.",
+      "Type": "movie",
+      "RunTime": "142 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Ryûichi Hiroki",
+      "Writer": "Nami Yoshikawa, Ching Nakamura",
+      "Actors": "Kiko Mizuhara, Honami Satô, Shinya Niiro",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "The Princess Switch 3: Romancing the Star",
       "netflix_url": "https://www.netflix.com/title/81262270",
       "year": "2021",
@@ -4012,6 +4094,23 @@
       "Actors": "Rajkummar Rao, Janhvi Kapoor, Varun Sharma",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Bombay Rose",
+      "netflix_url": "https://www.netflix.com/title/81270289",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt8435324",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODlmZTJjMDUtMGMxNy00Nzc4LWFlNDgtNGQxZTAxNTM3NjE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "BOMBAY ROSE is a beautiful hand-painted animation created by award winning animator Gitanjali Rao. Amidst the bustle of a magnetic and multifaceted city, the budding love between two dreamers is tested by duty and religious divides.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Drama, Romance",
+      "Director": "Gitanjali Rao",
+      "Writer": "Asad Hussain, Gitanjali Rao, Nadja Dumouchel",
+      "Actors": "Cyli Khare, Amit Deondi, Gargi Shitole",
+      "Language": "Hindi",
+      "Country": "India, United Kingdom, France, Qatar"
     },
     {
       "title": "All Because of You",
@@ -4752,6 +4851,23 @@
       "Country": "United States"
     },
     {
+      "title": "My Amanda",
+      "netflix_url": "https://www.netflix.com/title/81408702",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13136084",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGU5MzBhODUtZDM0YS00N2Y4LTg0YzgtODEzM2RkNWQ5ZDFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two unusually close friends share every aspect of their lives together. As their lives evolve, their bond remains the only constant.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Drama, Romance",
+      "Director": "Alessandra De Rossi",
+      "Writer": "Alessandra De Rossi",
+      "Actors": "Alessandra De Rossi, Piolo Pascual, Luz Valdez",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
       "title": "Persuasion",
       "netflix_url": "https://www.netflix.com/title/81410649",
       "year": "2022",
@@ -4993,6 +5109,23 @@
       "Director": "Mark Waters",
       "Writer": "Robin Bernheim",
       "Actors": "Brooke Shields, Miranda Cosgrove, Benjamin Bratt",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Good Grief",
+      "netflix_url": "https://www.netflix.com/title/81462549",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32204945",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Marlon Wayans",
+      "Actors": "Marlon Wayans",
       "Language": "English",
       "Country": "United States"
     },
@@ -5373,6 +5506,23 @@
       "Actors": "Alice Bier Zanden, Emil Aron Dorph, Kit Eichler",
       "Language": "Danish",
       "Country": "Denmark"
+    },
+    {
+      "title": "No Limit",
+      "netflix_url": "https://www.netflix.com/title/81513875",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt14995258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIxYjYzMDItNTU2MS00MDBkLThjOTktYjUxMTIwYjNjNzg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Roxana Aubrey decides to drop her studies and escape her life in Paris for a free diving course in the south of France. She is quickly pulled into a life that reaches new depths brought by the weight of an ocean's descent.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Drama, Romance, Sport",
+      "Director": "David M. Rosenthal",
+      "Writer": "David M. Rosenthal",
+      "Actors": "Camille Rowe, Sofiane Zermani, César Domboy",
+      "Language": "French, English",
+      "Country": "France"
     },
     {
       "title": "The Door into Summer",
@@ -5882,6 +6032,13 @@
       "Country": "France"
     },
     {
+      "title": "The Love Scam",
+      "netflix_url": "https://www.netflix.com/title/81630894",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Starfish",
       "netflix_url": "https://www.netflix.com/title/81634640",
       "year": "2023",
@@ -6290,6 +6447,23 @@
       "Country": "United States"
     },
     {
+      "title": "I Can't Live Without You",
+      "netflix_url": "https://www.netflix.com/title/81692186",
+      "year": "2024",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt28752710",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTcyM2FiNTUtOTI4MS00MzE2LTg4YTEtNDg3MzIzYzQzYjM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After he turns a family event into a disaster, a workaholic must choose between his marriage and his phone after his wife issues him an ultimatum.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Comedy",
+      "Director": "Santiago Requejo",
+      "Writer": "José Gabriel Lorenzo, Santiago Requejo",
+      "Actors": "Adrián Suar, Paz Vega, Ramón Barea",
+      "Language": "Spanish",
+      "Country": "Argentina, Spain"
+    },
+    {
       "title": "Fall Into Winter",
       "netflix_url": "https://www.netflix.com/title/81696236",
       "year": "2023",
@@ -6550,6 +6724,13 @@
       "Actors": "Kaity Nguyen, Thuan Nguyen, Quang Thang",
       "Language": "Vietnamese",
       "Country": "Vietnam"
+    },
+    {
+      "title": "Yoh! Bestie",
+      "netflix_url": "https://www.netflix.com/title/81718240",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Kushi (Hindi)",
@@ -6829,6 +7010,13 @@
       "Actors": "Jefri Nichol, Lutesha, Ari Sihasale",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "Romantic Problematic",
+      "netflix_url": "https://www.netflix.com/title/81755777",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "10DANCE",
@@ -7466,6 +7654,23 @@
       "Actors": "Paulo Avelino, Lovely Abella, Karina Bautista",
       "Language": "Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "Bat War",
+      "netflix_url": "https://www.netflix.com/title/81987261",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt13217958",
+      "Poster": "https://occ-0-1339-1340.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcukmXxB19PhO5vrEyvu4QUmqi10ePqVgAb9zhnDOAqSop38QI8ip8Qn86oBGEtYCvJakfEhL5skX5Ik5LlRApr_9QeqpQ-egler.jpg?r=2f8",
+      "Plot": "An assassination has been ordered on Damien Wayne by The Joker. Batgirl is sent in to help save Damien from a team of super villains during Batman's absence. Luckily for Batgirl she isn't alone in this fight. Black lightning arrives ",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short",
+      "Director": "Joseph D. Becker",
+      "Writer": "Devon Herrera, Alexzander Rogers",
+      "Actors": "Christos Antoniou, Diana Brest, Brandon Caraco",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Laila Majnu",
@@ -8140,6 +8345,23 @@
       "Actors": "Tia Mowry, Jesse Hutch, Patricia Richardson",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Four Letters of Love",
+      "netflix_url": "https://www.netflix.com/title/82160873",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt13020386",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmUxNTYxN2ItYWU2ZC00NGRmLTgxMmUtZTc5NjVlM2UyZWY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on Niall Williams' best-selling novel. Nicholas and Isabel were made for each other but how will they ever know it? As ghosts, fate and the sheer power of true love pull them together, so too does life threaten to tear them ...",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama",
+      "Director": "Polly Steele",
+      "Writer": "Niall Williams",
+      "Actors": "Pierce Brosnan, Helena Bonham Carter, Gabriel Byrne",
+      "Language": "N/A",
+      "Country": "United Kingdom, Ireland"
     },
     {
       "title": "The Threesome",

@@ -1142,6 +1142,23 @@
       "Country": "United States"
     },
     {
+      "title": "Archive",
+      "netflix_url": "https://www.netflix.com/title/80203869",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt6882604",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjMxZjkxNjctNzFkOS00NjhhLWIxODUtMTdhZWQ1OGY5YzVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "2038: George Almore is working on a true human-equivalent AI. His latest prototype is almost ready. This sensitive phase is also the riskiest. Especially as he has a goal that must be hidden at all costs.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "Gavin Rothery",
+      "Writer": "Gavin Rothery",
+      "Actors": "Theo James, Stacy Martin, Rhona Mitra",
+      "Language": "English, Japanese, French",
+      "Country": "United Kingdom, Hungary, United States"
+    },
+    {
       "title": "Project Power",
       "netflix_url": "https://www.netflix.com/title/80204465",
       "year": "2020",
@@ -3202,6 +3219,13 @@
       "Actors": "Freya Allan, Yasen Zates Atour, Kim Bodnia",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Nightmare of the Wolf Bestiary",
+      "netflix_url": "https://www.netflix.com/title/81557435",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Kitchen",

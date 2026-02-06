@@ -4678,6 +4678,23 @@
       "imdb_id": null
     },
     {
+      "title": "As If It's True",
+      "netflix_url": "https://www.netflix.com/title/81728364",
+      "year": "2023",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt28589391",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2M1OTZkZTAtNTUwOC00MmNlLThjNGYtYTc1Zjc1ZTUyZWEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fading social media influencer and a struggling musician exploit each other in a not-so- fake relationship.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama",
+      "Director": "John Rogers",
+      "Writer": "John Rogers, Dolly Dulu, Cris Bringas",
+      "Actors": "Khalil Ramos, Ashley Ortega, Adrianna So",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
       "title": "Amaran",
       "netflix_url": "https://www.netflix.com/title/81728596",
       "year": "2024",
@@ -4778,6 +4795,13 @@
       "Actors": "Jeetendra, Mithun Chakraborty, Dimple Kapadia",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Goodbye Farewell",
+      "netflix_url": "https://www.netflix.com/title/81740315",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Vow",
@@ -5647,6 +5671,23 @@
       "Actors": "Huma Qureshi, Sunny Singh, Shreyas Talpade",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Four Letters of Love",
+      "netflix_url": "https://www.netflix.com/title/82160873",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt13020386",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmUxNTYxN2ItYWU2ZC00NGRmLTgxMmUtZTc5NjVlM2UyZWY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on Niall Williams' best-selling novel. Nicholas and Isabel were made for each other but how will they ever know it? As ghosts, fate and the sheer power of true love pull them together, so too does life threaten to tear them ...",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama",
+      "Director": "Polly Steele",
+      "Writer": "Niall Williams",
+      "Actors": "Pierce Brosnan, Helena Bonham Carter, Gabriel Byrne",
+      "Language": "N/A",
+      "Country": "United Kingdom, Ireland"
     },
     {
       "title": "The Threesome",

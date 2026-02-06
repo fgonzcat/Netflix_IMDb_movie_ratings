@@ -724,6 +724,13 @@
       "imdb_id": null
     },
     {
+      "title": "The Land of Cards",
+      "netflix_url": "https://www.netflix.com/title/80107219",
+      "year": "2012",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Udta Punjab",
       "netflix_url": "https://www.netflix.com/title/80118002",
       "year": "2016",
@@ -1525,6 +1532,23 @@
       "Actors": "Zahiril Adzim, Rosdeen Suboh, Ario Bayu",
       "Language": "Malay, Indonesian, Tagalog",
       "Country": "Malaysia"
+    },
+    {
+      "title": "Ascharyachakit!",
+      "netflix_url": "https://www.netflix.com/title/81018239",
+      "year": "2018",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt6531196",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzM3NTVmYmYtYzU2ZS00MTczLWI0NWEtNmUwYjg2NGZlMTIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Desire and greed intertwines the lives of a Bollywood star, his chauffeur, a prostitute and her pimp in an unlikely love story.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Drama, Romance",
+      "Director": "Samit Kakkad",
+      "Writer": "Hrishikesh Koli, Amar Tipnis",
+      "Actors": "Priyanka Bose, Vaibhav Raj Gupta, Ankit Raj",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Soni",
@@ -2466,6 +2490,13 @@
       "Country": "Sweden"
     },
     {
+      "title": "The Last Bomb of the Second World War",
+      "netflix_url": "https://www.netflix.com/title/81248141",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Vikrithi",
       "netflix_url": "https://www.netflix.com/title/81248144",
       "year": "2019",
@@ -2546,6 +2577,23 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Bheed",
+      "netflix_url": "https://www.netflix.com/title/81265958",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt15680228",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmE1Y2VhZGUtMTk0OS00YzdiLThjZDQtYTlkZmJlYTljZDE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The toughest times people had to face just to reach their homes.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Drama, History",
+      "Director": "Anubhav Sinha",
+      "Writer": "Sonali Jain, Anubhav Sinha, Saumya Tiwari",
+      "Actors": "Rajkummar Rao, Pankaj Kapur, Bhumi Pednekar",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Raat Akeli Hai",
@@ -2861,6 +2909,23 @@
       "Country": "Philippines"
     },
     {
+      "title": "Paava Kadhaigal",
+      "netflix_url": "https://www.netflix.com/title/81341216",
+      "year": "2020",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt13206988",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ1MTM2YTgtNjQ0Mi00N2EyLTg1YTYtNWY4ZDQyYjdlMzg1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "At times dark, at times disturbing, four short films explore stories of those who dare to dream and desire - and those determined to stand in their way.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Simran, Prakash Raj, Anjali",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "Yara",
       "netflix_url": "https://www.netflix.com/title/81346330",
       "year": "2021",
@@ -2927,6 +2992,40 @@
       "Actors": "Naomi Watts, Griffin Murray-Johnston, Andrew Lincoln",
       "Language": "English",
       "Country": "Australia, United States"
+    },
+    {
+      "title": "Pitta Kathalu",
+      "netflix_url": "https://www.netflix.com/title/81351524",
+      "year": "2021",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt13878800",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjUxMjQ2ZDMtNGFjYi00MzIwLTlkMmItMjFiZjY1MWZkYjJiXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_SX300.jpg",
+      "Plot": "Four different women, four journeys of love and betrayal. The common thread? They all want to dismantle the patriarchy.",
+      "Type": "series",
+      "RunTime": "150 min",
+      "Genre": "Drama, Romance",
+      "Director": "Nag Ashwin, Tharun Bhascker Dhaassyam, B.V. Nandini Reddy",
+      "Writer": "Tharun Bhascker Dhaassyam, Radhika Anand, Lakshmi Bhupala",
+      "Actors": "Shruti Haasan, Jagapathi Babu, Satyadev Kancharana",
+      "Language": "Telugu, Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Eeb Allay Ooo!",
+      "netflix_url": "https://www.netflix.com/title/81354909",
+      "year": "2019",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt9343754",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ0ZjhkNjctNjZkMC00ZDY5LWE2M2MtZWEyNDg1N2Y4ZjIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young migrant battles hordes of monkeys in the heart of New Delhi as a contractual monkey repeller.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Prateek Vats",
+      "Writer": "Shubham Vardhan, Prateek Vats",
+      "Actors": "Shardul Bharadwaj, Mahender Nath, Nutan Sinha",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "The Matchmaker",
@@ -3671,6 +3770,23 @@
       "Country": "India"
     },
     {
+      "title": "Pakka Commercial",
+      "netflix_url": "https://www.netflix.com/title/81512223",
+      "year": "2022",
+      "imdb_rating": "4.2",
+      "imdb_id": "tt13978628",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVjMDkwMTItNGVhMC00YzBiLTk0YjQtYWFhYTJlMThiZWQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A hotshot lawyer who is a money-minded locks horns with his father, a good man and an ex-judge in a case involving the person because of whom the judge had to resign.",
+      "Type": "movie",
+      "RunTime": "152 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Maruthi Dasari",
+      "Writer": "Maruthi Dasari",
+      "Actors": "Raashi Khanna, Gopichand, Sathyaraj",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Sukhee",
       "netflix_url": "https://www.netflix.com/title/81514143",
       "year": "2023",
@@ -4011,6 +4127,13 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "A Star Shoots Across the Sky",
+      "netflix_url": "https://www.netflix.com/title/81594244",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "27 Nights",
       "netflix_url": "https://www.netflix.com/title/81594315",
       "year": "2025",
@@ -4195,6 +4318,23 @@
       "Country": "Poland"
     },
     {
+      "title": "Ghodwa",
+      "netflix_url": "https://www.netflix.com/title/81623713",
+      "year": "2021",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt14190894",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmEwNzZmZjEtZDczYS00NzFmLWJkMTktNmYxY2UxNGUwZGM0XkEyXkFqcGdeQXVyMTA0MTg1MjIz._V1_SX300.jpg",
+      "Plot": "Ahmed joins his father Habib, whose state of health is deteriorating. They find themselves in a chaotic situation for which neither is prepared.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Drama",
+      "Director": "Dhafer L'Abidine",
+      "Writer": "Ahmed Amer, Dhafer L'Abidine",
+      "Actors": "Dhafer L'Abidine, Najla Ben Abdallah, Ahmed Berrhouma",
+      "Language": "Arabic",
+      "Country": "Tunisia"
+    },
+    {
       "title": "Srikanth",
       "netflix_url": "https://www.netflix.com/title/81631011",
       "year": "2024",
@@ -4210,6 +4350,13 @@
       "Actors": "Rajkummar Rao, Jyotika, Alaya F",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Ariyippu/Declaration",
+      "netflix_url": "https://www.netflix.com/title/81631026",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Buffoon",
@@ -5435,6 +5582,23 @@
       "Actors": "Blake Lively, Justin Baldoni, Jenny Slate",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Close to You",
+      "netflix_url": "https://www.netflix.com/title/81764656",
+      "year": "2024",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt28055434",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZkODYzNzMtZGJlNy00YTM5LWE5NjQtOTc2ODQwOGMyY2ZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When he returns home for his father's birthday, a man finds that his family is struggling to accept his transition.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama",
+      "Director": "Dominic Savage",
+      "Writer": "Dominic Savage, Elliot Page",
+      "Actors": "Elliot Page, Hillary Baack, Wendy Crewson",
+      "Language": "English, French, American Sign ",
+      "Country": "Canada, United Kingdom, Ireland, United States"
     },
     {
       "title": "The Long Game",
