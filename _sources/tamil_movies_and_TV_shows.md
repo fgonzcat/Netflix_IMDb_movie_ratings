@@ -6,6 +6,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/107469" target="_bl
 
 | IMDb ⭐ | Poster | Year | Title | IMDb | Netflix |
 |:-------:|:-------:|:-------:|:------|------|---------|
+| 9.8 | <img src="https://m.media-amazon.com/images/M/MV5BMWVkOGY5MzUtMjhkNS00Mzg0LTk3YTgtOWNiNDYzMTNmODljXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Gevi*</strong></summary>  <div class="movie-plot">A rural village near Kodaikanal becomes the backdrop for Mandharai and Malaiyan's battle for justice, as they navigate love, survival, and government indifference while their community fights corruption.</div> </details> | <a href="https://www.imdb.com/title/tt37594308/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82719386" target="_blank">Netflix_link</a> |
 | 8.5 | <img src="https://m.media-amazon.com/images/M/MV5BMjFjNDU4NjctMTUyOS00N2VlLTgwODctODlhZmQwMWUxMmUzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Kaantha*</strong></summary>  <div class="movie-plot">In 1950s Madras, lives intertwine against a backdrop of social transformation during India's post-independence era.</div> </details> | <a href="https://www.imdb.com/title/tt28508934/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81920590" target="_blank">Netflix_link</a> |
 | 8.4 | <img src="https://m.media-amazon.com/images/M/MV5BYzQyMjQwOWQtZWMzOC00NDgwLWFkNzMtMjc2ZWNiZmQ0Y2RmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*Mandela*</strong></summary>  <div class="movie-plot">A local barber's fate turns overnight when he becomes the single deciding vote in the village elections.</div> </details> | <a href="https://www.imdb.com/title/tt10687070/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81272107" target="_blank">Netflix_link</a> |
 | 8.4 | <img src="https://m.media-amazon.com/images/M/MV5BYTk3Zjk4MzctZDI1Zi00OWRiLTlhN2QtNDUxMTJhMWM3YTMwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Meiyazhagan*</strong></summary>  <div class="movie-plot">A man's life is changed when he bumps into someone from his hometown in this moving Tamil-language drama; gentle scenes are occasionally punctuated by sporting threat and recollections of violence.</div> </details> | <a href="https://www.imdb.com/title/tt26758372/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81713677" target="_blank">Netflix_link</a> |
@@ -108,6 +109,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/107469" target="_bl
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Idli Kadai*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82034831" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*STEPHEN*</strong></summary>  <div class="movie-plot">Stephen's boyfriend recommends an ideal spot for raving, but the party holds unexpected surprises.</div> </details> | <a href="https://www.imdb.com/title/tt35838090/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82057638" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Thugs of Hindostan (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82062358" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Thalaivar Thambi Thalaimaiyil*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82709712" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Game: You Never Play Alone*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/83077059" target="_blank">Netflix_link</a> |
 
  
@@ -147,6 +149,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/107469" target="_bl
 
  
 ---
-*Page last updated on: 2026-02-09*
+*Page last updated on: 2026-02-18*
 
  

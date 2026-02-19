@@ -2746,6 +2746,40 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Koshien: Japan’s Field of Dreams",
+      "netflix_url": "https://www.netflix.com/title/82667075",
+      "year": "2019",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt9125542",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDFiN2QwOWQtOWFkZS00YzcxLTk1M2MtMDkwZTI3M2FmMTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Filmmaker Ema Ryan Yamazaki follows a coach and his team as they try to win Japan's national high school baseball championship.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Ema Ryan Yamazaki",
+      "Writer": "N/A",
+      "Actors": "Kaoru Kashiwagi, Yusei Kikuchi, Ito Kouno",
+      "Language": "Japanese",
+      "Country": "United States, Japan"
+    },
+    {
+      "title": "Chatha Pacha: The Ring of Rowdies",
+      "netflix_url": "https://www.netflix.com/title/82716160",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36472392",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWFmMGFmNzQtMjI1Ni00ZDViLTgxYzYtYWRhZTM4N2U1MTRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chatha Pacha: The Ring of Rowdies follows a group of misfits who form a wrestling club in Fort Kochi. With rivalries and hilarious battles, they face bigger challenges, turning the fight into a comedy of action, heart, and survival.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Action, Comedy",
+      "Director": "Adhvaith Nayar",
+      "Writer": "Adhvaith Nayar, Sanoop Thykoodam",
+      "Actors": "Vishak Nair, Arjun Ashokan, Roshan Mathew",
+      "Language": "Malayalam",
+      "Country": "India"
     }
   ]
 }

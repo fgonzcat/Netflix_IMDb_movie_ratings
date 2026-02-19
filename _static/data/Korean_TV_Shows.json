@@ -173,6 +173,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "It's Okay, That's Love",
+      "netflix_url": "https://www.netflix.com/title/80031632",
+      "year": "2014",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt4031224",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjI1NDVjN2QtNDgzNi00MmFiLTgyN2QtYWMxMDM2YzEyNmNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A love story between a psychiatrist named Ji Hae Soo and an author who had schizophrenia named Jang Jae Yeol.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Sung Dong-il, Lee Kwang-soo, Jin Kyung",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Angel Eyes",
       "netflix_url": "https://www.netflix.com/title/80031642",
       "year": "2014",
@@ -1473,6 +1490,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Lookism",
+      "netflix_url": "https://www.netflix.com/title/81177634",
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt22297722",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTc1MTAzNWYtM2Q3Yy00OTExLWE1YTUtOTJhMzcyNGUzMGVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a society that favors good looks, a high school outcast leads a double life switching between his two bodies that are polar opposites in appearance.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Action, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Sim Gyoo-Hyeok, Han Shin, Nam Doh-hyeong",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "The Lies Within",
       "netflix_url": "https://www.netflix.com/title/81191500",
       "year": "2019",
@@ -2399,6 +2433,23 @@
       "Country": "Hungary"
     },
     {
+      "title": "Navillera",
+      "netflix_url": "https://www.netflix.com/title/81403966",
+      "year": "2021",
+      "imdb_rating": "8.7",
+      "imdb_id": "tt13885302",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWUyMmUyNjMtNWE5Zi00N2EwLWE1Y2EtNWFhNzI4OWZiM2M5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A 70-year-old with a dream and a 23-year-old with a gift lift each other out of harsh realities and rise to the challenge of becoming ballerinos.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Jimin",
+      "Actors": "Park In-hwan, Song Kang, Na Moon-hee",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Mine",
       "netflix_url": "https://www.netflix.com/title/81403973",
       "year": "2021",
@@ -3071,6 +3122,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Han Hyo-joo, Park Hyung-sik, Jo Woo-jin",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Take 1",
+      "netflix_url": "https://www.netflix.com/title/81536826",
+      "year": "2022",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt22071828",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQzZWQ3NTgtZjE4Zi00MWMxLWEwZTctNTQ0NTczZTllMzg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Renowned musicians pull out all the stops to give a song of their choice the greatest live performance they can muster and all in a single take.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rain, Sumi Jo, You Hee-Yeol",
       "Language": "Korean",
       "Country": "South Korea"
     },
@@ -4597,6 +4665,13 @@
       "Country": "South Korea"
     },
     {
+      "title": "The Art of Sarah",
+      "netflix_url": "https://www.netflix.com/title/81904993",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "When the Phone Rings",
       "netflix_url": "https://www.netflix.com/title/81912961",
       "year": "2024",
@@ -4976,6 +5051,14 @@
       "Country": "South Korea"
     },
     {
+      "title": "The Dream Life of Mr. Kim",
+      "netflix_url": "https://www.netflix.com/title/82068378",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "No Tail to Tell",
       "netflix_url": "https://www.netflix.com/title/82076348",
       "year": "2026",
@@ -5103,6 +5186,13 @@
       "title": "Physical: Welcome to Mongolia",
       "netflix_url": "https://www.netflix.com/title/82655947",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Single's Inferno Reunion",
+      "netflix_url": "https://www.netflix.com/title/82680997",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     }

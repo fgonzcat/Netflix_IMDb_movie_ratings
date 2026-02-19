@@ -554,6 +554,23 @@
       "imdb_id": null
     },
     {
+      "title": "Saathiya",
+      "netflix_url": "https://www.netflix.com/title/60034293",
+      "year": "2002",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0330843",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZlOTQwMDAtMWFiMS00MDYzLTg0YTYtOGY2Y2I3ZDc4OTE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A couple elopes to get married and set up home hoping that just love will do the trick - but that's just the beginning of their story.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "Shaad Ali",
+      "Writer": "Mani Ratnam, Gulzar",
+      "Actors": "Vivek Oberoi, Rani Mukerji, Shah Rukh Khan",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "She's Gotta Have It",
       "netflix_url": "https://www.netflix.com/title/60034929",
       "year": "1986",
@@ -977,6 +994,23 @@
       "Actors": "Vincent Cassel, Olivier Barthélémy, Roxane Mesquida",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "My Suicide",
+      "netflix_url": "https://www.netflix.com/title/70114948",
+      "year": "2009",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0492896",
+      "Poster": "https://occ-0-1340-1339.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcQaytJkwwMTbb1UpKVYbHKiZeH7nw7vZjwc0tt_W4mGgEhaJHeixbVTLUUuhR-NAqbhjsVpY5XNF1gHcjTI2XJkctpQ5k5_Otxq.jpg?r=75e",
+      "Plot": "A teen coming-of-age romantic dramedy about a media-obsessed geek and the most beautiful and twisted girl in school.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Comedy, Drama",
+      "Director": "David Lee Miller",
+      "Writer": "Eric J. Adams, David Lee Miller, Jordan J. Miller",
+      "Actors": "Gabriel Sunday, David Carradine, Mariel Hemingway",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Ip Man",
@@ -1620,6 +1654,13 @@
       "Actors": "Sareum Srey Moch, Phoeung Kompheak, Sveng Socheata",
       "Language": "Central Khmer, English, French",
       "Country": "Cambodia, United States"
+    },
+    {
+      "title": "Dum Laga Ke Haisha",
+      "netflix_url": "https://www.netflix.com/title/80081701",
+      "year": "2015",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "13TH",
@@ -2961,6 +3002,23 @@
       "Actors": "Delroy Lindo, Jonathan Majors, Clarke Peters",
       "Language": "English, Finnish, French, Vietnamese",
       "Country": "United States"
+    },
+    {
+      "title": "Dear Ex",
+      "netflix_url": "https://www.netflix.com/title/81045891",
+      "year": "2018",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt8443704",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTBlOWY2NjMtOWM1Ny00NWY1LWI0YmQtMmY4ODYxMDVkZGUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A teenage boy and his mother are further driven apart when they find out that his father's life insurance policy is to be received by his lover.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Chih-Yen Hsu, Mag Hsu",
+      "Writer": "Mag Hsu, Shih-yuan Lu",
+      "Actors": "Roy Chiu, Ying-Hsuan Hsieh, Spark Chen",
+      "Language": "Mandarin",
+      "Country": "Taiwan"
     },
     {
       "title": "The Life Ahead",
@@ -4929,6 +4987,23 @@
       "Country": "Chile"
     },
     {
+      "title": "Incantation",
+      "netflix_url": "https://www.netflix.com/title/81599888",
+      "year": "2022",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt18968540",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2U2YjU0M2MtZjIxZC00ZDZjLWI2NjItN2MwMmVhM2RkMjNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Six years ago, Li Ronan was cursed after breaking a religious taboo. Now, she must protect her daughter from the consequences of her actions.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Horror, Mystery",
+      "Director": "Kevin Ko",
+      "Writer": "Che-Wei Chang, Kevin Ko",
+      "Actors": "Hsuan-yen Tsai, Sin-Ting Huang, Ying-Hsuan Kao",
+      "Language": "Mandarin",
+      "Country": "Taiwan"
+    },
+    {
       "title": "My Name Is Loh Kiwan",
       "netflix_url": "https://www.netflix.com/title/81616524",
       "year": "2024",
@@ -5206,6 +5281,23 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Black Barbie",
+      "netflix_url": "https://www.netflix.com/title/81716193",
+      "year": "2024",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt26593387",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxNTk5ZDgtODg3OS00ZWI2LWIxZTUtZDM3ZTgxZTYyNjk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tracing the origin of the first Black Barbie doll to the filmmaker's aunt, who asked why Barbie couldn't look like her, this documentary explores her quest for representation and diversity.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Lagueria Davis",
+      "Writer": "Lagueria Davis",
+      "Actors": "Lagueria Davis, Beulah Mae Mitchell, Maxine Waters",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "How to Have Sex",
@@ -5715,6 +5807,23 @@
       "Country": "Ireland, United Kingdom"
     },
     {
+      "title": "Dead Talents Society",
+      "netflix_url": "https://www.netflix.com/title/81987312",
+      "year": "2024",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt17079606",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ4NmIyMjAtZWMwMC00OGIyLWEzMmYtMzY3ZGRhYzUyNGE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows ghosts who want to become the spookiest of urban legends and most successful and famous stars in the underworld through their scare tactics and performances amongst the living.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Comedy, Horror, Thriller",
+      "Director": "John Hsu",
+      "Writer": "John Hsu, Tsai Kun-Lin",
+      "Actors": "Sandrine Pinna, Gingle Wang, Chen Bolin",
+      "Language": "Min Nan, Mandarin",
+      "Country": "Taiwan"
+    },
+    {
       "title": "The Perfect Neighbor",
       "netflix_url": "https://www.netflix.com/title/82018736",
       "year": "2025",
@@ -5771,6 +5880,23 @@
       "Actors": "Fernanda Torres, Fernanda Montenegro, Selton Mello",
       "Language": "Portuguese, French",
       "Country": "Brazil, France"
+    },
+    {
+      "title": "Blue Moon",
+      "netflix_url": "https://www.netflix.com/title/82053241",
+      "year": "2025",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt32536315",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ0NjNlN2MtNGRmZi00OGYzLWFjNGYtMjkyMTlmMWFkNTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tells the story of Lorenz Hart's struggles with alcoholism and mental health as he tries to save face during the opening of \"Oklahoma!\".",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Richard Linklater",
+      "Writer": "Lorenz Hart, Robert Kaplow, Elizabeth Weiland",
+      "Actors": "Ethan Hawke, Margaret Qualley, Bobby Cannavale",
+      "Language": "English, Hebrew",
+      "Country": "United States, Ireland"
     },
     {
       "title": "A Hundred Flowers",

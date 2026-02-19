@@ -1122,6 +1122,23 @@
       "Country": "Canada, United States"
     },
     {
+      "title": "One Piece: Episode of Chopper: Bloom in the Winter, Miracle Sakura",
+      "netflix_url": "https://www.netflix.com/title/80998780",
+      "year": "2008",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt1206326",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTY2YzBhMTktOTc3Yi00OGZiLWE1ZTQtNjM3NTJjOTFiYTRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An alternate retelling of the winter island with no name.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Animation, Action, Comedy",
+      "Director": "Junji Shimizu",
+      "Writer": "Eiichirô Oda, Hirohiko Uesaka",
+      "Actors": "Takeshi Aono, Katsuaki Arima, Takahiro Fujimoto",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "One Piece Film: Strong World",
       "netflix_url": "https://www.netflix.com/title/80998781",
       "year": "2009",
@@ -1154,6 +1171,23 @@
       "Actors": "Steve Carell, Falk Hentschel, Matt O'Leary",
       "Language": "English, German, French, Russian",
       "Country": "Japan, United States, China"
+    },
+    {
+      "title": "Super Monsters Save Halloween",
+      "netflix_url": "https://www.netflix.com/title/80999063",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt9085726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjVhOTUwMDItNGY0MS00OWVkLWI5MWEtYjBiMGY2ODljMjNkXkEyXkFqcGdeQXVyMzY1NjYzMDA@._V1_SX300.jpg",
+      "Plot": "The Super Monsters use their powers to get their neighbors in the Halloween spirit, then help a nervous friend see there's nothing to be afraid of.",
+      "Type": "movie",
+      "RunTime": "24 min",
+      "Genre": "Animation, Short, Family",
+      "Director": "N/A",
+      "Writer": "Evan Gore, Kaaren Lee Brown (story editor), Kaaren Lee Brown, Heather Lombard",
+      "Actors": "Elyse Maloway, Erin Matthews, Vincent Tong",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Super Monsters Furever Friends",
@@ -1408,6 +1442,13 @@
       "imdb_id": null
     },
     {
+      "title": "True: Grabbleapple Harvest",
+      "netflix_url": "https://www.netflix.com/title/81035120",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "True: Winter Wishes",
       "netflix_url": "https://www.netflix.com/title/81035121",
       "year": "2019",
@@ -1464,6 +1505,13 @@
       "Actors": "Michela Luci, Eric Peterson, Jamie Watson",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "True: Happy Hearts Day",
+      "netflix_url": "https://www.netflix.com/title/81035127",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Witcher: Nightmare of the Wolf",
@@ -3585,6 +3633,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "netflix_url": "https://www.netflix.com/title/83077834",
+      "year": "2025",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt26743210",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODA5Y2M0NjctNWQzMy00ODRhLWE0MzUtYmE1YTAzZjYyYmQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As an ancient threat endangers both Vikings and dragons alike on the isle of Berk, the friendship between Hiccup, an inventive Viking, and Toothless, a Night Fury dragon, becomes the key to both species forging a new future together.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Dean DeBlois",
+      "Writer": "Dean DeBlois, Cressida Cowell, William Davies",
+      "Actors": "Mason Thames, Nico Parker, Gerard Butler",
+      "Language": "English",
+      "Country": "United States, United Kingdom, Ireland, Iceland, Canada"
     }
   ]
 }

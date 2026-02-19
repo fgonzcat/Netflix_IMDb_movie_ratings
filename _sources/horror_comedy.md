@@ -41,6 +41,8 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/89585" target="_bla
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Conjuring Kannappan (Telugu)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81754783" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Kang Mak from Pee Mak*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81971170" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BY2I5Y2ZhOTItMmEyNi00MjcxLTg5YjktNTUyOTJiODFhZWI0XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*404*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt33246585/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82020764" target="_blank">Netflix_link</a> |
+| N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Kang Solah From Kang Mak x Nenek Gayung*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt37884925/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82081796" target="_blank">Netflix_link</a> |
+| N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Your Monster*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82161427" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -79,6 +81,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/89585" target="_bla
 
  
 ---
-*Page last updated on: 2026-02-09*
+*Page last updated on: 2026-02-18*
 
  

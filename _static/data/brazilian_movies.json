@@ -1300,6 +1300,13 @@
       "Country": "Brazil"
     },
     {
+      "title": "Up Next: Silvio Santos",
+      "netflix_url": "https://www.netflix.com/title/81399313",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Family That Sings Together: The Camargos",
       "netflix_url": "https://www.netflix.com/title/81406126",
       "year": "2021",
@@ -1936,6 +1943,23 @@
       "Actors": "Jesuíta Barbosa, Rômulo Braga, Hermila Guedes",
       "Language": "Portuguese",
       "Country": "Brazil"
+    },
+    {
+      "title": "State of Fear",
+      "netflix_url": "https://www.netflix.com/title/81758092",
+      "year": "2026",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0485046",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODk4MzI5NF5BMl5BanBnXkFtZTcwMjQ2MzYzMQ@@._V1_SX300.jpg",
+      "Plot": "State of Fear dramatizes the human and societal costs a democracy faces when it embarks on a war against terror, a war potentially without end, all too easily exploited by unscrupulous leaders seeking personal political gain.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Pamela Yates",
+      "Writer": "Peter Kinoy, Pamela Yates, Paco de Onis",
+      "Actors": "N/A",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Uncredited: The Story of Passinho",

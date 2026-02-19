@@ -37,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "Kaal",
+      "netflix_url": "https://www.netflix.com/title/70037493",
+      "year": "2005",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt0415908",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQyNmQ4MTgtMTUyYS00ZjE0LTk2ODItZTdjMDJkYmNjNDZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A tiger expert, his wife, two tourists and a village chief engage in a battle for survival against supernatural beasts within Jim Corbett National Wildlife Park.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Adventure, Horror, Mystery",
+      "Director": "Soham Shah",
+      "Writer": "Soham Shah",
+      "Actors": "Ajay Devgn, Vivek Oberoi, John Abraham",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Paheli",
       "netflix_url": "https://www.netflix.com/title/70039405",
       "year": "2005",
@@ -1851,6 +1868,23 @@
       "Country": "Japan"
     },
     {
+      "title": "The Black Phone",
+      "netflix_url": "https://www.netflix.com/title/81488656",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt23705298",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
       "title": "Boomika (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81496130",
       "year": "2021",
@@ -2917,6 +2951,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "The Blue Drum",
+      "netflix_url": "https://www.netflix.com/title/81923256",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15421298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk2ODRkMmUtYWVlYy00OTBiLTg0ZDAtMTkyY2U1MTZlNmRhXkEyXkFqcGdeQXVyNDIzMTk5OTA@._V1_SX300.jpg",
+      "Plot": "A woman mourning her father's passing is tormented by memories of a mother she never knew. A presence reveals secrets hidden within her family home.",
+      "Type": "movie",
+      "RunTime": "17 min",
+      "Genre": "Short, Horror",
+      "Director": "Angelita Mendoza",
+      "Writer": "Angelita Mendoza",
+      "Actors": "Crystal Hernandez, Jonathan Medina, Judith Scarpone",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Para Betina Pengikut Iblis Part 2",
       "netflix_url": "https://www.netflix.com/title/81927386",
       "year": "2024",
@@ -3101,6 +3152,13 @@
       "Country": "Philippines"
     },
     {
+      "title": "The Redemption of Sin",
+      "netflix_url": "https://www.netflix.com/title/82018121",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Scarecrow",
       "netflix_url": "https://www.netflix.com/title/82020763",
       "year": "2024",
@@ -3218,6 +3276,23 @@
       "Actors": "Korranid Laosubinprasoet, Veerinsara Tangkitsuvanich, Nichapalak Thongkham",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Kang Solah From Kang Mak x Nenek Gayung",
+      "netflix_url": "https://www.netflix.com/title/82081796",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37884925",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Horror",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rigen Rakelna, Indra Jegel, Tora Sudiro",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "KPop Demon Hunters Sing-Along",

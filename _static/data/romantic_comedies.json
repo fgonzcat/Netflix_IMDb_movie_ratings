@@ -105,6 +105,23 @@
       "Country": "India"
     },
     {
+      "title": "Yeh Dillagi",
+      "netflix_url": "https://www.netflix.com/title/21059403",
+      "year": "1994",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0111793",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWVhMWZmZDMtOWU1Yi00NWI0LWE3OTYtMGU3MzM5MWRlODg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A poor girl is rebuked by a rich boy. She leaves town to return successful and rich. He falls for her but his brother is already in love with the girl.",
+      "Type": "movie",
+      "RunTime": "155 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Naresh Malhotra",
+      "Writer": "Sachin Bhowmick, Javed Siddiqui",
+      "Actors": "Kajol, Akshay Kumar, Saif Ali Khan",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "The American President",
       "netflix_url": "https://www.netflix.com/title/251922",
       "year": "1995",
@@ -229,6 +246,23 @@
       "year": "2003",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Anything Else",
+      "netflix_url": "https://www.netflix.com/title/60031207",
+      "year": "2003",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0313792",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjkyNjYyMzAzNV5BMl5BanBnXkFtZTYwMTMxNDU3._V1_SX300.jpg",
+      "Plot": "Jerry Falk learns a lesson the hard way when he falls in love with the beautiful but flighty Amanda.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Woody Allen",
+      "Writer": "Woody Allen",
+      "Actors": "Woody Allen, Jason Biggs, Christina Ricci",
+      "Language": "English, Latin",
+      "Country": "United States, France, United Kingdom"
     },
     {
       "title": "She's Gotta Have It",
@@ -401,6 +435,23 @@
       "Country": "Germany, Australia, United States"
     },
     {
+      "title": "Salaam Namaste",
+      "netflix_url": "https://www.netflix.com/title/70043142",
+      "year": "2005",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0456165",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU3ZjhhNzYtYTIxOS00NmIyLTg3ZTEtMjU3YWE2OGEzZGRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A quirky take on life and relationships that looks at a fairy tale with a bit of a squint and an endearing look at what being in love really means.",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Siddharth Anand",
+      "Writer": "Siddharth Anand, Habib Faisal, Abbas Tyrewala",
+      "Actors": "Saif Ali Khan, Preity G Zinta, Arshad Warsi",
+      "Language": "Hindi",
+      "Country": "India, Australia"
+    },
+    {
       "title": "Neal 'n' Nikki",
       "netflix_url": "https://www.netflix.com/title/70046390",
       "year": "2005",
@@ -569,6 +620,23 @@
       "Actors": "Katherine Heigl, Gerard Butler, Bree Turner",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Bachna Ae Haseeno",
+      "netflix_url": "https://www.netflix.com/title/70104309",
+      "year": "2008",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt1182972",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyNzkyNjAwOF5BMl5BanBnXkFtZTgwNTM1NTYyNTM@._V1_SX300.jpg",
+      "Plot": "Raj is a heartbreaker. His love stories with Mahi, Radhika, and Gayatri finally teach him about love and life in their own sweet, sexy, and sassy ways.",
+      "Type": "movie",
+      "RunTime": "152 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Siddharth Anand",
+      "Writer": "Aditya Chopra, Devika Bhagat, Anvita Dutt",
+      "Actors": "Ranbir Kapoor, Deepika Padukone, Bipasha Basu",
+      "Language": "Hindi, English",
+      "Country": "India"
     },
     {
       "title": "Dostana",
@@ -1139,6 +1207,13 @@
       "Country": "India"
     },
     {
+      "title": "Dum Laga Ke Haisha",
+      "netflix_url": "https://www.netflix.com/title/80081701",
+      "year": "2015",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "My Big Fat Greek Wedding 2",
       "netflix_url": "https://www.netflix.com/title/80081792",
       "year": "2016",
@@ -1256,6 +1331,40 @@
       "Actors": "Joey King, Jacob Elordi, Joel Courtney",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Oh Darling Yeh Hai India",
+      "netflix_url": "https://www.netflix.com/title/80156937",
+      "year": "1995",
+      "imdb_rating": "4.0",
+      "imdb_id": "tt0114031",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDg1YzE2NDYtNjJjZC00YjFjLTkzZjEtYzFjOTFkODNiNjg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Miss India and an aspiring actor spend a night together roaming the streets of Mumbai and unwittingly clash paths with a megalomaniacal gangster planning to take over India.",
+      "Type": "movie",
+      "RunTime": "160 min",
+      "Genre": "Comedy",
+      "Director": "Ketan Mehta",
+      "Writer": "Parvati Balagopalan, Ketan Mehta, Deepa Sahi",
+      "Actors": "Shah Rukh Khan, Deepa Sahi, Jaaved Jaaferi",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Befikre",
+      "netflix_url": "https://www.netflix.com/title/80158041",
+      "year": "2016",
+      "imdb_rating": "4.1",
+      "imdb_id": "tt5108476",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTJlOTE2MWItZjJkYS00YWU5LThhZmUtNDY1OWNlMjQ1NDk4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It is a carefree love story of Dharam and Shyra, who find love in an engaging series of experiences. Doused in the spirit of Paris, it celebrates a sensual and free-spirited love.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Aditya Chopra",
+      "Writer": "Aditya Chopra, Sharat Katariya",
+      "Actors": "Ranveer Singh, Vaani Kapoor, Djinda Kane",
+      "Language": "Hindi",
+      "Country": "India, France"
     },
     {
       "title": "Alex Strangelove",
@@ -2061,6 +2170,23 @@
       "Country": "China, Japan, United States"
     },
     {
+      "title": "I love you, stupid",
+      "netflix_url": "https://www.netflix.com/title/81043103",
+      "year": "2019",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt6856682",
+      "Poster": "https://occ-0-1339-1340.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXuS9b0EFr9DftRnQ86bVyknXdXtRHkXL3fIhxm3ArH39f4_-PJS2tt1cXw2RGzA_dE62ilTHT2ShIC_RYA9xDmEpGYhX1V1z40o.jpg?r=115",
+      "Plot": "Video clip of the Shania Twain song \"Don't be stupid\"",
+      "Type": "movie",
+      "RunTime": "4 min",
+      "Genre": "Short, Music, Musical",
+      "Director": "Larry Jordan",
+      "Writer": "N/A",
+      "Actors": "Shania Twain",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Your Place or Mine",
       "netflix_url": "https://www.netflix.com/title/81045831",
       "year": "2023",
@@ -2542,6 +2668,23 @@
       "Actors": "Adam Devine, Pierce Brosnan, Ellen Barkin",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Indoo Ki Jawani",
+      "netflix_url": "https://www.netflix.com/title/81193796",
+      "year": "2020",
+      "imdb_rating": "3.3",
+      "imdb_id": "tt11112526",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2E3ODdlMzAtZGJmNi00MGQzLWJmMjItOGY3MDk1MDIwMWJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A coming-of-age story of a girl who experience life through misadventures &amp; dating apps.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Abir Sengupta",
+      "Writer": "Abir Sengupta",
+      "Actors": "Kiara Advani, Aditya Seal, Mallika Dua",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Tall Girl 2",
@@ -3612,6 +3755,23 @@
       "Country": "Italy"
     },
     {
+      "title": "Still Out of My League",
+      "netflix_url": "https://www.netflix.com/title/81468314",
+      "year": "2021",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt14361314",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzNzc0YjMtN2RhMi00MmZlLTg5YTItMjQ0OTI4ZWYxNjUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Marta and Arturo broke up. Marta is now involved in a relationship with Gabriele, but, out of pure jealousy, he makes a big mistake. While everything seems to be going wrong, an unexpected news arrives: there's a compatible donor ...",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Claudio Norza",
+      "Writer": "Roberto Proia, Michela Straniero",
+      "Actors": "Désirée Giorgetti, Giancarlo Commare, Jenny De Nucci",
+      "Language": "Italian, Spanish, French",
+      "Country": "Italy"
+    },
+    {
       "title": "I Believe in Santa",
       "netflix_url": "https://www.netflix.com/title/81477797",
       "year": "2022",
@@ -4058,6 +4218,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "Rangabali",
+      "netflix_url": "https://www.netflix.com/title/81604825",
+      "year": "2023",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt26235062",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2IxOGRjNTAtMmFlZi00MWQ1LWE0NmMtMDY3YTAwOGFkZGUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A carefree young man gets caught up in a local dispute after falling for a medical student.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Pawan Basamsetti",
+      "Writer": "Pawan Basamsetti",
+      "Actors": "Kalyani Natarajan, R. Sarathkumar, Murli Sharma",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Krishna Vrinda Vihari",
       "netflix_url": "https://www.netflix.com/title/81605073",
       "year": "2022",
@@ -4274,6 +4451,13 @@
       "Actors": "Thanavat Vattanaputi, Ranee Campen, Paris Intarakomalyasut",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Anaganaga Oka Raju",
+      "netflix_url": "https://www.netflix.com/title/81641433",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Love Today",
@@ -5451,6 +5635,13 @@
       "Country": "Canada, United States"
     },
     {
+      "title": "Aaha Kalyanam (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/82062377",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "A Lot Like Christmas",
       "netflix_url": "https://www.netflix.com/title/82062865",
       "year": "2021",
@@ -5859,6 +6050,23 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "The Christmas Classic",
+      "netflix_url": "https://www.netflix.com/title/82160872",
+      "year": "2023",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt27804299",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2YzMzQyYWMtOThkOS00YjIxLTlmZDQtNDllOGE4Y2NlZmYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Elizabeth works for the father of her fiancé's real estate business. In order to keep Elizabeth employed, her soon-to-be father-in-law sends her back to her hometown to persuade an ex-boyfriend to sell his ski resort to the company.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Shane Dax Taylor",
+      "Writer": "Austin Nichols, Shane Dax Taylor",
+      "Actors": "Malin Akerman, Ryan Hansen, Amy Smart",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Threesome",
       "netflix_url": "https://www.netflix.com/title/82161418",
       "year": "2025",
@@ -5874,6 +6082,13 @@
       "Actors": "Zoey Deutch, Jonah Hauer-King, Ruby Cruz",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Your Monster",
+      "netflix_url": "https://www.netflix.com/title/82161427",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "A Very Merry Beauty Salon",

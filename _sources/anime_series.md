@@ -202,6 +202,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/6721" target="_blan
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Aggretsuko: We Wish You a Metal Christmas*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81008536" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Violet Evergarden: Special*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt9359564/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81010662" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Ranma1/2*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81171925" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*PUELLA MAGI MADOKA MAGICA SIDE STORY [MAGIA RECORD]*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81234338" target="_blank">Netflix_link</a> |
 | N/A |  | 2013 | <details> <summary><strong style="color:#1f6feb;">*Shimajiro: A Wonderful Adventure*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81235103" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*BASTARD‼ -Heavy Metal, Dark Fantasy-*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81281582" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Case Closed: Zero's Tea Time*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81313289" target="_blank">Netflix_link</a> |
@@ -259,6 +260,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/6721" target="_blan
 
  
 ---
-*Page last updated on: 2026-02-09*
+*Page last updated on: 2026-02-18*
 
  

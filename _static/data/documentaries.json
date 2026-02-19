@@ -338,6 +338,23 @@
       "Country": "United States"
     },
     {
+      "title": "Abstract: The Art of Design",
+      "netflix_url": "https://www.netflix.com/title/80057883",
+      "year": "2019",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt6333098",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyMDU4NzE0Nl5BMl5BanBnXkFtZTgwMzg0MDQyMTI@._V1_SX300.jpg",
+      "Plot": "A look beyond blueprints and computers into the art and science of design, showcasing great designers from every discipline whose work shapes our world.",
+      "Type": "series",
+      "RunTime": "45 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Tinker Hatfield, Platon, Cas Holman",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Family",
       "netflix_url": "https://www.netflix.com/title/80063867",
       "year": "2019",
@@ -421,6 +438,23 @@
       "Actors": "Amanda Knox, Meredith Kercher, Raffaele Sollecito",
       "Language": "English, Italian",
       "Country": "Denmark, United States"
+    },
+    {
+      "title": "13TH",
+      "netflix_url": "https://www.netflix.com/title/80091741",
+      "year": "2016",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt5895028",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_SX300.jpg",
+      "Plot": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "Ava DuVernay",
+      "Writer": "Spencer Averick, Ava DuVernay",
+      "Actors": "Melina Abdullah, Michelle Alexander, Cory Booker",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Last Chance U",
@@ -707,6 +741,23 @@
       "Actors": "Steven Rinella, Elias Argentiere, Joe Rogan",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Chef's Table: France",
+      "netflix_url": "https://www.netflix.com/title/80128096",
+      "year": "2016",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt6088326",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTU1MzU4NDI0MV5BMl5BanBnXkFtZTgwMjk1ODA5OTE@._V1_SX300.jpg",
+      "Plot": "Chef's Table, French edition, goes inside the lives and kitchens of some of the world's most renowned French chefs. Each episode focuses on a single chef and their unique look at their lives, talents and passion from their piece o...",
+      "Type": "series",
+      "RunTime": "46 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Alain Passard, Alexandre Couillon",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Hitler's Circle of Evil",
@@ -1268,6 +1319,23 @@
       "Actors": "Alex R., Shantee G., Velma S.",
       "Language": "N/A",
       "Country": "N/A"
+    },
+    {
+      "title": "Dogs",
+      "netflix_url": "https://www.netflix.com/title/80191036",
+      "year": "2021",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt0105236",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Quentin Tarantino",
+      "Writer": "Quentin Tarantino, Roger Avary",
+      "Actors": "Harvey Keitel, Tim Roth, Michael Madsen",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "ReMastered: The Two Killings of Sam Cooke",
@@ -1863,6 +1931,40 @@
       "Actors": "David Attenborough, Max Hughes",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Vai Anitta",
+      "netflix_url": "https://www.netflix.com/title/80216621",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt8961530",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjE0YjIxODctOTRmOS00ZDEyLTk5ZDQtYjBlODE5YzA2NDQ5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
+      "Plot": "Go behind the scenes with Brazilian superstar Anitta as the singer reveals how she's consolidating her international career.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Anitta, Paulo Pimenta, Sam Shahidi",
+      "Language": "Portuguese, English, Spanish",
+      "Country": "Brazil"
+    },
+    {
+      "title": "Explained",
+      "netflix_url": "https://www.netflix.com/title/80216752",
+      "year": "2021",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt8005374",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM0ZGQ4Y2UtNjJhOC00YTAzLWEyMzgtNmJiNmY1MGNhMGM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A documentary series that looks to explore the big questions of today.",
+      "Type": "series",
+      "RunTime": "18 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "Joe Posner, Ezra Klein",
+      "Actors": "Estelle Caswell, Samira Wiley, Maria Bello",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Jailbirds",
@@ -3801,6 +3903,23 @@
       "Country": "South Korea, Singapore"
     },
     {
+      "title": "American Factory",
+      "netflix_url": "https://www.netflix.com/title/81090071",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt9351980",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2I1ZWJmNDUtMzc5OC00YzVmLTliZWItNTczZDQ0YTNiOTZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In post-industrial Ohio, a Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class...",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Documentary",
+      "Director": "Steven Bognar, Julia Reichert",
+      "Writer": "N/A",
+      "Actors": "Junming 'Jimmy' Wang, Robert Allen, Sherrod Brown",
+      "Language": "English, Mandarin",
+      "Country": "United States"
+    },
+    {
       "title": "The Speed Cubers",
       "netflix_url": "https://www.netflix.com/title/81092143",
       "year": "2020",
@@ -4338,6 +4457,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Park Dietz, Wendy Patrickus, Anne E. Schwartz",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Cat People",
+      "netflix_url": "https://www.netflix.com/title/81173728",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt14818454",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDIxYzU2NDYtY2ExYy00MDgyLWI4NGItNGJhMWM1MDI2NGI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "CAT PEOPLE tells the stories of some of the most remarkable and surprising \"cat people\" in the world, defying negative stereotypes while revealing the truth of what it means to love such fiercely independent creatures.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Short",
+      "Director": "N/A",
+      "Writer": "Glen Zipper",
+      "Actors": "iAmMoshow the Cat Rapper",
       "Language": "English",
       "Country": "United States"
     },
@@ -5049,6 +5185,23 @@
       "Director": "N/A",
       "Writer": "David Gelb",
       "Actors": "Rosalia Chay Chuc, Tootsie Tomanetz, Lennox Hastie",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Chef's Table: Pizza",
+      "netflix_url": "https://www.netflix.com/title/81292981",
+      "year": "2022",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt21839470",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1OTRhZTktY2Q4MC00MjhmLWFkMGEtMDMyODg2N2Q1MGI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Features chefs from all over the world whose creativity elevates an ordinary dish like pizza to an art form, with their unique flavors, inspiring backgrounds, and passion for creating the perfect slice.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Sarah Minnick, Chris Bianco, Gabriele Bonci",
       "Language": "English",
       "Country": "United States"
     },
@@ -6903,6 +7056,23 @@
       "Country": "N/A"
     },
     {
+      "title": "From Rock Star to Killer",
+      "netflix_url": "https://www.netflix.com/title/81517758",
+      "year": "2025",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt36241713",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODBkNDllYTItMDgzNS00NjA3LTlmNzctZDMwNWI0ZGFhODNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2003, rock singer Bertrand Cantat killed his partner, actress Marie Trintignant. This documentary reviews the case that divided a nation.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Lio, Richard Kolinka, Anne-Sophie Jahn",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
       "title": "Murdaugh Murders: A Southern Scandal",
       "netflix_url": "https://www.netflix.com/title/81519789",
       "year": "2023",
@@ -7778,6 +7948,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Romantics",
+      "netflix_url": "https://www.netflix.com/title/81617079",
+      "year": "2023",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt26542635",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDczYTI3NzktZGE5Ni00YzdiLWE1OTUtMjMyNGQ5ZWJjYWE3XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_SX300.jpg",
+      "Plot": "The cultural legacy of iconic Indian filmmaker Yash Chopra who is regarded as the father of romance in Indian cinema.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Aditya Chopra, Shah Rukh Khan, Amitabh Bachchan",
+      "Language": "English",
+      "Country": "India"
+    },
+    {
       "title": "American Nightmare",
       "netflix_url": "https://www.netflix.com/title/81620852",
       "year": "2024",
@@ -8562,6 +8749,23 @@
       "Country": "Germany"
     },
     {
+      "title": "A Nation of Kimchi",
+      "netflix_url": "https://www.netflix.com/title/81686735",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt29521736",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjcwZWU1ZmYtODE1Ny00MTA2LWEwZTctOWFiZGZhMDVkZjJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mimi, Ryu Soo-young, Huh Young-Man",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Babo: The Haftbefehl Story",
       "netflix_url": "https://www.netflix.com/title/81687374",
       "year": "2025",
@@ -9165,6 +9369,23 @@
       "imdb_id": null
     },
     {
+      "title": "Young Royals Forever",
+      "netflix_url": "https://www.netflix.com/title/81726604",
+      "year": "2024",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt31402962",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhkNjQ2MGUtMDRiOS00OWFlLWFhYTUtNWM4MmZmMTRlOWVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Edvin Ryding and Omar Rudberg, among others, together with the main writer, creator and executive producer Lisa Ambjörn share the story of how Wilhelm and Simon's journey took shape, from the writing process and casting to the fin...",
+      "Type": "movie",
+      "RunTime": "53 min",
+      "Genre": "Documentary",
+      "Director": "Jens von Reis",
+      "Writer": "N/A",
+      "Actors": "Edvin Ryding, Omar Rudberg, Lisa Ambjörn",
+      "Language": "Swedish",
+      "Country": "Sweden"
+    },
+    {
       "title": "Bad Influence: The Dark Side of Kidfluencing",
       "netflix_url": "https://www.netflix.com/title/81728889",
       "year": "2025",
@@ -9384,6 +9605,23 @@
       "Actors": "Steve Kerr, Grant Hill, Dwyane Wade",
       "Language": "English, French, Spanish, Serbian",
       "Country": "Spain, United States"
+    },
+    {
+      "title": "The Echoes of Survivors: Inside Korea’s Tragedies",
+      "netflix_url": "https://www.netflix.com/title/81740073",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35677317",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQxMjVhNzUtZTY4Zi00ZTFhLWJkNmMtNzQ2OTkyY2ZmNmMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Showcases the tales of those who survived Korea's darkest chapters, shining a light on hidden truths.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "South Korea, United States"
     },
     {
       "title": "Amy Bradley Is Missing",
@@ -10120,6 +10358,13 @@
       "imdb_id": null
     },
     {
+      "title": "We Are! Let's get the party STARTO!!",
+      "netflix_url": "https://www.netflix.com/title/81901456",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "timelesz project -AUDITION-",
       "netflix_url": "https://www.netflix.com/title/81901457",
       "year": "2024",
@@ -10135,6 +10380,13 @@
       "Actors": "Fuma Kikuchi, Shori Sato, So Matsushima",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Being Gordon Ramsay",
+      "netflix_url": "https://www.netflix.com/title/81901623",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Take That",
@@ -10278,6 +10530,13 @@
       "Actors": "Portia Cue",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Reality Check: Inside America's Next Top Model",
+      "netflix_url": "https://www.netflix.com/title/81928842",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "WWE: Unreal",
@@ -10601,6 +10860,13 @@
       "Country": "United States"
     },
     {
+      "title": "Snow Man 1st Stadium Live Snow World",
+      "netflix_url": "https://www.netflix.com/title/82061659",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Stringer: The Man Who Took The Photo",
       "netflix_url": "https://www.netflix.com/title/82069795",
       "year": "2025",
@@ -10806,6 +11072,23 @@
       "imdb_id": null
     },
     {
+      "title": "Koshien: Japan’s Field of Dreams",
+      "netflix_url": "https://www.netflix.com/title/82667075",
+      "year": "2019",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt9125542",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDFiN2QwOWQtOWFkZS00YzcxLTk1M2MtMDkwZTI3M2FmMTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Filmmaker Ema Ryan Yamazaki follows a coach and his team as they try to win Japan's national high school baseball championship.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Ema Ryan Yamazaki",
+      "Writer": "N/A",
+      "Actors": "Kaoru Kashiwagi, Yusei Kikuchi, Ito Kouno",
+      "Language": "Japanese",
+      "Country": "United States, Japan"
+    },
+    {
       "title": "Secret Mall Apartment",
       "netflix_url": "https://www.netflix.com/title/82677429",
       "year": "2024",
@@ -10819,6 +11102,23 @@
       "Director": "Jeremy Workman",
       "Writer": "N/A",
       "Actors": "Michael Townsend, Colin Bliss, Adriana Valdez-Young",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Naked Ambition",
+      "netflix_url": "https://www.netflix.com/title/82677430",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt10445326",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzE1ZGMwMjItZjU0Yy00OWMyLTg4MDUtZTc0NTFhMDRlOTVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bunny Yeager, once heralded as the world's prettiest photographer, had a huge influence in 20th-century pop culture though few people know her name. Whether by popularizing the bikini, helping discover Bettie Page, shaping the ima...",
+      "Type": "movie",
+      "RunTime": "73 min",
+      "Genre": "Documentary",
+      "Director": "Dennis Scholl, Kareem Tabsch",
+      "Writer": "N/A",
+      "Actors": "Dita Von Teese, Larry King, Bruce Weber",
       "Language": "English",
       "Country": "United States"
     }

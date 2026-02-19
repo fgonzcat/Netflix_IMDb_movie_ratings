@@ -887,6 +887,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Gunman",
+      "netflix_url": "https://www.netflix.com/title/80014852",
+      "year": "2015",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt2515034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NTYzMDAxOF5BMl5BanBnXkFtZTgwNjY3NzMwNDE@._V1_SX300.jpg",
+      "Plot": "A sniper on a mercenary assassination team kills the minister of mines in the Democratic Republic of the Congo. His kill shot forces him into hiding. After returning to the Congo years later, he becomes the target of a hit squad h...",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Action, Crime, Mystery",
+      "Director": "Pierre Morel",
+      "Writer": "Jean-Patrick Manchette, Don MacPherson, Pete Travis",
+      "Actors": "Sean Penn, Idris Elba, Jasmine Trinca",
+      "Language": "English, Spanish",
+      "Country": "United States, Spain, United Kingdom, France"
+    },
+    {
       "title": "The Siege of Jadotville",
       "netflix_url": "https://www.netflix.com/title/80041653",
       "year": "2016",
@@ -2868,6 +2885,13 @@
       "imdb_id": null
     },
     {
+      "title": "Dasara (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81680653",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Savi",
       "netflix_url": "https://www.netflix.com/title/81686137",
       "year": "2024",
@@ -3111,6 +3135,23 @@
       "Actors": "Ardhito Pramono, Lutesha, Chicco Kurniawan",
       "Language": "Indonesian",
       "Country": "Indonesia, South Korea"
+    },
+    {
+      "title": "State of Fear",
+      "netflix_url": "https://www.netflix.com/title/81758092",
+      "year": "2026",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0485046",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODk4MzI5NF5BMl5BanBnXkFtZTcwMjQ2MzYzMQ@@._V1_SX300.jpg",
+      "Plot": "State of Fear dramatizes the human and societal costs a democracy faces when it embarks on a war against terror, a war potentially without end, all too easily exploited by unscrupulous leaders seeking personal political gain.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Pamela Yates",
+      "Writer": "Peter Kinoy, Pamela Yates, Paco de Onis",
+      "Actors": "N/A",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "GOAT - The Greatest of All Time",

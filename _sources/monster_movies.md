@@ -38,6 +38,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/947" target="_blank
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNzQ5ZjcwZTktMWEyMi00MmE4LWFhZmItOGE5MGI0MGRhNWI1XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Troll 2*</strong></summary>  <div class="movie-plot">Nora, Andreas and Captain Kris leap back into action when a dangerous new troll awakes - and this time they'll need more help to take it down.</div> </details> | <a href="https://www.imdb.com/title/tt29232158/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81667085" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Godzilla Minus One/Minus Color*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81767637" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYTkwMjIzN2QtYjM3MC00ZDc3LWE1YjEtZGUzMTA3NTYxZDlkXkEyXkFqcGdeQXVyMTMzMzU1MDAy._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*La Ciguapa Siempre*</strong></summary>  <div class="movie-plot">Milagro knew she was adopted, but just found out there is no record of her birth parents. So her boyfriend Davis takes her on a camping trip to help her relax. As the trip progresses Davis reveals he is not as wholesome as he seem...</div> </details> | <a href="https://www.imdb.com/title/tt14030824/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81927985" target="_blank">Netflix_link</a> |
+| N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Your Monster*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82161427" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -76,6 +77,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/947" target="_blank
 
  
 ---
-*Page last updated on: 2026-02-09*
+*Page last updated on: 2026-02-18*
 
  
