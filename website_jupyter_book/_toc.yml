@@ -61,12 +61,16 @@ parts:
         sections:
           - file: dark_comedies
           - file: teen_comedies
+
+      - file: court_room_movies
+
       - file: crime_documentaries
         sections:
           - file: crime_action_adventure
           - file: crime_movies
           - file: true_crime 
           - file: crime_true_crime_documentaries
+
       - file: critically_acclaimed_films
       - file: cult
 
@@ -81,16 +85,20 @@ parts:
 
       - file: dramas 
         sections:
+          - file: family_drama_movies
           - file: period_pieces 
           - file: social_issue_dramas
 
       - file: emotional_movies
+      - file: emmy_winning_TVshows
+      - file: exciting_movies
 
       - file: family 
         sections:
           - file: animal_tales
           - file: children_and_family
 
+      - file: feelgood_movies
       - file: film_noir 
 
       - file: gangster_movies 
@@ -117,6 +125,7 @@ parts:
           - file: LGBTQ_Romantic
 
       - file: music 
+      - file: oscar_winner_movies
       - file: psychological_movies
       - file: romance 
         sections:
@@ -138,6 +147,7 @@ parts:
       - file: spy_movies
       - file: standup_comedy 
       - file: steamy_movies 
+      - file: supernatural_movies
       - file: suspenseful
       - file: swedish_movies
       - file: tamil_movies_and_TV_shows

@@ -27,6 +27,13 @@
       "imdb_id": null
     },
     {
+      "title": "30 for 30: June 17th, 1994",
+      "netflix_url": "https://www.netflix.com/title/70144640",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Making a Murderer",
       "netflix_url": "https://www.netflix.com/title/80000770",
       "year": "2018",
@@ -1078,6 +1085,23 @@
       "Country": "United States"
     },
     {
+      "title": "Carmel: Who Killed Maria Marta?",
+      "netflix_url": "https://www.netflix.com/title/81017110",
+      "year": "2020",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt13244092",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzViY2FiMzUtZmRiNi00MjRkLTg3NDctZThjODg5ZTExNjJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Documentary series on the circumstances surrounding the death of María Marta García Belsunce, one of the most controversial criminal cases in Argentina.",
+      "Type": "series",
+      "RunTime": "229 min",
+      "Genre": "Documentary, Crime, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Pablo Duggan, Rolando Barbano, Carlos Carrascosa",
+      "Language": "Spanish",
+      "Country": "Argentina"
+    },
+    {
       "title": "A Perfect Crime",
       "netflix_url": "https://www.netflix.com/title/81022994",
       "year": "2020",
@@ -1454,6 +1478,23 @@
       "Actors": "Jeremy Levy, Gary Littman, James Weaver Clark",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "La Línea: Shadow of Narco",
+      "netflix_url": "https://www.netflix.com/title/81095075",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt12875794",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ2NmYzM2UtNjIzMy00ZTcwLTk3MTMtMmY0MGZkZTdhZDk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Go inside La Línea, the Spanish beach town turned into Europe's drug trafficking hub, and meet the law enforcement officials determined to change that.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Juan Franco",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "House of Secrets: The Burari Deaths",
@@ -1973,6 +2014,23 @@
       "Country": "United States"
     },
     {
+      "title": "Broken Idol: The Undoing of Diomedes Díaz",
+      "netflix_url": "https://www.netflix.com/title/81294594",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt18750180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODAwYjE2NzYtNTNlYy00Njk0LTkxYzEtYzczMWFjMDEwMzBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chronicles Diomedes Díaz's rise as one of Colombia's most iconic singers, and his downfall after being accused of killing a fan.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Jaime Barbosa, Jorge Duran",
+      "Writer": "N/A",
+      "Actors": "Diomedes Diaz, Jorge Oñate, Marciano Martínez",
+      "Language": "Spanish",
+      "Country": "Colombia"
+    },
+    {
       "title": "Conversations with a Killer: The John Wayne Gacy Tapes",
       "netflix_url": "https://www.netflix.com/title/81298614",
       "year": "2022",
@@ -2201,6 +2259,23 @@
       "Country": "United States"
     },
     {
+      "title": "My Daughter’s Killer",
+      "netflix_url": "https://www.netflix.com/title/81353946",
+      "year": "2022",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt21049266",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZkMTBjMTAtNTEwZi00ZDkxLWE4YTUtZGZlYjI0Yjg3OGYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A father fights for decades to bring his daughter's killer to justice in France and Germany before taking extreme measures",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Antoine Tassin",
+      "Writer": "N/A",
+      "Actors": "Stephen Samson, Russell MacLeod, Emil Petrov",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
       "title": "The Outreau Case: A French Nightmare",
       "netflix_url": "https://www.netflix.com/title/81368117",
       "year": "2024",
@@ -2308,6 +2383,23 @@
       "Actors": "Elias Argentiere, Naasón Joaquín García, Eduardo De Los Reyes",
       "Language": "Spanish, English",
       "Country": "Mexico"
+    },
+    {
+      "title": "Nevenka: Breaking the Silence",
+      "netflix_url": "https://www.netflix.com/title/81405211",
+      "year": "2021",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt14091172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU0N2M3MTYtYTNhOS00MjE0LWI4MWQtODk2MWM1MGMyMzc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of the first sexual harassment case in Spain was a scandal. Nevenka Fernández, its protagonist, discusses it in this documentary.",
+      "Type": "series",
+      "RunTime": "114 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Nevenka Fernández",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Crime Scene: The Times Square Killer",
@@ -2514,6 +2606,23 @@
       "Country": "United States"
     },
     {
+      "title": "Scouts Honor: The Secret Files of the Boy Scouts of America",
+      "netflix_url": "https://www.netflix.com/title/81477233",
+      "year": "2023",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt28660814",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzFhNjk3YzItNGY5ZC00ZWM2LWI2NjMtMzlkM2EyYTFiN2YwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Survivors, whistle-blowers and experts recount the Boy Scouts of America's decades long cover-up of sexual abuse cases and its heartbreaking impact.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Brian Knappenberger",
+      "Writer": "N/A",
+      "Actors": "Michael Johnson, Patrick Boyle, Christopher Hurley",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Eloá the Hostage: Live on TV",
       "netflix_url": "https://www.netflix.com/title/81481358",
       "year": "2025",
@@ -2713,6 +2822,23 @@
       "Actors": "Alejandra Alday, Anselmo Apodac, Antonio Baranda",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Caught Out: Crime. Corruption. Cricket.",
+      "netflix_url": "https://www.netflix.com/title/81512107",
+      "year": "2023",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt27055390",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTRlYzE5OTEtMTkzYy00Mjg3LWE2MDQtMjM2OTM3MTI2MGE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "India's biggest match-fixing scandal, the icons caught in its web and the journalists who uncovered the corruption.",
+      "Type": "movie",
+      "RunTime": "77 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Supriya Sobti Gupta",
+      "Writer": "N/A",
+      "Actors": "Aniruddha Bahal, Sharda Ugra, Sriram Karri",
+      "Language": "N/A",
+      "Country": "India"
     },
     {
       "title": "Capturing the Killer Nurse",
@@ -3351,6 +3477,23 @@
       "Country": "Brazil"
     },
     {
+      "title": "The Last Hours of Mario Biondo",
+      "netflix_url": "https://www.netflix.com/title/81648987",
+      "year": "2023",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt28457132",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjc1OWNkYWYtNGYyNC00MDBjLTg4MzMtOTJhMWYwY2EyMDA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Many questions remain unanswered about the last night of Mario Biondo, the husband of Spanish presenter Raquel Sánchez Silva. This series reveals new details.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Eduardo De Los Reyes, Emanuela Biondo, Santina D'Alessandro",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "Jailbreak: Love on the Run",
       "netflix_url": "https://www.netflix.com/title/81654970",
       "year": "2024",
@@ -3674,6 +3817,13 @@
       "Actors": "N/A",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "The Investigation of Lucy Letby",
+      "netflix_url": "https://www.netflix.com/title/81719673",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Conversations with a Killer: The Son of Sam Tapes",

@@ -2821,6 +2821,13 @@
       "Country": "United States"
     },
     {
+      "title": "Queen of Chess",
+      "netflix_url": "https://www.netflix.com/title/81749912",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Remembering Gene Wilder",
       "netflix_url": "https://www.netflix.com/title/81750400",
       "year": "2023",
@@ -3177,6 +3184,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Naked Ambition",
+      "netflix_url": "https://www.netflix.com/title/82677430",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt10445326",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzE1ZGMwMjItZjU0Yy00OWMyLTg4MDUtZTc0NTFhMDRlOTVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bunny Yeager, once heralded as the world's prettiest photographer, had a huge influence in 20th-century pop culture though few people know her name. Whether by popularizing the bikini, helping discover Bettie Page, shaping the ima...",
+      "Type": "movie",
+      "RunTime": "73 min",
+      "Genre": "Documentary",
+      "Director": "Dennis Scholl, Kareem Tabsch",
+      "Writer": "N/A",
+      "Actors": "Dita Von Teese, Larry King, Bruce Weber",
+      "Language": "English",
+      "Country": "United States"
     }
   ]
 }

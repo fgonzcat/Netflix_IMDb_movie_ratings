@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/89585",
   "movies": [
     {
+      "title": "Life After Beth",
+      "netflix_url": "https://www.netflix.com/title/70299270",
+      "year": "2014",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt2581244",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjhhZmE5YjQtNGFlNi00ZjdkLWJjODUtNDg2NDRiYjE3NDQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man's recently deceased girlfriend mysteriously returns from the dead, but he slowly realizes she is not the way he remembered her.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Fantasy, Horror",
+      "Director": "Jeff Baena",
+      "Writer": "Jeff Baena",
+      "Actors": "Aubrey Plaza, Dane DeHaan, John C. Reilly",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "He Never Died",
       "netflix_url": "https://www.netflix.com/title/80058460",
       "year": "2015",
@@ -531,6 +548,23 @@
       "Country": "Brazil"
     },
     {
+      "title": "Kang Solah From Kang Mak x Nenek Gayung",
+      "netflix_url": "https://www.netflix.com/title/82081796",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37884925",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Horror",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rigen Rakelna, Indra Jegel, Tora Sudiro",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Deadstream",
       "netflix_url": "https://www.netflix.com/title/82151269",
       "year": "2022",
@@ -546,6 +580,13 @@
       "Actors": "Joseph Winter, Melanie Stone, Jason K. Wixom",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "Your Monster",
+      "netflix_url": "https://www.netflix.com/title/82161427",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

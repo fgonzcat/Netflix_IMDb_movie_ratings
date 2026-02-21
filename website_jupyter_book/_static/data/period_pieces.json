@@ -809,6 +809,13 @@
       "imdb_id": null
     },
     {
+      "title": "Errementari: The Blacksmith and the Devil",
+      "netflix_url": "https://www.netflix.com/title/80239565",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Ghost Bride",
       "netflix_url": "https://www.netflix.com/title/80241234",
       "year": "2020",
@@ -2088,6 +2095,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Here",
+      "netflix_url": "https://www.netflix.com/title/81680566",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt18272208",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ5ZDQ5YWQtMThiMS00MGM4LTk2NjktYTllYzg2NTRiNTMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A generational story about families and the special place they inhabit, sharing in love, loss, laughter, and life.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Drama",
+      "Director": "Robert Zemeckis",
+      "Writer": "Eric Roth, Robert Zemeckis, Richard McGuire",
+      "Actors": "Tom Hanks, Robin Wright, Paul Bettany",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "House of Ga'a",
       "netflix_url": "https://www.netflix.com/title/81681233",
       "year": "2024",
@@ -2168,6 +2192,23 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "The Iron Claw",
+      "netflix_url": "https://www.netflix.com/title/81725563",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt21064584",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjJjZDc5YTUtYTc4My00Yzc2LTkwMGUtOTg3ODIwYzJkYTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Sean Durkin",
+      "Writer": "Sean Durkin",
+      "Actors": "Zac Efron, Jeremy Allen White, Harris Dickinson",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Golden Kamuy",
@@ -2503,6 +2544,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Yi Cheng, Yijun Liu, Jinsong Wang",
+      "Language": "Mandarin",
+      "Country": "China"
+    },
+    {
+      "title": "Unveil: Jadewind",
+      "netflix_url": "https://www.netflix.com/title/82706141",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34452086",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjdlOGU0MzAtM2JmYy00YjZjLWI5NTQtNmNlZDY4NDQ2NmExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Lu Bai, Xingyue Wang, Yiqin Zhao",
       "Language": "Mandarin",
       "Country": "China"
     }

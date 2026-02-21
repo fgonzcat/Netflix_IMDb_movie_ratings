@@ -724,6 +724,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Apollo 11",
+      "netflix_url": "https://www.netflix.com/title/81078076",
+      "year": "2019",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt8760684",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMzEzNjI4M15BMl5BanBnXkFtZTgwODgxOTgyNzM@._V1_SX300.jpg",
+      "Plot": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilots Buzz Aldrin and Mike Collins.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Documentary, History",
+      "Director": "Todd Douglas Miller",
+      "Writer": "N/A",
+      "Actors": "Neil Armstrong, Mike Collins, Buzz Aldrin",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Our Planet - Behind The Scenes",
       "netflix_url": "https://www.netflix.com/title/81082125",
       "year": "2019",
@@ -1748,6 +1765,13 @@
       "Country": "Saudi Arabia"
     },
     {
+      "title": "The Investigation of Lucy Letby",
+      "netflix_url": "https://www.netflix.com/title/81719673",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Critical: Between Life and Death",
       "netflix_url": "https://www.netflix.com/title/81731799",
       "year": "2025",
@@ -1830,6 +1854,23 @@
       "Writer": "Penny Lane",
       "Actors": "Penny Lane",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Matter of Time",
+      "netflix_url": "https://www.netflix.com/title/82184383",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36590322",
+      "Poster": "N/A",
+      "Plot": "A string of Eddie Vedder solo concerts in Seattle in 2023 are the backdrop for the film, which chronicles efforts to find a cure for epidermolysis bullosa (EB), a rare genetic disease that can be lethal.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "Matt Finlin",
+      "Writer": "N/A",
+      "Actors": "Eddie Vedder",
+      "Language": "N/A",
       "Country": "United States"
     },
     {

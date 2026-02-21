@@ -3,6 +3,13 @@
   "genre_url": "https://www.netflix.com/browse/genre/81050",
   "movies": [
     {
+      "title": "30 for 30: June 17th, 1994",
+      "netflix_url": "https://www.netflix.com/title/70144640",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Making a Murderer",
       "netflix_url": "https://www.netflix.com/title/80000770",
       "year": "2018",
@@ -246,6 +253,23 @@
       "Actors": "Juan Catalan, Alma Oseguera, Todd Melnik",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Inside the Criminal Mind",
+      "netflix_url": "https://www.netflix.com/title/80185065",
+      "year": "2018",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt6775794",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjgxYzk0MmYtNmU5MS00NzEzLWE5MTAtNDA3ZTBiOWJjOWNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Inside the Criminal Mind- a gripping exploration exposing the psychological machinations and immoral behavior that define the most nefarious criminal types. Every episode of the series delves into the ardent backgrounds of infamou...",
+      "Type": "series",
+      "RunTime": "52 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kostas A. Katsavdakis, Antonio Pedro, Eva Ruzickova",
+      "Language": "English",
+      "Country": "United States, Czech Republic"
     },
     {
       "title": "The Innocent Man",
@@ -1884,6 +1908,23 @@
       "Country": "United States"
     },
     {
+      "title": "Senzo: Murder of a Soccer Star",
+      "netflix_url": "https://www.netflix.com/title/81343263",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt18954258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5NzljYWMtOWY2Ny00ODc4LWFhNjUtZTBjODAzNmNmMDc4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The thrilling five-part true crime documentary series delves into the beloved soccer star’s murder, sharing insight into what transpired that fateful night when Meyiwa was gunned down in what was alleged to be a botched robbery in...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mzillikazi Wa Afrika, Robert Marawa, Irene Meyiwa",
+      "Language": "English",
+      "Country": "South Africa"
+    },
+    {
       "title": "Trust No One: The Hunt for the Crypto King",
       "netflix_url": "https://www.netflix.com/title/81349029",
       "year": "2022",
@@ -1967,6 +2008,23 @@
       "Actors": "Jonathan Delay, Fabienne Roy-Nansion, Fabrice Burgaud",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "The Great Robbery of Brazil's Central Bank",
+      "netflix_url": "https://www.netflix.com/title/81374470",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt18274172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg1YzM2ZjYtMWRmNC00YTYyLWJmZmUtOWYyZjgyOGU4YmEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2005, thieves tunnel into a Fortaleza, Brazil, bank vault and steal over 160 million reais. This docuseries explores that spectacular, historical heist.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mark Lewis",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Ghislaine Maxwell: Filthy Rich",
@@ -2137,6 +2195,13 @@
       "Actors": "Scott Scurlock, Ellen Glasser, Shawn Johnson",
       "Language": "N/A",
       "Country": "United States"
+    },
+    {
+      "title": "Running for my Truth: Alex Schwazer",
+      "netflix_url": "https://www.netflix.com/title/81428316",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Hatchet Wielding Hitchhiker",
@@ -3377,6 +3442,13 @@
       "Actors": "N/A",
       "Language": "English",
       "Country": "South Africa"
+    },
+    {
+      "title": "The Investigation of Lucy Letby",
+      "netflix_url": "https://www.netflix.com/title/81719673",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Conversations with a Killer: The Son of Sam Tapes",

@@ -628,16 +628,36 @@
     {
       "title": "Levius",
       "netflix_url": "https://www.netflix.com/title/80156799",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt10619444",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMyYWRlYmYtYzU0NC00OTU3LTlhMTUtZWI5MTc4ZGEyMGEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man whose parents became casualties of war. He is taken in by his uncle Zack, and it is there that Levius begins to immerse himself in the world of metal boxing as if led by fate itself, and his innate ability for the mart...",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Animation, Action, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "Haruhisa Nakata",
+      "Actors": "Sean Burgos, Zach Aguilar, Todd Haberkorn",
+      "Language": "English, Japanese",
+      "Country": "Japan"
     },
     {
       "title": "A.I.C.O.",
       "netflix_url": "https://www.netflix.com/title/80161848",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2018",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt8116380",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZiNGYzZjktODViMi00ZWJjLWExMTMtMGNkYzQ1ODVhNTE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Everything Aiko knew was a lie. Now she's joining a team of Divers to reach the place where the Burst began to stop it for good and save her family.",
+      "Type": "series",
+      "RunTime": "25 min",
+      "Genre": "Animation, Action, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "Kazuya Murata",
+      "Actors": "Xanthe Huynh, Billy Kametz, Erica Mendez",
+      "Language": "French, English, German, Spanish, Portuguese, Italian, Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Mononoke",
@@ -836,9 +856,19 @@
     {
       "title": "Cannon Busters",
       "netflix_url": "https://www.netflix.com/title/80195357",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2019",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt5066664",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGRmM2UxZTMtNzJmYi00NmFhLWJlMGItYzlhOTY5MDk0Yzc4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Explore fantastic land of Gearbolt as we follow a motley crew of travelers on an unforgettable journey to reunite 2 best friends.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Fantasy",
+      "Director": "Lesean Thomas",
+      "Writer": "Lesean Thomas",
+      "Actors": "Stephanie Sheh, Kenny Blank, Kamali Minter",
+      "Language": "English",
+      "Country": "United States, Japan"
     },
     {
       "title": "Rilakkuma and Kaoru",
@@ -1200,9 +1230,19 @@
     {
       "title": "revisions",
       "netflix_url": "https://www.netflix.com/title/80992787",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2018",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt8921012",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWFjMTc1YjUtYjI4ZC00ODQ5LThiMGEtZmUwM2U0NmZmZTM1XkEyXkFqcGdeQXVyMTc5MzA1Nzk@._V1_SX300.jpg",
+      "Plot": "While planning a wedding with his fiancé, a writer struggles to find the perfect ending to a story about a restless magician.",
+      "Type": "movie",
+      "RunTime": "20 min",
+      "Genre": "Short, Drama",
+      "Director": "Nathan Shinholt, Russ Milheim(co-director), Nathan Shinholt(co-director)",
+      "Writer": "Russ Milheim, Nathan Shinholt",
+      "Actors": "Erin C. Davis, Bob Singer, Brennan Kerr, Gabriel Kornbluh",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Ingress: The Animation",
@@ -2115,6 +2155,13 @@
       "Actors": "Aoi Koga, Gakuto Kajiwara, Rie Murakawa",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "PUELLA MAGI MADOKA MAGICA SIDE STORY [MAGIA RECORD]",
+      "netflix_url": "https://www.netflix.com/title/81234338",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Shimajiro: A Wonderful Adventure",

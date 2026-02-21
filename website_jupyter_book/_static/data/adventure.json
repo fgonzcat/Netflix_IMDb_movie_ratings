@@ -224,6 +224,40 @@
       "Country": "United Kingdom, United States, Italy"
     },
     {
+      "title": "The Expendables",
+      "netflix_url": "https://www.netflix.com/title/70117698",
+      "year": "2010",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1320253",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_SX300.jpg",
+      "Plot": "A CIA operative hires a team of mercenaries to eliminate a Latin dictator and a renegade CIA agent.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Sylvester Stallone",
+      "Writer": "Dave Callaham, Sylvester Stallone",
+      "Actors": "Sylvester Stallone, Jason Statham, Jet Li",
+      "Language": "English, Spanish",
+      "Country": "United States, Bulgaria, Spain, Germany"
+    },
+    {
+      "title": "The Expendables 2",
+      "netflix_url": "https://www.netflix.com/title/70230088",
+      "year": "2012",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1764651",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwZGYyYzktNmEzMS00ZDkzLTlkMjEtYTdiOWExM2Y2ZjE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mr. Church reunites the Expendables for what should be an easy paycheck, but when one of their men is murdered on the job, their quest for revenge puts them deep in enemy territory and up against an unexpected threat.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Simon West",
+      "Writer": "Richard Wenk, Sylvester Stallone, Ken Kaufman",
+      "Actors": "Sylvester Stallone, Liam Hemsworth, Randy Couture",
+      "Language": "English",
+      "Country": "United States, Germany, China"
+    },
+    {
       "title": "Chennai Express",
       "netflix_url": "https://www.netflix.com/title/70254350",
       "year": "2013",
@@ -1418,6 +1452,23 @@
       "Country": "Norway"
     },
     {
+      "title": "The Expendables 4",
+      "netflix_url": "https://www.netflix.com/title/81674656",
+      "year": "2023",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt3291150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjgyMmRmM2EtYWY5ZC00ZTllLWJhM2QtMGRlNGEzMWEzYzllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Armed with every weapon they can get their hands on, the Expendables are the world's last line of defense and the team that gets called when all other options are off the table.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Scott Waugh",
+      "Writer": "Kurt Wimmer, Tad Daggerhart, Max Adams",
+      "Actors": "Jason Statham, 50 Cent, Megan Fox",
+      "Language": "English, Arabic, Bulgarian, Vietnamese, Spanish, Thai",
+      "Country": "United States"
+    },
+    {
       "title": "Venom: The Last Dance",
       "netflix_url": "https://www.netflix.com/title/81680567",
       "year": "2024",
@@ -1546,6 +1597,13 @@
       "Actors": "Ajay Devgn, Aman Devgan, Diana Penty",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Baahubali: The Beginning (Spanish Version)",
+      "netflix_url": "https://www.netflix.com/title/82031153",
+      "year": "2015",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Ice Road: Vengeance",

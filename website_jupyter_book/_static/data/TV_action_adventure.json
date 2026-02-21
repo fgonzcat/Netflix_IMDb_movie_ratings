@@ -37,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "Stargate SG-1",
+      "netflix_url": "https://www.netflix.com/title/70155599",
+      "year": "2006",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt0118480",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3MjEwMTc5N15BMl5BanBnXkFtZTcwNzQ2NjQ4NA@@._V1_SX300.jpg",
+      "Plot": "Set after the events of the Stargate (1994) movie, the series follows SG-1, one of many secret military teams of soldiers and scientists who travel through a gateway to other planets and fight against dangerous aliens to protect e...",
+      "Type": "series",
+      "RunTime": "44 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "Jonathan Glassner, Brad Wright",
+      "Actors": "Richard Dean Anderson, Michael Shanks, Amanda Tapping",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "The Walking Dead",
       "netflix_url": "https://www.netflix.com/title/70177057",
       "year": "2021",
@@ -1586,9 +1603,19 @@
     {
       "title": "The Lost Pirate Kingdom",
       "netflix_url": "https://www.netflix.com/title/81035118",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt14057360",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGFjZDQ1ZGItYTEyOC00OGRiLWJiMDgtN2ExNTdjOTMwZjViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The real-life pirates of the Caribbean violently plunder, stealing and form a surprisingly egalitarian republic in this documentary series.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Derek Jacobi, James Oliver Wheatley, Sam Callis",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Queen Sono",
@@ -3020,6 +3047,23 @@
       "Country": "India"
     },
     {
+      "title": "Unfamiliar",
+      "netflix_url": "https://www.netflix.com/title/81720669",
+      "year": "2026",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt37024136",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ3MTRhZDItYzU3Yi00NWU4LWFiZDItZWE2NzQyYjhjMzcxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ex-spies Simon and Meret operate a Berlin safe house until a past threat resurfaces. Now they're fleeing hitmen, Russian agents, BND, ex-lovers, and old enemies while trying to save their marriage.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Andreas Pietschmann, Laurence Rupp, Susanne Wolff",
+      "Language": "German",
+      "Country": "Germany"
+    },
+    {
       "title": "Vivant",
       "netflix_url": "https://www.netflix.com/title/81726701",
       "year": "2023",
@@ -3069,6 +3113,23 @@
       "Actors": "Park Ji-hoon, Hong Kyung, Choi Hyun-wook",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Motorvalley",
+      "netflix_url": "https://www.netflix.com/title/81763921",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34963021",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1Y2M3NjItZGJkZi00NGM4LTk1ZmQtMGNhMjZlNWI1ZWVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Emilia-Romagna, there is a district where the most important automotive and motorcycle industries in the world are located. It is the \"Motor Valley\", a land of dreams and ideas that transform into innovative creations.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "Italy"
     },
     {
       "title": "WWE WrestleMania",
@@ -3258,6 +3319,30 @@
       "Country": "N/A"
     },
     {
+      "title": "WWE Fully Loaded",
+      "netflix_url": "https://www.netflix.com/title/81929836",
+      "year": "2000",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "WWE Great American Bash",
+      "netflix_url": "https://www.netflix.com/title/81929843",
+      "year": "2008",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1272437",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjY1Njg1ZTQtZTYwYi00OWIxLWEwNTQtMzZlMzFlNGI0YjEwXkEyXkFqcGdeQXVyMjkxODI3MTY@._V1_SX300.jpg",
+      "Plot": "Y2J vs HBK. Divas title match: Michelle McCool vs Natalya. World title match: Batista vs CM Punk. NYC parking lot brawl: JBL vs John Cena. WWE title match: HHH vs Edge.",
+      "Type": "movie",
+      "RunTime": "180 min",
+      "Genre": "Sport",
+      "Director": "Kevin Dunn",
+      "Writer": "John Carle, Christopher DeJoseph",
+      "Actors": "Paul Levesque, Adam Copeland, John Cena",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "WWE Hell in a Cell",
       "netflix_url": "https://www.netflix.com/title/81929854",
       "year": "2022",
@@ -3360,6 +3445,23 @@
       "Country": "N/A"
     },
     {
+      "title": "WWE Insurrextion",
+      "netflix_url": "https://www.netflix.com/title/81930090",
+      "year": "2003",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0406324",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwMTU2NjA2Nl5BMl5BanBnXkFtZTcwMjA2NzY4MQ@@._V1_SX300.jpg",
+      "Plot": "Intercontinental title: Christian vs Booker T. Womans Title: Jazz vs Trish. World Tag Title: RVD and Kane vs La Resistance. Goldust vs Rico. World Title Street Fight: HHH vs Kevin Nash.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Action, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paul Levesque, Ric Flair, Kevin Nash",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "WWE Survivor Series",
       "netflix_url": "https://www.netflix.com/title/81930099",
       "year": "2024",
@@ -3418,6 +3520,23 @@
       "Country": "United States"
     },
     {
+      "title": "WWE Cyber Sunday",
+      "netflix_url": "https://www.netflix.com/title/81930366",
+      "year": "2008",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1305557",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQwMjE5ODMtMGM1YS00NDliLTgwNTMtYjc1MmY2OTc1MWJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "US title match: R-truth vs Shelton Benjamin. No DQ: Mysterio vs Kane. ECW title match: Matt Hardy vs Even Bourne. Last man standing match: Big Show vs Undertaker.WWE title match: HHH vs Jeff Hardy. World title match: Y2J vs Batista.",
+      "Type": "movie",
+      "RunTime": "180 min",
+      "Genre": "Sport",
+      "Director": "Kevin Dunn",
+      "Writer": "John Carle, Christopher DeJoseph",
+      "Actors": "Dave Bautista, Chris Jericho, Steve Austin",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "WWE Super Show-Down",
       "netflix_url": "https://www.netflix.com/title/81930373",
       "year": "2020",
@@ -3431,6 +3550,40 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Windham Rotunda, Bill Goldberg, Brock Lesnar",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "WWE Rebellion",
+      "netflix_url": "https://www.netflix.com/title/81930380",
+      "year": "2002",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt0406327",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjdiYWY2MDUtYjJmMS00NjgxLWFiNzAtNzBkZTczMGFiMmJiXkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_SX300.jpg",
+      "Plot": "One of WWE's final pay-per-views in the United Kingdom, took place in Manchester, England on October 26, 2002 at the Manchester Evening News Arena. Opening the show was Stephanie McMahon, proudly presenting the first Smackdown-onl...",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Action",
+      "Director": "Kevin Dunn",
+      "Writer": "N/A",
+      "Actors": "Kurt Angle, Chris Benoit, Matt Bloom",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
+      "title": "WWE New Year's Revolution",
+      "netflix_url": "https://www.netflix.com/title/81930389",
+      "year": "2007",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0918640",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTUyOTIxMDUzNF5BMl5BanBnXkFtZTcwMjU0Njc0MQ@@._V1_SX300.jpg",
+      "Plot": "Intercontinental title cage match: Jeff Hardy vs Johnny Nitro. Woman's title match: Mickie James vs Victoria. World tag title match: Rated RKO vs DX. WWE title match: John Cena vs Umaga.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Sport",
+      "Director": "Kevin Dunn",
+      "Writer": "Christopher DeJoseph, Brian Gewirtz, Alex Greenfield",
+      "Actors": "John Cena, Eddie Fatu, Randy Orton",
       "Language": "English",
       "Country": "United States"
     },
@@ -3469,6 +3622,13 @@
       "Country": "United States"
     },
     {
+      "title": "WWE Over the Edge",
+      "netflix_url": "https://www.netflix.com/title/81930533",
+      "year": "1999",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "WWE Bad Blood",
       "netflix_url": "https://www.netflix.com/title/81930559",
       "year": "2024",
@@ -3484,6 +3644,23 @@
       "Actors": "CM Punk, Drew McIntyre, Cody Rhodes",
       "Language": "English",
       "Country": "N/A"
+    },
+    {
+      "title": "WWE Taboo Tuesday",
+      "netflix_url": "https://www.netflix.com/title/81930575",
+      "year": "2005",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0457197",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmEyZmI4NDAtYWIzOS00OTk2LWE1N2YtYzVkOGVjYzQ3Nzk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "John Cena (c) vs Kurt Angle vs Shawn Michaels, Batista vs The Coach, Lance Cade (c) and Trevor Murdoch (c) vs Kane and Big Show, Matt Hardy and Rey Mysterio vs Snitsky and Chris Masters, Trish Stratus (c) vs Maria vs Mickie James ...",
+      "Type": "movie",
+      "RunTime": "180 min",
+      "Genre": "Sport",
+      "Director": "Kevin Dunn",
+      "Writer": "Court Bauer, Christopher DeJoseph, Brian Gewirtz",
+      "Actors": "John Cena, Kurt Angle, Shawn Michaels",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "WWE Bragging Rights",
@@ -3811,6 +3988,13 @@
       "title": "Sandokan: The Pirate Prince",
       "netflix_url": "https://www.netflix.com/title/81987085",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "WWE Raw Vault",
+      "netflix_url": "https://www.netflix.com/title/81990480",
+      "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
     },

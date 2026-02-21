@@ -1174,6 +1174,13 @@
       "imdb_id": null
     },
     {
+      "title": "Queen of Chess",
+      "netflix_url": "https://www.netflix.com/title/81749912",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "30 for 30: Deion's Double Play",
       "netflix_url": "https://www.netflix.com/title/81752193",
       "year": "2019",
@@ -1306,6 +1313,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Koshien: Japan’s Field of Dreams",
+      "netflix_url": "https://www.netflix.com/title/82667075",
+      "year": "2019",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt9125542",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDFiN2QwOWQtOWFkZS00YzcxLTk1M2MtMDkwZTI3M2FmMTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Filmmaker Ema Ryan Yamazaki follows a coach and his team as they try to win Japan's national high school baseball championship.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Ema Ryan Yamazaki",
+      "Writer": "N/A",
+      "Actors": "Kaoru Kashiwagi, Yusei Kikuchi, Ito Kouno",
+      "Language": "Japanese",
+      "Country": "United States, Japan"
     }
   ]
 }

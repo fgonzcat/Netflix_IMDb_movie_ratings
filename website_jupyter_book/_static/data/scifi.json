@@ -989,6 +989,23 @@
       "Country": "Germany"
     },
     {
+      "title": "Colossal",
+      "netflix_url": "https://www.netflix.com/title/80158202",
+      "year": "2016",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt4680182",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_SX300.jpg",
+      "Plot": "Gloria is an out-of-work party girl forced to leave her life in New York City and move back home. When reports surface that a giant creature is destroying Seoul, she gradually comes to the realization that she is somehow connected...",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Nacho Vigalondo",
+      "Writer": "Nacho Vigalondo",
+      "Actors": "Anne Hathaway, Jason Sudeikis, Austin Stowell",
+      "Language": "English, Korean",
+      "Country": "United States, Spain, Canada, South Korea"
+    },
+    {
       "title": "Alibaba Aur 40 Chor",
       "netflix_url": "https://www.netflix.com/title/80158543",
       "year": "1980",
@@ -1140,6 +1157,23 @@
       "Actors": "Neels Clasen, Edgar Ramírez, Tony Caprari",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Archive",
+      "netflix_url": "https://www.netflix.com/title/80203869",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt6882604",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjMxZjkxNjctNzFkOS00NjhhLWIxODUtMTdhZWQ1OGY5YzVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "2038: George Almore is working on a true human-equivalent AI. His latest prototype is almost ready. This sensitive phase is also the riskiest. Especially as he has a goal that must be hidden at all costs.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "Gavin Rothery",
+      "Writer": "Gavin Rothery",
+      "Actors": "Theo James, Stacy Martin, Rhona Mitra",
+      "Language": "English, Japanese, French",
+      "Country": "United Kingdom, Hungary, United States"
     },
     {
       "title": "Project Power",
@@ -1691,6 +1725,23 @@
       "Actors": "Jennifer Lopez, Simu Liu, Sterling K. Brown",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Sol Levante",
+      "netflix_url": "https://www.netflix.com/title/81017017",
+      "year": "2020",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt12079068",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ExYjA0MjEtYjgyYS00YTA0LWI2NWQtNDE2MjFlZmRkOWY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young warrior leaves in search of the sacred place which is said to grant wishes. Better not to stir the wrath of the ancient guardian spirits.",
+      "Type": "movie",
+      "RunTime": "4 min",
+      "Genre": "Animation, Short, Action",
+      "Director": "Akira Saitou",
+      "Writer": "Akira Saitou",
+      "Actors": "N/A",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Cities of Last Things",
@@ -2969,6 +3020,23 @@
       "Country": "Canada, United States"
     },
     {
+      "title": "Mayday",
+      "netflix_url": "https://www.netflix.com/title/81481587",
+      "year": "2021",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt11271800",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQzNWQxYTQtOTZjOS00NTU4LWJjZjMtY2ViZmU4NTZhYjIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ana is transported to a dreamlike and dangerous land where she joins an army of girls engaged in a never-ending war. Though she finds strength in this exhilarating world, she realizes that she's not the killer they want her to be.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Fantasy, Mystery",
+      "Director": "Karen Cinorre",
+      "Writer": "Karen Cinorre",
+      "Actors": "Grace Van Patten, Mia Goth, Soko",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Witcher: Sirens of the Deep",
       "netflix_url": "https://www.netflix.com/title/81484026",
       "year": "2025",
@@ -3185,6 +3253,13 @@
       "Actors": "Freya Allan, Yasen Zates Atour, Kim Bodnia",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Nightmare of the Wolf Bestiary",
+      "netflix_url": "https://www.netflix.com/title/81557435",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Kitchen",

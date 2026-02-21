@@ -428,6 +428,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Gunman",
+      "netflix_url": "https://www.netflix.com/title/80014852",
+      "year": "2015",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt2515034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NTYzMDAxOF5BMl5BanBnXkFtZTgwNjY3NzMwNDE@._V1_SX300.jpg",
+      "Plot": "A sniper on a mercenary assassination team kills the minister of mines in the Democratic Republic of the Congo. His kill shot forces him into hiding. After returning to the Congo years later, he becomes the target of a hit squad h...",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Action, Crime, Mystery",
+      "Director": "Pierre Morel",
+      "Writer": "Jean-Patrick Manchette, Don MacPherson, Pete Travis",
+      "Actors": "Sean Penn, Idris Elba, Jasmine Trinca",
+      "Language": "English, Spanish",
+      "Country": "United States, Spain, United Kingdom, France"
+    },
+    {
       "title": "Happy New Year",
       "netflix_url": "https://www.netflix.com/title/80017528",
       "year": "2014",
@@ -460,6 +477,23 @@
       "Actors": "Ranveer Singh, Ali Zafar, Parineeti Chopra",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Free Fire",
+      "netflix_url": "https://www.netflix.com/title/80091310",
+      "year": "2016",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt4158096",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTk5MzJhNjItZTRlOC00YWRlLTgyYmUtZmZhZjA0NmFmNjE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in Boston in 1978, a meeting in a deserted warehouse between two gangs turns into a shoot-out and a game of survival.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Ben Wheatley",
+      "Writer": "Amy Jump, Ben Wheatley",
+      "Actors": "Sharlto Copley, Brie Larson, Armie Hammer",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Headshot",
@@ -1731,6 +1765,13 @@
       "Country": "India"
     },
     {
+      "title": "Etharkkum Thunindhavan (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81508717",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Kuttey",
       "netflix_url": "https://www.netflix.com/title/81508740",
       "year": "2023",
@@ -2702,6 +2743,23 @@
       "Country": "Malaysia, Singapore"
     },
     {
+      "title": "The Orphans",
+      "netflix_url": "https://www.netflix.com/title/81754057",
+      "year": "2026",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0012532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM1ZmM5NWUtYmNlNy00ODcyLWFmNDQtMWI0Y2NmOGI4YzQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two orphaned sisters are caught up in the turmoil of the French Revolution, encountering misery and love along the way.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Drama, History, Romance",
+      "Director": "D.W. Griffith",
+      "Writer": "Adolphe d'Ennery, Eugène Cormon, D.W. Griffith",
+      "Actors": "Lillian Gish, Dorothy Gish, Joseph Schildkraut",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "13 Bombs",
       "netflix_url": "https://www.netflix.com/title/81755774",
       "year": "2023",
@@ -2717,6 +2775,23 @@
       "Actors": "Ardhito Pramono, Lutesha, Chicco Kurniawan",
       "Language": "Indonesian",
       "Country": "Indonesia, South Korea"
+    },
+    {
+      "title": "State of Fear",
+      "netflix_url": "https://www.netflix.com/title/81758092",
+      "year": "2026",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0485046",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODk4MzI5NF5BMl5BanBnXkFtZTcwMjQ2MzYzMQ@@._V1_SX300.jpg",
+      "Plot": "State of Fear dramatizes the human and societal costs a democracy faces when it embarks on a war against terror, a war potentially without end, all too easily exploited by unscrupulous leaders seeking personal political gain.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Pamela Yates",
+      "Writer": "Peter Kinoy, Pamela Yates, Paco de Onis",
+      "Actors": "N/A",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Bad Boys: Ride or Die",
