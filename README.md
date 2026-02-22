@@ -1,6 +1,6 @@
 # Netflix Movies with Best IMDb Ratings 🎬⭐
 
-![QRcode](QR.png)
+![QRcode](QR_website.png)
 
 
 > [!IMPORTANT]  
