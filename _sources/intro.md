@@ -17,6 +17,8 @@ See [Best IMDb-Rated Movies on Netflix](best_imdb_rated_movies_on_netflix.md)
 :::
 
 
+![QRcode](QR_website.png)
+
 ## Explore
 
 <!-- Clickable grid cards that lead to a random category  -->
