@@ -1608,7 +1608,7 @@
       "title": "Youth v Gov",
       "netflix_url": "https://www.netflix.com/title/81586492",
       "year": "2020",
-      "imdb_rating": "9.6",
+      "imdb_rating": "6.3",
       "imdb_id": "tt13192640",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTA0NjVkMTUtZmMwYy00N2NjLTg4ZjQtZjVlZmU3NWM0NDM1XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Directed by filmmaker and scientist Christi Cooper, YOUTH v. GOV is the story of America's youth taking on the world's most powerful government. In 2015, twenty one young plaintiffs, ages 8 to 19, filed the lawsuit Juliana vs. Uni...",
@@ -1768,8 +1768,18 @@
       "title": "The Investigation of Lucy Letby",
       "netflix_url": "https://www.netflix.com/title/81719673",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.4",
+      "imdb_id": "tt39389929",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDY0OTE1NTctMjNmOS00MjQ0LThiYTEtM2I5MDdjNzFmNWVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Unseen footage and unheard insider accounts reveal the harrowing and divisive Case of Lucy Letby, the neonatal nurse convicted of fatally harming infants.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Dominic Sivyer",
+      "Writer": "N/A",
+      "Actors": "Lucy Letby, Danielle Stonier, Sarah",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Critical: Between Life and Death",
@@ -1877,8 +1887,18 @@
       "title": "Mark Rober's CrunchLabs",
       "netflix_url": "https://www.netflix.com/title/82191481",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt39053780",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWIzYzlmMGUtMmViZi00MjJhLTkwYmUtMTk3YzUxZjNkMjQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Welcome to CrunchLabs, where ex-NASA engineer and YouTuber Mark Rober explores scientific challenges that test the boundaries of creativity.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mark Rober",
+      "Language": "English",
+      "Country": "United States"
     }
   ]
 }
