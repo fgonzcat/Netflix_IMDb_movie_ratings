@@ -57,7 +57,7 @@ Interpretation
 
   <label>
     ⭐ Min IMDb rating:
-    <input id="rating" type="number" step="0.1" value="6" style="width:4em;">
+    <input id="rating" type="number" step="0.1" value="1" style="width:4em;">
   </label>
 
   <label>

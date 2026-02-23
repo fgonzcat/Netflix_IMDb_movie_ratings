@@ -236,6 +236,23 @@
       "imdb_id": null
     },
     {
+      "title": "Cooked",
+      "netflix_url": "https://www.netflix.com/title/80022456",
+      "year": "2016",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt5347906",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWYzYWRjOWItNTljOC00MTk0LTk0NWEtMGU1N2JjZmFjY2UyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As he tries his hand at baking, brewing and braising, acclaimed food writer Michael Pollan explores how cooking transforms food and shapes our world.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Michael Pollan",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Meru",
       "netflix_url": "https://www.netflix.com/title/80039641",
       "year": "2015",
@@ -319,6 +336,23 @@
       "Actors": "David Attenborough",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "Counterpunch",
+      "netflix_url": "https://www.netflix.com/title/80049873",
+      "year": "2017",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt7022034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q5ZTViN2ItNDRlOS00MjE1LWI1ODctNjFhNjI2MzM5NWZlXkEyXkFqcGdeQXVyNjc4Nzk3NzU@._V1_SX300.jpg",
+      "Plot": "The seasoned pro. The Olympic hopeful. The young up-and-comer. The ring is their home, and the titles are their dream. As boxing' popularity wanes, three fighters at different stages of their career make sacrifices to pursue their...",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Jay Bulger",
+      "Writer": "Jay Bulger",
+      "Actors": "Oscar De La Hoya, David Diamante, Bernard Hopkins",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Five Came Back",
@@ -1899,6 +1933,23 @@
       "Country": "United States"
     },
     {
+      "title": "Grass Is Greener",
+      "netflix_url": "https://www.netflix.com/title/80213712",
+      "year": "2019",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt10050782",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjk4YTdiYjItYjU4Yi00ZGMzLTllYjktYTVlZGZmNjcyYzk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look at America's complicated relationship with cannabis.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary",
+      "Director": "Fab 5 Freddy",
+      "Writer": "N/A",
+      "Actors": "Harry J. Anslinger, Louis Armstrong, B-Real",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
       "title": "Life on Our Planet",
       "netflix_url": "https://www.netflix.com/title/80213846",
       "year": "2023",
@@ -3161,6 +3212,30 @@
       "Country": "United States"
     },
     {
+      "title": "Untold: Deal With the Devil",
+      "netflix_url": "https://www.netflix.com/title/81026437",
+      "year": "2021",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt15085794",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODM5M2FlNDEtYTE2OC00ODM5LTg1NmEtNzI3M2RkNDA1YzRlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+      "Plot": "Christy Martin broke boundaries and noses as she rose in the boxing world, but her public persona belied personal demons, abuse and a threat on her life.",
+      "Type": "movie",
+      "RunTime": "77 min",
+      "Genre": "Documentary, Crime, Sport",
+      "Director": "Laura Brownson",
+      "Writer": "N/A",
+      "Actors": "Christy Martin, Joyce Salters, Johnny Salters",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Untold: Crime & Penalties",
+      "netflix_url": "https://www.netflix.com/title/81026438",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Untold: Malice at the Palace",
       "netflix_url": "https://www.netflix.com/title/81026439",
       "year": "2021",
@@ -3988,6 +4063,23 @@
       "Country": "United States"
     },
     {
+      "title": "Sue Perkins: Perfectly Legal",
+      "netflix_url": "https://www.netflix.com/title/81087300",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt22171778",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWMzZWY1NzAtNDI0Ni00NTYwLWFlZmQtZjVmZmE4YmI0NDg3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sue Perkins confronts middle age by experiencing Latin American countries in adventurous, shockingly legal and sometimes dangerous ways.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Sue Perkins",
+      "Language": "English, Spanish",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "I AM A STALKER",
       "netflix_url": "https://www.netflix.com/title/81087537",
       "year": "2022",
@@ -4369,6 +4461,13 @@
       "Country": "United States"
     },
     {
+      "title": "Midnight Asia: Eat · Dance · Dream",
+      "netflix_url": "https://www.netflix.com/title/81134160",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "A Kidnapping Scandal: The Florence Cassez Affair",
       "netflix_url": "https://www.netflix.com/title/81134165",
       "year": "2022",
@@ -4486,6 +4585,23 @@
       "Actors": "Michel Halaby, Gerardo Candamil, Daniel Candamil",
       "Language": "Spanish",
       "Country": "Colombia"
+    },
+    {
+      "title": "The Indrani Mukerjea Story: Buried Truth",
+      "netflix_url": "https://www.netflix.com/title/81150989",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt31069611",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA5YWZhZjEtMmU5Ny00Nzg2LWFhNTUtMzIyMjZhYmFhMDNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "With new revelations and access, this docuseries investigates the disappearance of 25-year-old Sheena Bora. It reveals the shocking aftermath.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Anurita Jha, Vivek Kumar, Samaksh Sudi",
+      "Language": "N/A",
+      "Country": "India"
     },
     {
       "title": "Tour de France: Unchained",
@@ -5495,6 +5611,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Where is Marta?",
+      "netflix_url": "https://www.netflix.com/title/81306172",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt15796898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2NjA0MGUtODMxMy00N2Y0LTkzYTktYmIzZmVkOGI4MzllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Teenager Marta del Castillo's disappearance made headlines in Spain. Family, friends, police and more weigh in on a case that is still unresolved.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Honey Lauren, Frank Gerrish",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "The Billionaire, The Butler, and the Boyfriend",
       "netflix_url": "https://www.netflix.com/title/81306326",
       "year": "2023",
@@ -6061,6 +6194,23 @@
       "Actors": "Sarah Snook",
       "Language": "English",
       "Country": "United States, Australia"
+    },
+    {
+      "title": "The Great Robbery of Brazil's Central Bank",
+      "netflix_url": "https://www.netflix.com/title/81374470",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt18274172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg1YzM2ZjYtMWRmNC00YTYyLWJmZmUtOWYyZjgyOGU4YmEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2005, thieves tunnel into a Fortaleza, Brazil, bank vault and steal over 160 million reais. This docuseries explores that spectacular, historical heist.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mark Lewis",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Ghislaine Maxwell: Filthy Rich",
@@ -7151,6 +7301,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "The Greatest Rivalry: India vs Pakistan",
+      "netflix_url": "https://www.netflix.com/title/81500800",
+      "year": "2025",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt31561351",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZiNTM0OTktNTI5YS00OTE4LTkzNjYtN2E2MWEwYWMwYjJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tracing the cricketing rivalry between India and Pakistan, this documentary series explores their intricate past and uncertain present on the pitch.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Virender Sehwag, Sourav Ganguly, Sunil Gavaskar",
+      "Language": "Hindi, Urdu, English",
+      "Country": "India"
+    },
+    {
       "title": "A Life Too Short: The Isabella Nardoni Case",
       "netflix_url": "https://www.netflix.com/title/81506051",
       "year": "2023",
@@ -7285,6 +7452,23 @@
       "Actors": "Lio, Richard Kolinka, Anne-Sophie Jahn",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "The Yara Gambirasio Case: Beyond Reasonable Doubt",
+      "netflix_url": "https://www.netflix.com/title/81519400",
+      "year": "2024",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt32843606",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI1ODhkM2QtODc1OC00OTg3LWEyNWMtODhjYjg0OTE0NDRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This docuseries digs into the disappearance of 13-year-old Yara and the disconcerting investigation that shattered the peace of a small Italian town.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "Gianluca Neri",
+      "Actors": "Marita Comi, Marco Oliva, Paola Abrate",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "Murdaugh Murders: A Southern Scandal",
@@ -7973,6 +8157,23 @@
       "Actors": "Benita Alexander-Noel, Karl-Henrik Grinnemo, Oscar Simonson",
       "Language": "English, Italian",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "A Nation of Broth",
+      "netflix_url": "https://www.netflix.com/title/81607869",
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt21443848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWE4NzJhMDMtMTVmNi00OTIyLWFkODItZTdiMDc1MTA4MGY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A documentary series about the importance of broth in Korean cuisine. A warm bowl of broth is essential after a long day to Koreans, as a meal without broth is unimaginable.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ryu Soo-young, Huh Young-Man, Yonji Ham",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Moonage Daydream",
@@ -8993,6 +9194,13 @@
       "Country": "Germany"
     },
     {
+      "title": "A Nation of Banchan",
+      "netflix_url": "https://www.netflix.com/title/81686705",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "A Nation of Kimchi",
       "netflix_url": "https://www.netflix.com/title/81686735",
       "year": "2023",
@@ -9127,6 +9335,23 @@
       "Actors": "N/A",
       "Language": "Spanish",
       "Country": "Argentina"
+    },
+    {
+      "title": "UniverXO Dabiz",
+      "netflix_url": "https://www.netflix.com/title/81700335",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34682889",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dabiz Muñoz",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Full Speed",
@@ -9340,6 +9565,40 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Off Road",
+      "netflix_url": "https://www.netflix.com/title/81710508",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35677750",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA1ZDA1NzAtZmU1Yy00YWE4LWE2ODUtNzI3ODk3MzljNWM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Thriller",
+      "Director": "Shaji Stephan",
+      "Writer": "Shaji Stephan",
+      "Actors": "Niyas Backer, Harikrishnan, Josekutty Jacob",
+      "Language": "N/A",
+      "Country": "India"
+    },
+    {
+      "title": "Cooking Up Murder: Uncovering the Story of César Román",
+      "netflix_url": "https://www.netflix.com/title/81711038",
+      "year": "2024",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt32097426",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODhiNTgxMzMtYzk0NS00NDFjLTkwYzAtMGExNjRmYWVjYjc4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A documentary series that looks at the murder case against chef César Román.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dani Rojo, Gloria Frances Bulnes, Antonio Sánchez",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "All the Sharks",
       "netflix_url": "https://www.netflix.com/title/81711583",
       "year": "2025",
@@ -9354,6 +9613,23 @@
       "Writer": "N/A",
       "Actors": "N/A",
       "Language": "N/A",
+      "Country": "United States"
+    },
+    {
+      "title": "Chef's Table: Noodles",
+      "netflix_url": "https://www.netflix.com/title/81711982",
+      "year": "2024",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt33323674",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ3Y2NiZjItOTlhOS00ZTdiLThkMGEtMThiNDEyOGFjMjBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four masterful chefs explore noodles' rich, diverse world, delving into traditional and innovative techniques. Immerse yourself in the delectable journey.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Frank Gerrish, Guirong Wei, Evan Funke",
+      "Language": "English",
       "Country": "United States"
     },
     {
@@ -10080,6 +10356,30 @@
       "Actors": "Jeremy Filosa, Ménick, Rodger Brulotte",
       "Language": "French",
       "Country": "Canada"
+    },
+    {
+      "title": "Jjajangmyeon Rhapsody",
+      "netflix_url": "https://www.netflix.com/title/81749227",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Korean Fried Chicken Rhapsody",
+      "netflix_url": "https://www.netflix.com/title/81749231",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32563380",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paik Jong-won",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Victoria Beckham",
@@ -11073,6 +11373,30 @@
       "imdb_id": null
     },
     {
+      "title": "A Nation of Tteok",
+      "netflix_url": "https://www.netflix.com/title/81983310",
+      "year": "2025",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt38624521",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ryu Soo-young, Huh Young-Man, Mimi",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Soju Rhapsody",
+      "netflix_url": "https://www.netflix.com/title/81983316",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Miracle: The Boys of '80",
       "netflix_url": "https://www.netflix.com/title/81995302",
       "year": "2026",
@@ -11463,6 +11787,13 @@
       "Actors": "George Clooney, Laura Dern, Adam Sandler",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "K for Kimbap",
+      "netflix_url": "https://www.netflix.com/title/82137305",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Cover-Up",

@@ -145,7 +145,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9994" target="_blan
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Merry Christmas (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81713401" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Merry Christmas (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81713665" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*ManSuang*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81720538" target="_blank">Netflix_link</a> |
-| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Firebreak*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81744440" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BNmVjMmQ0OWEtNDI5Ni00ZGQ3LTkxNDUtZjg1NzY5ZTIwZmUwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Firebreak*</strong></summary>  <div class="movie-plot">Join the FBC: Firebreak development team as they give you, the community, a first look at what the game is about and what their inspirations for FBC: Firebreak have been.</div> </details> | <a href="https://www.imdb.com/title/tt38353143/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81744440" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*The Redemption of Sin*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82018121" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNWM4NmFiYzgtOTYzNy00ZmQ3LWI2NzEtYWYwNWNkY2FkY2Y5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Dendam Malam Kelam*</strong></summary>  <div class="movie-plot">Jefri and Sarah, a couple who are having an affair. The two of them have to desperately create an alibi after Sofia, Jefri's legal wife, is killed and her body disappears.</div> </details> | <a href="https://www.imdb.com/title/tt36553769/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82057593" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*STEPHEN*</strong></summary>  <div class="movie-plot">Stephen's boyfriend recommends an ideal spot for raving, but the party holds unexpected surprises.</div> </details> | <a href="https://www.imdb.com/title/tt35838090/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82057638" target="_blank">Netflix_link</a> |
@@ -189,6 +189,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9994" target="_blan
 
  
 ---
-*Page last updated on: 2026-02-20*
+*Page last updated on: 2026-02-23*
 
  

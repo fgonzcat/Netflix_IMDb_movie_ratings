@@ -256,7 +256,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/10673" target="_bla
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Sandokan: The Pirate Prince*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81987085" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*WWE Raw Vault*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81990480" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Kurukshetra: The Great War of Mahabharata*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82063102" target="_blank">Netflix_link</a> |
-| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Matori & Kyoken Men in the Back Alleys*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82113726" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Matori & Kyoken Men in the Back Alleys*</strong></summary>  <div class="movie-plot">A former child star turns double agent for competing drug enforcement groups following a fatal event at a Roppongi nightclub in Tokyo's underworld.</div> </details> | <a href="https://www.imdb.com/title/tt39375415/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82113726" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Raw Weekly Recap*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82666777" target="_blank">Netflix_link</a> |
 
  
@@ -296,6 +296,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/10673" target="_bla
 
  
 ---
-*Page last updated on: 2026-02-20*
+*Page last updated on: 2026-02-23*
 
  

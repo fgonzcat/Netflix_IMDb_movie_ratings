@@ -1261,6 +1261,23 @@
       "Country": "India"
     },
     {
+      "title": "The Expendables 3",
+      "netflix_url": "https://www.netflix.com/title/70307662",
+      "year": "2014",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt2333784",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_SX300.jpg",
+      "Plot": "Barney augments his team with new blood for a personal battle: to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Patrick Hughes",
+      "Writer": "Sylvester Stallone, Creighton Rothenberger, Katrin Benedikt",
+      "Actors": "Sylvester Stallone, Jason Statham, Jet Li",
+      "Language": "English, Romanian, Spanish",
+      "Country": "United States, France, Germany, Bulgaria"
+    },
+    {
       "title": "Moonraker",
       "netflix_url": "https://www.netflix.com/title/772447",
       "year": "1979",
@@ -4041,6 +4058,23 @@
       "Country": "France"
     },
     {
+      "title": "Robbing Mussolini",
+      "netflix_url": "https://www.netflix.com/title/81256747",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt14270848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzczOTI1OTItYzAwNS00MDVhLWIwMzMtODE3MWEwMjJmODZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Milanese wartime entrepreneur forms a band of misfits and rogues to stage an elaborate heist of a legendary treasure belonging to Benito Mussolini.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Renato De Maria",
+      "Writer": "Renato De Maria",
+      "Actors": "Pietro Castellitto, Matilda De Angelis, Tommaso Ragno",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "The Seven Deadly Sins: Cursed by Light",
       "netflix_url": "https://www.netflix.com/title/81263946",
       "year": "2021",
@@ -6634,8 +6668,18 @@
       "title": "Pretty Guardian Sailor Moon Cosmos The Movie",
       "netflix_url": "https://www.netflix.com/title/81732000",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39318020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTZkZTNhMWEtMTRkYi00M2UxLWFjYTUtYWI0N2I1YzE1MWMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "81 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tomoya Takahashi",
+      "Writer": "Naoko Takeuchi, Kazuyuki Fudeyasu",
+      "Actors": "Ai Maeda, Ami Koshimizu, Hisako Kanemoto",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "PAW Patrol: The Mighty Movie",
@@ -7043,8 +7087,18 @@
       "title": "A Time For Bravery",
       "netflix_url": "https://www.netflix.com/title/81937233",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.2",
+      "imdb_id": "tt37961727",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE5MzFlZTItMzZkMC00MTkwLWIwMDMtYmExYjdhYWFiNzJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A psychoanalyst is sentenced to community service following a traffic accident and is assigned to provide therapeutic support to a police agent devastated by his wife's infidelity. The two will face unimaginable dangers together.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Comedy, Crime",
+      "Director": "Ariel Winograd",
+      "Writer": "El Huevo Charlie Barrientos, Damián Szifron",
+      "Actors": "Luis Gerardo Méndez, Memo Villegas, Christian Tappan",
+      "Language": "Spanish",
+      "Country": "Mexico, Argentina"
     },
     {
       "title": "Kill 'Em All 2",
@@ -7084,8 +7138,18 @@
       "title": "The Fakenapping",
       "netflix_url": "https://www.netflix.com/title/81946208",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.3",
+      "imdb_id": "tt38938597",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjI2N2YwNjYtNzlmZS00MzAyLWI1YjktOTNkODY0NDA0YTg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Failed entrepreneur and struggling dad Sattam finds himself tangled in a madcap scheme when he decides to repay his debts - by kidnapping his own father.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Comedy",
+      "Director": "Amine Lakhnech",
+      "Writer": "Abdulaziz Alessa, Ahmed Amer",
+      "Actors": "Abdullah AlDaris, Mohammed Aldokhei, Saeed Alewiran",
+      "Language": "Arabic",
+      "Country": "Saudi Arabia"
     },
     {
       "title": "RRR: Behind & Beyond",

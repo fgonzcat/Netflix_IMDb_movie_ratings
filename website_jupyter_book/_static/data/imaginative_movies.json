@@ -2606,6 +2606,13 @@
       "Country": "Japan"
     },
     {
+      "title": "Chhota Bheem: The Rise of Kirmada",
+      "netflix_url": "https://www.netflix.com/title/81450432",
+      "year": "2012",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Once Upon a Crime",
       "netflix_url": "https://www.netflix.com/title/81450775",
       "year": "2023",
@@ -3392,8 +3399,18 @@
       "title": "Pretty Guardian Sailor Moon Cosmos The Movie",
       "netflix_url": "https://www.netflix.com/title/81732000",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39318020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTZkZTNhMWEtMTRkYi00M2UxLWFjYTUtYWI0N2I1YzE1MWMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "81 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tomoya Takahashi",
+      "Writer": "Naoko Takeuchi, Kazuyuki Fudeyasu",
+      "Actors": "Ai Maeda, Ami Koshimizu, Hisako Kanemoto",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "The Missing",
@@ -3474,8 +3491,18 @@
       "title": "Cosmic Princess Kaguya!",
       "netflix_url": "https://www.netflix.com/title/81756595",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt38872297",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjY1OTAwNmUtYjY3Ny00MTFjLTk5MDctZmNiNTYwZTAyOWE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "17-year-old Iroha leads a busy life juggling school and part-time work. Enter Kaguya, a mysterious girl from the moon who crash-lands into her life.",
+      "Type": "movie",
+      "RunTime": "143 min",
+      "Genre": "Animation, Drama, Fantasy",
+      "Director": "Shingo Yamashita",
+      "Writer": "Saeri Natsuo, Shingo Yamashita",
+      "Actors": "Yuko Natsuyoshi, Anna Nagase, Saori Hayami",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Yesterday After Tomorrow",

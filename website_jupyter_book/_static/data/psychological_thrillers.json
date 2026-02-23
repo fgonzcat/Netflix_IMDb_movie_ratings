@@ -615,6 +615,23 @@
       "Country": "Spain"
     },
     {
+      "title": "10x10",
+      "netflix_url": "https://www.netflix.com/title/80988902",
+      "year": "2018",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt6210996",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc1MTk3NDIzOF5BMl5BanBnXkFtZTgwNzUxNDIyNTM@._V1_SX300.jpg",
+      "Plot": "A man abducts a flower shop owner and holds her captive in a small, soundproof room in an effort to extract a dark secret from her past.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Suzi Ewing",
+      "Writer": "Noel Clarke, Suzi Ewing",
+      "Actors": "Kelly Reilly, Luke Evans, Jill Winternitz",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "The Legacy of the Bones",
       "netflix_url": "https://www.netflix.com/title/80990327",
       "year": "2019",
