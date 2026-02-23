@@ -9,3 +9,5 @@ do
   echo "./scripts/json_to_md.py  $json > $md"
   ./scripts/json_to_md.py  $json >  $md
 done
+
+./scripts/json_to_md.py website_jupyter_book/_static/data/best.json  > website_jupyter_book/best.md

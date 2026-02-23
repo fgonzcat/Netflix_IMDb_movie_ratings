@@ -45,3 +45,9 @@ echo "$FILTERED_MOVIES" | jq \
   }' \
   > "${REPO_ROOT}/website_jupyter_book/_static/data/best.json"
 
+echo -e "\nFINISHED"
+echo "Updated $genre"
+echo ""
+echo "📝 Reminder: update the corresponding Markdown file:"
+MD_FILE="$REPO_ROOT/website_jupyter_book/${genre}.md"
+echo "./scripts/json_to_md.py  website_jupyter_book/_static/data/best.json   >   ${MD_FILE#$REPO_ROOT/}"    # ${VAR#PREFIX} removes PREFIX from the start of VAR, if it's there. 

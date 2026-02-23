@@ -363,6 +363,7 @@ while IFS=$'\t' read -r title year url; do
     Plot=$(echo "$json" | jq -r '.Plot  // empty')
     Type=$(echo "$json" | jq -r '.Type  // empty')
     Title=$(echo "$json" | jq -r '.Title // empty')
+    Released=$(echo "$json" | jq -r '.Released // empty' | awk '{print $NF}')
     RunTime=$(echo "$json" | jq -r '.Runtime // empty')
     Genre=$(echo "$json" | jq -r '.Genre // empty')
     Director=$(echo "$json" | jq -r '.Director // empty')
@@ -371,6 +372,7 @@ while IFS=$'\t' read -r title year url; do
     Language=$(echo "$json" | jq -r '.Language // empty')
     Country=$(echo "$json" | jq -r '.Country // empty')
     omdbError=$(echo "$json" | jq -r '.Error // empty')
+
     if [[ "$Country" == *USA* ]]; then  Country=$(echo "$Country" | sed 's/USA/United States/g'); fi
 
     # Normalize Titles: First, let's check whether the title from Netflix ($title) is the same I found in OMDb after the search ($Title)
@@ -384,7 +386,7 @@ while IFS=$'\t' read -r title year url; do
     #===================================#
     #        ERROR & MISMATCH           #
     #===================================#
-    if [[ -n "$omdbError" ]] || [[ -n "$Title" && "$norm_title" != "$norm_omdb_title" ]]; then
+    if [[ -n "$omdbError" ]] || [[ -n "$Title" && "$norm_title" != "$norm_omdb_title" ]] || [[ -n "$Released" && "$Released" != "$year" ]]; then
       if [[ "$omdbError"  == *limit* ]]; then
        echo "⚠️  OMDb rate limit reached — skipping $title" >&2
        #continue
@@ -421,7 +423,7 @@ while IFS=$'\t' read -r title year url; do
       # Let's look more carefylly inside the list of the $omdb_url search:
       search=$(curl -s "$omdb_url" )   # All search results in a json list: {"Search":[{"Title":"...},...,{"Title":...} ] }
       if ! echo "$search" | jq -e '.Response=="True"' >/dev/null; then
-        echo "OMDb search failed" >&2
+        echo "OMDb search failed for '$title'" >&2
         exit 1
       fi
       search_array=$(echo "$search" | jq -c '.Search // empty')
