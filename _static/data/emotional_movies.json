@@ -20,6 +20,40 @@
       "Country": "United States"
     },
     {
+      "title": "Lamhe",
+      "netflix_url": "https://www.netflix.com/title/20078212",
+      "year": "1991",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0102258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQyMzQzYWEtNzMwYi00ODRjLWJjODYtNmU1MDA1MmNjNGE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Yash Chopra's most cherished film with soul stirring music is a story of moments - moments of passion, of ecstasy and of life changing love.",
+      "Type": "movie",
+      "RunTime": "187 min",
+      "Genre": "Drama, Musical, Romance",
+      "Director": "Yash Chopra",
+      "Writer": "Honey Irani, Rahi Masoom Reza",
+      "Actors": "Anil Kapoor, Sridevi, Anupam Kher",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Professor",
+      "netflix_url": "https://www.netflix.com/title/20257393",
+      "year": "1962",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0056379",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzkzMzk4YzMtY2YzNi00ODQ3LWExZGQtYzhiNzI0NWU4ZDFlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+      "Plot": "A college grad in need of money must disguise himself as an old man to tutor two young women who are under the watchful eye of their strict aunt.",
+      "Type": "movie",
+      "RunTime": "166 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Lekh Tandon",
+      "Writer": "Abrar Alvi, Shashi Bhushan",
+      "Actors": "Shammi Kapoor, Lalita Pawar, Parveen Choudhary",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Aaina",
       "netflix_url": "https://www.netflix.com/title/20257870",
       "year": "1993",
@@ -356,6 +390,23 @@
       "Director": "Yash Chopra",
       "Writer": "N/A",
       "Actors": "Anil Kapoor, Rajesh Khanna, Rishi Kapoor",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Saathiya",
+      "netflix_url": "https://www.netflix.com/title/60034293",
+      "year": "2002",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0330843",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZlOTQwMDAtMWFiMS00MDYzLTg0YTYtOGY2Y2I3ZDc4OTE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A couple elopes to get married and set up home hoping that just love will do the trick - but that's just the beginning of their story.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "Shaad Ali",
+      "Writer": "Mani Ratnam, Gulzar",
+      "Actors": "Vivek Oberoi, Rani Mukerji, Shah Rukh Khan",
       "Language": "Hindi",
       "Country": "India"
     },
@@ -2258,6 +2309,23 @@
       "Country": "United States"
     },
     {
+      "title": "Shawn Mendes: In Wonder",
+      "netflix_url": "https://www.netflix.com/title/80212798",
+      "year": "2020",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt13276386",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjU3ZDJkZmYtZmVkOC00MWI2LTg3NTQtZmIxNzZjY2ZlNzQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A portrait of singer/songwriter Shawn Mendes' life, chronicling the past few years of his rise and journey.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Documentary, Music",
+      "Director": "Grant Singer",
+      "Writer": "Connor Brashier",
+      "Actors": "Shawn Mendes, Camila Cabello, Cez Darke",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Beats",
       "netflix_url": "https://www.netflix.com/title/80216302",
       "year": "2019",
@@ -2443,6 +2511,13 @@
       "Actors": "Boyd Holbrook, Cleopatra Coleman, Bokeem Woodbine",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Camarón: The Film",
+      "netflix_url": "https://www.netflix.com/title/80232891",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "All Together Now",
@@ -3884,6 +3959,23 @@
       "Country": "Canada"
     },
     {
+      "title": "The Rose of Versailles",
+      "netflix_url": "https://www.netflix.com/title/81177638",
+      "year": "2025",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt21996220",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzI2MDk2ZmItYTRlNi00ZDZhLWE3NzgtYTNmYzRiYWE5NDg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Lady Oscar, a female military commander who served during the time of the French Revolution.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Animation, Drama, History",
+      "Director": "Ai Yoshimura",
+      "Writer": "Riyoko Ikeda, Tomoko Konparu",
+      "Actors": "Miyuki Sawashiro, Toshiyuki Toyonaga, Himika Akaneya",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "The Bombardment",
       "netflix_url": "https://www.netflix.com/title/81186240",
       "year": "2022",
@@ -4532,6 +4624,13 @@
       "Country": "Taiwan"
     },
     {
+      "title": "Diana: The Musical",
+      "netflix_url": "https://www.netflix.com/title/81323667",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "A Perfect Fit",
       "netflix_url": "https://www.netflix.com/title/81327369",
       "year": "2021",
@@ -4845,6 +4944,13 @@
       "Country": "India"
     },
     {
+      "title": "Radhe Shyam (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81382264",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Bhaje Vaayu Vegam",
       "netflix_url": "https://www.netflix.com/title/81382266",
       "year": "2024",
@@ -5046,6 +5152,23 @@
       "Writer": "Mark Bailey, Dallas Brennan",
       "Actors": "Mark Inman, Hazel Osborne, Pouroto Ngaropo",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Rita Moreno: Just a Girl Who Decided to Go for It",
+      "netflix_url": "https://www.netflix.com/title/81410843",
+      "year": "2021",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt10741846",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgwNDkyYzEtMWQ2Ni00OWNiLTk0ZGMtZmYyNTJlMWVjOTM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look at the life and work of Rita Moreno from her humble beginnings in Puerto Rico to her success on Broadway and in Hollywood.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Mariem Pérez Riera",
+      "Writer": "N/A",
+      "Actors": "Rita Moreno, Justina Machado, Norman Lear",
+      "Language": "English, Spanish",
       "Country": "United States"
     },
     {
@@ -5462,6 +5585,13 @@
       "Actors": "Lily Bolka, Chloe Lipitz, Sadie Mangelsdorf",
       "Language": "English, Cantonese, Mandarin, Hebrew",
       "Country": "United States"
+    },
+    {
+      "title": "Upcoming Summer",
+      "netflix_url": "https://www.netflix.com/title/81479739",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Through My Window 2: Across the Sea",
@@ -6788,8 +6918,18 @@
       "title": "One Last Adventure: The Making of Stranger Things 5",
       "netflix_url": "https://www.netflix.com/title/81684720",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt39307872",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzFlNmUyN2QtMDc0OS00MDA2LTkzN2ItZjFlMmExNzM3ZTE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An inside look at the production process of Stranger Things 5 with Director Martina Radwan, who spent a full year on set documenting the creation of the final season.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Documentary",
+      "Director": "Martina Radwan",
+      "Writer": "N/A",
+      "Actors": "Ross Duffer, Matt Duffer, Paul Dichter",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "One Hit Wonder",
@@ -6990,6 +7130,40 @@
       "Writer": "Samy Burch, Alex Mechanik",
       "Actors": "Natalie Portman, Chris Tenzis, Charles Melton",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Beautiful Rebel",
+      "netflix_url": "https://www.netflix.com/title/81705944",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt28690443",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZiMmYyNWItZjQwZS00NGNmLThjOWEtZTFmOTMzYzAxNjUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The origin story of one of Italy's greatest rock stars, Gianna Nannini, who chased her dream despite obstacles from her family and the music industry.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Cinzia TH Torrini",
+      "Writer": "N/A",
+      "Actors": "Robi Arquette, Noemi Brando, Selene Caramazza",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
+      "title": "Camp Courage",
+      "netflix_url": "https://www.netflix.com/title/81706977",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt29102426",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY4MmI5ZjktNWE4Yi00OWYwLTllMGMtM2ZiNDhhOThlZDg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this documentary, a girl displaced by the war in Ukraine heads to a summer camp in the Alps with her grandmother, testing the limits of her bravery.",
+      "Type": "movie",
+      "RunTime": "33 min",
+      "Genre": "Documentary, Short, War",
+      "Director": "Max Lowe",
+      "Writer": "N/A",
+      "Actors": "Milana Abdurashytova, Amit Oren",
+      "Language": "Ukrainian, English",
       "Country": "United States"
     },
     {
@@ -7316,8 +7490,18 @@
       "title": "Pretty Guardian Sailor Moon Cosmos The Movie",
       "netflix_url": "https://www.netflix.com/title/81732000",
       "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39318020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTZkZTNhMWEtMTRkYi00M2UxLWFjYTUtYWI0N2I1YzE1MWMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "81 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tomoya Takahashi",
+      "Writer": "Naoko Takeuchi, Kazuyuki Fudeyasu",
+      "Actors": "Ai Maeda, Ami Koshimizu, Hisako Kanemoto",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "His Three Daughters",
@@ -7888,6 +8072,23 @@
       "Country": "Canada, United Kingdom"
     },
     {
+      "title": "What Happens Later",
+      "netflix_url": "https://www.netflix.com/title/81784470",
+      "year": "2023",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt19890316",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjkyNDY5Y2QtYjFkZi00ZmYyLWJkMmYtMjA2NGI1NzkyNjAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Willa and Bill are ex-lovers that will see each other for the first time in years when they both find themselves snowed in, in-transit, at an airport overnight.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Meg Ryan",
+      "Writer": "Steven Dietz, Kirk Lynn, Meg Ryan",
+      "Actors": "Meg Ryan, David Duchovny, Hal Liggett",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Sunny Sanskari ki Tulsi Kumari",
       "netflix_url": "https://www.netflix.com/title/81786449",
       "year": "2025",
@@ -8346,8 +8547,18 @@
       "title": "A Father's Miracle",
       "netflix_url": "https://www.netflix.com/title/81945432",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt39742477",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA0MjM5MDAtYWFiZi00YmJkLWI2ZTctZjc5YjAyMDI4ZjY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A devoted father is wrongfully imprisoned for a crime he didn't commit, leaving his daughter to fend for herself as he fights to prove his innocence.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "N/A",
+      "Director": "Ana Lorena Pérez Ríos",
+      "Writer": "N/A",
+      "Actors": "Mariana Calderón, Omar Chaparro, Natalia Reyes",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "The Diplomat",
@@ -8588,6 +8799,23 @@
       "Country": "Philippines"
     },
     {
+      "title": "Qaidi Band",
+      "netflix_url": "https://www.netflix.com/title/82027370",
+      "year": "2017",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt5617172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4OTc2OTYzOF5BMl5BanBnXkFtZTgwMzU3NTYyNTM@._V1_SX300.jpg",
+      "Plot": "A riveting tale of undertrials who are brought together to form a band in jail for a social event. As their popularity grows through social media, they use their music to protest against jail authorities &amp; the Indian judicial syst...",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Drama, Music",
+      "Director": "Habib Faisal",
+      "Writer": "Habib Faisal, Sanjay Sharma",
+      "Actors": "Sachin Pilgaonkar, Ram Kapoor, Ashi Singh",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Babah",
       "netflix_url": "https://www.netflix.com/title/82034830",
       "year": "2024",
@@ -8707,7 +8935,7 @@
       "title": "All the Empty Rooms",
       "netflix_url": "https://www.netflix.com/title/82058494",
       "year": "2025",
-      "imdb_rating": "9.2",
+      "imdb_rating": "7.4",
       "imdb_id": "tt37798645",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDExYmE3ZDgtMDhmYy00OTQ1LWI5OTktMzJkOTIwNzc0MDBkXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Follows correspondent Steve Hartman and photographer Lou Bopp as they embark on a seven-year-long project to document the empty bedrooms of children killed in school shootings.",
@@ -9068,8 +9296,18 @@
       "title": "Thalaivar Thambi Thalaimaiyil",
       "netflix_url": "https://www.netflix.com/title/82709712",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.1",
+      "imdb_id": "tt36926733",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2VmY2IzOWQtZWM1NS00N2Y4LTlmODgtMWE1MjBhZTA5NGYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A village official attending a wedding becomes entangled in an escalating family dispute over power and old resentments, testing his leadership as he tries to contain the situation.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Nithish Sahadev",
+      "Writer": "Sanjo Joseph, Anuraj O.B., Nithish Sahadev",
+      "Actors": "Jiiva, Thambi Ramaiah, Ilavarasu",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "Thammudu",
