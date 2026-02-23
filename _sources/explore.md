@@ -225,7 +225,7 @@ async function init() {
             <img src="${m.Poster}" alt="${m.title}" />
           </a>
           <b>${m.title}</b> (${m.year})<br>
-          <div class="rating">⭐ ${m.imdb_rating}</div>
+          <div class="rating">⭐  <a href="http://imdb.com/title/${m.imdb_id}" target="_blank" rel="noopener noreferrer">  ${m.imdb_rating}  </a> </div>
         </div>
       `).join('');
   }
