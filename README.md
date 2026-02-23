@@ -1,4 +1,4 @@
-# Netflix Movies with Best IMDb Ratings 🎬⭐
+# [Netflix Movies with Best IMDb Ratings](https://fgonzcat.github.io/Netflix_IMDb_movie_ratings) 🎬⭐
 
 ![QRcode](QR_website.png)
 
@@ -11,7 +11,7 @@
 
 ## What is this website?
 
-This is the github repository for the website: [https://fgonzcat.github.io/Netfilx_IMDb_movie_ratings/](https://fgonzcat.github.io/Netfilx_IMDb_movie_ratings/)
+This is the github repository for the website: [https://fgonzcat.github.io/Netflix_IMDb_movie_ratings/](https://fgonzcat.github.io/Netflix_IMDb_movie_ratings/)
 
 This project combines **Netflix movie categories** with **IMDb ratings** to produce
 clean, ranked movie lists you can browse — or generate yourself.
