@@ -2,6 +2,16 @@
 
 I created a website to rank Netflix movies from best to worst according to [IMDb](https://www.imdb.com).  The idea is that you don't have to waste time searching for "what to watch": you just go to the site, choose a genre, and that's it. It's perfect for when you don't know what to watch and don't want to spend 30 minutes browsing.
 
+⭐ IMDb scale:
+1–3 😴 | 4–5 💣 | 6 🤔 | 7 👍 | 8+ 🌟
+
+- 😴 = Very boring
+- 💣 = Likely bad
+- 🤔 = Might be good
+- 👍 = Very likely good
+- 🌟 = Excellent
+
+
 :::{admonition} 🎬 **Find the best Netflix movies, ranked by IMDb**
 :class: tip
 
@@ -16,6 +26,8 @@ See [Best IMDb-Rated Movies on Netflix](best_imdb_rated_movies_on_netflix.md)
 </div>
 :::
 
+
+![QRcode](../QR_website.png)
 
 ## Explore
 
