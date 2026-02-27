@@ -8,20 +8,19 @@ parts:
   - caption: 📖 About this project
     chapters:
       - file: how_it_works
+      - file: best_imdb_rated_movies_on_netflix
       - file: scripts 
       - file: netflix_codes
 
-  - caption: 🏆 IMDb Rankings
+  - caption: 🔍 Explore & Filter Movies
     chapters:
-      - file: best_imdb_rated_movies_on_netflix
+      - file: explore 
 
   - caption: ⭐ Best of the Best
     chapters:
       - file: best 
 
-  - caption: 🔍 Explore & Filter Movies
-    chapters:
-      - file: explore 
+
 
   - caption: 🎬  Movie Categories on Netflix
     chapters:
@@ -113,6 +112,7 @@ parts:
           - file: monster_movies 
           - file: scary_movies
 
+      - file: inspiring_movies
       - file: imaginative_movies
       - file: independent 
       - file: korean 
@@ -178,3 +178,4 @@ parts:
       - file: TV_mysteries
       - file: TV_scifi
       - file: TV_shows  
+      - file: suspenseful_TV_Shows

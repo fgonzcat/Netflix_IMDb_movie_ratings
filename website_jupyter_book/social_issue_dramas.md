@@ -378,6 +378,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/3947" target="_blan
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Etharkkum Thunindhavan (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81508717" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*A Star Shoots Across the Sky*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81594244" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Maamannan (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81597747" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Virata Parvam (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81623282" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Ariyippu/Declaration*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81631026" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYjc0MjI5ZjQtYTg4Ni00NjRhLWFlNjAtMmM0N2I3NDdmNmU1XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Street Flow 2*</strong></summary>  <div class="movie-plot">Struggling to overcome cycles of betrayal, revenge and violence, the Traoré brothers continue to fight for a brighter future in a seedy Paris suburb.</div> </details> | <a href="https://www.imdb.com/title/tt27045321/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81640003" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYzgwOGM4YTEtMmE1Ny00MWQxLTlhMzEtYWY0MDY1ZjY0NWJhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Aap Jaisa Koi*</strong></summary>  <div class="movie-plot">Lives of two unique individuals, Shrirenu Tripathi and Madhu Bose. Embark on a journey full of unexpected twists, heartfelt moments and plenty of fun.</div> </details> | <a href="https://www.imdb.com/title/tt33888131/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81660570" target="_blank">Netflix_link</a> |
@@ -457,6 +458,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/3947" target="_blan
 
  
 ---
-*Page last updated on: 2026-02-23*
+*Page last updated on: 2026-02-26*
 
  

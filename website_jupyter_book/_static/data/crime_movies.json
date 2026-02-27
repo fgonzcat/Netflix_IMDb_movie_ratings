@@ -1238,6 +1238,23 @@
       "Country": "United States"
     },
     {
+      "title": "Salaakhen",
+      "netflix_url": "https://www.netflix.com/title/80158479",
+      "year": "1975",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt0395743",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMyOWE3OTMtNTEzOS00YmM0LTljNGQtMGFiNGZlMjNhODU1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Plot": "In-separable childhood friends, Raju and Guddi are separated when Guddi's dad, Ramlal is arrested by the police for theft. Years later Guddi is now a cabaret dancer and singer, Seema, while Raju is a thief and professional gambler...",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Action, Thriller",
+      "Director": "A. Salaam",
+      "Writer": "Shanti Prakash Bakshi, A. Salaam",
+      "Actors": "Shashi Kapoor, Sulakshana Pandit, Mehmood",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Small Crimes",
       "netflix_url": "https://www.netflix.com/title/80164212",
       "year": "2017",
@@ -2083,6 +2100,23 @@
       "Actors": "Juan Manuel Fraire Escobedo, Alejandro Fraire, Blanca Escobedo",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Believer",
+      "netflix_url": "https://www.netflix.com/title/81002312",
+      "year": "2018",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt7095654",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MxZTNhNmYtMmY3Yi00MzQxLWFkM2QtODM4MWYyYjU2Nzk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A police detective determined to catch the unseen boss of Asia's biggest drug cartel joins hands with a revenge-thirsty member of the gang.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Lee Hae-young",
+      "Writer": "Jung Seo-Kyoung",
+      "Actors": "Park Hae-joon, Ryu Jun-yeol, Cho Jin-woong",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "The Occupant",
@@ -3677,6 +3711,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Skandal! Bringing Down Wirecard",
+      "netflix_url": "https://www.netflix.com/title/81404807",
+      "year": "2022",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt21836620",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTdlZWE3MjQtNjA2Zi00YTZlLWE2ZDQtMGI4ODU5ZGVmZDRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Upstart payment firm Wirecard wowed the financial industry with its runaway success — until a tenacious team of journalists exposed massive fraud.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Crime",
+      "Director": "James Erskine",
+      "Writer": "N/A",
+      "Actors": "Florian Toncar, Lena Kampf, Martin Osterloh",
+      "Language": "English, German",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Amigos",
       "netflix_url": "https://www.netflix.com/title/81408626",
       "year": "2023",
@@ -5092,6 +5143,23 @@
       "Country": "India"
     },
     {
+      "title": "Anweshippin Kandethum",
+      "netflix_url": "https://www.netflix.com/title/81602976",
+      "year": "2024",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt13885428",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTVhN2VmNTgtMjQ0ZC00OTc1LWE2ZGItMjFkYTUzMzcyMTJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Revolves around two major crimes that shook kerala and the subsequent inquiry into the cases by sop.",
+      "Type": "movie",
+      "RunTime": "142 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Darwin Kuriakose",
+      "Writer": "Jinu Abraham",
+      "Actors": "Tovino Thomas, Vineeth Thattil David, Rahul Rajagopal",
+      "Language": "Malayalam",
+      "Country": "India"
+    },
+    {
       "title": "Furies",
       "netflix_url": "https://www.netflix.com/title/81603171",
       "year": "2023",
@@ -5250,6 +5318,23 @@
       "Actors": "Joel Edgerton, Sean Harris, Jada Alberts",
       "Language": "English",
       "Country": "Australia, United States, United Kingdom"
+    },
+    {
+      "title": "BAD LANDS",
+      "netflix_url": "https://www.netflix.com/title/81622917",
+      "year": "2023",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt29344984",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWIxYWZkNWYtYThjYS00NzIzLWEwYmMtM2U3ZmMzYjg3ZThmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A grifter and her loose-cannon brother get their hands on a massive amount of money, but their ill-gotten gains puts a huge target on their back.",
+      "Type": "movie",
+      "RunTime": "143 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Masato Harada",
+      "Writer": "Masato Harada, Hiroyuki Kurokawa",
+      "Actors": "Sakura Andô, Noriko Eguchi, Tokiko Kitagawa",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "HELL DOGS - IN THE HOUSE OF BAMBOO -",

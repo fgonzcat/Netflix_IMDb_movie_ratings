@@ -120,6 +120,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2595" target="_blan
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*All the Sharks*</strong></summary>  <div class="movie-plot">Four shark expert teams compete globally to track down the world's most elusive shark species.</div> </details> | <a href="https://www.imdb.com/title/tt37333650/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81711583" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Titan: The OceanGate Submersible Disaster*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81712178" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Matter of Time*</strong></summary>  <div class="movie-plot">A string of Eddie Vedder solo concerts in Seattle in 2023 are the backdrop for the film, which chronicles efforts to find a cure for epidermolysis bullosa (EB), a rare genetic disease that can be lethal.</div> </details> | <a href="https://www.imdb.com/title/tt36590322/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82184383" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*The Philosopher's Kitchen Jeong Kwan*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82707823" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -158,6 +159,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2595" target="_blan
 
  
 ---
-*Page last updated on: 2026-02-23*
+*Page last updated on: 2026-02-26*
 
  

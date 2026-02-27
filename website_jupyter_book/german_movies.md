@@ -91,6 +91,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/100379" target="_bl
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Big Mäck: Gangsters and Gold*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81495571" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZWI3OWFjMTctZDJlZi00ZDM0LTgxYTUtN2VhZDBjYjExMzI0XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*She Said Maybe*</strong></summary>  <div class="movie-plot">A German-raised woman named Mavi learns of her Turkish noble heritage and enters a world of luxury, challenging her relationship as she navigates her newfound identity.</div> </details> | <a href="https://www.imdb.com/title/tt36754289/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81620086" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BM2RlNzg5YTktZGNmZC00ZmE4LTg4ZmUtZDI2OTc3NzY3ZDU3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Making All Quiet on the Western Front*</strong></summary>  <div class="movie-plot">Go behind the scenes of Edward Berger's WWI epic and see how the cast and crew crafted its amazing authenticity -- from the sets to the SFX prosthetics.</div> </details> | <a href="https://www.imdb.com/title/tt27531279/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81671528" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BMDcxMjA4NjctOWY2Yi00NjEyLTg3YzctYjdlNWI5YTcwM2QwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Crap Happens*</strong></summary>  <div class="movie-plot">Rapper Toni comes home for his mom's funeral and must balance his music ambitions with unexpectedly becoming father to a teenage son.</div> </details> | <a href="https://www.imdb.com/title/tt34458461/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81675881" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Dudes*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt33034757/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81720673" target="_blank">Netflix_link</a> |
 
  
@@ -130,6 +131,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/100379" target="_bl
 
  
 ---
-*Page last updated on: 2026-02-23*
+*Page last updated on: 2026-02-26*
 
  
