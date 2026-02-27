@@ -20,6 +20,13 @@
       "Country": "United Kingdom, Ireland, Belgium, United States"
     },
     {
+      "title": "30 for 30: The Two Escobars",
+      "netflix_url": "https://www.netflix.com/title/70137756",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Short Game",
       "netflix_url": "https://www.netflix.com/title/70290567",
       "year": "2013",
@@ -139,6 +146,23 @@
       "Country": "United Kingdom, The Democratic Republic of Congo"
     },
     {
+      "title": "Hot Girls Wanted",
+      "netflix_url": "https://www.netflix.com/title/80038162",
+      "year": "2015",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt4382552",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxZmZhMmUtNTY3YS00YmQyLWI3ODctMWI2ZTEwMWRmYTJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A documentary about young women who have been drawn into the sex trade - and how easy it is for a web-savvy generation to end up making porn.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Jill Bauer, Ronna Gradus",
+      "Writer": "Brittany Huckabee",
+      "Actors": "Stella May, Riley Reynolds, Rachel Bernard",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Meru",
       "netflix_url": "https://www.netflix.com/title/80039641",
       "year": "2015",
@@ -154,6 +178,23 @@
       "Actors": "Conrad Anker, Grace Chin, Jimmy Chin",
       "Language": "English",
       "Country": "United States, India"
+    },
+    {
+      "title": "Team Foxcatcher",
+      "netflix_url": "https://www.netflix.com/title/80044093",
+      "year": "2016",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt5598216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjE1NzcyNjYtNjFjMi00NDYwLWFjOWItZTRhNDkxMDU0NTc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Documentary filmmaker Jon Greenhalgh examines the life of Dave Schultz, a professional wrestler who was part of 'Team Foxcatcher', funded by multi-millionaire John du Pont.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "Jon Greenhalgh",
+      "Writer": "N/A",
+      "Actors": "John du Pont, Dave Schultz, Mike Gostigian",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Amy",
@@ -411,6 +452,40 @@
       "Country": "Austria"
     },
     {
+      "title": "The Great Hack",
+      "netflix_url": "https://www.netflix.com/title/80117542",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt4736550",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDhmODFlMTQtYzU0YS00YTg4LWEyMTctZmRkZWYxMzgxMDFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Cambridge Analytica scandal is examined through the roles of several affected persons.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Karim Amer, Jehane Noujaim",
+      "Writer": "Pedro Kos, Erin Barnett, Karim Amer",
+      "Actors": "Brittany Kaiser, David Carroll, Paul-Olivier Dehaye",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "One of Us",
+      "netflix_url": "https://www.netflix.com/title/80118101",
+      "year": "2017",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt7214842",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM4NzY5NzY2MF5BMl5BanBnXkFtZTgwNDQwOTY0MzI@._V1_SX300.jpg",
+      "Plot": "Penetrating the insular world of New York's Hasidic community, focusing on three individuals driven to break away despite threats of retaliation.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary",
+      "Director": "Heidi Ewing, Rachel Grady",
+      "Writer": "N/A",
+      "Actors": "Etty, Chani Getter, Ari Hershkowitz",
+      "Language": "English, Yiddish",
+      "Country": "United States"
+    },
+    {
       "title": "The Keepers",
       "netflix_url": "https://www.netflix.com/title/80122179",
       "year": "2017",
@@ -477,6 +552,23 @@
       "Actors": "Shad, LL Cool J, Big Daddy Kane",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "Casting JonBenet",
+      "netflix_url": "https://www.netflix.com/title/80142316",
+      "year": "2017",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt6333052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDgwODk5ODk4OV5BMl5BanBnXkFtZTgwNzA3MzU4MTI@._V1_SX300.jpg",
+      "Plot": "In the months following the unsolved murder of 6-year-old beauty queen JonBenet Ramsey, responses were elicited from her Colorado hometown community, creating a work of art from the collective memories and mythologies the crime in...",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Documentary, Crime, Drama",
+      "Director": "Kitty Green",
+      "Writer": "Kitty Green",
+      "Actors": "Hannah Cagwin, Aeona Cruz, Liv Bagley",
+      "Language": "English",
+      "Country": "United States, Australia, China"
     },
     {
       "title": "Wild Wild Country",
@@ -547,6 +639,23 @@
       "Country": "United States"
     },
     {
+      "title": "Icarus",
+      "netflix_url": "https://www.netflix.com/title/80168079",
+      "year": "2017",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt6333060",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE4M2MxOWUtYmY2ZC00ZWYxLWIxZTAtNTNjYTZmYmUyOGY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Bryan sets out to uncover the truth about doping in sports, a chance meeting with a Russian scientist transforms his story from a personal experiment into a geopolitical thriller.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Bryan Fogel",
+      "Writer": "Bryan Fogel, Mark Monroe, Jon Bertain",
+      "Actors": "Bryan Fogel, Dave Zabriskie, Don Catlin",
+      "Language": "English, Russian",
+      "Country": "United States, United Kingdom"
+    },
+    {
       "title": "Chasing Coral",
       "netflix_url": "https://www.netflix.com/title/80168188",
       "year": "2017",
@@ -562,6 +671,23 @@
       "Actors": "Andrew Ackerman, Pim Bongaerts, Neal Cantin",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Strong Island",
+      "netflix_url": "https://www.netflix.com/title/80168230",
+      "year": "2017",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt5873150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ4MGUxN2MtZWMzZC00M2NkLTljNzQtYzZlZGY0NzRhNjdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When filmmaker Yance Ford investigates the 1992 murder of a young Black man, it becomes an achingly personal journey, since the victim, 24-year-old William Ford Jr., was the filmmaker's brother.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Yance Ford",
+      "Writer": "N/A",
+      "Actors": "Yance Ford, Harvey Walker, Kevin Myers",
+      "Language": "English",
+      "Country": "United States, Denmark"
     },
     {
       "title": "Joshua: Teenager vs. Superpower",
@@ -751,6 +877,23 @@
       "Country": "France"
     },
     {
+      "title": "The Edge of Democracy",
+      "netflix_url": "https://www.netflix.com/title/80190535",
+      "year": "2019",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt6016744",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA1NWFiZGUtZjQ4Ni00NmE1LThjMzAtMjA0YzE1MzM2ODlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An exploration into the complex truth behind the unraveling of two Brazilian presidencies.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Documentary, History",
+      "Director": "Petra Costa",
+      "Writer": "Petra Costa, Carol Pires, David Barker",
+      "Actors": "Dilma Rousseff, Luiz Inácio Lula da Silva, Marisa Letícia Lula da Silva",
+      "Language": "Portuguese, English",
+      "Country": "Brazil, United Kingdom"
+    },
+    {
       "title": "Heroin(e)",
       "netflix_url": "https://www.netflix.com/title/80192445",
       "year": "2017",
@@ -802,6 +945,13 @@
       "Country": "United States"
     },
     {
+      "title": "The Trader (Sovdagari)",
+      "netflix_url": "https://www.netflix.com/title/80209006",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "A Secret Love",
       "netflix_url": "https://www.netflix.com/title/80209024",
       "year": "2020",
@@ -843,6 +993,23 @@
       "Country": "United States"
     },
     {
+      "title": "End Game",
+      "netflix_url": "https://www.netflix.com/title/80210691",
+      "year": "2018",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt7879350",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ0ZGI1YjYtYmFmMS00YWI3LTljYzEtZThiOWJhMjg2MzRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Filmed and edited in intimate vérité style, this movie follows visionary medical practitioners who are working on the cutting edge of life and death and are dedicated to changing our thinking about both.",
+      "Type": "movie",
+      "RunTime": "40 min",
+      "Genre": "Documentary, Short",
+      "Director": "Rob Epstein, Jeffrey Friedman",
+      "Writer": "Tanzir Islam Britto",
+      "Actors": "N/A",
+      "Language": "English, Persian",
+      "Country": "United States"
+    },
+    {
       "title": "Tell Me Who I Am",
       "netflix_url": "https://www.netflix.com/title/80214706",
       "year": "2019",
@@ -877,6 +1044,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Audible",
+      "netflix_url": "https://www.netflix.com/title/80219704",
+      "year": "2021",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt12771540",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE1NGRkZWItNjcwNC00YzkyLWEzNWItZjZmM2M3ODMzYmIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Football player Amaree McKenstry-Hall and his Maryland School for the Deaf teammates attempt to defend their winning streak while coming to terms with the tragic loss of a close friend.",
+      "Type": "movie",
+      "RunTime": "39 min",
+      "Genre": "Documentary, Short, Sport",
+      "Director": "Matthew Ogens",
+      "Writer": "N/A",
+      "Actors": "Amaree McKenstry-Hall",
+      "Language": "English, American Sign ",
+      "Country": "United States"
+    },
+    {
       "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
       "netflix_url": "https://www.netflix.com/title/80221016",
       "year": "2019",
@@ -899,6 +1083,23 @@
       "Actors": "Sophie Okonedo, Leigh Joel Scott, Douglas Vakoch",
       "Language": "English, Ukrainian",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Bikram: Yogi, Guru, Predator",
+      "netflix_url": "https://www.netflix.com/title/80221584",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt10883004",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzE2NjhhNmItMTk2OS00NzI4LWE4ZTMtYWE5ZDRmZDM1NDkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tracing from his rise in the 1970s to his disgrace in accusations of rape and sexual harassment in more recent years.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Eva Orner",
+      "Writer": "N/A",
+      "Actors": "Larissa Anderson, Francesca Asumah, Sarah Baughn",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Misha and the Wolves",
@@ -933,6 +1134,40 @@
       "Actors": "Xander Turian, Hal Rothwell, Karin Torbjörnsdóttir",
       "Language": "English",
       "Country": "Czech Republic"
+    },
+    {
+      "title": "Dick Johnson Is Dead",
+      "netflix_url": "https://www.netflix.com/title/80234465",
+      "year": "2020",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt11394180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQyN2E1NDMtN2MyNy00YjI2LTliYTctZDU2OTA4YTQ1NTU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A daughter helps her father prepare for the end of his life.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Kirsten Johnson",
+      "Writer": "Nels Bangerter, Kirsten Johnson",
+      "Actors": "Michael Hilow, Ana Hoffman, Dick Johnson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Shirkers",
+      "netflix_url": "https://www.netflix.com/title/80241061",
+      "year": "2018",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt7472352",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWFkOGUwNjktNjQxNS00YTQ5LWE2NGQtN2QzODNiMWIyNzU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman explores the events surrounding a film she and her friends began making with a mysterious stranger decades ago.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary",
+      "Director": "Sandi Tan",
+      "Writer": "Sandi Tan",
+      "Actors": "Jasmine Kin Kia Ng, Philip Cheah, Sophia Siddique Harvey",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Immigration Nation",
@@ -993,6 +1228,23 @@
       "Country": "United States, Brazil, Japan, Spain, India"
     },
     {
+      "title": "Father Soldier Son",
+      "netflix_url": "https://www.netflix.com/title/81002464",
+      "year": "2020",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt12187586",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzM3MDUxZDAtYTI0MC00OGJkLTg1M2UtZDFiNmIwOThmNzYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets him and his sons on a journey of love, loss, redemption and legacy.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Documentary, War",
+      "Director": "Leslye Davis, Catrin Einhorn",
+      "Writer": "N/A",
+      "Actors": "Brian Eisch, Isaac Eisch, Joey Eisch",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Surgeon's Cut",
       "netflix_url": "https://www.netflix.com/title/81004466",
       "year": "2020",
@@ -1006,6 +1258,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Lin Gallagher",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Circus of Books",
+      "netflix_url": "https://www.netflix.com/title/81011569",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt8727582",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ4MTZhNjMtZjE2My00ZjA5LTg5NjctYWQ1YjA4N2UxMTkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1976, Karen and Barry Mason had fallen on hard times and were looking for a way to support their young family when they answered an ad in the Los Angeles Times. Larry Flynt was seeking distributors for Hustler Magazine. What wa...",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Rachel Mason",
+      "Writer": "Rachel Mason, Kathryn Robson",
+      "Actors": "Karen Mason, Barry Mason, Micah Mason",
       "Language": "English",
       "Country": "United States"
     },
@@ -1146,6 +1415,23 @@
       "Country": "United States"
     },
     {
+      "title": "Life Overtakes Me",
+      "netflix_url": "https://www.netflix.com/title/81034980",
+      "year": "2019",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt9204606",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY3YTQwZjItNTcwYi00ZmQyLTkwYWUtZTY5ZjdlMTNkOTA5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the grip of trauma, hundreds of refugee children in Sweden withdraw from life's uncertainties into a coma-like illness called Resignation Syndrome.",
+      "Type": "movie",
+      "RunTime": "39 min",
+      "Genre": "Documentary, Short",
+      "Director": "John Haptas, Kristine Samuelson",
+      "Writer": "N/A",
+      "Actors": "Henry Ascher, Nadja Hatem, Mikael Billing",
+      "Language": "Swedish, Ukrainian, English",
+      "Country": "Sweden, United States"
+    },
+    {
       "title": "FYRE: The Greatest Party That Never Happened",
       "netflix_url": "https://www.netflix.com/title/81035279",
       "year": "2019",
@@ -1166,6 +1452,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Monica Aldama, Gabi Butler, La'Darius Marshall",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Pray Away",
+      "netflix_url": "https://www.netflix.com/title/81040370",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt11224358",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI0MDA5ZTgtOGZmMy00NzQzLWE0ODktZDkyYjIzNjNhOWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Former leaders of the \"pray the gay away\" movement contend with the aftermath unleashed by their actions, while a survivor seeks healing and acceptance from more than a decade of trauma.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Documentary",
+      "Director": "Kristine Stolakis",
+      "Writer": "N/A",
+      "Actors": "Yvette Cantu Schneider, Michael Bussee, John Paulk",
       "Language": "English",
       "Country": "United States"
     },
@@ -1500,6 +1803,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Elena",
+      "netflix_url": "https://www.netflix.com/title/81137484",
+      "year": "2012",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt2475154",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxNjk0Mjc5Nl5BMl5BanBnXkFtZTcwOTMzOTI5OA@@._V1_SX300.jpg",
+      "Plot": "Elena, a young Brazilian woman, travels to New York with the same dream as her mother, to become a movie actress. She leaves behind her childhood spent in hiding during the years of the military dictatorship. She also leaves Petra...",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Petra Costa",
+      "Writer": "Petra Costa, Carolina Ziskind",
+      "Actors": "Li An, Elena Andrade, Petra Costa",
+      "Language": "Portuguese, English",
+      "Country": "Brazil, United States"
+    },
+    {
       "title": "Our Oceans",
       "netflix_url": "https://www.netflix.com/title/81139969",
       "year": "2024",
@@ -1694,6 +2014,23 @@
       "Country": "United States"
     },
     {
+      "title": "A Love Song for Latasha",
+      "netflix_url": "https://www.netflix.com/title/81304985",
+      "year": "2020",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt8993180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWJhZGM0MDktMjk4MC00YWJiLTlmNTgtMGE0NzA0Mjg5YzlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The injustice surrounding the shooting death of 15-year-old Latasha Harlins at a South Central Los Angeles store became a flashpoint for the city’s 1992 civil uprising.",
+      "Type": "movie",
+      "RunTime": "19 min",
+      "Genre": "Documentary, Short, Biography",
+      "Director": "Sophia Nahli Allison",
+      "Writer": "N/A",
+      "Actors": "Tybie O'Bard, Shinese Harlins, Zoe Flint",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "48 Hours",
       "netflix_url": "https://www.netflix.com/title/81310686",
       "year": "2025",
@@ -1745,6 +2082,23 @@
       "Country": "India"
     },
     {
+      "title": "A Cop Movie",
+      "netflix_url": "https://www.netflix.com/title/81314321",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt14035242",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGFkNDkwMDktNTAzYi00MWFhLWExNTMtZDM4ZTY3MzQyODIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two professional actors undergo an immersive process to find out what it takes to be a cop in Mexico City.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Documentary, Action, Crime",
+      "Director": "Alonso Ruizpalacios",
+      "Writer": "David Gaitán, Alonso Ruizpalacios",
+      "Actors": "Mónica Del Carmen, Raúl Briones, María Teresa Hernández Cañas",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "Stamped from the Beginning",
       "netflix_url": "https://www.netflix.com/title/81321341",
       "year": "2023",
@@ -1777,6 +2131,23 @@
       "Actors": "Brooke Satchwell, Michael Theo, Mark Radburn",
       "Language": "English",
       "Country": "Australia"
+    },
+    {
+      "title": "Dear Santa",
+      "netflix_url": "https://www.netflix.com/title/81346243",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt12590534",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGY5NWUyYTUtNGE3MS00MWE3LTg1MzUtNTVmMTViZGI0MjQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "'Dear Santa' shines a light on the 100-year-old 'Operation Santa' Program of the United States Postal Service. Each year, hundreds of thousands of letters to Santa arrive at Post Offices around the country. Through Operation Santa...",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary, Family",
+      "Director": "Dana Nachman",
+      "Writer": "Dana Nachman",
+      "Actors": "Damion DiGrazia, Orlando Mendez, Michael Muñoz",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Take Care of Maya",
@@ -2007,6 +2378,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "The Saint of Second Chances",
+      "netflix_url": "https://www.netflix.com/title/81476121",
+      "year": "2023",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt27549543",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ5YjA2ODItMGI4MS00NjAwLWJkN2YtMTU2YzJiMzMxOTc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mike Veeck, son of legendary Major League Baseball owner Bill Veeck, blows up his father's career and then spends the next few decades learning the value of a second chance.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Jeff Malmberg, Morgan Neville",
+      "Writer": "N/A",
+      "Actors": "Mike Veeck, Charlie Day, Jeff Daniels",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Martha",
       "netflix_url": "https://www.netflix.com/title/81479059",
       "year": "2024",
@@ -2037,6 +2425,23 @@
       "Director": "Anne Alvergue, Debra McClutchy",
       "Writer": "N/A",
       "Actors": "Martha Mitchell, Dwight Chapin, Connie Chung",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Procession",
+      "netflix_url": "https://www.netflix.com/title/81513706",
+      "year": "2021",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt14300912",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGU4YTRkYjctZDFiZi00ZGI1LThhNzUtZjRiOGNlMDRmOWQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of survivors of sexual abuse by Catholic priests battle for justice.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Documentary",
+      "Director": "Robert Greene",
+      "Writer": "Chris Boeckmann",
+      "Actors": "Joe Eldred, Mike Foreman, Ed Gavagan",
       "Language": "English",
       "Country": "United States"
     },
@@ -2330,6 +2735,23 @@
       "Country": "United States"
     },
     {
+      "title": "American Symphony",
+      "netflix_url": "https://www.netflix.com/title/81728930",
+      "year": "2023",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt28865980",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTU5MTY2ZWEtZWMzYy00NmIyLWFlNTQtMmQ3MjUwZWVhNGRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this deeply intimate documentary, musician Jon Batiste attempts to compose a symphony as his wife, writer Suleika Jaouad, undergoes cancer treatment.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Matthew Heineman",
+      "Writer": "N/A",
+      "Actors": "Jon Batiste, Lindsey Byrnes, Jonathan Dinklage",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Join or Die",
       "netflix_url": "https://www.netflix.com/title/81746809",
       "year": "2023",
@@ -2498,6 +2920,23 @@
       "Actors": "Penny Lane",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Maestra",
+      "netflix_url": "https://www.netflix.com/title/81930904",
+      "year": "2023",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt26935953",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTVhZjc3MGQtNTMwNy00ODJkLTgyNDktMjcyZWNiYzQ1MWIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows five international women who participate in 'La Maestra', the only competition in the world for female orchestra conductors. Personal stories of survival in this one-of-a-kind event created to break another glass ceiling f...",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Documentary, Music",
+      "Director": "Maggie Contreras",
+      "Writer": "Neil Berkeley, Maggie Contreras",
+      "Actors": "Marin Alsop, Deborah Borda, Mélisse Brunet",
+      "Language": "English",
+      "Country": "United States, Poland, France"
     },
     {
       "title": "Apocalypse in the Tropics",

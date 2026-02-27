@@ -1037,6 +1037,40 @@
       "Country": "India"
     },
     {
+      "title": "Tasting Menu",
+      "netflix_url": "https://www.netflix.com/title/70299451",
+      "year": "2013",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt1826753",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI1OTc1NzI1NV5BMl5BanBnXkFtZTgwOTg0MTUwMDE@._V1_SX300.jpg",
+      "Plot": "As one of the world's best restaurants opens for its final evening, a couple in the midst of a divorce who made their reservation a year prior reunite for a once-in-lifetime meal.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Comedy",
+      "Director": "Roger Gual",
+      "Writer": "Javier Calvo, Silvia González Laá, Roger Gual",
+      "Actors": "Jan Cornet, Claudia Bassols, Vicenta N'Dongo",
+      "Language": "Catalan, English, Spanish, Japanese",
+      "Country": "Spain, Ireland, France"
+    },
+    {
+      "title": "Laggies",
+      "netflix_url": "https://www.netflix.com/title/70299859",
+      "year": "2014",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt2034031",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5NjU0MTQwMl5BMl5BanBnXkFtZTgwMjYxMTU0MjE@._V1_SX300.jpg",
+      "Plot": "In the throes of a quarter-life crisis, Megan panics when her boyfriend proposes. She takes an opportunity to escape for a week, hiding out in the house of her new 16-year-old friend Annika and her world-weary single dad.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Lynn Shelton",
+      "Writer": "Andrea Seigel",
+      "Actors": "Keira Knightley, Chloë Grace Moretz, Sam Rockwell",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Obvious Child",
       "netflix_url": "https://www.netflix.com/title/70301275",
       "year": "2014",
@@ -1347,6 +1381,23 @@
       "Writer": "Parvati Balagopalan, Ketan Mehta, Deepa Sahi",
       "Actors": "Shah Rukh Khan, Deepa Sahi, Jaaved Jaaferi",
       "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Kabhi Haan Kabhi Naa",
+      "netflix_url": "https://www.netflix.com/title/80157083",
+      "year": "1994",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0110222",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODU1MDU3MTYtYTAwMi00MmNmLWFkMWYtNmY1NzRhYTA3ZWI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dreamer falls for a girl who is in love with someone else and tries to create a rift between her and the man she loves.",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Kundan Shah",
+      "Writer": "Pankaj Advani, Ranjit Kapoor, Kundan Shah",
+      "Actors": "Shah Rukh Khan, Suchitra Krishnamoorthi, Deepak Tijori",
+      "Language": "Hindi, English",
       "Country": "India"
     },
     {
@@ -2321,6 +2372,23 @@
       "Actors": "Livia Renner, Nayla Sophie Brehmer, Christina Hecke",
       "Language": "German, English",
       "Country": "Germany"
+    },
+    {
+      "title": "Crazy About Her",
+      "netflix_url": "https://www.netflix.com/title/81059918",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt11698630",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGE3ZjU2NTctY2YxYi00YzY1LWIwYTktODA5MTUyMTk5MTFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a magical night together, Adri voluntarily turns himself into the psychiatric institution where Carla lives.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Dani de la Orden",
+      "Writer": "Natalia Durán, Eric Navarro",
+      "Actors": "Álvaro Cervantes, Susana Abaitua, Luis Zahera",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "House Arrest",
@@ -3602,6 +3670,23 @@
       "Country": "Taiwan, China"
     },
     {
+      "title": "Zero to Hero",
+      "netflix_url": "https://www.netflix.com/title/81427598",
+      "year": "2024",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt14892216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTM5ZDFlNGQtMzc3YS00NGQ3LWE2ZmMtMDIzNjE4MzcxMjQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Biopic tribute to So Wa Wai, Hong Kong's first Paralympic athlete to win gold. Even if you start at a disadvantage, you can still be first across the finish line.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Chi-Man Wan",
+      "Writer": "Man-Tsun Lo, Chi-Man Wan",
+      "Actors": "Chung-Hang Leung, Louis Cheung, Sandra Ng",
+      "Language": "Cantonese, English",
+      "Country": "Hong Kong"
+    },
+    {
       "title": "A Naija Christmas",
       "netflix_url": "https://www.netflix.com/title/81434660",
       "year": "2021",
@@ -4049,6 +4134,23 @@
       "Actors": "Paolo Contis, Archie Alemania, Beauty Gonzalez",
       "Language": "Tagalog, Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "Urvasivo Rakshasivo",
+      "netflix_url": "https://www.netflix.com/title/81512220",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt22410680",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTdjNzEyODQtODVmZi00MTg0LWEyMjgtNDg0Y2E3YzhlZDk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A modern take on urban relationships.",
+      "Type": "movie",
+      "RunTime": "141 min",
+      "Genre": "Drama, Romance",
+      "Director": "Rakesh Sashi",
+      "Writer": "Rakesh Sashi",
+      "Actors": "Allu Sirish, Anu Emmanuel, Vennela Kishore",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Squared Love All Over Again",

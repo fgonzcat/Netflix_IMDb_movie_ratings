@@ -220,6 +220,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/3675" target="_blan
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*K for Kimbap*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82137305" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNjNkNGMyN2MtZTcyMC00MDMwLTk5NWMtYmI0NTI3OWE5NWYwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Rebbeca*</strong></summary>  <div class="movie-plot">Pop star Becky G explores her heritage while creating her first Mexican regional album, reflecting on her complex background and history.</div> </details> | <a href="https://www.imdb.com/title/tt36590342/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82640130" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMDhmNTg5YTMtMTU3ZC00NDlkLTk1OGQtN2E4NmNlNGU4MDM5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Secret Mall Apartment*</strong></summary>  <div class="movie-plot">In 2003, eight Rhode Islanders created a secret apartment inside a busy mall and lived there for four years, filming everything along the way. Far more than a prank, the secret apartment became a deeply meaningful place for all in...</div> </details> | <a href="https://www.imdb.com/title/tt21221386/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82677429" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*The Philosopher's Kitchen Jeong Kwan*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82707823" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -258,6 +259,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/3675" target="_blan
 
  
 ---
-*Page last updated on: 2026-02-23*
+*Page last updated on: 2026-02-26*
 
  

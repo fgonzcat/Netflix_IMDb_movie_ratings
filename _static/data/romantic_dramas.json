@@ -843,6 +843,23 @@
       "Country": "India"
     },
     {
+      "title": "Take This Waltz",
+      "netflix_url": "https://www.netflix.com/title/70209166",
+      "year": "2011",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1592281",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzOTc1NTExNV5BMl5BanBnXkFtZTcwOTg5MTY2Nw@@._V1_SX300.jpg",
+      "Plot": "A happily married woman falls for the artist who lives across the street.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Sarah Polley",
+      "Writer": "Sarah Polley",
+      "Actors": "Michelle Williams, Seth Rogen, Sarah Silverman",
+      "Language": "English",
+      "Country": "Canada, Spain, Japan"
+    },
+    {
       "title": "Student of the Year",
       "netflix_url": "https://www.netflix.com/title/70219526",
       "year": "2012",
@@ -1045,6 +1062,23 @@
       "Actors": "Jan Cornet, Claudia Bassols, Vicenta N'Dongo",
       "Language": "Catalan, English, Spanish, Japanese",
       "Country": "Spain, Ireland, France"
+    },
+    {
+      "title": "Laggies",
+      "netflix_url": "https://www.netflix.com/title/70299859",
+      "year": "2014",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt2034031",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5NjU0MTQwMl5BMl5BanBnXkFtZTgwMjYxMTU0MjE@._V1_SX300.jpg",
+      "Plot": "In the throes of a quarter-life crisis, Megan panics when her boyfriend proposes. She takes an opportunity to escape for a week, hiding out in the house of her new 16-year-old friend Annika and her world-weary single dad.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Lynn Shelton",
+      "Writer": "Andrea Seigel",
+      "Actors": "Keira Knightley, Chloë Grace Moretz, Sam Rockwell",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Obvious Child",
@@ -4246,6 +4280,13 @@
       "Country": "South Africa"
     },
     {
+      "title": "Virata Parvam (Tamil)",
+      "netflix_url": "https://www.netflix.com/title/81623282",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Biko",
       "netflix_url": "https://www.netflix.com/title/81631031",
       "year": "2022",
@@ -5105,6 +5146,13 @@
       "Actors": "Jeetendra, Mithun Chakraborty, Dimple Kapadia",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Hi Papa (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81740214",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Goodbye Farewell",

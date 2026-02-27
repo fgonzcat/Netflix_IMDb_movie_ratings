@@ -216,6 +216,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/6721" target="_blan
 | N/A |  | 2017 | <details> <summary><strong style="color:#1f6feb;">*One Piece Episode of East blue - Luffy and His Four Crewmates' Great Adventure*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81679589" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Monsters 103 Mercies Dragon Damnation*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81733654" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZjJjZGIwNWQtMzM5Ni00YWRkLWFhMmYtNmE0N2IyN2Q4MzljXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Kinnikuman Perfect Origin Arc*</strong></summary>  <div class="movie-plot">Kinnikuman returns to the ring in an epic three-way battle between the Seigi, Akuma and Perfect Chojin factions and reveals the roots of the Chojin.</div> </details> | <a href="https://www.imdb.com/title/tt29338030/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81781519" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BNjU4MDhkYmYtNGE1NC00Zjk4LWE0MTItYzcyMmE0YTM2MTlmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*BAKI-DOU: The Invincible Samurai*</strong></summary>  <div class="movie-plot">Baki and the strongest Underground Arena fighters face a threat of historical proportions: the resurrected Musashi Miyamoto, Japan's greatest samurai.</div> </details> | <a href="https://www.imdb.com/title/tt38201910/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81922765" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Pokémon Horizons: Season 2: The Search for Laqua*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81944585" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Babanba Banban Vampire*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81949674" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Puniru Is a Cute Slime*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81975106" target="_blank">Netflix_link</a> |
@@ -260,6 +261,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/6721" target="_blan
 
  
 ---
-*Page last updated on: 2026-02-23*
+*Page last updated on: 2026-02-26*
 
  
