@@ -240,6 +240,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/60951" target="_bla
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*The Gangnam Project*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82157089" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*AIR: All India Rankers*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82640275" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Playing Adult: Pernikahan Dini Gen Z*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82663244" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BNjQ4ZjM0MjItODdkYS00MWFlLWE0YmItOTViZWE1ODI4YmZmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Girl From Nowhere The Reset*</strong></summary>  <div class="movie-plot">"If everything stayed the same, it wouldn't be called karma, right?" When the world as it is still seems to need Nanno to shake things up.</div> </details> | <a href="https://www.imdb.com/title/tt39366412/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82704879" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -278,6 +279,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/60951" target="_bla
 
  
 ---
-*Page last updated on: 2026-02-26*
+*Page last updated on: 2026-03-08*
 
  

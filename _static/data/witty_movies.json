@@ -309,6 +309,23 @@
       "Country": "United States, Brazil"
     },
     {
+      "title": "The Lego Movie",
+      "netflix_url": "https://www.netflix.com/title/70289949",
+      "year": "2014",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt1490017",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+      "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Phil Lord, Christopher Miller",
+      "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+      "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+      "Language": "English",
+      "Country": "United States, Denmark, Australia, Norway"
+    },
+    {
       "title": "Obvious Child",
       "netflix_url": "https://www.netflix.com/title/70301275",
       "year": "2014",
@@ -1851,6 +1868,23 @@
       "Country": "United States"
     },
     {
+      "title": "Strangers in the Park",
+      "netflix_url": "https://www.netflix.com/title/81957702",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt7243394",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q4ZGUzZDYtMDlmYi00YzMwLTlhZmUtMTU2ZGYyYTkwNjExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two strangers. Two personalities. One hand-made secret.",
+      "Type": "movie",
+      "RunTime": "6 min",
+      "Genre": "Short, Comedy, Romance",
+      "Director": "Danilo Zambrano",
+      "Writer": "Danielle Galligan, Mark Lawrence, Danilo Zambrano",
+      "Actors": "Danielle Galligan, Mark Lawrence",
+      "Language": "English",
+      "Country": "Ireland"
+    },
+    {
       "title": "Blue Moon",
       "netflix_url": "https://www.netflix.com/title/82053241",
       "year": "2025",
@@ -1900,6 +1934,23 @@
       "Actors": "Guillaume Marbeck, Zoey Deutch, Aubry Dullin",
       "Language": "French, English, Italian",
       "Country": "France, United States"
+    },
+    {
+      "title": "Downton Abbey: The Grand Finale",
+      "netflix_url": "https://www.netflix.com/title/82087561",
+      "year": "2025",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt31888477",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTUxOWRkN2UtZjBlMS00NWU0LWE2M2ItZmY5MDJjMzlhYTk4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Mary finds herself in a public scandal and the family faces financial trouble, the household grapples with the threat of social disgrace. The Crawleys must embrace change with the next generation leading Downton Abbey into th...",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Drama",
+      "Director": "Simon Curtis",
+      "Writer": "Julian Fellowes",
+      "Actors": "Marilyn Cutts, Dominic West, Lorna Nickson Brown",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Jane Austen Wrecked My Life",

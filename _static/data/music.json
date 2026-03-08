@@ -37,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "Ray",
+      "netflix_url": "https://www.netflix.com/title/70001994",
+      "year": "2004",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0350258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxNDQwNjQzOV5BMl5BanBnXkFtZTcwNTQxNDYyMQ@@._V1_SX300.jpg",
+      "Plot": "The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s.",
+      "Type": "movie",
+      "RunTime": "152 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Taylor Hackford",
+      "Writer": "Taylor Hackford, James L. White",
+      "Actors": "Jamie Foxx, Regina King, Kerry Washington",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "iCarly",
       "netflix_url": "https://www.netflix.com/title/70136153",
       "year": "2012",
@@ -4030,8 +4047,18 @@
       "title": "timelesz project -REAL-",
       "netflix_url": "https://www.netflix.com/title/82111864",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39396520",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Fuma Kikuchi, Shori Sato, So Matsushima",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "ONE SHOT with Ed Sheeran",
@@ -4061,6 +4088,13 @@
       "title": "KPop Demon Hunters Lyric Videos",
       "netflix_url": "https://www.netflix.com/title/82174859",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "KPop Demon Hunters Bonus Content",
+      "netflix_url": "https://www.netflix.com/title/82182322",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -4149,6 +4183,13 @@
     {
       "title": "Starto Countdown 2025→2026",
       "netflix_url": "https://www.netflix.com/title/82659571",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Harry Styles. One Night In Manchester.",
+      "netflix_url": "https://www.netflix.com/title/82722921",
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null

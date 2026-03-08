@@ -326,6 +326,23 @@
       "Country": "United Kingdom, United States, Jamaica"
     },
     {
+      "title": "Field of Dreams",
+      "netflix_url": "https://www.netflix.com/title/499612",
+      "year": "1989",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0097351",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTEwMGYzNDktOWEyMi00NTJjLWE5MGQtNmNlNDkxOTYyZDA5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Iowa farmer Ray Kinsella is inspired by a voice he can't ignore to pursue a dream he can hardly believe. Supported by his wife, Ray begins the quest by turning his ordinary cornfield into a place where dreams can come true.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama, Family, Fantasy",
+      "Director": "Phil Alden Robinson",
+      "Writer": "W.P. Kinsella, Phil Alden Robinson",
+      "Actors": "Kevin Costner, James Earl Jones, Ray Liotta",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "From Russia with Love",
       "netflix_url": "https://www.netflix.com/title/526574",
       "year": "1963",
@@ -375,6 +392,23 @@
       "Actors": "Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "The Great Waldo Pepper",
+      "netflix_url": "https://www.netflix.com/title/560263",
+      "year": "1975",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0073075",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTk5Njk4MjctOGQ2Ni00ZThiLWFkNjUtMmQ1YmQ0MGQ0NzllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After WW1, an ex-pilot takes up barn-storming and chance-meets a former German ace fighter pilot with whom he co-stars in Hollywood war movies depicting aerial dog-fights.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Adventure, Drama",
+      "Director": "George Roy Hill",
+      "Writer": "George Roy Hill, William Goldman",
+      "Actors": "Robert Redford, Bo Svenson, Bo Brundin",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Groundhog Day",
@@ -647,6 +681,23 @@
       "Actors": "Luis Margani, Daniel Valenzuela, Adriana Aizemberg",
       "Language": "Spanish",
       "Country": "Argentina"
+    },
+    {
+      "title": "Casino",
+      "netflix_url": "https://www.netflix.com/title/70019012",
+      "year": "1995",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt0112641",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "Type": "movie",
+      "RunTime": "178 min",
+      "Genre": "Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Nicholas Pileggi, Martin Scorsese",
+      "Actors": "Robert De Niro, Sharon Stone, Joe Pesci",
+      "Language": "English",
+      "Country": "United States, France"
     },
     {
       "title": "Live and Let Die",

@@ -20,6 +20,13 @@
       "Country": "United States"
     },
     {
+      "title": "Stephen King's Sleepwalkers",
+      "netflix_url": "https://www.netflix.com/title/60003974",
+      "year": "1992",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Christine",
       "netflix_url": "https://www.netflix.com/title/70007667",
       "year": "1983",
@@ -517,6 +524,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "The House with a Clock in Its Walls",
+      "netflix_url": "https://www.netflix.com/title/80986886",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt2119543",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MwZjI4OGYtYjM1ZS00ODEzLTkzZDItMzNhYWFhMjQzMzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young orphan named Lewis Barnavelt aids his magical uncle in locating a clock with the power to bring about the end of the world.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Eli Roth",
+      "Writer": "John Bellairs, Eric Kripke",
+      "Actors": "Jack Black, Cate Blanchett, Owen Vaccaro",
+      "Language": "English",
+      "Country": "United States, Canada, India"
+    },
+    {
       "title": "The Legacy of the Bones",
       "netflix_url": "https://www.netflix.com/title/80990327",
       "year": "2019",
@@ -617,6 +641,23 @@
       "Actors": "Winslow Fegley, Lidya Jewett, Krysten Ritter",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Green Knight",
+      "netflix_url": "https://www.netflix.com/title/81008356",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt9243804",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRjNmU1M2ItNDU4Ni00ZGY2LTlmNzItY2MxYmY3OTllZjMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fantasy retelling of the medieval story of Sir Gawain and the Green Knight.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Adventure, Drama, Fantasy",
+      "Director": "David Lowery",
+      "Writer": "David Lowery, The Gawain Poet",
+      "Actors": "Dev Patel, Alicia Vikander, Joel Edgerton",
+      "Language": "English, Latin",
+      "Country": "United States, Canada, Ireland"
     },
     {
       "title": "Svaha: The Sixth Finger",
@@ -906,6 +947,23 @@
       "Actors": "Shabana Azmi, Sanjeeda Sheikh, Satyadeep Misra",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Suzzanna: Buried Alive",
+      "netflix_url": "https://www.netflix.com/title/81062674",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9044128",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5OTMxN2YtY2E4OS00NjZmLTkxNmYtY2MwMWQwZWRlZWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a pregnant woman is murdered, her spirit seeks revenge against her increasingly terrified killers, who are determined to finish her off for good.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Rocky Soraya, Anggy Umbara",
+      "Writer": "Ferry Lesmana, Bene Dion Rajagukguk, Sunil Soraya",
+      "Actors": "Luna Maya, Herjunot Ali, T. Rifnu Wikana",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Revenge of the Pontianak",
@@ -1941,6 +1999,23 @@
       "Actors": "Arden Cho, May Hong, Ji-young Yoo",
       "Language": "English, Korean",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Virupaksha",
+      "netflix_url": "https://www.netflix.com/title/81504461",
+      "year": "2023",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt24059780",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjZmNDVhNTUtMzE0Zi00ZWZjLTllZjAtY2Q3MGQ1NDU0ZDhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a man visits his ancestral village, where terror reigns after a chain of unexplained deaths, he must unravel mystical secrets before it's too late.",
+      "Type": "movie",
+      "RunTime": "145 min",
+      "Genre": "Action, Horror, Mystery",
+      "Director": "Karthik Varma Dandu",
+      "Writer": "Krushna Hari, Sukumar",
+      "Actors": "Sai Dharam Tej, Samyuktha Menon, Sunil",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Green Snake",
@@ -3370,6 +3445,23 @@
       "Country": "Philippines, South Korea"
     },
     {
+      "title": "My Boo 2",
+      "netflix_url": "https://www.netflix.com/title/82072501",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38808167",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzQyNDU5NWEtNzFiMC00NzY2LTkzNzYtMTdiYjY3Y2RhMGQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Witness the deep bond between Joe and Anong, which has been long-lasting through many lifetimes and reincarnations.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Horror, Romance",
+      "Director": "S Khomkrit Treewimol",
+      "Writer": "Kirati Kumsat, Chaianan Soijumpa, S Khomkrit Treewimol",
+      "Actors": "Maylada Susri, Sutthirak Subvijitra, Chaleumpol Tikumpornteerawong",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
       "title": "Attack 13",
       "netflix_url": "https://www.netflix.com/title/82072502",
       "year": "2025",
@@ -3383,6 +3475,23 @@
       "Director": "Taweewat Wantha",
       "Writer": "Thammanan Chulaboriruk",
       "Actors": "Korranid Laosubinprasoet, Veerinsara Tangkitsuvanich, Nichapalak Thongkham",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
+      "title": "Shutter",
+      "netflix_url": "https://www.netflix.com/title/82081794",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0440803",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWJiMTM4YzQtMjg2Zi00NzhjLTkzZDctODU1OGQyNWRiMDZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Jane and Tun run over a girl in a car accident, they speed away immediately from the crime scene. However, Tun, a photographer, soon discovers strange shadows in his photos, which unsettles them.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Banjong Pisanthanakun, Parkpoom Wongpoom",
+      "Writer": "Parkpoom Wongpoom, Banjong Pisanthanakun, Sophon Sakdaphisit",
+      "Actors": "Ananda Everingham, Natthaweeranuch Thongmee, Achita Sikamana",
       "Language": "Thai",
       "Country": "Thailand"
     },
@@ -3486,6 +3595,13 @@
       "Country": "India"
     },
     {
+      "title": "KPop Demon Hunters Bonus Content",
+      "netflix_url": "https://www.netflix.com/title/82182322",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Death Whisperer 3",
       "netflix_url": "https://www.netflix.com/title/82187912",
       "year": "2025",
@@ -3501,6 +3617,13 @@
       "Actors": "Rattawadee Wongthong, Jelilcha Kapaun, Nadech Kugimiya",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Re/Member: The Last Night",
+      "netflix_url": "https://www.netflix.com/title/82679720",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

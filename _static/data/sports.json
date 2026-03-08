@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/4370",
   "movies": [
     {
+      "title": "Field of Dreams",
+      "netflix_url": "https://www.netflix.com/title/499612",
+      "year": "1989",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0097351",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTEwMGYzNDktOWEyMi00NTJjLWE5MGQtNmNlNDkxOTYyZDA5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Iowa farmer Ray Kinsella is inspired by a voice he can't ignore to pursue a dream he can hardly believe. Supported by his wife, Ray begins the quest by turning his ordinary cornfield into a place where dreams can come true.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama, Family, Fantasy",
+      "Director": "Phil Alden Robinson",
+      "Writer": "W.P. Kinsella, Phil Alden Robinson",
+      "Actors": "Kevin Costner, James Earl Jones, Ray Liotta",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Sandlot",
       "netflix_url": "https://www.netflix.com/title/60021964",
       "year": "1993",
@@ -84,6 +101,23 @@
       "Director": "D.J. Caruso",
       "Writer": "Dan Gilroy",
       "Actors": "Matthew McConaughey, Al Pacino, Rene Russo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Gridiron Gang",
+      "netflix_url": "https://www.netflix.com/title/70044599",
+      "year": "2006",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0421206",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4NTAwNTAzN15BMl5BanBnXkFtZTcwNjczODYzMQ@@._V1_SX300.jpg",
+      "Plot": "Teenagers at a juvenile detention center, under the leadership of their counselor, gain self-esteem by playing football together.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Phil Joanou",
+      "Writer": "Jeff Maguire, Jac Flanders",
+      "Actors": "Dwayne Johnson, Xzibit, L. Scott Caldwell",
       "Language": "English",
       "Country": "United States"
     },
@@ -1569,6 +1603,23 @@
       "Actors": "Roberto Carlos, José Ramón de la Morena, José Félix Díaz",
       "Language": "English, Spanish, Catalan, Portuguese",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Born a Champion",
+      "netflix_url": "https://www.netflix.com/title/81387757",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10661710",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDY1MjI5NTQtNGU0OC00OWZkLWIxMmItNGU1Mjg0NTI0Njc5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mickey Kelley, one of the first American black belts in Brazilian jiu-jitsu, gets pulled away from everything he loves and into an unsanctioned MMA tournament.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Action, Drama, Sport",
+      "Director": "Alex Ranarivelo",
+      "Writer": "Sean Patrick Flanery, Alex Ranarivelo",
+      "Actors": "Courtney Hope Turner, Maurice Compte, Sean Patrick Flanery",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Schumacher",

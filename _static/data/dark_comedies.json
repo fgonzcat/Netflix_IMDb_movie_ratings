@@ -207,6 +207,23 @@
       "Country": "United States"
     },
     {
+      "title": "Zombieland",
+      "netflix_url": "https://www.netflix.com/title/70123542",
+      "year": "2009",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt1156398",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SX300.jpg",
+      "Plot": "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Action, Comedy, Horror",
+      "Director": "Ruben Fleischer",
+      "Writer": "Rhett Reese, Paul Wernick",
+      "Actors": "Jesse Eisenberg, Emma Stone, Woody Harrelson",
+      "Language": "English, Spanish, French",
+      "Country": "United States"
+    },
+    {
       "title": "Trailer Park Boys: Countdown to Liquor Day",
       "netflix_url": "https://www.netflix.com/title/70128549",
       "year": "2009",
@@ -552,6 +569,23 @@
       "Actors": "Josh Peck, Tony Revolori, Kevin Corrigan",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "A Man Called Ove",
+      "netflix_url": "https://www.netflix.com/title/80102116",
+      "year": "2015",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt4080728",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0NDUyOTc2MV5BMl5BanBnXkFtZTgwODk2NzU3OTE@._V1_SX300.jpg",
+      "Plot": "Ove, an ill-tempered, isolated retiree who spends his days enforcing block association rules and visiting his wife's grave, has finally given up on life just as an unlikely friendship develops with his boisterous new neighbors.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Hannes Holm",
+      "Writer": "Hannes Holm, Fredrik Backman",
+      "Actors": "Rolf Lassgård, Bahar Pars, Filip Berg",
+      "Language": "Swedish, Persian, Spanish",
+      "Country": "Sweden, Denmark, Norway"
     },
     {
       "title": "Take Me",

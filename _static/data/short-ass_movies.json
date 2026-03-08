@@ -156,6 +156,13 @@
       "Country": "United States"
     },
     {
+      "title": "Stephen King's Sleepwalkers",
+      "netflix_url": "https://www.netflix.com/title/60003974",
+      "year": "1992",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The One",
       "netflix_url": "https://www.netflix.com/title/60021777",
       "year": "2001",
@@ -527,6 +534,23 @@
       "Country": "United States"
     },
     {
+      "title": "Zombieland",
+      "netflix_url": "https://www.netflix.com/title/70123542",
+      "year": "2009",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt1156398",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SX300.jpg",
+      "Plot": "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Action, Comedy, Horror",
+      "Director": "Ruben Fleischer",
+      "Writer": "Rhett Reese, Paul Wernick",
+      "Actors": "Jesse Eisenberg, Emma Stone, Woody Harrelson",
+      "Language": "English, Spanish, French",
+      "Country": "United States"
+    },
+    {
       "title": "Naruto Shippuden: The Movie",
       "netflix_url": "https://www.netflix.com/title/70124999",
       "year": "2007",
@@ -542,6 +566,23 @@
       "Actors": "Alexandre Crepet, Junko Takeuchi, Maile Flanagan",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Night Catches Us",
+      "netflix_url": "https://www.netflix.com/title/70129370",
+      "year": "2010",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0775543",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIyNDEyNjY3NF5BMl5BanBnXkFtZTcwNjY0MjE3Mw@@._V1_SX300.jpg",
+      "Plot": "In 1976, complex political and emotional forces are set in motion when a young man returns to the race-torn Philadelphia neighborhood where he came of age during the Black Power movement.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Drama, Romance",
+      "Director": "Tanya Hamilton",
+      "Writer": "Tanya Hamilton",
+      "Actors": "Anthony Mackie, Kerry Washington, Jamara Griffin",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Flipped",
@@ -847,6 +888,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Bling Ring",
+      "netflix_url": "https://www.netflix.com/title/70271454",
+      "year": "2013",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt2132285",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzMTgwMzQxN15BMl5BanBnXkFtZTcwOTcwNTY0OQ@@._V1_SX300.jpg",
+      "Plot": "Inspired by actual events, a group of fame-obsessed teenagers use the internet to track celebrities' whereabouts in order to rob their homes.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Sofia Coppola",
+      "Writer": "Sofia Coppola, Nancy Jo Sales",
+      "Actors": "Katie Chang, Israel Broussard, Emma Watson",
+      "Language": "English",
+      "Country": "United States, United Kingdom, France, Germany, Japan"
+    },
+    {
       "title": "Naruto Shippuden: The Movie: The Lost Tower",
       "netflix_url": "https://www.netflix.com/title/70275937",
       "year": "2010",
@@ -862,6 +920,23 @@
       "Actors": "Junko Takeuchi, Chie Nakamura, Satoshi Hino",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Gippi",
+      "netflix_url": "https://www.netflix.com/title/70276514",
+      "year": "2013",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt2814372",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBlZDY1ZTEtZWJkOC00NWU3LWE4ZWUtYzk0YTVkOTkxOWVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A painfully awkward, overweight teenager reclaims her right to happiness and self-worth by running against a pretty, popular queen bee in the school election.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Sonam Nair",
+      "Writer": "Sonam Nair",
+      "Actors": "Riya Vij, Acchui, Anjali",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Dragon Ball Z: Battle of Gods",
@@ -996,6 +1071,23 @@
       "Director": "Sam Miller",
       "Writer": "Aimee Lagos",
       "Actors": "Taraji P. Henson, Idris Elba, Leslie Bibb",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Paul Blart: Mall Cop 2",
+      "netflix_url": "https://www.netflix.com/title/80021687",
+      "year": "2015",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt3450650",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwMjkxNDQ1MV5BMl5BanBnXkFtZTgwNDQwODIxNTE@._V1_SX300.jpg",
+      "Plot": "After six years of keeping our malls safe, Paul Blart has earned a well-deserved vacation. He heads to Las Vegas with his teenage daughter before she heads off to college. But safety never takes a holiday and when duty calls, Blar...",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Andy Fickman",
+      "Writer": "Kevin James, Nick Bakay",
+      "Actors": "Kevin James, Raini Rodriguez, Eduardo Verástegui",
       "Language": "English",
       "Country": "United States"
     },
@@ -5914,6 +6006,23 @@
       "Country": "Ireland, United States"
     },
     {
+      "title": "Thank You, I'm Sorry",
+      "netflix_url": "https://www.netflix.com/title/81598425",
+      "year": "2023",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt23735436",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI3Y2E2ODItMTY0MC00YWZhLWJmYjItMDRkMDM0ODA2MGFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Suddenly alone during the late stages of her pregnancy, Sara receives an unexpected lifeline when Linda, her estranged older sister, arrives.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Lisa Aschan",
+      "Writer": "Marie Østerbye",
+      "Actors": "Sanna Sundqvist, Charlotta Björck, Amaël Blomgren Alcaide",
+      "Language": "Swedish",
+      "Country": "Sweden"
+    },
+    {
       "title": "Semi-Soeter",
       "netflix_url": "https://www.netflix.com/title/81599336",
       "year": "2025",
@@ -6248,6 +6357,23 @@
       "Writer": "Paul Weitz",
       "Actors": "Jane Fonda, Lily Tomlin, Malcolm McDowell",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Unknown Country",
+      "netflix_url": "https://www.netflix.com/title/81672225",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt12783826",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWIyNTdjMDgtNzg3NS00Y2Y3LTk3MGEtMTUyZmVkMzM5YTI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An unexpected invitation rushes a grieving young woman into a lonely road trip through the American Midwest towards the border between Texas and Mexico.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Adventure, Drama, Mystery",
+      "Director": "Morrisa Maltz",
+      "Writer": "Lily Gladstone, Morrisa Maltz, Lainey Shangreaux",
+      "Actors": "Lily Gladstone, Pam Richter, Tommy Heitkamp",
+      "Language": "English, North American Indian",
       "Country": "United States"
     },
     {
@@ -7197,6 +7323,23 @@
       "Country": "United Kingdom, France"
     },
     {
+      "title": "Lola",
+      "netflix_url": "https://www.netflix.com/title/81772299",
+      "year": "2024",
+      "imdb_rating": "3.8",
+      "imdb_id": "tt14375666",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI3MTEyODgtYjZiMi00ODY1LWIzMjgtNTRmNGI2OTVlNjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Lola James works to save enough money to get her little brother, Arlo, out of their toxic home. Arlo keeps her hopeful, until one tragic night, when her whole world gets uprooted. From that moment on, nothing will ever be the same.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Drama",
+      "Director": "Nicola Peltz Beckham",
+      "Writer": "Nicola Peltz Beckham",
+      "Actors": "Nicola Peltz Beckham, Raven Goodwin, Richie Merritt",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Maximum Penalty 2",
       "netflix_url": "https://www.netflix.com/title/81778837",
       "year": "2024",
@@ -7700,6 +7843,23 @@
       "Actors": "Jackie Chan, Ben Wang, Joshua Jackson",
       "Language": "English, Mandarin",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Shutter",
+      "netflix_url": "https://www.netflix.com/title/82081794",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0440803",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWJiMTM4YzQtMjg2Zi00NzhjLTkzZDctODU1OGQyNWRiMDZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Jane and Tun run over a girl in a car accident, they speed away immediately from the crime scene. However, Tun, a photographer, soon discovers strange shadows in his photos, which unsettles them.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Banjong Pisanthanakun, Parkpoom Wongpoom",
+      "Writer": "Parkpoom Wongpoom, Banjong Pisanthanakun, Sophon Sakdaphisit",
+      "Actors": "Ananda Everingham, Natthaweeranuch Thongmee, Achita Sikamana",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Bunny",
@@ -8547,6 +8707,13 @@
       "Actors": "Emma Johnson, Giles Panton, Marnie Mahannah",
       "Language": "English, French",
       "Country": "Canada"
+    },
+    {
+      "title": "Re/Member: The Last Night",
+      "netflix_url": "https://www.netflix.com/title/82679720",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Stand by Me",

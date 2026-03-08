@@ -88,6 +88,23 @@
       "Country": "United States"
     },
     {
+      "title": "Talvar",
+      "netflix_url": "https://www.netflix.com/title/80080618",
+      "year": "2015",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt4934950",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzODg0Mjc4M15BMl5BanBnXkFtZTgwNzY4Mzc3NjE@._V1_SX300.jpg",
+      "Plot": "An experienced investigator confronts several conflicting theories about the perpetrators of a violent double homicide.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Meghna Gulzar",
+      "Writer": "Vishal Bhardwaj, Aditya Nimbalkar",
+      "Actors": "Irrfan Khan, Konkona Sen Sharma, Neeraj Kabi",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Amanda Knox",
       "netflix_url": "https://www.netflix.com/title/80081155",
       "year": "2016",
@@ -3401,6 +3418,23 @@
       "Country": "India"
     },
     {
+      "title": "Indian Predator: Murder in a Courtroom",
+      "netflix_url": "https://www.netflix.com/title/81610577",
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt22756480",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTY2ZmI3MDQtN2UxZi00ZGU1LWI5ZDktN2JhMzA4NjEwNWIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2004, a brutal predator was lynched in a courtroom. This is the story of the community he terrorized - and the vengeance they unleashed.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Shubham Ugale, Sangramsingh Thakur, Happy Kalizpuria",
+      "Language": "N/A",
+      "Country": "India"
+    },
+    {
       "title": "Beast of Bangalore: Indian Predator",
       "netflix_url": "https://www.netflix.com/title/81610578",
       "year": "2022",
@@ -4086,6 +4120,23 @@
       "Country": "United States"
     },
     {
+      "title": "A Friend, a Murderer",
+      "netflix_url": "https://www.netflix.com/title/81729040",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt14270782",
+      "Poster": "https://occ-0-1340-1339.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQKrUZ3lmM_FWHX0EWV0eVXC7fkdbEJuJj6V2hwLlFZbFWn0lYSy8TqcJOCMo384H78RIA4V2J05Pp44E-ul_dO8Q1_qspOKFlim.jpg?r=1cc",
+      "Plot": "5 Friends stay in a holiday home, but which one of them is a murderer?",
+      "Type": "movie",
+      "RunTime": "32 min",
+      "Genre": "Short, Animation, Crime",
+      "Director": "Carol Sparkle",
+      "Writer": "Carol Sparkle",
+      "Actors": "Ross K. Foad, Cascade Nerida",
+      "Language": "English",
+      "Country": "Pakistan"
+    },
+    {
       "title": "Gone Girls: The Long Island Serial Killer",
       "netflix_url": "https://www.netflix.com/title/81729869",
       "year": "2025",
@@ -4404,6 +4455,13 @@
       "Actors": "Jodi Hildebrandt, Jessica Bate, Eric Clarke",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The TikTok Killer",
+      "netflix_url": "https://www.netflix.com/title/81957000",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Perfect Neighbor",

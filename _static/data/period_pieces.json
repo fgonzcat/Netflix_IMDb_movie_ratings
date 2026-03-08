@@ -54,6 +54,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Great Waldo Pepper",
+      "netflix_url": "https://www.netflix.com/title/560263",
+      "year": "1975",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0073075",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTk5Njk4MjctOGQ2Ni00ZThiLWFkNjUtMmQ1YmQ0MGQ0NzllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After WW1, an ex-pilot takes up barn-storming and chance-meets a former German ace fighter pilot with whom he co-stars in Hollywood war movies depicting aerial dog-fights.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Adventure, Drama",
+      "Director": "George Roy Hill",
+      "Writer": "George Roy Hill, William Goldman",
+      "Actors": "Robert Redford, Bo Svenson, Bo Brundin",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Braveheart",
       "netflix_url": "https://www.netflix.com/title/60000540",
       "year": "1995",
@@ -2497,6 +2514,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Downton Abbey: The Grand Finale",
+      "netflix_url": "https://www.netflix.com/title/82087561",
+      "year": "2025",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt31888477",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTUxOWRkN2UtZjBlMS00NWU0LWE2M2ItZmY5MDJjMzlhYTk4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Mary finds herself in a public scandal and the family faces financial trouble, the household grapples with the threat of social disgrace. The Crawleys must embrace change with the next generation leading Downton Abbey into th...",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Drama",
+      "Director": "Simon Curtis",
+      "Writer": "Julian Fellowes",
+      "Actors": "Marilyn Cutts, Dominic West, Lorna Nickson Brown",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Titans: The Rise of Hollywood",
       "netflix_url": "https://www.netflix.com/title/82089628",
       "year": "2022",
@@ -2579,6 +2613,23 @@
       "Writer": "N/A",
       "Actors": "Lu Bai, Xingyue Wang, Yiqin Zhao",
       "Language": "Mandarin",
+      "Country": "China"
+    },
+    {
+      "title": "Pursuit of Jade",
+      "netflix_url": "https://www.netflix.com/title/82706180",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35316225",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODg2MTRkZDktMjU1NS00M2IxLWFhYWYtNzVkNWRjMTNjYzBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Changyu Fan and Zheng Xie enter a fake marriage for separate reasons, but their love grows. Separated by conflict, they reunite on the battlefield, fighting together for justice, truth, and their love.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Linghe Zhang, Xiwei Tian, Sherry Kong",
+      "Language": "Chinese, Mandarin",
       "Country": "China"
     }
   ]

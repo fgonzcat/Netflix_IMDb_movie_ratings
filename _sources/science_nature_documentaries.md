@@ -117,6 +117,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2595" target="_blan
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Predators*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt28811357/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81319177" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Black Holes | The Edge of All We Know*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81343342" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Plastic Island*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt2144844/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81597205" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BYjdkYmIwOWQtNjQxNy00MTBmLWE1NTctNTdmYjhjYTA4NWM1XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*The Dinosaurs*</strong></summary>  <div class="movie-plot">Explores the evolutionary journey of dinosaurs, unraveling their origins, ecological significance, diversification, and eventual extinction.</div> </details> | <a href="https://www.imdb.com/title/tt32493765/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81612719" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*All the Sharks*</strong></summary>  <div class="movie-plot">Four shark expert teams compete globally to track down the world's most elusive shark species.</div> </details> | <a href="https://www.imdb.com/title/tt37333650/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81711583" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Titan: The OceanGate Submersible Disaster*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81712178" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Matter of Time*</strong></summary>  <div class="movie-plot">A string of Eddie Vedder solo concerts in Seattle in 2023 are the backdrop for the film, which chronicles efforts to find a cure for epidermolysis bullosa (EB), a rare genetic disease that can be lethal.</div> </details> | <a href="https://www.imdb.com/title/tt36590322/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82184383" target="_blank">Netflix_link</a> |
@@ -159,6 +160,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2595" target="_blan
 
  
 ---
-*Page last updated on: 2026-02-26*
+*Page last updated on: 2026-03-08*
 
  

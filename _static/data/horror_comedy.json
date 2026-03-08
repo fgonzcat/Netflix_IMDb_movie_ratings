@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/89585",
   "movies": [
     {
+      "title": "Zombieland",
+      "netflix_url": "https://www.netflix.com/title/70123542",
+      "year": "2009",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt1156398",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SX300.jpg",
+      "Plot": "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Action, Comedy, Horror",
+      "Director": "Ruben Fleischer",
+      "Writer": "Rhett Reese, Paul Wernick",
+      "Actors": "Jesse Eisenberg, Emma Stone, Woody Harrelson",
+      "Language": "English, Spanish, French",
+      "Country": "United States"
+    },
+    {
       "title": "Life After Beth",
       "netflix_url": "https://www.netflix.com/title/70299270",
       "year": "2014",
@@ -546,6 +563,23 @@
       "Actors": "Matheus Diésey, Bruno Loiácono, Watson Façanha Costa",
       "Language": "Portuguese",
       "Country": "Brazil"
+    },
+    {
+      "title": "My Boo 2",
+      "netflix_url": "https://www.netflix.com/title/82072501",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38808167",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzQyNDU5NWEtNzFiMC00NzY2LTkzNzYtMTdiYjY3Y2RhMGQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Witness the deep bond between Joe and Anong, which has been long-lasting through many lifetimes and reincarnations.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Horror, Romance",
+      "Director": "S Khomkrit Treewimol",
+      "Writer": "Kirati Kumsat, Chaianan Soijumpa, S Khomkrit Treewimol",
+      "Actors": "Maylada Susri, Sutthirak Subvijitra, Chaleumpol Tikumpornteerawong",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Kang Solah From Kang Mak x Nenek Gayung",

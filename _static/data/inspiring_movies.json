@@ -122,6 +122,23 @@
       "Country": "India"
     },
     {
+      "title": "Gridiron Gang",
+      "netflix_url": "https://www.netflix.com/title/70044599",
+      "year": "2006",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0421206",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4NTAwNTAzN15BMl5BanBnXkFtZTcwNjczODYzMQ@@._V1_SX300.jpg",
+      "Plot": "Teenagers at a juvenile detention center, under the leadership of their counselor, gain self-esteem by playing football together.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Phil Joanou",
+      "Writer": "Jeff Maguire, Jac Flanders",
+      "Actors": "Dwayne Johnson, Xzibit, L. Scott Caldwell",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Facing the Giants",
       "netflix_url": "https://www.netflix.com/title/70056416",
       "year": "2006",
@@ -205,6 +222,23 @@
       "Actors": "Shahid Kapoor, Rani Mukerji, Anupam Kher",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Brother Outsider: The Life of Bayard Rustin",
+      "netflix_url": "https://www.netflix.com/title/70139371",
+      "year": "2003",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0337902",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM2ODQ2MzQ3MV5BMl5BanBnXkFtZTcwMzQxMDI3Mw@@._V1_SX300.jpg",
+      "Plot": "Documentary on Bayard Rustin, best-remembered as the organizer of the 1963 March on Washington.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Nancy D. Kates, Bennett Singer",
+      "Writer": "N/A",
+      "Actors": "Bayard Rustin, Dorothy Jackson, John Rodgers",
+      "Language": "English",
+      "Country": "N/A"
     },
     {
       "title": "30 for 30: The U",
@@ -388,6 +422,23 @@
       "Country": "United States"
     },
     {
+      "title": "E-Team",
+      "netflix_url": "https://www.netflix.com/title/70299286",
+      "year": "2014",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt3456090",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI4NDExNDYxNF5BMl5BanBnXkFtZTgwMDkyOTczMTE@._V1_SX300.jpg",
+      "Plot": "When atrocities are committed in countries held hostage by ruthless dictators, Human Rights Watch sends in the E-Team (Emergencies Team), a collection of fiercely intelligent individuals hired to document war crimes and report the...",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Documentary, War",
+      "Director": "Katy Chevigny, Ross Kauffman",
+      "Writer": "Katy Chevigny, Ross Kauffman, David Teague",
+      "Actors": "Anna Neistat, Ole Solvang, Peter Bouckaert",
+      "Language": "English, German, Arabic, Russian, French",
+      "Country": "United States"
+    },
+    {
       "title": "The Battered Bastards of Baseball",
       "netflix_url": "https://www.netflix.com/title/70299904",
       "year": "2014",
@@ -463,6 +514,13 @@
       "imdb_id": null
     },
     {
+      "title": "30 for 30: The U Part 2",
+      "netflix_url": "https://www.netflix.com/title/80020313",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Race",
       "netflix_url": "https://www.netflix.com/title/80022604",
       "year": "2016",
@@ -510,6 +568,40 @@
       "Director": "Alex Kendrick",
       "Writer": "Alex Kendrick, Stephen Kendrick",
       "Actors": "Priscilla C. Shirer, T.C. Stallings, Karen Abercrombie",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "30 for 30: Sole Man",
+      "netflix_url": "https://www.netflix.com/title/80049801",
+      "year": "2015",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt4450678",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Counterpunch",
+      "netflix_url": "https://www.netflix.com/title/80049873",
+      "year": "2017",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt7022034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q5ZTViN2ItNDRlOS00MjE1LWI1ODctNjFhNjI2MzM5NWZlXkEyXkFqcGdeQXVyNjc4Nzk3NzU@._V1_SX300.jpg",
+      "Plot": "The seasoned pro. The Olympic hopeful. The young up-and-comer. The ring is their home, and the titles are their dream. As boxing' popularity wanes, three fighters at different stages of their career make sacrifices to pursue their...",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Jay Bulger",
+      "Writer": "Jay Bulger",
+      "Actors": "Oscar De La Hoya, David Diamante, Bernard Hopkins",
       "Language": "English",
       "Country": "United States"
     },
@@ -580,6 +672,23 @@
       "Actors": "Dev Patel, Nicole Kidman, Rooney Mara",
       "Language": "English, Hindi, Bengali",
       "Country": "United Kingdom, Australia, United States"
+    },
+    {
+      "title": "The Mars Generation",
+      "netflix_url": "https://www.netflix.com/title/80117263",
+      "year": "2017",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt6333096",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQxMzE4MTAxMV5BMl5BanBnXkFtZTgwNTYyMjUyMjI@._V1_SX300.jpg",
+      "Plot": "Aspiring teenage astronauts reveal that a journey to Mars is closer than you think.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary",
+      "Director": "Michael Barnett",
+      "Writer": "Michael Barnett, Michael Mahaffie",
+      "Actors": "Bob Behnken, Alayna Bidlack, Niko Blanks",
+      "Language": "N/A",
+      "Country": "United States"
     },
     {
       "title": "100 Meters",
@@ -731,6 +840,23 @@
       "Director": "Steve Gomer",
       "Writer": "Steve Armour",
       "Actors": "John Corbett, Cara Buono, Myles Moore",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Resurface",
+      "netflix_url": "https://www.netflix.com/title/80184055",
+      "year": "2017",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt6081408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2I3ZWYzMjAtZTU2Yy00MzNlLTg5OGQtYjdlMzFmNTBhMjFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After years of nightmares, depression, and seizures, Iraq war veteran Bobby Lane could see no way out of his trauma other than suicide. Then he met Van Curaza, a former big wave surfer who since founded Operation Surf and dedicate...",
+      "Type": "movie",
+      "RunTime": "26 min",
+      "Genre": "Documentary, Short, Sport",
+      "Director": "Joshua Izenberg, Wynn Padula",
+      "Writer": "N/A",
+      "Actors": "Bobby Lane, Van Curaza, Martin Pollock",
       "Language": "English",
       "Country": "United States"
     },
@@ -939,6 +1065,40 @@
       "Country": "United States"
     },
     {
+      "title": "Ram Dass, Going Home",
+      "netflix_url": "https://www.netflix.com/title/80209895",
+      "year": "2018",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt6089564",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWJiMWVmZTItMmFlMy00N2M3LWJiODUtZWVhNzUyYzQ0ZGQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A profound and poetic encounter with cultural and spiritual icon Ram Dass, at his home on Maui toward the end of his life.",
+      "Type": "movie",
+      "RunTime": "31 min",
+      "Genre": "Documentary, Short",
+      "Director": "Derek Peck",
+      "Writer": "Derek Peck",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Shawn Mendes: In Wonder",
+      "netflix_url": "https://www.netflix.com/title/80212798",
+      "year": "2020",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt13276386",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjU3ZDJkZmYtZmVkOC00MWI2LTg3NTQtZmIxNzZjY2ZlNzQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A portrait of singer/songwriter Shawn Mendes' life, chronicling the past few years of his rise and journey.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Documentary, Music",
+      "Director": "Grant Singer",
+      "Writer": "Connor Brashier",
+      "Actors": "Shawn Mendes, Camila Cabello, Cez Darke",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Beats",
       "netflix_url": "https://www.netflix.com/title/80216302",
       "year": "2019",
@@ -986,6 +1146,23 @@
       "Director": "Andrew Hyatt",
       "Writer": "Terence Berden, Andrew Hyatt",
       "Actors": "Jim Caviezel, James Faulkner, Olivier Martinez",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Dance Dreams: Hot Chocolate Nutcracker",
+      "netflix_url": "https://www.netflix.com/title/80217229",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt8741182",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdhNmMzZjctOWQzYi00ZTVkLTkyMGMtMWViOTJkMzQwOTAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Behind-the-scenes at the Debbie Allen Dance Academy and their award-winning version of The Nutcracker, which blends a variety of dance traditions.",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Documentary, Family",
+      "Director": "Oliver Bokelberg",
+      "Writer": "N/A",
+      "Actors": "Debbie Allen, Tichina Arnold, Ryan Phuong",
       "Language": "English",
       "Country": "United States"
     },
@@ -1124,6 +1301,23 @@
       "Actors": "Adam Sandler, Queen Latifah, Juancho Hernangomez",
       "Language": "English, Serbian, Spanish",
       "Country": "United States"
+    },
+    {
+      "title": "A Tale of Two Kitchens",
+      "netflix_url": "https://www.netflix.com/title/80244680",
+      "year": "2019",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt10243660",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzkzYTY2OTEtOTM5MC00MDdiLThlZWYtZTFjNmMwMTNjZjBiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two countries, two restaurants, one vision. A Tale of Two Kitchens explores the ways in which a restaurant can serve as a place of both dignity and community.",
+      "Type": "movie",
+      "RunTime": "29 min",
+      "Genre": "Documentary, Short",
+      "Director": "Trisha Ziff",
+      "Writer": "Sheerly Avni, Trisha Ziff",
+      "Actors": "N/A",
+      "Language": "Spanish, English",
+      "Country": "United States, Mexico"
     },
     {
       "title": "Lorena, Light-Footed Woman",
@@ -1282,6 +1476,23 @@
       "Director": "Nzingha Stewart",
       "Writer": "Sam Wolfson",
       "Actors": "Ava Michelle, Griffin Gluck, Sabrina Carpenter",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Out of Many, One",
+      "netflix_url": "https://www.netflix.com/title/81010212",
+      "year": "2018",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt9283302",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM1NzJkOGEtZjRiYi00NjFhLThlNWQtZjFjYmRlZjIzZjdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The United States has long offered a promise of opportunity and safety to arriving immigrants - The American Dream. However, currently facing a time of deep political, social, and cultural divide, immigration has become a divisive...",
+      "Type": "movie",
+      "RunTime": "34 min",
+      "Genre": "Documentary, Short",
+      "Director": "John Hoffman, Nanfu Wang",
+      "Writer": "N/A",
+      "Actors": "N/A",
       "Language": "English",
       "Country": "United States"
     },
@@ -1558,6 +1769,23 @@
       "Country": "Australia, United States"
     },
     {
+      "title": "Spelling the Dream",
+      "netflix_url": "https://www.netflix.com/title/81069312",
+      "year": "2020",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt6193522",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2M0MmQ0Y2MtZDhkYy00MjhjLTkyZDMtNDczYTQzNmE0N2QxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chronicle of the ups and downs of four Indian-American students as they compete to realize their dream of winning the iconic tournament.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Documentary",
+      "Director": "Sam Rega",
+      "Writer": "Sam Rega, Chris Weller",
+      "Actors": "Srinivas Ayyagari, Jacques Bailly, Valerie Browning",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Hope Frozen: A Quest to Live Twice",
       "netflix_url": "https://www.netflix.com/title/81072979",
       "year": "2020",
@@ -1614,6 +1842,23 @@
       "Actors": "Ajeya, Anita, Gouri Choudari",
       "Language": "Hindi, English",
       "Country": "United States"
+    },
+    {
+      "title": "Pelé",
+      "netflix_url": "https://www.netflix.com/title/81074673",
+      "year": "2021",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt0793430",
+      "Poster": "https://occ-0-1340-1339.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABf6C5FHpON-7JSs4kZWvNYT2ysRNTgw38Dif6nPrib2zM3hgUYWvLXd7rSY4SiX0FKB3QGxmQVDryMu9EjRKx2Vbf4u9sGqWLi82.jpg?r=056",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama",
+      "Director": "Fernando Vendrell",
+      "Writer": "Carla Baptista, Henrique Galvão, Fernando Vendrell",
+      "Actors": "Daniela Costa, Francisco Nascimento, Manuel Wiborg",
+      "Language": "Portuguese",
+      "Country": "Portugal"
     },
     {
       "title": "Overcomer",
@@ -1716,6 +1961,23 @@
       "Actors": "Ice Blue, Mano Brown, Georgina Elizabeth Okon",
       "Language": "Portuguese",
       "Country": "Brazil"
+    },
+    {
+      "title": "ROAD TO ROMA",
+      "netflix_url": "https://www.netflix.com/title/81085934",
+      "year": "2020",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt11763742",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmNkZTMwMGYtZTcyOC00YjM1LThlNWUtZGZjYjhjYTc3NTdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Director Alfonso Cuaron reflects on the creative decisions behind ROMA.",
+      "Type": "movie",
+      "RunTime": "72 min",
+      "Genre": "Documentary",
+      "Director": "Andres Clariond, Gabriel Nuncio",
+      "Writer": "Pedro G. García",
+      "Actors": "Yalitza Aparicio, Odín Ayala, Eugenio Caballero",
+      "Language": "Spanish, Mixtec",
+      "Country": "Mexico"
     },
     {
       "title": "The Speed Cubers",
@@ -1888,6 +2150,23 @@
       "Country": "Italy"
     },
     {
+      "title": "Rising Phoenix",
+      "netflix_url": "https://www.netflix.com/title/81122408",
+      "year": "2020",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt10851618",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmRhMWJlNTUtYWJlMS00NTc3LWE0NjktZjFjZjM5NDNhYTBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The history and current standing of the Paralympic Games, which has grown to become the world's third largest sporting event.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Ian Bonhôte, Peter Ettedgui",
+      "Writer": "N/A",
+      "Actors": "Jean-Baptiste Alaize, Ryley Batt, Ellie Cole",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Becoming",
       "netflix_url": "https://www.netflix.com/title/81122487",
       "year": "2020",
@@ -1959,6 +2238,23 @@
       "Director": "Stephen Herek",
       "Writer": "Pauls Toutonghi, Nick Santora",
       "Actors": "Rob Lowe, Johnny Berchtold, Kimberly Williams-Paisley",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Never Stop Dreaming: The Life and Legacy of Shimon Peres",
+      "netflix_url": "https://www.netflix.com/title/81179064",
+      "year": "2022",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt8172146",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODlkYTg4OGItODBhNS00OGNiLWI4ZTctNmJjZjQwYzYyMjU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look back on the life of Nobel Peace Prize winner, Shimon Peres, who served as prime minister of Israel twice and negotiated the 1994 Israel-Jordan peace treaty.",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Documentary",
+      "Director": "Richard Trank",
+      "Writer": "N/A",
+      "Actors": "George W. Bush, George Clooney, Barack Obama",
       "Language": "English",
       "Country": "United States"
     },
@@ -2235,6 +2531,23 @@
       "Country": "United States"
     },
     {
+      "title": "Giving Voice",
+      "netflix_url": "https://www.netflix.com/title/81290388",
+      "year": "2020",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt11394338",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzNDgyNTgtYjcyZC00M2ZmLTk1YmMtZWUxNTU0YmIyY2UwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This film follows the annual August Wilson Monologue competition and the thousands of high schoolers who enter the competition for the opportunity to perform on Broadway.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Documentary",
+      "Director": "James D. Stern, Fernando Villena",
+      "Writer": "N/A",
+      "Actors": "Mary Alice, Annette Bening, Glenn Close",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Gunjan Saxena: The Kargil Girl",
       "netflix_url": "https://www.netflix.com/title/81292944",
       "year": "2020",
@@ -2286,6 +2599,40 @@
       "Country": "United States, Thailand"
     },
     {
+      "title": "Emicida: AmarElo - It’s All For Yesterday",
+      "netflix_url": "https://www.netflix.com/title/81306298",
+      "year": "2020",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt13458600",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJlYjA0YmItNDgwYy00ZTQ0LTg5MWQtNzA0NGM4ZTAzMGQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Between scenes from his concert in São Paulo's Theatro Municipal, rapper and activist Emicida celebrates the rich legacy of Black Brazilian culture.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary, Music",
+      "Director": "Fred Ouro Preto",
+      "Writer": "N/A",
+      "Actors": "Emicida, Zeca Pagodinho, Pabllo Vittar",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
+      "title": "Angèle",
+      "netflix_url": "https://www.netflix.com/title/81313522",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt15820298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODEzODMzZjktZjdhZi00NzU0LTk3YmItMjMwNjhmZDRjZDg1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Belgian pop star Angèle reflects on her life and hopes as she finds balance amid the tears, joys and loneliness of fame. Told through her own words.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Sébastien Rensonnet, Brice Vdh",
+      "Writer": "N/A",
+      "Actors": "Angèle",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
       "title": "Dancing Queens",
       "netflix_url": "https://www.netflix.com/title/81318514",
       "year": "2021",
@@ -2301,6 +2648,23 @@
       "Actors": "Claes Malmberg, Mattias Nordkvist, Rakel Wärmländer",
       "Language": "Swedish, English",
       "Country": "Sweden"
+    },
+    {
+      "title": "Breaking Boundaries: The Science Of Our Planet",
+      "netflix_url": "https://www.netflix.com/title/81336476",
+      "year": "2021",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt14539726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjkxYTA2NjMtOTlhMy00Yjg3LWI3YzEtZmJkYjQxZmExOWI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "David Attenborough and scientist Johan Rockström examine Earth's biodiversity collapse and how this crisis can still be averted.",
+      "Type": "movie",
+      "RunTime": "73 min",
+      "Genre": "Documentary",
+      "Director": "Jonathan Clay",
+      "Writer": "N/A",
+      "Actors": "David Attenborough, Elena Bennett, Jason Box",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Penguin Bloom",
@@ -2456,6 +2820,23 @@
       "Country": "United States"
     },
     {
+      "title": "Born a Champion",
+      "netflix_url": "https://www.netflix.com/title/81387757",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10661710",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDY1MjI5NTQtNGU0OC00OWZkLWIxMmItNGU1Mjg0NTI0Njc5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mickey Kelley, one of the first American black belts in Brazilian jiu-jitsu, gets pulled away from everything he loves and into an unsanctioned MMA tournament.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Action, Drama, Sport",
+      "Director": "Alex Ranarivelo",
+      "Writer": "Sean Patrick Flanery, Alex Ranarivelo",
+      "Actors": "Courtney Hope Turner, Maurice Compte, Sean Patrick Flanery",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Stutz",
       "netflix_url": "https://www.netflix.com/title/81387962",
       "year": "2022",
@@ -2493,6 +2874,27 @@
       "title": "Up Next: Silvio Santos",
       "netflix_url": "https://www.netflix.com/title/81399313",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Wave of Cinema: Filosofi Kopi",
+      "netflix_url": "https://www.netflix.com/title/81408819",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Wave of Cinema: One Day We'll Talk About Today",
+      "netflix_url": "https://www.netflix.com/title/81408820",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Wave of Cinema: 90's Generation",
+      "netflix_url": "https://www.netflix.com/title/81408821",
+      "year": "2020",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -2563,6 +2965,23 @@
       "Actors": "Lazare Herson-Macarel, Eric Herson-Macarel, Damien Boisseau",
       "Language": "French",
       "Country": "France, Luxembourg"
+    },
+    {
+      "title": "The Dreamlife of Georgie Stone",
+      "netflix_url": "https://www.netflix.com/title/81442970",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt16426596",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQzYmM5M2YtY2JiNS00MWY1LWFjOTEtMjY5ODI5MjcxOWZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sharing her journey from child to teen activist, Georgie Stone looks back at her life and historic fight for transgender rights in this documentary.",
+      "Type": "movie",
+      "RunTime": "27 min",
+      "Genre": "Documentary, Short, Biography",
+      "Director": "Maya Newell",
+      "Writer": "Georgie Stone",
+      "Actors": "Georgie Stone, Rebekah Robertson, Greg Stone",
+      "Language": "English",
+      "Country": "Australia"
     },
     {
       "title": "NYAD",
@@ -2684,6 +3103,23 @@
       "Country": "United States"
     },
     {
+      "title": "ONEFOUR: Against All Odds",
+      "netflix_url": "https://www.netflix.com/title/81485425",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt28703558",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYwM2FmMjQtNzU3ZC00NzU4LWJmZWEtMmNjZjUxNGFlZjcwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This documentary traces the meteoric rise of Australia's first drill rap stars, defiant in the face of police's efforts to stop them from performing.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Documentary, Crime, Music",
+      "Director": "Gabriel Gasparinatos",
+      "Writer": "Gabriel Gasparinatos, Erin Moy, Joseph Nizeti",
+      "Actors": "The Kid Laroi",
+      "Language": "English",
+      "Country": "Australia"
+    },
+    {
       "title": "LiSA Another Great Day",
       "netflix_url": "https://www.netflix.com/title/81486328",
       "year": "2022",
@@ -2733,6 +3169,23 @@
       "Actors": "William Adams, Athenkosi Cwele, Gcinuhlanga Dibi",
       "Language": "Xhosa, English",
       "Country": "South Africa"
+    },
+    {
+      "title": "Forever",
+      "netflix_url": "https://www.netflix.com/title/81509437",
+      "year": "2023",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt18312914",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzNjMDRjN2MtOTRlMC00N2VlLWJlN2MtODhlZmFlMGZkMTY5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mila and Kia, a pair of teenage best friends and aspiring football professionals. When the girls get a new demanding football coach Lollo, they slowly start to drift apart.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Drama, Sport",
+      "Director": "Anders Hazelius",
+      "Writer": "Jessika Jankert",
+      "Actors": "Agnes Lindström Bolmgren, Mattias Nordkvist, Mustapha Aarab",
+      "Language": "Swedish",
+      "Country": "Sweden"
     },
     {
       "title": "Hunger",
@@ -3082,6 +3535,23 @@
       "Country": "United States"
     },
     {
+      "title": "Strangers",
+      "netflix_url": "https://www.netflix.com/title/81663111",
+      "year": "2022",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt19393978",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTgzYmQ4NTYtZDY3OS00YTQxLWI0MmQtNmZlN2EyMTU3OWRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Forgotten in a remote village and battling a life ending disease, a young boy's future could change forever when people he has never met showed up. Is it too late? May be not?",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "Biodun Stephen",
+      "Writer": "Banji Adesanmi, Anthony Eloka Ogbu",
+      "Actors": "Musa Abdullahi, Femi Adebayo, Lateef Adedimeji",
+      "Language": "English, Yoruba",
+      "Country": "Nigeria"
+    },
+    {
       "title": "Johnny",
       "netflix_url": "https://www.netflix.com/title/81664293",
       "year": "2023",
@@ -3155,6 +3625,23 @@
       "Actors": "Ross Duffer, Matt Duffer, Paul Dichter",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Tri Am the Movie",
+      "netflix_url": "https://www.netflix.com/title/81685895",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27469258",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABd8gnd18e_AW5sGiC-Gw-KRssOHDpmuiP94vB4pnGS6KtBSfPuBSKg_2cz7_Vq265p1YA5cht2yl9Qw3q2o5N4P8nLPVts_FF7Jh.jpg?r=fdd",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "My Tam",
+      "Actors": "My Tam",
+      "Language": "Vietnamese",
+      "Country": "Vietnam"
     },
     {
       "title": "Suzume",
@@ -3392,6 +3879,13 @@
       "Country": "United States"
     },
     {
+      "title": "Butterfly in the Sky: The Story of Reading Rainbow",
+      "netflix_url": "https://www.netflix.com/title/81750412",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Backyard Wilderness",
       "netflix_url": "https://www.netflix.com/title/81752453",
       "year": "2018",
@@ -3407,6 +3901,23 @@
       "Actors": "Christian Ryan, Susan Todd, Andrew Young",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Society of the Snow: Who Were We on the Mountain?",
+      "netflix_url": "https://www.netflix.com/title/81755382",
+      "year": "2024",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt31014113",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTY0ZDlhNzYtNTk0OS00NTJlLTk2MmMtOGY0MDg5Nzk3ZWNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An in-depth look at the creative process behind Society of the Snow (2023), featuring cast, crew, director J.A. Bayona and even real-life survivors.",
+      "Type": "movie",
+      "RunTime": "36 min",
+      "Genre": "Documentary",
+      "Director": "Manuel Romo",
+      "Writer": "N/A",
+      "Actors": "J.A. Bayona, Roberto Canessa, Eivind Holmboe",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Sue Bird: In the Clutch",
@@ -3763,6 +4274,13 @@
       "Country": "United States"
     },
     {
+      "title": "The Piano Lesson: Legacy and a Vision",
+      "netflix_url": "https://www.netflix.com/title/81969620",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Fujii Kaze Stadium Live “Feelin' Good”",
       "netflix_url": "https://www.netflix.com/title/81970754",
       "year": "2024",
@@ -3836,6 +4354,23 @@
       "Actors": "N/A",
       "Language": "N/A",
       "Country": "United States"
+    },
+    {
+      "title": "Making Emilia Pérez",
+      "netflix_url": "https://www.netflix.com/title/82014969",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36831572",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWM1ZWE2NTctYjYxYS00ZDgxLTg0MTYtMmJmZjcwZWFkYzZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "28 min",
+      "Genre": "Short, Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jacques Audiard, Camille, Cécile Deleu",
+      "Language": "English, French, Spanish",
+      "Country": "France"
     },
     {
       "title": "Qaidi Band",
@@ -4081,6 +4616,13 @@
       "Actors": "Michael Townsend, Colin Bliss, Adriana Valdez-Young",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Harry Styles. One Night In Manchester.",
+      "netflix_url": "https://www.netflix.com/title/82722921",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/4698",
   "movies": [
     {
+      "title": "The Swan Princess",
+      "netflix_url": "https://www.netflix.com/title/60034386",
+      "year": "1994",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0111333",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjU3NGY2MTktZjkzOC00YTQyLTkxOTUtYmZiZjZkNzJjNzg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A power-hungry sorcerer curses a princess to live as a swan by day in this tale of everlasting love.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Richard Rich",
+      "Writer": "Brian Nissen, Richard Rich",
+      "Actors": "Jack Palance, Howard McGillin, Michelle Nicastro",
+      "Language": "English",
+      "Country": "United States, South Korea, Japan, Canada"
+    },
+    {
       "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
       "netflix_url": "https://www.netflix.com/title/70021655",
       "year": "2005",
@@ -205,6 +222,13 @@
       "Actors": "Frank Welker, Mindy Cohn, Grey DeLisle",
       "Language": "English",
       "Country": "United States, South Korea"
+    },
+    {
+      "title": "Danger Mouse: Classic Collection",
+      "netflix_url": "https://www.netflix.com/title/70177040",
+      "year": "1992",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Garfield Show",
@@ -416,6 +440,23 @@
       "Actors": "Stephen Fry, Alex Marty, Stephen Hughes",
       "Language": "Spanish, English",
       "Country": "Spain, United Kingdom, United States"
+    },
+    {
+      "title": "The Lego Movie",
+      "netflix_url": "https://www.netflix.com/title/70289949",
+      "year": "2014",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt1490017",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+      "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Phil Lord, Christopher Miller",
+      "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+      "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+      "Language": "English",
+      "Country": "United States, Denmark, Australia, Norway"
     },
     {
       "title": "Mr. Peabody & Sherman",
@@ -1007,6 +1048,23 @@
       "Country": "United States"
     },
     {
+      "title": "Trolls",
+      "netflix_url": "https://www.netflix.com/title/80108182",
+      "year": "2016",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1679335",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX300.jpg",
+      "Plot": "After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Mike Mitchell, Walt Dohrn",
+      "Writer": "Jonathan Aibel, Glenn Berger, Erica Rivinoja",
+      "Actors": "Anna Kendrick, Justin Timberlake, Zooey Deschanel",
+      "Language": "English",
+      "Country": "United States, India, United Kingdom, Germany"
+    },
+    {
       "title": "The Magic School Bus Rides Again",
       "netflix_url": "https://www.netflix.com/title/80108373",
       "year": "2018",
@@ -1245,6 +1303,23 @@
       "Country": "UK"
     },
     {
+      "title": "Robozuna",
+      "netflix_url": "https://www.netflix.com/title/80147920",
+      "year": "2018",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8454808",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzE3YmU0ZjktODUyNS00NGE2LWE1OTMtMzU4ZmRlODM2YzI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An orphan boy and his homemade robot friend work to free their country from an evil empire and its legion of robots.",
+      "Type": "series",
+      "RunTime": "22 min",
+      "Genre": "Animation, Family",
+      "Director": "N/A",
+      "Writer": "Ed Bignell",
+      "Actors": "Michael Obiora, Tom Clarke Hill, Taylor Clarke-Hill",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Treehouse Detectives",
       "netflix_url": "https://www.netflix.com/title/80147923",
       "year": "2018",
@@ -1437,6 +1512,23 @@
       "Actors": "Danny Jacobs, Lucas Grabeel, Nathan Kress",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Little Baby Bum: Nursery Rhyme Friends",
+      "netflix_url": "https://www.netflix.com/title/80176872",
+      "year": "2019",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt11460334",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ4NDllYjMtYzcyOC00MGY3LWE4ZDQtNmI0MjhmMTFiMjBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Twinkle, Mia, Jacus and the rest of the Nursery Rhyme Friends perform catchy tunes for the little ones.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Animation, Family, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Chloe Marsden, María Esnoz, Aaron Marsden",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "My Father's Dragon",
@@ -2541,6 +2633,23 @@
       "Country": "United States"
     },
     {
+      "title": "Buddi",
+      "netflix_url": "https://www.netflix.com/title/80993590",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt11829340",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y3MWU2ZWQtYzJmNC00YzRmLWFhNzctM2EzYTc5ODZhMWJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Buddis bounce, spin, glide and giggle through their magical world, learning new things and sharing the joy of friendship.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Short, Adventure",
+      "Director": "N/A",
+      "Writer": "Jason Jameson",
+      "Actors": "Felix Laikin, Greta Jameson, Ralf Jameson",
+      "Language": "English",
+      "Country": "United Kingdom, China"
+    },
+    {
       "title": "Action Pack",
       "netflix_url": "https://www.netflix.com/title/80993597",
       "year": "2022",
@@ -2949,6 +3058,23 @@
       "Country": "United States"
     },
     {
+      "title": "Mighty Little Bheem: Diwali",
+      "netflix_url": "https://www.netflix.com/title/81020066",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt10987498",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE4YzRiNDQtOGFjYy00OTJhLWJmNzQtMWRiZjBlODQ5Nzc1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "From decorating his home to devouring sweets, Bheem makes merry -- and a bit of mischief -- with the festival of lights in full swing.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Karma's World",
       "netflix_url": "https://www.netflix.com/title/81021116",
       "year": "2022",
@@ -3049,6 +3175,23 @@
       "Actors": "Momona Tamada, Craig Robinson, Archie Yates",
       "Language": "English, Japanese",
       "Country": "United States, Japan"
+    },
+    {
+      "title": "Pachamama",
+      "netflix_url": "https://www.netflix.com/title/81029736",
+      "year": "2019",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt5541002",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmEzZDQ2MTItNWNmZS00ZmU0LWEzMTUtODkyNjU5ZmIyYTAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young boy living in a remote village in the Andes Mountains dreams of becoming shaman.",
+      "Type": "movie",
+      "RunTime": "72 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "Juan Antin",
+      "Writer": "Juan Antin, Patricia Valeix, Olivier de Bannes",
+      "Actors": "Andrea Santamaria, India Coenen, Saïd Amadis",
+      "Language": "English, French",
+      "Country": "France, Luxembourg, Canada"
     },
     {
       "title": "Mighty Express",
@@ -5021,6 +5164,23 @@
       "Country": "Belgium, United States, France, Germany"
     },
     {
+      "title": "Canvas",
+      "netflix_url": "https://www.netflix.com/title/81332733",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9711282",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk2MTkzOTQtNjhiOC00MjdhLTk1MDQtNTMxNTkzNzYxNjA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After suffering a loss, a painter finds his inspiration to create again.",
+      "Type": "movie",
+      "RunTime": "9 min",
+      "Genre": "Animation, Short, Drama",
+      "Director": "Frank E. Abney III",
+      "Writer": "Frank E. Abney III",
+      "Actors": "N/A",
+      "Language": "None",
+      "Country": "United States"
+    },
+    {
       "title": "Word Party Presents: Math!",
       "netflix_url": "https://www.netflix.com/title/81336334",
       "year": "2021",
@@ -5887,6 +6047,23 @@
       "Actors": "Ana Sani, Diana Kaarina, Margarita Valderrama",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "LEGO Friends: Holiday Special",
+      "netflix_url": "https://www.netflix.com/title/81581278",
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt17013954",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmYyNjc4MWQtYjg4ZS00OTYwLWE3ZGItMzFlN2M2YTE3ZTI3XkEyXkFqcGdeQXVyNTg3MjA4NDc@._V1_SX300.jpg",
+      "Plot": "The holidays are coming to Heartlake City, and the LEGO Friends are full of holiday cheer. But can the group stick together after Andrea ditches Mia's holiday shopping plans?",
+      "Type": "movie",
+      "RunTime": "21 min",
+      "Genre": "Animation",
+      "Director": "William Gordon, Megan Russell",
+      "Writer": "Samantha Silver",
+      "Actors": "Caitlyn Bairstow, Sydney Bell, Brenda Crichlow",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Masters of the Universe: Revolution",

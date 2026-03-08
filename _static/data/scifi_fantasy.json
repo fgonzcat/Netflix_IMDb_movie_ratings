@@ -105,6 +105,23 @@
       "Country": "India"
     },
     {
+      "title": "Legion",
+      "netflix_url": "https://www.netflix.com/title/70117305",
+      "year": "2010",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt1038686",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDg4NjYxOV5BMl5BanBnXkFtZTcwODQyNDg3Mg@@._V1_SX300.jpg",
+      "Plot": "When a group of strangers at a dusty roadside diner come under attack by demonic forces, their only chance for survival lies with an archangel named Michael, who informs a pregnant waitress that her unborn child is humanity's last...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Fantasy, Horror",
+      "Director": "Scott Stewart",
+      "Writer": "Peter Schink, Scott Stewart",
+      "Actors": "Paul Bettany, Dennis Quaid, Charles S. Dutton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Mortal Instruments: City of Bones",
       "netflix_url": "https://www.netflix.com/title/70266670",
       "year": "2013",
@@ -137,6 +154,23 @@
       "Actors": "Aamir Khan, Anushka Sharma, Sanjay Dutt",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Goosebumps",
+      "netflix_url": "https://www.netflix.com/title/80049939",
+      "year": "2015",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1051904",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@._V1_SX300.jpg",
+      "Plot": "A teenager teams up with the daughter of young-adult horror author R.L. Stine after the writer's imaginary demons are set free on the town of Madison, Delaware.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Rob Letterman",
+      "Writer": "Darren Lemke, Scott Alexander, Larry Karaszewski",
+      "Actors": "Jack Black, Dylan Minnette, Odeya Rush",
+      "Language": "English, Ukrainian",
+      "Country": "United States, Australia"
     },
     {
       "title": "The 5th Wave",
@@ -416,6 +450,23 @@
       "Actors": "Winslow Fegley, Lidya Jewett, Krysten Ritter",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Green Knight",
+      "netflix_url": "https://www.netflix.com/title/81008356",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt9243804",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRjNmU1M2ItNDU4Ni00ZGY2LTlmNzItY2MxYmY3OTllZjMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fantasy retelling of the medieval story of Sir Gawain and the Green Knight.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Adventure, Drama, Fantasy",
+      "Director": "David Lowery",
+      "Writer": "David Lowery, The Gawain Poet",
+      "Actors": "Dev Patel, Alicia Vikander, Joel Edgerton",
+      "Language": "English, Latin",
+      "Country": "United States, Canada, Ireland"
     },
     {
       "title": "Night Teeth",

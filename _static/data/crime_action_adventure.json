@@ -37,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "Desperado",
+      "netflix_url": "https://www.netflix.com/title/437266",
+      "year": "1995",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0112851",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2IzOThmNTMtODE4My00NTI1LThkOWMtNTA4MTc4NWI1NTNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Former musician and gunslinger El Mariachi arrives at a small Mexican border town after being away for a long time. His past quickly catches up with him and he soon gets entangled with the local drug kingpin Bucho and his gang.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Robert Rodriguez",
+      "Writer": "Robert Rodriguez",
+      "Actors": "Antonio Banderas, Salma Hayek, Joaquim de Almeida",
+      "Language": "English, Spanish",
+      "Country": "United States, Mexico"
+    },
+    {
       "title": "Mashaal",
       "netflix_url": "https://www.netflix.com/title/60002820",
       "year": "1984",
@@ -462,6 +479,23 @@
       "Country": "India"
     },
     {
+      "title": "Paul Blart: Mall Cop 2",
+      "netflix_url": "https://www.netflix.com/title/80021687",
+      "year": "2015",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt3450650",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwMjkxNDQ1MV5BMl5BanBnXkFtZTgwNDQwODIxNTE@._V1_SX300.jpg",
+      "Plot": "After six years of keeping our malls safe, Paul Blart has earned a well-deserved vacation. He heads to Las Vegas with his teenage daughter before she heads off to college. But safety never takes a holiday and when duty calls, Blar...",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Andy Fickman",
+      "Writer": "Kevin James, Nick Bakay",
+      "Actors": "Kevin James, Raini Rodriguez, Eduardo Verástegui",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Kill Dil",
       "netflix_url": "https://www.netflix.com/title/80024000",
       "year": "2014",
@@ -477,6 +511,23 @@
       "Actors": "Ranveer Singh, Ali Zafar, Parineeti Chopra",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Sicario",
+      "netflix_url": "https://www.netflix.com/title/80046311",
+      "year": "2015",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt3397884",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX300.jpg",
+      "Plot": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Denis Villeneuve",
+      "Writer": "Taylor Sheridan",
+      "Actors": "Emily Blunt, Josh Brolin, Benicio Del Toro",
+      "Language": "English, Spanish, Ukrainian",
+      "Country": "United States, Mexico, Hong Kong"
     },
     {
       "title": "Free Fire",
@@ -989,6 +1040,23 @@
       "Country": "Brazil"
     },
     {
+      "title": "21 Bridges",
+      "netflix_url": "https://www.netflix.com/title/81059369",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt8688634",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmZjYjI0YjUtOTc4OC00MmEyLWE4MDItN2M5NGZmNWY1YzYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An embattled NYPD detective is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Brian Kirk",
+      "Writer": "Adam Mervis, Matthew Michael Carnahan",
+      "Actors": "Chadwick Boseman, Sienna Miller, J.K. Simmons",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Gatao 2: Rise of the King",
       "netflix_url": "https://www.netflix.com/title/81072917",
       "year": "2018",
@@ -1387,8 +1455,18 @@
       "title": "Get the Goat",
       "netflix_url": "https://www.netflix.com/title/81382296",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.0",
+      "imdb_id": "tt14111726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTJmNWMxNjAtZjI1Ni00MzgwLWI0MGQtZjNhYWQ5MzU4NGE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two hapless cops find themselves in over their heads as they cross paths with dangerous criminals while searching for Celestina, a beloved goat mascot.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Vitor Brandt",
+      "Writer": "Vitor Brandt, Denis Nielsen",
+      "Actors": "Matheus Nachtergaele, Edmilson Filho, Letícia Lima",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Amigos",
@@ -2059,6 +2137,13 @@
       "Actors": "Karthi, K.S. Ravikumar, Sunil",
       "Language": "Tamil",
       "Country": "India"
+    },
+    {
+      "title": "Japan (Kannada)",
+      "netflix_url": "https://www.netflix.com/title/81600232",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Kaapa",
@@ -3044,6 +3129,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Trap House",
+      "netflix_url": "https://www.netflix.com/title/82099780",
+      "year": "2025",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt10799690",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY0OTk0ZDktMmJkNy00NjQwLWE0NjQtOTY4Y2VhODdhOTJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A DEA agent and his partner pursue thieves: their own rebellious teens, who began robbing the cartel using their parents' tactics and classified intel.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Action, Crime",
+      "Director": "Michael Dowse",
+      "Writer": "Gary Scott Thompson, Tom O'Connor",
+      "Actors": "Dave Bautista, Jack Champion, Bobby Cannavale",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Dhurandhar",

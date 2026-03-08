@@ -350,6 +350,13 @@
       "Country": "Chile"
     },
     {
+      "title": "Jana 2022 (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81611931",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Vaashi (Malayalam)",
       "netflix_url": "https://www.netflix.com/title/81612627",
       "year": "2022",
@@ -532,6 +539,23 @@
       "Actors": "John Benjamin Hickey, Patricia Clarkson, Thomas Sadoski",
       "Language": "N/A",
       "Country": "United States"
+    },
+    {
+      "title": "Nuremberg",
+      "netflix_url": "https://www.netflix.com/title/82700085",
+      "year": "2025",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt29567915",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A WWII psychiatrist evaluates Nazi leaders before the Nuremberg trials, growing increasingly obsessed with understanding evil as he forms a disturbing bond with Hermann Göring.",
+      "Type": "movie",
+      "RunTime": "148 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "James Vanderbilt",
+      "Writer": "James Vanderbilt, Jack El-Hai",
+      "Actors": "Rami Malek, Russell Crowe, Michael Shannon",
+      "Language": "English, German",
+      "Country": "United States, Hungary"
     }
   ]
 }

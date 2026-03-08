@@ -78,6 +78,23 @@
       "imdb_id": null
     },
     {
+      "title": "Ray",
+      "netflix_url": "https://www.netflix.com/title/70001994",
+      "year": "2004",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0350258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxNDQwNjQzOV5BMl5BanBnXkFtZTcwNTQxNDYyMQ@@._V1_SX300.jpg",
+      "Plot": "The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s.",
+      "Type": "movie",
+      "RunTime": "152 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Taylor Hackford",
+      "Writer": "Taylor Hackford, James L. White",
+      "Actors": "Jamie Foxx, Regina King, Kerry Washington",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Zodiac",
       "netflix_url": "https://www.netflix.com/title/70044686",
       "year": "2007",
@@ -401,6 +418,23 @@
       "Country": "United States"
     },
     {
+      "title": "Talvar",
+      "netflix_url": "https://www.netflix.com/title/80080618",
+      "year": "2015",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt4934950",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzODg0Mjc4M15BMl5BanBnXkFtZTgwNzY4Mzc3NjE@._V1_SX300.jpg",
+      "Plot": "An experienced investigator confronts several conflicting theories about the perpetrators of a violent double homicide.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Meghna Gulzar",
+      "Writer": "Vishal Bhardwaj, Aditya Nimbalkar",
+      "Actors": "Irrfan Khan, Konkona Sen Sharma, Neeraj Kabi",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "The Most Hated Woman in America",
       "netflix_url": "https://www.netflix.com/title/80082242",
       "year": "2017",
@@ -484,6 +518,23 @@
       "Actors": "Michael Keaton, Nick Offerman, John Carroll Lynch",
       "Language": "English, Yiddish",
       "Country": "United States"
+    },
+    {
+      "title": "Deepwater Horizon",
+      "netflix_url": "https://www.netflix.com/title/80104412",
+      "year": "2016",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt1860357",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTEzNDU0OTgxM15BMl5BanBnXkFtZTgwNjA0ODM2OTE@._V1_SX300.jpg",
+      "Plot": "A dramatization of the disaster in April 2010, when the offshore drilling rig called the Deepwater Horizon exploded, resulting in the worst oil spill in history.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Peter Berg",
+      "Writer": "Matthew Michael Carnahan, Matthew Sand, David Barstow",
+      "Actors": "Mark Wahlberg, Kurt Russell, Douglas M. Griffin",
+      "Language": "English",
+      "Country": "United States, Hong Kong"
     },
     {
       "title": "The Lighthouse of the Orcas",
@@ -1255,6 +1306,23 @@
       "Country": "France, Belgium"
     },
     {
+      "title": "Dovlatov",
+      "netflix_url": "https://www.netflix.com/title/80990221",
+      "year": "2018",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt7763020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzc3YmViNjktMTQ2My00YmVlLWJmNTgtMzNhZWM2MjVlNWFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The film actions unfold in 1971, telling about the four days of life of famous writer Sergei Dovlatov. The film raises the eternal issue of the Russian and European culture - the issue of moral choice.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Biography, Drama",
+      "Director": "Aleksey German Jr.",
+      "Writer": "Aleksey German Jr., Yulia Tupikina",
+      "Actors": "Milan Maric, Danila Kozlovskiy, Helena Sujecka",
+      "Language": "Russian, Spanish, Finnish",
+      "Country": "Russia, Poland, Serbia"
+    },
+    {
       "title": "The Laundromat",
       "netflix_url": "https://www.netflix.com/title/80994011",
       "year": "2019",
@@ -1440,6 +1508,23 @@
       "Actors": "Taraji P. Henson, Sam Rockwell, Babou Ceesay",
       "Language": "English, Latin",
       "Country": "United States"
+    },
+    {
+      "title": "Hotel Mumbai",
+      "netflix_url": "https://www.netflix.com/title/81039222",
+      "year": "2018",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt5461944",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDE5NTVmM2UtMjYyZC00NTYzLTgyMjMtYzc5OTZkODliNTA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The true story of the Taj Hotel terrorist attack in Mumbai. Hotel staff risk their lives to keep everyone safe as people make unthinkable sacrifices to protect themselves and their families.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Anthony Maras",
+      "Writer": "John Collee, Anthony Maras",
+      "Actors": "Dev Patel, Armie Hammer, Nazanin Boniadi",
+      "Language": "Hindi, English",
+      "Country": "Australia, United States, United Kingdom, Singapore, India"
     },
     {
       "title": "Mosul",
@@ -2334,6 +2419,23 @@
       "Country": "Colombia"
     },
     {
+      "title": "Raazi",
+      "netflix_url": "https://www.netflix.com/title/81587834",
+      "year": "2018",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt7098658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjM0ZTQyNGQtNDZlYy00MWM5LWExZDAtZTM2ZWU4ZGNmYzk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Kashmiri woman agrees to marry a Pakistani army officer in order to spy on Pakistan during the Indo-Pakistan War of 1971.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Meghna Gulzar",
+      "Writer": "Harinder S. Sikka, Meghna Gulzar, Bhavani Iyer",
+      "Actors": "Alia Bhatt, Vicky Kaushal, Rajit Kapoor",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "The Six Triple Eight",
       "netflix_url": "https://www.netflix.com/title/81590591",
       "year": "2024",
@@ -3169,6 +3271,23 @@
       "Actors": "William H. Macy, John Corbett, Stephanie Szostak",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Nuremberg",
+      "netflix_url": "https://www.netflix.com/title/82700085",
+      "year": "2025",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt29567915",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A WWII psychiatrist evaluates Nazi leaders before the Nuremberg trials, growing increasingly obsessed with understanding evil as he forms a disturbing bond with Hermann Göring.",
+      "Type": "movie",
+      "RunTime": "148 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "James Vanderbilt",
+      "Writer": "James Vanderbilt, Jack El-Hai",
+      "Actors": "Rami Malek, Russell Crowe, Michael Shannon",
+      "Language": "English, German",
+      "Country": "United States, Hungary"
     }
   ]
 }

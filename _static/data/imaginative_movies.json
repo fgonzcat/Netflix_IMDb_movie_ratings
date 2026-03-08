@@ -129,6 +129,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Matilda",
+      "netflix_url": "https://www.netflix.com/title/70033005",
+      "year": "1996",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0117008",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE3ZDMzMmEtODgwNi00NzMxLThkYWItMTAzMWUyMzI1NDQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A girl gifted with a keen intellect and psychic powers uses both to get even with her callous family and free her kindly schoolteacher from the tyrannical grip of a sadistic headmistress.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Danny DeVito",
+      "Writer": "Roald Dahl, Nicholas Kazan, Robin Swicord",
+      "Actors": "Danny DeVito, Rhea Perlman, Mara Wilson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Paheli",
       "netflix_url": "https://www.netflix.com/title/70039405",
       "year": "2005",
@@ -340,6 +357,23 @@
       "Country": "Japan"
     },
     {
+      "title": "The Lego Movie",
+      "netflix_url": "https://www.netflix.com/title/70289949",
+      "year": "2014",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt1490017",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+      "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Phil Lord, Christopher Miller",
+      "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+      "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+      "Language": "English",
+      "Country": "United States, Denmark, Australia, Norway"
+    },
+    {
       "title": "The Amazing Spider-Man 2",
       "netflix_url": "https://www.netflix.com/title/70293702",
       "year": "2014",
@@ -425,6 +459,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Jurassic World",
+      "netflix_url": "https://www.netflix.com/title/80029196",
+      "year": "2015",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0369610",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzBhNzlkM2UtZTQyOC00NjUyLTkzMmMtNDQ1YTM5N2NmMGE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Colin Trevorrow",
+      "Writer": "Rick Jaffa, Amanda Silver, Colin Trevorrow",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Ty Simpkins",
+      "Language": "English",
+      "Country": "United States, Japan"
+    },
+    {
       "title": "Pixels",
       "netflix_url": "https://www.netflix.com/title/80037476",
       "year": "2015",
@@ -476,6 +527,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Goosebumps",
+      "netflix_url": "https://www.netflix.com/title/80049939",
+      "year": "2015",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1051904",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@._V1_SX300.jpg",
+      "Plot": "A teenager teams up with the daughter of young-adult horror author R.L. Stine after the writer's imaginary demons are set free on the town of Madison, Delaware.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Rob Letterman",
+      "Writer": "Darren Lemke, Scott Alexander, Larry Karaszewski",
+      "Actors": "Jack Black, Dylan Minnette, Odeya Rush",
+      "Language": "English, Ukrainian",
+      "Country": "United States, Australia"
+    },
+    {
       "title": "Boruto: Naruto the Movie",
       "netflix_url": "https://www.netflix.com/title/80075823",
       "year": "2015",
@@ -508,6 +576,23 @@
       "Actors": "Charlize Theron, Art Parkinson, Matthew McConaughey",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "Trolls",
+      "netflix_url": "https://www.netflix.com/title/80108182",
+      "year": "2016",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1679335",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX300.jpg",
+      "Plot": "After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Mike Mitchell, Walt Dohrn",
+      "Writer": "Jonathan Aibel, Glenn Berger, Erica Rivinoja",
+      "Actors": "Anna Kendrick, Justin Timberlake, Zooey Deschanel",
+      "Language": "English",
+      "Country": "United States, India, United Kingdom, Germany"
     },
     {
       "title": "Hunter x Hunter: The Last Mission",
@@ -865,6 +950,23 @@
       "Actors": "Sophia Anne Caruso, Sofia Wylie, Laurence Fishburne",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Jurassic World: Fallen Kingdom",
+      "netflix_url": "https://www.netflix.com/title/80228280",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt4881806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_SX300.jpg",
+      "Plot": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "J.A. Bayona",
+      "Writer": "Derek Connolly, Colin Trevorrow, Michael Crichton",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall",
+      "Language": "English, Russian",
+      "Country": "United States, China"
     },
     {
       "title": "Wendell & Wild",
@@ -2781,6 +2883,23 @@
       "Actors": "Pierce Brosnan, Sam Hardy, Hannah Herman",
       "Language": "English",
       "Country": "United Kingdom, Ireland, Canada, United States"
+    },
+    {
+      "title": "Jurassic World: Dominion",
+      "netflix_url": "https://www.netflix.com/title/81489837",
+      "year": "2022",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8041270",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
+      "Type": "movie",
+      "RunTime": "147 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Colin Trevorrow",
+      "Writer": "Emily Carmichael, Colin Trevorrow, Derek Connolly",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Laura Dern",
+      "Language": "English, Maltese, French",
+      "Country": "United States, China"
     },
     {
       "title": "AI Love You",

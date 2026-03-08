@@ -139,6 +139,13 @@
       "Country": "United States"
     },
     {
+      "title": "Stephen King's Sleepwalkers",
+      "netflix_url": "https://www.netflix.com/title/60003974",
+      "year": "1992",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "28 Days Later",
       "netflix_url": "https://www.netflix.com/title/60027998",
       "year": "2002",
@@ -222,6 +229,40 @@
       "Actors": "Emily Blunt, Ashton Holmes, Martin Donovan",
       "Language": "English",
       "Country": "United States, United Kingdom, Canada"
+    },
+    {
+      "title": "Legion",
+      "netflix_url": "https://www.netflix.com/title/70117305",
+      "year": "2010",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt1038686",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDg4NjYxOV5BMl5BanBnXkFtZTcwODQyNDg3Mg@@._V1_SX300.jpg",
+      "Plot": "When a group of strangers at a dusty roadside diner come under attack by demonic forces, their only chance for survival lies with an archangel named Michael, who informs a pregnant waitress that her unborn child is humanity's last...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Fantasy, Horror",
+      "Director": "Scott Stewart",
+      "Writer": "Peter Schink, Scott Stewart",
+      "Actors": "Paul Bettany, Dennis Quaid, Charles S. Dutton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Zombieland",
+      "netflix_url": "https://www.netflix.com/title/70123542",
+      "year": "2009",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt1156398",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SX300.jpg",
+      "Plot": "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Action, Comedy, Horror",
+      "Director": "Ruben Fleischer",
+      "Writer": "Rhett Reese, Paul Wernick",
+      "Actors": "Jesse Eisenberg, Emma Stone, Woody Harrelson",
+      "Language": "English, Spanish, French",
+      "Country": "United States"
     },
     {
       "title": "Splatter",
@@ -322,6 +363,23 @@
       "Director": "Patrick Brice",
       "Writer": "Patrick Brice, Mark Duplass",
       "Actors": "Mark Duplass, Patrick Brice, Katie Aselton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Misery",
+      "netflix_url": "https://www.netflix.com/title/764604",
+      "year": "1990",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0100157",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY0ODQ3MTMxN15BMl5BanBnXkFtZTgwMDkwNTg4NjE@._V1_SX300.jpg",
+      "Plot": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Rob Reiner",
+      "Writer": "Stephen King, William Goldman",
+      "Actors": "James Caan, Kathy Bates, Richard Farnsworth",
       "Language": "English",
       "Country": "United States"
     },
@@ -3107,6 +3165,13 @@
       "imdb_id": null
     },
     {
+      "title": "Conjuring Kannappan (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81754783",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Wanita Ahli Neraka",
       "netflix_url": "https://www.netflix.com/title/81755763",
       "year": "2024",
@@ -3621,6 +3686,23 @@
       "Country": "Indonesia, United States"
     },
     {
+      "title": "My Boo 2",
+      "netflix_url": "https://www.netflix.com/title/82072501",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38808167",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzQyNDU5NWEtNzFiMC00NzY2LTkzNzYtMTdiYjY3Y2RhMGQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Witness the deep bond between Joe and Anong, which has been long-lasting through many lifetimes and reincarnations.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Horror, Romance",
+      "Director": "S Khomkrit Treewimol",
+      "Writer": "Kirati Kumsat, Chaianan Soijumpa, S Khomkrit Treewimol",
+      "Actors": "Maylada Susri, Sutthirak Subvijitra, Chaleumpol Tikumpornteerawong",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
       "title": "Attack 13",
       "netflix_url": "https://www.netflix.com/title/82072502",
       "year": "2025",
@@ -3634,6 +3716,23 @@
       "Director": "Taweewat Wantha",
       "Writer": "Thammanan Chulaboriruk",
       "Actors": "Korranid Laosubinprasoet, Veerinsara Tangkitsuvanich, Nichapalak Thongkham",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
+      "title": "Shutter",
+      "netflix_url": "https://www.netflix.com/title/82081794",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0440803",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWJiMTM4YzQtMjg2Zi00NzhjLTkzZDctODU1OGQyNWRiMDZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Jane and Tun run over a girl in a car accident, they speed away immediately from the crime scene. However, Tun, a photographer, soon discovers strange shadows in his photos, which unsettles them.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Banjong Pisanthanakun, Parkpoom Wongpoom",
+      "Writer": "Parkpoom Wongpoom, Banjong Pisanthanakun, Sophon Sakdaphisit",
+      "Actors": "Ananda Everingham, Natthaweeranuch Thongmee, Achita Sikamana",
       "Language": "Thai",
       "Country": "Thailand"
     },
@@ -3762,6 +3861,13 @@
       "Actors": "Rattawadee Wongthong, Jelilcha Kapaun, Nadech Kugimiya",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Re/Member: The Last Night",
+      "netflix_url": "https://www.netflix.com/title/82679720",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "I Know What You Did Last Summer",

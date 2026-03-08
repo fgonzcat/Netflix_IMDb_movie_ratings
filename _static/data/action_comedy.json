@@ -231,6 +231,23 @@
       "Country": "India"
     },
     {
+      "title": "Paul Blart: Mall Cop 2",
+      "netflix_url": "https://www.netflix.com/title/80021687",
+      "year": "2015",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt3450650",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwMjkxNDQ1MV5BMl5BanBnXkFtZTgwNDQwODIxNTE@._V1_SX300.jpg",
+      "Plot": "After six years of keeping our malls safe, Paul Blart has earned a well-deserved vacation. He heads to Las Vegas with his teenage daughter before she heads off to college. But safety never takes a holiday and when duty calls, Blar...",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Andy Fickman",
+      "Writer": "Kevin James, Nick Bakay",
+      "Actors": "Kevin James, Raini Rodriguez, Eduardo Verástegui",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Pixels",
       "netflix_url": "https://www.netflix.com/title/80037476",
       "year": "2015",
@@ -1163,8 +1180,18 @@
       "title": "Get the Goat",
       "netflix_url": "https://www.netflix.com/title/81382296",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.0",
+      "imdb_id": "tt14111726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTJmNWMxNjAtZjI1Ni00MzgwLWI0MGQtZjNhYWQ5MzU4NGE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two hapless cops find themselves in over their heads as they cross paths with dangerous criminals while searching for Celestina, a beloved goat mascot.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Vitor Brandt",
+      "Writer": "Vitor Brandt, Denis Nielsen",
+      "Actors": "Matheus Nachtergaele, Edmilson Filho, Letícia Lima",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Astérix & Obélix: The Middle Kingdom",
@@ -1497,6 +1524,23 @@
       "Country": "India, United Kingdom"
     },
     {
+      "title": "Happy Birthday",
+      "netflix_url": "https://www.netflix.com/title/81551312",
+      "year": "2022",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt21149558",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmMyZGI3ZDQtZDNjYy00ZTZiLWIzMGUtN2ZiMWFkZjA0MWI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Defense Minister Ritwik Sodhi passes a gun amendment bill that enables one to own a gun. This is the story of how Happy, Lucky, Max Pain, Uncle Fixit, Serena and William's stories intertwine among themselves amidst passing of the ...",
+      "Type": "movie",
+      "RunTime": "154 min",
+      "Genre": "Comedy",
+      "Director": "Ritesh Rana",
+      "Writer": "Ritesh Rana",
+      "Actors": "Lavanya Tripathi, Naresh Agastya, Baaji",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Meter",
       "netflix_url": "https://www.netflix.com/title/81551313",
       "year": "2023",
@@ -1614,6 +1658,13 @@
       "Actors": "Karthi, K.S. Ravikumar, Sunil",
       "Language": "Tamil",
       "Country": "India"
+    },
+    {
+      "title": "Japan (Kannada)",
+      "netflix_url": "https://www.netflix.com/title/81600232",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Rangabali",

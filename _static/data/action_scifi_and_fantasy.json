@@ -292,6 +292,23 @@
       "Country": "South Africa, United States, New Zealand, Canada"
     },
     {
+      "title": "Legion",
+      "netflix_url": "https://www.netflix.com/title/70117305",
+      "year": "2010",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt1038686",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDg4NjYxOV5BMl5BanBnXkFtZTcwODQyNDg3Mg@@._V1_SX300.jpg",
+      "Plot": "When a group of strangers at a dusty roadside diner come under attack by demonic forces, their only chance for survival lies with an archangel named Michael, who informs a pregnant waitress that her unborn child is humanity's last...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Fantasy, Horror",
+      "Director": "Scott Stewart",
+      "Writer": "Peter Schink, Scott Stewart",
+      "Actors": "Paul Bettany, Dennis Quaid, Charles S. Dutton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Naruto Shippuden: The Movie",
       "netflix_url": "https://www.netflix.com/title/70124999",
       "year": "2007",
@@ -409,6 +426,23 @@
       "Actors": "Andrew Garfield, Emma Stone, Jamie Foxx",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Jurassic World",
+      "netflix_url": "https://www.netflix.com/title/80029196",
+      "year": "2015",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0369610",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzBhNzlkM2UtZTQyOC00NjUyLTkzMmMtNDQ1YTM5N2NmMGE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Colin Trevorrow",
+      "Writer": "Rick Jaffa, Amanda Silver, Colin Trevorrow",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Ty Simpkins",
+      "Language": "English",
+      "Country": "United States, Japan"
     },
     {
       "title": "Pixels",
@@ -783,6 +817,23 @@
       "Actors": "Ryu Seung-ryong, Shim Eun-kyung, Park Jeong-min",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Jurassic World: Fallen Kingdom",
+      "netflix_url": "https://www.netflix.com/title/80228280",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt4881806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_SX300.jpg",
+      "Plot": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "J.A. Bayona",
+      "Writer": "Derek Connolly, Colin Trevorrow, Michael Crichton",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall",
+      "Language": "English, Russian",
+      "Country": "United States, China"
     },
     {
       "title": "Extinction",
@@ -1489,6 +1540,23 @@
       "Country": "Poland, South Korea, United States"
     },
     {
+      "title": "Jurassic World: Dominion",
+      "netflix_url": "https://www.netflix.com/title/81489837",
+      "year": "2022",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8041270",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
+      "Type": "movie",
+      "RunTime": "147 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Colin Trevorrow",
+      "Writer": "Emily Carmichael, Colin Trevorrow, Derek Connolly",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Laura Dern",
+      "Language": "English, Maltese, French",
+      "Country": "United States, China"
+    },
+    {
       "title": "Green Snake",
       "netflix_url": "https://www.netflix.com/title/81504698",
       "year": "2021",
@@ -1804,6 +1872,40 @@
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "War Machine",
+      "netflix_url": "https://www.netflix.com/title/81768525",
+      "year": "2026",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt15940132",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmM1ZTc5ZTYtOTM2My00MjBmLWE5NzktYzkyYzdlYWE3ZDAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow the final recruits of a grueling special ops boot camp who encounter a deadly force from beyond this world.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Patrick Hughes",
+      "Writer": "James Beaufort, Patrick Hughes",
+      "Actors": "Joshua Diaz, Richard Cotta, Alan Ritchson",
+      "Language": "English",
+      "Country": "United Kingdom, Australia, New Zealand, United States"
+    },
+    {
+      "title": "Jurassic World Rebirth",
+      "netflix_url": "https://www.netflix.com/title/81956629",
+      "year": "2025",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt31036941",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg2NTcwYWQtYzk4NS00MTJhLWEzZjItMzIxNjk3YzlkYzU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Gareth Edwards",
+      "Writer": "David Koepp, Michael Crichton",
+      "Actors": "Scarlett Johansson, Mahershala Ali, Jonathan Bailey",
+      "Language": "English, French, Spanish",
+      "Country": "United States, United Kingdom, Malta, India, Taiwan, Japan"
     },
     {
       "title": "Panji Tengkorak",

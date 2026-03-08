@@ -139,6 +139,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Matilda",
+      "netflix_url": "https://www.netflix.com/title/70033005",
+      "year": "1996",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0117008",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE3ZDMzMmEtODgwNi00NzMxLThkYWItMTAzMWUyMzI1NDQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A girl gifted with a keen intellect and psychic powers uses both to get even with her callous family and free her kindly schoolteacher from the tyrannical grip of a sadistic headmistress.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Danny DeVito",
+      "Writer": "Roald Dahl, Nicholas Kazan, Robin Swicord",
+      "Actors": "Danny DeVito, Rhea Perlman, Mara Wilson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Cheaper by the Dozen 2",
       "netflix_url": "https://www.netflix.com/title/70040690",
       "year": "2005",
@@ -449,6 +466,23 @@
       "Country": "United States, India"
     },
     {
+      "title": "The Lego Movie",
+      "netflix_url": "https://www.netflix.com/title/70289949",
+      "year": "2014",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt1490017",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+      "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Phil Lord, Christopher Miller",
+      "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+      "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+      "Language": "English",
+      "Country": "United States, Denmark, Australia, Norway"
+    },
+    {
       "title": "The Short Game",
       "netflix_url": "https://www.netflix.com/title/70290567",
       "year": "2013",
@@ -626,6 +660,23 @@
       "imdb_id": null
     },
     {
+      "title": "Goosebumps",
+      "netflix_url": "https://www.netflix.com/title/80049939",
+      "year": "2015",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1051904",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@._V1_SX300.jpg",
+      "Plot": "A teenager teams up with the daughter of young-adult horror author R.L. Stine after the writer's imaginary demons are set free on the town of Madison, Delaware.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Rob Letterman",
+      "Writer": "Darren Lemke, Scott Alexander, Larry Karaszewski",
+      "Actors": "Jack Black, Dylan Minnette, Odeya Rush",
+      "Language": "English, Ukrainian",
+      "Country": "United States, Australia"
+    },
+    {
       "title": "Becoming Santa",
       "netflix_url": "https://www.netflix.com/title/80093493",
       "year": "2015",
@@ -692,6 +743,23 @@
       "Actors": "Charlize Theron, Art Parkinson, Matthew McConaughey",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "Trolls",
+      "netflix_url": "https://www.netflix.com/title/80108182",
+      "year": "2016",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1679335",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX300.jpg",
+      "Plot": "After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Mike Mitchell, Walt Dohrn",
+      "Writer": "Jonathan Aibel, Glenn Berger, Erica Rivinoja",
+      "Actors": "Anna Kendrick, Justin Timberlake, Zooey Deschanel",
+      "Language": "English",
+      "Country": "United States, India, United Kingdom, Germany"
     },
     {
       "title": "Sing",
@@ -1457,6 +1525,23 @@
       "Actors": "Raphaël Personnaz, Virginie Efira, Dominique Pinon",
       "Language": "French, English",
       "Country": "France, Luxembourg, United States"
+    },
+    {
+      "title": "The House with a Clock in Its Walls",
+      "netflix_url": "https://www.netflix.com/title/80986886",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt2119543",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MwZjI4OGYtYjM1ZS00ODEzLTkzZDItMzNhYWFhMjQzMzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young orphan named Lewis Barnavelt aids his magical uncle in locating a clock with the power to bring about the end of the world.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Eli Roth",
+      "Writer": "John Bellairs, Eric Kripke",
+      "Actors": "Jack Black, Cate Blanchett, Owen Vaccaro",
+      "Language": "English",
+      "Country": "United States, Canada, India"
     },
     {
       "title": "Next Gen",
@@ -4433,6 +4518,13 @@
       "title": "KPop Demon Hunters Lyric Videos",
       "netflix_url": "https://www.netflix.com/title/82174859",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "KPop Demon Hunters Bonus Content",
+      "netflix_url": "https://www.netflix.com/title/82182322",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },
