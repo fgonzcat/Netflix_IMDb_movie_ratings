@@ -2176,6 +2176,23 @@
       "Country": "United States"
     },
     {
+      "title": "Skylines",
+      "netflix_url": "https://www.netflix.com/title/81137486",
+      "year": "2020",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt9387250",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWVmYTAwNzMtN2I0ZS00OTU2LThjMTctOTlkZjYwOTkyZjEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Liam O'Donnell",
+      "Writer": "Liam O'Donnell, Matthew E. Chausse",
+      "Actors": "Lindsey Morgan, Jonathan Howard, Daniel Bernhardt",
+      "Language": "English",
+      "Country": "United States, United Kingdom, France, Lithuania, Spain"
+    },
+    {
       "title": "The App",
       "netflix_url": "https://www.netflix.com/title/81150338",
       "year": "2019",
@@ -3813,6 +3830,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "The Creator",
+      "netflix_url": "https://www.netflix.com/title/81674655",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt11858890",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkxMTUxOTQtYzM4Yi00YzA2LTgzOTYtNDg2NTliODE0ZTRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Against the backdrop of a war between humans and robots with artificial intelligence, a former soldier finds the robots' secret weapon to end the conflict, an AI in the form of a child.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Gareth Edwards",
+      "Writer": "Gareth Edwards, Chris Weitz",
+      "Actors": "John David Washington, Madeleine Yuna Voyles, Gemma Chan",
+      "Language": "English, Thai",
+      "Country": "United States, Japan, Cambodia"
+    },
+    {
       "title": "Venom: The Last Dance",
       "netflix_url": "https://www.netflix.com/title/81680567",
       "year": "2024",
@@ -4353,6 +4387,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Masthishka Maranam: A Frankenbiting of Simon's Memories",
+      "netflix_url": "https://www.netflix.com/title/82774428",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36187149",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM3NTQwN2MtOGFiZC00Njc4LWFlN2UtMDU1ZTFjNDExMjVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Centred on a grieving father who navigates a virtual reality memory game in an attempt to reconnect with his lost child.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Sci-Fi, Thriller",
+      "Director": "Krishand",
+      "Writer": "N/A",
+      "Actors": "Rajisha Vijayan, Divya Prabha, Jagadish",
+      "Language": "Malayalam",
+      "Country": "India"
     }
   ]
 }

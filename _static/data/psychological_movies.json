@@ -54,6 +54,23 @@
       "Country": "United States, Australia, Switzerland, Canada"
     },
     {
+      "title": "Saw",
+      "netflix_url": "https://www.netflix.com/title/70003226",
+      "year": "2004",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0387564",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTE5MzFlMTktMzBkOC00ZjMxLThmOTAtOGU3ZGEwZGRlNDdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "James Wan",
+      "Writer": "Leigh Whannell, James Wan",
+      "Actors": "Cary Elwes, Leigh Whannell, Danny Glover",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Match Point",
       "netflix_url": "https://www.netflix.com/title/70035180",
       "year": "2006",
@@ -1904,6 +1921,23 @@
       "Country": "Norway"
     },
     {
+      "title": "Agnes",
+      "netflix_url": "https://www.netflix.com/title/81517345",
+      "year": "2021",
+      "imdb_rating": "3.8",
+      "imdb_id": "tt11348542",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzVkZGMyNTktNTkwZC00MmJkLTgzOTktMzViODFlNTYxNDQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rumors of demonic possession at a religious convent prompts a church investigation into the strange goings-on among its nuns. A disaffected priest and his neophyte are confronted with temptation, bloodshed and a crisis of faith.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Drama, Horror",
+      "Director": "Mickey Reece",
+      "Writer": "Mickey Reece, John Selvidge",
+      "Actors": "Molly C. Quinn, Hayley McFarland, Sean Gunn",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Lost Patient",
       "netflix_url": "https://www.netflix.com/title/81521006",
       "year": "2022",
@@ -2493,6 +2527,23 @@
       "imdb_id": null
     },
     {
+      "title": "Anatomy of a Fall",
+      "netflix_url": "https://www.netflix.com/title/81713297",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt17009710",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman is suspected of murder after her husband's death; their half-blind son faces a moral dilemma as the main witness.",
+      "Type": "movie",
+      "RunTime": "151 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Justine Triet",
+      "Writer": "Justine Triet, Arthur Harari",
+      "Actors": "Sandra Hüller, Swann Arlaud, Milo Machado-Graner",
+      "Language": "French, English",
+      "Country": "France"
+    },
+    {
       "title": "Merry Christmas (Tamil)",
       "netflix_url": "https://www.netflix.com/title/81713401",
       "year": "2023",
@@ -2988,6 +3039,23 @@
       "Actors": "Janki Bodiwala, Monal Gajjar, Hitu Kanodia",
       "Language": "Gujarati",
       "Country": "India"
+    },
+    {
+      "title": "Anemone",
+      "netflix_url": "https://www.netflix.com/title/82190327",
+      "year": "2025",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt33549447",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2UyNzdjZTQtN2IzNy00Yjc5LTgyMzUtN2UxMjdjYTQzMTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Northern England, a man heads out on a journey into the woods to reconnect with the estranged hermit brother with whom he shared a complicated past that was altered by life-changing events decades ago.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama",
+      "Director": "Ronan Day-Lewis",
+      "Writer": "Daniel Day-Lewis, Ronan Day-Lewis",
+      "Actors": "Sean Bean, Samuel Bottomley, Lewis Ian Bray",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Paradise",

@@ -54,6 +54,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Wrecking Crew",
+      "netflix_url": "https://www.netflix.com/title/70105364",
+      "year": "2008",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt33046197",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDcyMmYxZmMtMjg5MC00NWMzLTgyNDEtOGI2MWEzMmFmNmVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Angel Manuel Soto",
+      "Writer": "N/A",
+      "Actors": "Dave Bautista, Jason Momoa, Temuera Morrison",
+      "Language": "English",
+      "Country": "New Zealand, United States"
+    },
+    {
       "title": "iCarly",
       "netflix_url": "https://www.netflix.com/title/70136153",
       "year": "2012",
@@ -137,6 +154,23 @@
       "Actors": "Miles Teller, J.K. Simmons, Melissa Benoist",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Frank",
+      "netflix_url": "https://www.netflix.com/title/70299856",
+      "year": "2014",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt1605717",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0OTczMTcxOV5BMl5BanBnXkFtZTgwMDU1MDUwMjE@._V1_SX300.jpg",
+      "Plot": "Jon, a young wanna-be musician, discovers he's bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Lenny Abrahamson",
+      "Writer": "Jon Ronson, Peter Straughan",
+      "Actors": "Michael Fassbender, Domhnall Gleeson, Maggie Gyllenhaal",
+      "Language": "English, French, German",
+      "Country": "Ireland, United Kingdom"
     },
     {
       "title": "What Happened, Miss Simone?",
@@ -3802,6 +3836,13 @@
       "imdb_id": null
     },
     {
+      "title": "Barbara - Becoming Shirin David",
+      "netflix_url": "https://www.netflix.com/title/81953975",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Kneecap",
       "netflix_url": "https://www.netflix.com/title/81956594",
       "year": "2024",
@@ -4044,6 +4085,13 @@
       "Country": "Japan"
     },
     {
+      "title": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
+      "netflix_url": "https://www.netflix.com/title/82087556",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "timelesz project -REAL-",
       "netflix_url": "https://www.netflix.com/title/82111864",
       "year": "2026",
@@ -4083,6 +4131,40 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "BTS THE COMEBACK LIVE | ARIRANG",
+      "netflix_url": "https://www.netflix.com/title/82157128",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39578533",
+      "Poster": "N/A",
+      "Plot": "Follows BTS as they perform live from Seoul in celebration of their fifth studio album Arirang, marking their first global livestream event from Korea.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Music",
+      "Director": "Hamish Hamilton",
+      "Writer": "N/A",
+      "Actors": "j-hope, Jimin, Jin",
+      "Language": "N/A",
+      "Country": "South Korea"
+    },
+    {
+      "title": "BTS: THE RETURN",
+      "netflix_url": "https://www.netflix.com/title/82158609",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39578551",
+      "Poster": "N/A",
+      "Plot": "Follows BTS as they reunite in Los Angeles after completing military service, confronting how to begin again, honor their past, and move forward together as they return to making music.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Documentary, Music",
+      "Director": "Bao Nguyen",
+      "Writer": "N/A",
+      "Actors": "j-hope, Jimin, Jin",
+      "Language": "N/A",
+      "Country": "South Korea, United States"
     },
     {
       "title": "KPop Demon Hunters Lyric Videos",
@@ -4193,6 +4275,23 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Clika",
+      "netflix_url": "https://www.netflix.com/title/82740544",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28334938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzEyYjAyNWMtY2Y3Yy00YjRmLTllNDYtMThkMDFlNWI3YTkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small town musician pushes to carve out a place for himself in the new wave of Mexican-American music after a clip of him performing one of his songs goes viral.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama, Music",
+      "Director": "Michael Greene",
+      "Writer": "Michael Greene, Sean Sullivan McBride",
+      "Actors": "Eric Roberts, Peter Greene, Alison Chace",
+      "Language": "English",
+      "Country": "United States"
     }
   ]
 }

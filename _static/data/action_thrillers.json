@@ -802,6 +802,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Berlin File",
+      "netflix_url": "https://www.netflix.com/title/70270715",
+      "year": "2013",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt2357377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0OTY4MDE2NV5BMl5BanBnXkFtZTgwOTQyMjEyMjE@._V1_SX300.jpg",
+      "Plot": "Jong-seong, a North Korean ghost agent, interrupts an illegal arms sale in Berlin. A notorious North Korean agent tests the loyalties of everyone involved as Jong-Seong prepares to make the ultimate sacrifice.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Thriller",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Ted Geoghegan, Stefanie Y. Hong, Ryoo Seung-wan",
+      "Actors": "Ha Jung-woo, Han Suk-kyu, Ryu Seung-beom",
+      "Language": "Korean, English, German",
+      "Country": "South Korea"
+    },
+    {
       "title": "Aurangzeb",
       "netflix_url": "https://www.netflix.com/title/70276010",
       "year": "2013",
@@ -1055,6 +1072,23 @@
       "Actors": "Daniel Craig, Christoph Waltz, Léa Seydoux",
       "Language": "English, German, Italian, Spanish, French, Ukrainian",
       "Country": "United Kingdom, United States, Morocco, Italy, Austria, Canada, Mexico"
+    },
+    {
+      "title": "Veteran",
+      "netflix_url": "https://www.netflix.com/title/80068011",
+      "year": "2015",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt4768764",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI1Y2FkMDItMmMxNi00ZmJhLWEzMGUtOTdiOTc4YmZiOGE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An honest cop seeks justice for a common man against all odds. A rich boy seeks revenge on the cop.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Ryoo Seung-wan",
+      "Actors": "Hwang Jung-min, Yoo Ah-in, Yoo Hae-jin",
+      "Language": "Korean, Russian, English",
+      "Country": "South Korea"
     },
     {
       "title": "Spectral",
@@ -3440,6 +3474,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "Nobody 2",
+      "netflix_url": "https://www.netflix.com/title/81948261",
+      "year": "2025",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt28996126",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWViZjhjYjQtZDI1MC00MWMyLTlhZTktNmIzY2Y0ZWVkMWFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Suburban dad Hutch Mansell, a former lethal assassin, is pulled back into his violent past after thwarting a home invasion, setting off a chain of events.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Timo Tjahjanto",
+      "Writer": "Derek Kolstad, Aaron Rabin",
+      "Actors": "Bob Odenkirk, Connie Nielsen, Christopher Lloyd",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Conquer: Lahad Datu",
       "netflix_url": "https://www.netflix.com/title/81949600",
       "year": "2024",
@@ -3455,6 +3506,23 @@
       "Actors": "Syafiq Kyle, Kamal Adli, Fikry Ibrahim",
       "Language": "Malay",
       "Country": "Malaysia"
+    },
+    {
+      "title": "Mardaani 3",
+      "netflix_url": "https://www.netflix.com/title/82023351",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27673536",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjllNDEzYWItZWYzYy00MjgxLTk3MzgtOTA4ODA3ODZkNTRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dark, deadly and brutal chapter of the Mardaani franchise.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Abhiraj Minawala",
+      "Writer": "Aayush Gupta",
+      "Actors": "Rani Mukerji",
+      "Language": "N/A",
+      "Country": "India"
     },
     {
       "title": "Organ Child",
@@ -3581,6 +3649,40 @@
       "Actors": "Dean Norris, Julio Macias, Danforth Comins",
       "Language": "English, Spanish",
       "Country": "Mexico, United States"
+    },
+    {
+      "title": "Humint",
+      "netflix_url": "https://www.netflix.com/title/82682318",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32606470",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjliZDRkZTYtYTBkNi00NzAxLTg0YmQtODE0YjVmNWNjNjhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An espionage action film depicting North and South Korean secret agents clashing while investigating crimes occurring on the Vladivostok border.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "N/A",
+      "Actors": "Zo In-sung, Park Jeong-min, Park Hae-joon",
+      "Language": "N/A",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Sisu: Road to Revenge",
+      "netflix_url": "https://www.netflix.com/title/82712118",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt31844586",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZiNDZiZDQtMjYyOC00MWY1LTkyZjgtNDM1MmMwZTdhOWFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man returns to dismantle his family's house, where they were murdered in war, to rebuild it elsewhere. When the killer, a Red Army commander, tracks him down, a brutal cross-country pursuit begins.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Action, War",
+      "Director": "Jalmari Helander",
+      "Writer": "Jalmari Helander",
+      "Actors": "Jorma Tommila, Stephen Lang, Richard Brake",
+      "Language": "English, Finnish",
+      "Country": "Finland, United Kingdom"
     },
     {
       "title": "Thammudu",

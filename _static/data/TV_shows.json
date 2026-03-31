@@ -666,6 +666,23 @@
       "Country": "United States"
     },
     {
+      "title": "Mike & Molly",
+      "netflix_url": "https://www.netflix.com/title/70177677",
+      "year": "2016",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1608180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4NTk4MjkyMl5BMl5BanBnXkFtZTcwNzAwMjYyOQ@@._V1_SX300.jpg",
+      "Plot": "A couple meets at an Overeaters' Anonymous meeting.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Comedy, Romance",
+      "Director": "N/A",
+      "Writer": "Mark Roberts",
+      "Actors": "Billy Gardell, Melissa McCarthy, Reno Wilson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "House of Cards",
       "netflix_url": "https://www.netflix.com/title/70178217",
       "year": "2018",
@@ -3527,6 +3544,23 @@
       "Country": "United Kingdom, Germany"
     },
     {
+      "title": "Overlord",
+      "netflix_url": "https://www.netflix.com/title/80132110",
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt4869896",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjNjNDBmZjAtMGZiMS00ODBkLWFjYWItZWQ1ZjEwOGNmZDBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a popular MMORPG is scheduled to be shut down permanently, veteran player Momonga refuses to log out. As NPCs begin to develop personalities and minds of their own he decides to put his skills to use as the game's new overlord.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Kugane Maruyama",
+      "Actors": "Chris Guerrero, Satoshi Hino, Elizabeth Maxwell",
+      "Language": "English, Spanish, Portuguese, French, German, Italian, Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "El Chapo",
       "netflix_url": "https://www.netflix.com/title/80133042",
       "year": "2018",
@@ -5460,6 +5494,23 @@
       "Actors": "Abigail Cowen, Hannah van der Westhuysen, Precious Mustapha",
       "Language": "English",
       "Country": "Italy, United Kingdom"
+    },
+    {
+      "title": "Nicky Jam: El Ganador",
+      "netflix_url": "https://www.netflix.com/title/80221207",
+      "year": "2018",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt7949200",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjlmNTM5YzQtMTdiMi00ZTc0LTgzZGUtMTdiNzNmZTZmOTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look at the life and career of the Latin music superstar, Nicky Jam.",
+      "Type": "series",
+      "RunTime": "45 min",
+      "Genre": "Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Nicky Jam, Jose Caro, Darkiel",
+      "Language": "Spanish, English",
+      "Country": "United States, Colombia"
     },
     {
       "title": "Brotherhood",
@@ -11233,6 +11284,23 @@
       "Country": "Canada"
     },
     {
+      "title": "The Parisian Agency: Exclusive Properties",
+      "netflix_url": "https://www.netflix.com/title/81417684",
+      "year": "2026",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt14746934",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWMwN2E4N2ItNmZhMy00NGUxLTg0ZjktMzA4MjZlYTNjZDA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A reality series about the family Kretz who sells apartments to rich customers in France and the rest of the world.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Eduardo De Los Reyes, Valentin Kretz, Martin Kretz",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
       "title": "FOREVER",
       "netflix_url": "https://www.netflix.com/title/81418639",
       "year": "2025",
@@ -12526,6 +12594,13 @@
       "Country": "South Korea"
     },
     {
+      "title": "LEGO® Ninjago Dragons Rising",
+      "netflix_url": "https://www.netflix.com/title/81519765",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Murdaugh Murders: A Southern Scandal",
       "netflix_url": "https://www.netflix.com/title/81519789",
       "year": "2023",
@@ -13342,6 +13417,23 @@
       "Country": "United States"
     },
     {
+      "title": "Detective Hole",
+      "netflix_url": "https://www.netflix.com/title/81610327",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31810018",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjRiYzU2MjAtMGY2Yi00YzVkLTkzZGMtMGE1OGQ0MWQ3OWYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A brilliant but troubled detective, Harry Hole, hunts a serial killer while battling a corrupt adversary, Tom Waaler, as they navigate ethical gray areas, with Harry determined to bring the criminal to justice.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Tobias Santelmann, Joel Kinnaman, Pia Tjelta",
+      "Language": "Norwegian",
+      "Country": "Norway, United States"
+    },
+    {
       "title": "Under the Queen's Umbrella",
       "netflix_url": "https://www.netflix.com/title/81610893",
       "year": "2022",
@@ -14094,6 +14186,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Something Very Bad Is Going to Happen",
+      "netflix_url": "https://www.netflix.com/title/81667463",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32937780",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ0NDFhZGItODcxZC00ZjI1LThlNTYtMWMwMWFlZmY1YTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A certain atmosphere of horror is felt the week before the celebration of an unfortunate wedding.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Horror",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Camila Morrone, Adam DiMarco, Mason McDonald",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Behind Your Touch",
       "netflix_url": "https://www.netflix.com/title/81669777",
       "year": "2023",
@@ -14589,6 +14698,23 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Radioactive Emergency",
+      "netflix_url": "https://www.netflix.com/title/81696429",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37041021",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEzYWJhMTUtYTAzNi00YWFiLWI2NmYtOThlMTA2MjYwZTQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1987 Brazil, scavengers discover a mysterious glowing substance in an abandoned hospital. As the material changes hands, scientists and doctors desperately work to prevent a radioactive disaster from claiming countless lives.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, History, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Johnny Massaro, Tuca Andrada, Paulo Gorgulho",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Hostage",
@@ -16030,6 +16156,23 @@
       "Country": "Turkey"
     },
     {
+      "title": "The Prosecutor",
+      "netflix_url": "https://www.netflix.com/title/81767230",
+      "year": "2026",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt10291112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2NiZjU1MzMtYmRlNi00M2M4LWI5OTctNTE1M2NkZWI3ZWNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The suspicious death of Alberto Nisman, investigator of the attack on the headquarters of the AMIA in 1994.",
+      "Type": "series",
+      "RunTime": "373 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dexter Filkins, Ross Newland, Gustavo Perednik",
+      "Language": "Spanish, English, Hebrew",
+      "Country": "Spain, Germany, Denmark, United States"
+    },
+    {
       "title": "Wind Breaker",
       "netflix_url": "https://www.netflix.com/title/81771389",
       "year": "2024",
@@ -16079,6 +16222,13 @@
       "Actors": "Leonard J. Moore II, Jo Yuan, Teddy Riner",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "Age of Attraction",
+      "netflix_url": "https://www.netflix.com/title/81779095",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Black Forceps",
@@ -16974,6 +17124,13 @@
       "Country": "United States"
     },
     {
+      "title": "Ready or Not: Texas",
+      "netflix_url": "https://www.netflix.com/title/82031212",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Dynamite Kiss",
       "netflix_url": "https://www.netflix.com/title/82037587",
       "year": "2025",
@@ -17100,6 +17257,13 @@
       "Country": "Japan"
     },
     {
+      "title": "The Queen of Lunchtime Cuisine",
+      "netflix_url": "https://www.netflix.com/title/82078219",
+      "year": "2002",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Divorce Lawyer",
       "netflix_url": "https://www.netflix.com/title/82078262",
       "year": "2005",
@@ -17173,6 +17337,13 @@
       "Actors": "Rebecca Klopper, Florian Rutters, Mike Lucock",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "The Predator of Seville",
+      "netflix_url": "https://www.netflix.com/title/82090519",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "timelesz project -REAL-",
@@ -17387,6 +17558,13 @@
       "Country": "United States"
     },
     {
+      "title": "MLB Opening Night: Yankees vs. Giants",
+      "netflix_url": "https://www.netflix.com/title/82174907",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Hello Bachhon",
       "netflix_url": "https://www.netflix.com/title/82180640",
       "year": "2026",
@@ -17558,6 +17736,20 @@
       "Country": "South Korea"
     },
     {
+      "title": "Zenon the Farmer: Let’s Sing and Dance",
+      "netflix_url": "https://www.netflix.com/title/82695037",
+      "year": "2011",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Phantom Lawyer",
+      "netflix_url": "https://www.netflix.com/title/82699800",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Girl From Nowhere The Reset",
       "netflix_url": "https://www.netflix.com/title/82704879",
       "year": "2026",
@@ -17655,6 +17847,13 @@
       "Actors": "Tanapol Jarujittranon, Masu Junyangdikul, Danny Luciano",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Khemjira the Series",
+      "netflix_url": "https://www.netflix.com/title/82755470",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

@@ -1125,6 +1125,13 @@
       "Country": "United States"
     },
     {
+      "title": "Spiral: From the Book of Saw",
+      "netflix_url": "https://www.netflix.com/title/81252467",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Recurrence",
       "netflix_url": "https://www.netflix.com/title/81259570",
       "year": "2022",
@@ -1785,6 +1792,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Vengeance",
+      "netflix_url": "https://www.netflix.com/title/81588983",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt11976532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A writer from New York City attempts to solve the murder of a girl he hooked up with and travels down south to investigate the circumstances of her death and discover what happened to her.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Comedy, Music, Mystery",
+      "Director": "B.J. Novak",
+      "Writer": "B.J. Novak",
+      "Actors": "B.J. Novak, Boyd Holbrook, Lio Tipton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Murderer",
       "netflix_url": "https://www.netflix.com/title/81597188",
       "year": "2023",
@@ -2079,6 +2103,23 @@
       "Actors": "Shailene Woodley, Ben Mendelsohn, Jovan Adepo",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Anatomy of a Fall",
+      "netflix_url": "https://www.netflix.com/title/81713297",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt17009710",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman is suspected of murder after her husband's death; their half-blind son faces a moral dilemma as the main witness.",
+      "Type": "movie",
+      "RunTime": "151 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Justine Triet",
+      "Writer": "Justine Triet, Arthur Harari",
+      "Actors": "Sandra Hüller, Swann Arlaud, Milo Machado-Graner",
+      "Language": "French, English",
+      "Country": "France"
     },
     {
       "title": "Merry Christmas (Tamil)",

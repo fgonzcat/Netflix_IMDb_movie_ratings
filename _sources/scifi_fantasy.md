@@ -74,6 +74,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9744" target="_blan
 | 2.8 | <img src="https://m.media-amazon.com/images/M/MV5BNzkzNGNhODctODdlNS00YWJjLWJlZDAtZjIyNzA0NzFjNmRkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2015 | <details> <summary><strong style="color:#1f6feb;">*Ludo*</strong></summary>  <div class="movie-plot">Needing a secluded place for a late-night tryst, two couples stow away in a mall after hours, but are quickly ensnared in a gruesome and deadly game.</div> </details> | <a href="https://www.imdb.com/title/tt3724898/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80107037" target="_blank">Netflix_link</a> |
 | 2.7 | <img src="https://m.media-amazon.com/images/M/MV5BMjA2ODRkMGUtNzUxNC00MmM5LTk3YjQtNTkxNTFlNzFiMjNiXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Adipurush*</strong></summary>  <div class="movie-plot">A modern adaptation of the Indian epic Ramayana which follows the exiled prince Raghav's journey to rescue his wife Janaki from the demon king Lankesh.</div> </details> | <a href="https://www.imdb.com/title/tt12915716/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81519291" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Errementari: The Blacksmith and the Devil*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80239565" target="_blank">Netflix_link</a> |
+| N/A |  | 2019 | <details> <summary><strong style="color:#1f6feb;">*Oh! Baby (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81186757" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Fullmetal Alchemist The Final Alchemy*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt34266128/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81266981" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*The Witcher Bestiary Season 1, Part 1*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81555914" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*The Witcher Bestiary Season 1, Part 2*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81555915" target="_blank">Netflix_link</a> |
@@ -127,6 +128,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9744" target="_blan
 
  
 ---
-*Page last updated on: 2026-03-08*
+*Page last updated on: 2026-03-31*
 
  

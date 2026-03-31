@@ -122,6 +122,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Small Time Crooks",
+      "netflix_url": "https://www.netflix.com/title/60001172",
+      "year": "2000",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0196216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg2NjcyZGMtNGE2NC00NWYwLTg4ZTAtNjBkMzU2MWI2OWU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An inept crook and his wife strike it rich when their botched bank job's cookie-making cover business becomes a phenomenal success.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Comedy, Crime",
+      "Director": "Woody Allen",
+      "Writer": "Woody Allen",
+      "Actors": "Woody Allen, Tracey Ullman, Hugh Grant",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Best in Show",
       "netflix_url": "https://www.netflix.com/title/60002428",
       "year": "2000",
@@ -161,6 +178,23 @@
       "year": "1992",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Waiting for Guffman",
+      "netflix_url": "https://www.netflix.com/title/60020901",
+      "year": "1996",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0118111",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGY1MjZiOGEtNDE5Mi00N2EwLWI4OGMtYWZkNzJmYjI5ZWQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An aspiring director and the marginally talented amateur cast of a hokey small-town Missouri musical production go overboard when they learn that someone from Broadway will be in attendance.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Comedy",
+      "Director": "Christopher Guest",
+      "Writer": "Christopher Guest, Eugene Levy",
+      "Actors": "Christopher Guest, Fred Willard, Catherine O'Hara",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The One",
@@ -323,6 +357,23 @@
       "Country": "United States"
     },
     {
+      "title": "Saw II",
+      "netflix_url": "https://www.netflix.com/title/70035184",
+      "year": "2005",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0432348",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVlNjk3MmItZmUzNy00MzcyLWIzOTktZjllYWU5MDAyMjM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A detective and his team must rescue eight people trapped in a factory by a man known as Jigsaw.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Horror, Mystery",
+      "Director": "Darren Lynn Bousman",
+      "Writer": "Leigh Whannell, Darren Lynn Bousman",
+      "Actors": "Donnie Wahlberg, Beverley Mitchell, Franky G",
+      "Language": "English",
+      "Country": "Canada, United States"
+    },
+    {
       "title": "Rumor Has It...",
       "netflix_url": "https://www.netflix.com/title/70039168",
       "year": "2005",
@@ -415,6 +466,57 @@
       "Country": "United States, Australia"
     },
     {
+      "title": "Saw IV",
+      "netflix_url": "https://www.netflix.com/title/70060007",
+      "year": "2007",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0890870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc0NjUyNzg3MF5BMl5BanBnXkFtZTYwODMxOTM3._V1_SX300.jpg",
+      "Plot": "Despite Jigsaw's death, and in order to save the lives of two of his colleagues, Lieutenant Rigg is forced to take part in a new game, which promises to test him to the limit.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Darren Lynn Bousman",
+      "Writer": "Patrick Melton, Marcus Dunstan, Thomas Fenton",
+      "Actors": "Tobin Bell, Scott Patterson, Louis Ferreira",
+      "Language": "English",
+      "Country": "Canada, United States"
+    },
+    {
+      "title": "Diggers",
+      "netflix_url": "https://www.netflix.com/title/70060047",
+      "year": "2006",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0469897",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzA3YzhmMzUtMTUzYS00MmFiLTg2ODgtYTE1NmMwZjUxNTBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A story about a tight-knit group of friends, who try to maintain their small-town way of life in the face of enormous changes in 1970s Long Island.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Katherine Dieckmann",
+      "Writer": "Ken Marino",
+      "Actors": "Paul Rudd, Ken Marino, Maura Tierney",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Brother's Shadow",
+      "netflix_url": "https://www.netflix.com/title/70068739",
+      "year": "2006",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0468458",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI2NzczNDMxOV5BMl5BanBnXkFtZTcwNjM2ODIzMQ@@._V1_SX300.jpg",
+      "Plot": "Jake Groden is the black sheep of his family. Ankle deep in fish guts, he serves out his parole in Alaska. Then, after a decade of self-imposed exile, he is forced to return to his Brooklyn family. He soon discovers that his perfe...",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama",
+      "Director": "Todd S. Yellin",
+      "Writer": "Ivan Krim, Todd S. Yellin",
+      "Actors": "Scott Cohen, Katie Danziger, Lisa Emery",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Trailer Park Boys: The Movie",
       "netflix_url": "https://www.netflix.com/title/70069233",
       "year": "2006",
@@ -500,6 +602,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Just Buried",
+      "netflix_url": "https://www.netflix.com/title/70108649",
+      "year": "2007",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0906326",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNTUwMzY0NF5BMl5BanBnXkFtZTcwMDgzNTI1MQ@@._V1_SX300.jpg",
+      "Plot": "A young man inherits a nearly bankrupt funeral home from his estranged father. He falls in love with the alluring young mortician, only to find out she's offing people to keep the place in business!",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Comedy, Drama, Horror",
+      "Director": "Chaz Thorne",
+      "Writer": "Chaz Thorne",
+      "Actors": "Jay Baruchel, Sergio Di Zio, Nigel Bennett",
+      "Language": "English, German",
+      "Country": "Canada"
+    },
+    {
       "title": "Planet 51",
       "netflix_url": "https://www.netflix.com/title/70109891",
       "year": "2009",
@@ -532,6 +651,23 @@
       "Actors": "Catherine Zeta-Jones, Justin Bartha, Andrew Cherry",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Saw VI",
+      "netflix_url": "https://www.netflix.com/title/70119356",
+      "year": "2009",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt1233227",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDA3MTM4M15BMl5BanBnXkFtZTcwOTY4Njg3Mg@@._V1_SX300.jpg",
+      "Plot": "Agent Strahm is dead, and FBI agent Erickson draws nearer to Hoffman. Meanwhile, a pair of insurance executives find themselves in another game set by Jigsaw.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Kevin Greutert",
+      "Writer": "Patrick Melton, Marcus Dunstan",
+      "Actors": "Costas Mandylor, Mark Rolston, Betsy Russell",
+      "Language": "English",
+      "Country": "Canada, United States, Australia"
     },
     {
       "title": "Zombieland",
@@ -1075,6 +1211,23 @@
       "Country": "United States"
     },
     {
+      "title": "Revenge of the Green Dragons",
+      "netflix_url": "https://www.netflix.com/title/80017280",
+      "year": "2014",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt1396523",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYzOTc2Mzc1NV5BMl5BanBnXkFtZTgwODQ3NTQ0MjE@._V1_SX300.jpg",
+      "Plot": "Two best friends rise through the ranks of New York's Chinese underworld in the 1980s.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wai Keung Lau, Andrew Loo",
+      "Writer": "Michael Di Jiacomo, Andrew Loo, Fredric Dannen",
+      "Actors": "Justin Chon, Kevin Wu, Harry Shum Jr.",
+      "Language": "English, Chinese",
+      "Country": "Hong Kong, United States"
+    },
+    {
       "title": "Paul Blart: Mall Cop 2",
       "netflix_url": "https://www.netflix.com/title/80021687",
       "year": "2015",
@@ -1369,6 +1522,23 @@
       "Actors": "Hisham Fageeh, Fatima AlBanawi, Sami Hifny",
       "Language": "Arabic",
       "Country": "Saudi Arabia"
+    },
+    {
+      "title": "Shimmer Lake",
+      "netflix_url": "https://www.netflix.com/title/80103734",
+      "year": "2017",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1386691",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTI0NjZiZTctNWQ2MC00Yjc0LTg5ZTMtNjNlNTllZjE4ZDZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An inventive crime thriller told backwards reversing day by day through a week following a local sheriff's quest to unlock the mystery of three small-town criminals and a bank heist gone wrong.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Oren Uziel",
+      "Writer": "Oren Uziel",
+      "Actors": "Benjamin Walker, Rainn Wilson, Stephanie Sigman",
+      "Language": "English",
+      "Country": "Canada, United States"
     },
     {
       "title": "Ludo",
@@ -1779,6 +1949,23 @@
       "Country": "United States"
     },
     {
+      "title": "Jigsaw",
+      "netflix_url": "https://www.netflix.com/title/80185766",
+      "year": "2017",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt3348730",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk1ZTk1ZGYtNmViOS00NDExLTg0NTktMGZjYzg2ZDJlNmViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Police search for a supposed to be dead killer who forces his victims to play sadistic games of life and death.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Michael Spierig, Peter Spierig",
+      "Writer": "Josh Stolberg, Pete Goldfinger",
+      "Actors": "Matt Passmore, Tobin Bell, Callum Keith Rennie",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Better Watch Out",
       "netflix_url": "https://www.netflix.com/title/80191638",
       "year": "2016",
@@ -2143,6 +2330,23 @@
       "Country": "Peru, Chile, Spain, United States"
     },
     {
+      "title": "The Little Switzerland",
+      "netflix_url": "https://www.netflix.com/title/80235578",
+      "year": "2019",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt9100028",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDYzN2VjOGItM2U4OS00NDczLWE5OTUtODY3ZmRhNmM2MDFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fictional Castillian village but located in Basque Country tries become part of Switzerland after a surprising discovery.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Comedy",
+      "Director": "Kepa Sojo",
+      "Writer": "Alberto López, Daniel Monedero, Jelen Morales",
+      "Actors": "Jon Plazaola, Maggie Civantos, Ingrid García-Jonsson",
+      "Language": "Spanish, German, Basque",
+      "Country": "Portugal, Spain"
+    },
+    {
       "title": "Maria",
       "netflix_url": "https://www.netflix.com/title/80236341",
       "year": "2019",
@@ -2329,6 +2533,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Birthmarked",
+      "netflix_url": "https://www.netflix.com/title/80241779",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt4702826",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3NzE5NzU2Nl5BMl5BanBnXkFtZTgwMTIzMzc4NDM@._V1_SX300.jpg",
+      "Plot": "Two scientists raise 3 children contrarily to their genetic tendencies to prove the ultimate power of nurture over nature.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy",
+      "Director": "Emanuel Hoss-Desmarais",
+      "Writer": "Marc Tulin, Emanuel Hoss-Desmarais",
+      "Actors": "Matthew Goode, Toni Collette, Andreas Apergis",
+      "Language": "English, Spanish",
+      "Country": "Canada, Ireland"
+    },
+    {
       "title": "Malevolent",
       "netflix_url": "https://www.netflix.com/title/80242081",
       "year": "2018",
@@ -2368,6 +2589,23 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Solo",
+      "netflix_url": "https://www.netflix.com/title/80245041",
+      "year": "2018",
+      "imdb_rating": "4.1",
+      "imdb_id": "tt0117688",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiYzgwODgtZTg3NC00MmU3LTlhNmYtYjM5MzQwMGU1OGZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A robot soldier named Solo escapes after learning he will be deprogrammed and helps a village who are under attack by rebels.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Norberto Barba",
+      "Writer": "Robert Mason, David L. Corley",
+      "Actors": "Mario Van Peebles, William Sadler, Barry Corbin",
+      "Language": "English, Spanish",
+      "Country": "Mexico, United States"
     },
     {
       "title": "A Remarkable Tale",
@@ -2640,6 +2878,23 @@
       "Actors": "Bérénice Bejo, Suzanne Clément, Stéphane De Groodt",
       "Language": "French",
       "Country": "France, Belgium"
+    },
+    {
+      "title": "In a Relationship",
+      "netflix_url": "https://www.netflix.com/title/81006259",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt6676028",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTFmYjAwOTAtNGJkZi00NTM3LTg1OTgtZWNiYjI5YWU1OGFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A funny chronicle of a summer in the lives of two couples.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Sam Boyd",
+      "Writer": "Sam Boyd",
+      "Actors": "Emma Roberts, Michael Angarano, Dree Hemingway",
+      "Language": "English",
+      "Country": "United States, Mexico"
     },
     {
       "title": "All the Freckles in the World",
@@ -2997,6 +3252,23 @@
       "Actors": "Ludovik, Jérôme Niel, Nicolas Berno",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "Unicorn Store",
+      "netflix_url": "https://www.netflix.com/title/81034317",
+      "year": "2019",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt2338454",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjUyMTY2OTkwMF5BMl5BanBnXkFtZTgwODEyODA3NzM@._V1_SX300.jpg",
+      "Plot": "Kit, a twenty-something dreamer, receives an invitation that would fulfill her childhood dreams.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Brie Larson",
+      "Writer": "Samantha McIntyre",
+      "Actors": "Brie Larson, Samuel L. Jackson, Joan Cusack",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Addams Family",
@@ -4033,6 +4305,13 @@
       "Actors": "Yara Shahidi, Miles Robbins, Miguel",
       "Language": "Spanish, English",
       "Country": "United States, Canada, Spain, United Kingdom"
+    },
+    {
+      "title": "Spiral: From the Book of Saw",
+      "netflix_url": "https://www.netflix.com/title/81252467",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Robbing Mussolini",
@@ -5091,6 +5370,23 @@
       "Country": "Brazil"
     },
     {
+      "title": "Mommy Issues",
+      "netflix_url": "https://www.netflix.com/title/81460760",
+      "year": "2021",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt14880428",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjc4NWI2ZTYtZDdhYS00OTBjLWFjYmQtMWFhNmJlZmY4OWVkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy",
+      "Director": "Jose Javier Reyes",
+      "Writer": "Jose Javier Reyes",
+      "Actors": "Pokwang, Sue Ramirez, Gloria Diaz",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
       "title": "Out of my league",
       "netflix_url": "https://www.netflix.com/title/81465008",
       "year": "2020",
@@ -5676,6 +5972,23 @@
       "Country": "Italy"
     },
     {
+      "title": "Agnes",
+      "netflix_url": "https://www.netflix.com/title/81517345",
+      "year": "2021",
+      "imdb_rating": "3.8",
+      "imdb_id": "tt11348542",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzVkZGMyNTktNTkwZC00MmJkLTgzOTktMzViODFlNTYxNDQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rumors of demonic possession at a religious convent prompts a church investigation into the strange goings-on among its nuns. A disaffected priest and his neophyte are confronted with temptation, bloodshed and a crisis of faith.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Drama, Horror",
+      "Director": "Mickey Reece",
+      "Writer": "Mickey Reece, John Selvidge",
+      "Actors": "Molly C. Quinn, Hayley McFarland, Sean Gunn",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Do Your Worst",
       "netflix_url": "https://www.netflix.com/title/81517420",
       "year": "2023",
@@ -5953,6 +6266,23 @@
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Brian and Charles",
+      "netflix_url": "https://www.netflix.com/title/81582813",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt13270424",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjNlNmVmNjAtNjU2YS00ODBmLWI0OWMtYmEyZjRiMWJjZWVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a particularly harsh winter Brian goes into a deep depression; completely isolated and with no one to talk to, Brian does what any sane person would do when faced with such a melancholic situation. He builds a robot.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Drama, Sci-Fi",
+      "Director": "Jim Archer",
+      "Writer": "David Earl, Chris Hayward",
+      "Actors": "David Earl, Chris Hayward, Louise Brealey",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Spy Kids: Armageddon",
@@ -7599,6 +7929,23 @@
       "Country": "Saudi Arabia"
     },
     {
+      "title": "Nobody 2",
+      "netflix_url": "https://www.netflix.com/title/81948261",
+      "year": "2025",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt28996126",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWViZjhjYjQtZDI1MC00MWMyLTlhZTktNmIzY2Y0ZWVkMWFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Suburban dad Hutch Mansell, a former lethal assassin, is pulled back into his violent past after thwarting a home invasion, setting off a chain of events.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Timo Tjahjanto",
+      "Writer": "Derek Kolstad, Aaron Rabin",
+      "Actors": "Bob Odenkirk, Connie Nielsen, Christopher Lloyd",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Bleeding Tiger: Conflict Begins",
       "netflix_url": "https://www.netflix.com/title/81949635",
       "year": "2024",
@@ -7681,6 +8028,13 @@
       "title": "Curse of the Seven Seas",
       "netflix_url": "https://www.netflix.com/title/81990562",
       "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Amazing Journey of the Letters",
+      "netflix_url": "https://www.netflix.com/title/82007610",
+      "year": "2016",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -7995,6 +8349,23 @@
       "Country": "Canada, United States"
     },
     {
+      "title": "Gaslit By My Husband: The Morgan Metzer Story",
+      "netflix_url": "https://www.netflix.com/title/82095255",
+      "year": "2024",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt32245467",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgxZWFmODAtZjFhMS00NjM1LWFhZjgtZmY1NDQ5YTBjMzkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Morgan's ex-husband Rodney shows up minutes after a masked intruder has assaulted her in her home. Rodney's answers to the authorities' questions don't seem to add up, which makes him the prime suspect in the attack. Based on a tr...",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Drama",
+      "Director": "Lee Gabiana",
+      "Writer": "Benjamin Anderson",
+      "Actors": "Jana Kramer, Austin Nichols, Abigail Esmena",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "A Cowboy Christmas Romance",
       "netflix_url": "https://www.netflix.com/title/82095258",
       "year": "2023",
@@ -8044,6 +8415,23 @@
       "Actors": "Teri Hatcher, William deVry, Dan Payne",
       "Language": "English, French",
       "Country": "Canada"
+    },
+    {
+      "title": "The Bad Guardian",
+      "netflix_url": "https://www.netflix.com/title/82095261",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31938105",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTNiNTI0ZDUtZGVhOC00ZDJhLWIxZTktNGIzZTE1YzU3NTY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman tries to save her father from a corrupt and greedy court-appointed guardian.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Drama",
+      "Director": "Claudia Myers",
+      "Writer": "Ashley Gable",
+      "Actors": "Melissa Joan Hart, La La Anthony, Luis Bordonada",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Oh, Hi!",
@@ -8714,6 +9102,64 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "The Last Beergin",
+      "netflix_url": "https://www.netflix.com/title/82684475",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "There There",
+      "netflix_url": "https://www.netflix.com/title/82708406",
+      "year": "2022",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt19796976",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGJiYTAwYTUtMjg1NC00YWY4LTg3ZDctZWMyNmI2ZTg5ZDFjXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_SX300.jpg",
+      "Plot": "A lover's doubt in the cold light of morning leads a chain of uneasy intimacies--counselors, disruptors, peacemakers and fire-starters--every one looking to have a little faith rewarded.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Andrew Bujalski",
+      "Writer": "Andrew Bujalski",
+      "Actors": "Jon Natchez, Lili Taylor, Lennie James",
+      "Language": "N/A",
+      "Country": "United States"
+    },
+    {
+      "title": "Sisu: Road to Revenge",
+      "netflix_url": "https://www.netflix.com/title/82712118",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt31844586",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZiNDZiZDQtMjYyOC00MWY1LTkyZjgtNDM1MmMwZTdhOWFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man returns to dismantle his family's house, where they were murdered in war, to rebuild it elsewhere. When the killer, a Red Army commander, tracks him down, a brutal cross-country pursuit begins.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Action, War",
+      "Director": "Jalmari Helander",
+      "Writer": "Jalmari Helander",
+      "Actors": "Jorma Tommila, Stephen Lang, Richard Brake",
+      "Language": "English, Finnish",
+      "Country": "Finland, United Kingdom"
+    },
+    {
+      "title": "Clika",
+      "netflix_url": "https://www.netflix.com/title/82740544",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28334938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzEyYjAyNWMtY2Y3Yy00YjRmLTllNDYtMThkMDFlNWI3YTkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small town musician pushes to carve out a place for himself in the new wave of Mexican-American music after a clip of him performing one of his songs goes viral.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama, Music",
+      "Director": "Michael Greene",
+      "Writer": "Michael Greene, Sean Sullivan McBride",
+      "Actors": "Eric Roberts, Peter Greene, Alison Chace",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Stand by Me",

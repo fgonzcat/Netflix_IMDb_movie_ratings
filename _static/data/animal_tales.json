@@ -1289,6 +1289,23 @@
       "Country": "United States"
     },
     {
+      "title": "Clifford the Big Red Dog",
+      "netflix_url": "https://www.netflix.com/title/81286595",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt2397461",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBlZTI4ODEtNzEwYS00OTBmLTliMTMtYWUyZjc3Y2RhN2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young girl's love for a tiny puppy named Clifford makes the dog grow to an enormous size.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Walt Becker",
+      "Writer": "Jay Scherick, David Ronn, Blaise Hemingway",
+      "Actors": "Darby Camp, Jack Whitehall, Izaac Wang",
+      "Language": "English, Spanish, Russian, Mandarin",
+      "Country": "United States"
+    },
+    {
       "title": "Not Quite Narwhal",
       "netflix_url": "https://www.netflix.com/title/81296780",
       "year": "2023",
@@ -1844,6 +1861,23 @@
       "Country": "Mexico, United States, United Kingdom, Denmark, Spain"
     },
     {
+      "title": "Furry Friends Forever: Elmo Gets a Puppy",
+      "netflix_url": "https://www.netflix.com/title/82118668",
+      "year": "2021",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt15185154",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZjODI0YmYtYzE5OS00YjQzLWFjMGUtYzZmY2I4NzFhZjgwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this joyful special teaching us how to love and care for our furry friends, Elmo and Grover help a sweet stray puppy find a forever home.",
+      "Type": "movie",
+      "RunTime": "26 min",
+      "Genre": "Animation, Short",
+      "Director": "Joanna Hepworth, Rick Ritter, Arthur Mark Taylor",
+      "Writer": "Morgan Von Ancken",
+      "Actors": "Tyler Bunch, Leslie Carrara-Rudolph, Stephanie D'Abruzzo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "My Sesame Street Friends: My Sesame Music",
       "netflix_url": "https://www.netflix.com/title/82118699",
       "year": "2026",
@@ -1854,6 +1888,51 @@
       "title": "Sealook",
       "netflix_url": "https://www.netflix.com/title/82151512",
       "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Bad Guys 2",
+      "netflix_url": "https://www.netflix.com/title/82175765",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt30017619",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2YwODhmODctMjE2OS00Y2EyLWEyZTEtOGU3ODk5MGIzYmU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Bad Guys are struggling to find trust and acceptance in their newly minted lives as Good Guys, when they are pulled out of retirement and forced to do \"one last job\" by an all-female squad of criminals.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "JP Sans, Pierre Perifel",
+      "Writer": "Yoni Brenner, Etan Cohen, Aaron Blabey",
+      "Actors": "Sam Rockwell, Marc Maron, Awkwafina",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Zenon the Farmer: Let’s Sing and Dance",
+      "netflix_url": "https://www.netflix.com/title/82695037",
+      "year": "2011",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bartolito’s Adventures at the Farm",
+      "netflix_url": "https://www.netflix.com/title/82695044",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Lola the Cow’s Adventures at the Farm",
+      "netflix_url": "https://www.netflix.com/title/82695045",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bartolito’s Adventures on the Internet",
+      "netflix_url": "https://www.netflix.com/title/82695046",
+      "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
     }

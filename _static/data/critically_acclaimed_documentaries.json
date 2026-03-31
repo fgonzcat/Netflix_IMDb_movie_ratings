@@ -20,6 +20,13 @@
       "Country": "United Kingdom, Ireland, Belgium, United States"
     },
     {
+      "title": "The Wrecking Crew",
+      "netflix_url": "https://www.netflix.com/title/70105364",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "30 for 30: The Two Escobars",
       "netflix_url": "https://www.netflix.com/title/70137756",
       "year": "2010",
@@ -1202,6 +1209,23 @@
       "Actors": "Jasmine Kin Kia Ng, Philip Cheah, Sophia Siddique Harvey",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "McQueen",
+      "netflix_url": "https://www.netflix.com/title/80987642",
+      "year": "2018",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt6510332",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0MTg3MTM0OF5BMl5BanBnXkFtZTgwOTU0OTU2NTM@._V1_SX300.jpg",
+      "Plot": "The life and career of fashion designer Lee Alexander McQueen: from his start as a tailor, to launching and overseeing his eponymous line and his untimely death.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Ian Bonhôte, Peter Ettedgui",
+      "Writer": "Peter Ettedgui",
+      "Actors": "Alexander McQueen, Joyce McQueen, John Hitchcock",
+      "Language": "English, French",
+      "Country": "United Kingdom"
     },
     {
       "title": "Immigration Nation",
@@ -2701,6 +2725,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Grenfell: Uncovered",
+      "netflix_url": "https://www.netflix.com/title/81683138",
+      "year": "2025",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt37024060",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzI3OWQzZjEtYmFiZC00MGM1LTlmYTctMjFjMmVhYjYyMzVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Reveals decisions by officials and companies before the 2017 Grenfell Tower fire that made it preventable. Survivors, families, and firefighters share their accounts of the tragedy that took 72 lives.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary",
+      "Director": "Olaide Sadiq",
+      "Writer": "N/A",
+      "Actors": "Mohammad Alhaj Ali, Omar Alhaj Ali, Peter Apps",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders",
       "netflix_url": "https://www.netflix.com/title/81685878",
       "year": "2025",
@@ -2750,6 +2791,23 @@
       "Actors": "José Andrés, Jamie Oliver, Tony Blair",
       "Language": "N/A",
       "Country": "United States"
+    },
+    {
+      "title": "Attack on London: Hunting The 7/7 Bombers",
+      "netflix_url": "https://www.netflix.com/title/81715711",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37182077",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjVhZTlkYTgtNWExYy00OWZhLWI0ZGMtZWVjNDZlM2EyOWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Mountain Queen: The Summits of Lhakpa Sherpa",
@@ -2803,6 +2861,23 @@
       "Country": "United States"
     },
     {
+      "title": "Surviving Black Hawk Down",
+      "netflix_url": "https://www.netflix.com/title/81737703",
+      "year": "2025",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt35435624",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwNWUwMzktYjRiMS00MDFlLTg5N2UtNGM1ZGZlNzc0ZmYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Documents the real 1993 Battle of Mogadishu through firsthand accounts from U.S. soldiers and Somali civilians, detailing the mission to capture warlord Aidid and the downing of two helicopters.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, History, War",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Alex Brockdorff, Reggie McHale, Tom Satterly",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Join or Die",
       "netflix_url": "https://www.netflix.com/title/81746809",
       "year": "2023",
@@ -2835,6 +2910,23 @@
       "Actors": "Amy Ray, Emily Saliers, Winona LaDuke",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Who Killed the Montreal Expos?",
+      "netflix_url": "https://www.netflix.com/title/81748607",
+      "year": "2025",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt38348802",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzgyNzhkNTgtNzRiZi00OWYxLTk3NDMtNTgyMDM0ZWVlNDdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An investigation into the downfall of the Montreal Expos, Canada's first Major League Baseball team and who was ultimately responsible.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Jean-François Poisson",
+      "Writer": "N/A",
+      "Actors": "Jeremy Filosa, Ménick, Rodger Brulotte",
+      "Language": "French",
+      "Country": "Canada"
     },
     {
       "title": "Remembering Gene Wilder",
@@ -3097,6 +3189,23 @@
       "Actors": "Mark Mothersbaugh, Bob Casale, Gerald Casale",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "All the Empty Rooms",
+      "netflix_url": "https://www.netflix.com/title/82058494",
+      "year": "2025",
+      "imdb_rating": "9.2",
+      "imdb_id": "tt37798645",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDExYmE3ZDgtMDhmYy00OTQ1LWI5OTktMzJkOTIwNzc0MDBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows correspondent Steve Hartman and photographer Lou Bopp as they embark on a seven-year-long project to document the empty bedrooms of children killed in school shootings.",
+      "Type": "movie",
+      "RunTime": "34 min",
+      "Genre": "Documentary, Short",
+      "Director": "Joshua Seftel",
+      "Writer": "N/A",
+      "Actors": "Frank Blackwell, Nancy Blackwell, Lou Bopp",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Stringer: The Man Who Took The Photo",

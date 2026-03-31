@@ -398,6 +398,23 @@
       "Country": "France"
     },
     {
+      "title": "ReMastered: Who Killed Jam Master Jay?",
+      "netflix_url": "https://www.netflix.com/title/80191044",
+      "year": "2018",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt9046560",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ4NmE4NDgtYjIzYS00NjE0LWI4OTAtNjE5NWQwOTU4MWFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Run DMC's Jam Master Jay was shot and killed in a Jamaica, Queens recording studio in 2002. Despite six witnesses present at the murder, no one has ever been convicted.",
+      "Type": "movie",
+      "RunTime": "58 min",
+      "Genre": "Documentary",
+      "Director": "Brian Oakes",
+      "Writer": "Jeff Zimbalist, Michael Zimbalist",
+      "Actors": "Jam Master Jay, DJ Hurricane, Rahman Dukes",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
       "title": "ReMastered: The Two Killings of Sam Cooke",
       "netflix_url": "https://www.netflix.com/title/80191045",
       "year": "2019",
@@ -4172,6 +4189,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "The Prosecutor",
+      "netflix_url": "https://www.netflix.com/title/81767230",
+      "year": "2026",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt10291112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2NiZjU1MzMtYmRlNi00M2M4LWI5OTctNTE1M2NkZWI3ZWNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The suspicious death of Alberto Nisman, investigator of the attack on the headquarters of the AMIA in 1994.",
+      "Type": "series",
+      "RunTime": "373 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dexter Filkins, Ross Newland, Gustavo Perednik",
+      "Language": "Spanish, English, Hebrew",
+      "Country": "Spain, Germany, Denmark, United States"
+    },
+    {
       "title": "Murder in Monaco",
       "netflix_url": "https://www.netflix.com/title/81767764",
       "year": "2025",
@@ -4354,6 +4388,13 @@
       "Actors": "N/A",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "The Predator of Seville",
+      "netflix_url": "https://www.netflix.com/title/82090519",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

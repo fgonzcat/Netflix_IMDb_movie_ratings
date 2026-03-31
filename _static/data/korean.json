@@ -3,6 +3,40 @@
   "genre_url": "https://www.netflix.com/browse/genre/5685",
   "movies": [
     {
+      "title": "The Unjust",
+      "netflix_url": "https://www.netflix.com/title/70170417",
+      "year": "2010",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1843120",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTI5ODIzMl5BMl5BanBnXkFtZTgwNzI3MDE0MjE@._V1_SX300.jpg",
+      "Plot": "When the most probable serial killer suspect dies and the case looks like it's reached a dead end, police brass decide to create a killer - and anyone will do.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Park Hoon-jung",
+      "Actors": "Hwang Jung-min, Ryu Seung-beom, Yoo Hae-jin",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Arahan",
+      "netflix_url": "https://www.netflix.com/title/70201188",
+      "year": "2004",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt0404777",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQxNjA1MTk4NV5BMl5BanBnXkFtZTgwNjYyMTQ2MzE@._V1_SX300.jpg",
+      "Plot": "As a dorky cop falls in with five Tao masters who admire his c'hi, an ancient foe comes looking for them all.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Action, Comedy, Fantasy",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Ji-hie Eun, Lee Hae-young, Ryoo Seung-wan",
+      "Actors": "Ryu Seung-beom, Yoon So-yi, Ahn Sung-ki",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Silenced",
       "netflix_url": "https://www.netflix.com/title/70241118",
       "year": "2011",
@@ -20,6 +54,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "The Berlin File",
+      "netflix_url": "https://www.netflix.com/title/70270715",
+      "year": "2013",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt2357377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0OTY4MDE2NV5BMl5BanBnXkFtZTgwOTQyMjEyMjE@._V1_SX300.jpg",
+      "Plot": "Jong-seong, a North Korean ghost agent, interrupts an illegal arms sale in Berlin. A notorious North Korean agent tests the loyalties of everyone involved as Jong-Seong prepares to make the ultimate sacrifice.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Thriller",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Ted Geoghegan, Stefanie Y. Hong, Ryoo Seung-wan",
+      "Actors": "Ha Jung-woo, Han Suk-kyu, Ryu Seung-beom",
+      "Language": "Korean, English, German",
+      "Country": "South Korea"
+    },
+    {
       "title": "Miss Granny",
       "netflix_url": "https://www.netflix.com/title/70299544",
       "year": "2014",
@@ -34,6 +85,23 @@
       "Writer": "Dong-ik Shin, Yoon-jeong Hong, Hee-seon Dong",
       "Actors": "Shim Eun-kyung, Na Moon-hee, Park In-hwan",
       "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Veteran",
+      "netflix_url": "https://www.netflix.com/title/80068011",
+      "year": "2015",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt4768764",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI1Y2FkMDItMmMxNi00ZmJhLWEzMGUtOTdiOTc4YmZiOGE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An honest cop seeks justice for a common man against all odds. A rich boy seeks revenge on the cop.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Ryoo Seung-wan",
+      "Actors": "Hwang Jung-min, Yoo Ah-in, Yoo Hae-jin",
+      "Language": "Korean, Russian, English",
       "Country": "South Korea"
     },
     {
@@ -85,6 +153,23 @@
       "Writer": "Joon-Sung Kim",
       "Actors": "Sul Kyung-gu, Go Soo, Kang Hye-jeong",
       "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "The Battleship Island",
+      "netflix_url": "https://www.netflix.com/title/80201600",
+      "year": "2017",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt5969696",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4MjhmZWMtOWM0NC00NTc1LWE1ZmMtNjJmYjJkOTY2ZjEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "During the Japanese colonial era, roughly 400 Korean people, who were forced onto Battleship Island (\"Hashima Island\") to mine for coal, attempt to a dramatic escape.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Ryoo Seung-wan",
+      "Actors": "Hwang Jung-min, So Ji-seob, Song Joong-ki",
+      "Language": "Korean, Japanese",
       "Country": "South Korea"
     },
     {
@@ -1171,6 +1256,13 @@
       "Actors": "Shunsuke Michieda, Riko Fukumoto, Kotone Furukawa",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Humint",
+      "netflix_url": "https://www.netflix.com/title/82682318",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

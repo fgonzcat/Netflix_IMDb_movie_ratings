@@ -6,6 +6,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2729" target="_blan
 
 | IMDb ⭐ | Poster | Year | Title | IMDb | Netflix |
 |:-------:|:-------:|:-------:|:------|------|---------|
+| 8.5 | <img src="https://m.media-amazon.com/images/M/MV5BYzU3NDM4ZjgtY2UyMi00YTczLTgyNDEtMjBiMDJlOGUxNjcxXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*Mob Psycho 100*</strong></summary>  <div class="movie-plot">A psychic middle school boy tries to live a normal life and keep his growing powers under control, even though he constantly gets into trouble.</div> </details> | <a href="https://www.imdb.com/title/tt5897304/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80179798" target="_blank">Netflix_link</a> |
 | 8.5 | <img src="https://m.media-amazon.com/images/M/MV5BZjZjZGI3ZDQtODNmZC00NjE0LTlmYTUtOTljMWI2YjNmMTQ0XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 1995 | <details> <summary><strong style="color:#1f6feb;">*Neon Genesis Evangelion*</strong></summary>  <div class="movie-plot">A teenage boy finds himself recruited as a member of an elite team of pilots by his father.</div> </details> | <a href="https://www.imdb.com/title/tt0112159/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81033445" target="_blank">Netflix_link</a> |
 | 8.3 | <img src="https://m.media-amazon.com/images/M/MV5BMGJlODA2ZmItOTRiZS00NWM5LWJlNTQtYzI5MTNiZjA2MGFjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2007 | <details> <summary><strong style="color:#1f6feb;">*Gurren Lagann*</strong></summary>  <div class="movie-plot">Two friends, Simon and Kamina, become the symbols of rebellion against the powerful Spiral King, who forced mankind into subterranean villages.</div> </details> | <a href="https://www.imdb.com/title/tt0948103/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/70213196" target="_blank">Netflix_link</a> |
 | 8.3 | <img src="https://m.media-amazon.com/images/M/MV5BM2JkMzM2ZmYtNWU4MS00MjZhLWFhZWUtYWFjYTJkN2RhZDliXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Cyberpunk: Edgerunners*</strong></summary>  <div class="movie-plot">A Street Kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an Edgerunner, a Mercenary outlaw also known as a Cyberpunk.</div> </details> | <a href="https://www.imdb.com/title/tt12590266/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81054853" target="_blank">Netflix_link</a> |
@@ -107,6 +108,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2729" target="_blan
 
  
 ---
-*Page last updated on: 2026-03-08*
+*Page last updated on: 2026-03-31*
 
  

@@ -350,6 +350,23 @@
       "imdb_id": null
     },
     {
+      "title": "Mike & Molly",
+      "netflix_url": "https://www.netflix.com/title/70177677",
+      "year": "2016",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1608180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4NTk4MjkyMl5BMl5BanBnXkFtZTcwNzAwMjYyOQ@@._V1_SX300.jpg",
+      "Plot": "A couple meets at an Overeaters' Anonymous meeting.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Comedy, Romance",
+      "Director": "N/A",
+      "Writer": "Mark Roberts",
+      "Actors": "Billy Gardell, Melissa McCarthy, Reno Wilson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Big C",
       "netflix_url": "https://www.netflix.com/title/70180085",
       "year": "2013",
@@ -382,6 +399,23 @@
       "Actors": "Frank Welker, Wally Wingert, Gregg Berger",
       "Language": "English, French",
       "Country": "France, United States, India, Singapore"
+    },
+    {
+      "title": "The Ricky Gervais Show",
+      "netflix_url": "https://www.netflix.com/title/70180094",
+      "year": "2012",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt1553644",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRkMTMwM2QtMDA1NC00NWRkLWI1ZTQtNzdlNWQzOWM1YWIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ricky Gervais and Stephen Merchant talk to Karl Pilkington about important things in life whilst Karl provides anything but intelligent answers. Comedy at its finest with wonderful animation.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Animation, Comedy, Talk-Show",
+      "Director": "N/A",
+      "Writer": "Ricky Gervais, Stephen Merchant, Karl Pilkington",
+      "Actors": "Ricky Gervais, Stephen Merchant, Karl Pilkington",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Shameless (U.S.)",
@@ -1663,6 +1697,13 @@
       "Country": "United States"
     },
     {
+      "title": "Hello, My Twenties!",
+      "netflix_url": "https://www.netflix.com/title/80128686",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Crashing",
       "netflix_url": "https://www.netflix.com/title/80133117",
       "year": "2016",
@@ -2452,6 +2493,23 @@
       "Director": "N/A",
       "Writer": "Kevin Hench",
       "Actors": "Gabriel Iglesias, Sherri Shepherd, Jacob Vargas",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Busted!",
+      "netflix_url": "https://www.netflix.com/title/80209553",
+      "year": "2021",
+      "imdb_rating": "2.8",
+      "imdb_id": "tt0115791",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1ODk5ODgzMV5BMl5BanBnXkFtZTgwMjU4ODk1MDE@._V1_SX300.jpg",
+      "Plot": "In the town of Amity, the cops take crime off of the streets and put it into the police station where it belongs.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Comedy",
+      "Director": "Corey Feldman",
+      "Writer": "Ronald Jacobs, Maria James",
+      "Actors": "Corey Feldman, Corey Haim, Dominick Brascia, Mariana Morgan",
       "Language": "English",
       "Country": "United States"
     },
@@ -3451,6 +3509,23 @@
       "year": "2019",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "The Pentaverate",
+      "netflix_url": "https://www.netflix.com/title/81000867",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt10203880",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDZkM2NhZDMtMjU3OS00MTc3LTk0NTMtMDg1YjhmODczMjA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An unlikely Canadian journalist finds himself embroiled in a mission to uncover the truth and just possibly save the world himself.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Mike Myers",
+      "Actors": "Mike Myers, Lydia West, Jeremy Irons",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Cobra Kai",
@@ -4567,6 +4642,23 @@
       "Actors": "Manu Nna, Ray Contreras, Ana Julia Yeye",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Sexify",
+      "netflix_url": "https://www.netflix.com/title/81140470",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt14315542",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjljZjY2MDItM2JlYy00YWRiLTkyMGUtZGVlMWE5Yjc4ZGIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To build an innovative sex app and win a tech competition, a sexually inexperienced student and her friends must explore the daunting world of intimacy.",
+      "Type": "series",
+      "RunTime": "40 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Kalina Alabrudzinska, Piotr Domalewski, Agata Gerc",
+      "Actors": "Aleksandra Skraba, Maria Sobocinska, Sandra Drzymalska",
+      "Language": "Polish, English",
+      "Country": "Poland"
     },
     {
       "title": "Dirty Lines",
@@ -6161,6 +6253,23 @@
       "Country": "Australia"
     },
     {
+      "title": "The Fabulous",
+      "netflix_url": "https://www.netflix.com/title/81406881",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt22373732",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjYzMmJlMzktYWFmZC00OGJhLTg1MjQtNDhjZDhkZGNmYjk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four best friends chase their dreams alongside the fashion elite while juggling demanding jobs, romantic dilemmas, and wild nights on the town.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Choi Min-ho, Chae Soo-bin, Anzu Lawson",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Smother-in-Law",
       "netflix_url": "https://www.netflix.com/title/81410564",
       "year": "2023",
@@ -6295,6 +6404,23 @@
       "Actors": "Kaycie Chase",
       "Language": "English, French",
       "Country": "France"
+    },
+    {
+      "title": "Bodkin",
+      "netflix_url": "https://www.netflix.com/title/81423482",
+      "year": "2024",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt21072112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDIxYmRkZTMtZTJmNi00Y2M0LWJhOWItYjJkYjQyY2Q2Njg3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of podcasters sets out to investigate the mysterious disappearance of three strangers in an idyllic Irish town. But when they start to pull the strings, they find a story much bigger and stranger than they expected.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Jez Scharf",
+      "Actors": "Siobhán Cullen, Robyn Cara, Chris Walley",
+      "Language": "English",
+      "Country": "Ireland, United States"
     },
     {
       "title": "An Incurable Case of Love",
@@ -7277,6 +7403,23 @@
       "Country": "Canada, United States"
     },
     {
+      "title": "Poong, the Joseon Psychiatrist",
+      "netflix_url": "https://www.netflix.com/title/81618684",
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt21423436",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjIxNjZhZTMtNzFiYy00MDg1LThjMzMtODI5Y2I3ZDNmNjZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "About a royal physician who got expelled from the royal court and now heals souls in a strange but beautiful village.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kim Min-jae, Kim Hyang-gi, Kim Sang-kyung",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Diary of a Ditched Girl",
       "netflix_url": "https://www.netflix.com/title/81626817",
       "year": "2025",
@@ -7292,6 +7435,23 @@
       "Actors": "Carla Sehn, Malou Marnfeldt, Zahraa Aldoujaili",
       "Language": "Swedish",
       "Country": "Sweden"
+    },
+    {
+      "title": "Football Parents",
+      "netflix_url": "https://www.netflix.com/title/81628960",
+      "year": "2025",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt33078939",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmNiZDQ3MjQtYTBkNC00YTA3LThhZDUtYzc0ZmE4ODk1ZDY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Overbearing parents shamelessly interfere in their children's amateur soccer careers. We see this world through Lillian and her son Levi, who's new to the team.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Eva van Gessel, Ilse Warringa, Mariana Aparicio",
+      "Language": "Dutch",
+      "Country": "Netherlands"
     },
     {
       "title": "Girls5eva",
@@ -7743,6 +7903,23 @@
       "imdb_id": null
     },
     {
+      "title": "The Bad Guys: Haunted Heist",
+      "netflix_url": "https://www.netflix.com/title/81686326",
+      "year": "2024",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt33130902",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ0NTRkNGMtMDM2NS00ZTkxLWE3NWYtNzE3MTQ4YTg4Njg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Bad Guys' Halloween night of thievery and crime turns into a night of terror when they come across a dangerous enemy of the supernatural kind that gives them a taste of their own medicine.",
+      "Type": "movie",
+      "RunTime": "25 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Kevin Peaty, Christo Stamboliev",
+      "Writer": "Ben Glass, Elizabeth Chun, Shane Lynch",
+      "Actors": "Michael Godere, Ezekiel Ajeigbe, Raul Ceballos",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Son of a Donkey",
       "netflix_url": "https://www.netflix.com/title/81686370",
       "year": "2025",
@@ -8136,6 +8313,23 @@
       "Actors": "Ankur Rathee, Hami Ali Hamil, Kunal Kemmu",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Digman!",
+      "netflix_url": "https://www.netflix.com/title/81729879",
+      "year": "2025",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt22059768",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTUyMzQ1NGItZGI5Mi00ZThiLWIxYTctY2RkMjk5ODhmODdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of a world in which archaeologists are massive celebrities and the coolest people on the planet.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Neil Campbell, Andy Samberg",
+      "Actors": "Andy Samberg, Mitra Jouhari, Tim Robinson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Cunk on Life",
@@ -9008,6 +9202,23 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Phantom Lawyer",
+      "netflix_url": "https://www.netflix.com/title/82699800",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39837101",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMxMDVhZWMtYTQ1Mi00OTM3LWIyNWYtNzgzNmU3NzI4MzMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Gemini said Possessed lawyer Shin Irang resolves the deep grudges of the dead. He joins Han Nahyeon, a cold elite attorney who bets everything on winning, in a strange yet heartwarming adventure of supernatural justice.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Yoo Yeon-seok, Esom, Kim Kyung-Nam",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Dunia Tanpa Tuhan",

@@ -282,6 +282,23 @@
       "Country": "West Germany"
     },
     {
+      "title": "Hacksaw Ridge",
+      "netflix_url": "https://www.netflix.com/title/80108975",
+      "year": "2016",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt2119532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SX300.jpg",
+      "Plot": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Mel Gibson",
+      "Writer": "Robert Schenkkan, Andrew Knight",
+      "Actors": "Andrew Garfield, Sam Worthington, Luke Bracey",
+      "Language": "English, Japanese",
+      "Country": "United States"
+    },
+    {
       "title": "Sand Castle",
       "netflix_url": "https://www.netflix.com/title/80118916",
       "year": "2017",
@@ -1249,6 +1266,23 @@
       "Country": "Malaysia"
     },
     {
+      "title": "Border 2",
+      "netflix_url": "https://www.netflix.com/title/81956873",
+      "year": "2026",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt30387012",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjdhNmE4MTItYjZlYi00MjQ2LTliOGMtN2ViMzU0M2M3ODMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Young Indian fighters prepared to protect their homeland from a greater threat during the 1971 Indo-Pak war.",
+      "Type": "movie",
+      "RunTime": "200 min",
+      "Genre": "Action, History, War",
+      "Director": "Anurag Singh",
+      "Writer": "Sumit Arora, J.P. Dutta, Nidhi Dutta",
+      "Actors": "Sunny Deol, Varun Dhawan, Diljit Dosanjh",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Champion",
       "netflix_url": "https://www.netflix.com/title/81994053",
       "year": "2025",
@@ -1281,6 +1315,23 @@
       "Actors": "Embeth Davidtz, Andreas Damm, Zikhona Bali",
       "Language": "English, Shona",
       "Country": "South Africa"
+    },
+    {
+      "title": "Sisu: Road to Revenge",
+      "netflix_url": "https://www.netflix.com/title/82712118",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt31844586",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZiNDZiZDQtMjYyOC00MWY1LTkyZjgtNDM1MmMwZTdhOWFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man returns to dismantle his family's house, where they were murdered in war, to rebuild it elsewhere. When the killer, a Red Army commander, tracks him down, a brutal cross-country pursuit begins.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Action, War",
+      "Director": "Jalmari Helander",
+      "Writer": "Jalmari Helander",
+      "Actors": "Jorma Tommila, Stephen Lang, Richard Brake",
+      "Language": "English, Finnish",
+      "Country": "Finland, United Kingdom"
     }
   ]
 }

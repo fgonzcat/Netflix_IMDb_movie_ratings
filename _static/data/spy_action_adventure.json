@@ -394,6 +394,23 @@
       "Country": "India"
     },
     {
+      "title": "The Berlin File",
+      "netflix_url": "https://www.netflix.com/title/70270715",
+      "year": "2013",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt2357377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0OTY4MDE2NV5BMl5BanBnXkFtZTgwOTQyMjEyMjE@._V1_SX300.jpg",
+      "Plot": "Jong-seong, a North Korean ghost agent, interrupts an illegal arms sale in Berlin. A notorious North Korean agent tests the loyalties of everyone involved as Jong-Seong prepares to make the ultimate sacrifice.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Thriller",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Ted Geoghegan, Stefanie Y. Hong, Ryoo Seung-wan",
+      "Actors": "Ha Jung-woo, Han Suk-kyu, Ryu Seung-beom",
+      "Language": "Korean, English, German",
+      "Country": "South Korea"
+    },
+    {
       "title": "Live and Let Die",
       "netflix_url": "https://www.netflix.com/title/707294",
       "year": "1973",
@@ -722,6 +739,39 @@
       "Actors": "Mohan Agashe, Shantanu Gangne, Tanvi Hegde",
       "Language": "Marathi",
       "Country": "India"
+    },
+    {
+      "title": "Humint",
+      "netflix_url": "https://www.netflix.com/title/82682318",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32606470",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjliZDRkZTYtYTBkNi00NzAxLTg0YmQtODE0YjVmNWNjNjhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An espionage action film depicting North and South Korean secret agents clashing while investigating crimes occurring on the Vladivostok border.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "N/A",
+      "Actors": "Zo In-sung, Park Jeong-min, Park Hae-joon",
+      "Language": "N/A",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Happy Patel - Khatarnak Jasoos",
+      "netflix_url": "https://www.netflix.com/title/82772383",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32245870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWUyZTBjYTctMGQyNS00Mjg0LTg5ZTMtZDA1YmEyZDIxZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "movie",
+      "Type": "Happy Patel: Khatarnak Jasoos",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Vir Das, Amogh Ranadive",
+      "Writer": "Vir Das, Ellie Flory Fawcett, Amit Bhandari",
+      "Actors": "Hindi",
+      "Language": "India"
     },
     {
       "title": "The Spy Who Loved Me",

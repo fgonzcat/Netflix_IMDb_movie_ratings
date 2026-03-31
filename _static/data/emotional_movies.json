@@ -428,6 +428,23 @@
       "Country": "India"
     },
     {
+      "title": "Chalte Chalte",
+      "netflix_url": "https://www.netflix.com/title/60036112",
+      "year": "2003",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt0346723",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmU2OGNiMjktMmY0OS00MjNhLWIwZWMtNGY1NjgwNjA5MTRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man pursues a woman who is already engaged and eventually gets married to her. Differences between the two lead to a bitter separation that threatens to destroy their relationship forever.",
+      "Type": "movie",
+      "RunTime": "167 min",
+      "Genre": "Drama, Romance",
+      "Director": "Aziz Mirza",
+      "Writer": "Aziz Mirza, Robin Bhatt, Pramod Sharma",
+      "Actors": "Shah Rukh Khan, Rani Mukerji, Jas Arora",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Kal Ho Naa Ho",
       "netflix_url": "https://www.netflix.com/title/60036735",
       "year": "2003",
@@ -562,6 +579,23 @@
       "Actors": "Jamie Foxx, Regina King, Kerry Washington",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Doosara Aadmi",
+      "netflix_url": "https://www.netflix.com/title/70004840",
+      "year": "1973",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0301215",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk5NmJlMzAtN2IzMS00OGQ0LWJkN2ItNWJhZmVjODQwMTAwXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_SX300.jpg",
+      "Plot": "Kanu, Timsi and Nisha find themselves entangled in an emotional saga, the struggle of Nisha's past, Kanu and Timsi's present and an uncertain future.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "Ramesh Talwar",
+      "Writer": "Raju Saigal, Sagar Sarhadi",
+      "Actors": "Shashi Kapoor, Rishi Kapoor, Neetu Singh",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Kaala Patthar",
@@ -766,6 +800,13 @@
       "Actors": "Shah Rukh Khan, Rani Mukerji, Amitabh Bachchan",
       "Language": "Hindi, English",
       "Country": "India"
+    },
+    {
+      "title": "Maya Memsaab",
+      "netflix_url": "https://www.netflix.com/title/70057994",
+      "year": "1993",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Guru",
@@ -1322,6 +1363,23 @@
       "imdb_id": null
     },
     {
+      "title": "The Other Shore: The Diana Nyad Story",
+      "netflix_url": "https://www.netflix.com/title/70273276",
+      "year": "2013",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt2459100",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzAxNjM2NV5BMl5BanBnXkFtZTgwOTMwNzA0MDE@._V1_SX300.jpg",
+      "Plot": "Swimmer Diana Nyad comes out of a thirty year retirement to swim non-stop from Cuba to Florida. Nyad's adventure to life as she sets out to prove that will and determination are all you need to make the unimaginable possible.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary, Adventure, Biography",
+      "Director": "Timothy Wheeler",
+      "Writer": "N/A",
+      "Actors": "Diana Nyad, Johnny Carson, Candace Hogan",
+      "Language": "English",
+      "Country": "United States, Cuba, Mexico"
+    },
+    {
       "title": "Blue Is the Warmest Color",
       "netflix_url": "https://www.netflix.com/title/70275600",
       "year": "2013",
@@ -1870,6 +1928,23 @@
       "Country": "United Kingdom, Australia, United States"
     },
     {
+      "title": "Hacksaw Ridge",
+      "netflix_url": "https://www.netflix.com/title/80108975",
+      "year": "2016",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt2119532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SX300.jpg",
+      "Plot": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Mel Gibson",
+      "Writer": "Robert Schenkkan, Andrew Knight",
+      "Actors": "Andrew Garfield, Sam Worthington, Luke Bracey",
+      "Language": "English, Japanese",
+      "Country": "United States"
+    },
+    {
       "title": "Divines",
       "netflix_url": "https://www.netflix.com/title/80115031",
       "year": "2016",
@@ -1885,6 +1960,23 @@
       "Actors": "Oulaya Amamra, Déborah Lukumuena, Kévin Mischel",
       "Language": "French",
       "Country": "France, Qatar"
+    },
+    {
+      "title": "Duck Butter",
+      "netflix_url": "https://www.netflix.com/title/80115118",
+      "year": "2018",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt6958014",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MTMxMTM4NV5BMl5BanBnXkFtZTgwNjAzNjAxNTM@._V1_SX300.jpg",
+      "Plot": "Dissatisfied with the dishonesty they see in dating and relationships, two women make a pact to spend 24 hours together, hoping to find a new way to create intimacy.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Miguel Arteta",
+      "Writer": "Miguel Arteta, Alia Shawkat",
+      "Actors": "Alia Shawkat, Drew Langer, Marc Maron",
+      "Language": "English, Catalan, Spanish",
+      "Country": "United States"
     },
     {
       "title": "First Match",
@@ -2077,6 +2169,23 @@
       "Director": "Rajiv Mehra",
       "Writer": "Shaukat Baig, Lilliput, Rajiv Mehra",
       "Actors": "Naseeruddin Shah, Shah Rukh Khan, Urmila Matondkar",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Amrapali",
+      "netflix_url": "https://www.netflix.com/title/80158390",
+      "year": "1966",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0060104",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjM5NzUwNDctZDlmMC00MWIzLTgzZTItNDViNGMwODQxMzNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A victory over neighboring state Vaishai has always eluded Magadh Samrat Ajaatshatru despite being winning and taking control over all neighboring states. He attacks Vaishali only get defeated again. Wounded, lost and on the run, ...",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Fantasy, History",
+      "Director": "Lekh Tandon",
+      "Writer": "Arjun Dev Rashk, Balbir Singh, Omkar Sahib",
+      "Actors": "Vyjayanthimala, Sunil Dutt, Premnath Malhotra",
       "Language": "Hindi",
       "Country": "India"
     },
@@ -2586,6 +2695,23 @@
       "Actors": "Ed Harris, Jason Sudeikis, Elizabeth Olsen",
       "Language": "English",
       "Country": "Canada, United States"
+    },
+    {
+      "title": "Catching Feelings",
+      "netflix_url": "https://www.netflix.com/title/80218111",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt5827360",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABakruGqhJM8nnwyEuwWMXNicx9ymCGoAYZV-XRTu1SBtlrXUOapHr8cosb6AtW0ffdwq3r1nB7eCy00moBQPxwNhl7TAJwbd_G0M.jpg?r=938",
+      "Plot": "Catching Feelings is a dark romantic comedy which follows an urbane young academic and his beautiful wife, as their lives get turned upside down when a celebrated and hedonistic older writer moves into their Johannesburg home with...",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Kagiso Lediga",
+      "Writer": "Kagiso Lediga",
+      "Actors": "Kagiso Lediga, Pearl Thusi, Andrew Buckland",
+      "Language": "English",
+      "Country": "South Africa"
     },
     {
       "title": "Guillermo del Toro’s Pinocchio",
@@ -4656,6 +4782,13 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Bombay Rose",
+      "netflix_url": "https://www.netflix.com/title/81270289",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Downfall: The Case Against Boeing",
       "netflix_url": "https://www.netflix.com/title/81272421",
       "year": "2022",
@@ -5584,6 +5717,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "My Amanda",
+      "netflix_url": "https://www.netflix.com/title/81408702",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13136084",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGU5MzBhODUtZDM0YS00N2Y4LTg0YzgtODEzM2RkNWQ5ZDFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two unusually close friends share every aspect of their lives together. As their lives evolve, their bond remains the only constant.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Drama, Romance",
+      "Director": "Alessandra De Rossi",
+      "Writer": "Alessandra De Rossi",
+      "Actors": "Alessandra De Rossi, Piolo Pascual, Luz Valdez",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
       "title": "The Volcano: Rescue from Whakaari",
       "netflix_url": "https://www.netflix.com/title/81410405",
       "year": "2022",
@@ -5888,6 +6038,13 @@
       "Actors": "Adinia Wirasti, Faradina Mufti, Marissa Anita",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "I missed you: Director's Cut",
+      "netflix_url": "https://www.netflix.com/title/81440771",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "NYAD",
@@ -6389,6 +6546,23 @@
       "Actors": "George Clooney, Adam Sandler, Laura Dern",
       "Language": "English",
       "Country": "United States, United Kingdom, Italy"
+    },
+    {
+      "title": "Montana Story",
+      "netflix_url": "https://www.netflix.com/title/81555769",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt13656980",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzBlNGQ2ODctOTIzMi00YTRjLWIxOTgtZjM0MjY2Mjc2N2M2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two estranged siblings return home to the sprawling ranch they once knew and loved, confronting a deep and bitter family legacy against a mythic American backdrop.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Drama",
+      "Director": "Scott McGehee, David Siegel",
+      "Writer": "Mike Spreter, Scott McGehee, David Siegel",
+      "Actors": "Haley Lu Richardson, Owen Teague, Gilbert Owuor",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Love, Sex and 30 Candles",
@@ -7412,6 +7586,23 @@
       "Country": "Philippines"
     },
     {
+      "title": "The Creator",
+      "netflix_url": "https://www.netflix.com/title/81674655",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt11858890",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkxMTUxOTQtYzM4Yi00YzA2LTgzOTYtNDg2NTliODE0ZTRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Against the backdrop of a war between humans and robots with artificial intelligence, a former soldier finds the robots' secret weapon to end the conflict, an AI in the form of a child.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Gareth Edwards",
+      "Writer": "Gareth Edwards, Chris Weitz",
+      "Actors": "John David Washington, Madeleine Yuna Voyles, Gemma Chan",
+      "Language": "English, Thai",
+      "Country": "United States, Japan, Cambodia"
+    },
+    {
       "title": "Kingdom",
       "netflix_url": "https://www.netflix.com/title/81678097",
       "year": "2025",
@@ -7655,6 +7846,23 @@
       "Actors": "Carlo Aquino, Lovi Poe, Sarah Edwards",
       "Language": "Tagalog, Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "A Long Way to Come Home",
+      "netflix_url": "https://www.netflix.com/title/81685589",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt23472308",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGIwN2I1NWItZDRkNi00MDNhLWE3ZDAtYjUzMTIyZGYzMjVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Studying abroad in London, Aurora struggles with her relationships while away from her family in this sequel to \"One Day We'll Talk About Today.\"",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Drama",
+      "Director": "Angga Dwimas Sasongko",
+      "Writer": "Angga Dwimas Sasongko, Mohammad Irfan Ramly, Marchella F.P.",
+      "Actors": "Sheila Dara Aisha, Jerome Kurnia, Lutesha",
+      "Language": "Indonesian, English",
+      "Country": "Indonesia"
     },
     {
       "title": "The Children's Train",
@@ -8026,6 +8234,23 @@
       "Actors": "N/A",
       "Language": "Russian",
       "Country": "Russia"
+    },
+    {
+      "title": "Ketika Berhenti di Sini",
+      "netflix_url": "https://www.netflix.com/title/81716462",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt24546804",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2YwZDQ4ODItNGZhZS00MmU1LTlmNTMtYTU0Nzg2OGUyMzFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dita, a graphic designer torn between the holographic presence of her deceased love Ed and her current relationship with Ifan, must choose between the past and the present.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Drama, Romance, Sci-Fi",
+      "Director": "Umay Shahab",
+      "Writer": "Alim Sudio, Umay Shahab, Monty Tiwa",
+      "Actors": "Prilly Latuconsina, Refal Hady, Bryan Domani",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Miss Shampoo",
@@ -8692,6 +8917,23 @@
       "Writer": "Himanshu Sharma, Neeraj Yadav",
       "Actors": "Kriti Sanon, Dhanush, Mohd. Zeeshan Ayyub",
       "Language": "Hindi, Tamil, Telugu",
+      "Country": "India"
+    },
+    {
+      "title": "DeAr",
+      "netflix_url": "https://www.netflix.com/title/81774155",
+      "year": "2024",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt24244300",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGJkM2RjN2UtMjUxMi00YzczLTlhMDEtNDRlNjgxZGE5ZDQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A newly married couple faces challenges when the wife's snoring interrupts the husband's sleep. Their struggles depict the compromises needed for a lasting marriage.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "Anand Ravichandran",
+      "Writer": "Anand Ravichandran",
+      "Actors": "G.V. Prakash Kumar, Aishwarya Rajesh, Thalaivasal Vijay",
+      "Language": "Tamil",
       "Country": "India"
     },
     {
@@ -9405,6 +9647,23 @@
       "Country": "N/A"
     },
     {
+      "title": "Border 2",
+      "netflix_url": "https://www.netflix.com/title/81956873",
+      "year": "2026",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt30387012",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjdhNmE4MTItYjZlYi00MjQ2LTliOGMtN2ViMzU0M2M3ODMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Young Indian fighters prepared to protect their homeland from a greater threat during the 1971 Indo-Pak war.",
+      "Type": "movie",
+      "RunTime": "200 min",
+      "Genre": "Action, History, War",
+      "Director": "Anurag Singh",
+      "Writer": "Sumit Arora, J.P. Dutta, Nidhi Dutta",
+      "Actors": "Sunny Deol, Varun Dhawan, Diljit Dosanjh",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "You Gotta Believe",
       "netflix_url": "https://www.netflix.com/title/81969558",
       "year": "2024",
@@ -9815,6 +10074,13 @@
       "Actors": "N/A",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
+      "netflix_url": "https://www.netflix.com/title/82087556",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Terry McMillan Presents: Forever",

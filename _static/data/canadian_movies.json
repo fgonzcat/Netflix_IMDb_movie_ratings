@@ -1831,6 +1831,23 @@
       "Country": "Canada"
     },
     {
+      "title": "BlackBerry",
+      "netflix_url": "https://www.netflix.com/title/81725542",
+      "year": "2023",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt21867434",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzEzZDM5NWEtODgzNC00MTE5LWFhZTYtMGE2YTkxMzFiZWIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Matt Johnson",
+      "Writer": "Jacquie McNish, Sean Silcoff, Matt Johnson",
+      "Actors": "Jay Baruchel, Glenn Howerton, Matt Johnson",
+      "Language": "English",
+      "Country": "Canada, Finland"
+    },
+    {
       "title": "Sullivan's Crossing",
       "netflix_url": "https://www.netflix.com/title/81738319",
       "year": "2025",
@@ -2217,6 +2234,13 @@
       "Actors": "Emma Johnson, Giles Panton, Marnie Mahannah",
       "Language": "English, French",
       "Country": "Canada"
+    },
+    {
+      "title": "Unicorn Academy: Secrets Revealed",
+      "netflix_url": "https://www.netflix.com/title/82705687",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

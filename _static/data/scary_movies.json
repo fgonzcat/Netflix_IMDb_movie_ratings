@@ -105,6 +105,23 @@
       "Country": "United States"
     },
     {
+      "title": "Saw II",
+      "netflix_url": "https://www.netflix.com/title/70035184",
+      "year": "2005",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0432348",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVlNjk3MmItZmUzNy00MzcyLWIzOTktZjllYWU5MDAyMjM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A detective and his team must rescue eight people trapped in a factory by a man known as Jigsaw.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Horror, Mystery",
+      "Director": "Darren Lynn Bousman",
+      "Writer": "Leigh Whannell, Darren Lynn Bousman",
+      "Actors": "Donnie Wahlberg, Beverley Mitchell, Franky G",
+      "Language": "English",
+      "Country": "Canada, United States"
+    },
+    {
       "title": "Kaal",
       "netflix_url": "https://www.netflix.com/title/70037493",
       "year": "2005",
@@ -120,6 +137,57 @@
       "Actors": "Ajay Devgn, Vivek Oberoi, John Abraham",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Saw III",
+      "netflix_url": "https://www.netflix.com/title/70045862",
+      "year": "2006",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0489270",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ4YTAwZTItZGFjZi00YjNiLTllYzUtYWY3OWM2OTQzODVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jigsaw abducts a doctor in order to keep himself alive while he watches his new apprentice put an unlucky citizen named Jeff through a brutal test.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Darren Lynn Bousman",
+      "Writer": "Leigh Whannell, James Wan",
+      "Actors": "Tobin Bell, Shawnee Smith, Angus Macfadyen",
+      "Language": "English",
+      "Country": "Canada, United States"
+    },
+    {
+      "title": "Saw IV",
+      "netflix_url": "https://www.netflix.com/title/70060007",
+      "year": "2007",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0890870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc0NjUyNzg3MF5BMl5BanBnXkFtZTYwODMxOTM3._V1_SX300.jpg",
+      "Plot": "Despite Jigsaw's death, and in order to save the lives of two of his colleagues, Lieutenant Rigg is forced to take part in a new game, which promises to test him to the limit.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Darren Lynn Bousman",
+      "Writer": "Patrick Melton, Marcus Dunstan, Thomas Fenton",
+      "Actors": "Tobin Bell, Scott Patterson, Louis Ferreira",
+      "Language": "English",
+      "Country": "Canada, United States"
+    },
+    {
+      "title": "Saw V",
+      "netflix_url": "https://www.netflix.com/title/70098905",
+      "year": "2008",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt1132626",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWViYzg3YzItYzQxNS00MTE1LWJkNTMtMTM3OGI4ODAxOTMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Following Jigsaw's grisly demise, Mark Hoffman is commended as a hero, but Agent Strahm is suspicious, and delves into Hoffman's past. Meanwhile, another group of people are put through a series of gruesome tests.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Horror, Thriller",
+      "Director": "David Hackl",
+      "Writer": "Patrick Melton, Marcus Dunstan",
+      "Actors": "Scott Patterson, Costas Mandylor, Tobin Bell",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Legion",
@@ -139,6 +207,23 @@
       "Country": "United States"
     },
     {
+      "title": "Saw VI",
+      "netflix_url": "https://www.netflix.com/title/70119356",
+      "year": "2009",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt1233227",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDA3MTM4M15BMl5BanBnXkFtZTcwOTY4Njg3Mg@@._V1_SX300.jpg",
+      "Plot": "Agent Strahm is dead, and FBI agent Erickson draws nearer to Hoffman. Meanwhile, a pair of insurance executives find themselves in another game set by Jigsaw.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Kevin Greutert",
+      "Writer": "Patrick Melton, Marcus Dunstan",
+      "Actors": "Costas Mandylor, Mark Rolston, Betsy Russell",
+      "Language": "English",
+      "Country": "Canada, United States, Australia"
+    },
+    {
       "title": "Splatter",
       "netflix_url": "https://www.netflix.com/title/70127998",
       "year": "2009",
@@ -154,6 +239,13 @@
       "Actors": "Corey Feldman, Tony Todd, Erin Way",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Saw: The Final Chapter",
+      "netflix_url": "https://www.netflix.com/title/70139391",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Silent House",
@@ -443,6 +535,23 @@
       "Actors": "Joey King, Ryan Phillippe, Ki Hong Lee",
       "Language": "English",
       "Country": "Canada, United States"
+    },
+    {
+      "title": "Jigsaw",
+      "netflix_url": "https://www.netflix.com/title/80185766",
+      "year": "2017",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt3348730",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk1ZTk1ZGYtNmViOS00NDExLTg0NTktMGZjYzg2ZDJlNmViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Police search for a supposed to be dead killer who forces his victims to play sadistic games of life and death.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Michael Spierig, Peter Spierig",
+      "Writer": "Josh Stolberg, Pete Goldfinger",
+      "Actors": "Matt Passmore, Tobin Bell, Callum Keith Rennie",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Better Watch Out",
@@ -1028,6 +1137,13 @@
       "Actors": "Matilda Lutz, Francesco Russo, Peppino Mazzotta",
       "Language": "Italian, English",
       "Country": "Italy"
+    },
+    {
+      "title": "Spiral: From the Book of Saw",
+      "netflix_url": "https://www.netflix.com/title/81252467",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Wasteland",
@@ -1808,6 +1924,23 @@
       "Actors": "Sathish, Regena Cassandrra, Nassar",
       "Language": "Tamil",
       "Country": "India"
+    },
+    {
+      "title": "Saw X",
+      "netflix_url": "https://www.netflix.com/title/81705784",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt21807222",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODRmMzAwMWItZjI5MS00NDYyLWFjMmMtZGUwYjQ1ZTBkNmYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A sick and desperate John travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer only to discover the entire operation is a scam to defraud the most vulnerable.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Kevin Greutert",
+      "Writer": "Pete Goldfinger, Josh Stolberg",
+      "Actors": "Tobin Bell, Shawnee Smith, Synnøve Macody Lund",
+      "Language": "English, Spanish",
+      "Country": "United States, Mexico, Canada"
     },
     {
       "title": "Grave Torture",

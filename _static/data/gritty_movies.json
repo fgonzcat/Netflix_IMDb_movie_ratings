@@ -248,6 +248,23 @@
       "Country": "Spain, Mexico, France"
     },
     {
+      "title": "The Unjust",
+      "netflix_url": "https://www.netflix.com/title/70170417",
+      "year": "2010",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1843120",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTI5ODIzMl5BMl5BanBnXkFtZTgwNzI3MDE0MjE@._V1_SX300.jpg",
+      "Plot": "When the most probable serial killer suspect dies and the case looks like it's reached a dead end, police brass decide to create a killer - and anyone will do.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Park Hoon-jung",
+      "Actors": "Hwang Jung-min, Ryu Seung-beom, Yoo Hae-jin",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Colombiana",
       "netflix_url": "https://www.netflix.com/title/70178640",
       "year": "2011",
@@ -384,6 +401,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Camp X-Ray",
+      "netflix_url": "https://www.netflix.com/title/70298946",
+      "year": "2014",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt2994190",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5NjI1MjEwMV5BMl5BanBnXkFtZTgwNjc2Mzc3MjE@._V1_SX300.jpg",
+      "Plot": "A soldier assigned to Guantanamo Bay befriends a man who has been imprisoned there.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Drama, War",
+      "Director": "Peter Sattler",
+      "Writer": "Peter Sattler",
+      "Actors": "Kristen Stewart, Payman Maadi, Lane Garrison",
+      "Language": "English, Persian",
+      "Country": "United States"
+    },
+    {
       "title": "Trailer Park Boys: Say Goodnight to the Bad Guys",
       "netflix_url": "https://www.netflix.com/title/70304189",
       "year": "2008",
@@ -476,6 +510,23 @@
       "Country": "India"
     },
     {
+      "title": "Revenge of the Green Dragons",
+      "netflix_url": "https://www.netflix.com/title/80017280",
+      "year": "2014",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt1396523",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYzOTc2Mzc1NV5BMl5BanBnXkFtZTgwODQ3NTQ0MjE@._V1_SX300.jpg",
+      "Plot": "Two best friends rise through the ranks of New York's Chinese underworld in the 1980s.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wai Keung Lau, Andrew Loo",
+      "Writer": "Michael Di Jiacomo, Andrew Loo, Fredric Dannen",
+      "Actors": "Justin Chon, Kevin Wu, Harry Shum Jr.",
+      "Language": "English, Chinese",
+      "Country": "Hong Kong, United States"
+    },
+    {
       "title": "Dark Places",
       "netflix_url": "https://www.netflix.com/title/80025495",
       "year": "2015",
@@ -491,6 +542,23 @@
       "Actors": "Charlize Theron, Nicholas Hoult, Christina Hendricks",
       "Language": "English",
       "Country": "United States, United Kingdom, France"
+    },
+    {
+      "title": "Son of a Gun",
+      "netflix_url": "https://www.netflix.com/title/80027378",
+      "year": "2014",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt2452200",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODZlMDQ5MjEtNjU0NS00M2JjLWJiM2UtMDBjZDMxZGEzOTVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "JR busts out of prison with Brendan Lynch, Australia's most notorious criminal, and joins Lynch's gang for a gold heist that soon pits the two men against one another.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Julius Avery",
+      "Writer": "Julius Avery, John Collee",
+      "Actors": "Ewan McGregor, Brenton Thwaites, Alicia Vikander",
+      "Language": "English, Serbo-Croatian",
+      "Country": "Australia, United Kingdom, Canada"
     },
     {
       "title": "Mississippi Grind",
@@ -3930,6 +3998,13 @@
       "Country": "United States"
     },
     {
+      "title": "Aadujeevitham: The Goat Life (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81917393",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "In Youth We Trust",
       "netflix_url": "https://www.netflix.com/title/81941938",
       "year": "2024",
@@ -4058,6 +4133,23 @@
       "Actors": "Joel Edgerton, Clifton Collins Jr., Felicity Jones",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Mardaani 3",
+      "netflix_url": "https://www.netflix.com/title/82023351",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27673536",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjllNDEzYWItZWYzYy00MjgxLTk3MzgtOTA4ODA3ODZkNTRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dark, deadly and brutal chapter of the Mardaani franchise.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Abhiraj Minawala",
+      "Writer": "Aayush Gupta",
+      "Actors": "Rani Mukerji",
+      "Language": "N/A",
+      "Country": "India"
     },
     {
       "title": "Mardaani 2",
@@ -4201,6 +4293,39 @@
       "Actors": "Michael Young, Chris Smither, Will Harrington",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Clika",
+      "netflix_url": "https://www.netflix.com/title/82740544",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28334938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzEyYjAyNWMtY2Y3Yy00YjRmLTllNDYtMThkMDFlNWI3YTkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small town musician pushes to carve out a place for himself in the new wave of Mexican-American music after a clip of him performing one of his songs goes viral.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama, Music",
+      "Director": "Michael Greene",
+      "Writer": "Michael Greene, Sean Sullivan McBride",
+      "Actors": "Eric Roberts, Peter Greene, Alison Chace",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Happy Patel - Khatarnak Jasoos",
+      "netflix_url": "https://www.netflix.com/title/82772383",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32245870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWUyZTBjYTctMGQyNS00Mjg0LTg5ZTMtZDA1YmEyZDIxZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "movie",
+      "Type": "Happy Patel: Khatarnak Jasoos",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Vir Das, Amogh Ranadive",
+      "Writer": "Vir Das, Ellie Flory Fawcett, Amit Bhandari",
+      "Actors": "Hindi",
+      "Language": "India"
     },
     {
       "title": "The Ride",

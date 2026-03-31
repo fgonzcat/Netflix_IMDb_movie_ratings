@@ -71,6 +71,23 @@
       "Country": "United States"
     },
     {
+      "title": "Small Time Crooks",
+      "netflix_url": "https://www.netflix.com/title/60001172",
+      "year": "2000",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0196216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg2NjcyZGMtNGE2NC00NWYwLTg4ZTAtNjBkMzU2MWI2OWU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An inept crook and his wife strike it rich when their botched bank job's cookie-making cover business becomes a phenomenal success.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Comedy, Crime",
+      "Director": "Woody Allen",
+      "Writer": "Woody Allen",
+      "Actors": "Woody Allen, Tracey Ullman, Hugh Grant",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Best in Show",
       "netflix_url": "https://www.netflix.com/title/60002428",
       "year": "2000",
@@ -324,6 +341,23 @@
       "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
       "Language": "English",
       "Country": "United States, Denmark, Australia, Norway"
+    },
+    {
+      "title": "Frank",
+      "netflix_url": "https://www.netflix.com/title/70299856",
+      "year": "2014",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt1605717",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0OTczMTcxOV5BMl5BanBnXkFtZTgwMDU1MDUwMjE@._V1_SX300.jpg",
+      "Plot": "Jon, a young wanna-be musician, discovers he's bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Lenny Abrahamson",
+      "Writer": "Jon Ronson, Peter Straughan",
+      "Actors": "Michael Fassbender, Domhnall Gleeson, Maggie Gyllenhaal",
+      "Language": "English, French, German",
+      "Country": "Ireland, United Kingdom"
     },
     {
       "title": "Obvious Child",
@@ -1582,6 +1616,23 @@
       "Country": "India"
     },
     {
+      "title": "Vengeance",
+      "netflix_url": "https://www.netflix.com/title/81588983",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt11976532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A writer from New York City attempts to solve the murder of a girl he hooked up with and travels down south to investigate the circumstances of her death and discover what happened to her.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Comedy, Music, Mystery",
+      "Director": "B.J. Novak",
+      "Writer": "B.J. Novak",
+      "Actors": "B.J. Novak, Boyd Holbrook, Lio Tipton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "How To Deal With a Heartbreak",
       "netflix_url": "https://www.netflix.com/title/81590644",
       "year": "2023",
@@ -1757,6 +1808,13 @@
       "Actors": "Diane Morgan, Douglas Hedley, Rupert Sheldrake",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "53 Sundays",
+      "netflix_url": "https://www.netflix.com/title/81731814",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Thursday Murder Club",
@@ -2018,6 +2076,23 @@
       "Writer": "Ethan Ogilby",
       "Actors": "Zoey Deutch, Jonah Hauer-King, Ruby Cruz",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "There There",
+      "netflix_url": "https://www.netflix.com/title/82708406",
+      "year": "2022",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt19796976",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGJiYTAwYTUtMjg1NC00YWY4LTg3ZDctZWMyNmI2ZTg5ZDFjXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_SX300.jpg",
+      "Plot": "A lover's doubt in the cold light of morning leads a chain of uneasy intimacies--counselors, disruptors, peacemakers and fire-starters--every one looking to have a little faith rewarded.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Andrew Bujalski",
+      "Writer": "Andrew Bujalski",
+      "Actors": "Jon Natchez, Lili Taylor, Lennie James",
+      "Language": "N/A",
       "Country": "United States"
     }
   ]

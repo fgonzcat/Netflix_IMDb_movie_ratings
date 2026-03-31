@@ -156,6 +156,23 @@
       "Country": "United States"
     },
     {
+      "title": "Mike & Molly",
+      "netflix_url": "https://www.netflix.com/title/70177677",
+      "year": "2016",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1608180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4NTk4MjkyMl5BMl5BanBnXkFtZTcwNzAwMjYyOQ@@._V1_SX300.jpg",
+      "Plot": "A couple meets at an Overeaters' Anonymous meeting.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Comedy, Romance",
+      "Director": "N/A",
+      "Writer": "Mark Roberts",
+      "Actors": "Billy Gardell, Melissa McCarthy, Reno Wilson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "House of Cards",
       "netflix_url": "https://www.netflix.com/title/70178217",
       "year": "2018",
@@ -613,6 +630,23 @@
       "Actors": "Antoni Porowski, Tan France, Karamo Brown",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Carmen Sandiego",
+      "netflix_url": "https://www.netflix.com/title/80167821",
+      "year": "2021",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt7042146",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGNmYmI2MmQtY2Q3Yy00MzBiLTk4YzMtYWJkNDEwNTA1YWU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The adventures of Carmen Sandiego, a globe-hopping master thief.",
+      "Type": "series",
+      "RunTime": "22 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Duane Capizzi",
+      "Actors": "Finn Wolfhard, Gina Rodriguez, Liam O'Brien",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Love, Death & Robots",

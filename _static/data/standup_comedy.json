@@ -2308,6 +2308,23 @@
       "Country": "United States"
     },
     {
+      "title": "Amy Schumer Growing",
+      "netflix_url": "https://www.netflix.com/title/81037077",
+      "year": "2019",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9770590",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWE3NTFmMDQtN2U3NS00NTAxLWEyOGItMmUzZmY1NGVkYTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Amy Schumer's live stand-up set performed in Chicago where she jokes about marriage, pregnancy and personal growth.",
+      "Type": "movie",
+      "RunTime": "60 min",
+      "Genre": "Comedy",
+      "Director": "Amy Schumer",
+      "Writer": "Amy Schumer",
+      "Actors": "Amy Schumer",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Ellen DeGeneres: For Your Approval",
       "netflix_url": "https://www.netflix.com/title/81037130",
       "year": "2024",
@@ -4903,6 +4920,23 @@
       "Country": "United States"
     },
     {
+      "title": "Jeff Ross: Take A Banana For The Ride",
+      "netflix_url": "https://www.netflix.com/title/81969837",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39901552",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Seth Barrish, Jeffrey Ross",
+      "Actors": "Jeffrey Ross",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Robby Hoffman: Wake Up",
       "netflix_url": "https://www.netflix.com/title/81978270",
       "year": "2025",
@@ -5005,6 +5039,13 @@
       "Country": "United States"
     },
     {
+      "title": "Aaron Chen: Funny Garden",
+      "netflix_url": "https://www.netflix.com/title/82011553",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Kill Tony: Kill or Be Killed",
       "netflix_url": "https://www.netflix.com/title/82014054",
       "year": "2025",
@@ -5097,6 +5138,13 @@
       "Country": "United States"
     },
     {
+      "title": "Derrick Stroup: Nostalgic",
+      "netflix_url": "https://www.netflix.com/title/82084417",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Matt Rife: Unwrapped - A Christmas Crowd Work Special",
       "netflix_url": "https://www.netflix.com/title/82132941",
       "year": "2025",
@@ -5165,6 +5213,13 @@
       "Country": "United States"
     },
     {
+      "title": "Mark Normand: None Too Pleased",
+      "netflix_url": "https://www.netflix.com/title/82155387",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Katt Williams: The Last Report",
       "netflix_url": "https://www.netflix.com/title/82155429",
       "year": "2026",
@@ -5231,6 +5286,23 @@
       "Actors": "Udom Taephanich",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Past Is Past",
+      "netflix_url": "https://www.netflix.com/title/82680656",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0050749",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTnoCuH9iEzZTJviC2xTlDbVhHj7W-74WJXCIHa3z6QA9gHa7Boy2p3rHvAZD0i5PfMsWh-UqolqwMLw1AgMVWQMHBOg_R4NpnnE.jpg?r=cba",
+      "Plot": "A very British comedy about a blackmailer and his victims.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Comedy",
+      "Director": "Mario Zampi",
+      "Writer": "Michael Pertwee",
+      "Actors": "Terry-Thomas, Peter Sellers, Peggy Mount",
+      "Language": "English",
+      "Country": "United Kingdom"
     }
   ]
 }

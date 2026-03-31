@@ -88,6 +88,23 @@
       "Country": "United States"
     },
     {
+      "title": "Brighton Rock",
+      "netflix_url": "https://www.netflix.com/title/70132815",
+      "year": "2010",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0039220",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzgyZjNhNDYtZjRjZC00M2ZiLThjZTMtYjUwYTIwZGQwM2FlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Brighton in 1935, small-time gang leader Pinkie Brown murders a journalist and later desperately tries to cover his tracks but runs into trouble with the police, a few witnesses, and a rival gang.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "John Boulting",
+      "Writer": "Graham Greene, Terence Rattigan",
+      "Actors": "Richard Attenborough, Hermione Baddeley, William Hartnell",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "30 for 30: The Two Escobars",
       "netflix_url": "https://www.netflix.com/title/70137756",
       "year": "2010",
@@ -144,6 +161,23 @@
       "Actors": "Rani Mukerji, Jisshu Sengupta, Anant Vidhaat",
       "Language": "Hindi, English",
       "Country": "India"
+    },
+    {
+      "title": "Revenge of the Green Dragons",
+      "netflix_url": "https://www.netflix.com/title/80017280",
+      "year": "2014",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt1396523",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYzOTc2Mzc1NV5BMl5BanBnXkFtZTgwODQ3NTQ0MjE@._V1_SX300.jpg",
+      "Plot": "Two best friends rise through the ranks of New York's Chinese underworld in the 1980s.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wai Keung Lau, Andrew Loo",
+      "Writer": "Michael Di Jiacomo, Andrew Loo, Fredric Dannen",
+      "Actors": "Justin Chon, Kevin Wu, Harry Shum Jr.",
+      "Language": "English, Chinese",
+      "Country": "Hong Kong, United States"
     },
     {
       "title": "Triple 9",
@@ -831,6 +865,13 @@
       "Actors": "Gading Marten, Boris Bokir, Kevin Ardilova",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "Peaky Blinders: The Immortal Man",
+      "netflix_url": "https://www.netflix.com/title/81319485",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Head to Head",
@@ -1695,6 +1736,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Red Line",
+      "netflix_url": "https://www.netflix.com/title/81760518",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39744394",
+      "Poster": "N/A",
+      "Plot": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money and their dignity.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Sitisiri Mongkolsiri",
+      "Writer": "Tinnapat Banyatpiyapoj, Kongdej Jaturanrasamee",
+      "Actors": "Nittha Jirayungyurn, Esther Supreeleela, Ning Chutima Maholakul",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
       "title": "Retro",
       "netflix_url": "https://www.netflix.com/title/81902059",
       "year": "2025",
@@ -1758,6 +1816,23 @@
       "Actors": "Regan Hudson, Zach Lamb",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Mardaani 3",
+      "netflix_url": "https://www.netflix.com/title/82023351",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27673536",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjllNDEzYWItZWYzYy00MjgxLTk3MzgtOTA4ODA3ODZkNTRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dark, deadly and brutal chapter of the Mardaani franchise.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Abhiraj Minawala",
+      "Writer": "Aayush Gupta",
+      "Actors": "Rani Mukerji",
+      "Language": "N/A",
+      "Country": "India"
     },
     {
       "title": "Jaat",
@@ -1833,6 +1908,22 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Happy Patel - Khatarnak Jasoos",
+      "netflix_url": "https://www.netflix.com/title/82772383",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32245870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWUyZTBjYTctMGQyNS00Mjg0LTg5ZTMtZDA1YmEyZDIxZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "movie",
+      "Type": "Happy Patel: Khatarnak Jasoos",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Vir Das, Amogh Ranadive",
+      "Writer": "Vir Das, Ellie Flory Fawcett, Amit Bhandari",
+      "Actors": "Hindi",
+      "Language": "India"
     },
     {
       "title": "Pulp Fiction",
