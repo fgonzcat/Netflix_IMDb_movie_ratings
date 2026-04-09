@@ -37,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "Fletch",
+      "netflix_url": "https://www.netflix.com/title/510088",
+      "year": "1985",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0089155",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM2MDEyMjQtOGQwYS00M2NjLWIwODgtYzRmYjQ5ZDMxZDEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While working undercover wisecracking newspaper reporter Irwin \"Fletch\" Fletcher is offered a large sum by a millionaire with a terminal disease to kill him. Intrigued, Fletch decides to unearth the full story behind the offer.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Crime, Mystery",
+      "Director": "Michael Ritchie",
+      "Writer": "Gregory McDonald, Andrew Bergman, Phil Alden Robinson",
+      "Actors": "Chevy Chase, Joe Don Baker, Dana Wheeler-Nicholson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "What Lies Beneath",
       "netflix_url": "https://www.netflix.com/title/60001396",
       "year": "2000",
@@ -171,6 +188,23 @@
       "Actors": "Akshay Kumar, Vidya Balan, Shiney Ahuja",
       "Language": "Hindi, Bengali",
       "Country": "India"
+    },
+    {
+      "title": "The Lazarus Project",
+      "netflix_url": "https://www.netflix.com/title/70105820",
+      "year": "2008",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0464041",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI5NGNjNjctNTQwOS00MjZjLWI1YzQtNjYzMmQ1ZjhlM2U1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A paroled former criminal is drawn into an endeavor that puts life with his family at risk and subsequently finds himself living an inexplicable new life working at a psychiatric facility.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "John Glenn",
+      "Writer": "John Glenn, Evan Astrowsky",
+      "Actors": "Paul Walker, Piper Perabo, Brooklynn Proulx",
+      "Language": "English",
+      "Country": "United States, Canada, United Kingdom"
     },
     {
       "title": "Silent House",

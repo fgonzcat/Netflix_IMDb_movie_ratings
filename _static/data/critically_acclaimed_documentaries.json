@@ -22,9 +22,19 @@
     {
       "title": "The Wrecking Crew",
       "netflix_url": "https://www.netflix.com/title/70105364",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2008",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt33046197",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDcyMmYxZmMtMjg5MC00NWMzLTgyNDEtOGI2MWEzMmFmNmVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Angel Manuel Soto",
+      "Writer": "N/A",
+      "Actors": "Dave Bautista, Jason Momoa, Temuera Morrison",
+      "Language": "English",
+      "Country": "New Zealand, United States"
     },
     {
       "title": "30 for 30: The Two Escobars",
@@ -184,6 +194,23 @@
       "Writer": "Brittany Huckabee",
       "Actors": "Stella May, Riley Reynolds, Rachel Bernard",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Best of Enemies",
+      "netflix_url": "https://www.netflix.com/title/80038199",
+      "year": "2015",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt4807408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MjA2NDkyM15BMl5BanBnXkFtZTgwNTIwNjUzNzM@._V1_SX300.jpg",
+      "Plot": "Civil rights activist Ann Atwater faces off against C.P. Ellis, Exalted Cyclops of the Ku Klux Klan, in 1971 Durham, North Carolina over the issue of school integration.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Robin Bissell",
+      "Writer": "Robin Bissell, Osha Gray Davidson",
+      "Actors": "Taraji P. Henson, Sam Rockwell, Babou Ceesay",
+      "Language": "English, Latin",
       "Country": "United States"
     },
     {

@@ -37,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "Slap Shot",
+      "netflix_url": "https://www.netflix.com/title/60022761",
+      "year": "1977",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0076723",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg3YTJlYzMtMDhkMy00MTk4LTg1NDItMGMyOGMzMmJmY2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A failing ice hockey team finds success with outrageously violent hockey goonery.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Comedy, Drama, Sport",
+      "Director": "George Roy Hill",
+      "Writer": "Nancy Dowd",
+      "Actors": "Paul Newman, Michael Ontkean, Strother Martin",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Radio",
       "netflix_url": "https://www.netflix.com/title/60031265",
       "year": "2003",
@@ -2006,6 +2023,13 @@
       "title": "Untold: Shooting Guards",
       "netflix_url": "https://www.netflix.com/title/81582390",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Untold: Chess Mates",
+      "netflix_url": "https://www.netflix.com/title/81582391",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },

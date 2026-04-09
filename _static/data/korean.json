@@ -1260,9 +1260,19 @@
     {
       "title": "Humint",
       "netflix_url": "https://www.netflix.com/title/82682318",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32606470",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjliZDRkZTYtYTBkNi00NzAxLTg0YmQtODE0YjVmNWNjNjhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An espionage action film depicting North and South Korean secret agents clashing while investigating crimes occurring on the Vladivostok border.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "N/A",
+      "Actors": "Zo In-sung, Park Jeong-min, Park Hae-joon",
+      "Language": "N/A",
+      "Country": "South Korea"
     }
   ]
 }

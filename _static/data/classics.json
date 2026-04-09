@@ -360,6 +360,23 @@
       "Country": "United Kingdom, United States, Italy, Turkey"
     },
     {
+      "title": "Ghostbusters",
+      "netflix_url": "https://www.netflix.com/title/541018",
+      "year": "1984",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0087332",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Armed with proton packs, four paranormal investigators battle mischievous ghouls in New York.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Comedy, Fantasy",
+      "Director": "Ivan Reitman",
+      "Writer": "Dan Aykroyd, Harold Ramis",
+      "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Glory",
       "netflix_url": "https://www.netflix.com/title/547335",
       "year": "1989",
@@ -513,6 +530,23 @@
       "Country": "United Kingdom, Japan, United States"
     },
     {
+      "title": "Jaws",
+      "netflix_url": "https://www.netflix.com/title/60001220",
+      "year": "1975",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0073195",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Steven Spielberg",
+      "Writer": "Peter Benchley, Carl Gottlieb",
+      "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Kabhi Kabhie",
       "netflix_url": "https://www.netflix.com/title/60001663",
       "year": "1976",
@@ -596,6 +630,23 @@
       "Actors": "Anthony Quinn, Silvana Mangano, Arthur Kennedy",
       "Language": "English",
       "Country": "Italy, United States"
+    },
+    {
+      "title": "Slap Shot",
+      "netflix_url": "https://www.netflix.com/title/60022761",
+      "year": "1977",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0076723",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg3YTJlYzMtMDhkMy00MTk4LTg1NDItMGMyOGMzMmJmY2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A failing ice hockey team finds success with outrageously violent hockey goonery.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Comedy, Drama, Sport",
+      "Director": "George Roy Hill",
+      "Writer": "Nancy Dowd",
+      "Actors": "Paul Newman, Michael Ontkean, Strother Martin",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Monty Python's The Meaning of Life",
@@ -741,6 +792,23 @@
       "imdb_id": null
     },
     {
+      "title": "The Professionals",
+      "netflix_url": "https://www.netflix.com/title/877351",
+      "year": "1966",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0060862",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzJmYzk3NmMtZGQ3My00OGE2LTgzMGYtN2VkOTU5ZTZhMjlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An arrogant Texas millionaire hires four adventurers to rescue his kidnapped wife from a notorious Mexican bandit.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Richard Brooks",
+      "Writer": "Frank O'Rourke, Richard Brooks",
+      "Actors": "Burt Lancaster, Lee Marvin, Robert Ryan",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Pulp Fiction",
       "netflix_url": "https://www.netflix.com/title/880640",
       "year": "1994",
@@ -763,6 +831,23 @@
       "year": "1975",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Smokey and the Bandit",
+      "netflix_url": "https://www.netflix.com/title/975578",
+      "year": "1977",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0076729",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2YzUyMGQtZDc5ZC00OTE5LWJmZjUtYTQ4ZDQ4N2E0MjIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Bandit is hired on to run a tractor-trailer full of beer over state lines, in hot pursuit by a pesky sheriff.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Hal Needham",
+      "Writer": "Hal Needham, Robert L. Levy, James Lee Barrett",
+      "Actors": "Burt Reynolds, Sally Field, Jerry Reed",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Stand by Me",

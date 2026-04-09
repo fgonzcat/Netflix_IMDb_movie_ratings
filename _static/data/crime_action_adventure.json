@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/9584",
   "movies": [
     {
+      "title": "Money Talks",
+      "netflix_url": "https://www.netflix.com/title/1179583",
+      "year": "1997",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0119695",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2JjM2I0YmMtMzQ3MC00MTc0LWI1MTEtZDVlNTMyMmU0YThhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sought by police and criminals, a small-time hustler makes a deal with a TV newsman for protection.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Brett Ratner",
+      "Writer": "Joel Cohen, Alec Sokolow",
+      "Actors": "Charlie Sheen, Chris Tucker, Heather Locklear",
+      "Language": "English, French",
+      "Country": "United States"
+    },
+    {
       "title": "Aakhri Adaalat",
       "netflix_url": "https://www.netflix.com/title/20254278",
       "year": "1988",
@@ -33,6 +50,23 @@
       "Director": "Steve Oedekerk",
       "Writer": "Jack Bernstein, Steve Oedekerk",
       "Actors": "Jim Carrey, Ian McNeice, Simon Callow",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Blue Thunder",
+      "netflix_url": "https://www.netflix.com/title/318960",
+      "year": "1983",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0085255",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWVhMGI2MDAtODk5Zi00YmVmLTk5YTQtNmRiMjMyMDAyZDAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The cop test pilot for an experimental police helicopter learns the sinister implications of the new vehicle.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "John Badham",
+      "Writer": "Dan O'Bannon, Don Jakoby",
+      "Actors": "Roy Scheider, Warren Oates, Candy Clark",
       "Language": "English",
       "Country": "United States"
     },
@@ -122,6 +156,23 @@
       "Country": "India"
     },
     {
+      "title": "All About the Benjamins",
+      "netflix_url": "https://www.netflix.com/title/60022698",
+      "year": "2002",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0278295",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODhjNjRiMTAtNWMxMy00MTY1LWE1ZjQtNmUzNjlhY2JiMjU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bounty hunter Bucum chases bail-jumper Reggie, who runs right into the scene of a diamond heist and murder and gets shot at as well. Later they become partners in their pursuit of the $20M in diamonds and lottery ticket. Their wom...",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Kevin Bray",
+      "Writer": "Ronald Lang, Ice Cube",
+      "Actors": "Ice Cube, Mike Epps, Tommy Flanagan",
+      "Language": "English, French",
+      "Country": "United States, Germany"
+    },
+    {
       "title": "Man on Fire",
       "netflix_url": "https://www.netflix.com/title/60034560",
       "year": "2004",
@@ -137,6 +188,23 @@
       "Actors": "Denzel Washington, Christopher Walken, Dakota Fanning",
       "Language": "English, Spanish",
       "Country": "Switzerland, United Kingdom, United States, Mexico"
+    },
+    {
+      "title": "Kindergarten Cop",
+      "netflix_url": "https://www.netflix.com/title/671744",
+      "year": "1990",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0099938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyMTIyOTc0N15BMl5BanBnXkFtZTgwODY1NTk4NjE@._V1_SX300.jpg",
+      "Plot": "A tough cop must pose as a kindergarten teacher in order to locate a dangerous criminal's ex-wife, who may hold the key to putting him behind bars.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Ivan Reitman",
+      "Writer": "Murray Salem, Herschel Weingrod, Timothy Harris",
+      "Actors": "Arnold Schwarzenegger, Penelope Ann Miller, Pamela Reed",
+      "Language": "English, Spanish, German",
+      "Country": "United States"
     },
     {
       "title": "Dhoom",
@@ -292,6 +360,23 @@
       "Country": "France, United States, United Kingdom, Mexico, Canada"
     },
     {
+      "title": "Tower Heist",
+      "netflix_url": "https://www.netflix.com/title/70202145",
+      "year": "2011",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0471042",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NDQxMTcwOV5BMl5BanBnXkFtZTcwNzMzNTExNg@@._V1_SX300.jpg",
+      "Plot": "When a group of hard-working guys find out they've fallen victim to their wealthy employer's Ponzi scheme, they conspire to rob his high-rise residence.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Brett Ratner",
+      "Writer": "Adam Cooper, Bill Collage, Ted Griffin",
+      "Actors": "Eddie Murphy, Ben Stiller, Casey Affleck",
+      "Language": "English, Spanish, Chinese",
+      "Country": "Japan, United States"
+    },
+    {
       "title": "Hit & Run",
       "netflix_url": "https://www.netflix.com/title/70243445",
       "year": "2012",
@@ -323,6 +408,23 @@
       "Writer": "David Guggenheim",
       "Actors": "Nicolas Cage, Malin Akerman, Josh Lucas",
       "Language": "English, Swedish",
+      "Country": "United States"
+    },
+    {
+      "title": "R.I.P.D.",
+      "netflix_url": "https://www.netflix.com/title/70267729",
+      "year": "2013",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0790736",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTYxNzE5N15BMl5BanBnXkFtZTcwMDU1MTQ4OQ@@._V1_SX300.jpg",
+      "Plot": "In the afterlife, Nick Walker, a detective who used to work for the Boston Police Department, is hired by a director of a group of deceased police officers to fight against the renegade ghosts.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Robert Schwentke",
+      "Writer": "Phil Hay, Matt Manfredi, David Dobkin",
+      "Actors": "Ryan Reynolds, Jeff Bridges, Mary-Louise Parker",
+      "Language": "English",
       "Country": "United States"
     },
     {
@@ -1176,6 +1278,23 @@
       "Country": "United Kingdom, Norway, China, Canada, United States, France"
     },
     {
+      "title": "Black and Blue",
+      "netflix_url": "https://www.netflix.com/title/81086524",
+      "year": "2019",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt7390646",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFmZjE5NmUtZGFjYi00Zjc0LWIyYzYtZDhlYzVlZDUxY2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A rookie New Orleans police officer is forced to balance her identity as a black woman after she witnesses two corrupt cops committing murder.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Action, Thriller",
+      "Director": "Deon Taylor",
+      "Writer": "Peter A. Dowling",
+      "Actors": "Naomie Harris, Tyrese Gibson, Frank Grillo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Lost Bullet",
       "netflix_url": "https://www.netflix.com/title/81108579",
       "year": "2020",
@@ -1756,6 +1875,23 @@
       "Actors": "Jason Statham, Holt McCallany, Josh Hartnett",
       "Language": "English, Spanish, Arabic",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "A Day to Die",
+      "netflix_url": "https://www.netflix.com/title/81474293",
+      "year": "2022",
+      "imdb_rating": "3.5",
+      "imdb_id": "tt14412366",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODVlYjc0NDAtZTNjMy00YjNhLTg0ZDQtNDY1NWJiMWI0NGIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Connor Connolly has one day to pay reparations to Tyrone Pettis. He is forced to ask his old military ops crew, led by Brice Mason, to come together to get him two million dollars before he loses everyone he loves in the process.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wes Miller",
+      "Writer": "Rab Berry, Scott Mallace",
+      "Actors": "Kevin Dillon, Bruce Willis, Frank Grillo",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Yaksha: Ruthless Operations",

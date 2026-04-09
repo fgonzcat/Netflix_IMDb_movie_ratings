@@ -37,6 +37,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "The Fifth Element",
+      "netflix_url": "https://www.netflix.com/title/1154386",
+      "year": "1997",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0119116",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODU4ZTE5MWYtNmY2MC00NDkyLTk0NDgtNTk5YjgzMzc4NmQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the colorful future, cabdriver Korben Dallas unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep the great evil and Jean-Baptiste Emmanuel Zorg at bay.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Luc Besson",
+      "Writer": "Luc Besson, Robert Mark Kamen",
+      "Actors": "Bruce Willis, Milla Jovovich, Gary Oldman",
+      "Language": "English, Swedish, German, Arabic, Egyptian (Ancient)",
+      "Country": "France, United Kingdom"
+    },
+    {
       "title": "Deconstructing Harry",
       "netflix_url": "https://www.netflix.com/title/1179827",
       "year": "1997",
@@ -377,6 +394,23 @@
       "Country": "United Kingdom, United States, Italy, Turkey"
     },
     {
+      "title": "Ghostbusters",
+      "netflix_url": "https://www.netflix.com/title/541018",
+      "year": "1984",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0087332",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Armed with proton packs, four paranormal investigators battle mischievous ghouls in New York.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Comedy, Fantasy",
+      "Director": "Ivan Reitman",
+      "Writer": "Dan Aykroyd, Harold Ramis",
+      "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Glory",
       "netflix_url": "https://www.netflix.com/title/547335",
       "year": "1989",
@@ -511,6 +545,23 @@
       "Actors": "Mel Gibson, Heath Ledger, Joely Richardson",
       "Language": "English, French",
       "Country": "Germany, United States"
+    },
+    {
+      "title": "Jaws",
+      "netflix_url": "https://www.netflix.com/title/60001220",
+      "year": "1975",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0073195",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Steven Spielberg",
+      "Writer": "Peter Benchley, Carl Gottlieb",
+      "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Silsila",
@@ -713,6 +764,23 @@
       "Director": "David Mickey Evans",
       "Writer": "David Mickey Evans, Robert Gunter",
       "Actors": "Tom Guiry, Mike Vitar, Art LaFleur",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Slap Shot",
+      "netflix_url": "https://www.netflix.com/title/60022761",
+      "year": "1977",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0076723",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg3YTJlYzMtMDhkMy00MTk4LTg1NDItMGMyOGMzMmJmY2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A failing ice hockey team finds success with outrageously violent hockey goonery.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Comedy, Drama, Sport",
+      "Director": "George Roy Hill",
+      "Writer": "Nancy Dowd",
+      "Actors": "Paul Newman, Michael Ontkean, Strother Martin",
       "Language": "English",
       "Country": "United States"
     },
@@ -1293,6 +1361,40 @@
       "Actors": "Aamir Khan, Kajol, Rishi Kapoor",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Atonement",
+      "netflix_url": "https://www.netflix.com/title/70059993",
+      "year": "2007",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0783233",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ5ZjZlMzMtODA1ZS00NTNiLWIzOTYtOTQyYjQ2YWQxMTA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Drama, Mystery, Romance",
+      "Director": "Joe Wright",
+      "Writer": "Ian McEwan, Christopher Hampton",
+      "Actors": "Keira Knightley, James McAvoy, Brenda Blethyn",
+      "Language": "English, French",
+      "Country": "United Kingdom, France, United States"
+    },
+    {
+      "title": "American Gangster",
+      "netflix_url": "https://www.netflix.com/title/70060009",
+      "year": "2007",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0765429",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas.",
+      "Type": "movie",
+      "RunTime": "157 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Ridley Scott",
+      "Writer": "Steven Zaillian, Mark Jacobson",
+      "Actors": "Denzel Washington, Russell Crowe, Chiwetel Ejiofor",
+      "Language": "English, Thai, Spanish",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Guru",
@@ -2313,6 +2415,23 @@
       "Actors": "Frank Welker, Mindy Cohn, Grey DeLisle",
       "Language": "English",
       "Country": "United States, South Korea"
+    },
+    {
+      "title": "Mission: Impossible - Ghost Protocol",
+      "netflix_url": "https://www.netflix.com/title/70173048",
+      "year": "2011",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1229238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_SX300.jpg",
+      "Plot": "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Brad Bird",
+      "Writer": "Bruce Geller, Josh Appelbaum, André Nemec",
+      "Actors": "Tom Cruise, Jeremy Renner, Simon Pegg",
+      "Language": "English, Russian, French, Arabic, Swedish",
+      "Country": "United States, United Arab Emirates, Russia, Canada, Czech Republic, India"
     },
     {
       "title": "Yu-Gi-Oh!",
@@ -3437,6 +3556,23 @@
       "Country": "United States"
     },
     {
+      "title": "American Hustle",
+      "netflix_url": "https://www.netflix.com/title/70281530",
+      "year": "2013",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1800241",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ2NzEwZGEtYjk1MC00NWFmLTgyYTgtZmRhMTRmOTBlN2U5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild F.B.I. Agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and the Mafia.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Crime, Drama",
+      "Director": "David O. Russell",
+      "Writer": "Eric Warren Singer, David O. Russell",
+      "Actors": "Christian Bale, Amy Adams, Bradley Cooper",
+      "Language": "English, Arabic",
+      "Country": "United States, China"
+    },
+    {
       "title": "Brooklyn Nine-Nine",
       "netflix_url": "https://www.netflix.com/title/70281562",
       "year": "2021",
@@ -4083,6 +4219,23 @@
       "Country": "United States"
     },
     {
+      "title": "Mission: Impossible",
+      "netflix_url": "https://www.netflix.com/title/765912",
+      "year": "1996",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0117060",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGZjNDlkMTYtMTJkZi00OTkzLWI4NDEtYTA2ODQyMjcwYTdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Brian De Palma",
+      "Writer": "Bruce Geller, David Koepp, Steven Zaillian",
+      "Actors": "Tom Cruise, Jon Voight, Emmanuelle Béart",
+      "Language": "English, French, Czech",
+      "Country": "United States"
+    },
+    {
       "title": "Mrs. Doubtfire",
       "netflix_url": "https://www.netflix.com/title/779488",
       "year": "1993",
@@ -4319,6 +4472,23 @@
       "Actors": "Takeru Satoh, Tatsuya Fujiwara, Emi Takei",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "The Age of Adaline",
+      "netflix_url": "https://www.netflix.com/title/80014426",
+      "year": "2015",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1655441",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzMTQzMTA2MjheQTJeQWpwZ15BbWU4MDk2MTg2MzUx._V1_SX300.jpg",
+      "Plot": "An ageless woman meets someone who reawakens her passion for life and romance.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "Lee Toland Krieger",
+      "Writer": "J. Mills Goodloe, Salvador Paskowitz",
+      "Actors": "Blake Lively, Michiel Huisman, Harrison Ford",
+      "Language": "English, Portuguese, Italian",
+      "Country": "United States, Canada"
     },
     {
       "title": "Road To Ninja -Naruto The Movie-",
@@ -4831,6 +5001,40 @@
       "Country": "Japan"
     },
     {
+      "title": "Best of Enemies",
+      "netflix_url": "https://www.netflix.com/title/80038199",
+      "year": "2015",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt4807408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MjA2NDkyM15BMl5BanBnXkFtZTgwNTIwNjUzNzM@._V1_SX300.jpg",
+      "Plot": "Civil rights activist Ann Atwater faces off against C.P. Ellis, Exalted Cyclops of the Ku Klux Klan, in 1971 Durham, North Carolina over the issue of school integration.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Robin Bissell",
+      "Writer": "Robin Bissell, Osha Gray Davidson",
+      "Actors": "Taraji P. Henson, Sam Rockwell, Babou Ceesay",
+      "Language": "English, Latin",
+      "Country": "United States"
+    },
+    {
+      "title": "Mission: Impossible - Rogue Nation",
+      "netflix_url": "https://www.netflix.com/title/80038359",
+      "year": "2015",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt2381249",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjUwZjg2ZjAtY2RhZi00YmZjLTlhNGQtOWQwNDk1MjhhM2NhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ethan and his team take on their most impossible mission yet when they have to eradicate an international rogue organization as highly skilled as they are and committed to destroying the IMF.",
+      "Type": "movie",
+      "RunTime": "131 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Christopher McQuarrie",
+      "Writer": "Bruce Geller, Christopher McQuarrie, Drew Pearce",
+      "Actors": "Tom Cruise, Rebecca Ferguson, Jeremy Renner",
+      "Language": "English, Swedish, German, Russian",
+      "Country": "United States, China, United Kingdom, Austria, Morocco, Hong Kong"
+    },
+    {
       "title": "Dragons: Race to the Edge",
       "netflix_url": "https://www.netflix.com/title/80039394",
       "year": "2018",
@@ -5137,6 +5341,23 @@
       "Country": "United States"
     },
     {
+      "title": "Everest",
+      "netflix_url": "https://www.netflix.com/title/80046309",
+      "year": "2015",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt2719848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDAzOTYxMTctY2ViNi00NDI3LTgwMGItY2FhN2JjZWE5MjRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On May 10, 1996, mountain guides Rob Hall and Scott Fischer combine their expedition teams for a final ascent to the summit of Mount Everest. With little warning, a storm strikes the mountain and the climbers must now battle to su...",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "Baltasar Kormákur",
+      "Writer": "William Nicholson, Simon Beaufoy",
+      "Actors": "Jason Clarke, Ang Phula Sherpa, Thomas M. Wright",
+      "Language": "English, Russian",
+      "Country": "United Kingdom, Iceland, United States"
+    },
+    {
       "title": "Sicario",
       "netflix_url": "https://www.netflix.com/title/80046311",
       "year": "2015",
@@ -5152,6 +5373,23 @@
       "Actors": "Emily Blunt, Josh Brolin, Benicio Del Toro",
       "Language": "English, Spanish, Ukrainian",
       "Country": "United States, Mexico, Hong Kong"
+    },
+    {
+      "title": "Krisha",
+      "netflix_url": "https://www.netflix.com/title/80046777",
+      "year": "2015",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt4266638",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NTgxNDgxOV5BMl5BanBnXkFtZTgwNjE1NzIzNzE@._V1_SX300.jpg",
+      "Plot": "Krisha returns for Thanksgiving dinner after ten years away from her family, but past demons threaten to ruin the festivities.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Drama",
+      "Director": "Trey Edward Shults",
+      "Writer": "Trey Edward Shults",
+      "Actors": "Krisha Fairchild, Alex Dobrenko, Robyn Fairchild",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Amy",
@@ -11036,6 +11274,23 @@
       "Country": "Australia"
     },
     {
+      "title": "Tales of the City",
+      "netflix_url": "https://www.netflix.com/title/80211563",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt7087260",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDZmMGI2ODUtNmNmYS00M2IyLTgxYWYtOTU1NWFkNGNmNmVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. \"Tales of the City\" focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrig...",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Lauren Morelli",
+      "Actors": "Laura Linney, Elliot Page, Paul Gross",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Monarca",
       "netflix_url": "https://www.netflix.com/title/80211572",
       "year": "2021",
@@ -12224,6 +12479,23 @@
       "Actors": "Al Pacino, Logan Lerman, Lena Olin",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "First Reformed",
+      "netflix_url": "https://www.netflix.com/title/80224467",
+      "year": "2017",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt6053438",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRkOTUxZDItNDU0OC00ODQzLWJkMWEtYjBiODViNGMyYjhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A minister of a small congregation in upstate New York grapples with mounting despair brought on by tragedy, worldly concerns and a tormented past.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Paul Schrader",
+      "Writer": "Paul Schrader",
+      "Actors": "Ethan Hawke, Amanda Seyfried, Cedric The Entertainer",
+      "Language": "English",
+      "Country": "United States, United Kingdom, Australia"
     },
     {
       "title": "ADAM SANDLER 100% FRESH",
@@ -14215,6 +14487,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Bohemian Rhapsody",
+      "netflix_url": "https://www.netflix.com/title/80994899",
+      "year": "2018",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt1727824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
+      "Plot": "With his impeccable vocal abilities, Freddie Mercury and his rock band, Queen, achieve superstardom. However, amidst his skyrocketing success, he grapples with his ego, sexuality and a fatal illness.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Bryan Singer",
+      "Writer": "Anthony McCarten, Peter Morgan",
+      "Actors": "Rami Malek, Lucy Boynton, Gwilym Lee",
+      "Language": "English, British Sign ",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Inside Job",
       "netflix_url": "https://www.netflix.com/title/80995819",
       "year": "2022",
@@ -15691,6 +15980,23 @@
       "Writer": "N/A",
       "Actors": "Richard Ramirez, Paul Skolnick, Gil Carrillo",
       "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
+      "title": "The Playbook",
+      "netflix_url": "https://www.netflix.com/title/81025735",
+      "year": "2020",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt12930602",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2YxYmRiOWMtOTg2Yi00NWY3LWFkYmEtZWU5MWFlMDVkNDgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Playbook profiles legendary coaches as they share the rules they live by to achieve success in sports and in life.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "José Mourinho, Dawn Staley, Doc Rivers",
+      "Language": "English",
       "Country": "United States"
     },
     {
@@ -17953,6 +18259,23 @@
       "Actors": "Emma Stone, Julianne Moore, Faith Jones",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Money Heist: The Phenomenon",
+      "netflix_url": "https://www.netflix.com/title/81098822",
+      "year": "2020",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt12078990",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmZiZDk1NzQtMGI2ZS00YWQ3LWI2NDctNDE0YTQ3NjY2YzYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A documentary on why and how \"Money Heist\" sparked a wave of enthusiasm around the world for a lovable group of thieves and their professor.",
+      "Type": "movie",
+      "RunTime": "57 min",
+      "Genre": "Documentary",
+      "Director": "Luis Alfaro, Pablo Lejarreta",
+      "Writer": "Pablo Lejarreta, Javier Gómez Santander, Álex Pina",
+      "Actors": "Úrsula Corberó, Rodrigo de la Serna, Miguel Herrán",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Yeh Ballet",
@@ -22664,6 +22987,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "One",
+      "netflix_url": "https://www.netflix.com/title/81327516",
+      "year": "2020",
+      "imdb_rating": "9.2",
+      "imdb_id": "tt19385824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmQwYjcwMDUtNTE1NC00ZjkwLWI4NGEtZjIzYzY5Mzc0YWI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The show follows 18 contestants, teleported in batches of six into the Plane by Airy, who compete in his ill-planned, simplistic competition show where the winner receives a wish for whatever they want.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Horror",
+      "Director": "N/A",
+      "Writer": "Cheesy Hfj",
+      "Actors": "ThatPerson, John Dubuc, Maixi",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Eldorado: Everything the Nazis Hate",
       "netflix_url": "https://www.netflix.com/title/81331646",
       "year": "2023",
@@ -26251,6 +26591,23 @@
       "Country": "Italy, United States"
     },
     {
+      "title": "SPY x FAMILY",
+      "netflix_url": "https://www.netflix.com/title/81511410",
+      "year": "2025",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt13706018",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A spy on an undercover mission gets married and adopts a child as part of his cover. His wife and daughter have secrets of their own, and all three must strive to keep together.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Action, Comedy",
+      "Director": "N/A",
+      "Writer": "Tatsuya Endo",
+      "Actors": "Atsumi Tanezaki, Takuya Eguchi, Saori Hayami",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Miss Adrenaline: A Tale of Twins",
       "netflix_url": "https://www.netflix.com/title/81511881",
       "year": "2023",
@@ -26266,6 +26623,23 @@
       "Actors": "Emmanuel Restrepo, Alisson Joan, Alejandro Buitrago",
       "Language": "Spanish",
       "Country": "Colombia"
+    },
+    {
+      "title": "Vivy -Fluorite Eye’s Song-",
+      "netflix_url": "https://www.netflix.com/title/81511893",
+      "year": "2021",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt13851958",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjA1MzlhOWEtYmQ1OC00MTUwLTliZDQtNGRlYmE4ZTVmMWQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The female looking and first autonomous AI named Diva is created for one mission to make everyone happy by singing. Shortly Diva is confronted by an unknown \"program\" from the future with objective to make Diva join him and destro...",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Tappei Nagatsuki, Eiji Umehara",
+      "Actors": "Atsumi Tanezaki, Jun Fukuyama, Cristina Valenzuela",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "18 Pages",
@@ -26375,7 +26749,7 @@
       "year": "2023",
       "imdb_rating": "7.3",
       "imdb_id": "tt26258200",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjM2MGMyMDItZGVmOC00Yzk3LTk0MmYtN2IxNTExMmYyNWZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDYxNmFkYmItNGMzYS00NzEwLThlYmYtNWZhOTAxZWQxZTEzXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "An office worker who is insecure about her looks becomes a masked internet personality by night until a chain of ill-fated events overtakes her life.",
       "Type": "series",
       "RunTime": "N/A",
@@ -26657,6 +27031,23 @@
       "Actors": "Kim So-yeon, Shin Eun-kyung, Uhm Ki-joon",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "1670",
+      "netflix_url": "https://www.netflix.com/title/81553471",
+      "year": "2025",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt29420686",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzJjNjhhMGMtZmFmMy00MjEzLTliZTMtZDRmN2FlNDYxZTJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this satirical comedy, a zany nobleman navigates through family feuds and clashes with peasants in his quest to become Poland's most famous figure.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bartlomiej Topa, Katarzyna Herman, Martyna Byczkowska",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Vadh",
@@ -33663,6 +34054,23 @@
       "Country": "Japan"
     },
     {
+      "title": "St. Denis Medical",
+      "netflix_url": "https://www.netflix.com/title/81948009",
+      "year": "2024",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt21433690",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmViN2M3OTQtOWViZS00ZDI5LTliMDItOWJmMzdmNTlhM2I2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows an underfunded, understaffed hospital where the doctors and nurses try their best to treat patients while maintaining their own sanity.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Eric Ledgin, Justin Spitzer",
+      "Actors": "Wendi McLendon-Covey, Allison Tolman, Josh Lawson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Summer Hikaru Died",
       "netflix_url": "https://www.netflix.com/title/81948057",
       "year": "2025",
@@ -34941,7 +35349,7 @@
       "title": "This Is Going To Hurt",
       "netflix_url": "https://www.netflix.com/title/82135567",
       "year": "2022",
-      "imdb_rating": "8.4",
+      "imdb_rating": "8.3",
       "imdb_id": "tt8681148",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjhlZmMyOWQtOGRjMi00NjFhLTljMmQtY2RkZTE0ODA5YzUzXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Set on Labour Ward with all its hilarity and heart-lifting highs but also its gut-wrenching lows, the show delivers a brutally honest depiction of life as a junior doctor on the wards, and the toll the job can take back home.",
@@ -34950,7 +35358,7 @@
       "Genre": "Biography, Comedy, Drama",
       "Director": "N/A",
       "Writer": "Adam Kay",
-      "Actors": "Ben Whishaw, Ambika Mod, Rory Fleck Byrne",
+      "Actors": "Ben Whishaw, Ambika Mod, Michele Austin",
       "Language": "English",
       "Country": "United Kingdom"
     },
@@ -35463,6 +35871,23 @@
       "Actors": "Mason Thames, Nico Parker, Gerard Butler",
       "Language": "English",
       "Country": "United States, United Kingdom, Ireland, Iceland, Canada"
+    },
+    {
+      "title": "The Professionals",
+      "netflix_url": "https://www.netflix.com/title/877351",
+      "year": "1966",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0060862",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzJmYzk3NmMtZGQ3My00OGE2LTgzMGYtN2VkOTU5ZTZhMjlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An arrogant Texas millionaire hires four adventurers to rescue his kidnapped wife from a notorious Mexican bandit.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Richard Brooks",
+      "Writer": "Frank O'Rourke, Richard Brooks",
+      "Actors": "Burt Lancaster, Lee Marvin, Robert Ryan",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Pulp Fiction",

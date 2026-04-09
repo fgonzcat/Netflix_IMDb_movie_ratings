@@ -71,6 +71,23 @@
       "Country": "United States"
     },
     {
+      "title": "Fletch",
+      "netflix_url": "https://www.netflix.com/title/510088",
+      "year": "1985",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0089155",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM2MDEyMjQtOGQwYS00M2NjLWIwODgtYzRmYjQ5ZDMxZDEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While working undercover wisecracking newspaper reporter Irwin \"Fletch\" Fletcher is offered a large sum by a millionaire with a terminal disease to kill him. Intrigued, Fletch decides to unearth the full story behind the offer.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Crime, Mystery",
+      "Director": "Michael Ritchie",
+      "Writer": "Gregory McDonald, Andrew Bergman, Phil Alden Robinson",
+      "Actors": "Chevy Chase, Joe Don Baker, Dana Wheeler-Nicholson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Small Time Crooks",
       "netflix_url": "https://www.netflix.com/title/60001172",
       "year": "2000",
@@ -241,6 +258,23 @@
       "Country": "United States"
     },
     {
+      "title": "How Do You Know",
+      "netflix_url": "https://www.netflix.com/title/70138790",
+      "year": "2010",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt1341188",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQyMzU4OTk1N15BMl5BanBnXkFtZTcwNTE5MTUxNA@@._V1_SX300.jpg",
+      "Plot": "After being cut from the U.S.A. softball team and feeling a bit past her prime, Lisa finds herself evaluating her life and in the middle of a love triangle, as a corporate guy in crisis competes with her current, baseball-playing ...",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "James L. Brooks",
+      "Writer": "James L. Brooks",
+      "Actors": "Reese Witherspoon, Paul Rudd, Owen Wilson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Crazy, Stupid, Love.",
       "netflix_url": "https://www.netflix.com/title/70167068",
       "year": "2011",
@@ -343,6 +377,23 @@
       "Country": "United States, Denmark, Australia, Norway"
     },
     {
+      "title": "Alan Partridge",
+      "netflix_url": "https://www.netflix.com/title/70296884",
+      "year": "2013",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0469021",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzODAxODYzM15BMl5BanBnXkFtZTgwMzYwOTcwMTE@._V1_SX300.jpg",
+      "Plot": "When famous DJ Alan Partridge's radio station is taken over by a new media conglomerate, it sets in motion a chain of events which see Alan having to work with the police to defuse a potentially violent siege.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Declan Lowney",
+      "Writer": "Neil Gibbons, Rob Gibbons, Steve Coogan",
+      "Actors": "Steve Coogan, Colm Meaney, Tim Key",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Frank",
       "netflix_url": "https://www.netflix.com/title/70299856",
       "year": "2014",
@@ -374,6 +425,40 @@
       "Writer": "Gillian Robespierre, Karen Maine, Elisabeth Holm",
       "Actors": "Jenny Slate, Jake Lacy, Gaby Hoffmann",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Penguins of Madagascar: The Movie",
+      "netflix_url": "https://www.netflix.com/title/80013941",
+      "year": "2014",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1911658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1_SX300.jpg",
+      "Plot": "Skipper, Kowalski, Rico, and Private join forces with the secret organization North Wind in an effort to stop a terrible villain from wiping out all the penguins in the world.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Eric Darnell, Simon J. Smith",
+      "Writer": "Michael Colton, John Aboud, Brandon Sawyer",
+      "Actors": "Tom McGrath, Chris Miller, Christopher Knights",
+      "Language": "English, Italian, Mandarin, Spanish, Armenian",
+      "Country": "United States, Australia, India, Japan, Finland"
+    },
+    {
+      "title": "Best of Enemies",
+      "netflix_url": "https://www.netflix.com/title/80038199",
+      "year": "2015",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt4807408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MjA2NDkyM15BMl5BanBnXkFtZTgwNTIwNjUzNzM@._V1_SX300.jpg",
+      "Plot": "Civil rights activist Ann Atwater faces off against C.P. Ellis, Exalted Cyclops of the Ku Klux Klan, in 1971 Durham, North Carolina over the issue of school integration.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Robin Bissell",
+      "Writer": "Robin Bissell, Osha Gray Davidson",
+      "Actors": "Taraji P. Henson, Sam Rockwell, Babou Ceesay",
+      "Language": "English, Latin",
       "Country": "United States"
     },
     {

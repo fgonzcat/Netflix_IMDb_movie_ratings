@@ -166,6 +166,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/12123" target="_bla
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Sandokan: The Pirate Prince*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81987085" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZjdlOGU0MzAtM2JmYy00YjZjLWI5NTQtNmNlZDY4NDQ2NmExXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Unveil: Jadewind*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt34452086/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82706141" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BODg2MTRkZDktMjU1NS00M2IxLWFhYWYtNzVkNWRjMTNjYzBmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Pursuit of Jade*</strong></summary>  <div class="movie-plot">Changyu Fan and Zheng Xie enter a fake marriage for separate reasons, but their love grows. Separated by conflict, they reunite on the battlefield, fighting together for justice, truth, and their love.</div> </details> | <a href="https://www.imdb.com/title/tt35316225/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82706180" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Veil of Shadows*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82788167" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -204,6 +205,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/12123" target="_bla
 
  
 ---
-*Page last updated on: 2026-03-31*
+*Page last updated on: 2026-04-08*
 
  

@@ -3,6 +3,40 @@
   "genre_url": "https://www.netflix.com/browse/genre/43040",
   "movies": [
     {
+      "title": "Money Talks",
+      "netflix_url": "https://www.netflix.com/title/1179583",
+      "year": "1997",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0119695",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2JjM2I0YmMtMzQ3MC00MTc0LWI1MTEtZDVlNTMyMmU0YThhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sought by police and criminals, a small-time hustler makes a deal with a TV newsman for protection.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Brett Ratner",
+      "Writer": "Joel Cohen, Alec Sokolow",
+      "Actors": "Charlie Sheen, Chris Tucker, Heather Locklear",
+      "Language": "English, French",
+      "Country": "United States"
+    },
+    {
+      "title": "Ghostbusters",
+      "netflix_url": "https://www.netflix.com/title/541018",
+      "year": "1984",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0087332",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Armed with proton packs, four paranormal investigators battle mischievous ghouls in New York.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Comedy, Fantasy",
+      "Director": "Ivan Reitman",
+      "Writer": "Dan Aykroyd, Harold Ramis",
+      "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Charlie's Angels",
       "netflix_url": "https://www.netflix.com/title/60003242",
       "year": "2000",
@@ -20,6 +54,40 @@
       "Country": "Germany, United States"
     },
     {
+      "title": "All About the Benjamins",
+      "netflix_url": "https://www.netflix.com/title/60022698",
+      "year": "2002",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0278295",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODhjNjRiMTAtNWMxMy00MTY1LWE1ZjQtNmUzNjlhY2JiMjU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bounty hunter Bucum chases bail-jumper Reggie, who runs right into the scene of a diamond heist and murder and gets shot at as well. Later they become partners in their pursuit of the $20M in diamonds and lottery ticket. Their wom...",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Kevin Bray",
+      "Writer": "Ronald Lang, Ice Cube",
+      "Actors": "Ice Cube, Mike Epps, Tommy Flanagan",
+      "Language": "English, French",
+      "Country": "United States, Germany"
+    },
+    {
+      "title": "Kindergarten Cop",
+      "netflix_url": "https://www.netflix.com/title/671744",
+      "year": "1990",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0099938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyMTIyOTc0N15BMl5BanBnXkFtZTgwODY1NTk4NjE@._V1_SX300.jpg",
+      "Plot": "A tough cop must pose as a kindergarten teacher in order to locate a dangerous criminal's ex-wife, who may hold the key to putting him behind bars.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Ivan Reitman",
+      "Writer": "Murray Salem, Herschel Weingrod, Timothy Harris",
+      "Actors": "Arnold Schwarzenegger, Penelope Ann Miller, Pamela Reed",
+      "Language": "English, Spanish, German",
+      "Country": "United States"
+    },
+    {
       "title": "Main Hoon Na",
       "netflix_url": "https://www.netflix.com/title/70000196",
       "year": "2004",
@@ -35,6 +103,23 @@
       "Actors": "Shah Rukh Khan, Sushmita Sen, Suniel Shetty",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Smokey and the Bandit II",
+      "netflix_url": "https://www.netflix.com/title/70000816",
+      "year": "1980",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt0081529",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODIxM2FkODAtMWJiYy00YjE2LTg4MGEtNmZjYzNhNDljMTMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Bandit goes on another cross-country run, transporting an elephant from Florida to Texas. And, once again, Sheriff Buford T. Justice is on his tail.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Hal Needham",
+      "Writer": "Hal Needham, Robert L. Levy, Jerry Belson",
+      "Actors": "Burt Reynolds, Jackie Gleason, Jerry Reed",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Mr. & Mrs. Smith",
@@ -163,6 +248,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Tower Heist",
+      "netflix_url": "https://www.netflix.com/title/70202145",
+      "year": "2011",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0471042",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NDQxMTcwOV5BMl5BanBnXkFtZTcwNzMzNTExNg@@._V1_SX300.jpg",
+      "Plot": "When a group of hard-working guys find out they've fallen victim to their wealthy employer's Ponzi scheme, they conspire to rob his high-rise residence.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Brett Ratner",
+      "Writer": "Adam Cooper, Bill Collage, Ted Griffin",
+      "Actors": "Eddie Murphy, Ben Stiller, Casey Affleck",
+      "Language": "English, Spanish, Chinese",
+      "Country": "Japan, United States"
+    },
+    {
       "title": "Hit & Run",
       "netflix_url": "https://www.netflix.com/title/70243445",
       "year": "2012",
@@ -214,6 +316,23 @@
       "Country": "United States"
     },
     {
+      "title": "R.I.P.D.",
+      "netflix_url": "https://www.netflix.com/title/70267729",
+      "year": "2013",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0790736",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTYxNzE5N15BMl5BanBnXkFtZTcwMDU1MTQ4OQ@@._V1_SX300.jpg",
+      "Plot": "In the afterlife, Nick Walker, a detective who used to work for the Boston Police Department, is hired by a director of a group of deceased police officers to fight against the renegade ghosts.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Robert Schwentke",
+      "Writer": "Phil Hay, Matt Manfredi, David Dobkin",
+      "Actors": "Ryan Reynolds, Jeff Bridges, Mary-Louise Parker",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Kick",
       "netflix_url": "https://www.netflix.com/title/70303430",
       "year": "2014",
@@ -229,6 +348,23 @@
       "Actors": "Salman Khan, Jacqueline Fernandez, Nawazuddin Siddiqui",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Penguins of Madagascar: The Movie",
+      "netflix_url": "https://www.netflix.com/title/80013941",
+      "year": "2014",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1911658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1_SX300.jpg",
+      "Plot": "Skipper, Kowalski, Rico, and Private join forces with the secret organization North Wind in an effort to stop a terrible villain from wiping out all the penguins in the world.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Eric Darnell, Simon J. Smith",
+      "Writer": "Michael Colton, John Aboud, Brandon Sawyer",
+      "Actors": "Tom McGrath, Chris Miller, Christopher Knights",
+      "Language": "English, Italian, Mandarin, Spanish, Armenian",
+      "Country": "United States, Australia, India, Japan, Finland"
     },
     {
       "title": "Happy New Year",
@@ -508,6 +644,23 @@
       "Actors": "Channing Tatum, Jason Mantzoukas, Olivia Munn",
       "Language": "English, French, Spanish",
       "Country": "Brazil, Mexico, United States, Czech Republic"
+    },
+    {
+      "title": "Jumanji: Welcome to the Jungle",
+      "netflix_url": "https://www.netflix.com/title/80192646",
+      "year": "2017",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt2283362",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Jake Kasdan",
+      "Writer": "Chris McKenna, Erik Sommers, Scott Rosenberg",
+      "Actors": "Dwayne Johnson, Karen Gillan, Kevin Hart",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "The Christmas Chronicles",
@@ -2250,6 +2403,23 @@
       "Actors": "Rajisha Vijayan, Divya Prabha, Jagadish",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Smokey and the Bandit",
+      "netflix_url": "https://www.netflix.com/title/975578",
+      "year": "1977",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0076729",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2YzUyMGQtZDc5ZC00OTE5LWJmZjUtYTQ4ZDQ4N2E0MjIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Bandit is hired on to run a tractor-trailer full of beer over state lines, in hot pursuit by a pesky sheriff.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Hal Needham",
+      "Writer": "Hal Needham, Robert L. Levy, James Lee Barrett",
+      "Actors": "Burt Reynolds, Sally Field, Jerry Reed",
+      "Language": "English",
+      "Country": "United States"
     }
   ]
 }

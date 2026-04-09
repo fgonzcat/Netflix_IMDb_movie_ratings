@@ -37,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "Jaws",
+      "netflix_url": "https://www.netflix.com/title/60001220",
+      "year": "1975",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0073195",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Steven Spielberg",
+      "Writer": "Peter Benchley, Carl Gottlieb",
+      "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Muqaddar ka Faisla",
       "netflix_url": "https://www.netflix.com/title/60002082",
       "year": "1987",
@@ -69,6 +86,23 @@
       "Actors": "Jack Nicholson, Benicio Del Toro, Patricia Clarkson",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Jaws 2",
+      "netflix_url": "https://www.netflix.com/title/60020332",
+      "year": "1978",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0077766",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzAxN2Q5Y2UtMDBkZS00MGQwLWIyZDEtYTgyNGRlZmZiNjI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Police chief Brody must protect the citizens of Amity after a second monstrous shark begins terrorizing the waters.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Jeannot Szwarc",
+      "Writer": "Peter Benchley, Carl Gottlieb, Howard Sackler",
+      "Actors": "Roy Scheider, Lorraine Gary, Murray Hamilton",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Glass House",
@@ -224,6 +258,23 @@
       "Country": "India"
     },
     {
+      "title": "The Lazarus Project",
+      "netflix_url": "https://www.netflix.com/title/70105820",
+      "year": "2008",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0464041",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI5NGNjNjctNTQwOS00MjZjLWI1YzQtNjYzMmQ1ZjhlM2U1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A paroled former criminal is drawn into an endeavor that puts life with his family at risk and subsequently finds himself living an inexplicable new life working at a psychiatric facility.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "John Glenn",
+      "Writer": "John Glenn, Evan Astrowsky",
+      "Actors": "Paul Walker, Piper Perabo, Brooklynn Proulx",
+      "Language": "English",
+      "Country": "United States, Canada, United Kingdom"
+    },
+    {
       "title": "New York",
       "netflix_url": "https://www.netflix.com/title/70121511",
       "year": "2009",
@@ -239,6 +290,23 @@
       "Actors": "John Abraham, Katrina Kaif, Neil Nitin Mukesh",
       "Language": "Hindi, English",
       "Country": "India, United States"
+    },
+    {
+      "title": "The Roommate",
+      "netflix_url": "https://www.netflix.com/title/70123922",
+      "year": "2011",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt1265990",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMzQwMzMwNF5BMl5BanBnXkFtZTcwNjE5MTUxNA@@._V1_SX300.jpg",
+      "Plot": "When college freshman Sara arrives on campus for the first time, she befriends her roommate, Rebecca, unaware that the girl is becoming dangerously obsessed with her.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Christian E. Christiansen",
+      "Writer": "Sonny Mallhi",
+      "Actors": "Minka Kelly, Leighton Meester, Cam Gigandet",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Cell 211",
@@ -2356,6 +2424,13 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Game Over (Telugu Version)",
+      "netflix_url": "https://www.netflix.com/title/81151878",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Game Over (Hindi Version)",
       "netflix_url": "https://www.netflix.com/title/81151880",
       "year": "2019",
@@ -4159,6 +4234,13 @@
       "imdb_id": null
     },
     {
+      "title": "Boomika (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81496132",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Girl Who Got Away",
       "netflix_url": "https://www.netflix.com/title/81500351",
       "year": "2021",
@@ -4453,6 +4535,13 @@
       "Actors": "N/A",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Beast (English)",
+      "netflix_url": "https://www.netflix.com/title/81579532",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Crime Diaries: The Celebrity Stylist",
@@ -5178,6 +5267,23 @@
       "Actors": "Mãdãlina Ghenea, Ed Westwick, Macarena Gómez",
       "Language": "English",
       "Country": "United Kingdom, France"
+    },
+    {
+      "title": "Blood Vessel",
+      "netflix_url": "https://www.netflix.com/title/81676887",
+      "year": "2023",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt30096240",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5ODMzYTgtNmQ3YS00OTAzLTkyMDEtYWVkNGQ5MDA5NTRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Brought together by chance, six people fleeing a town devastated by oil pollution stow away on a mysterious ship -not realizing the dangers that await.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Adventure, Drama, Thriller",
+      "Director": "Moses Inwang",
+      "Writer": "Musa Jeffery David, Justin Dix, Jordan Prosser",
+      "Actors": "Dibor Adaobi, David Ezekiel, Levi Chikere",
+      "Language": "Ibo",
+      "Country": "Nigeria"
     },
     {
       "title": "Hijack '93",
@@ -6446,6 +6552,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Vadh 2",
+      "netflix_url": "https://www.netflix.com/title/82047260",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30176955",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWRlMGM1NzMtM2U0Ny00ZDk3LWIwMjktYTJjMDkzZDcxN2FhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Dendam Malam Kelam",
       "netflix_url": "https://www.netflix.com/title/82057593",
       "year": "2025",
@@ -6852,6 +6975,20 @@
       "Actors": "Aadhavan M, Umar Farook, S.K. Gaayathri",
       "Language": "Tamil",
       "Country": "India"
+    },
+    {
+      "title": "Mrithyunjay​",
+      "netflix_url": "https://www.netflix.com/title/82735085",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sampradayani Suppini Sudhapoosani",
+      "netflix_url": "https://www.netflix.com/title/82768193",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Caught Stealing",

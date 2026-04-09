@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/5824",
   "movies": [
     {
+      "title": "Money Talks",
+      "netflix_url": "https://www.netflix.com/title/1179583",
+      "year": "1997",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0119695",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2JjM2I0YmMtMzQ3MC00MTc0LWI1MTEtZDVlNTMyMmU0YThhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sought by police and criminals, a small-time hustler makes a deal with a TV newsman for protection.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Brett Ratner",
+      "Writer": "Joel Cohen, Alec Sokolow",
+      "Actors": "Charlie Sheen, Chris Tucker, Heather Locklear",
+      "Language": "English, French",
+      "Country": "United States"
+    },
+    {
       "title": "Agneepath",
       "netflix_url": "https://www.netflix.com/title/235527",
       "year": "1990",
@@ -231,6 +248,23 @@
       "Country": "Switzerland, United Kingdom, United States, Mexico"
     },
     {
+      "title": "Kindergarten Cop",
+      "netflix_url": "https://www.netflix.com/title/671744",
+      "year": "1990",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0099938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyMTIyOTc0N15BMl5BanBnXkFtZTgwODY1NTk4NjE@._V1_SX300.jpg",
+      "Plot": "A tough cop must pose as a kindergarten teacher in order to locate a dangerous criminal's ex-wife, who may hold the key to putting him behind bars.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Ivan Reitman",
+      "Writer": "Murray Salem, Herschel Weingrod, Timothy Harris",
+      "Actors": "Arnold Schwarzenegger, Penelope Ann Miller, Pamela Reed",
+      "Language": "English, Spanish, German",
+      "Country": "United States"
+    },
+    {
       "title": "Sawaal",
       "netflix_url": "https://www.netflix.com/title/70009687",
       "year": "1982",
@@ -348,6 +382,23 @@
       "Actors": "Hrithik Roshan, Abhishek Bachchan, Aishwarya Rai Bachchan",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "American Gangster",
+      "netflix_url": "https://www.netflix.com/title/70060009",
+      "year": "2007",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0765429",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas.",
+      "Type": "movie",
+      "RunTime": "157 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Ridley Scott",
+      "Writer": "Steven Zaillian, Mark Jacobson",
+      "Actors": "Denzel Washington, Russell Crowe, Chiwetel Ejiofor",
+      "Language": "English, Thai, Spanish",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Bordertown",
@@ -711,6 +762,23 @@
       "Country": "United States"
     },
     {
+      "title": "R.I.P.D.",
+      "netflix_url": "https://www.netflix.com/title/70267729",
+      "year": "2013",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0790736",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTYxNzE5N15BMl5BanBnXkFtZTcwMDU1MTQ4OQ@@._V1_SX300.jpg",
+      "Plot": "In the afterlife, Nick Walker, a detective who used to work for the Boston Police Department, is hired by a director of a group of deceased police officers to fight against the renegade ghosts.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Robert Schwentke",
+      "Writer": "Phil Hay, Matt Manfredi, David Dobkin",
+      "Actors": "Ryan Reynolds, Jeff Bridges, Mary-Louise Parker",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Bling Ring",
       "netflix_url": "https://www.netflix.com/title/70271454",
       "year": "2013",
@@ -743,6 +811,23 @@
       "Actors": "Jason Statham, James Franco, Winona Ryder",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "American Hustle",
+      "netflix_url": "https://www.netflix.com/title/70281530",
+      "year": "2013",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1800241",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ2NzEwZGEtYjk1MC00NWFmLTgyYTgtZmRhMTRmOTBlN2U5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild F.B.I. Agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and the Mafia.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Crime, Drama",
+      "Director": "David O. Russell",
+      "Writer": "Eric Warren Singer, David O. Russell",
+      "Actors": "Christian Bale, Amy Adams, Bradley Cooper",
+      "Language": "English, Arabic",
+      "Country": "United States, China"
     },
     {
       "title": "Sabotage",
@@ -2789,6 +2874,23 @@
       "Country": "Italy, France"
     },
     {
+      "title": "Black and Blue",
+      "netflix_url": "https://www.netflix.com/title/81086524",
+      "year": "2019",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt7390646",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFmZjE5NmUtZGFjYi00Zjc0LWIyYzYtZDhlYzVlZDUxY2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A rookie New Orleans police officer is forced to balance her identity as a black woman after she witnesses two corrupt cops committing murder.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Action, Thriller",
+      "Director": "Deon Taylor",
+      "Writer": "Peter A. Dowling",
+      "Actors": "Naomie Harris, Tyrese Gibson, Frank Grillo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Dogwashers",
       "netflix_url": "https://www.netflix.com/title/81089261",
       "year": "2021",
@@ -4524,6 +4626,23 @@
       "Country": "Indonesia, Singapore"
     },
     {
+      "title": "A Day to Die",
+      "netflix_url": "https://www.netflix.com/title/81474293",
+      "year": "2022",
+      "imdb_rating": "3.5",
+      "imdb_id": "tt14412366",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODVlYjc0NDAtZTNjMy00YjNhLTg0ZDQtNDY1NWJiMWI0NGIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Connor Connolly has one day to pay reparations to Tyrone Pettis. He is forced to ask his old military ops crew, led by Brice Mason, to come together to get him two million dollars before he loses everyone he loves in the process.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wes Miller",
+      "Writer": "Rab Berry, Scott Mallace",
+      "Actors": "Kevin Dillon, Bruce Willis, Frank Grillo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Scouts Honor: The Secret Files of the Boy Scouts of America",
       "netflix_url": "https://www.netflix.com/title/81477233",
       "year": "2023",
@@ -4947,6 +5066,23 @@
       "Actors": "Alejandra Alday, Anselmo Apodac, Antonio Baranda",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Caught Out: Crime. Corruption. Cricket.",
+      "netflix_url": "https://www.netflix.com/title/81512107",
+      "year": "2023",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt27055390",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTRlYzE5OTEtMTkzYy00Mjg3LWE2MDQtMjM2OTM3MTI2MGE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "India's biggest match-fixing scandal, the icons caught in its web and the journalists who uncovered the corruption.",
+      "Type": "movie",
+      "RunTime": "77 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Supriya Sobti Gupta",
+      "Writer": "N/A",
+      "Actors": "Aniruddha Bahal, Sharda Ugra, Sriram Karri",
+      "Language": "N/A",
+      "Country": "India"
     },
     {
       "title": "Capturing the Killer Nurse",
@@ -7152,6 +7288,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "The Truth and Tragedy of Moriah Wilson",
+      "netflix_url": "https://www.netflix.com/title/81763772",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32572716",
+      "Poster": "N/A",
+      "Plot": "An intimate portrait of cyclist Moriah Wilson, raised by a fierce, loving family, whose singular drive propelled her to athletic brilliance before her life was tragically cut short by murder.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Marina Zenovich",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Mallari",
       "netflix_url": "https://www.netflix.com/title/81764152",
       "year": "2023",
@@ -7652,6 +7805,23 @@
       "Country": "India"
     },
     {
+      "title": "Vadh 2",
+      "netflix_url": "https://www.netflix.com/title/82047260",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30176955",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWRlMGM1NzMtM2U0Ny00ZDk3LWIwMjktYTJjMDkzZDcxN2FhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Organ Child",
       "netflix_url": "https://www.netflix.com/title/82050407",
       "year": "2025",
@@ -7952,6 +8122,13 @@
       "Actors": "Zo In-sung, Park Jeong-min, Park Hae-joon",
       "Language": "N/A",
       "Country": "South Korea"
+    },
+    {
+      "title": "Mrithyunjay​",
+      "netflix_url": "https://www.netflix.com/title/82735085",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Clika",

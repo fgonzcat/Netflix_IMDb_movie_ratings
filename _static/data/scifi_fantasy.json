@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/9744",
   "movies": [
     {
+      "title": "The Wiz",
+      "netflix_url": "https://www.netflix.com/title/1130238",
+      "year": "1978",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt0078504",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk3MjA2ZjItN2U5Ny00YjgwLTkyN2QtMmZkZDJmYzI1NGVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Harlem schoolteacher Dorothy is miraculously whisked away to an urban fantasy land called Oz, she goes in search of the Wiz, a wizard who can help her get back to Manhattan, along with the Scarecrow, the Tin Man and the Cowar...",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Sidney Lumet",
+      "Writer": "L. Frank Baum, William F. Brown, Joel Schumacher",
+      "Actors": "Diana Ross, Michael Jackson, Nipsey Russell",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Bram Stoker's Dracula",
       "netflix_url": "https://www.netflix.com/title/328942",
       "year": "1992",
@@ -139,6 +156,23 @@
       "Country": "United States, Germany, Canada, United Kingdom"
     },
     {
+      "title": "R.I.P.D.",
+      "netflix_url": "https://www.netflix.com/title/70267729",
+      "year": "2013",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0790736",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTYxNzE5N15BMl5BanBnXkFtZTcwMDU1MTQ4OQ@@._V1_SX300.jpg",
+      "Plot": "In the afterlife, Nick Walker, a detective who used to work for the Boston Police Department, is hired by a director of a group of deceased police officers to fight against the renegade ghosts.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Robert Schwentke",
+      "Writer": "Phil Hay, Matt Manfredi, David Dobkin",
+      "Actors": "Ryan Reynolds, Jeff Bridges, Mary-Louise Parker",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "PK",
       "netflix_url": "https://www.netflix.com/title/70303496",
       "year": "2014",
@@ -154,6 +188,23 @@
       "Actors": "Aamir Khan, Anushka Sharma, Sanjay Dutt",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "The Age of Adaline",
+      "netflix_url": "https://www.netflix.com/title/80014426",
+      "year": "2015",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1655441",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzMTQzMTA2MjheQTJeQWpwZ15BbWU4MDk2MTg2MzUx._V1_SX300.jpg",
+      "Plot": "An ageless woman meets someone who reawakens her passion for life and romance.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "Lee Toland Krieger",
+      "Writer": "J. Mills Goodloe, Salvador Paskowitz",
+      "Actors": "Blake Lively, Michiel Huisman, Harrison Ford",
+      "Language": "English, Portuguese, Italian",
+      "Country": "United States, Canada"
     },
     {
       "title": "Goosebumps",
@@ -188,6 +239,23 @@
       "Actors": "Chloë Grace Moretz, Matthew Zuk, Gabriela Lopez",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Warcraft",
+      "netflix_url": "https://www.netflix.com/title/80093133",
+      "year": "2016",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0803096",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@._V1_SX300.jpg",
+      "Plot": "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Duncan Jones",
+      "Writer": "Charles Leavitt, Duncan Jones",
+      "Actors": "Travis Fimmel, Paula Patton, Ben Foster",
+      "Language": "English",
+      "Country": "United States, China, Canada, Japan"
     },
     {
       "title": "Ludo",
@@ -307,6 +375,23 @@
       "Actors": "Azghar, Divya Dwivedi, Anwar Fatehan",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Jumanji: Welcome to the Jungle",
+      "netflix_url": "https://www.netflix.com/title/80192646",
+      "year": "2017",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt2283362",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Jake Kasdan",
+      "Writer": "Chris McKenna, Erik Sommers, Scott Rosenberg",
+      "Actors": "Dwayne Johnson, Karen Gillan, Kevin Hart",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Bleach",

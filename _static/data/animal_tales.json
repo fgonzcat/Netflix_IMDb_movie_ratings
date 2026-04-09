@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "Madagascar",
+      "netflix_url": "https://www.netflix.com/title/70021636",
+      "year": "2005",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0351283",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjk4OGFmZmYtYWE4NC00MzM4LTkwZTItODdhMjk3NTZjMmI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of animals who have spent all their life in a New York zoo end up in the jungles of Madagascar, and must adjust to living in the wild.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Eric Darnell, Tom McGrath",
+      "Writer": "Mark Burton, Billy Frolick, Eric Darnell",
+      "Actors": "Chris Rock, Ben Stiller, David Schwimmer",
+      "Language": "English, Portuguese, Spanish, German, French, American Sign ",
+      "Country": "United States, Canada, United Kingdom"
+    },
+    {
       "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
       "netflix_url": "https://www.netflix.com/title/70021655",
       "year": "2005",
@@ -50,6 +67,23 @@
       "Director": "Tim Johnson, Karey Kirkpatrick",
       "Writer": "Len Blum, Lorne Cameron, David Hoselton",
       "Actors": "Bruce Willis, Garry Shandling, Steve Carell",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Madagascar: Escape 2 Africa",
+      "netflix_url": "https://www.netflix.com/title/70099116",
+      "year": "2008",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0479952",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_SX300.jpg",
+      "Plot": "The Madagascar animals fly back to New York City, but crash-land on an African nature reserve in Kenya, where they meet others of their own kind, and Alex especially discovers his royal heritage as prince of a lion pride.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Eric Darnell, Tom McGrath",
+      "Writer": "Etan Cohen, Eric Darnell, Tom McGrath",
+      "Actors": "Ben Stiller, Chris Rock, David Schwimmer",
       "Language": "English",
       "Country": "United States"
     },
@@ -93,6 +127,23 @@
       "Actors": "Frank Welker, Wally Wingert, Gregg Berger",
       "Language": "English, French",
       "Country": "France, United States, India, Singapore"
+    },
+    {
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "netflix_url": "https://www.netflix.com/title/70216224",
+      "year": "2012",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt1277953",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM5OWRiZTAtOTNkMS00NzNhLTkwYmYtMWI1MzkyMjE3MWE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Madagascar animals join a struggling European circus to get back to New York, but find themselves being pursued by a psychotic animal-control officer.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Eric Darnell, Tom McGrath, Conrad Vernon",
+      "Writer": "Eric Darnell, Noah Baumbach, Alejandro Bien-Willner",
+      "Actors": "Ben Stiller, Jada Pinkett Smith, Chris Rock",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Oscar's Oasis",
@@ -161,6 +212,23 @@
       "Actors": "Jesse Eisenberg, Anne Hathaway, Jemaine Clement",
       "Language": "English, Portuguese",
       "Country": "United States, Iraq, Canada"
+    },
+    {
+      "title": "Penguins of Madagascar: The Movie",
+      "netflix_url": "https://www.netflix.com/title/80013941",
+      "year": "2014",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1911658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1_SX300.jpg",
+      "Plot": "Skipper, Kowalski, Rico, and Private join forces with the secret organization North Wind in an effort to stop a terrible villain from wiping out all the penguins in the world.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Eric Darnell, Simon J. Smith",
+      "Writer": "Michael Colton, John Aboud, Brandon Sawyer",
+      "Actors": "Tom McGrath, Chris Miller, Christopher Knights",
+      "Language": "English, Italian, Mandarin, Spanish, Armenian",
+      "Country": "United States, Australia, India, Japan, Finland"
     },
     {
       "title": "Octonauts",
@@ -246,6 +314,23 @@
       "Actors": "Ashleigh Ball, Charles Demers, Rebecca Husain",
       "Language": "English",
       "Country": "Australia, Canada"
+    },
+    {
+      "title": "The Secret Life of Pets",
+      "netflix_url": "https://www.netflix.com/title/80095314",
+      "year": "2016",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt2709768",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_SX300.jpg",
+      "Plot": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Chris Renaud",
+      "Writer": "Cinco Paul, Ken Daurio, Brian Lynch",
+      "Actors": "Louis C.K., Eric Stonestreet, Kevin Hart",
+      "Language": "English",
+      "Country": "Japan, United States"
     },
     {
       "title": "ALVINNN!!! And the Chipmunks",
@@ -1925,7 +2010,7 @@
     {
       "title": "Lola the Cow’s Adventures at the Farm",
       "netflix_url": "https://www.netflix.com/title/82695045",
-      "year": null,
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },

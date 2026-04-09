@@ -209,9 +209,19 @@
     {
       "title": "Southland",
       "netflix_url": "https://www.netflix.com/title/70157249",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2013",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt1299368",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwNzQ4MTMyMF5BMl5BanBnXkFtZTcwMDk3NTYyNw@@._V1_SX300.jpg",
+      "Plot": "The lives of police officers working for the Los Angeles Police Department.",
+      "Type": "series",
+      "RunTime": "42 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "Ann Biderman",
+      "Actors": "Michael Cudlitz, Shawn Hatosy, Regina King",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Martin",
@@ -340,6 +350,23 @@
       "imdb_id": null
     },
     {
+      "title": "Portlandia",
+      "netflix_url": "https://www.netflix.com/title/70185015",
+      "year": "2018",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt1780441",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmNmNmYyOTMtZWFjNi00YWJmLWJhMDUtM2NjYjA5OTQ5MmRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A sketch-comedy series that parodies life in Portland, Oregon.",
+      "Type": "series",
+      "RunTime": "22 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Fred Armisen, Carrie Brownstein, Jonathan Krisel",
+      "Actors": "Fred Armisen, Carrie Brownstein, Kyle MacLachlan",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Scandal",
       "netflix_url": "https://www.netflix.com/title/70197057",
       "year": "2017",
@@ -355,6 +382,23 @@
       "Actors": "Daemon Pedroza, David De Leon, Arlene Cavazos",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "DEATH NOTE",
+      "netflix_url": "https://www.netflix.com/title/70204970",
+      "year": "2006",
+      "imdb_rating": "8.9",
+      "imdb_id": "tt0877057",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgyZDhmMTEtZDFhNi00MTc4LTg3NjUtYWJlNGE5Mzk2NzMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+      "Type": "series",
+      "RunTime": "24 min",
+      "Genre": "Animation, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mamoru Miyano, Brad Swaile, Vincent Tong",
+      "Language": "Japanese, English",
+      "Country": "Japan"
     },
     {
       "title": "InuYasha",
@@ -619,6 +663,23 @@
       "Country": "Ireland, Canada"
     },
     {
+      "title": "Borgen",
+      "netflix_url": "https://www.netflix.com/title/70302482",
+      "year": "2012",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt1526318",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWMyY2Y3NTktMjU2NC00NGExLWFjMDEtMDA2MjRkMmQzN2Q0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A political drama about a prime minister's rise to power, and how power changes a prime minister.",
+      "Type": "series",
+      "RunTime": "58 min",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Adam Price",
+      "Actors": "Sidse Babett Knudsen, Birgitte Hjort Sørensen, Søren Malling",
+      "Language": "Danish",
+      "Country": "Denmark"
+    },
+    {
       "title": "Broadchurch",
       "netflix_url": "https://www.netflix.com/title/70302484",
       "year": "2017",
@@ -755,6 +816,23 @@
       "Country": "Philippines"
     },
     {
+      "title": "Unbreakable Kimmy Schmidt",
+      "netflix_url": "https://www.netflix.com/title/80025384",
+      "year": "2019",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt3339966",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgyNTQyNjUwN15BMl5BanBnXkFtZTgwNjMwNjUzNzM@._V1_SX300.jpg",
+      "Plot": "A woman is rescued from a doomsday cult and starts life over again in New York City.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Robert Carlock, Tina Fey",
+      "Actors": "Ellie Kemper, Jane Krakowski, Tituss Burgess",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Peppa Pig",
       "netflix_url": "https://www.netflix.com/title/80025494",
       "year": "2025",
@@ -787,6 +865,23 @@
       "Actors": "Claire Foy, Olivia Colman, Imelda Staunton",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Sense8",
+      "netflix_url": "https://www.netflix.com/title/80025744",
+      "year": "2018",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt2431438",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_SX300.jpg",
+      "Plot": "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world's order.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "J. Michael Straczynski, Lana Wachowski, Lilly Wachowski",
+      "Actors": "Bae Doona, Jamie Clayton, Tina Desai",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "I Hear Your Voice",
@@ -1199,9 +1294,36 @@
     {
       "title": "Alias Grace",
       "netflix_url": "https://www.netflix.com/title/80119411",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2017",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt1034007",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI4OTI1NTkwNV5BMl5BanBnXkFtZTgwMDc0ODc0MzI@._V1_SX300.jpg",
+      "Plot": "Grace, an Irish immigrant in 19th-century Canada, is convicted of the murder of her employer. However, things take a different turn when a psychiatrist arrives to analyze her mental state.",
+      "Type": "series",
+      "RunTime": "267 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Sarah Gadon, Edward Holcroft, Rebecca Liddiard",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
+      "title": "Call My Agent!",
+      "netflix_url": "https://www.netflix.com/title/80133335",
+      "year": "2021",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt4277922",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTJkZDVkMWEtZmNmMC00YjRhLWFjOGEtZWMzNDFkZDdjZmQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "French serial about the lives and jobs of people working at a talent agency in Paris.",
+      "Type": "series",
+      "RunTime": "52 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Fanny Herrero",
+      "Actors": "Camille Cottin, Thibault de Montalembert, Grégory Montel",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Anne with an E",
@@ -1219,6 +1341,23 @@
       "Actors": "Amybeth McNulty, Geraldine James, R.H. Thomson",
       "Language": "English, French, Micmac",
       "Country": "Canada"
+    },
+    {
+      "title": "Bonus Family",
+      "netflix_url": "https://www.netflix.com/title/80141270",
+      "year": "2021",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt15742294",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ3YjM5MDItN2E1Yy00ZDg1LWFlODEtZGFmYWJkNjVmZTdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows Lisa and Patrik who have patched up their marriage after Patrik's infidelity, but everything turns upside down when they receive a letter from the district court about their divorce papers, which Lisa had forgotten she had...",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Felix Herngren",
+      "Writer": "Moa Herngren",
+      "Actors": "Jerka Johansson, Johan Ulveson, Vera Vitali",
+      "Language": "Swedish",
+      "Country": "Sweden"
     },
     {
       "title": "Hip-Hop Evolution",
@@ -1257,9 +1396,19 @@
     {
       "title": "Unbelievable",
       "netflix_url": "https://www.netflix.com/title/80153467",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2019",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt7909970",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTNhOTViZWYtY2UyMS00ZjkwLTljMzUtYzkwMTM5MDFkYjQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A teenager is charged with lying about being raped, but two detectives follow the path to the truth.",
+      "Type": "series",
+      "RunTime": "385 min",
+      "Genre": "Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Susannah Grant, Michael Chabon, Ayelet Waldman",
+      "Actors": "Kaitlyn Dever, Toni Collette, Merritt Wever",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Queer Eye",
@@ -1320,6 +1469,23 @@
       "Country": "United States"
     },
     {
+      "title": "Love, Death & Robots",
+      "netflix_url": "https://www.netflix.com/title/80174608",
+      "year": "2025",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt9561862",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDY3OTZiYzktN2U5My00MzRhLWJiZjItZjNlZmM3OGViZmFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A collection of animated short stories that span various genres including science fiction, fantasy, horror and comedy.",
+      "Type": "series",
+      "RunTime": "15 min",
+      "Genre": "Animation, Short, Action",
+      "Director": "N/A",
+      "Writer": "Tim Miller",
+      "Actors": "Fred Tatasciore, Scott Whyte, Emily O'Brien",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The End of the F***ing World",
       "netflix_url": "https://www.netflix.com/title/80175722",
       "year": "2019",
@@ -1335,6 +1501,13 @@
       "Actors": "Jessica Barden, Alex Lawther, Steve Oram",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Men on a Mission",
+      "netflix_url": "https://www.netflix.com/title/80176842",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Killing Eve",
@@ -1463,6 +1636,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Letdown",
+      "netflix_url": "https://www.netflix.com/title/80198635",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt7320300",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjljODIzMGQtMDA4ZS00OGNjLTliZjgtNmQ0YWI2Y2JmODNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Audrey is determined not to be defined by motherhood. In theory, this seems fairly easy. In practice, her career-focused husband, self-obsessed mother, and fancy-free best friend make it damn-near impossible.",
+      "Type": "series",
+      "RunTime": "31S min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Alison Bell, Sarah Scheller",
+      "Actors": "Alison Bell, Duncan Fellows, Leon Ford",
+      "Language": "English",
+      "Country": "Australia"
+    },
+    {
       "title": "Ada Twist, Scientist",
       "netflix_url": "https://www.netflix.com/title/80198673",
       "year": "2023",
@@ -1478,6 +1668,23 @@
       "Actors": "Nicholas Crovetti, Kaya Jackson, Corey J",
       "Language": "English",
       "Country": "United States, Ireland"
+    },
+    {
+      "title": "Kim's Convenience",
+      "netflix_url": "https://www.netflix.com/title/80199128",
+      "year": "2021",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt5912064",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQxNzYyMTgtOTJmNy00ZjE3LTk0YTctMTZlZDI3OThkNDNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The misadventures of a Korean-Canadian family running a convenience store.",
+      "Type": "series",
+      "RunTime": "22 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paul Sun-Hyung Lee, Jean Yoon, Andrea Bang",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "When They See Us",
@@ -1582,6 +1789,23 @@
       "Country": "United States, Mexico, France, Canada"
     },
     {
+      "title": "Tales of the City",
+      "netflix_url": "https://www.netflix.com/title/80211563",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt7087260",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDZmMGI2ODUtNmNmYS00M2IyLTgxYWYtOTU1NWFkNGNmNmVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. \"Tales of the City\" focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrig...",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Lauren Morelli",
+      "Actors": "Laura Linney, Elliot Page, Paul Gross",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Russian Doll",
       "netflix_url": "https://www.netflix.com/title/80211627",
       "year": "2022",
@@ -1601,7 +1825,24 @@
     {
       "title": "Prison Playbook",
       "netflix_url": "https://www.netflix.com/title/80214406",
-      "year": null,
+      "year": "2017",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt7622902",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDY0NzM1YTAtNDQ0NC00YTI1LTg5NzctMzcwNDMzOGEzODVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Baseball pitcher Kim Je-hyeok becomes a convict overnight after being sent to prison for defending his sister from a sexual assault, days before he was due to fly to the US to join the Boston Red Sox.",
+      "Type": "series",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Park Hae-soo, Jung Kyung-ho, Krystal Jung",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Mai: A Mother's Rage",
+      "netflix_url": "https://www.netflix.com/title/80216058",
+      "year": "2022",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -1691,6 +1932,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Lady in Dignity",
+      "netflix_url": "https://www.netflix.com/title/80226168",
+      "year": "2017",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt6898288",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA4YTliNGItNzAzZS00MzcxLWI0NmQtNjY1Y2RhNzFkNTlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of an elegant Cheongdam-dong woman named Woo Ah Jin, who relished a life of luxury by marrying a quasi-chaebol son, until Park Bok Ja walks into her life.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Drama, Mystery, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kim Hee-seon, Kim Seon-a, Jung Sang-hoon",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Dave Chappelle: Equanimity & The Bird Revelation",
       "netflix_url": "https://www.netflix.com/title/80230402",
       "year": "2017",
@@ -1734,9 +1992,19 @@
     {
       "title": "Family Reunion",
       "netflix_url": "https://www.netflix.com/title/80234451",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28514116",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTZjNTE2NzctMTk3YS00YmFlLWE5Y2UtMjNlMDhiNjk5OTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four sisters, awaited by their parents who run a tangyuan shop, strive for fulfilling lives. Family reunions involve embracing struggles, resolving s, and cherishing one another.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Tina Chou, Lindsey Huang, Venus Huang",
+      "Language": "Min Nan",
+      "Country": "Taiwan"
     },
     {
       "title": "Trash Truck",
@@ -1905,6 +2173,40 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Dolly Parton, Sarah Shahi, Julianne Hough",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Halston",
+      "netflix_url": "https://www.netflix.com/title/80245103",
+      "year": "2021",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt9569546",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2NjMDE5YTAtNDA3ZS00YWRjLTllZWItMzkxYTczZTVhNTY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of a man who leverages his single, invented name into a worldwide fashion empire that's synonymous with luxury, sex, status, and fame, literally defining the era.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ewan McGregor, Rebecca Dayan, David Pittu",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "I Think You Should Leave with Tim Robinson",
+      "netflix_url": "https://www.netflix.com/title/80986854",
+      "year": "2023",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt10050772",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg3MzdmMzctNjEyNC00ZDY3LTg1NzUtYzE1MjliYWIyOTg1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A sketch show where Tim Robinson and his guests spend each segment driving someone to the point of needing--or desperately wanting--to leave.",
+      "Type": "series",
+      "RunTime": "16 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Zach Kanin, Tim Robinson",
+      "Actors": "Tim Robinson, Sam Richardson, Patti Harrison",
       "Language": "English",
       "Country": "United States"
     },
@@ -2079,6 +2381,23 @@
       "Country": "United States"
     },
     {
+      "title": "Unorthodox",
+      "netflix_url": "https://www.netflix.com/title/81019069",
+      "year": "2020",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt9815454",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWE2N2E4MDMtZmRkZi00YzNmLWJlZDMtMjY5NzI2Y2E4MWI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Story of a young ultra-Orthodox Jewish woman who flees her arranged marriage and religious community to start a new life abroad.",
+      "Type": "series",
+      "RunTime": "213 min",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Anna Winger",
+      "Actors": "Shira Haas, Amit Rahav, Jeff Wilbusch",
+      "Language": "German, English, Yiddish, Arabic, Polish, Russian",
+      "Country": "Germany"
+    },
+    {
       "title": "The Queen of Flow",
       "netflix_url": "https://www.netflix.com/title/81022683",
       "year": "2026",
@@ -2152,6 +2471,23 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Cheer",
+      "netflix_url": "https://www.netflix.com/title/81039393",
+      "year": "2022",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt11426660",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDhmMDZmNDItNzUwMy00YjJjLWE0NTQtM2E2YmFlMWRlYzU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the small town of Corsicana, Texas, hard-driving head cheer coach Monica Aldama demands perfection from her team of competitive college athletes.",
+      "Type": "series",
+      "RunTime": "355 min",
+      "Genre": "Documentary, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Monica Aldama, Gabi Butler, La'Darius Marshall",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Squid Game",
@@ -2637,6 +2973,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Kleo",
+      "netflix_url": "https://www.netflix.com/title/81216677",
+      "year": "2024",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt15135104",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGZlYWZmYjktYmM0ZC00MTIyLWFlZmMtYzhiNzc3OGMzNDJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After the fall of the Berlin Wall, a former spy killer is set free and embarks on a revenge spree against the people who conspired to betray her.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Hanno Hackfort, Bob Konrad, Richard Kropf",
+      "Actors": "Jella Haase, Dimitrij Schaad, Julius Feldmeier",
+      "Language": "German, Spanish, English",
+      "Country": "Germany"
+    },
+    {
       "title": "Baby Reindeer",
       "netflix_url": "https://www.netflix.com/title/81219887",
       "year": "2024",
@@ -2707,9 +3060,19 @@
     {
       "title": "Trial by Fire",
       "netflix_url": "https://www.netflix.com/title/81224775",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2023",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt11611698",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjI5NWRkY2ItNThlMS00NGE0LWFjMmMtZDQ4MWE0YmQ4NzU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Difficult yet resilient journey of two parents - Neelam and Shekhar Krishnamoorthy, trying to seek justice over the last two decades.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, History",
+      "Director": "N/A",
+      "Writer": "Kevin Luperchio, Prashant Nair",
+      "Actors": "Abhay Deol, Rajshri Deshpande, Punit Tiwari",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Kung Fu Panda: The Dragon Knight",
@@ -3141,6 +3504,23 @@
       "Country": "United States, France"
     },
     {
+      "title": "New World",
+      "netflix_url": "https://www.netflix.com/title/81436207",
+      "year": "2021",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt15496866",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjk1NzlhMjEtNjMxOC00NWI3LWI3OGMtNjkyYjY0OWE4ZTdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this reality show, six celebs strategize and sabotage to earn virtual currency they can cash in on the final day of their stay on a utopian island.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "LOONA, Lee Seung-gi, Kim Heechul",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "The Gentlemen",
       "netflix_url": "https://www.netflix.com/title/81437051",
       "year": "2024",
@@ -3260,6 +3640,13 @@
       "Country": "Sweden"
     },
     {
+      "title": "Inspector Koo",
+      "netflix_url": "https://www.netflix.com/title/81486374",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Dear Child",
       "netflix_url": "https://www.netflix.com/title/81513233",
       "year": "2023",
@@ -3279,9 +3666,19 @@
     {
       "title": "Mask Girl",
       "netflix_url": "https://www.netflix.com/title/81516491",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2023",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt26258200",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDYxNmFkYmItNGMzYS00NzEwLThlYmYtNWZhOTAxZWQxZTEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An office worker who is insecure about her looks becomes a masked internet personality by night until a chain of ill-fated events overtakes her life.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Horror",
+      "Director": "N/A",
+      "Writer": "Mae Mi",
+      "Actors": "Im Jin-ah, Go Hyun-jung, Lee Han-byeol",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Twenty Five Twenty One",
@@ -3333,6 +3730,23 @@
       "Actors": "Song Hye-kyo, Lee Do-hyun, Lim Ji-yeon",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Community Squad",
+      "netflix_url": "https://www.netflix.com/title/81520490",
+      "year": "2025",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt26451138",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTY3YzJiNWItZjY1YS00OThjLTkwNjMtYjdmY2NlY2I1NzJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A ragtag civilian patrol squad created to improve the image of the police inadvertently put their lives at risk when confronting some strange criminals.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Santiago Korovsky, Pilar Gamboa, Daniel Hendler",
+      "Language": "Spanish",
+      "Country": "Argentina"
     },
     {
       "title": "The Penthouse: War in Life",
@@ -3442,6 +3856,23 @@
       "Actors": "Park Bo-young, Yeon Woo-jin, Jang Dong-yoon",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Tore",
+      "netflix_url": "https://www.netflix.com/title/81589003",
+      "year": "2023",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt24132876",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODVkZDY1YWYtMjNmNS00MGNiLWE4NGYtNDFiNzRjZmRiOGMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When 27-year-old Tore loses the most important person in his life in a garbage truck accident, he does everything he can to suppress his grief.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "William Spetz",
+      "Actors": "Per Svensson, Peter Haber, Lotta Tejle",
+      "Language": "Swedish",
+      "Country": "Sweden"
     },
     {
       "title": "The Tourist",
@@ -3577,6 +4008,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Siren: Survive the Island",
+      "netflix_url": "https://www.netflix.com/title/81631016",
+      "year": "2023",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt27664503",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTRiYzhjMzItNjBiZC00NTQ4LTlhYjItNTAzMjM3NDU4OGYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "24 female police officers, firefighters, bodyguards, soldiers, athletes and stuntwomen team up by profession to compete for survival on a remote island.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Game-Show, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kang Eun-mi, Kim Eun-byul, Kim Ji-hye",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Apple Cider Vinegar",
       "netflix_url": "https://www.netflix.com/title/81637595",
       "year": "2025",
@@ -3607,6 +4055,23 @@
       "Director": "N/A",
       "Writer": "Yang Hee Seung",
       "Actors": "Jeon Do-yeon, Jung Kyung-ho, Lee Bong-ryun",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "The Devil's Plan",
+      "netflix_url": "https://www.netflix.com/title/81653386",
+      "year": "2025",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt27995115",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmE3ZWZkMWQtNzY3Ni00MzZiLTljYTItMTM2MmZlZjE0MjAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this competition of intelligence, contestants face off in games of wit and strategy to be crowned winner and go home with the ultimate prize.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Game-Show, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Seungkwan, Seo Yoo-min, Kwak Joon-bin",
       "Language": "Korean",
       "Country": "South Korea"
     },
@@ -3788,6 +4253,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Kian’s Bizarre B&B",
+      "netflix_url": "https://www.netflix.com/title/81902047",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33047061",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTdmYTMwMjMtNjlkYS00YjQ5LTg4MjYtMmI1YmFhOTkwNWQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Kian84 manages an unconventional guesthouse, Kian Bizarre B&amp;B, on Ulleungdo Island, providing a distinctive experience for young guests. The establishment combines elements of healing and humor, presented through Kian84's distinct...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kian84, Jin, Ji Ye-eun",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "The Tiny Chef Show",
       "netflix_url": "https://www.netflix.com/title/81944045",
       "year": "2022",
@@ -3803,6 +4285,23 @@
       "Actors": "Matt Hutchinson, Odessa A'zion, Michael-Leon Wooley",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Blank Menu for You",
+      "netflix_url": "https://www.netflix.com/title/81988907",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37050675",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2I2NjA2YWEtY2E5Yy00MzNlLTk0MmItMDI2NGYzOTFjM2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this quirky eatery, guests place open-ended orders that chefs interpret into custom dishes - a delectable talk show where every story inspires a meal.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Talk-Show",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kang Rok Choi, Joo Hyun-young, Moon Sang-hoon",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Conan O'Brien: The Kennedy Center Mark Twain Prize for American Humor",
@@ -3854,6 +4353,23 @@
       "Actors": "Ophelia Lovibond, Jessica Lowe, Oscar Montoya",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "This Is Going To Hurt",
+      "netflix_url": "https://www.netflix.com/title/82135567",
+      "year": "2022",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt8681148",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjhlZmMyOWQtOGRjMi00NjFhLTljMmQtY2RkZTE0ODA5YzUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set on Labour Ward with all its hilarity and heart-lifting highs but also its gut-wrenching lows, the show delivers a brutally honest depiction of life as a junior doctor on the wards, and the toll the job can take back home.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Adam Kay",
+      "Actors": "Ben Whishaw, Ambika Mod, Michele Austin",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Doc",

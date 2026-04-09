@@ -2886,6 +2886,23 @@
       "Country": "Chile"
     },
     {
+      "title": "Criminal: Spain",
+      "netflix_url": "https://www.netflix.com/title/81020523",
+      "year": "2019",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt10986050",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzI5MTc1MGUtNzNlYy00YjA4LWI3MTEtN2ExMzljYTczOWUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Psychological games abound between detectives and suspects in a tense interrogation room, where the search for answers sometimes comes at a moral cost.",
+      "Type": "series",
+      "RunTime": "40 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Jim Field Smith, George Kay",
+      "Actors": "Emma Suárez, Jorge Bosch, Álvaro Cervantes",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "Control Z",
       "netflix_url": "https://www.netflix.com/title/81021245",
       "year": "2022",
@@ -4570,6 +4587,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Si saben como me pongo 2",
+      "netflix_url": "https://www.netflix.com/title/81211965",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt21278968",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYrwNIx2aqqCSGFSSpgdvRuZEb77BZZ7gDk9lSRH2f0vGaB7nczph1Fq2lWlDvR61l8nkJg_SbEf0FRzseRTPmmiRdkKApiCz4tj.jpg?r=6da",
+      "Plot": "El Encanto vuelve a recibir a cuatro parejas --entre las que se incluye un mentiroso, una adicta al sexo y un ladrón-- que buscan mejorar su relación.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Comedy",
+      "Director": "Fernando Ayllón",
+      "Writer": "N/A",
+      "Actors": "Joavany Alvarez, Xilena Aycardi, Ana Cristina Botero",
+      "Language": "Spanish",
+      "Country": "Colombia"
+    },
+    {
       "title": "Too Hot To Handle: Latino",
       "netflix_url": "https://www.netflix.com/title/81212545",
       "year": "2021",
@@ -5800,9 +5834,19 @@
     {
       "title": "Love Never Lies",
       "netflix_url": "https://www.netflix.com/title/81394999",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt14540924",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzE2NDlmMDAtYjNlMS00OThkLTk3OTUtZDMzNWU2ODBiZjFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Six couples are subjected to an Eye Detect lie detector test in a reality show where lies cost money, and trust come with a juicy cash prize.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mónica Naranjo, Elias Argentiere, Cécile Heredia",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "High Heat",
@@ -6426,6 +6470,23 @@
       "Actors": "Salvador Lam, Xanic, Michael Bauer",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Okupas",
+      "netflix_url": "https://www.netflix.com/title/81443363",
+      "year": "2020",
+      "imdb_rating": "8.9",
+      "imdb_id": "tt0289649",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODExMTliMjAtNzc2ZS00YTM3LWE2NDAtNDI5NjI2NWYwYjY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "4 young men with different backgrounds merge in the same house and have to face new experiences living in a stolen house, being prosecuted by the police and other gangs.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Crime, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rodrigo de la Serna, Diego Alonso Gómez, Ariel Staltari",
+      "Language": "Spanish",
+      "Country": "Argentina"
     },
     {
       "title": "Smiley",
@@ -9595,6 +9656,13 @@
       "Actors": "Mariana Calderón, Omar Chaparro, Natalia Reyes",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "The Giant Falls",
+      "netflix_url": "https://www.netflix.com/title/81947520",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "I Am Not Mendoza",

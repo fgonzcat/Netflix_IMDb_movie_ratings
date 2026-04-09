@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "Ghostbusters",
+      "netflix_url": "https://www.netflix.com/title/541018",
+      "year": "1984",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0087332",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Armed with proton packs, four paranormal investigators battle mischievous ghouls in New York.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Comedy, Fantasy",
+      "Director": "Ivan Reitman",
+      "Writer": "Dan Aykroyd, Harold Ramis",
+      "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Stephen King's Sleepwalkers",
       "netflix_url": "https://www.netflix.com/title/60003974",
       "year": "1992",
@@ -112,6 +129,23 @@
       "Country": "United States"
     },
     {
+      "title": "R.I.P.D.",
+      "netflix_url": "https://www.netflix.com/title/70267729",
+      "year": "2013",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0790736",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTYxNzE5N15BMl5BanBnXkFtZTcwMDU1MTQ4OQ@@._V1_SX300.jpg",
+      "Plot": "In the afterlife, Nick Walker, a detective who used to work for the Boston Police Department, is hired by a director of a group of deceased police officers to fight against the renegade ghosts.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Robert Schwentke",
+      "Writer": "Phil Hay, Matt Manfredi, David Dobkin",
+      "Actors": "Ryan Reynolds, Jeff Bridges, Mary-Louise Parker",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Ouija",
       "netflix_url": "https://www.netflix.com/title/70305901",
       "year": "2014",
@@ -151,6 +185,23 @@
       "year": "2007",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Hotel Transylvania 2",
+      "netflix_url": "https://www.netflix.com/title/80048061",
+      "year": "2015",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt2510894",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Genndy Tartakovsky",
+      "Writer": "Robert Smigel, Adam Sandler, Todd Durham",
+      "Actors": "Adam Sandler, Andy Samberg, Selena Gomez",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Ghostbusters: Answer the Call",

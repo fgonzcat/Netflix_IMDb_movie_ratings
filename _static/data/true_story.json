@@ -112,6 +112,23 @@
       "Country": "United States"
     },
     {
+      "title": "American Gangster",
+      "netflix_url": "https://www.netflix.com/title/70060009",
+      "year": "2007",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0765429",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas.",
+      "Type": "movie",
+      "RunTime": "157 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Ridley Scott",
+      "Writer": "Steven Zaillian, Mark Jacobson",
+      "Actors": "Denzel Washington, Russell Crowe, Chiwetel Ejiofor",
+      "Language": "English, Thai, Spanish",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Ip Man",
       "netflix_url": "https://www.netflix.com/title/70118799",
       "year": "2008",
@@ -416,6 +433,23 @@
       "Actors": "Jamie Dornan, Emmanuelle Seigner, Mark Strong",
       "Language": "English, Irish Gaelic, French, Spanish",
       "Country": "Ireland, South Africa"
+    },
+    {
+      "title": "Everest",
+      "netflix_url": "https://www.netflix.com/title/80046309",
+      "year": "2015",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt2719848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDAzOTYxMTctY2ViNi00NDI3LTgwMGItY2FhN2JjZWE5MjRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On May 10, 1996, mountain guides Rob Hall and Scott Fischer combine their expedition teams for a final ascent to the summit of Mount Everest. With little warning, a storm strikes the mountain and the climbers must now battle to su...",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "Baltasar Kormákur",
+      "Writer": "William Nicholson, Simon Beaufoy",
+      "Actors": "Jason Clarke, Ang Phula Sherpa, Thomas M. Wright",
+      "Language": "English, Russian",
+      "Country": "United Kingdom, Iceland, United States"
     },
     {
       "title": "First They Killed My Father",
@@ -1389,6 +1423,23 @@
       "Actors": "Gary Oldman, Antonio Banderas, AJ Meijer",
       "Language": "English, Mandarin, Spanish, Russian",
       "Country": "United States"
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "netflix_url": "https://www.netflix.com/title/80994899",
+      "year": "2018",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt1727824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
+      "Plot": "With his impeccable vocal abilities, Freddie Mercury and his rock band, Queen, achieve superstardom. However, amidst his skyrocketing success, he grapples with his ego, sexuality and a fatal illness.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Bryan Singer",
+      "Writer": "Anthony McCarten, Peter Morgan",
+      "Actors": "Rami Malek, Lucy Boynton, Gwilym Lee",
+      "Language": "English, British Sign ",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Walk. Ride. Rodeo.",
@@ -3247,6 +3298,23 @@
       "Actors": "Candice King, Michael Roark, Wendie Malick",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Giving Hope: The Ni’cola Mitchell Story",
+      "netflix_url": "https://www.netflix.com/title/82158679",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt26735466",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDJmMGNiM2ItY2YyYS00ZjJiLTk2OWUtZGFkNzNlYTI4OTZmXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_SX300.jpg",
+      "Plot": "The story of Ni'cola Mitchell, a victim of unspeakable sexual violence who grew up to be a best-selling author and inspirational speaker, founding an organization dedicated to saving at risk girls from abuse and exploitation.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Biography",
+      "Director": "Alpha Nicky",
+      "Writer": "Adam Rockoff",
+      "Actors": "Tatyana Ali, Kudakwashe Rutendo, Gary Brennan",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Eden",

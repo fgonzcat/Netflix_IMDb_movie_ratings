@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/3327",
   "movies": [
     {
+      "title": "The Fifth Element",
+      "netflix_url": "https://www.netflix.com/title/1154386",
+      "year": "1997",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0119116",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODU4ZTE5MWYtNmY2MC00NDkyLTk0NDgtNTk5YjgzMzc4NmQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the colorful future, cabdriver Korben Dallas unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep the great evil and Jean-Baptiste Emmanuel Zorg at bay.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Luc Besson",
+      "Writer": "Luc Besson, Robert Mark Kamen",
+      "Actors": "Bruce Willis, Milla Jovovich, Gary Oldman",
+      "Language": "English, Swedish, German, Arabic, Egyptian (Ancient)",
+      "Country": "France, United Kingdom"
+    },
+    {
       "title": "Dune",
       "netflix_url": "https://www.netflix.com/title/464403",
       "year": "1984",

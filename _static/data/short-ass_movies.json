@@ -306,6 +306,23 @@
       "Country": "United States"
     },
     {
+      "title": "Along Came Polly",
+      "netflix_url": "https://www.netflix.com/title/60033294",
+      "year": "2004",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0343135",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxMDMwODg3Nl5BMl5BanBnXkFtZTYwMTM4NTY3._V1_SX300.jpg",
+      "Plot": "A buttoned-up newlywed finds his strictly organized life descend into chaos when he falls in love with an old classmate.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Romance",
+      "Director": "John Hamburg",
+      "Writer": "John Hamburg",
+      "Actors": "Ben Stiller, Jennifer Aniston, Debra Messing",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "She's Gotta Have It",
       "netflix_url": "https://www.netflix.com/title/60034929",
       "year": "1986",
@@ -687,6 +704,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Roommate",
+      "netflix_url": "https://www.netflix.com/title/70123922",
+      "year": "2011",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt1265990",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMzQwMzMwNF5BMl5BanBnXkFtZTcwNjE5MTUxNA@@._V1_SX300.jpg",
+      "Plot": "When college freshman Sara arrives on campus for the first time, she befriends her roommate, Rebecca, unaware that the girl is becoming dangerously obsessed with her.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Christian E. Christiansen",
+      "Writer": "Sonny Mallhi",
+      "Actors": "Minka Kelly, Leighton Meester, Cam Gigandet",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Naruto Shippuden: The Movie",
       "netflix_url": "https://www.netflix.com/title/70124999",
       "year": "2007",
@@ -736,6 +770,13 @@
       "Actors": "Madeline Carroll, Callan McAuliffe, Rebecca De Mornay",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Saw: The Final Chapter",
+      "netflix_url": "https://www.netflix.com/title/70139391",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Bad Teacher",
@@ -1007,6 +1048,23 @@
       "Country": "United States, Brazil"
     },
     {
+      "title": "Ginger & Rosa",
+      "netflix_url": "https://www.netflix.com/title/70257413",
+      "year": "2012",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt2115295",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjcwMzU3OV5BMl5BanBnXkFtZTcwNTUwOTQ3OA@@._V1_SX300.jpg",
+      "Plot": "A look at the lives of two teenage girls - inseparable friends Ginger and Rosa -- growing up in 1960s London as the Cuban Missile Crisis looms, and the pivotal event that comes to redefine their relationship.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Drama",
+      "Director": "Sally Potter",
+      "Writer": "Walter Donohue, Sally Potter",
+      "Actors": "Elle Fanning, Alice Englert, Annette Bening",
+      "Language": "English",
+      "Country": "United Kingdom, Denmark, Canada"
+    },
+    {
       "title": "The Call",
       "netflix_url": "https://www.netflix.com/title/70267128",
       "year": "2013",
@@ -1194,6 +1252,23 @@
       "Country": "United States"
     },
     {
+      "title": "Lucy",
+      "netflix_url": "https://www.netflix.com/title/70307658",
+      "year": "2014",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt2872732",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_SX300.jpg",
+      "Plot": "A woman who has become accidentally trapped in a dark deal with a mysterious and brutal criminal overlord transforms into a merciless warrior evolved beyond previously known human evolutionary limits and turns the tables on her ca...",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Luc Besson",
+      "Writer": "Luc Besson",
+      "Actors": "Scarlett Johansson, Morgan Freeman, Choi Min-sik",
+      "Language": "English, Mandarin, French, Italian, German, Spanish, Korean",
+      "Country": "France, Germany, Taiwan, Canada, United Kingdom"
+    },
+    {
       "title": "No Good Deed",
       "netflix_url": "https://www.netflix.com/title/80007079",
       "year": "2014",
@@ -1267,6 +1342,23 @@
       "year": "2007",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Krisha",
+      "netflix_url": "https://www.netflix.com/title/80046777",
+      "year": "2015",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt4266638",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NTgxNDgxOV5BMl5BanBnXkFtZTgwNjE1NzIzNzE@._V1_SX300.jpg",
+      "Plot": "Krisha returns for Thanksgiving dinner after ten years away from her family, but past demons threaten to ruin the festivities.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Drama",
+      "Director": "Trey Edward Shults",
+      "Writer": "Trey Edward Shults",
+      "Actors": "Krisha Fairchild, Alex Dobrenko, Robyn Fairchild",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Mojave",
@@ -1726,6 +1818,23 @@
       "Actors": "Rose McIver, Ben Lamb, Alice Krige",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "To Each, Her Own",
+      "netflix_url": "https://www.netflix.com/title/80160994",
+      "year": "2018",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt6290418",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhkNmM5MTctMTI5Ny00ZTcyLWJhYjEtNDQ4ZTFiOTA3ZmM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Simone plans to inform her conservative Jewish family that she's a lesbian, but as she proceeds with coming out she finds herself attracted to a man.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Myriam Aziza",
+      "Writer": "Myriam Aziza, Denyse Rodriguez-Tomé",
+      "Actors": "Sarah Stern, Jean-Christophe Folly, Julia Piaton",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Small Crimes",
@@ -4602,6 +4711,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Girl's Revenge",
+      "netflix_url": "https://www.netflix.com/title/81310261",
+      "year": "2020",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt13388018",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTBlY2UwOTctNTYwZi00Y2FlLThiODktMThmMGUyMDJkMDEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bullying. Humiliation. An ugly truth. She's standing up for her friend. But her retaliatory quest is about to unravel. After a sex video subjects her friend to mockery and bullying, a transfer student sets out to reveal the truth ...",
+      "Type": "movie",
+      "RunTime": "81 min",
+      "Genre": "Drama",
+      "Director": "Weica Wang",
+      "Writer": "Blanche Chiang",
+      "Actors": "Yu-Ping Wang, Yi-Ruei Chen, Shiny Yao",
+      "Language": "Mandarin",
+      "Country": "Taiwan"
+    },
+    {
       "title": "Kingdom: Ashin of the North",
       "netflix_url": "https://www.netflix.com/title/81312457",
       "year": "2021",
@@ -6261,6 +6387,13 @@
       "Country": "South Africa"
     },
     {
+      "title": "Beast (English)",
+      "netflix_url": "https://www.netflix.com/title/81579532",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Mononoke The Movie: The Phantom in the Rain",
       "netflix_url": "https://www.netflix.com/title/81580574",
       "year": "2024",
@@ -6552,6 +6685,23 @@
       "Actors": "Alif Satar, Ikmal Amry, Abbas Mahmood",
       "Language": "Malay",
       "Country": "Malaysia"
+    },
+    {
+      "title": "Eat Pray Bark",
+      "netflix_url": "https://www.netflix.com/title/81638691",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39465484",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTFhOTE3MjMtYTUxNS00OWVkLWFiYzAtZTVlYzMwZTI0NWUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this tumultuous comedy, five eccentric dog owners seek help in dealing with their four-legged friends. Their last hope: an intensive course with the charismatic and legendary dog trainer Nodon in the Tyrolean mountains. The qui...",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "Marco Petry",
+      "Writer": "Jane Ainscough, Marco Petry, Hortense Ullrich",
+      "Actors": "Alexandra Maria Lara, Devid Striesow, Anna Herrmann",
+      "Language": "German",
+      "Country": "Germany"
     },
     {
       "title": "Outlaw",
@@ -7776,6 +7926,23 @@
       "Country": "South Africa"
     },
     {
+      "title": "It Takes a Village",
+      "netflix_url": "https://www.netflix.com/title/81906269",
+      "year": "2026",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt14060986",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODgyM2EzYmEtNzY3Mi00N2VjLWE1NjYtNWI5MjE5MzU5YTdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When road construction threatens to close the town's shops, the mayor offers a Christmas market to boost sales, but she needs to convince reclusive Darcy to host it at his family's mill, reigniting old feuds while also sparking ro...",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Corey Sevier",
+      "Writer": "Kate Pragnell",
+      "Actors": "Brooke Nevin, Corey Sevier, Alli Chung",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
       "title": "We Grown Now",
       "netflix_url": "https://www.netflix.com/title/81908728",
       "year": "2023",
@@ -8959,6 +9126,23 @@
       "Actors": "Chrissy Metz, Colin Moss, Keeno Lee Hector",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Giving Hope: The Ni’cola Mitchell Story",
+      "netflix_url": "https://www.netflix.com/title/82158679",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt26735466",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDJmMGNiM2ItY2YyYS00ZjJiLTk2OWUtZGFkNzNlYTI4OTZmXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_SX300.jpg",
+      "Plot": "The story of Ni'cola Mitchell, a victim of unspeakable sexual violence who grew up to be a best-selling author and inspirational speaker, founding an organization dedicated to saving at risk girls from abuse and exploitation.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Biography",
+      "Director": "Alpha Nicky",
+      "Writer": "Adam Rockoff",
+      "Actors": "Tatyana Ali, Kudakwashe Rutendo, Gary Brennan",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Stone Cold Fox",

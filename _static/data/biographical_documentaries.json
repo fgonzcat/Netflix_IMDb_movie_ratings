@@ -919,6 +919,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "McQueen",
+      "netflix_url": "https://www.netflix.com/title/80987642",
+      "year": "2018",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt6510332",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0MTg3MTM0OF5BMl5BanBnXkFtZTgwOTU0OTU2NTM@._V1_SX300.jpg",
+      "Plot": "The life and career of fashion designer Lee Alexander McQueen: from his start as a tailor, to launching and overseeing his eponymous line and his untimely death.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Ian Bonhôte, Peter Ettedgui",
+      "Writer": "Peter Ettedgui",
+      "Actors": "Alexander McQueen, Joyce McQueen, John Hitchcock",
+      "Language": "English, French",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Patria",
       "netflix_url": "https://www.netflix.com/title/80988257",
       "year": "2019",
@@ -2722,6 +2739,13 @@
       "Country": "Italy"
     },
     {
+      "title": "Dynasty: The Murdochs",
+      "netflix_url": "https://www.netflix.com/title/81712688",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Garbo: Where Did You Go?",
       "netflix_url": "https://www.netflix.com/title/81715821",
       "year": "2024",
@@ -3090,6 +3114,13 @@
       "imdb_id": null
     },
     {
+      "title": "Barbara - Becoming Shirin David",
+      "netflix_url": "https://www.netflix.com/title/81953975",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Songs From the Hole",
       "netflix_url": "https://www.netflix.com/title/81992626",
       "year": "2025",
@@ -3180,6 +3211,13 @@
       "Actors": "Mark Mothersbaugh, Bob Casale, Gerald Casale",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
+      "netflix_url": "https://www.netflix.com/title/82087556",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Sangre del Toro",

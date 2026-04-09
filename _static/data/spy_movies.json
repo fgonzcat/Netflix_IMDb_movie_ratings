@@ -173,6 +173,23 @@
       "Country": "United Kingdom, United States, Italy, Turkey"
     },
     {
+      "title": "Mission: Impossible II",
+      "netflix_url": "https://www.netflix.com/title/60000521",
+      "year": "2000",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0120755",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWFjM2NhMTAtNDU1My00ODUxLTkwMzYtODQzNzM0ODM0ZWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "IMF agent Ethan Hunt is sent to Sydney to find and destroy a genetically modified disease called \"Chimera\".",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "John Woo",
+      "Writer": "Bruce Geller, Ronald D. Moore, Brannon Braga",
+      "Actors": "Tom Cruise, Dougray Scott, Thandiwe Newton",
+      "Language": "English",
+      "Country": "Germany, United States"
+    },
+    {
       "title": "Diamonds Are Forever",
       "netflix_url": "https://www.netflix.com/title/60000705",
       "year": "1971",
@@ -326,6 +343,23 @@
       "Country": "United Kingdom, United States, Mexico"
     },
     {
+      "title": "Mission: Impossible III",
+      "netflix_url": "https://www.netflix.com/title/70041961",
+      "year": "2006",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0317919",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY1MzdjMjYtNDJiZS00N2U4LWI0MWQtZTRiZWYxMzU3ZmI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "IMF agent Ethan Hunt comes into conflict with a dangerous and sadistic arms dealer who threatens his life and his fiancée in response.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "J.J. Abrams",
+      "Writer": "Alex Kurtzman, Roberto Orci, J.J. Abrams",
+      "Actors": "Tom Cruise, Michelle Monaghan, Ving Rhames",
+      "Language": "English, Italian, Mandarin, Cantonese, German, Czech",
+      "Country": "Italy, Germany, China, United States"
+    },
+    {
       "title": "Casino Royale",
       "netflix_url": "https://www.netflix.com/title/70044604",
       "year": "2006",
@@ -375,6 +409,23 @@
       "Actors": "Daniel Craig, Olga Kurylenko, Mathieu Amalric",
       "Language": "English, Spanish, Italian, French, Swiss German, German",
       "Country": "United Kingdom, United States, Italy"
+    },
+    {
+      "title": "Mission: Impossible - Ghost Protocol",
+      "netflix_url": "https://www.netflix.com/title/70173048",
+      "year": "2011",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1229238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_SX300.jpg",
+      "Plot": "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Brad Bird",
+      "Writer": "Bruce Geller, Josh Appelbaum, André Nemec",
+      "Actors": "Tom Cruise, Jeremy Renner, Simon Pegg",
+      "Language": "English, Russian, French, Arabic, Swedish",
+      "Country": "United States, United Arab Emirates, Russia, Canada, Czech Republic, India"
     },
     {
       "title": "Skyfall",
@@ -462,6 +513,23 @@
       "Country": "United Kingdom, United States, Jamaica"
     },
     {
+      "title": "Mission: Impossible",
+      "netflix_url": "https://www.netflix.com/title/765912",
+      "year": "1996",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0117060",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGZjNDlkMTYtMTJkZi00OTkzLWI4NDEtYTA2ODQyMjcwYTdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Brian De Palma",
+      "Writer": "Bruce Geller, David Koepp, Steven Zaillian",
+      "Actors": "Tom Cruise, Jon Voight, Emmanuelle Béart",
+      "Language": "English, French, Czech",
+      "Country": "United States"
+    },
+    {
       "title": "Moonraker",
       "netflix_url": "https://www.netflix.com/title/772447",
       "year": "1979",
@@ -477,6 +545,40 @@
       "Actors": "Roger Moore, Lois Chiles, Michael Lonsdale",
       "Language": "English, Italian, Portuguese",
       "Country": "United Kingdom, France, United States"
+    },
+    {
+      "title": "Penguins of Madagascar: The Movie",
+      "netflix_url": "https://www.netflix.com/title/80013941",
+      "year": "2014",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1911658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1_SX300.jpg",
+      "Plot": "Skipper, Kowalski, Rico, and Private join forces with the secret organization North Wind in an effort to stop a terrible villain from wiping out all the penguins in the world.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Eric Darnell, Simon J. Smith",
+      "Writer": "Michael Colton, John Aboud, Brandon Sawyer",
+      "Actors": "Tom McGrath, Chris Miller, Christopher Knights",
+      "Language": "English, Italian, Mandarin, Spanish, Armenian",
+      "Country": "United States, Australia, India, Japan, Finland"
+    },
+    {
+      "title": "Mission: Impossible - Rogue Nation",
+      "netflix_url": "https://www.netflix.com/title/80038359",
+      "year": "2015",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt2381249",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjUwZjg2ZjAtY2RhZi00YmZjLTlhNGQtOWQwNDk1MjhhM2NhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ethan and his team take on their most impossible mission yet when they have to eradicate an international rogue organization as highly skilled as they are and committed to destroying the IMF.",
+      "Type": "movie",
+      "RunTime": "131 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Christopher McQuarrie",
+      "Writer": "Bruce Geller, Christopher McQuarrie, Drew Pearce",
+      "Actors": "Tom Cruise, Rebecca Ferguson, Jeremy Renner",
+      "Language": "English, Swedish, German, Russian",
+      "Country": "United States, China, United Kingdom, Austria, Morocco, Hong Kong"
     },
     {
       "title": "Survivor",

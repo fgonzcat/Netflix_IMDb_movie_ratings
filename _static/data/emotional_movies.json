@@ -360,6 +360,23 @@
       "Country": "India"
     },
     {
+      "title": "Angel Eyes",
+      "netflix_url": "https://www.netflix.com/title/60020681",
+      "year": "2001",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt0225071",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQwNzI2OTY2Ml5BMl5BanBnXkFtZTYwOTI3ODc5._V1_SX300.jpg",
+      "Plot": "A mysterious man is drawn to a feisty female police officer and an unusual relationship ensues, as not everything is as it seems.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Drama, Romance",
+      "Director": "Luis Mandoki",
+      "Writer": "Gerald Di Pego",
+      "Actors": "Jennifer Lopez, Jim Caviezel, Jeremy Sisto",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Cast Away",
       "netflix_url": "https://www.netflix.com/title/60020683",
       "year": "2000",
@@ -807,6 +824,23 @@
       "year": "1993",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Atonement",
+      "netflix_url": "https://www.netflix.com/title/70059993",
+      "year": "2007",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0783233",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ5ZjZlMzMtODA1ZS00NTNiLWIzOTYtOTQyYjQ2YWQxMTA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Drama, Mystery, Romance",
+      "Director": "Joe Wright",
+      "Writer": "Ian McEwan, Christopher Hampton",
+      "Actors": "Keira Knightley, James McAvoy, Brenda Blethyn",
+      "Language": "English, French",
+      "Country": "United Kingdom, France, United States"
     },
     {
       "title": "Guru",
@@ -1601,6 +1635,23 @@
       "Country": "India"
     },
     {
+      "title": "The Age of Adaline",
+      "netflix_url": "https://www.netflix.com/title/80014426",
+      "year": "2015",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1655441",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzMTQzMTA2MjheQTJeQWpwZ15BbWU4MDk2MTg2MzUx._V1_SX300.jpg",
+      "Plot": "An ageless woman meets someone who reawakens her passion for life and romance.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "Lee Toland Krieger",
+      "Writer": "J. Mills Goodloe, Salvador Paskowitz",
+      "Actors": "Blake Lively, Michiel Huisman, Harrison Ford",
+      "Language": "English, Portuguese, Italian",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Danny Collins",
       "netflix_url": "https://www.netflix.com/title/80026390",
       "year": "2015",
@@ -1648,6 +1699,23 @@
       "Director": "Hannah Fidell",
       "Writer": "Hannah Fidell",
       "Actors": "Taissa Farmiga, Ben Rosenfield, Lindsay Burdge",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Krisha",
+      "netflix_url": "https://www.netflix.com/title/80046777",
+      "year": "2015",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt4266638",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NTgxNDgxOV5BMl5BanBnXkFtZTgwNjE1NzIzNzE@._V1_SX300.jpg",
+      "Plot": "Krisha returns for Thanksgiving dinner after ten years away from her family, but past demons threaten to ruin the festivities.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Drama",
+      "Director": "Trey Edward Shults",
+      "Writer": "Trey Edward Shults",
+      "Actors": "Krisha Fairchild, Alex Dobrenko, Robyn Fairchild",
       "Language": "English",
       "Country": "United States"
     },
@@ -2205,6 +2273,23 @@
       "Actors": "Shashi Kapoor, Sulakshana Pandit, Mehmood",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Prince",
+      "netflix_url": "https://www.netflix.com/title/80158546",
+      "year": "1969",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0417741",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg",
+      "Plot": "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as \"the property of the Half-Blood Prince\" and begins to learn more about Lord Voldemort's dark past.",
+      "Type": "movie",
+      "RunTime": "153 min",
+      "Genre": "Action, Adventure, Family",
+      "Director": "David Yates",
+      "Writer": "Steve Kloves, J.K. Rowling",
+      "Actors": "Daniel Radcliffe, Emma Watson, Rupert Grint",
+      "Language": "English, Latin",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Pandora",
@@ -2957,6 +3042,23 @@
       "Actors": "N/A",
       "Language": "Spanish",
       "Country": "Mexico, United States"
+    },
+    {
+      "title": "After the Raid",
+      "netflix_url": "https://www.netflix.com/title/80244681",
+      "year": "2019",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt11324024",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWY2NmM4ZTItNTMwNy00ZWM3LTgzZDMtYjI4YmU1NWRiOWIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A large immigration raid in a small Tennessee town leaves emotional fallout as well as far-reaching questions about justice, faith and humanity.",
+      "Type": "movie",
+      "RunTime": "24 min",
+      "Genre": "Documentary, Short",
+      "Director": "Rodrigo Reyes",
+      "Writer": "Rodrigo Reyes",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States, Mexico"
     },
     {
       "title": "Lorena, Light-Footed Woman",
@@ -4034,6 +4136,23 @@
       "imdb_id": null
     },
     {
+      "title": "Little Miss Sumo",
+      "netflix_url": "https://www.netflix.com/title/81110394",
+      "year": "2018",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt9195844",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzE3MjI5YTgtMDhiOS00MDQ0LWFkNjQtNjVjYjQ5MGQ3Mjg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A female sumo wrestler fights against tradition and stigma to win her place in the ring.",
+      "Type": "movie",
+      "RunTime": "19 min",
+      "Genre": "Documentary, Short, Biography",
+      "Director": "Matt Kay",
+      "Writer": "Matt Kay",
+      "Actors": "Hiyori Kon, Olimpia Robakowska",
+      "Language": "Japanese, English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Rustin",
       "netflix_url": "https://www.netflix.com/title/81111528",
       "year": "2023",
@@ -4216,6 +4335,23 @@
       "Actors": "Laura Dern, Liam Hemsworth, Diana Silvers",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Just Another Christmas",
+      "netflix_url": "https://www.netflix.com/title/81160045",
+      "year": "2020",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt13354204",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGNjNDgxYjUtMzcxYy00N2Y5LWEwNWQtMGJjMzgzNmFmMWJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Stuck in a time loop where it's forever Christmas, a family man who hates the holiday starts to learn valuable lessons about what's important in life.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Roberto Santucci",
+      "Writer": "Paulo Cursino",
+      "Actors": "Arianne Botelho, Ashley Adler, Bruna Alvìm",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Sitara: Let Girls Dream",
@@ -4784,9 +4920,19 @@
     {
       "title": "Bombay Rose",
       "netflix_url": "https://www.netflix.com/title/81270289",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt8435324",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODlmZTJjMDUtMGMxNy00Nzc4LWFlNDgtNGQxZTAxNTM3NjE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "BOMBAY ROSE is a beautiful hand-painted animation created by award winning animator Gitanjali Rao. Amidst the bustle of a magnetic and multifaceted city, the budding love between two dreamers is tested by duty and religious divides.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Drama, Romance",
+      "Director": "Gitanjali Rao",
+      "Writer": "Asad Hussain, Gitanjali Rao, Nadja Dumouchel",
+      "Actors": "Cyli Khare, Amit Deondi, Gargi Shitole",
+      "Language": "Hindi",
+      "Country": "India, United Kingdom, France, Qatar"
     },
     {
       "title": "Downfall: The Case Against Boeing",
@@ -5683,6 +5829,23 @@
       "Country": "Poland"
     },
     {
+      "title": "Falling",
+      "netflix_url": "https://www.netflix.com/title/81405820",
+      "year": "2020",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt9143112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDY2NWI3OWMtNTZmYi00ZjEzLWE4YWMtZWU0ZjBmYjdkNTc4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "John Peterson lives with his partner Eric and their adopted daughter in Southern California. When he is visited by his aging father who is searching for a place to retire, their two very different worlds collide.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama",
+      "Director": "Viggo Mortensen",
+      "Writer": "Viggo Mortensen",
+      "Actors": "Viggo Mortensen, Lance Henriksen, Laura Linney",
+      "Language": "English, Spanish",
+      "Country": "United Kingdom, Canada, United States"
+    },
+    {
       "title": "The Guide to the Perfect Family",
       "netflix_url": "https://www.netflix.com/title/81406326",
       "year": "2021",
@@ -6548,6 +6711,13 @@
       "Country": "United States, United Kingdom, Italy"
     },
     {
+      "title": "Love Is Colorblind",
+      "netflix_url": "https://www.netflix.com/title/81553952",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Montana Story",
       "netflix_url": "https://www.netflix.com/title/81555769",
       "year": "2022",
@@ -6716,6 +6886,23 @@
       "Actors": "Anne Bancroft, Shirley MacLaine, Mikhail Baryshnikov",
       "Language": "English, French",
       "Country": "United States"
+    },
+    {
+      "title": "Jewel",
+      "netflix_url": "https://www.netflix.com/title/81578388",
+      "year": "2022",
+      "imdb_rating": "3.6",
+      "imdb_id": "tt21030216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MwZGQ0MTItOTJiOS00NzVhLWFkMmUtMDI2MzMwOTllMTBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A story about an unlikely love, and how some memories can never be forgotten.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Drama",
+      "Director": "Adze Ugah",
+      "Writer": "Glenrose Ndlovu, Adze Ugah",
+      "Actors": "Connie Chiume, Michelle Botes, Nqobile Khumalo",
+      "Language": "English",
+      "Country": "South Africa"
     },
     {
       "title": "The Great Flood",
@@ -6992,6 +7179,23 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Krishna Vrinda Vihari",
+      "netflix_url": "https://www.netflix.com/title/81605073",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt19893706",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODRjNzA5NTktMDM2YS00YzhlLWIyMTMtNDNiOGYwZTk4ZjYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Krishna Vrinda Vihari is a romantic family entertainer about a man from an orthodox family who falls in love with a girl and his efforts to convince his parents to marry her.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Aneesh Krishna",
+      "Writer": "Aneesh Krishna",
+      "Actors": "Naga Shaurya, Shirley Setia, Amitash Pradhan",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "From the Ashes",
@@ -8801,6 +9005,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Truth and Tragedy of Moriah Wilson",
+      "netflix_url": "https://www.netflix.com/title/81763772",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32572716",
+      "Poster": "N/A",
+      "Plot": "An intimate portrait of cyclist Moriah Wilson, raised by a fierce, loving family, whose singular drive propelled her to athletic brilliance before her life was tragically cut short by murder.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Marina Zenovich",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Close to You",
       "netflix_url": "https://www.netflix.com/title/81764656",
       "year": "2024",
@@ -9613,6 +9834,13 @@
       "Country": "Philippines"
     },
     {
+      "title": "The Giant Falls",
+      "netflix_url": "https://www.netflix.com/title/81947520",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Court: State vs A Nobody",
       "netflix_url": "https://www.netflix.com/title/81950906",
       "year": "2025",
@@ -10255,6 +10483,23 @@
       "Actors": "Chrissy Metz, Colin Moss, Keeno Lee Hector",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Giving Hope: The Ni’cola Mitchell Story",
+      "netflix_url": "https://www.netflix.com/title/82158679",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt26735466",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDJmMGNiM2ItY2YyYS00ZjJiLTk2OWUtZGFkNzNlYTI4OTZmXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_SX300.jpg",
+      "Plot": "The story of Ni'cola Mitchell, a victim of unspeakable sexual violence who grew up to be a best-selling author and inspirational speaker, founding an organization dedicated to saving at risk girls from abuse and exploitation.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Biography",
+      "Director": "Alpha Nicky",
+      "Writer": "Adam Rockoff",
+      "Actors": "Tatyana Ali, Kudakwashe Rutendo, Gary Brennan",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Four Letters of Love",

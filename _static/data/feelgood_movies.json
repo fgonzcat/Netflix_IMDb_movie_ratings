@@ -605,6 +605,23 @@
       "Country": "United States"
     },
     {
+      "title": "Hotel Transylvania 2",
+      "netflix_url": "https://www.netflix.com/title/80048061",
+      "year": "2015",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt2510894",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Genndy Tartakovsky",
+      "Writer": "Robert Smigel, Adam Sandler, Todd Durham",
+      "Actors": "Adam Sandler, Andy Samberg, Selena Gomez",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Boruto: Naruto the Movie",
       "netflix_url": "https://www.netflix.com/title/80075823",
       "year": "2015",
@@ -1601,6 +1618,23 @@
       "Director": "Stanley Moore, Alexander Woo",
       "Writer": "Sarah Sellers",
       "Actors": "Maisie Benson, Alan C. Lim, Kerry Gudjohnsen",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "A Go! Go! Cory Carson Christmas",
+      "netflix_url": "https://www.netflix.com/title/81021358",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt13479662",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdhVRBM6ntTuBV8gZdO_4olRZp2_dtFs8FM0e6JqJAGTzDJgDHSWQoRXgx66ShRFpYPtpn5gUR3QLXsuHNe3G4UbGRrF-sRAwvE0.jpg?r=6e9",
+      "Plot": "When a familiar stranger shows up with no memory, Cory saves Christmas for everyone by helping him remember the magic of Christmas.",
+      "Type": "movie",
+      "RunTime": "21 min",
+      "Genre": "Animation, Short, Family",
+      "Director": "Stanley Moore, Alex Woo",
+      "Writer": "Ying-Hsuan Chen, Vincent Lau, Stanley Moore",
+      "Actors": "Alan C. Lim, Taron C. Hensley, Maisie Benson",
       "Language": "English",
       "Country": "United States"
     },
@@ -4402,6 +4436,23 @@
       "Country": "United States"
     },
     {
+      "title": "Eat Pray Bark",
+      "netflix_url": "https://www.netflix.com/title/81638691",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39465484",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTFhOTE3MjMtYTUxNS00OWVkLWFiYzAtZTVlYzMwZTI0NWUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this tumultuous comedy, five eccentric dog owners seek help in dealing with their four-legged friends. Their last hope: an intensive course with the charismatic and legendary dog trainer Nodon in the Tyrolean mountains. The qui...",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "Marco Petry",
+      "Writer": "Jane Ainscough, Marco Petry, Hortense Ullrich",
+      "Actors": "Alexandra Maria Lara, Devid Striesow, Anna Herrmann",
+      "Language": "German",
+      "Country": "Germany"
+    },
+    {
       "title": "Happiness Is",
       "netflix_url": "https://www.netflix.com/title/81645161",
       "year": "2024",
@@ -4727,6 +4778,23 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Thomas & Friends: The Christmas Letter Express",
+      "netflix_url": "https://www.netflix.com/title/81728272",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31499438",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjRmNTg3NmQtM2FjYy00NTg2LWExY2YtYjdiM2YzYWI1YTAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Percy must track down Santa after he discovers a child's letter that was accidentally left in his mail cart on Christmas Eve.",
+      "Type": "movie",
+      "RunTime": "60 min",
+      "Genre": "Animation",
+      "Director": "Campbell Bryer",
+      "Writer": "Rick Suvalle, Wilbert Awdry, Craig Carlisle",
+      "Actors": "Will Bhaneja, Glee Dango, Catherine Disher",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Camp Crasher",
@@ -5170,6 +5238,13 @@
       "Actors": "Jackie Chan, Ben Wang, Joshua Jackson",
       "Language": "English, Mandarin",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Feel My Voice",
+      "netflix_url": "https://www.netflix.com/title/82070758",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Penguin Lessons",

@@ -122,6 +122,23 @@
       "Country": "Germany, United States"
     },
     {
+      "title": "Jaws",
+      "netflix_url": "https://www.netflix.com/title/60001220",
+      "year": "1975",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0073195",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Steven Spielberg",
+      "Writer": "Peter Benchley, Carl Gottlieb",
+      "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "What Lies Beneath",
       "netflix_url": "https://www.netflix.com/title/60001396",
       "year": "2000",
@@ -1418,6 +1435,23 @@
       "Country": "India"
     },
     {
+      "title": "Suzzanna: Buried Alive",
+      "netflix_url": "https://www.netflix.com/title/81062674",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9044128",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5OTMxN2YtY2E4OS00NjZmLTkxNmYtY2MwMWQwZWRlZWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a pregnant woman is murdered, her spirit seeks revenge against her increasingly terrified killers, who are determined to finish her off for good.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Rocky Soraya, Anggy Umbara",
+      "Writer": "Ferry Lesmana, Bene Dion Rajagukguk, Sunil Soraya",
+      "Actors": "Luna Maya, Herjunot Ali, T. Rifnu Wikana",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Till Death",
       "netflix_url": "https://www.netflix.com/title/81075469",
       "year": "2021",
@@ -1535,6 +1569,13 @@
       "Actors": "Julia Wieniawa-Narkiewicz, Michal Lupa, Wiktoria Gasiewska",
       "Language": "Polish",
       "Country": "Poland"
+    },
+    {
+      "title": "Game Over (Telugu Version)",
+      "netflix_url": "https://www.netflix.com/title/81151878",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Game Over (Hindi Version)",

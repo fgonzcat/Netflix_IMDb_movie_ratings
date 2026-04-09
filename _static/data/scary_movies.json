@@ -71,6 +71,23 @@
       "Country": "United States"
     },
     {
+      "title": "Jaws",
+      "netflix_url": "https://www.netflix.com/title/60001220",
+      "year": "1975",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0073195",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Steven Spielberg",
+      "Writer": "Peter Benchley, Carl Gottlieb",
+      "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Dawn of the Dead",
       "netflix_url": "https://www.netflix.com/title/60033340",
       "year": "2004",
@@ -222,6 +239,23 @@
       "Actors": "Costas Mandylor, Mark Rolston, Betsy Russell",
       "Language": "English",
       "Country": "Canada, United States, Australia"
+    },
+    {
+      "title": "The Roommate",
+      "netflix_url": "https://www.netflix.com/title/70123922",
+      "year": "2011",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt1265990",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMzQwMzMwNF5BMl5BanBnXkFtZTcwNjE5MTUxNA@@._V1_SX300.jpg",
+      "Plot": "When college freshman Sara arrives on campus for the first time, she befriends her roommate, Rebecca, unaware that the girl is becoming dangerously obsessed with her.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Christian E. Christiansen",
+      "Writer": "Sonny Mallhi",
+      "Actors": "Minka Kelly, Leighton Meester, Cam Gigandet",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Splatter",
@@ -996,6 +1030,13 @@
       "Country": "Poland"
     },
     {
+      "title": "Game Over (Telugu Version)",
+      "netflix_url": "https://www.netflix.com/title/81151878",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Game Over (Hindi Version)",
       "netflix_url": "https://www.netflix.com/title/81151880",
       "year": "2019",
@@ -1548,6 +1589,13 @@
       "imdb_id": null
     },
     {
+      "title": "Boomika (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81496132",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Girl Who Got Away",
       "netflix_url": "https://www.netflix.com/title/81500351",
       "year": "2021",
@@ -1638,6 +1686,13 @@
       "Actors": "Belén Rueda, Gracia Olayo, Toni Acosta",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "Beast (English)",
+      "netflix_url": "https://www.netflix.com/title/81579532",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Incantation",

@@ -146,6 +146,23 @@
       "Country": "United States"
     },
     {
+      "title": "American Gangster",
+      "netflix_url": "https://www.netflix.com/title/70060009",
+      "year": "2007",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0765429",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas.",
+      "Type": "movie",
+      "RunTime": "157 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Ridley Scott",
+      "Writer": "Steven Zaillian, Mark Jacobson",
+      "Actors": "Denzel Washington, Russell Crowe, Chiwetel Ejiofor",
+      "Language": "English, Thai, Spanish",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Cocaine Cowboys 2",
       "netflix_url": "https://www.netflix.com/title/70100553",
       "year": "2008",
@@ -610,6 +627,23 @@
       "Actors": "Casey Affleck, Chiwetel Ejiofor, Anthony Mackie",
       "Language": "English, Spanish, Russian",
       "Country": "United States"
+    },
+    {
+      "title": "Everest",
+      "netflix_url": "https://www.netflix.com/title/80046309",
+      "year": "2015",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt2719848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDAzOTYxMTctY2ViNi00NDI3LTgwMGItY2FhN2JjZWE5MjRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On May 10, 1996, mountain guides Rob Hall and Scott Fischer combine their expedition teams for a final ascent to the summit of Mount Everest. With little warning, a storm strikes the mountain and the climbers must now battle to su...",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "Baltasar Kormákur",
+      "Writer": "William Nicholson, Simon Beaufoy",
+      "Actors": "Jason Clarke, Ang Phula Sherpa, Thomas M. Wright",
+      "Language": "English, Russian",
+      "Country": "United Kingdom, Iceland, United States"
     },
     {
       "title": "War Machine",
@@ -1720,6 +1754,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Charles Baker, Jonathan Banks, Melissa Bernstein",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Black and Blue",
+      "netflix_url": "https://www.netflix.com/title/81086524",
+      "year": "2019",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt7390646",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFmZjE5NmUtZGFjYi00Zjc0LWIyYzYtZDhlYzVlZDUxY2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A rookie New Orleans police officer is forced to balance her identity as a black woman after she witnesses two corrupt cops committing murder.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Action, Thriller",
+      "Director": "Deon Taylor",
+      "Writer": "Peter A. Dowling",
+      "Actors": "Naomie Harris, Tyrese Gibson, Frank Grillo",
       "Language": "English",
       "Country": "United States"
     },
@@ -4376,6 +4427,23 @@
       "Writer": "Charlie Huston",
       "Actors": "Austin Butler, Regina King, Zoë Kravitz",
       "Language": "English, Spanish, Yiddish",
+      "Country": "United States"
+    },
+    {
+      "title": "The Professionals",
+      "netflix_url": "https://www.netflix.com/title/877351",
+      "year": "1966",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0060862",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzJmYzk3NmMtZGQ3My00OGE2LTgzMGYtN2VkOTU5ZTZhMjlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An arrogant Texas millionaire hires four adventurers to rescue his kidnapped wife from a notorious Mexican bandit.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Richard Brooks",
+      "Writer": "Frank O'Rourke, Richard Brooks",
+      "Actors": "Burt Lancaster, Lee Marvin, Robert Ryan",
+      "Language": "English, Spanish",
       "Country": "United States"
     }
   ]

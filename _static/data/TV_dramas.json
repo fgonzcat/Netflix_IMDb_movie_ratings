@@ -1989,6 +1989,23 @@
       "Country": "United States"
     },
     {
+      "title": "Lost Ollie",
+      "netflix_url": "https://www.netflix.com/title/80115119",
+      "year": "2022",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt13271734",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmY1ZjYyMWEtN2RjYy00ODM3LThlMDctNGIwYzJmNDE2M2QwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A patchwork rabbit with floppy ears and fuzzy memories embarks on an epic quest to find his best friend - the young boy he desperately loves.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Animation, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "Shannon Tindle",
+      "Actors": "Jake Johnson, Gina Rodriguez, Kesler Talbot",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "El marginal",
       "netflix_url": "https://www.netflix.com/title/80115297",
       "year": "2022",
@@ -4380,6 +4397,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Nobody's Looking",
+      "netflix_url": "https://www.netflix.com/title/80244700",
+      "year": "2019",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt11131980",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzE0MTE3NmUtNThiZi00Mjc5LWIyMzMtMWVjZTViZjg2NDUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Guardian angel Uli is new to the Angelus System. A rebel spirit, he makes shocking discoveries about life and how the world is run when he goes rogue.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "N/A",
+      "Writer": "Carolina Markowicz, Teodoro Poppovic, Daniel Rezende",
+      "Actors": "Victor Lamoglia, Júlia Rabello, Kéfera Buchmann",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
       "title": "Luna Nera",
       "netflix_url": "https://www.netflix.com/title/80244780",
       "year": "2020",
@@ -4463,6 +4497,23 @@
       "Actors": "Ewan McGregor, Rebecca Dayan, David Pittu",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Ponysitters Club",
+      "netflix_url": "https://www.netflix.com/title/80245299",
+      "year": "2018",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt7692572",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWYyOTdjZGEtMDI4Yi00MjYxLTgwMzItZmVhNzZjYTZmMmVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Join Skye and her Ponysitter pals as they lend a helping hand with the care of horses, ponies and other cute and cuddly animals that come through the Rescue Ranch, all with different levels of care needs.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Family",
+      "Director": "N/A",
+      "Writer": "Elizabeth Turner",
+      "Actors": "Morgan Neundorf, Cailan Laine, Hugh Wilson",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "The Princess Weiyoung",
@@ -4880,6 +4931,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Get Even",
+      "netflix_url": "https://www.netflix.com/title/81001036",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9724628",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTllMDU2NmItYTM4Zi00ZTA4LTk3MDktNGMwZDMwY2E2NjI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows four teenage girls at private elite school who form their own secret society to expose bullies.",
+      "Type": "series",
+      "RunTime": "28 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kim Adis, Bethany Antonia, Jessica Alexander",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "The Stranger",
       "netflix_url": "https://www.netflix.com/title/81001209",
       "year": "2020",
@@ -4895,6 +4963,30 @@
       "Actors": "Richard Armitage, Hannah John-Kamen, Siobhan Finneran",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Free Rein: The Twelve Neighs of Christmas",
+      "netflix_url": "https://www.netflix.com/title/81001412",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt9315418",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjAxY2JkZDItZGRjYy00OWI3LWI4MWItMTk4NmRlNjcyMDdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While Bright Fields preps for its Mistletoe Ball, a broken ornament leads Zoe to a family secret, while Gaby finds herself at the mercy of new boss Mia.",
+      "Type": "movie",
+      "RunTime": "56 min",
+      "Genre": "Adventure, Comedy, Drama",
+      "Director": "Marek Losey",
+      "Writer": "Vicki Lutas, Anna McCleery, Kevin Rundle",
+      "Actors": "Jaylen Barron, Billy Angel, Manpreet Bambra",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
+      "title": "Free Rein: Valentine's Day",
+      "netflix_url": "https://www.netflix.com/title/81001413",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Cobra Kai",
@@ -7767,6 +7859,23 @@
       "Country": "India"
     },
     {
+      "title": "Dive Club",
+      "netflix_url": "https://www.netflix.com/title/81289456",
+      "year": "2021",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt13275052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmFlYTlkZDEtNTMzMS00ZWUwLTgyZGEtNzE2ODUyMjY5Njg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dive Club follows the story of a feisty group of teen divers who search for their friend when she disappears after a cyclone hits Cape Mercy, their small coastal town.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Adventure, Drama, Family",
+      "Director": "N/A",
+      "Writer": "Steve Jaggi",
+      "Actors": "Miah Madden, Georgia-May Davis, Sana'a Shaik",
+      "Language": "English",
+      "Country": "Australia"
+    },
+    {
       "title": "Stay Close",
       "netflix_url": "https://www.netflix.com/title/81289581",
       "year": "2021",
@@ -7952,6 +8061,23 @@
       "Actors": "Kristen Bell, Tom Riley, Mary Holland",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Thai Cave Rescue",
+      "netflix_url": "https://www.netflix.com/title/81305964",
+      "year": "2022",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt8726102",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQyMmExZDAtYzQ4NC00NDEwLTg0ODgtODdiYmI5NzkxMzExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "TV series that chronicles the rescue of the 12 boys and their soccer coach, who were trapped for two weeks in flooded caves in Thailand during the summer of 2018.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Adventure, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Thaneth Warakulnukroh, Papangkorn Lerkchaleampote, Pratya Patong",
+      "Language": "Thai",
+      "Country": "Thailand, United States"
     },
     {
       "title": "Juvenile Justice",
@@ -8141,6 +8267,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Inside Man",
+      "netflix_url": "https://www.netflix.com/title/81332052",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt10948716",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWZiYWUxZmMtOWI2Yi00MmMyLWFkYTQtN2VlNmE0N2Y0OWVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Steven Moffat",
+      "Actors": "David Tennant, Stanley Tucci, Dolly Wells",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Hold Tight",
       "netflix_url": "https://www.netflix.com/title/81335264",
       "year": "2022",
@@ -8314,6 +8457,13 @@
       "title": "Hot Stove League",
       "netflix_url": "https://www.netflix.com/title/81343880",
       "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cobra Kai - The Afterparty",
+      "netflix_url": "https://www.netflix.com/title/81344331",
+      "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -9337,6 +9487,23 @@
       "Actors": "Steven Yeun, Ali Wong, Joseph Lee",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Word of Honor",
+      "netflix_url": "https://www.netflix.com/title/81450719",
+      "year": "2021",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt12458172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYyMzQ5NDItOThmMS00MWJmLWFlNWYtNTQwYmQwN2E4YzA2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Zhou Zi Shu gets embroiled in a conspiracy in the martial arts world. He meets Wen Ke Xing who leaves the Ghost Valley to avenge his parents' deaths. They become fast friends and embark on an adventure to find a legendary treasure.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "N/A",
+      "Writer": "Priest",
+      "Actors": "Zhehan Zhang, Jun Gong, Yiffan Wei",
+      "Language": "Chinese, Mandarin",
+      "Country": "China"
     },
     {
       "title": "The Rational Life",
@@ -10366,6 +10533,23 @@
       "Country": "Sweden"
     },
     {
+      "title": "Rebel Cheer Squad: A Get Even Series",
+      "netflix_url": "https://www.netflix.com/title/81568357",
+      "year": "2022",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt18268134",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdhZDgxMzMtZTkwNi00MjRhLWFkOGMtYzdhMTgxODAxNDc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A trio of cheerleaders at a posh private school revive their former classmates' anti-bullying club, and team up to fight injustice in this teen thriller.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Holly Phillips",
+      "Actors": "Lashay Anderson, Amelia Brooks, Ashling O'Shea",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Thirty-Nine",
       "netflix_url": "https://www.netflix.com/title/81568400",
       "year": "2022",
@@ -10507,6 +10691,23 @@
       "Actors": "Frank Lammers, Elise Schaap, Sean Burgos",
       "Language": "Dutch",
       "Country": "Belgium, Netherlands"
+    },
+    {
+      "title": "High Tides",
+      "netflix_url": "https://www.netflix.com/title/81580070",
+      "year": "2026",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt21093806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWFhNWI4MTctYmY2MC00MTBjLWI5YjItNjdkMDllZDI3ZmZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows a group of teenagers as they spend the summer at the Belgian seaside while searching for love, friendship and most importantly, for themselves.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Anthony Van Biervliet",
+      "Actors": "Pommelien Thijs, Willem De Schryver, Eliyha Altena",
+      "Language": "Dutch",
+      "Country": "Belgium"
     },
     {
       "title": "Caught",
@@ -12920,6 +13121,23 @@
       "Actors": "Jie Kang, Yiwei Zhou, Likun Wang",
       "Language": "Mandarin",
       "Country": "China"
+    },
+    {
+      "title": "Motorvalley",
+      "netflix_url": "https://www.netflix.com/title/81763921",
+      "year": "2026",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt35449383",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDRmZjA5YTItMWI3OC00ZjE1LWFkY2YtZWNlZmQ2NDI3MWE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three broken souls - Arturo, Elena, and Blu - unite through their passion for racing. Elena must reclaim her family's racing team, recruiting ex-champion Arturo and speed-loving Blu as they compete in Italy's GT Championship.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Caterina Forza, Giulia Michelini, Luca Argentero",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "Beauty in Black",

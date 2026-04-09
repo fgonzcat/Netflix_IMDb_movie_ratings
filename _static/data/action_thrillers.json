@@ -190,6 +190,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Blue Thunder",
+      "netflix_url": "https://www.netflix.com/title/318960",
+      "year": "1983",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0085255",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWVhMGI2MDAtODk5Zi00YmVmLTk5YTQtNmRiMjMyMDAyZDAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The cop test pilot for an experimental police helicopter learns the sinister implications of the new vehicle.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "John Badham",
+      "Writer": "Dan O'Bannon, Don Jakoby",
+      "Actors": "Roy Scheider, Warren Oates, Candy Clark",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Desperado",
       "netflix_url": "https://www.netflix.com/title/437266",
       "year": "1995",
@@ -256,6 +273,23 @@
       "Actors": "Sean Connery, Robert Shaw, Lotte Lenya",
       "Language": "English, Russian, Turkish, French, Romany, Italian",
       "Country": "United Kingdom, United States, Italy, Turkey"
+    },
+    {
+      "title": "Mission: Impossible II",
+      "netflix_url": "https://www.netflix.com/title/60000521",
+      "year": "2000",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0120755",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWFjM2NhMTAtNDU1My00ODUxLTkwMzYtODQzNzM0ODM0ZWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "IMF agent Ethan Hunt is sent to Sydney to find and destroy a genetically modified disease called \"Chimera\".",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "John Woo",
+      "Writer": "Bruce Geller, Ronald D. Moore, Brannon Braga",
+      "Actors": "Tom Cruise, Dougray Scott, Thandiwe Newton",
+      "Language": "English",
+      "Country": "Germany, United States"
     },
     {
       "title": "Diamonds Are Forever",
@@ -564,6 +598,23 @@
       "Country": "United States"
     },
     {
+      "title": "Mission: Impossible III",
+      "netflix_url": "https://www.netflix.com/title/70041961",
+      "year": "2006",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0317919",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY1MzdjMjYtNDJiZS00N2U4LWI0MWQtZTRiZWYxMzU3ZmI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "IMF agent Ethan Hunt comes into conflict with a dangerous and sadistic arms dealer who threatens his life and his fiancée in response.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "J.J. Abrams",
+      "Writer": "Alex Kurtzman, Roberto Orci, J.J. Abrams",
+      "Actors": "Tom Cruise, Michelle Monaghan, Ving Rhames",
+      "Language": "English, Italian, Mandarin, Cantonese, German, Czech",
+      "Country": "Italy, Germany, China, United States"
+    },
+    {
       "title": "Casino Royale",
       "netflix_url": "https://www.netflix.com/title/70044604",
       "year": "2006",
@@ -698,6 +749,23 @@
       "Actors": "Chad Michael Collins, Richard Sammel, Annabel Wright, Billy Zane",
       "Language": "English",
       "Country": "South Africa, United States, Germany"
+    },
+    {
+      "title": "Mission: Impossible - Ghost Protocol",
+      "netflix_url": "https://www.netflix.com/title/70173048",
+      "year": "2011",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1229238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_SX300.jpg",
+      "Plot": "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Brad Bird",
+      "Writer": "Bruce Geller, Josh Appelbaum, André Nemec",
+      "Actors": "Tom Cruise, Jeremy Renner, Simon Pegg",
+      "Language": "English, Russian, French, Arabic, Swedish",
+      "Country": "United States, United Arab Emirates, Russia, Canada, Czech Republic, India"
     },
     {
       "title": "Colombiana",
@@ -904,6 +972,23 @@
       "Country": "India"
     },
     {
+      "title": "Lucy",
+      "netflix_url": "https://www.netflix.com/title/70307658",
+      "year": "2014",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt2872732",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_SX300.jpg",
+      "Plot": "A woman who has become accidentally trapped in a dark deal with a mysterious and brutal criminal overlord transforms into a merciless warrior evolved beyond previously known human evolutionary limits and turns the tables on her ca...",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Luc Besson",
+      "Writer": "Luc Besson",
+      "Actors": "Scarlett Johansson, Morgan Freeman, Choi Min-sik",
+      "Language": "English, Mandarin, French, Italian, German, Spanish, Korean",
+      "Country": "France, Germany, Taiwan, Canada, United Kingdom"
+    },
+    {
       "title": "The Expendables 3",
       "netflix_url": "https://www.netflix.com/title/70307662",
       "year": "2014",
@@ -936,6 +1021,23 @@
       "Actors": "Roger Moore, Yaphet Kotto, Jane Seymour",
       "Language": "English, Hungarian, Italian",
       "Country": "United Kingdom, United States, Jamaica"
+    },
+    {
+      "title": "Mission: Impossible",
+      "netflix_url": "https://www.netflix.com/title/765912",
+      "year": "1996",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0117060",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGZjNDlkMTYtMTJkZi00OTkzLWI4NDEtYTA2ODQyMjcwYTdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Brian De Palma",
+      "Writer": "Bruce Geller, David Koepp, Steven Zaillian",
+      "Actors": "Tom Cruise, Jon Voight, Emmanuelle Béart",
+      "Language": "English, French, Czech",
+      "Country": "United States"
     },
     {
       "title": "Moonraker",
@@ -1004,6 +1106,23 @@
       "Actors": "Sean Penn, Idris Elba, Jasmine Trinca",
       "Language": "English, Spanish",
       "Country": "United States, Spain, United Kingdom, France"
+    },
+    {
+      "title": "Mission: Impossible - Rogue Nation",
+      "netflix_url": "https://www.netflix.com/title/80038359",
+      "year": "2015",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt2381249",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjUwZjg2ZjAtY2RhZi00YmZjLTlhNGQtOWQwNDk1MjhhM2NhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ethan and his team take on their most impossible mission yet when they have to eradicate an international rogue organization as highly skilled as they are and committed to destroying the IMF.",
+      "Type": "movie",
+      "RunTime": "131 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Christopher McQuarrie",
+      "Writer": "Bruce Geller, Christopher McQuarrie, Drew Pearce",
+      "Actors": "Tom Cruise, Rebecca Ferguson, Jeremy Renner",
+      "Language": "English, Swedish, German, Russian",
+      "Country": "United States, China, United Kingdom, Austria, Morocco, Hong Kong"
     },
     {
       "title": "The Siege of Jadotville",
@@ -1856,6 +1975,23 @@
       "Country": "United Kingdom, Norway, China, Canada, United States, France"
     },
     {
+      "title": "Black and Blue",
+      "netflix_url": "https://www.netflix.com/title/81086524",
+      "year": "2019",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt7390646",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFmZjE5NmUtZGFjYi00Zjc0LWIyYzYtZDhlYzVlZDUxY2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A rookie New Orleans police officer is forced to balance her identity as a black woman after she witnesses two corrupt cops committing murder.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Action, Thriller",
+      "Director": "Deon Taylor",
+      "Writer": "Peter A. Dowling",
+      "Actors": "Naomie Harris, Tyrese Gibson, Frank Grillo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Extraction 2",
       "netflix_url": "https://www.netflix.com/title/81098494",
       "year": "2023",
@@ -2395,6 +2531,23 @@
       "Actors": "Jason Statham, Holt McCallany, Josh Hartnett",
       "Language": "English, Spanish, Arabic",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "A Day to Die",
+      "netflix_url": "https://www.netflix.com/title/81474293",
+      "year": "2022",
+      "imdb_rating": "3.5",
+      "imdb_id": "tt14412366",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODVlYjc0NDAtZTNjMy00YjNhLTg0ZDQtNDY1NWJiMWI0NGIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Connor Connolly has one day to pay reparations to Tyrone Pettis. He is forced to ask his old military ops crew, led by Brice Mason, to come together to get him two million dollars before he loses everyone he loves in the process.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wes Miller",
+      "Writer": "Rab Berry, Scott Mallace",
+      "Actors": "Kevin Dillon, Bruce Willis, Frank Grillo",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Yaksha: Ruthless Operations",

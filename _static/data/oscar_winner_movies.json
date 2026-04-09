@@ -173,6 +173,23 @@
       "Country": "United States"
     },
     {
+      "title": "Jaws",
+      "netflix_url": "https://www.netflix.com/title/60001220",
+      "year": "1975",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0073195",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Steven Spielberg",
+      "Writer": "Peter Benchley, Carl Gottlieb",
+      "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Moulin Rouge!",
       "netflix_url": "https://www.netflix.com/title/60021659",
       "year": "2001",
@@ -528,6 +545,23 @@
       "Actors": "Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey",
       "Language": "Spanish, Mixtec, English, Japanese, German, French, Norwegian",
       "Country": "Mexico, United States"
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "netflix_url": "https://www.netflix.com/title/80994899",
+      "year": "2018",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt1727824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
+      "Plot": "With his impeccable vocal abilities, Freddie Mercury and his rock band, Queen, achieve superstardom. However, amidst his skyrocketing success, he grapples with his ego, sexuality and a fatal illness.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Bryan Singer",
+      "Writer": "Anthony McCarten, Peter Morgan",
+      "Actors": "Rami Malek, Lucy Boynton, Gwilym Lee",
+      "Language": "English, British Sign ",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Spider-Man: Into the Spider-Verse",

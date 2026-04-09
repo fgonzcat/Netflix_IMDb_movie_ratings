@@ -1107,9 +1107,19 @@
     {
       "title": "FIFA Uncovered",
       "netflix_url": "https://www.netflix.com/title/80221113",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2022",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt22872838",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmE1OWZlZjktOGZjOC00OWYwLWIxZmYtNTA1MzljMjU5YjI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "From power struggles to global politics, an exploration of FIFA reveals the organization's checkered history and what it takes to host a World Cup.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jérôme Valcke, David Conn, Ken Bensinger",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Alien Worlds",
@@ -2230,9 +2240,19 @@
     {
       "title": "Catching Killers",
       "netflix_url": "https://www.netflix.com/title/81264650",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt29484936",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Surviving Paradise",
@@ -3328,6 +3348,23 @@
       "Actors": "Ugo Monye, Finn Russell, Gregor Townsend",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "African Queens: Njinga",
+      "netflix_url": "https://www.netflix.com/title/81650731",
+      "year": "2023",
+      "imdb_rating": "3.1",
+      "imdb_id": "tt15305648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDYyZGY0YmUtMjczMS00ZWFhLThjZmQtM2Q3MDMzMTkwOWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Expert interviews and other documentary content with premium scripted docudrama about different queens.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Drama, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Adesuwa Oni, Eshe Asante, Sivuyile Ngesi",
+      "Language": "English",
+      "Country": "Morocco, United States"
     },
     {
       "title": "The Man with 1000 Kids",

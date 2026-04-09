@@ -105,6 +105,40 @@
       "Country": "India"
     },
     {
+      "title": "The Lazarus Project",
+      "netflix_url": "https://www.netflix.com/title/70105820",
+      "year": "2008",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0464041",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI5NGNjNjctNTQwOS00MjZjLWI1YzQtNjYzMmQ1ZjhlM2U1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A paroled former criminal is drawn into an endeavor that puts life with his family at risk and subsequently finds himself living an inexplicable new life working at a psychiatric facility.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "John Glenn",
+      "Writer": "John Glenn, Evan Astrowsky",
+      "Actors": "Paul Walker, Piper Perabo, Brooklynn Proulx",
+      "Language": "English",
+      "Country": "United States, Canada, United Kingdom"
+    },
+    {
+      "title": "The Roommate",
+      "netflix_url": "https://www.netflix.com/title/70123922",
+      "year": "2011",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt1265990",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMzQwMzMwNF5BMl5BanBnXkFtZTcwNjE5MTUxNA@@._V1_SX300.jpg",
+      "Plot": "When college freshman Sara arrives on campus for the first time, she befriends her roommate, Rebecca, unaware that the girl is becoming dangerously obsessed with her.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Christian E. Christiansen",
+      "Writer": "Sonny Mallhi",
+      "Actors": "Minka Kelly, Leighton Meester, Cam Gigandet",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Silent House",
       "netflix_url": "https://www.netflix.com/title/70170056",
       "year": "2011",
@@ -953,6 +987,13 @@
       "Actors": "Parineeti Chopra, Aditi Rao Hydari, Kirti Kulhari",
       "Language": "Hindi, English",
       "Country": "India"
+    },
+    {
+      "title": "Game Over (Telugu Version)",
+      "netflix_url": "https://www.netflix.com/title/81151878",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Game Over (Hindi Version)",

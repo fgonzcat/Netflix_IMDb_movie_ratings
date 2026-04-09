@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/869",
   "movies": [
     {
+      "title": "To Die For",
+      "netflix_url": "https://www.netflix.com/title/1051468",
+      "year": "1995",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0114681",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWJlODViYTUtMzY3MS00ZDRlLTkzODQtMDdiOTBiN2E0MDA5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A beautiful but naïve aspiring television personality films a documentary on teenagers with a darker ulterior motive.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Gus Van Sant",
+      "Writer": "Joyce Maynard, Buck Henry",
+      "Actors": "Nicole Kidman, Matt Dillon, Joaquin Phoenix",
+      "Language": "English",
+      "Country": "United Kingdom, Canada, United States"
+    },
+    {
       "title": "Deconstructing Harry",
       "netflix_url": "https://www.netflix.com/title/1179827",
       "year": "1997",
@@ -341,6 +358,40 @@
       "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
       "Language": "English, French",
       "Country": "United States"
+    },
+    {
+      "title": "American Hustle",
+      "netflix_url": "https://www.netflix.com/title/70281530",
+      "year": "2013",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1800241",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ2NzEwZGEtYjk1MC00NWFmLTgyYTgtZmRhMTRmOTBlN2U5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild F.B.I. Agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and the Mafia.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Crime, Drama",
+      "Director": "David O. Russell",
+      "Writer": "Eric Warren Singer, David O. Russell",
+      "Actors": "Christian Bale, Amy Adams, Bradley Cooper",
+      "Language": "English, Arabic",
+      "Country": "United States, China"
+    },
+    {
+      "title": "Alan Partridge",
+      "netflix_url": "https://www.netflix.com/title/70296884",
+      "year": "2013",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0469021",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzODAxODYzM15BMl5BanBnXkFtZTgwMzYwOTcwMTE@._V1_SX300.jpg",
+      "Plot": "When famous DJ Alan Partridge's radio station is taken over by a new media conglomerate, it sets in motion a chain of events which see Alan having to work with the police to defuse a potentially violent siege.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Declan Lowney",
+      "Writer": "Neil Gibbons, Rob Gibbons, Steve Coogan",
+      "Actors": "Steve Coogan, Colm Meaney, Tim Key",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Life After Beth",
@@ -2260,6 +2311,13 @@
       "Actors": "Subash Chandran, Rajesh Madhavan, Raina Radhakrishnan",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Sampradayani Suppini Sudhapoosani",
+      "netflix_url": "https://www.netflix.com/title/82768193",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Masthishka Maranam: A Frankenbiting of Simon's Memories",
