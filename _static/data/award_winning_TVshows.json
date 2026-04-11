@@ -697,6 +697,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Making a Murderer",
+      "netflix_url": "https://www.netflix.com/title/80000770",
+      "year": "2018",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt5189670",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4Mjc1NjE4Ml5BMl5BanBnXkFtZTgwMjk2NjA1NjM@._V1_SX300.jpg",
+      "Plot": "Filmed over a 10-year period, Steven Avery, a DNA exoneree who, while in the midst of exposing corruption in local law enforcement, finds himself the prime suspect in a grisly new crime.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Steven Avery, Dolores Avery, Allan Avery",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Peaky Blinders",
       "netflix_url": "https://www.netflix.com/title/80002479",
       "year": "2022",
@@ -933,6 +950,23 @@
       "Actors": "David Attenborough",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "Five Came Back",
+      "netflix_url": "https://www.netflix.com/title/80049928",
+      "year": "2017",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt6587094",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMwOTM1MTY5NF5BMl5BanBnXkFtZTgwMjQ0MTM4MTI@._V1_SX300.jpg",
+      "Plot": "The wartime contributions of five prominent Hollywood film directors during World War II are profiled.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Steven Spielberg, Meryl Streep, Guillermo del Toro",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "A Series of Unfortunate Events",
@@ -1375,6 +1409,23 @@
       "Actors": "Shad, LL Cool J, Big Daddy Kane",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "Wild Wild Country",
+      "netflix_url": "https://www.netflix.com/title/80145240",
+      "year": "2018",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt7768848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY5ZWY0YzctOGNjMi00MzM0LWFjNDUtNDUxMzI0Mjc1N2Y1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Osho, the world's most controversial guru, builds an Utopian city deep in the Oregon country, conflict with the locals escalates into a national scandal.",
+      "Type": "series",
+      "RunTime": "403 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Chapman Way, Maclain Way",
+      "Writer": "N/A",
+      "Actors": "Ma Anand Sheela, Philip Toelkes, Jane Stork",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Dark Crystal: Age of Resistance",
@@ -1973,6 +2024,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Staircase",
+      "netflix_url": "https://www.netflix.com/title/80233441",
+      "year": "2018",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt7651590",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short, Drama",
+      "Director": "Céleste Dela",
+      "Writer": "N/A",
+      "Actors": "Xander Turian, Hal Rothwell, Karin Torbjörnsdóttir",
+      "Language": "English",
+      "Country": "Czech Republic"
+    },
+    {
       "title": "The Queen's Gambit",
       "netflix_url": "https://www.netflix.com/title/80234304",
       "year": "2020",
@@ -2471,6 +2539,23 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Castle Rock",
+      "netflix_url": "https://www.netflix.com/title/81036944",
+      "year": "2019",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt6548228",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc0NWMyMGEtNDdjMy00MzRlLWFmMGYtZThmNTRhOGQ3OTIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A psychological-horror series set in the Stephen King multiverse combines the mythological scale and intimate character storytelling, weaving an epic saga of darkness and light, played out on a few square miles of Maine woodland.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "N/A",
+      "Writer": "Sam Shaw, Dustin Thomason",
+      "Actors": "Bill Skarsgård, André Holland, Lizzy Caplan",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Cheer",
@@ -3572,6 +3657,40 @@
       "Country": "South Korea"
     },
     {
+      "title": "Death by Lightning",
+      "netflix_url": "https://www.netflix.com/title/81438325",
+      "year": "2025",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt31121364",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGM3ZGYzMTUtNGJjMS00Y2FkLWEwOTktNThlZDVhNTgyMDVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dramatizes the stranger-than-fiction true story of 20th U.S. President James Garfield, and admirer Charles Guiteau, who assassinated him.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography, Drama, History",
+      "Director": "N/A",
+      "Writer": "Mike Makowsky",
+      "Actors": "Matthew Macfadyen, Michael Shannon, Betty Gilpin",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Big Vape: The Rise and Fall of Juul",
+      "netflix_url": "https://www.netflix.com/title/81444184",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt14081634",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWU1M2I4ZTUtNDJmYy00NTM1LTgxNjYtNTllOGY0Y2IzMzMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this docuseries, a scrappy electronic cigarette startup becomes a multibillion-dollar company until an epidemic causes its success to go up in smoke.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Allen Gladstone, Robert Proctor, David Pierce",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "BEEF",
       "netflix_url": "https://www.netflix.com/title/81447461",
       "year": "2023",
@@ -3856,6 +3975,23 @@
       "Actors": "Park Bo-young, Yeon Woo-jin, Jang Dong-yoon",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "American Manhunt: The Boston Marathon Bombing",
+      "netflix_url": "https://www.netflix.com/title/81580822",
+      "year": "2023",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt27142031",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxN2U4MzctZjMxYy00OGUzLWE0NDctYzM4NGRhZjhiMjk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows the tragedy in which terrorists detonated a bomb at the Boston Marathon's finish line; they carried out the attack by placing two homemade pressure-cooker bombs that resulted in three fatalities and numerous injuries.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "William B. Evans, Rick Deslauriers, Phillip Martin",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Tore",

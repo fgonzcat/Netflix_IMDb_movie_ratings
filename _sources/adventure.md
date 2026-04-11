@@ -6,6 +6,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7442" target="_blan
 
 | IMDb ⭐ | Poster | Year | Title | IMDb | Netflix |
 |:-------:|:-------:|:-------:|:------|------|---------|
+| 8.5 | <img src="https://m.media-amazon.com/images/M/MV5BZTI0NmU5MTItY2RjNC00MzRiLThkMzEtNGFhMTAxZDU1MDdiXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Tu Yaa Main*</strong></summary>  <div class="movie-plot">Two content creators' adventure becomes a deadly game of survival, forcing them to navigate both nature's dangers and their own rivalry.</div> </details> | <a href="https://www.imdb.com/title/tt36118360/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82134630" target="_blank">Netflix_link</a> |
 | 8.5 | <img src="https://m.media-amazon.com/images/M/MV5BNmIwYTI3ODItMzRkOS00MzlhLWI4NzQtNDFmOGJhZGJhM2VkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Baahubali The Epic*</strong></summary>  <div class="movie-plot">A legendary warrior emerges from humble beginnings to challenge powerful forces threatening his homeland, as ancient prophecies and family bonds shape his journey.</div> </details> | <a href="https://www.imdb.com/title/tt37893389/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82663312" target="_blank">Netflix_link</a> |
 | 8.4 | <img src="https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*Spider-Man: Into the Spider-Verse*</strong></summary>  <div class="movie-plot">Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.</div> </details> | <a href="https://www.imdb.com/title/tt4633694/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81002747" target="_blank">Netflix_link</a> |
 | 8.1 | <img src="https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 1975 | <details> <summary><strong style="color:#1f6feb;">*Jaws*</strong></summary>  <div class="movie-plot">When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.</div> </details> | <a href="https://www.imdb.com/title/tt0073195/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/60001220" target="_blank">Netflix_link</a> |
@@ -166,6 +167,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7442" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-08*
+*Page last updated on: 2026-04-10*
 
  

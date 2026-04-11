@@ -205,6 +205,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9584" target="_blan
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Den of Thieves 2: Pantera*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81677440" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMjJhZTE5NjMtMzU4Ni00MjFhLTk5ZGEtMGIyNjRkYzMxOTk5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Kingdom*</strong></summary>  <div class="movie-plot">KINGDOM is a short documentary about the drag kings of London: their performances, their community and their history.</div> </details> | <a href="https://www.imdb.com/title/tt37162821/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81678097" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Mass Jathara*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81678098" target="_blank">Netflix_link</a> |
+| N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Bhola Shankar (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81713075" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMThjYmViM2EtODQ5Ny00N2M1LWI4MjAtNzljZGMyZTcyNGVhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Bogeyman*</strong></summary>  <div class="movie-plot">A pharmacist doctor falls in love with a criminal who decides to repent and leave criminality, and together with his friend, faces many situations that turn the course of events upside down.</div> </details> | <a href="https://www.imdb.com/title/tt27881699/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81716255" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Leo (English)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81742215" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Japan (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81749751" target="_blank">Netflix_link</a> |
@@ -263,6 +264,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9584" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-08*
+*Page last updated on: 2026-04-10*
 
  

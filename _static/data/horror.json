@@ -1966,6 +1966,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Scream",
+      "netflix_url": "https://www.netflix.com/title/81305962",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt11245972",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NkYTYzOGUtMzk1Yy00YmI0LWIzODEtMjQ0MWU0NWI4ODdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "25 years after the original Woodsboro killings, a new Ghostface begins targeting teens connected to the town's dark past, drawing the final 3 survivors of the first attack back once more.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Matt Bettinelli-Olpin, Tyler Gillett",
+      "Writer": "James Vanderbilt, Guy Busick, Kevin Williamson",
+      "Actors": "Neve Campbell, Courteney Cox, David Arquette",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Ghost Lab",
       "netflix_url": "https://www.netflix.com/title/81306156",
       "year": "2021",
@@ -2744,6 +2761,13 @@
       "Actors": "Ajay Devgn, Madhavan, Jyotika",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Katteri (Malayalam)",
+      "netflix_url": "https://www.netflix.com/title/81632776",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Chandramukhi 2",
@@ -4086,6 +4110,23 @@
       "Actors": "Jack O'Connell, Alfie Williams, Connor Newall",
       "Language": "English",
       "Country": "United Kingdom, United States, Canada"
+    },
+    {
+      "title": "Mudborn",
+      "netflix_url": "https://www.netflix.com/title/82647937",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt38365045",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDAzNmE0OWUtMTc4ZS00MDkzLWI2ZmMtMzA3MGEyNjU0MDIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A video-game designer's will is tested when a mysterious spirit infiltrates his new family and threatens the life of his expecting wife.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Meng-Ju Shieh",
+      "Writer": "Yu-Chu Chiang, Yen-Chiao Huang, Meng-Ju Shieh",
+      "Actors": "Yo Yang, Cecilia Choi, Derek Chang",
+      "Language": "Mandarin",
+      "Country": "Taiwan"
     },
     {
       "title": "Re/Member: The Last Night",

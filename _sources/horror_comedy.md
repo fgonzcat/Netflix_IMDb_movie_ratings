@@ -39,6 +39,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/89585" target="_bla
 | 2.6 | <img src="https://m.media-amazon.com/images/M/MV5BMzI4NzFmOTItZmQ5MS00MWMxLWExY2YtZWY0MzYyZDVhOWI3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Chandramukhi 2*</strong></summary>  <div class="movie-plot">A wealthy family faces numerous problems and reunites with their long-lost relatives to pray to their deity for solutions, unaware it will reawaken the feud between a classical dancer, Chandramukhi and Vettaiyan Raja from centurie...</div> </details> | <a href="https://www.imdb.com/title/tt12132908/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81644300" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Izla*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81510752" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Katteri*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81632774" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Katteri (Malayalam)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81632776" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Chandramukhi 2 (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81683124" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Conjuring Kannappan (Telugu)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81754783" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Kang Mak from Pee Mak*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81971170" target="_blank">Netflix_link</a> |
@@ -84,6 +85,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/89585" target="_bla
 
  
 ---
-*Page last updated on: 2026-04-08*
+*Page last updated on: 2026-04-10*
 
  

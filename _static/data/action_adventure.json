@@ -462,6 +462,23 @@
       "Country": "United States"
     },
     {
+      "title": "Mission: Impossible II",
+      "netflix_url": "https://www.netflix.com/title/60000521",
+      "year": "2000",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0120755",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWFjM2NhMTAtNDU1My00ODUxLTkwMzYtODQzNzM0ODM0ZWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "IMF agent Ethan Hunt is sent to Sydney to find and destroy a genetically modified disease called \"Chimera\".",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "John Woo",
+      "Writer": "Bruce Geller, Ronald D. Moore, Brannon Braga",
+      "Actors": "Tom Cruise, Dougray Scott, Thandiwe Newton",
+      "Language": "English",
+      "Country": "Germany, United States"
+    },
+    {
       "title": "Braveheart",
       "netflix_url": "https://www.netflix.com/title/60000540",
       "year": "1995",
@@ -1380,6 +1397,23 @@
       "Country": "South Africa, United States, Germany"
     },
     {
+      "title": "Mission: Impossible - Ghost Protocol",
+      "netflix_url": "https://www.netflix.com/title/70173048",
+      "year": "2011",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1229238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_SX300.jpg",
+      "Plot": "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Brad Bird",
+      "Writer": "Bruce Geller, Josh Appelbaum, André Nemec",
+      "Actors": "Tom Cruise, Jeremy Renner, Simon Pegg",
+      "Language": "English, Russian, French, Arabic, Swedish",
+      "Country": "United States, United Arab Emirates, Russia, Canada, Czech Republic, India"
+    },
+    {
       "title": "Colombiana",
       "netflix_url": "https://www.netflix.com/title/70178640",
       "year": "2011",
@@ -1939,6 +1973,23 @@
       "Actors": "Roger Moore, Yaphet Kotto, Jane Seymour",
       "Language": "English, Hungarian, Italian",
       "Country": "United Kingdom, United States, Jamaica"
+    },
+    {
+      "title": "Mission: Impossible",
+      "netflix_url": "https://www.netflix.com/title/765912",
+      "year": "1996",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0117060",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGZjNDlkMTYtMTJkZi00OTkzLWI4NDEtYTA2ODQyMjcwYTdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Brian De Palma",
+      "Writer": "Bruce Geller, David Koepp, Steven Zaillian",
+      "Actors": "Tom Cruise, Jon Voight, Emmanuelle Béart",
+      "Language": "English, French, Czech",
+      "Country": "United States"
     },
     {
       "title": "Moonraker",
@@ -6282,6 +6333,23 @@
       "Country": "United States, Japan"
     },
     {
+      "title": "Watch Out, We're Mad",
+      "netflix_url": "https://www.netflix.com/title/81495995",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0069697",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDdhMDRkYzItY2IzZC00Mzk1LWFmNWItNTM0YzVjYzU5OGMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a tied first place in a local stunt race, two drivers start a contest to decide which of them will own the prize, a dune buggy. But when a mobster destroys the car, they are determined to get it back.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Action, Comedy",
+      "Director": "Marcello Fondato",
+      "Writer": "Marcello Fondato, Francesco Scardamaglia, Vicente Coello",
+      "Actors": "Terence Hill, Bud Spencer, John Sharp",
+      "Language": "Italian",
+      "Country": "Italy, Spain"
+    },
+    {
       "title": "Minnal Murali",
       "netflix_url": "https://www.netflix.com/title/81497215",
       "year": "2021",
@@ -9114,6 +9182,23 @@
       "Country": "United States"
     },
     {
+      "title": "Tu Yaa Main",
+      "netflix_url": "https://www.netflix.com/title/82134630",
+      "year": "2026",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt36118360",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTI0NmU5MTItY2RjNC00MzRiLThkMzEtNGFhMTAxZDU1MDdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two content creators' adventure becomes a deadly game of survival, forcing them to navigate both nature's dangers and their own rivalry.",
+      "Type": "movie",
+      "RunTime": "143 min",
+      "Genre": "Romance, Thriller",
+      "Director": "Bejoy Nambiar",
+      "Writer": "Abhishek Bandekar, Himanshu Sharma",
+      "Actors": "Shanaya Kapoor, Adarsh Gourav, Amruta Khanvilkar",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Dhurandhar",
       "netflix_url": "https://www.netflix.com/title/82156122",
       "year": "2025",
@@ -9211,6 +9296,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Thrash",
+      "netflix_url": "https://www.netflix.com/title/82650122",
+      "year": "2026",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0780524",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI2OTQ0MjAyNV5BMl5BanBnXkFtZTcwNjAzOTA4MQ@@._V1_SX300.jpg",
+      "Plot": "Get Thrashed: The Story of Thrash Metal is the story of how bands like Metallica, Megadeth, Slayer, Anthrax, Exodus and others pioneered a new form of heavy metal in the early 1980's.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary, History, Music",
+      "Director": "Rick Ernst",
+      "Writer": "N/A",
+      "Actors": "Lee Altus, Russ Anderson, Death Angel",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Baahubali The Epic",

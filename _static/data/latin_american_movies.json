@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/100387",
   "movies": [
     {
+      "title": "Y Tu Mamá También",
+      "netflix_url": "https://www.netflix.com/title/60023237",
+      "year": "2001",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0245574",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTRmZmNlMjktZDRkMi00OGNjLWJkZGUtMDljNDViMGE3MjNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Mexico, two teenage boys and an older woman embark on a road trip and learn a thing or two about life and each other.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Drama",
+      "Director": "Alfonso Cuarón",
+      "Writer": "Carlos Cuarón, Alfonso Cuarón",
+      "Actors": "Maribel Verdú, Gael García Bernal, Daniel Giménez Cacho",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "La ley de Herodes",
       "netflix_url": "https://www.netflix.com/title/60033498",
       "year": "1999",
@@ -3039,6 +3056,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Reasonable Doubt: A Tale of Two Kidnappings",
+      "netflix_url": "https://www.netflix.com/title/81094883",
+      "year": "2021",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt15796900",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjIxZDEyM2ItZWRmZi00MWE3LTg2NjQtNDA1NzRmMThlYTFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fender bender that turned into a kidnapping case leads documentalist Roberto Hernández to expose the truth behind Mexico's flawed justice system.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jeremy Levy, Gary Littman, James Weaver Clark",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "The Kingdom",
       "netflix_url": "https://www.netflix.com/title/81095387",
       "year": "2023",
@@ -3111,6 +3145,23 @@
       "Writer": "N/A",
       "Actors": "Balthazar Murillo, Vanesa González, Alberto Ajaka",
       "Language": "Spanish, Italian",
+      "Country": "Argentina"
+    },
+    {
+      "title": "So Much Love to Give",
+      "netflix_url": "https://www.netflix.com/title/81108677",
+      "year": "2020",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt11827806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzIzNjQxNzUtZTJkMS00YTU3LWJjZTctNmQyNDZhZDc0ZjYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Fernando is a family man - equally committed to each of his two families. But one wrong turn brings them crashing together.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Comedy",
+      "Director": "Marcos Carnevale",
+      "Writer": "Adrián Suar, Marcos Carnevale, Nazareno Obregón Nieva",
+      "Actors": "Adrián Suar, Soledad Villamil, Gabriela Toscano",
+      "Language": "Spanish",
       "Country": "Argentina"
     },
     {
@@ -5868,6 +5919,23 @@
       "Country": "Colombia"
     },
     {
+      "title": "Crime Diaries: The Celebrity Stylist",
+      "netflix_url": "https://www.netflix.com/title/81581999",
+      "year": "2023",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt29692772",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzMyMzljYzUtNjIwYy00YTcxLThlMDUtMDI5MzliNzUxNmUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a celebrity stylist found stabbed to death next to his mother, a young detective is given 20 days to solve the case. Inspired by true events.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Crime",
+      "Director": "Jacques Toulemonde Vidal",
+      "Writer": "Jacques Toulemonde Vidal",
+      "Actors": "Diana Belmonte, Ernesto Benjumea, Nelson Camayo",
+      "Language": "Spanish",
+      "Country": "Colombia"
+    },
+    {
       "title": "El paseo 7",
       "netflix_url": "https://www.netflix.com/title/81582403",
       "year": "2023",
@@ -5992,6 +6060,23 @@
       "Actors": "Carlos 'Capi' Perez, Luis Robledo Richards, Gris Verduzco",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "From Dreams to Tragedy: The Fire that Shook Brazilian Football",
+      "netflix_url": "https://www.netflix.com/title/81609462",
+      "year": "2024",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt31491957",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg3ZTRiODctNGE0ZS00MjZiLTliMjgtMThmMGU0YzJkMGYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Careers of young Ninho do Urubu fire survivors are followed as families continue seeking justice three years after the tragedy.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
+      "Director": "N/A",
+      "Writer": "Pedro Asbeg, Renato Fagundes",
+      "Actors": "N/A",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "All the Places",

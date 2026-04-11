@@ -3125,6 +3125,23 @@
       "Country": "India"
     },
     {
+      "title": "Scream",
+      "netflix_url": "https://www.netflix.com/title/81305962",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt11245972",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NkYTYzOGUtMzk1Yy00YmI0LWIzODEtMjQ0MWU0NWI4ODdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "25 years after the original Woodsboro killings, a new Ghostface begins targeting teens connected to the town's dark past, drawing the final 3 survivors of the first attack back once more.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Matt Bettinelli-Olpin, Tyler Gillett",
+      "Writer": "James Vanderbilt, Guy Busick, Kevin Williamson",
+      "Actors": "Neve Campbell, Courteney Cox, David Arquette",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Ghost Lab",
       "netflix_url": "https://www.netflix.com/title/81306156",
       "year": "2021",
@@ -6803,6 +6820,23 @@
       "Director": "Aditya Suhas Jambhale",
       "Writer": "Aditya Dhar, Aditya Suhas Jambhale",
       "Actors": "Manav Kaul, Bhasha Sumbli, Arista Mehta",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Tu Yaa Main",
+      "netflix_url": "https://www.netflix.com/title/82134630",
+      "year": "2026",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt36118360",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTI0NmU5MTItY2RjNC00MzRiLThkMzEtNGFhMTAxZDU1MDdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two content creators' adventure becomes a deadly game of survival, forcing them to navigate both nature's dangers and their own rivalry.",
+      "Type": "movie",
+      "RunTime": "143 min",
+      "Genre": "Romance, Thriller",
+      "Director": "Bejoy Nambiar",
+      "Writer": "Abhishek Bandekar, Himanshu Sharma",
+      "Actors": "Shanaya Kapoor, Adarsh Gourav, Amruta Khanvilkar",
       "Language": "Hindi",
       "Country": "India"
     },

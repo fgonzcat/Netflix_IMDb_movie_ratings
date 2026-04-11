@@ -120,6 +120,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/31851" target="_bla
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYmYzMDhiZTgtNzYxZi00YTMwLWJlMjAtYjljNmZkMTRkN2M0XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*The Big Fake*</strong></summary>  <div class="movie-plot">Rome, 1970s. When Toni arrives in the city with the dream of becoming a great artist. But his hunger for life, destiny and perhaps even History will lead him to become the greatest of all forgers.</div> </details> | <a href="https://www.imdb.com/title/tt36741457/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81679860" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Takkar (Telugu)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81705149" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Takkar (Malayalam)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81705152" target="_blank">Netflix_link</a> |
+| N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Bhola Shankar (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81713075" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNWM2MjMxZTctZTU0YS00ZmY2LWEwZmQtYTljY2M5MzRjNWI3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*The Harouns*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt30784112/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81716254" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMThjYmViM2EtODQ5Ny00N2M1LWI4MjAtNzljZGMyZTcyNGVhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Bogeyman*</strong></summary>  <div class="movie-plot">A pharmacist doctor falls in love with a criminal who decides to repent and leave criminality, and together with his friend, faces many situations that turn the course of events upside down.</div> </details> | <a href="https://www.imdb.com/title/tt27881699/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81716255" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Leo (English)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81742215" target="_blank">Netflix_link</a> |
@@ -169,6 +170,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/31851" target="_bla
 
  
 ---
-*Page last updated on: 2026-04-08*
+*Page last updated on: 2026-04-10*
 
  
