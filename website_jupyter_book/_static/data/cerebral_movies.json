@@ -37,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "Jobs",
+      "netflix_url": "https://www.netflix.com/title/70267266",
+      "year": "2013",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt2357129",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5NTQ3MTYxN15BMl5BanBnXkFtZTcwODE2Nzk3OQ@@._V1_SX300.jpg",
+      "Plot": "The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Biography, Drama",
+      "Director": "Joshua Michael Stern",
+      "Writer": "Matt Whiteley",
+      "Actors": "Ashton Kutcher, Dermot Mulroney, Josh Gad",
+      "Language": "English",
+      "Country": "United States, Switzerland"
+    },
+    {
       "title": "Knight of Cups",
       "netflix_url": "https://www.netflix.com/title/70295174",
       "year": "2014",
@@ -86,6 +103,23 @@
       "Actors": "Alicia Vikander, Domhnall Gleeson, Oscar Isaac",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Best of Enemies",
+      "netflix_url": "https://www.netflix.com/title/80038199",
+      "year": "2015",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt4807408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MjA2NDkyM15BMl5BanBnXkFtZTgwNTIwNjUzNzM@._V1_SX300.jpg",
+      "Plot": "Civil rights activist Ann Atwater faces off against C.P. Ellis, Exalted Cyclops of the Ku Klux Klan, in 1971 Durham, North Carolina over the issue of school integration.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Robin Bissell",
+      "Writer": "Robin Bissell, Osha Gray Davidson",
+      "Actors": "Taraji P. Henson, Sam Rockwell, Babou Ceesay",
+      "Language": "English, Latin",
+      "Country": "United States"
     },
     {
       "title": "My Beautiful Broken Brain",
@@ -789,6 +823,23 @@
       "Country": "Italy, Switzerland, France, Germany"
     },
     {
+      "title": "The Green Knight",
+      "netflix_url": "https://www.netflix.com/title/81008356",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt9243804",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRjNmU1M2ItNDU4Ni00ZGY2LTlmNzItY2MxYmY3OTllZjMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fantasy retelling of the medieval story of Sir Gawain and the Green Knight.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Adventure, Drama, Fantasy",
+      "Director": "David Lowery",
+      "Writer": "David Lowery, The Gawain Poet",
+      "Actors": "Dev Patel, Alicia Vikander, Joel Edgerton",
+      "Language": "English, Latin",
+      "Country": "United States, Canada, Ireland"
+    },
+    {
       "title": "Cities of Last Things",
       "netflix_url": "https://www.netflix.com/title/81024041",
       "year": "2018",
@@ -1408,6 +1459,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Benedetta",
+      "netflix_url": "https://www.netflix.com/title/81478757",
+      "year": "2021",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt6823148",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTE2NzQ3MzgtMmYyZS00ZTgxLTgwMWMtMWYyOTIxMDIxYWE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A 17th-century nun in Italy suffers from disturbing religious and erotic visions. She is assisted by a companion, and the relationship between the two women develops into a romantic love affair.",
+      "Type": "movie",
+      "RunTime": "131 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "Paul Verhoeven",
+      "Writer": "David Birke, Paul Verhoeven, Judith C. Brown",
+      "Actors": "Virginie Efira, Charlotte Rampling, Daphné Patakia",
+      "Language": "French, Latin",
+      "Country": "France, Belgium, Netherlands"
+    },
+    {
       "title": "The Lost Daughter",
       "netflix_url": "https://www.netflix.com/title/81478910",
       "year": "2021",
@@ -1600,6 +1668,23 @@
       "Actors": "Lee Byung-hun, Yoo Ah-in, Hyun Bong-sik",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "The Creator",
+      "netflix_url": "https://www.netflix.com/title/81674655",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt11858890",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkxMTUxOTQtYzM4Yi00YzA2LTgzOTYtNDg2NTliODE0ZTRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Against the backdrop of a war between humans and robots with artificial intelligence, a former soldier finds the robots' secret weapon to end the conflict, an AI in the form of a child.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Gareth Edwards",
+      "Writer": "Gareth Edwards, Chris Weitz",
+      "Actors": "John David Washington, Madeleine Yuna Voyles, Gemma Chan",
+      "Language": "English, Thai",
+      "Country": "United States, Japan, Cambodia"
     },
     {
       "title": "Ulajh",

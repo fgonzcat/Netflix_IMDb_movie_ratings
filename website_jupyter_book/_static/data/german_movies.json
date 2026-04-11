@@ -1228,6 +1228,23 @@
       "Country": "Germany"
     },
     {
+      "title": "Eat Pray Bark",
+      "netflix_url": "https://www.netflix.com/title/81638691",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39465484",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTFhOTE3MjMtYTUxNS00OWVkLWFiYzAtZTVlYzMwZTI0NWUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this tumultuous comedy, five eccentric dog owners seek help in dealing with their four-legged friends. Their last hope: an intensive course with the charismatic and legendary dog trainer Nodon in the Tyrolean mountains. The qui...",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "Marco Petry",
+      "Writer": "Jane Ainscough, Marco Petry, Hortense Ullrich",
+      "Actors": "Alexandra Maria Lara, Devid Striesow, Anna Herrmann",
+      "Language": "German",
+      "Country": "Germany"
+    },
+    {
       "title": "Close to Home: Murder in the Coalfield",
       "netflix_url": "https://www.netflix.com/title/81641220",
       "year": "2022",
@@ -1430,6 +1447,13 @@
       "Actors": "Matthias Schweighöfer, Ruby O. Fee, Frederick Lau",
       "Language": "German, English",
       "Country": "Germany"
+    },
+    {
+      "title": "Barbara - Becoming Shirin David",
+      "netflix_url": "https://www.netflix.com/title/81953975",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

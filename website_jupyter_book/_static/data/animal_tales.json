@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "Madagascar",
+      "netflix_url": "https://www.netflix.com/title/70021636",
+      "year": "2005",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0351283",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjk4OGFmZmYtYWE4NC00MzM4LTkwZTItODdhMjk3NTZjMmI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of animals who have spent all their life in a New York zoo end up in the jungles of Madagascar, and must adjust to living in the wild.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Eric Darnell, Tom McGrath",
+      "Writer": "Mark Burton, Billy Frolick, Eric Darnell",
+      "Actors": "Chris Rock, Ben Stiller, David Schwimmer",
+      "Language": "English, Portuguese, Spanish, German, French, American Sign ",
+      "Country": "United States, Canada, United Kingdom"
+    },
+    {
       "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
       "netflix_url": "https://www.netflix.com/title/70021655",
       "year": "2005",
@@ -50,6 +67,23 @@
       "Director": "Tim Johnson, Karey Kirkpatrick",
       "Writer": "Len Blum, Lorne Cameron, David Hoselton",
       "Actors": "Bruce Willis, Garry Shandling, Steve Carell",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Madagascar: Escape 2 Africa",
+      "netflix_url": "https://www.netflix.com/title/70099116",
+      "year": "2008",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0479952",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_SX300.jpg",
+      "Plot": "The Madagascar animals fly back to New York City, but crash-land on an African nature reserve in Kenya, where they meet others of their own kind, and Alex especially discovers his royal heritage as prince of a lion pride.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Eric Darnell, Tom McGrath",
+      "Writer": "Etan Cohen, Eric Darnell, Tom McGrath",
+      "Actors": "Ben Stiller, Chris Rock, David Schwimmer",
       "Language": "English",
       "Country": "United States"
     },
@@ -93,6 +127,23 @@
       "Actors": "Frank Welker, Wally Wingert, Gregg Berger",
       "Language": "English, French",
       "Country": "France, United States, India, Singapore"
+    },
+    {
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "netflix_url": "https://www.netflix.com/title/70216224",
+      "year": "2012",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt1277953",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM5OWRiZTAtOTNkMS00NzNhLTkwYmYtMWI1MzkyMjE3MWE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Madagascar animals join a struggling European circus to get back to New York, but find themselves being pursued by a psychotic animal-control officer.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Eric Darnell, Tom McGrath, Conrad Vernon",
+      "Writer": "Eric Darnell, Noah Baumbach, Alejandro Bien-Willner",
+      "Actors": "Ben Stiller, Jada Pinkett Smith, Chris Rock",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Oscar's Oasis",
@@ -161,6 +212,23 @@
       "Actors": "Jesse Eisenberg, Anne Hathaway, Jemaine Clement",
       "Language": "English, Portuguese",
       "Country": "United States, Iraq, Canada"
+    },
+    {
+      "title": "Penguins of Madagascar: The Movie",
+      "netflix_url": "https://www.netflix.com/title/80013941",
+      "year": "2014",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1911658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1_SX300.jpg",
+      "Plot": "Skipper, Kowalski, Rico, and Private join forces with the secret organization North Wind in an effort to stop a terrible villain from wiping out all the penguins in the world.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Eric Darnell, Simon J. Smith",
+      "Writer": "Michael Colton, John Aboud, Brandon Sawyer",
+      "Actors": "Tom McGrath, Chris Miller, Christopher Knights",
+      "Language": "English, Italian, Mandarin, Spanish, Armenian",
+      "Country": "United States, Australia, India, Japan, Finland"
     },
     {
       "title": "Octonauts",
@@ -246,6 +314,23 @@
       "Actors": "Ashleigh Ball, Charles Demers, Rebecca Husain",
       "Language": "English",
       "Country": "Australia, Canada"
+    },
+    {
+      "title": "The Secret Life of Pets",
+      "netflix_url": "https://www.netflix.com/title/80095314",
+      "year": "2016",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt2709768",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_SX300.jpg",
+      "Plot": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Chris Renaud",
+      "Writer": "Cinco Paul, Ken Daurio, Brian Lynch",
+      "Actors": "Louis C.K., Eric Stonestreet, Kevin Hart",
+      "Language": "English",
+      "Country": "Japan, United States"
     },
     {
       "title": "ALVINNN!!! And the Chipmunks",
@@ -1289,6 +1374,23 @@
       "Country": "United States"
     },
     {
+      "title": "Clifford the Big Red Dog",
+      "netflix_url": "https://www.netflix.com/title/81286595",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt2397461",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBlZTI4ODEtNzEwYS00OTBmLTliMTMtYWUyZjc3Y2RhN2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young girl's love for a tiny puppy named Clifford makes the dog grow to an enormous size.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Walt Becker",
+      "Writer": "Jay Scherick, David Ronn, Blaise Hemingway",
+      "Actors": "Darby Camp, Jack Whitehall, Izaac Wang",
+      "Language": "English, Spanish, Russian, Mandarin",
+      "Country": "United States"
+    },
+    {
       "title": "Not Quite Narwhal",
       "netflix_url": "https://www.netflix.com/title/81296780",
       "year": "2023",
@@ -1844,6 +1946,23 @@
       "Country": "Mexico, United States, United Kingdom, Denmark, Spain"
     },
     {
+      "title": "Furry Friends Forever: Elmo Gets a Puppy",
+      "netflix_url": "https://www.netflix.com/title/82118668",
+      "year": "2021",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt15185154",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZjODI0YmYtYzE5OS00YjQzLWFjMGUtYzZmY2I4NzFhZjgwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this joyful special teaching us how to love and care for our furry friends, Elmo and Grover help a sweet stray puppy find a forever home.",
+      "Type": "movie",
+      "RunTime": "26 min",
+      "Genre": "Animation, Short",
+      "Director": "Joanna Hepworth, Rick Ritter, Arthur Mark Taylor",
+      "Writer": "Morgan Von Ancken",
+      "Actors": "Tyler Bunch, Leslie Carrara-Rudolph, Stephanie D'Abruzzo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "My Sesame Street Friends: My Sesame Music",
       "netflix_url": "https://www.netflix.com/title/82118699",
       "year": "2026",
@@ -1854,6 +1973,51 @@
       "title": "Sealook",
       "netflix_url": "https://www.netflix.com/title/82151512",
       "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Bad Guys 2",
+      "netflix_url": "https://www.netflix.com/title/82175765",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt30017619",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2YwODhmODctMjE2OS00Y2EyLWEyZTEtOGU3ODk5MGIzYmU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Bad Guys are struggling to find trust and acceptance in their newly minted lives as Good Guys, when they are pulled out of retirement and forced to do \"one last job\" by an all-female squad of criminals.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "JP Sans, Pierre Perifel",
+      "Writer": "Yoni Brenner, Etan Cohen, Aaron Blabey",
+      "Actors": "Sam Rockwell, Marc Maron, Awkwafina",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Zenon the Farmer: Let’s Sing and Dance",
+      "netflix_url": "https://www.netflix.com/title/82695037",
+      "year": "2011",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bartolito’s Adventures at the Farm",
+      "netflix_url": "https://www.netflix.com/title/82695044",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Lola the Cow’s Adventures at the Farm",
+      "netflix_url": "https://www.netflix.com/title/82695045",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bartolito’s Adventures on the Internet",
+      "netflix_url": "https://www.netflix.com/title/82695046",
+      "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
     }

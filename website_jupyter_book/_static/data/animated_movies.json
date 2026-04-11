@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Ricky Gervais Show",
+      "netflix_url": "https://www.netflix.com/title/70180094",
+      "year": "2012",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt1553644",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRkMTMwM2QtMDA1NC00NWRkLWI1ZTQtNzdlNWQzOWM1YWIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ricky Gervais and Stephen Merchant talk to Karl Pilkington about important things in life whilst Karl provides anything but intelligent answers. Comedy at its finest with wonderful animation.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Animation, Comedy, Talk-Show",
+      "Director": "N/A",
+      "Writer": "Ricky Gervais, Stephen Merchant, Karl Pilkington",
+      "Actors": "Ricky Gervais, Stephen Merchant, Karl Pilkington",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
+    },
+    {
       "title": "BoJack Horseman",
       "netflix_url": "https://www.netflix.com/title/70300800",
       "year": "2020",
@@ -76,6 +93,23 @@
       "Actors": "Abbi Jacobson, Eric André, Nat Faxon",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Watership Down",
+      "netflix_url": "https://www.netflix.com/title/80107989",
+      "year": "2018",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt5670764",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA5MjNmYWYtNzA5MC00YmIwLTljOGUtYTIyODA5MzcyZmU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Fleeing their doomed warren, a colony of rabbits struggle to find and defend a new home.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "James McAvoy, Nicholas Hoult, John Boyega",
+      "Language": "English",
+      "Country": "United Kingdom, Ireland, United States"
     },
     {
       "title": "Big Mouth",
@@ -1219,6 +1253,23 @@
       "Actors": "Smita Malhotra, Tarun Ratnani, Deepak Chachra",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Digman!",
+      "netflix_url": "https://www.netflix.com/title/81729879",
+      "year": "2025",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt22059768",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTUyMzQ1NGItZGI5Mi00ZThiLWIxYTctY2RkMjk5ODhmODdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of a world in which archaeologists are massive celebrities and the coolest people on the planet.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Neil Campbell, Andy Samberg",
+      "Actors": "Andy Samberg, Mitra Jouhari, Tim Robinson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Missing",

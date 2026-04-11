@@ -1598,6 +1598,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "Something Very Bad Is Going to Happen",
+      "netflix_url": "https://www.netflix.com/title/81667463",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32937780",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ0NDFhZGItODcxZC00ZjI1LThlNTYtMWMwMWFlZmY1YTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A certain atmosphere of horror is felt the week before the celebration of an unfortunate wedding.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Horror",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Camila Morrone, Adam DiMarco, Mason McDonald",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Haunted Hotel",
       "netflix_url": "https://www.netflix.com/title/81674500",
       "year": "2025",
@@ -1797,6 +1814,13 @@
       "Actors": "Tom Bateman, Donald Sumpter, Stephanie Hyam",
       "Language": "English, Latin",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Khemjira the Series",
+      "netflix_url": "https://www.netflix.com/title/82755470",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

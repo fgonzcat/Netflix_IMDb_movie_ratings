@@ -37,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "Fletch",
+      "netflix_url": "https://www.netflix.com/title/510088",
+      "year": "1985",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0089155",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM2MDEyMjQtOGQwYS00M2NjLWIwODgtYzRmYjQ5ZDMxZDEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While working undercover wisecracking newspaper reporter Irwin \"Fletch\" Fletcher is offered a large sum by a millionaire with a terminal disease to kill him. Intrigued, Fletch decides to unearth the full story behind the offer.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Crime, Mystery",
+      "Director": "Michael Ritchie",
+      "Writer": "Gregory McDonald, Andrew Bergman, Phil Alden Robinson",
+      "Actors": "Chevy Chase, Joe Don Baker, Dana Wheeler-Nicholson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "What Lies Beneath",
       "netflix_url": "https://www.netflix.com/title/60001396",
       "year": "2000",
@@ -173,6 +190,23 @@
       "Country": "India"
     },
     {
+      "title": "The Lazarus Project",
+      "netflix_url": "https://www.netflix.com/title/70105820",
+      "year": "2008",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0464041",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI5NGNjNjctNTQwOS00MjZjLWI1YzQtNjYzMmQ1ZjhlM2U1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A paroled former criminal is drawn into an endeavor that puts life with his family at risk and subsequently finds himself living an inexplicable new life working at a psychiatric facility.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "John Glenn",
+      "Writer": "John Glenn, Evan Astrowsky",
+      "Actors": "Paul Walker, Piper Perabo, Brooklynn Proulx",
+      "Language": "English",
+      "Country": "United States, Canada, United Kingdom"
+    },
+    {
       "title": "Silent House",
       "netflix_url": "https://www.netflix.com/title/70170056",
       "year": "2011",
@@ -241,6 +275,23 @@
       "Country": "United Kingdom, United States, France, Sweden"
     },
     {
+      "title": "The Captive",
+      "netflix_url": "https://www.netflix.com/title/80013547",
+      "year": "2014",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt2326612",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwMTIxNDg0OV5BMl5BanBnXkFtZTgwNTM0MzU0MzE@._V1_SX300.jpg",
+      "Plot": "Eight years after the disappearance of Cassandra, some disturbing incidents seem to indicate that she's still alive. Police, parents and Cassandra herself, will try to unravel the mystery of her disappearance.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Atom Egoyan",
+      "Writer": "Atom Egoyan, David Fraser",
+      "Actors": "Ryan Reynolds, Scott Speedman, Rosario Dawson",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
       "title": "Dark Places",
       "netflix_url": "https://www.netflix.com/title/80025495",
       "year": "2015",
@@ -271,6 +322,23 @@
       "Director": "Dibakar Banerjee",
       "Writer": "Urmi Juvekar, Dibakar Banerjee, Saradindu Bandopadhyay",
       "Actors": "Sushant Singh Rajput, Anand Tiwari, Neeraj Kabi",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Talvar",
+      "netflix_url": "https://www.netflix.com/title/80080618",
+      "year": "2015",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt4934950",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzODg0Mjc4M15BMl5BanBnXkFtZTgwNzY4Mzc3NjE@._V1_SX300.jpg",
+      "Plot": "An experienced investigator confronts several conflicting theories about the perpetrators of a violent double homicide.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Meghna Gulzar",
+      "Writer": "Vishal Bhardwaj, Aditya Nimbalkar",
+      "Actors": "Irrfan Khan, Konkona Sen Sharma, Neeraj Kabi",
       "Language": "Hindi",
       "Country": "India"
     },
@@ -647,6 +715,23 @@
       "Actors": "Adam Sandler, Kevin James, Julie Bowen",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The House with a Clock in Its Walls",
+      "netflix_url": "https://www.netflix.com/title/80986886",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt2119543",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MwZjI4OGYtYjM1ZS00ODEzLTkzZDItMzNhYWFhMjQzMzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young orphan named Lewis Barnavelt aids his magical uncle in locating a clock with the power to bring about the end of the world.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Eli Roth",
+      "Writer": "John Bellairs, Eric Kripke",
+      "Actors": "Jack Black, Cate Blanchett, Owen Vaccaro",
+      "Language": "English",
+      "Country": "United States, Canada, India"
     },
     {
       "title": "The Legacy of the Bones",
@@ -1072,6 +1157,13 @@
       "Actors": "Jack Cruz, David Lynch, Toototabon",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Spiral: From the Book of Saw",
+      "netflix_url": "https://www.netflix.com/title/81252467",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Recurrence",
@@ -1734,6 +1826,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Vengeance",
+      "netflix_url": "https://www.netflix.com/title/81588983",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt11976532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A writer from New York City attempts to solve the murder of a girl he hooked up with and travels down south to investigate the circumstances of her death and discover what happened to her.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Comedy, Music, Mystery",
+      "Director": "B.J. Novak",
+      "Writer": "B.J. Novak",
+      "Actors": "B.J. Novak, Boyd Holbrook, Lio Tipton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Murderer",
       "netflix_url": "https://www.netflix.com/title/81597188",
       "year": "2023",
@@ -1928,6 +2037,23 @@
       "Country": "Spain, United Kingdom, Bulgaria"
     },
     {
+      "title": "Accused",
+      "netflix_url": "https://www.netflix.com/title/81661375",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39631179",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhmM2U5ZTktY2U1Yy00NjU3LTllYjktNzJhM2VlMjJhYjY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama, Thriller",
+      "Director": "Anubhuti Kashyap",
+      "Writer": "Sima Agarwal, Yash Keswani",
+      "Actors": "Konkona Sen Sharma, Pratibha Ranta, Sukant Goel",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Almost Cops",
       "netflix_url": "https://www.netflix.com/title/81661402",
       "year": "2025",
@@ -2011,6 +2137,23 @@
       "Actors": "Shailene Woodley, Ben Mendelsohn, Jovan Adepo",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Anatomy of a Fall",
+      "netflix_url": "https://www.netflix.com/title/81713297",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt17009710",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman is suspected of murder after her husband's death; their half-blind son faces a moral dilemma as the main witness.",
+      "Type": "movie",
+      "RunTime": "151 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Justine Triet",
+      "Writer": "Justine Triet, Arthur Harari",
+      "Actors": "Sandra Hüller, Swann Arlaud, Milo Machado-Graner",
+      "Language": "French, English",
+      "Country": "France"
     },
     {
       "title": "Merry Christmas (Tamil)",

@@ -71,6 +71,40 @@
       "Country": "United States"
     },
     {
+      "title": "Fletch",
+      "netflix_url": "https://www.netflix.com/title/510088",
+      "year": "1985",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0089155",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM2MDEyMjQtOGQwYS00M2NjLWIwODgtYzRmYjQ5ZDMxZDEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While working undercover wisecracking newspaper reporter Irwin \"Fletch\" Fletcher is offered a large sum by a millionaire with a terminal disease to kill him. Intrigued, Fletch decides to unearth the full story behind the offer.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Crime, Mystery",
+      "Director": "Michael Ritchie",
+      "Writer": "Gregory McDonald, Andrew Bergman, Phil Alden Robinson",
+      "Actors": "Chevy Chase, Joe Don Baker, Dana Wheeler-Nicholson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Small Time Crooks",
+      "netflix_url": "https://www.netflix.com/title/60001172",
+      "year": "2000",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0196216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg2NjcyZGMtNGE2NC00NWYwLTg4ZTAtNjBkMzU2MWI2OWU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An inept crook and his wife strike it rich when their botched bank job's cookie-making cover business becomes a phenomenal success.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Comedy, Crime",
+      "Director": "Woody Allen",
+      "Writer": "Woody Allen",
+      "Actors": "Woody Allen, Tracey Ullman, Hugh Grant",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Best in Show",
       "netflix_url": "https://www.netflix.com/title/60002428",
       "year": "2000",
@@ -224,6 +258,23 @@
       "Country": "United States"
     },
     {
+      "title": "How Do You Know",
+      "netflix_url": "https://www.netflix.com/title/70138790",
+      "year": "2010",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt1341188",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQyMzU4OTk1N15BMl5BanBnXkFtZTcwNTE5MTUxNA@@._V1_SX300.jpg",
+      "Plot": "After being cut from the U.S.A. softball team and feeling a bit past her prime, Lisa finds herself evaluating her life and in the middle of a love triangle, as a corporate guy in crisis competes with her current, baseball-playing ...",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "James L. Brooks",
+      "Writer": "James L. Brooks",
+      "Actors": "Reese Witherspoon, Paul Rudd, Owen Wilson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Crazy, Stupid, Love.",
       "netflix_url": "https://www.netflix.com/title/70167068",
       "year": "2011",
@@ -309,6 +360,57 @@
       "Country": "United States, Brazil"
     },
     {
+      "title": "The Lego Movie",
+      "netflix_url": "https://www.netflix.com/title/70289949",
+      "year": "2014",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt1490017",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+      "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Phil Lord, Christopher Miller",
+      "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+      "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+      "Language": "English",
+      "Country": "United States, Denmark, Australia, Norway"
+    },
+    {
+      "title": "Alan Partridge",
+      "netflix_url": "https://www.netflix.com/title/70296884",
+      "year": "2013",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0469021",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzODAxODYzM15BMl5BanBnXkFtZTgwMzYwOTcwMTE@._V1_SX300.jpg",
+      "Plot": "When famous DJ Alan Partridge's radio station is taken over by a new media conglomerate, it sets in motion a chain of events which see Alan having to work with the police to defuse a potentially violent siege.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Declan Lowney",
+      "Writer": "Neil Gibbons, Rob Gibbons, Steve Coogan",
+      "Actors": "Steve Coogan, Colm Meaney, Tim Key",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
+      "title": "Frank",
+      "netflix_url": "https://www.netflix.com/title/70299856",
+      "year": "2014",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt1605717",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0OTczMTcxOV5BMl5BanBnXkFtZTgwMDU1MDUwMjE@._V1_SX300.jpg",
+      "Plot": "Jon, a young wanna-be musician, discovers he's bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Lenny Abrahamson",
+      "Writer": "Jon Ronson, Peter Straughan",
+      "Actors": "Michael Fassbender, Domhnall Gleeson, Maggie Gyllenhaal",
+      "Language": "English, French, German",
+      "Country": "Ireland, United Kingdom"
+    },
+    {
       "title": "Obvious Child",
       "netflix_url": "https://www.netflix.com/title/70301275",
       "year": "2014",
@@ -323,6 +425,40 @@
       "Writer": "Gillian Robespierre, Karen Maine, Elisabeth Holm",
       "Actors": "Jenny Slate, Jake Lacy, Gaby Hoffmann",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Penguins of Madagascar: The Movie",
+      "netflix_url": "https://www.netflix.com/title/80013941",
+      "year": "2014",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1911658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1_SX300.jpg",
+      "Plot": "Skipper, Kowalski, Rico, and Private join forces with the secret organization North Wind in an effort to stop a terrible villain from wiping out all the penguins in the world.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Eric Darnell, Simon J. Smith",
+      "Writer": "Michael Colton, John Aboud, Brandon Sawyer",
+      "Actors": "Tom McGrath, Chris Miller, Christopher Knights",
+      "Language": "English, Italian, Mandarin, Spanish, Armenian",
+      "Country": "United States, Australia, India, Japan, Finland"
+    },
+    {
+      "title": "Best of Enemies",
+      "netflix_url": "https://www.netflix.com/title/80038199",
+      "year": "2015",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt4807408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MjA2NDkyM15BMl5BanBnXkFtZTgwNTIwNjUzNzM@._V1_SX300.jpg",
+      "Plot": "Civil rights activist Ann Atwater faces off against C.P. Ellis, Exalted Cyclops of the Ku Klux Klan, in 1971 Durham, North Carolina over the issue of school integration.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Robin Bissell",
+      "Writer": "Robin Bissell, Osha Gray Davidson",
+      "Actors": "Taraji P. Henson, Sam Rockwell, Babou Ceesay",
+      "Language": "English, Latin",
       "Country": "United States"
     },
     {
@@ -1565,6 +1701,23 @@
       "Country": "India"
     },
     {
+      "title": "Vengeance",
+      "netflix_url": "https://www.netflix.com/title/81588983",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt11976532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A writer from New York City attempts to solve the murder of a girl he hooked up with and travels down south to investigate the circumstances of her death and discover what happened to her.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Comedy, Music, Mystery",
+      "Director": "B.J. Novak",
+      "Writer": "B.J. Novak",
+      "Actors": "B.J. Novak, Boyd Holbrook, Lio Tipton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "How To Deal With a Heartbreak",
       "netflix_url": "https://www.netflix.com/title/81590644",
       "year": "2023",
@@ -1742,6 +1895,13 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "53 Sundays",
+      "netflix_url": "https://www.netflix.com/title/81731814",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Thursday Murder Club",
       "netflix_url": "https://www.netflix.com/title/81751137",
       "year": "2025",
@@ -1851,6 +2011,23 @@
       "Country": "United States"
     },
     {
+      "title": "Strangers in the Park",
+      "netflix_url": "https://www.netflix.com/title/81957702",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt7243394",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q4ZGUzZDYtMDlmYi00YzMwLTlhZmUtMTU2ZGYyYTkwNjExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two strangers. Two personalities. One hand-made secret.",
+      "Type": "movie",
+      "RunTime": "6 min",
+      "Genre": "Short, Comedy, Romance",
+      "Director": "Danilo Zambrano",
+      "Writer": "Danielle Galligan, Mark Lawrence, Danilo Zambrano",
+      "Actors": "Danielle Galligan, Mark Lawrence",
+      "Language": "English",
+      "Country": "Ireland"
+    },
+    {
       "title": "Blue Moon",
       "netflix_url": "https://www.netflix.com/title/82053241",
       "year": "2025",
@@ -1900,6 +2077,23 @@
       "Actors": "Guillaume Marbeck, Zoey Deutch, Aubry Dullin",
       "Language": "French, English, Italian",
       "Country": "France, United States"
+    },
+    {
+      "title": "Downton Abbey: The Grand Finale",
+      "netflix_url": "https://www.netflix.com/title/82087561",
+      "year": "2025",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt31888477",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTUxOWRkN2UtZjBlMS00NWU0LWE2M2ItZmY5MDJjMzlhYTk4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Mary finds herself in a public scandal and the family faces financial trouble, the household grapples with the threat of social disgrace. The Crawleys must embrace change with the next generation leading Downton Abbey into th...",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Drama",
+      "Director": "Simon Curtis",
+      "Writer": "Julian Fellowes",
+      "Actors": "Marilyn Cutts, Dominic West, Lorna Nickson Brown",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Jane Austen Wrecked My Life",
@@ -1967,6 +2161,23 @@
       "Writer": "Ethan Ogilby",
       "Actors": "Zoey Deutch, Jonah Hauer-King, Ruby Cruz",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "There There",
+      "netflix_url": "https://www.netflix.com/title/82708406",
+      "year": "2022",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt19796976",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGJiYTAwYTUtMjg1NC00YWY4LTg3ZDctZWMyNmI2ZTg5ZDFjXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_SX300.jpg",
+      "Plot": "A lover's doubt in the cold light of morning leads a chain of uneasy intimacies--counselors, disruptors, peacemakers and fire-starters--every one looking to have a little faith rewarded.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Andrew Bujalski",
+      "Writer": "Andrew Bujalski",
+      "Actors": "Jon Natchez, Lili Taylor, Lennie James",
+      "Language": "N/A",
       "Country": "United States"
     }
   ]

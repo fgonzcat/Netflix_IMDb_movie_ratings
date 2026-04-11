@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/107572",
   "movies": [
     {
+      "title": "A Man Called Ove",
+      "netflix_url": "https://www.netflix.com/title/80102116",
+      "year": "2015",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt4080728",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0NDUyOTc2MV5BMl5BanBnXkFtZTgwODk2NzU3OTE@._V1_SX300.jpg",
+      "Plot": "Ove, an ill-tempered, isolated retiree who spends his days enforcing block association rules and visiting his wife's grave, has finally given up on life just as an unlikely friendship develops with his boisterous new neighbors.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Hannes Holm",
+      "Writer": "Hannes Holm, Fredrik Backman",
+      "Actors": "Rolf Lassgård, Bahar Pars, Filip Berg",
+      "Language": "Swedish, Persian, Spanish",
+      "Country": "Sweden, Denmark, Norway"
+    },
+    {
       "title": "The 101-Year-Old Man Who Skipped Out on the Bill and Disappeared",
       "netflix_url": "https://www.netflix.com/title/80106337",
       "year": "2016",

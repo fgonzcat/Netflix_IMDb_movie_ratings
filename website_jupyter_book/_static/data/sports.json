@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/4370",
   "movies": [
     {
+      "title": "Field of Dreams",
+      "netflix_url": "https://www.netflix.com/title/499612",
+      "year": "1989",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0097351",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTEwMGYzNDktOWEyMi00NTJjLWE5MGQtNmNlNDkxOTYyZDA5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Iowa farmer Ray Kinsella is inspired by a voice he can't ignore to pursue a dream he can hardly believe. Supported by his wife, Ray begins the quest by turning his ordinary cornfield into a place where dreams can come true.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama, Family, Fantasy",
+      "Director": "Phil Alden Robinson",
+      "Writer": "W.P. Kinsella, Phil Alden Robinson",
+      "Actors": "Kevin Costner, James Earl Jones, Ray Liotta",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Sandlot",
       "netflix_url": "https://www.netflix.com/title/60021964",
       "year": "1993",
@@ -16,6 +33,23 @@
       "Director": "David Mickey Evans",
       "Writer": "David Mickey Evans, Robert Gunter",
       "Actors": "Tom Guiry, Mike Vitar, Art LaFleur",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Slap Shot",
+      "netflix_url": "https://www.netflix.com/title/60022761",
+      "year": "1977",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0076723",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg3YTJlYzMtMDhkMy00MTk4LTg1NDItMGMyOGMzMmJmY2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A failing ice hockey team finds success with outrageously violent hockey goonery.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Comedy, Drama, Sport",
+      "Director": "George Roy Hill",
+      "Writer": "Nancy Dowd",
+      "Actors": "Paul Newman, Michael Ontkean, Strother Martin",
       "Language": "English",
       "Country": "United States"
     },
@@ -84,6 +118,23 @@
       "Director": "D.J. Caruso",
       "Writer": "Dan Gilroy",
       "Actors": "Matthew McConaughey, Al Pacino, Rene Russo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Gridiron Gang",
+      "netflix_url": "https://www.netflix.com/title/70044599",
+      "year": "2006",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0421206",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4NTAwNTAzN15BMl5BanBnXkFtZTcwNjczODYzMQ@@._V1_SX300.jpg",
+      "Plot": "Teenagers at a juvenile detention center, under the leadership of their counselor, gain self-esteem by playing football together.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Phil Joanou",
+      "Writer": "Jeff Maguire, Jac Flanders",
+      "Actors": "Dwayne Johnson, Xzibit, L. Scott Caldwell",
       "Language": "English",
       "Country": "United States"
     },
@@ -1571,6 +1622,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Born a Champion",
+      "netflix_url": "https://www.netflix.com/title/81387757",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10661710",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDY1MjI5NTQtNGU0OC00OWZkLWIxMmItNGU1Mjg0NTI0Njc5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mickey Kelley, one of the first American black belts in Brazilian jiu-jitsu, gets pulled away from everything he loves and into an unsanctioned MMA tournament.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Action, Drama, Sport",
+      "Director": "Alex Ranarivelo",
+      "Writer": "Sean Patrick Flanery, Alex Ranarivelo",
+      "Actors": "Courtney Hope Turner, Maurice Compte, Sean Patrick Flanery",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Schumacher",
       "netflix_url": "https://www.netflix.com/title/81399204",
       "year": "2021",
@@ -1959,6 +2027,13 @@
       "imdb_id": null
     },
     {
+      "title": "Untold: Chess Mates",
+      "netflix_url": "https://www.netflix.com/title/81582391",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Fast & Feel Love",
       "netflix_url": "https://www.netflix.com/title/81598308",
       "year": "2022",
@@ -1991,6 +2066,23 @@
       "Actors": "Michael Shannon, Alexander Ludwig, Charles Melton",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Barbie & Stacie to the Rescue",
+      "netflix_url": "https://www.netflix.com/title/81607692",
+      "year": "2023",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt31181357",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWJmZDI5MmEtNjM5OC00MzY3LThiNjgtZmZlM2E0NzIxN2ZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Barbie's sister Stacie rescues Barbie and Skipper in her first lead role with new songs and puppies.",
+      "Type": "movie",
+      "RunTime": "60 min",
+      "Genre": "Animation, Family",
+      "Director": "Conrad Helten",
+      "Writer": "Kay Christianson-Donmyer, Margaret Dunlap, Mike Nawrocki",
+      "Actors": "Cassandra Lee Morris, Connor Andrade, Dino Andrade",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Gatta Kusthi",
@@ -2568,6 +2660,13 @@
       "Actors": "Sue Bird, Megan Rapinoe, Diana Taurasi",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Untold: The Death & Life of Lamar Odom",
+      "netflix_url": "https://www.netflix.com/title/81759610",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The First Slam Dunk",

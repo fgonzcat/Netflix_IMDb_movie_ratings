@@ -3,6 +3,40 @@
   "genre_url": "https://www.netflix.com/browse/genre/51056",
   "movies": [
     {
+      "title": "The Wiz",
+      "netflix_url": "https://www.netflix.com/title/1130238",
+      "year": "1978",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt0078504",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk3MjA2ZjItN2U5Ny00YjgwLTkyN2QtMmZkZDJmYzI1NGVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Harlem schoolteacher Dorothy is miraculously whisked away to an urban fantasy land called Oz, she goes in search of the Wiz, a wizard who can help her get back to Manhattan, along with the Scarecrow, the Tin Man and the Cowar...",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Sidney Lumet",
+      "Writer": "L. Frank Baum, William F. Brown, Joel Schumacher",
+      "Actors": "Diana Ross, Michael Jackson, Nipsey Russell",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Ghostbusters",
+      "netflix_url": "https://www.netflix.com/title/541018",
+      "year": "1984",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0087332",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Armed with proton packs, four paranormal investigators battle mischievous ghouls in New York.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Comedy, Fantasy",
+      "Director": "Ivan Reitman",
+      "Writer": "Dan Aykroyd, Harold Ramis",
+      "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Harry and the Hendersons",
       "netflix_url": "https://www.netflix.com/title/60010426",
       "year": "1987",
@@ -122,6 +156,23 @@
       "Country": "United States"
     },
     {
+      "title": "Madagascar",
+      "netflix_url": "https://www.netflix.com/title/70021636",
+      "year": "2005",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0351283",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjk4OGFmZmYtYWE4NC00MzM4LTkwZTItODdhMjk3NTZjMmI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of animals who have spent all their life in a New York zoo end up in the jungles of Madagascar, and must adjust to living in the wild.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Eric Darnell, Tom McGrath",
+      "Writer": "Mark Burton, Billy Frolick, Eric Darnell",
+      "Actors": "Chris Rock, Ben Stiller, David Schwimmer",
+      "Language": "English, Portuguese, Spanish, German, French, American Sign ",
+      "Country": "United States, Canada, United Kingdom"
+    },
+    {
       "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
       "netflix_url": "https://www.netflix.com/title/70021655",
       "year": "2005",
@@ -137,6 +188,23 @@
       "Actors": "Peter Sallis, Helena Bonham Carter, Ralph Fiennes",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Matilda",
+      "netflix_url": "https://www.netflix.com/title/70033005",
+      "year": "1996",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0117008",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE3ZDMzMmEtODgwNi00NzMxLThkYWItMTAzMWUyMzI1NDQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A girl gifted with a keen intellect and psychic powers uses both to get even with her callous family and free her kindly schoolteacher from the tyrannical grip of a sadistic headmistress.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Danny DeVito",
+      "Writer": "Roald Dahl, Nicholas Kazan, Robin Swicord",
+      "Actors": "Danny DeVito, Rhea Perlman, Mara Wilson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Cheaper by the Dozen 2",
@@ -273,6 +341,23 @@
       "Actors": "Shah Rukh Khan, Vidya Malvade, Sagarika Ghatge",
       "Language": "Hindi, English",
       "Country": "India, United States, United Kingdom, Australia"
+    },
+    {
+      "title": "Madagascar: Escape 2 Africa",
+      "netflix_url": "https://www.netflix.com/title/70099116",
+      "year": "2008",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0479952",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_SX300.jpg",
+      "Plot": "The Madagascar animals fly back to New York City, but crash-land on an African nature reserve in Kenya, where they meet others of their own kind, and Alex especially discovers his royal heritage as prince of a lion pride.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Eric Darnell, Tom McGrath",
+      "Writer": "Etan Cohen, Eric Darnell, Tom McGrath",
+      "Actors": "Ben Stiller, Chris Rock, David Schwimmer",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Thoda Pyaar Thoda Magic",
@@ -415,6 +500,23 @@
       "imdb_id": null
     },
     {
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "netflix_url": "https://www.netflix.com/title/70216224",
+      "year": "2012",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt1277953",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM5OWRiZTAtOTNkMS00NzNhLTkwYmYtMWI1MzkyMjE3MWE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Madagascar animals join a struggling European circus to get back to New York, but find themselves being pursued by a psychotic animal-control officer.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Eric Darnell, Tom McGrath, Conrad Vernon",
+      "Writer": "Eric Darnell, Noah Baumbach, Alejandro Bien-Willner",
+      "Actors": "Ben Stiller, Jada Pinkett Smith, Chris Rock",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Despicable Me 2",
       "netflix_url": "https://www.netflix.com/title/70264803",
       "year": "2013",
@@ -447,6 +549,23 @@
       "Actors": "Ryan Reynolds, Paul Giamatti, Maya Rudolph",
       "Language": "English",
       "Country": "United States, India"
+    },
+    {
+      "title": "The Lego Movie",
+      "netflix_url": "https://www.netflix.com/title/70289949",
+      "year": "2014",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt1490017",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+      "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Phil Lord, Christopher Miller",
+      "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+      "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+      "Language": "English",
+      "Country": "United States, Denmark, Australia, Norway"
     },
     {
       "title": "The Short Game",
@@ -602,6 +721,23 @@
       "Country": "United States"
     },
     {
+      "title": "Penguins of Madagascar: The Movie",
+      "netflix_url": "https://www.netflix.com/title/80013941",
+      "year": "2014",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1911658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1_SX300.jpg",
+      "Plot": "Skipper, Kowalski, Rico, and Private join forces with the secret organization North Wind in an effort to stop a terrible villain from wiping out all the penguins in the world.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Eric Darnell, Simon J. Smith",
+      "Writer": "Michael Colton, John Aboud, Brandon Sawyer",
+      "Actors": "Tom McGrath, Chris Miller, Christopher Knights",
+      "Language": "English, Italian, Mandarin, Spanish, Armenian",
+      "Country": "United States, Australia, India, Japan, Finland"
+    },
+    {
       "title": "Pee-wee's Big Holiday",
       "netflix_url": "https://www.netflix.com/title/80031800",
       "year": "2016",
@@ -624,6 +760,40 @@
       "year": "2007",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Hotel Transylvania 2",
+      "netflix_url": "https://www.netflix.com/title/80048061",
+      "year": "2015",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt2510894",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Genndy Tartakovsky",
+      "Writer": "Robert Smigel, Adam Sandler, Todd Durham",
+      "Actors": "Adam Sandler, Andy Samberg, Selena Gomez",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
+      "title": "Goosebumps",
+      "netflix_url": "https://www.netflix.com/title/80049939",
+      "year": "2015",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1051904",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@._V1_SX300.jpg",
+      "Plot": "A teenager teams up with the daughter of young-adult horror author R.L. Stine after the writer's imaginary demons are set free on the town of Madison, Delaware.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Rob Letterman",
+      "Writer": "Darren Lemke, Scott Alexander, Larry Karaszewski",
+      "Actors": "Jack Black, Dylan Minnette, Odeya Rush",
+      "Language": "English, Ukrainian",
+      "Country": "United States, Australia"
     },
     {
       "title": "Becoming Santa",
@@ -692,6 +862,23 @@
       "Actors": "Charlize Theron, Art Parkinson, Matthew McConaughey",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "Trolls",
+      "netflix_url": "https://www.netflix.com/title/80108182",
+      "year": "2016",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1679335",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX300.jpg",
+      "Plot": "After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Mike Mitchell, Walt Dohrn",
+      "Writer": "Jonathan Aibel, Glenn Berger, Erica Rivinoja",
+      "Actors": "Anna Kendrick, Justin Timberlake, Zooey Deschanel",
+      "Language": "English",
+      "Country": "United States, India, United Kingdom, Germany"
     },
     {
       "title": "Sing",
@@ -947,6 +1134,23 @@
       "Actors": "Jason Schwartzman, J.K. Simmons, Rashida Jones",
       "Language": "English, Saami",
       "Country": "Spain, United Kingdom, United States, Austria, Canada, France"
+    },
+    {
+      "title": "Jumanji: Welcome to the Jungle",
+      "netflix_url": "https://www.netflix.com/title/80192646",
+      "year": "2017",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt2283362",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Jake Kasdan",
+      "Writer": "Chris McKenna, Erik Sommers, Scott Rosenberg",
+      "Actors": "Dwayne Johnson, Karen Gillan, Kevin Hart",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Duck Duck Goose",
@@ -1457,6 +1661,23 @@
       "Actors": "Raphaël Personnaz, Virginie Efira, Dominique Pinon",
       "Language": "French, English",
       "Country": "France, Luxembourg, United States"
+    },
+    {
+      "title": "The House with a Clock in Its Walls",
+      "netflix_url": "https://www.netflix.com/title/80986886",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt2119543",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MwZjI4OGYtYjM1ZS00ODEzLTkzZDItMzNhYWFhMjQzMzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young orphan named Lewis Barnavelt aids his magical uncle in locating a clock with the power to bring about the end of the world.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Eli Roth",
+      "Writer": "John Bellairs, Eric Kripke",
+      "Actors": "Jack Black, Cate Blanchett, Owen Vaccaro",
+      "Language": "English",
+      "Country": "United States, Canada, India"
     },
     {
       "title": "Next Gen",
@@ -2136,6 +2357,23 @@
       "Country": "Japan, South Korea"
     },
     {
+      "title": "John Mulaney & The Sack Lunch Bunch",
+      "netflix_url": "https://www.netflix.com/title/81104634",
+      "year": "2019",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt11318624",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjBiMjMzOGEtZTEyYS00OWUwLTg2OWYtMWYzMTA1ZTg3ZTgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "John Mulaney and his kid pals tackle existential topics for all ages with catchy songs, comedy sketches and special guests in a nostalgic variety special.",
+      "Type": "movie",
+      "RunTime": "70 min",
+      "Genre": "Comedy, Family, Musical",
+      "Director": "Rhys Thomas",
+      "Writer": "John Mulaney, Marika Sawyer",
+      "Actors": "John Mulaney, Alexander Bello, Tyler Bourke",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Rescued by Ruby",
       "netflix_url": "https://www.netflix.com/title/81107362",
       "year": "2022",
@@ -2456,6 +2694,23 @@
       "Country": "United States"
     },
     {
+      "title": "Minions: The Rise of Gru",
+      "netflix_url": "https://www.netflix.com/title/81198916",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt5113044",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTAzMTkyNmQtNTMzZS00MTM1LWI4YzEtMjVlYjU0ZWI5Y2IzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Kyle Balda, Brad Ableson, Jonathan del Val",
+      "Writer": "Matthew Fogel, Brian Lynch",
+      "Actors": "Steve Carell, Pierre Coffin, Alan Arkin",
+      "Language": "English, Vietnamese",
+      "Country": "United States"
+    },
+    {
       "title": "Vivo",
       "netflix_url": "https://www.netflix.com/title/81199052",
       "year": "2021",
@@ -2733,6 +2988,23 @@
       "Actors": "Waheeda Rehman, Amy Maghera, Jonathan Readwin",
       "Language": "English, Hindi",
       "Country": "United States, India"
+    },
+    {
+      "title": "Clifford the Big Red Dog",
+      "netflix_url": "https://www.netflix.com/title/81286595",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt2397461",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBlZTI4ODEtNzEwYS00OTBmLTliMTMtYWUyZjc3Y2RhN2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young girl's love for a tiny puppy named Clifford makes the dog grow to an enormous size.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Walt Becker",
+      "Writer": "Jay Scherick, David Ronn, Blaise Hemingway",
+      "Actors": "Darby Camp, Jack Whitehall, Izaac Wang",
+      "Language": "English, Spanish, Russian, Mandarin",
+      "Country": "United States"
     },
     {
       "title": "Blue Miracle",
@@ -3446,6 +3718,23 @@
       "Country": "United States"
     },
     {
+      "title": "Jurassic World: Dominion",
+      "netflix_url": "https://www.netflix.com/title/81489837",
+      "year": "2022",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8041270",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
+      "Type": "movie",
+      "RunTime": "147 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Colin Trevorrow",
+      "Writer": "Emily Carmichael, Colin Trevorrow, Derek Connolly",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Laura Dern",
+      "Language": "English, Maltese, French",
+      "Country": "United States, China"
+    },
+    {
       "title": "KPop Demon Hunters",
       "netflix_url": "https://www.netflix.com/title/81498621",
       "year": "2025",
@@ -4093,6 +4382,23 @@
       "Country": "United States, United Kingdom, Hong Kong"
     },
     {
+      "title": "IF",
+      "netflix_url": "https://www.netflix.com/title/81770324",
+      "year": "2024",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt11152168",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjFiY2U2NjUtMWIxMy00NjJkLWI3OTItYzM3MzBlZDkyMDNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Animation, Comedy, Drama",
+      "Director": "John Krasinski",
+      "Writer": "John Krasinski",
+      "Actors": "Cailey Fleming, Ryan Reynolds, John Krasinski",
+      "Language": "English",
+      "Country": "Canada, United States"
+    },
+    {
       "title": "Paddington in Peru",
       "netflix_url": "https://www.netflix.com/title/81776760",
       "year": "2024",
@@ -4200,6 +4506,23 @@
       "Actors": "Benoît Poelvoorde, Jacqueline Poelvoorde-Pappaert, Nelly Pappaert",
       "Language": "French",
       "Country": "Belgium"
+    },
+    {
+      "title": "Animals on the Loose: A You vs. Wild Movie",
+      "netflix_url": "https://www.netflix.com/title/81977135",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13853720",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjA5MGFhYmYtYTBkYS00NjYzLWFkZjgtYWNiNmE5ZTFiNDAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The protective fence surrounding a wildlife sanctuary has mysteriously suffered a breach. Bear is called in to help rescue a mischievous baboon, track down a hungry lion, and fix the fence before any more animals get out.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Adventure",
+      "Director": "Ben Simms",
+      "Writer": "Robert Buchta, Bear Grylls, Delbert Shoopman",
+      "Actors": "Bear Grylls",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Warkop DKI Kartun",
@@ -4433,6 +4756,30 @@
       "title": "KPop Demon Hunters Lyric Videos",
       "netflix_url": "https://www.netflix.com/title/82174859",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Bad Guys 2",
+      "netflix_url": "https://www.netflix.com/title/82175765",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt30017619",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2YwODhmODctMjE2OS00Y2EyLWEyZTEtOGU3ODk5MGIzYmU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Bad Guys are struggling to find trust and acceptance in their newly minted lives as Good Guys, when they are pulled out of retirement and forced to do \"one last job\" by an all-female squad of criminals.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "JP Sans, Pierre Perifel",
+      "Writer": "Yoni Brenner, Etan Cohen, Aaron Blabey",
+      "Actors": "Sam Rockwell, Marc Maron, Awkwafina",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "KPop Demon Hunters Bonus Content",
+      "netflix_url": "https://www.netflix.com/title/82182322",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },

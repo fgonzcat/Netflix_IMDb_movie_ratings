@@ -37,6 +37,40 @@
       "Country": "United States"
     },
     {
+      "title": "Ray",
+      "netflix_url": "https://www.netflix.com/title/70001994",
+      "year": "2004",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0350258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxNDQwNjQzOV5BMl5BanBnXkFtZTcwNTQxNDYyMQ@@._V1_SX300.jpg",
+      "Plot": "The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s.",
+      "Type": "movie",
+      "RunTime": "152 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Taylor Hackford",
+      "Writer": "Taylor Hackford, James L. White",
+      "Actors": "Jamie Foxx, Regina King, Kerry Washington",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Wrecking Crew",
+      "netflix_url": "https://www.netflix.com/title/70105364",
+      "year": "2008",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt33046197",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDcyMmYxZmMtMjg5MC00NWMzLTgyNDEtOGI2MWEzMmFmNmVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Angel Manuel Soto",
+      "Writer": "N/A",
+      "Actors": "Dave Bautista, Jason Momoa, Temuera Morrison",
+      "Language": "English",
+      "Country": "New Zealand, United States"
+    },
+    {
       "title": "iCarly",
       "netflix_url": "https://www.netflix.com/title/70136153",
       "year": "2012",
@@ -120,6 +154,23 @@
       "Actors": "Miles Teller, J.K. Simmons, Melissa Benoist",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Frank",
+      "netflix_url": "https://www.netflix.com/title/70299856",
+      "year": "2014",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt1605717",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0OTczMTcxOV5BMl5BanBnXkFtZTgwMDU1MDUwMjE@._V1_SX300.jpg",
+      "Plot": "Jon, a young wanna-be musician, discovers he's bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Lenny Abrahamson",
+      "Writer": "Jon Ronson, Peter Straughan",
+      "Actors": "Michael Fassbender, Domhnall Gleeson, Maggie Gyllenhaal",
+      "Language": "English, French, German",
+      "Country": "Ireland, United Kingdom"
     },
     {
       "title": "What Happened, Miss Simone?",
@@ -1144,6 +1195,23 @@
       "Actors": "Hrishikesh Hirway, Lin-Manuel Miranda, Dua Lipa",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "netflix_url": "https://www.netflix.com/title/80994899",
+      "year": "2018",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt1727824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
+      "Plot": "With his impeccable vocal abilities, Freddie Mercury and his rock band, Queen, achieve superstardom. However, amidst his skyrocketing success, he grapples with his ego, sexuality and a fatal illness.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Bryan Singer",
+      "Writer": "Anthony McCarten, Peter Morgan",
+      "Actors": "Rami Malek, Lucy Boynton, Gwilym Lee",
+      "Language": "English, British Sign ",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Ladies First: A Story of Women in Hip-Hop",
@@ -3785,6 +3853,13 @@
       "imdb_id": null
     },
     {
+      "title": "Barbara - Becoming Shirin David",
+      "netflix_url": "https://www.netflix.com/title/81953975",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Kneecap",
       "netflix_url": "https://www.netflix.com/title/81956594",
       "year": "2024",
@@ -4027,11 +4102,28 @@
       "Country": "Japan"
     },
     {
-      "title": "timelesz project -REAL-",
-      "netflix_url": "https://www.netflix.com/title/82111864",
+      "title": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
+      "netflix_url": "https://www.netflix.com/title/82087556",
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "timelesz project -REAL-",
+      "netflix_url": "https://www.netflix.com/title/82111864",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39396520",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Fuma Kikuchi, Shori Sato, So Matsushima",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "ONE SHOT with Ed Sheeran",
@@ -4058,9 +4150,50 @@
       "imdb_id": null
     },
     {
+      "title": "BTS THE COMEBACK LIVE | ARIRANG",
+      "netflix_url": "https://www.netflix.com/title/82157128",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39578533",
+      "Poster": "N/A",
+      "Plot": "Follows BTS as they perform live from Seoul in celebration of their fifth studio album Arirang, marking their first global livestream event from Korea.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Music",
+      "Director": "Hamish Hamilton",
+      "Writer": "N/A",
+      "Actors": "j-hope, Jimin, Jin",
+      "Language": "N/A",
+      "Country": "South Korea"
+    },
+    {
+      "title": "BTS: THE RETURN",
+      "netflix_url": "https://www.netflix.com/title/82158609",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39578551",
+      "Poster": "N/A",
+      "Plot": "Follows BTS as they reunite in Los Angeles after completing military service, confronting how to begin again, honor their past, and move forward together as they return to making music.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Documentary, Music",
+      "Director": "Bao Nguyen",
+      "Writer": "N/A",
+      "Actors": "j-hope, Jimin, Jin",
+      "Language": "N/A",
+      "Country": "South Korea, United States"
+    },
+    {
       "title": "KPop Demon Hunters Lyric Videos",
       "netflix_url": "https://www.netflix.com/title/82174859",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "KPop Demon Hunters Bonus Content",
+      "netflix_url": "https://www.netflix.com/title/82182322",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -4150,6 +4283,37 @@
       "title": "Starto Countdown 2025→2026",
       "netflix_url": "https://www.netflix.com/title/82659571",
       "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Harry Styles. One Night In Manchester.",
+      "netflix_url": "https://www.netflix.com/title/82722921",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Clika",
+      "netflix_url": "https://www.netflix.com/title/82740544",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28334938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzEyYjAyNWMtY2Y3Yy00YjRmLTllNDYtMThkMDFlNWI3YTkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small town musician pushes to carve out a place for himself in the new wave of Mexican-American music after a clip of him performing one of his songs goes viral.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama, Music",
+      "Director": "Michael Greene",
+      "Writer": "Michael Greene, Sean Sullivan McBride",
+      "Actors": "Eric Roberts, Peter Greene, Alison Chace",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "BINI Docuseries",
+      "netflix_url": "https://www.netflix.com/title/82795684",
+      "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
     }

@@ -79,6 +79,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/107456" target="_bl
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Marei the Primo*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81767080" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Saudi Pro League: Kickoff*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt34377076/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81783473" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*From the Ashes: The Pit*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81900394" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Alkhallat+: The Series*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81918081" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -117,6 +118,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/107456" target="_bl
 
  
 ---
-*Page last updated on: 2026-02-26*
+*Page last updated on: 2026-04-10*
 
  

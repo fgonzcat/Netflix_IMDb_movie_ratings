@@ -54,6 +54,23 @@
       "Country": "United States, Australia, Switzerland, Canada"
     },
     {
+      "title": "Saw",
+      "netflix_url": "https://www.netflix.com/title/70003226",
+      "year": "2004",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0387564",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTE5MzFlMTktMzBkOC00ZjMxLThmOTAtOGU3ZGEwZGRlNDdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "James Wan",
+      "Writer": "Leigh Whannell, James Wan",
+      "Actors": "Cary Elwes, Leigh Whannell, Danny Glover",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Match Point",
       "netflix_url": "https://www.netflix.com/title/70035180",
       "year": "2006",
@@ -103,6 +120,40 @@
       "Actors": "Akshay Kumar, Vidya Balan, Shiney Ahuja",
       "Language": "Hindi, Bengali",
       "Country": "India"
+    },
+    {
+      "title": "The Lazarus Project",
+      "netflix_url": "https://www.netflix.com/title/70105820",
+      "year": "2008",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0464041",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI5NGNjNjctNTQwOS00MjZjLWI1YzQtNjYzMmQ1ZjhlM2U1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A paroled former criminal is drawn into an endeavor that puts life with his family at risk and subsequently finds himself living an inexplicable new life working at a psychiatric facility.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "John Glenn",
+      "Writer": "John Glenn, Evan Astrowsky",
+      "Actors": "Paul Walker, Piper Perabo, Brooklynn Proulx",
+      "Language": "English",
+      "Country": "United States, Canada, United Kingdom"
+    },
+    {
+      "title": "The Roommate",
+      "netflix_url": "https://www.netflix.com/title/70123922",
+      "year": "2011",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt1265990",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMzQwMzMwNF5BMl5BanBnXkFtZTcwNjE5MTUxNA@@._V1_SX300.jpg",
+      "Plot": "When college freshman Sara arrives on campus for the first time, she befriends her roommate, Rebecca, unaware that the girl is becoming dangerously obsessed with her.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Christian E. Christiansen",
+      "Writer": "Sonny Mallhi",
+      "Actors": "Minka Kelly, Leighton Meester, Cam Gigandet",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Silent House",
@@ -222,6 +273,40 @@
       "Actors": "Mark Duplass, Patrick Brice, Katie Aselton",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Misery",
+      "netflix_url": "https://www.netflix.com/title/764604",
+      "year": "1990",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0100157",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY0ODQ3MTMxN15BMl5BanBnXkFtZTgwMDkwNTg4NjE@._V1_SX300.jpg",
+      "Plot": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Rob Reiner",
+      "Writer": "Stephen King, William Goldman",
+      "Actors": "James Caan, Kathy Bates, Richard Farnsworth",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Captive",
+      "netflix_url": "https://www.netflix.com/title/80013547",
+      "year": "2014",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt2326612",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwMTIxNDg0OV5BMl5BanBnXkFtZTgwNTM0MzU0MzE@._V1_SX300.jpg",
+      "Plot": "Eight years after the disappearance of Cassandra, some disturbing incidents seem to indicate that she's still alive. Police, parents and Cassandra herself, will try to unravel the mystery of her disappearance.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Atom Egoyan",
+      "Writer": "Atom Egoyan, David Fraser",
+      "Actors": "Ryan Reynolds, Scott Speedman, Rosario Dawson",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Ex Machina",
@@ -1193,6 +1278,13 @@
       "Country": "India"
     },
     {
+      "title": "Game Over (Telugu Version)",
+      "netflix_url": "https://www.netflix.com/title/81151878",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Game Over (Hindi Version)",
       "netflix_url": "https://www.netflix.com/title/81151880",
       "year": "2019",
@@ -1870,6 +1962,23 @@
       "Country": "Norway"
     },
     {
+      "title": "Agnes",
+      "netflix_url": "https://www.netflix.com/title/81517345",
+      "year": "2021",
+      "imdb_rating": "3.8",
+      "imdb_id": "tt11348542",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzVkZGMyNTktNTkwZC00MmJkLTgzOTktMzViODFlNTYxNDQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rumors of demonic possession at a religious convent prompts a church investigation into the strange goings-on among its nuns. A disaffected priest and his neophyte are confronted with temptation, bloodshed and a crisis of faith.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Drama, Horror",
+      "Director": "Mickey Reece",
+      "Writer": "Mickey Reece, John Selvidge",
+      "Actors": "Molly C. Quinn, Hayley McFarland, Sean Gunn",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Lost Patient",
       "netflix_url": "https://www.netflix.com/title/81521006",
       "year": "2022",
@@ -2190,6 +2299,23 @@
       "Country": "Germany, Denmark, France, Sweden, Jordan, Italy"
     },
     {
+      "title": "Accused",
+      "netflix_url": "https://www.netflix.com/title/81661375",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39631179",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhmM2U5ZTktY2U1Yy00NjU3LTllYjktNzJhM2VlMjJhYjY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama, Thriller",
+      "Director": "Anubhuti Kashyap",
+      "Writer": "Sima Agarwal, Yash Keswani",
+      "Actors": "Konkona Sen Sharma, Pratibha Ranta, Sukant Goel",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Here Love Lies",
       "netflix_url": "https://www.netflix.com/title/81663108",
       "year": "2022",
@@ -2440,6 +2566,23 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Anatomy of a Fall",
+      "netflix_url": "https://www.netflix.com/title/81713297",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt17009710",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman is suspected of murder after her husband's death; their half-blind son faces a moral dilemma as the main witness.",
+      "Type": "movie",
+      "RunTime": "151 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Justine Triet",
+      "Writer": "Justine Triet, Arthur Harari",
+      "Actors": "Sandra Hüller, Swann Arlaud, Milo Machado-Graner",
+      "Language": "French, English",
+      "Country": "France"
     },
     {
       "title": "Merry Christmas (Tamil)",
@@ -2939,6 +3082,23 @@
       "Country": "India"
     },
     {
+      "title": "Anemone",
+      "netflix_url": "https://www.netflix.com/title/82190327",
+      "year": "2025",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt33549447",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2UyNzdjZTQtN2IzNy00Yjc5LTgyMzUtN2UxMjdjYTQzMTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Northern England, a man heads out on a journey into the woods to reconnect with the estranged hermit brother with whom he shared a complicated past that was altered by life-changing events decades ago.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama",
+      "Director": "Ronan Day-Lewis",
+      "Writer": "Daniel Day-Lewis, Ronan Day-Lewis",
+      "Actors": "Sean Bean, Samuel Bottomley, Lewis Ian Bray",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Paradise",
       "netflix_url": "https://www.netflix.com/title/82658030",
       "year": "2023",
@@ -2954,6 +3114,23 @@
       "Actors": "Kostja Ullmann, Corinna Kirchhoff, Marlene Tanczik",
       "Language": "German, English",
       "Country": "Germany"
+    },
+    {
+      "title": "Nuremberg",
+      "netflix_url": "https://www.netflix.com/title/82700085",
+      "year": "2025",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt29567915",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A WWII psychiatrist evaluates Nazi leaders before the Nuremberg trials, growing increasingly obsessed with understanding evil as he forms a disturbing bond with Hermann Göring.",
+      "Type": "movie",
+      "RunTime": "148 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "James Vanderbilt",
+      "Writer": "James Vanderbilt, Jack El-Hai",
+      "Actors": "Rami Malek, Russell Crowe, Michael Shannon",
+      "Language": "English, German",
+      "Country": "United States, Hungary"
     }
   ]
 }

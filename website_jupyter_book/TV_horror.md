@@ -112,8 +112,10 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/83059" target="_bla
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZjkwNmYxMWEtNjVhZS00YzYyLWE5ZDUtYTA0YzQ3Y2ZhZjQ3XkEyXkFqcGdeQXVyNDkzNTQ5OQ@@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*The Order*</strong></summary>  <div class="movie-plot">Elements of intrigue and a dash of dark humor spice up this mystery.</div> </details> | <a href="https://www.imdb.com/title/tt11418156/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80238357" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZjljOGNlMjUtMTBiNy00YTNiLWFhNzUtN2NkODk3YjZlZjAzXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Sweet Home*</strong></summary>  <div class="movie-plot">Iginio Massari and the APEI masters teach the art of Italian sweetness.</div> </details> | <a href="https://www.imdb.com/title/tt34925873/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81061734" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Anne Rice's Mayfair Witches*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81664607" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BMzQ0NDFhZGItODcxZC00ZjI1LThlNTYtMWMwMWFlZmY1YTQ1XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Something Very Bad Is Going to Happen*</strong></summary>  <div class="movie-plot">A certain atmosphere of horror is felt the week before the celebration of an unfortunate wedding.</div> </details> | <a href="https://www.imdb.com/title/tt32937780/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81667463" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Monster: The Ed Gein Story*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81783093" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*SHIBOYUGI: Playing Death Games to Put Food on the Table*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82047155" target="_blank">Netflix_link</a> |
+| N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Khemjira the Series*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82755470" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -152,6 +154,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/83059" target="_bla
 
  
 ---
-*Page last updated on: 2026-02-26*
+*Page last updated on: 2026-04-10*
 
  

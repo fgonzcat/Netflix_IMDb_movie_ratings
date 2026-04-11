@@ -139,6 +139,23 @@
       "Country": "India"
     },
     {
+      "title": "Matilda",
+      "netflix_url": "https://www.netflix.com/title/70033005",
+      "year": "1996",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0117008",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE3ZDMzMmEtODgwNi00NzMxLThkYWItMTAzMWUyMzI1NDQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A girl gifted with a keen intellect and psychic powers uses both to get even with her callous family and free her kindly schoolteacher from the tyrannical grip of a sadistic headmistress.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Danny DeVito",
+      "Writer": "Roald Dahl, Nicholas Kazan, Robin Swicord",
+      "Actors": "Danny DeVito, Rhea Perlman, Mara Wilson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Bunty Aur Babli",
       "netflix_url": "https://www.netflix.com/title/70038540",
       "year": "2005",
@@ -205,6 +222,23 @@
       "Actors": "Saif Ali Khan, Rani Mukerji, Jaaved Jaaferi",
       "Language": "Hindi, English",
       "Country": "United States, India"
+    },
+    {
+      "title": "The Wrecking Crew",
+      "netflix_url": "https://www.netflix.com/title/70105364",
+      "year": "2008",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt33046197",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDcyMmYxZmMtMjg5MC00NWMzLTgyNDEtOGI2MWEzMmFmNmVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Angel Manuel Soto",
+      "Writer": "N/A",
+      "Actors": "Dave Bautista, Jason Momoa, Temuera Morrison",
+      "Language": "English",
+      "Country": "New Zealand, United States"
     },
     {
       "title": "Dostana",
@@ -401,6 +435,40 @@
       "Country": "United States"
     },
     {
+      "title": "Mere Dad Ki Maruti",
+      "netflix_url": "https://www.netflix.com/title/70273258",
+      "year": "2013",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt2323964",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcyYTJkMDMtMDliNC00M2ZhLTg0MDktNDM3MDg2MTg2ZTYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the midst of a loud Punjabi wedding, a boy sneaks his dad's fancy new car to impress the college hottie and all hell breaks loose when he loses it.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Ashima Chibber",
+      "Writer": "Ashima Chibber, Pooja Desai, Ishita Moitra",
+      "Actors": "Saqib Saleem, Rhea Chakraborty, Ram Kapoor",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Gippi",
+      "netflix_url": "https://www.netflix.com/title/70276514",
+      "year": "2013",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt2814372",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBlZDY1ZTEtZWJkOC00NWU3LWE4ZWUtYzk0YTVkOTkxOWVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A painfully awkward, overweight teenager reclaims her right to happiness and self-worth by running against a pretty, popular queen bee in the school election.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Sonam Nair",
+      "Writer": "Sonam Nair",
+      "Actors": "Riya Vij, Acchui, Anjali",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Shuddh Desi Romance",
       "netflix_url": "https://www.netflix.com/title/70287292",
       "year": "2013",
@@ -432,6 +500,23 @@
       "Writer": "N/A",
       "Actors": "Amari Avery, Jed Dy, Allan Kournikova",
       "Language": "English, French",
+      "Country": "United States"
+    },
+    {
+      "title": "Chef",
+      "netflix_url": "https://www.netflix.com/title/70297087",
+      "year": "2014",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt2883512",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODkyNTI4YjUtNjEyNC00NWQ5LTk4M2YtM2Q3NjBiYmJmMGUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A head chef quits his restaurant job and buys a food truck in an effort to reclaim his creative talents while piecing his estranged family back together.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Adventure, Comedy, Drama",
+      "Director": "Jon Favreau",
+      "Writer": "Jon Favreau",
+      "Actors": "Jon Favreau, Robert Downey Jr., Scarlett Johansson",
+      "Language": "English, Spanish",
       "Country": "United States"
     },
     {
@@ -537,6 +622,23 @@
       "Country": "United States"
     },
     {
+      "title": "Hotel Transylvania 2",
+      "netflix_url": "https://www.netflix.com/title/80048061",
+      "year": "2015",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt2510894",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Genndy Tartakovsky",
+      "Writer": "Robert Smigel, Adam Sandler, Todd Durham",
+      "Actors": "Adam Sandler, Andy Samberg, Selena Gomez",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Boruto: Naruto the Movie",
       "netflix_url": "https://www.netflix.com/title/80075823",
       "year": "2015",
@@ -586,6 +688,23 @@
       "Actors": "Laura Bell Bundy, Jesse Hutch, Tony Cavalero",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Trolls",
+      "netflix_url": "https://www.netflix.com/title/80108182",
+      "year": "2016",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1679335",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX300.jpg",
+      "Plot": "After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Mike Mitchell, Walt Dohrn",
+      "Writer": "Jonathan Aibel, Glenn Berger, Erica Rivinoja",
+      "Actors": "Anna Kendrick, Justin Timberlake, Zooey Deschanel",
+      "Language": "English",
+      "Country": "United States, India, United Kingdom, Germany"
     },
     {
       "title": "The Star",
@@ -940,6 +1059,23 @@
       "Actors": "Rebel Wilson, Angourie Rice, Mary Holland",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "I Feel Pretty",
+      "netflix_url": "https://www.netflix.com/title/80220496",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt6791096",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjkwNjllYjMtNGZjNC00NjA4LTgzNGItMWE4NTI1NzY4N2QzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman struggling with insecurity wakes from a fall believing she is the most beautiful and capable woman on the planet. Her new confidence empowers her to live fearlessly, but what happens when she realizes her appearance never ...",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Abby Kohn, Marc Silverstein",
+      "Writer": "Abby Kohn, Marc Silverstein",
+      "Actors": "Amy Schumer, Michelle Williams, Emily Ratajkowski",
+      "Language": "English",
+      "Country": "China, United States"
     },
     {
       "title": "13: The Musical",
@@ -1499,6 +1635,23 @@
       "Director": "Stanley Moore, Alexander Woo",
       "Writer": "Sarah Sellers",
       "Actors": "Maisie Benson, Alan C. Lim, Kerry Gudjohnsen",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "A Go! Go! Cory Carson Christmas",
+      "netflix_url": "https://www.netflix.com/title/81021358",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt13479662",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdhVRBM6ntTuBV8gZdO_4olRZp2_dtFs8FM0e6JqJAGTzDJgDHSWQoRXgx66ShRFpYPtpn5gUR3QLXsuHNe3G4UbGRrF-sRAwvE0.jpg?r=6e9",
+      "Plot": "When a familiar stranger shows up with no memory, Cory saves Christmas for everyone by helping him remember the magic of Christmas.",
+      "Type": "movie",
+      "RunTime": "21 min",
+      "Genre": "Animation, Short, Family",
+      "Director": "Stanley Moore, Alex Woo",
+      "Writer": "Ying-Hsuan Chen, Vincent Lau, Stanley Moore",
+      "Actors": "Alan C. Lim, Taron C. Hensley, Maisie Benson",
       "Language": "English",
       "Country": "United States"
     },
@@ -2544,6 +2697,23 @@
       "Country": "United States"
     },
     {
+      "title": "Minions: The Rise of Gru",
+      "netflix_url": "https://www.netflix.com/title/81198916",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt5113044",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTAzMTkyNmQtNTMzZS00MTM1LWI4YzEtMjVlYjU0ZWI5Y2IzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Kyle Balda, Brad Ableson, Jonathan del Val",
+      "Writer": "Matthew Fogel, Brian Lynch",
+      "Actors": "Steve Carell, Pierre Coffin, Alan Arkin",
+      "Language": "English, Vietnamese",
+      "Country": "United States"
+    },
+    {
       "title": "Vivo",
       "netflix_url": "https://www.netflix.com/title/81199052",
       "year": "2021",
@@ -2850,6 +3020,23 @@
       "Country": "United States"
     },
     {
+      "title": "Uma Maheswara Ugra Roopasya",
+      "netflix_url": "https://www.netflix.com/title/81256436",
+      "year": "2020",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt11506054",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGFkZTY5NjAtMjg4Yy00ZGNmLTg4ZDItNDNlMDliODRjZjhkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After getting beaten up and insulted by the town bully, a softhearted simpleton Mahesh vows to be barefoot until he gets his revenge.",
+      "Type": "movie",
+      "RunTime": "136 min",
+      "Genre": "Drama",
+      "Director": "Venkatesh Maha",
+      "Writer": "Venkatesh Maha, Syam Pushkaran",
+      "Actors": "Satyadev Kancharana, V.K. Naresh, Suhas",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Miss India",
       "netflix_url": "https://www.netflix.com/title/81258622",
       "year": "2020",
@@ -2973,6 +3160,23 @@
       "Writer": "N/A",
       "Actors": "Lucia de la Garza, Mila de la Garza, Bela Salazar",
       "Language": "N/A",
+      "Country": "United States"
+    },
+    {
+      "title": "Clifford the Big Red Dog",
+      "netflix_url": "https://www.netflix.com/title/81286595",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt2397461",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBlZTI4ODEtNzEwYS00OTBmLTliMTMtYWUyZjc3Y2RhN2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young girl's love for a tiny puppy named Clifford makes the dog grow to an enormous size.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Walt Becker",
+      "Writer": "Jay Scherick, David Ronn, Blaise Hemingway",
+      "Actors": "Darby Camp, Jack Whitehall, Izaac Wang",
+      "Language": "English, Spanish, Russian, Mandarin",
       "Country": "United States"
     },
     {
@@ -3735,6 +3939,23 @@
       "Country": "Spain"
     },
     {
+      "title": "A StoryBots Space Adventure",
+      "netflix_url": "https://www.netflix.com/title/81484111",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15166478",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ5MWY1YWUtY2YxNC00ODViLWJmZjctOTI0OGRkYmRhZDA0XkEyXkFqcGdeQXVyMTUxMTYyMTkw._V1_SX300.jpg",
+      "Plot": "The civilian space travelers involved in Inspiration4 will help the StoryBots answer some questions.",
+      "Type": "movie",
+      "RunTime": "12 min",
+      "Genre": "Animation, Short, Adventure",
+      "Director": "David A. Vargas, Jason Reisig",
+      "Writer": "Eric Weiner",
+      "Actors": "Fred Tatasciore, Erin Fitzgerald, Evan Michael Lee",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Riverdance: The Animated Adventure",
       "netflix_url": "https://www.netflix.com/title/81487903",
       "year": "2022",
@@ -4007,6 +4228,23 @@
       "Country": "India"
     },
     {
+      "title": "Hey Sinamika",
+      "netflix_url": "https://www.netflix.com/title/81582584",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt11953194",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTExOWE2NDYtMmRhYi00NTg1LWFlNTktM2E3NDc4OTdlYTM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The lives of Mouna, a weather scientist who falls in love with Yaazhan, a quirky and loving guy. What happens to their relationship after a couple of years and how things take an unexpected turn after the arrival of Malarvizhi?",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Drama, Romance",
+      "Director": "Brinda Master",
+      "Writer": "Karkibava, Madhan Karky",
+      "Actors": "Dulquer Salmaan, Aditi Rao Hydari, Kajal Aggarwal",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "Hey Sinamika (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81582585",
       "year": "2022",
@@ -4147,6 +4385,23 @@
       "Country": "United States"
     },
     {
+      "title": "Barbie & Teresa: Recipe For Friendship",
+      "netflix_url": "https://www.netflix.com/title/81607693",
+      "year": "2025",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt33550838",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzA0MDBiODItYjliMy00MjRiLTlmNjgtMzk0NzVmNmM5NjhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Barbie \"Brooklyn\" Roberts, Barbie \"Malibu\" Roberts, and their best friends Teresa and Nikki head to the big apple to help with the launch of Teresa's cousin's new restaurant.",
+      "Type": "movie",
+      "RunTime": "60 min",
+      "Genre": "Animation",
+      "Director": "Karen J. Lloyd",
+      "Writer": "Yolie Cortez, Margaret Dunlap, Doug Peterson",
+      "Actors": "America Young, Cristina M. Medina, Tatiana Varria",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "All the Places",
       "netflix_url": "https://www.netflix.com/title/81610329",
       "year": "2023",
@@ -4196,6 +4451,23 @@
       "Actors": "Minka Kelly, Tom Wozniczka, Thibault de Montalembert",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Eat Pray Bark",
+      "netflix_url": "https://www.netflix.com/title/81638691",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39465484",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTFhOTE3MjMtYTUxNS00OWVkLWFiYzAtZTVlYzMwZTI0NWUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this tumultuous comedy, five eccentric dog owners seek help in dealing with their four-legged friends. Their last hope: an intensive course with the charismatic and legendary dog trainer Nodon in the Tyrolean mountains. The qui...",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "Marco Petry",
+      "Writer": "Jane Ainscough, Marco Petry, Hortense Ullrich",
+      "Actors": "Alexandra Maria Lara, Devid Striesow, Anna Herrmann",
+      "Language": "German",
+      "Country": "Germany"
     },
     {
       "title": "Happiness Is",
@@ -4501,11 +4773,45 @@
       "Country": "South Africa"
     },
     {
+      "title": "TRANSMITZVAH",
+      "netflix_url": "https://www.netflix.com/title/81718293",
+      "year": "2024",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt32598478",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ0OGJiY2ItMTVkMy00ZWYwLTkyMjItN2VmM2MwNzU0ZDRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A famous Yiddish singer returns to her childhood neighborhood in Buenos Aires to confront her family and her past.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Daniel Burman",
+      "Writer": "Daniel Burman, Ariel Gurevich",
+      "Actors": "Penélope Guerrero, Juan Minujín, Alejandra Flechner",
+      "Language": "Spanish, Yiddish",
+      "Country": "Argentina"
+    },
+    {
       "title": "BOWKYLION Lanta Concert",
       "netflix_url": "https://www.netflix.com/title/81726435",
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Thomas & Friends: The Christmas Letter Express",
+      "netflix_url": "https://www.netflix.com/title/81728272",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31499438",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjRmNTg3NmQtM2FjYy00NTg2LWExY2YtYjdiM2YzYWI1YTAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Percy must track down Santa after he discovers a child's letter that was accidentally left in his mail cart on Christmas Eve.",
+      "Type": "movie",
+      "RunTime": "60 min",
+      "Genre": "Animation",
+      "Director": "Campbell Bryer",
+      "Writer": "Rick Suvalle, Wilbert Awdry, Craig Carlisle",
+      "Actors": "Will Bhaneja, Glee Dango, Catherine Disher",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Camp Crasher",
@@ -4736,6 +5042,23 @@
       "Country": "United States"
     },
     {
+      "title": "IF",
+      "netflix_url": "https://www.netflix.com/title/81770324",
+      "year": "2024",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt11152168",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjFiY2U2NjUtMWIxMy00NjJkLWI3OTItYzM3MzBlZDkyMDNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Animation, Comedy, Drama",
+      "Director": "John Krasinski",
+      "Writer": "John Krasinski",
+      "Actors": "Cailey Fleming, Ryan Reynolds, John Krasinski",
+      "Language": "English",
+      "Country": "Canada, United States"
+    },
+    {
       "title": "On the Ship of Enchantment",
       "netflix_url": "https://www.netflix.com/title/81775987",
       "year": "2024",
@@ -4951,6 +5274,13 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "Feel My Voice",
+      "netflix_url": "https://www.netflix.com/title/82070758",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Penguin Lessons",
       "netflix_url": "https://www.netflix.com/title/82073569",
       "year": "2024",
@@ -5024,6 +5354,23 @@
       "Actors": "Teri Hatcher, William deVry, Dan Payne",
       "Language": "English, French",
       "Country": "Canada"
+    },
+    {
+      "title": "Furry Friends Forever: Elmo Gets a Puppy",
+      "netflix_url": "https://www.netflix.com/title/82118668",
+      "year": "2021",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt15185154",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZjODI0YmYtYzE5OS00YjQzLWFjMGUtYzZmY2I4NzFhZjgwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this joyful special teaching us how to love and care for our furry friends, Elmo and Grover help a sweet stray puppy find a forever home.",
+      "Type": "movie",
+      "RunTime": "26 min",
+      "Genre": "Animation, Short",
+      "Director": "Joanna Hepworth, Rick Ritter, Arthur Mark Taylor",
+      "Writer": "Morgan Von Ancken",
+      "Actors": "Tyler Bunch, Leslie Carrara-Rudolph, Stephanie D'Abruzzo",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Ghosting: The Spirit of Christmas",
@@ -5298,11 +5645,35 @@
       "Country": "United States"
     },
     {
+      "title": "KPop Demon Hunters Bonus Content",
+      "netflix_url": "https://www.netflix.com/title/82182322",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Cocktail Ever Live Concert",
       "netflix_url": "https://www.netflix.com/title/82188034",
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "With Love",
+      "netflix_url": "https://www.netflix.com/title/82629230",
+      "year": "2026",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt38123566",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI0ZmJhZDAtYjNjZC00OGFjLWJjMTktMWEzMzRkODY2ZTg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
+      "Type": "movie",
+      "RunTime": "141 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Madhan",
+      "Writer": "N/A",
+      "Actors": "Abishan Jeevinth, Anaswara Rajan, Harish Kumar",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "The Parkinson Chamber Orchestra Concert",
@@ -5327,6 +5698,27 @@
       "Actors": "Emma Johnson, Giles Panton, Marnie Mahannah",
       "Language": "English, French",
       "Country": "Canada"
+    },
+    {
+      "title": "Bartolito’s Adventures at the Farm",
+      "netflix_url": "https://www.netflix.com/title/82695044",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Lola the Cow’s Adventures at the Farm",
+      "netflix_url": "https://www.netflix.com/title/82695045",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Harry Styles. One Night In Manchester.",
+      "netflix_url": "https://www.netflix.com/title/82722921",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

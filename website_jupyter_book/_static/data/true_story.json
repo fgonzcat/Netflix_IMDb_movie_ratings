@@ -78,6 +78,23 @@
       "imdb_id": null
     },
     {
+      "title": "Ray",
+      "netflix_url": "https://www.netflix.com/title/70001994",
+      "year": "2004",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0350258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxNDQwNjQzOV5BMl5BanBnXkFtZTcwNTQxNDYyMQ@@._V1_SX300.jpg",
+      "Plot": "The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s.",
+      "Type": "movie",
+      "RunTime": "152 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Taylor Hackford",
+      "Writer": "Taylor Hackford, James L. White",
+      "Actors": "Jamie Foxx, Regina King, Kerry Washington",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Zodiac",
       "netflix_url": "https://www.netflix.com/title/70044686",
       "year": "2007",
@@ -93,6 +110,23 @@
       "Actors": "Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "American Gangster",
+      "netflix_url": "https://www.netflix.com/title/70060009",
+      "year": "2007",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0765429",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas.",
+      "Type": "movie",
+      "RunTime": "157 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Ridley Scott",
+      "Writer": "Steven Zaillian, Mark Jacobson",
+      "Actors": "Denzel Washington, Russell Crowe, Chiwetel Ejiofor",
+      "Language": "English, Thai, Spanish",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Ip Man",
@@ -299,6 +333,23 @@
       "Country": "United States"
     },
     {
+      "title": "Jobs",
+      "netflix_url": "https://www.netflix.com/title/70267266",
+      "year": "2013",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt2357129",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5NTQ3MTYxN15BMl5BanBnXkFtZTcwODE2Nzk3OQ@@._V1_SX300.jpg",
+      "Plot": "The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Biography, Drama",
+      "Director": "Joshua Michael Stern",
+      "Writer": "Matt Whiteley",
+      "Actors": "Ashton Kutcher, Dermot Mulroney, Josh Gad",
+      "Language": "English",
+      "Country": "United States, Switzerland"
+    },
+    {
       "title": "12 Years a Slave",
       "netflix_url": "https://www.netflix.com/title/70284282",
       "year": "2013",
@@ -331,6 +382,23 @@
       "Actors": "Jack O'Connell, Miyavi, Domhnall Gleeson",
       "Language": "English, Japanese, Ukrainian, Italian",
       "Country": "United States, Japan"
+    },
+    {
+      "title": "Revenge of the Green Dragons",
+      "netflix_url": "https://www.netflix.com/title/80017280",
+      "year": "2014",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt1396523",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYzOTc2Mzc1NV5BMl5BanBnXkFtZTgwODQ3NTQ0MjE@._V1_SX300.jpg",
+      "Plot": "Two best friends rise through the ranks of New York's Chinese underworld in the 1980s.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wai Keung Lau, Andrew Loo",
+      "Writer": "Michael Di Jiacomo, Andrew Loo, Fredric Dannen",
+      "Actors": "Justin Chon, Kevin Wu, Harry Shum Jr.",
+      "Language": "English, Chinese",
+      "Country": "Hong Kong, United States"
     },
     {
       "title": "Race",
@@ -367,6 +435,23 @@
       "Country": "Ireland, South Africa"
     },
     {
+      "title": "Everest",
+      "netflix_url": "https://www.netflix.com/title/80046309",
+      "year": "2015",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt2719848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDAzOTYxMTctY2ViNi00NDI3LTgwMGItY2FhN2JjZWE5MjRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On May 10, 1996, mountain guides Rob Hall and Scott Fischer combine their expedition teams for a final ascent to the summit of Mount Everest. With little warning, a storm strikes the mountain and the climbers must now battle to su...",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "Baltasar Kormákur",
+      "Writer": "William Nicholson, Simon Beaufoy",
+      "Actors": "Jason Clarke, Ang Phula Sherpa, Thomas M. Wright",
+      "Language": "English, Russian",
+      "Country": "United Kingdom, Iceland, United States"
+    },
+    {
       "title": "First They Killed My Father",
       "netflix_url": "https://www.netflix.com/title/80067522",
       "year": "2017",
@@ -399,6 +484,23 @@
       "Actors": "Brad Pitt, Daniel Betts, John Magaro",
       "Language": "English, Pashtu",
       "Country": "United States"
+    },
+    {
+      "title": "Talvar",
+      "netflix_url": "https://www.netflix.com/title/80080618",
+      "year": "2015",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt4934950",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzODg0Mjc4M15BMl5BanBnXkFtZTgwNzY4Mzc3NjE@._V1_SX300.jpg",
+      "Plot": "An experienced investigator confronts several conflicting theories about the perpetrators of a violent double homicide.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Meghna Gulzar",
+      "Writer": "Vishal Bhardwaj, Aditya Nimbalkar",
+      "Actors": "Irrfan Khan, Konkona Sen Sharma, Neeraj Kabi",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "The Most Hated Woman in America",
@@ -486,6 +588,23 @@
       "Country": "United States"
     },
     {
+      "title": "Deepwater Horizon",
+      "netflix_url": "https://www.netflix.com/title/80104412",
+      "year": "2016",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt1860357",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTEzNDU0OTgxM15BMl5BanBnXkFtZTgwNjA0ODM2OTE@._V1_SX300.jpg",
+      "Plot": "A dramatization of the disaster in April 2010, when the offshore drilling rig called the Deepwater Horizon exploded, resulting in the worst oil spill in history.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Peter Berg",
+      "Writer": "Matthew Michael Carnahan, Matthew Sand, David Barstow",
+      "Actors": "Mark Wahlberg, Kurt Russell, Douglas M. Griffin",
+      "Language": "English",
+      "Country": "United States, Hong Kong"
+    },
+    {
       "title": "The Lighthouse of the Orcas",
       "netflix_url": "https://www.netflix.com/title/80105690",
       "year": "2016",
@@ -532,6 +651,23 @@
       "Actors": "Dev Patel, Nicole Kidman, Rooney Mara",
       "Language": "English, Hindi, Bengali",
       "Country": "United Kingdom, Australia, United States"
+    },
+    {
+      "title": "Hacksaw Ridge",
+      "netflix_url": "https://www.netflix.com/title/80108975",
+      "year": "2016",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt2119532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SX300.jpg",
+      "Plot": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Mel Gibson",
+      "Writer": "Robert Schenkkan, Andrew Knight",
+      "Actors": "Andrew Garfield, Sam Worthington, Luke Bracey",
+      "Language": "English, Japanese",
+      "Country": "United States"
     },
     {
       "title": "Sand Castle",
@@ -1255,6 +1391,23 @@
       "Country": "France, Belgium"
     },
     {
+      "title": "Dovlatov",
+      "netflix_url": "https://www.netflix.com/title/80990221",
+      "year": "2018",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt7763020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzc3YmViNjktMTQ2My00YmVlLWJmNTgtMzNhZWM2MjVlNWFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The film actions unfold in 1971, telling about the four days of life of famous writer Sergei Dovlatov. The film raises the eternal issue of the Russian and European culture - the issue of moral choice.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Biography, Drama",
+      "Director": "Aleksey German Jr.",
+      "Writer": "Aleksey German Jr., Yulia Tupikina",
+      "Actors": "Milan Maric, Danila Kozlovskiy, Helena Sujecka",
+      "Language": "Russian, Spanish, Finnish",
+      "Country": "Russia, Poland, Serbia"
+    },
+    {
       "title": "The Laundromat",
       "netflix_url": "https://www.netflix.com/title/80994011",
       "year": "2019",
@@ -1270,6 +1423,23 @@
       "Actors": "Gary Oldman, Antonio Banderas, AJ Meijer",
       "Language": "English, Mandarin, Spanish, Russian",
       "Country": "United States"
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "netflix_url": "https://www.netflix.com/title/80994899",
+      "year": "2018",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt1727824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
+      "Plot": "With his impeccable vocal abilities, Freddie Mercury and his rock band, Queen, achieve superstardom. However, amidst his skyrocketing success, he grapples with his ego, sexuality and a fatal illness.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Bryan Singer",
+      "Writer": "Anthony McCarten, Peter Morgan",
+      "Actors": "Rami Malek, Lucy Boynton, Gwilym Lee",
+      "Language": "English, British Sign ",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Walk. Ride. Rodeo.",
@@ -1440,6 +1610,23 @@
       "Actors": "Taraji P. Henson, Sam Rockwell, Babou Ceesay",
       "Language": "English, Latin",
       "Country": "United States"
+    },
+    {
+      "title": "Hotel Mumbai",
+      "netflix_url": "https://www.netflix.com/title/81039222",
+      "year": "2018",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt5461944",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDE5NTVmM2UtMjYyZC00NTYzLTgyMjMtYzc5OTZkODliNTA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The true story of the Taj Hotel terrorist attack in Mumbai. Hotel staff risk their lives to keep everyone safe as people make unthinkable sacrifices to protect themselves and their families.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Anthony Maras",
+      "Writer": "John Collee, Anthony Maras",
+      "Actors": "Dev Patel, Armie Hammer, Nazanin Boniadi",
+      "Language": "Hindi, English",
+      "Country": "Australia, United States, United Kingdom, Singapore, India"
     },
     {
       "title": "Mosul",
@@ -2334,6 +2521,23 @@
       "Country": "Colombia"
     },
     {
+      "title": "Raazi",
+      "netflix_url": "https://www.netflix.com/title/81587834",
+      "year": "2018",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt7098658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjM0ZTQyNGQtNDZlYy00MWM5LWExZDAtZTM2ZWU4ZGNmYzk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Kashmiri woman agrees to marry a Pakistani army officer in order to spy on Pakistan during the Indo-Pakistan War of 1971.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Meghna Gulzar",
+      "Writer": "Harinder S. Sikka, Meghna Gulzar, Bhavani Iyer",
+      "Actors": "Alia Bhatt, Vicky Kaushal, Rajit Kapoor",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "The Six Triple Eight",
       "netflix_url": "https://www.netflix.com/title/81590591",
       "year": "2024",
@@ -2628,6 +2832,23 @@
       "Actors": "Henrik Dorsin, Sissela Benn, Jonas Karlsson",
       "Language": "Swedish",
       "Country": "Sweden"
+    },
+    {
+      "title": "BlackBerry",
+      "netflix_url": "https://www.netflix.com/title/81725542",
+      "year": "2023",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt21867434",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzEzZDM5NWEtODgzNC00MTE5LWFhZTYtMGE2YTkxMzFiZWIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Matt Johnson",
+      "Writer": "Jacquie McNish, Sean Silcoff, Matt Johnson",
+      "Actors": "Jay Baruchel, Glenn Howerton, Matt Johnson",
+      "Language": "English",
+      "Country": "Canada, Finland"
     },
     {
       "title": "Bob Marley: One Love",
@@ -3028,6 +3249,23 @@
       "Country": "Canada, United States"
     },
     {
+      "title": "Gaslit By My Husband: The Morgan Metzer Story",
+      "netflix_url": "https://www.netflix.com/title/82095255",
+      "year": "2024",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt32245467",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgxZWFmODAtZjFhMS00NjM1LWFhZjgtZmY1NDQ5YTBjMzkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Morgan's ex-husband Rodney shows up minutes after a masked intruder has assaulted her in her home. Rodney's answers to the authorities' questions don't seem to add up, which makes him the prime suspect in the attack. Based on a tr...",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Drama",
+      "Director": "Lee Gabiana",
+      "Writer": "Benjamin Anderson",
+      "Actors": "Jana Kramer, Austin Nichols, Abigail Esmena",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Wendy Williams: The Movie",
       "netflix_url": "https://www.netflix.com/title/82147484",
       "year": "2021",
@@ -3060,6 +3298,23 @@
       "Actors": "Candice King, Michael Roark, Wendie Malick",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Giving Hope: The Ni’cola Mitchell Story",
+      "netflix_url": "https://www.netflix.com/title/82158679",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt26735466",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDJmMGNiM2ItY2YyYS00ZjJiLTk2OWUtZGFkNzNlYTI4OTZmXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_SX300.jpg",
+      "Plot": "The story of Ni'cola Mitchell, a victim of unspeakable sexual violence who grew up to be a best-selling author and inspirational speaker, founding an organization dedicated to saving at risk girls from abuse and exploitation.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Biography",
+      "Director": "Alpha Nicky",
+      "Writer": "Adam Rockoff",
+      "Actors": "Tatyana Ali, Kudakwashe Rutendo, Gary Brennan",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Eden",
@@ -3169,6 +3424,23 @@
       "Actors": "William H. Macy, John Corbett, Stephanie Szostak",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Nuremberg",
+      "netflix_url": "https://www.netflix.com/title/82700085",
+      "year": "2025",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt29567915",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A WWII psychiatrist evaluates Nazi leaders before the Nuremberg trials, growing increasingly obsessed with understanding evil as he forms a disturbing bond with Hermann Göring.",
+      "Type": "movie",
+      "RunTime": "148 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "James Vanderbilt",
+      "Writer": "James Vanderbilt, Jack El-Hai",
+      "Actors": "Rami Malek, Russell Crowe, Michael Shannon",
+      "Language": "English, German",
+      "Country": "United States, Hungary"
     }
   ]
 }

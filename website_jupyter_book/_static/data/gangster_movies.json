@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/31851",
   "movies": [
     {
+      "title": "Desperado",
+      "netflix_url": "https://www.netflix.com/title/437266",
+      "year": "1995",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0112851",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2IzOThmNTMtODE4My00NTI1LThkOWMtNTA4MTc4NWI1NTNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Former musician and gunslinger El Mariachi arrives at a small Mexican border town after being away for a long time. His past quickly catches up with him and he soon gets entangled with the local drug kingpin Bucho and his gang.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Robert Rodriguez",
+      "Writer": "Robert Rodriguez",
+      "Actors": "Antonio Banderas, Salma Hayek, Joaquim de Almeida",
+      "Language": "English, Spanish",
+      "Country": "United States, Mexico"
+    },
+    {
       "title": "Never Say Never Again",
       "netflix_url": "https://www.netflix.com/title/60002471",
       "year": "1983",
@@ -37,6 +54,40 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Casino",
+      "netflix_url": "https://www.netflix.com/title/70019012",
+      "year": "1995",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt0112641",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "Type": "movie",
+      "RunTime": "178 min",
+      "Genre": "Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Nicholas Pileggi, Martin Scorsese",
+      "Actors": "Robert De Niro, Sharon Stone, Joe Pesci",
+      "Language": "English",
+      "Country": "United States, France"
+    },
+    {
+      "title": "American Gangster",
+      "netflix_url": "https://www.netflix.com/title/70060009",
+      "year": "2007",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0765429",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas.",
+      "Type": "movie",
+      "RunTime": "157 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Ridley Scott",
+      "Writer": "Steven Zaillian, Mark Jacobson",
+      "Actors": "Denzel Washington, Russell Crowe, Chiwetel Ejiofor",
+      "Language": "English, Thai, Spanish",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Cocaine Cowboys 2",
       "netflix_url": "https://www.netflix.com/title/70100553",
       "year": "2008",
@@ -52,6 +103,23 @@
       "Actors": "Nelson Andreu, Jorge Ayala, Griselda Blanco",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Brighton Rock",
+      "netflix_url": "https://www.netflix.com/title/70132815",
+      "year": "2010",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0039220",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzgyZjNhNDYtZjRjZC00M2ZiLThjZTMtYjUwYTIwZGQwM2FlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Brighton in 1935, small-time gang leader Pinkie Brown murders a journalist and later desperately tries to cover his tracks but runs into trouble with the police, a few witnesses, and a rival gang.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "John Boulting",
+      "Writer": "Graham Greene, Terence Rattigan",
+      "Actors": "Richard Attenborough, Hermione Baddeley, William Hartnell",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "30 for 30: The Two Escobars",
@@ -95,6 +163,23 @@
       "Country": "United States"
     },
     {
+      "title": "American Hustle",
+      "netflix_url": "https://www.netflix.com/title/70281530",
+      "year": "2013",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1800241",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ2NzEwZGEtYjk1MC00NWFmLTgyYTgtZmRhMTRmOTBlN2U5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild F.B.I. Agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and the Mafia.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Crime, Drama",
+      "Director": "David O. Russell",
+      "Writer": "Eric Warren Singer, David O. Russell",
+      "Actors": "Christian Bale, Amy Adams, Bradley Cooper",
+      "Language": "English, Arabic",
+      "Country": "United States, China"
+    },
+    {
       "title": "Mardaani",
       "netflix_url": "https://www.netflix.com/title/80005320",
       "year": "2014",
@@ -112,6 +197,23 @@
       "Country": "India"
     },
     {
+      "title": "Revenge of the Green Dragons",
+      "netflix_url": "https://www.netflix.com/title/80017280",
+      "year": "2014",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt1396523",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYzOTc2Mzc1NV5BMl5BanBnXkFtZTgwODQ3NTQ0MjE@._V1_SX300.jpg",
+      "Plot": "Two best friends rise through the ranks of New York's Chinese underworld in the 1980s.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wai Keung Lau, Andrew Loo",
+      "Writer": "Michael Di Jiacomo, Andrew Loo, Fredric Dannen",
+      "Actors": "Justin Chon, Kevin Wu, Harry Shum Jr.",
+      "Language": "English, Chinese",
+      "Country": "Hong Kong, United States"
+    },
+    {
       "title": "Triple 9",
       "netflix_url": "https://www.netflix.com/title/80045504",
       "year": "2016",
@@ -127,6 +229,23 @@
       "Actors": "Casey Affleck, Chiwetel Ejiofor, Anthony Mackie",
       "Language": "English, Spanish, Russian",
       "Country": "United States"
+    },
+    {
+      "title": "Sicario",
+      "netflix_url": "https://www.netflix.com/title/80046311",
+      "year": "2015",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt3397884",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX300.jpg",
+      "Plot": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Denis Villeneuve",
+      "Writer": "Taylor Sheridan",
+      "Actors": "Emily Blunt, Josh Brolin, Benicio Del Toro",
+      "Language": "English, Spanish, Ukrainian",
+      "Country": "United States, Mexico, Hong Kong"
     },
     {
       "title": "He Never Died",
@@ -782,6 +901,13 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Peaky Blinders: The Immortal Man",
+      "netflix_url": "https://www.netflix.com/title/81319485",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Head to Head",
       "netflix_url": "https://www.netflix.com/title/81324382",
       "year": "2023",
@@ -843,8 +969,18 @@
       "title": "Get the Goat",
       "netflix_url": "https://www.netflix.com/title/81382296",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.0",
+      "imdb_id": "tt14111726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTJmNWMxNjAtZjI1Ni00MzgwLWI0MGQtZjNhYWQ5MzU4NGE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two hapless cops find themselves in over their heads as they cross paths with dangerous criminals while searching for Celestina, a beloved goat mascot.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Vitor Brandt",
+      "Writer": "Vitor Brandt, Denis Nielsen",
+      "Actors": "Matheus Nachtergaele, Edmilson Filho, Letícia Lima",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Mumbai Mafia: Police vs The Underworld",
@@ -1559,6 +1695,13 @@
       "imdb_id": null
     },
     {
+      "title": "Bhola Shankar (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81713075",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Harouns",
       "netflix_url": "https://www.netflix.com/title/81716254",
       "year": "2023",
@@ -1634,6 +1777,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Red Line",
+      "netflix_url": "https://www.netflix.com/title/81760518",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39744394",
+      "Poster": "N/A",
+      "Plot": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money and their dignity.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Sitisiri Mongkolsiri",
+      "Writer": "Tinnapat Banyatpiyapoj, Kongdej Jaturanrasamee",
+      "Actors": "Nittha Jirayungyurn, Esther Supreeleela, Ning Chutima Maholakul",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
       "title": "Retro",
       "netflix_url": "https://www.netflix.com/title/81902059",
       "year": "2025",
@@ -1699,6 +1859,23 @@
       "Country": "United States"
     },
     {
+      "title": "Mardaani 3",
+      "netflix_url": "https://www.netflix.com/title/82023351",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27673536",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjllNDEzYWItZWYzYy00MjgxLTk3MzgtOTA4ODA3ODZkNTRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dark, deadly and brutal chapter of the Mardaani franchise.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Abhiraj Minawala",
+      "Writer": "Aayush Gupta",
+      "Actors": "Rani Mukerji",
+      "Language": "N/A",
+      "Country": "India"
+    },
+    {
       "title": "Jaat",
       "netflix_url": "https://www.netflix.com/title/82034833",
       "year": "2025",
@@ -1733,6 +1910,23 @@
       "Country": "Taiwan"
     },
     {
+      "title": "Trap House",
+      "netflix_url": "https://www.netflix.com/title/82099780",
+      "year": "2025",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt10799690",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY0OTk0ZDktMmJkNy00NjQwLWE0NjQtOTY4Y2VhODdhOTJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A DEA agent and his partner pursue thieves: their own rebellious teens, who began robbing the cartel using their parents' tactics and classified intel.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Action, Crime",
+      "Director": "Michael Dowse",
+      "Writer": "Gary Scott Thompson, Tom O'Connor",
+      "Actors": "Dave Bautista, Jack Champion, Bobby Cannavale",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Dhurandhar",
       "netflix_url": "https://www.netflix.com/title/82156122",
       "year": "2025",
@@ -1755,6 +1949,22 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Happy Patel - Khatarnak Jasoos",
+      "netflix_url": "https://www.netflix.com/title/82772383",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32245870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWUyZTBjYTctMGQyNS00Mjg0LTg5ZTMtZDA1YmEyZDIxZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "movie",
+      "Type": "Happy Patel: Khatarnak Jasoos",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Vir Das, Amogh Ranadive",
+      "Writer": "Vir Das, Ellie Flory Fawcett, Amit Bhandari",
+      "Actors": "Hindi",
+      "Language": "India"
     },
     {
       "title": "Pulp Fiction",

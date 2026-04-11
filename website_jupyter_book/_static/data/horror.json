@@ -122,6 +122,23 @@
       "Country": "Germany, United States"
     },
     {
+      "title": "Jaws",
+      "netflix_url": "https://www.netflix.com/title/60001220",
+      "year": "1975",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0073195",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Steven Spielberg",
+      "Writer": "Peter Benchley, Carl Gottlieb",
+      "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "What Lies Beneath",
       "netflix_url": "https://www.netflix.com/title/60001396",
       "year": "2000",
@@ -137,6 +154,13 @@
       "Actors": "Harrison Ford, Michelle Pfeiffer, Katharine Towne",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Stephen King's Sleepwalkers",
+      "netflix_url": "https://www.netflix.com/title/60003974",
+      "year": "1992",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "28 Days Later",
@@ -173,6 +197,23 @@
       "Country": "United States, Canada, Japan, France"
     },
     {
+      "title": "Saw",
+      "netflix_url": "https://www.netflix.com/title/70003226",
+      "year": "2004",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0387564",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTE5MzFlMTktMzBkOC00ZjMxLThmOTAtOGU3ZGEwZGRlNDdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "James Wan",
+      "Writer": "Leigh Whannell, James Wan",
+      "Actors": "Cary Elwes, Leigh Whannell, Danny Glover",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Christine",
       "netflix_url": "https://www.netflix.com/title/70007667",
       "year": "1983",
@@ -188,6 +229,23 @@
       "Actors": "Keith Gordon, John Stockwell, Alexandra Paul",
       "Language": "English, Spanish, French",
       "Country": "United States"
+    },
+    {
+      "title": "Saw II",
+      "netflix_url": "https://www.netflix.com/title/70035184",
+      "year": "2005",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0432348",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVlNjk3MmItZmUzNy00MzcyLWIzOTktZjllYWU5MDAyMjM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A detective and his team must rescue eight people trapped in a factory by a man known as Jigsaw.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Horror, Mystery",
+      "Director": "Darren Lynn Bousman",
+      "Writer": "Leigh Whannell, Darren Lynn Bousman",
+      "Actors": "Donnie Wahlberg, Beverley Mitchell, Franky G",
+      "Language": "English",
+      "Country": "Canada, United States"
     },
     {
       "title": "Kaal",
@@ -207,6 +265,23 @@
       "Country": "India"
     },
     {
+      "title": "Saw III",
+      "netflix_url": "https://www.netflix.com/title/70045862",
+      "year": "2006",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0489270",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ4YTAwZTItZGFjZi00YjNiLTllYzUtYWY3OWM2OTQzODVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jigsaw abducts a doctor in order to keep himself alive while he watches his new apprentice put an unlucky citizen named Jeff through a brutal test.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Darren Lynn Bousman",
+      "Writer": "Leigh Whannell, James Wan",
+      "Actors": "Tobin Bell, Shawnee Smith, Angus Macfadyen",
+      "Language": "English",
+      "Country": "Canada, United States"
+    },
+    {
       "title": "Wind Chill",
       "netflix_url": "https://www.netflix.com/title/70053467",
       "year": "2007",
@@ -224,6 +299,91 @@
       "Country": "United States, United Kingdom, Canada"
     },
     {
+      "title": "Saw IV",
+      "netflix_url": "https://www.netflix.com/title/70060007",
+      "year": "2007",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0890870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc0NjUyNzg3MF5BMl5BanBnXkFtZTYwODMxOTM3._V1_SX300.jpg",
+      "Plot": "Despite Jigsaw's death, and in order to save the lives of two of his colleagues, Lieutenant Rigg is forced to take part in a new game, which promises to test him to the limit.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Darren Lynn Bousman",
+      "Writer": "Patrick Melton, Marcus Dunstan, Thomas Fenton",
+      "Actors": "Tobin Bell, Scott Patterson, Louis Ferreira",
+      "Language": "English",
+      "Country": "Canada, United States"
+    },
+    {
+      "title": "Saw V",
+      "netflix_url": "https://www.netflix.com/title/70098905",
+      "year": "2008",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt1132626",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWViYzg3YzItYzQxNS00MTE1LWJkNTMtMTM3OGI4ODAxOTMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Following Jigsaw's grisly demise, Mark Hoffman is commended as a hero, but Agent Strahm is suspicious, and delves into Hoffman's past. Meanwhile, another group of people are put through a series of gruesome tests.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Horror, Thriller",
+      "Director": "David Hackl",
+      "Writer": "Patrick Melton, Marcus Dunstan",
+      "Actors": "Scott Patterson, Costas Mandylor, Tobin Bell",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
+      "title": "Legion",
+      "netflix_url": "https://www.netflix.com/title/70117305",
+      "year": "2010",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt1038686",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDg4NjYxOV5BMl5BanBnXkFtZTcwODQyNDg3Mg@@._V1_SX300.jpg",
+      "Plot": "When a group of strangers at a dusty roadside diner come under attack by demonic forces, their only chance for survival lies with an archangel named Michael, who informs a pregnant waitress that her unborn child is humanity's last...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Fantasy, Horror",
+      "Director": "Scott Stewart",
+      "Writer": "Peter Schink, Scott Stewart",
+      "Actors": "Paul Bettany, Dennis Quaid, Charles S. Dutton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Saw VI",
+      "netflix_url": "https://www.netflix.com/title/70119356",
+      "year": "2009",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt1233227",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDA3MTM4M15BMl5BanBnXkFtZTcwOTY4Njg3Mg@@._V1_SX300.jpg",
+      "Plot": "Agent Strahm is dead, and FBI agent Erickson draws nearer to Hoffman. Meanwhile, a pair of insurance executives find themselves in another game set by Jigsaw.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Kevin Greutert",
+      "Writer": "Patrick Melton, Marcus Dunstan",
+      "Actors": "Costas Mandylor, Mark Rolston, Betsy Russell",
+      "Language": "English",
+      "Country": "Canada, United States, Australia"
+    },
+    {
+      "title": "Zombieland",
+      "netflix_url": "https://www.netflix.com/title/70123542",
+      "year": "2009",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt1156398",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SX300.jpg",
+      "Plot": "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Action, Comedy, Horror",
+      "Director": "Ruben Fleischer",
+      "Writer": "Rhett Reese, Paul Wernick",
+      "Actors": "Jesse Eisenberg, Emma Stone, Woody Harrelson",
+      "Language": "English, Spanish, French",
+      "Country": "United States"
+    },
+    {
       "title": "Splatter",
       "netflix_url": "https://www.netflix.com/title/70127998",
       "year": "2009",
@@ -239,6 +399,13 @@
       "Actors": "Corey Feldman, Tony Todd, Erin Way",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Saw: The Final Chapter",
+      "netflix_url": "https://www.netflix.com/title/70139391",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Silent House",
@@ -322,6 +489,23 @@
       "Director": "Patrick Brice",
       "Writer": "Patrick Brice, Mark Duplass",
       "Actors": "Mark Duplass, Patrick Brice, Katie Aselton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Misery",
+      "netflix_url": "https://www.netflix.com/title/764604",
+      "year": "1990",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0100157",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY0ODQ3MTMxN15BMl5BanBnXkFtZTgwMDkwNTg4NjE@._V1_SX300.jpg",
+      "Plot": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Rob Reiner",
+      "Writer": "Stephen King, William Goldman",
+      "Actors": "James Caan, Kathy Bates, Richard Farnsworth",
       "Language": "English",
       "Country": "United States"
     },
@@ -681,6 +865,23 @@
       "Actors": "Alice Lowe, Dan Renton Skinner, Jo Hartley",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Jigsaw",
+      "netflix_url": "https://www.netflix.com/title/80185766",
+      "year": "2017",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt3348730",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk1ZTk1ZGYtNmViOS00NDExLTg0NTktMGZjYzg2ZDJlNmViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Police search for a supposed to be dead killer who forces his victims to play sadistic games of life and death.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Michael Spierig, Peter Spierig",
+      "Writer": "Josh Stolberg, Pete Goldfinger",
+      "Actors": "Matt Passmore, Tobin Bell, Callum Keith Rennie",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Better Watch Out",
@@ -1234,6 +1435,23 @@
       "Country": "India"
     },
     {
+      "title": "Suzzanna: Buried Alive",
+      "netflix_url": "https://www.netflix.com/title/81062674",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9044128",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5OTMxN2YtY2E4OS00NjZmLTkxNmYtY2MwMWQwZWRlZWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a pregnant woman is murdered, her spirit seeks revenge against her increasingly terrified killers, who are determined to finish her off for good.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Rocky Soraya, Anggy Umbara",
+      "Writer": "Ferry Lesmana, Bene Dion Rajagukguk, Sunil Soraya",
+      "Actors": "Luna Maya, Herjunot Ali, T. Rifnu Wikana",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Till Death",
       "netflix_url": "https://www.netflix.com/title/81075469",
       "year": "2021",
@@ -1351,6 +1569,13 @@
       "Actors": "Julia Wieniawa-Narkiewicz, Michal Lupa, Wiktoria Gasiewska",
       "Language": "Polish",
       "Country": "Poland"
+    },
+    {
+      "title": "Game Over (Telugu Version)",
+      "netflix_url": "https://www.netflix.com/title/81151878",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Game Over (Hindi Version)",
@@ -1615,6 +1840,13 @@
       "Country": "Italy"
     },
     {
+      "title": "Spiral: From the Book of Saw",
+      "netflix_url": "https://www.netflix.com/title/81252467",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Roohi",
       "netflix_url": "https://www.netflix.com/title/81267359",
       "year": "2021",
@@ -1732,6 +1964,23 @@
       "Actors": "Gang Dong-won, Lee Jung-hyun, Lee Re",
       "Language": "Korean, English, Cantonese",
       "Country": "South Korea"
+    },
+    {
+      "title": "Scream",
+      "netflix_url": "https://www.netflix.com/title/81305962",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt11245972",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NkYTYzOGUtMzk1Yy00YmI0LWIzODEtMjQ0MWU0NWI4ODdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "25 years after the original Woodsboro killings, a new Ghostface begins targeting teens connected to the town's dark past, drawing the final 3 survivors of the first attack back once more.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Matt Bettinelli-Olpin, Tyler Gillett",
+      "Writer": "James Vanderbilt, Guy Busick, Kevin Williamson",
+      "Actors": "Neve Campbell, Courteney Cox, David Arquette",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Ghost Lab",
@@ -2279,6 +2528,23 @@
       "Country": "United States"
     },
     {
+      "title": "Agnes",
+      "netflix_url": "https://www.netflix.com/title/81517345",
+      "year": "2021",
+      "imdb_rating": "3.8",
+      "imdb_id": "tt11348542",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzVkZGMyNTktNTkwZC00MmJkLTgzOTktMzViODFlNTYxNDQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rumors of demonic possession at a religious convent prompts a church investigation into the strange goings-on among its nuns. A disaffected priest and his neophyte are confronted with temptation, bloodshed and a crisis of faith.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Drama, Horror",
+      "Director": "Mickey Reece",
+      "Writer": "Mickey Reece, John Selvidge",
+      "Actors": "Molly C. Quinn, Hayley McFarland, Sean Gunn",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Conference",
       "netflix_url": "https://www.netflix.com/title/81517749",
       "year": "2023",
@@ -2495,6 +2761,13 @@
       "Actors": "Ajay Devgn, Madhavan, Jyotika",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Katteri (Malayalam)",
+      "netflix_url": "https://www.netflix.com/title/81632776",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Chandramukhi 2",
@@ -2788,6 +3061,23 @@
       "Actors": "Sathish, Regena Cassandrra, Nassar",
       "Language": "Tamil",
       "Country": "India"
+    },
+    {
+      "title": "Saw X",
+      "netflix_url": "https://www.netflix.com/title/81705784",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt21807222",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODRmMzAwMWItZjI5MS00NDYyLWFjMmMtZGUwYjQ1ZTBkNmYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A sick and desperate John travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer only to discover the entire operation is a scam to defraud the most vulnerable.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Kevin Greutert",
+      "Writer": "Pete Goldfinger, Josh Stolberg",
+      "Actors": "Tobin Bell, Shawnee Smith, Synnøve Macody Lund",
+      "Language": "English, Spanish",
+      "Country": "United States, Mexico, Canada"
     },
     {
       "title": "Grave Torture",
@@ -3102,6 +3392,13 @@
     {
       "title": "The Bridge Curse: Ritual",
       "netflix_url": "https://www.netflix.com/title/81754653",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Conjuring Kannappan (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81754783",
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
@@ -3621,6 +3918,23 @@
       "Country": "Indonesia, United States"
     },
     {
+      "title": "My Boo 2",
+      "netflix_url": "https://www.netflix.com/title/82072501",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38808167",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzQyNDU5NWEtNzFiMC00NzY2LTkzNzYtMTdiYjY3Y2RhMGQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Witness the deep bond between Joe and Anong, which has been long-lasting through many lifetimes and reincarnations.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Horror, Romance",
+      "Director": "S Khomkrit Treewimol",
+      "Writer": "Kirati Kumsat, Chaianan Soijumpa, S Khomkrit Treewimol",
+      "Actors": "Maylada Susri, Sutthirak Subvijitra, Chaleumpol Tikumpornteerawong",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
       "title": "Attack 13",
       "netflix_url": "https://www.netflix.com/title/82072502",
       "year": "2025",
@@ -3634,6 +3948,23 @@
       "Director": "Taweewat Wantha",
       "Writer": "Thammanan Chulaboriruk",
       "Actors": "Korranid Laosubinprasoet, Veerinsara Tangkitsuvanich, Nichapalak Thongkham",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
+      "title": "Shutter",
+      "netflix_url": "https://www.netflix.com/title/82081794",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0440803",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWJiMTM4YzQtMjg2Zi00NzhjLTkzZDctODU1OGQyNWRiMDZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Jane and Tun run over a girl in a car accident, they speed away immediately from the crime scene. However, Tun, a photographer, soon discovers strange shadows in his photos, which unsettles them.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Banjong Pisanthanakun, Parkpoom Wongpoom",
+      "Writer": "Parkpoom Wongpoom, Banjong Pisanthanakun, Sophon Sakdaphisit",
+      "Actors": "Ananda Everingham, Natthaweeranuch Thongmee, Achita Sikamana",
       "Language": "Thai",
       "Country": "Thailand"
     },
@@ -3762,6 +4093,47 @@
       "Actors": "Rattawadee Wongthong, Jelilcha Kapaun, Nadech Kugimiya",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "28 Years Later: The Bone Temple",
+      "netflix_url": "https://www.netflix.com/title/82622299",
+      "year": "2026",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt32141377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGU2M2Y1YTItMWYxNS00NDYxLThhOTYtNjNhOWUzNjA3MTYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As Spike is inducted into Jimmy Crystal's gang on the mainland, Dr. Kelson makes a discovery that could alter the world.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Horror, Sci-Fi, Thriller",
+      "Director": "Nia DaCosta",
+      "Writer": "N/A",
+      "Actors": "Jack O'Connell, Alfie Williams, Connor Newall",
+      "Language": "English",
+      "Country": "United Kingdom, United States, Canada"
+    },
+    {
+      "title": "Mudborn",
+      "netflix_url": "https://www.netflix.com/title/82647937",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt38365045",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDAzNmE0OWUtMTc4ZS00MDkzLWI2ZmMtMzA3MGEyNjU0MDIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A video-game designer's will is tested when a mysterious spirit infiltrates his new family and threatens the life of his expecting wife.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Meng-Ju Shieh",
+      "Writer": "Yu-Chu Chiang, Yen-Chiao Huang, Meng-Ju Shieh",
+      "Actors": "Yo Yang, Cecilia Choi, Derek Chang",
+      "Language": "Mandarin",
+      "Country": "Taiwan"
+    },
+    {
+      "title": "Re/Member: The Last Night",
+      "netflix_url": "https://www.netflix.com/title/82679720",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "I Know What You Did Last Summer",

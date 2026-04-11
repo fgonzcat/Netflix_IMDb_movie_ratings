@@ -173,6 +173,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Story of Us",
+      "netflix_url": "https://www.netflix.com/title/26009154",
+      "year": "1999",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0160916",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ3ZTJhZmUtOThhOS00ZTA3LWFjY2YtNjJiMzk4MDVmMzM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ben and Katie Jordan are a married couple who go through hard times in fifteen years of marriage.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Rob Reiner",
+      "Writer": "Alan Zweibel, Jessie Nelson",
+      "Actors": "Bruce Willis, Michelle Pfeiffer, Colleen Rennison",
+      "Language": "English, Italian",
+      "Country": "United States"
+    },
+    {
       "title": "Groundhog Day",
       "netflix_url": "https://www.netflix.com/title/563104",
       "year": "1993",
@@ -255,6 +272,23 @@
       "Writer": "Clarence Budington Kelland, Robert Riskin, Tim Herlihy",
       "Actors": "Adam Sandler, Winona Ryder, John Turturro",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Along Came Polly",
+      "netflix_url": "https://www.netflix.com/title/60033294",
+      "year": "2004",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0343135",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxMDMwODg3Nl5BMl5BanBnXkFtZTYwMTM4NTY3._V1_SX300.jpg",
+      "Plot": "A buttoned-up newlywed finds his strictly organized life descend into chaos when he falls in love with an old classmate.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Romance",
+      "Director": "John Hamburg",
+      "Writer": "John Hamburg",
+      "Actors": "Ben Stiller, Jennifer Aniston, Debra Messing",
+      "Language": "English, Spanish",
       "Country": "United States"
     },
     {
@@ -547,6 +581,23 @@
       "Country": "India"
     },
     {
+      "title": "Atonement",
+      "netflix_url": "https://www.netflix.com/title/70059993",
+      "year": "2007",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0783233",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ5ZjZlMzMtODA1ZS00NTNiLWIzOTYtOTQyYjQ2YWQxMTA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Drama, Mystery, Romance",
+      "Director": "Joe Wright",
+      "Writer": "Ian McEwan, Christopher Hampton",
+      "Actors": "Keira Knightley, James McAvoy, Brenda Blethyn",
+      "Language": "English, French",
+      "Country": "United Kingdom, France, United States"
+    },
+    {
       "title": "Eternal Summer",
       "netflix_url": "https://www.netflix.com/title/70079159",
       "year": "2006",
@@ -680,6 +731,23 @@
       "Writer": "Steve Antin",
       "Actors": "Cher, Christina Aguilera, Alan Cumming",
       "Language": "English, Ukrainian",
+      "Country": "United States"
+    },
+    {
+      "title": "How Do You Know",
+      "netflix_url": "https://www.netflix.com/title/70138790",
+      "year": "2010",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt1341188",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQyMzU4OTk1N15BMl5BanBnXkFtZTcwNTE5MTUxNA@@._V1_SX300.jpg",
+      "Plot": "After being cut from the U.S.A. softball team and feeling a bit past her prime, Lisa finds herself evaluating her life and in the middle of a love triangle, as a corporate guy in crisis competes with her current, baseball-playing ...",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "James L. Brooks",
+      "Writer": "James L. Brooks",
+      "Actors": "Reese Witherspoon, Paul Rudd, Owen Wilson",
+      "Language": "English",
       "Country": "United States"
     },
     {
@@ -989,6 +1057,23 @@
       "Country": "United States"
     },
     {
+      "title": "Fifty Shades of Grey",
+      "netflix_url": "https://www.netflix.com/title/80013872",
+      "year": "2015",
+      "imdb_rating": "4.2",
+      "imdb_id": "tt2322441",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_SX300.jpg",
+      "Plot": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama, Romance, Thriller",
+      "Director": "Sam Taylor-Johnson",
+      "Writer": "Kelly Marcel, E.L. James",
+      "Actors": "Dakota Johnson, Jamie Dornan, Jennifer Ehle",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "My Love from the Star",
       "netflix_url": "https://www.netflix.com/title/80025266",
       "year": "2013",
@@ -1174,6 +1259,23 @@
       "Actors": "Natalia de Molina, Greta Fernández, Sara Casasnovas",
       "Language": "Spanish, Portuguese",
       "Country": "Spain"
+    },
+    {
+      "title": "Fifty Shades Darker",
+      "netflix_url": "https://www.netflix.com/title/80131194",
+      "year": "2017",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt4465564",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_SX300.jpg",
+      "Plot": "While Christian wrestles with his inner demons, Anastasia must confront the anger and envy of the women who came before her.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Drama, Mystery, Romance",
+      "Director": "James Foley",
+      "Writer": "Niall Leonard, E.L. James",
+      "Actors": "Dakota Johnson, Jamie Dornan, Eric Johnson",
+      "Language": "English",
+      "Country": "China, Japan, United States"
     },
     {
       "title": "Naked",

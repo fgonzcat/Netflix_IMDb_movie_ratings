@@ -37,6 +37,40 @@
       "Country": "Japan, United States"
     },
     {
+      "title": "The Wiz",
+      "netflix_url": "https://www.netflix.com/title/1130238",
+      "year": "1978",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt0078504",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk3MjA2ZjItN2U5Ny00YjgwLTkyN2QtMmZkZDJmYzI1NGVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Harlem schoolteacher Dorothy is miraculously whisked away to an urban fantasy land called Oz, she goes in search of the Wiz, a wizard who can help her get back to Manhattan, along with the Scarecrow, the Tin Man and the Cowar...",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Sidney Lumet",
+      "Writer": "L. Frank Baum, William F. Brown, Joel Schumacher",
+      "Actors": "Diana Ross, Michael Jackson, Nipsey Russell",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Fifth Element",
+      "netflix_url": "https://www.netflix.com/title/1154386",
+      "year": "1997",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0119116",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODU4ZTE5MWYtNmY2MC00NDkyLTk0NDgtNTk5YjgzMzc4NmQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the colorful future, cabdriver Korben Dallas unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep the great evil and Jean-Baptiste Emmanuel Zorg at bay.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Luc Besson",
+      "Writer": "Luc Besson, Robert Mark Kamen",
+      "Actors": "Bruce Willis, Milla Jovovich, Gary Oldman",
+      "Language": "English, Swedish, German, Arabic, Egyptian (Ancient)",
+      "Country": "France, United Kingdom"
+    },
+    {
       "title": "Godzilla",
       "netflix_url": "https://www.netflix.com/title/11819467",
       "year": "1998",
@@ -103,6 +137,23 @@
       "Actors": "Kyle MacLachlan, Virginia Madsen, Francesca Annis",
       "Language": "English",
       "Country": "United States, Mexico"
+    },
+    {
+      "title": "Ghostbusters",
+      "netflix_url": "https://www.netflix.com/title/541018",
+      "year": "1984",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0087332",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Armed with proton packs, four paranormal investigators battle mischievous ghouls in New York.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Comedy, Fantasy",
+      "Director": "Ivan Reitman",
+      "Writer": "Dan Aykroyd, Harold Ramis",
+      "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Independence Day",
@@ -411,6 +462,23 @@
       "Country": "United States"
     },
     {
+      "title": "Legion",
+      "netflix_url": "https://www.netflix.com/title/70117305",
+      "year": "2010",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt1038686",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDg4NjYxOV5BMl5BanBnXkFtZTcwODQyNDg3Mg@@._V1_SX300.jpg",
+      "Plot": "When a group of strangers at a dusty roadside diner come under attack by demonic forces, their only chance for survival lies with an archangel named Michael, who informs a pregnant waitress that her unborn child is humanity's last...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Fantasy, Horror",
+      "Director": "Scott Stewart",
+      "Writer": "Peter Schink, Scott Stewart",
+      "Actors": "Paul Bettany, Dennis Quaid, Charles S. Dutton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Naruto Shippuden: The Movie",
       "netflix_url": "https://www.netflix.com/title/70124999",
       "year": "2007",
@@ -513,6 +581,23 @@
       "Country": "United States, Germany, Canada, United Kingdom"
     },
     {
+      "title": "R.I.P.D.",
+      "netflix_url": "https://www.netflix.com/title/70267729",
+      "year": "2013",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0790736",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTYxNzE5N15BMl5BanBnXkFtZTcwMDU1MTQ4OQ@@._V1_SX300.jpg",
+      "Plot": "In the afterlife, Nick Walker, a detective who used to work for the Boston Police Department, is hired by a director of a group of deceased police officers to fight against the renegade ghosts.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Robert Schwentke",
+      "Writer": "Phil Hay, Matt Manfredi, David Dobkin",
+      "Actors": "Ryan Reynolds, Jeff Bridges, Mary-Louise Parker",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Naruto Shippuden: The Movie: The Lost Tower",
       "netflix_url": "https://www.netflix.com/title/70275937",
       "year": "2010",
@@ -581,6 +666,40 @@
       "Country": "India"
     },
     {
+      "title": "Lucy",
+      "netflix_url": "https://www.netflix.com/title/70307658",
+      "year": "2014",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt2872732",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_SX300.jpg",
+      "Plot": "A woman who has become accidentally trapped in a dark deal with a mysterious and brutal criminal overlord transforms into a merciless warrior evolved beyond previously known human evolutionary limits and turns the tables on her ca...",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Luc Besson",
+      "Writer": "Luc Besson",
+      "Actors": "Scarlett Johansson, Morgan Freeman, Choi Min-sik",
+      "Language": "English, Mandarin, French, Italian, German, Spanish, Korean",
+      "Country": "France, Germany, Taiwan, Canada, United Kingdom"
+    },
+    {
+      "title": "The Age of Adaline",
+      "netflix_url": "https://www.netflix.com/title/80014426",
+      "year": "2015",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1655441",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzMTQzMTA2MjheQTJeQWpwZ15BbWU4MDk2MTg2MzUx._V1_SX300.jpg",
+      "Plot": "An ageless woman meets someone who reawakens her passion for life and romance.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "Lee Toland Krieger",
+      "Writer": "J. Mills Goodloe, Salvador Paskowitz",
+      "Actors": "Blake Lively, Michiel Huisman, Harrison Ford",
+      "Language": "English, Portuguese, Italian",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Ex Machina",
       "netflix_url": "https://www.netflix.com/title/80023689",
       "year": "2015",
@@ -598,6 +717,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Jurassic World",
+      "netflix_url": "https://www.netflix.com/title/80029196",
+      "year": "2015",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0369610",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzBhNzlkM2UtZTQyOC00NjUyLTkzMmMtNDQ1YTM5N2NmMGE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Colin Trevorrow",
+      "Writer": "Rick Jaffa, Amanda Silver, Colin Trevorrow",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Ty Simpkins",
+      "Language": "English",
+      "Country": "United States, Japan"
+    },
+    {
       "title": "Pixels",
       "netflix_url": "https://www.netflix.com/title/80037476",
       "year": "2015",
@@ -613,6 +749,23 @@
       "Actors": "Adam Sandler, Kevin James, Michelle Monaghan",
       "Language": "English",
       "Country": "China, United States, Canada"
+    },
+    {
+      "title": "Goosebumps",
+      "netflix_url": "https://www.netflix.com/title/80049939",
+      "year": "2015",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1051904",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@._V1_SX300.jpg",
+      "Plot": "A teenager teams up with the daughter of young-adult horror author R.L. Stine after the writer's imaginary demons are set free on the town of Madison, Delaware.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Rob Letterman",
+      "Writer": "Darren Lemke, Scott Alexander, Larry Karaszewski",
+      "Actors": "Jack Black, Dylan Minnette, Odeya Rush",
+      "Language": "English, Ukrainian",
+      "Country": "United States, Australia"
     },
     {
       "title": "The 5th Wave",
@@ -664,6 +817,23 @@
       "Actors": "Robbie Amell, Rachael Taylor, Shaun Benson",
       "Language": "English",
       "Country": "Canada, United States"
+    },
+    {
+      "title": "Warcraft",
+      "netflix_url": "https://www.netflix.com/title/80093133",
+      "year": "2016",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0803096",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@._V1_SX300.jpg",
+      "Plot": "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Duncan Jones",
+      "Writer": "Charles Leavitt, Duncan Jones",
+      "Actors": "Travis Fimmel, Paula Patton, Ben Foster",
+      "Language": "English",
+      "Country": "United States, China, Canada, Japan"
     },
     {
       "title": "Spectral",
@@ -1108,6 +1278,23 @@
       "Country": "United Arab Emirates, Romania"
     },
     {
+      "title": "Jumanji: Welcome to the Jungle",
+      "netflix_url": "https://www.netflix.com/title/80192646",
+      "year": "2017",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt2283362",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Jake Kasdan",
+      "Writer": "Chris McKenna, Erik Sommers, Scott Rosenberg",
+      "Actors": "Dwayne Johnson, Karen Gillan, Kevin Hart",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Anon",
       "netflix_url": "https://www.netflix.com/title/80195964",
       "year": "2018",
@@ -1378,6 +1565,23 @@
       "Actors": "Zlatan Ibrahimovic, Megan Rapinoe, 'Weird Al' Yankovic",
       "Language": "English",
       "Country": "United States, Thailand, Canada"
+    },
+    {
+      "title": "Jurassic World: Fallen Kingdom",
+      "netflix_url": "https://www.netflix.com/title/80228280",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt4881806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_SX300.jpg",
+      "Plot": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "J.A. Bayona",
+      "Writer": "Derek Connolly, Colin Trevorrow, Michael Crichton",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall",
+      "Language": "English, Russian",
+      "Country": "United States, China"
     },
     {
       "title": "Wendell & Wild",
@@ -1710,6 +1914,23 @@
       "Country": "Japan, United States"
     },
     {
+      "title": "The Green Knight",
+      "netflix_url": "https://www.netflix.com/title/81008356",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt9243804",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRjNmU1M2ItNDU4Ni00ZGY2LTlmNzItY2MxYmY3OTllZjMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fantasy retelling of the medieval story of Sir Gawain and the Green Knight.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Adventure, Drama, Fantasy",
+      "Director": "David Lowery",
+      "Writer": "David Lowery, The Gawain Poet",
+      "Actors": "Dev Patel, Alicia Vikander, Joel Edgerton",
+      "Language": "English, Latin",
+      "Country": "United States, Canada, Ireland"
+    },
+    {
       "title": "Atlas",
       "netflix_url": "https://www.netflix.com/title/81012048",
       "year": "2024",
@@ -1783,6 +2004,23 @@
       "year": "1998",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Jonathan",
+      "netflix_url": "https://www.netflix.com/title/81034599",
+      "year": "2018",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt5639446",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ1NTQ2MTg4NF5BMl5BanBnXkFtZTgwMTg2ODQ1NjM@._V1_SX300.jpg",
+      "Plot": "Jonathan leaves the office every day at noon. When he gets home, he goes to sleep. Every morning he wakes up and there is a breakfast prepared for him along with a video telling him about the second part of his day.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "Bill Oliver",
+      "Writer": "Gregory Davis, Peter Nickowitz, Bill Oliver",
+      "Actors": "Ansel Elgort, Suki Waterhouse, Patricia Clarkson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Witcher: Nightmare of the Wolf",
@@ -2072,6 +2310,23 @@
       "Actors": "Victoria Justice, Midori Francis, Robyn Scott",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Skylines",
+      "netflix_url": "https://www.netflix.com/title/81137486",
+      "year": "2020",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt9387250",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWVmYTAwNzMtN2I0ZS00OTU2LThjMTctOTlkZjYwOTkyZjEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Liam O'Donnell",
+      "Writer": "Liam O'Donnell, Matthew E. Chausse",
+      "Actors": "Lindsey Morgan, Jonathan Howard, Daniel Bernhardt",
+      "Language": "English",
+      "Country": "United States, United Kingdom, France, Lithuania, Spain"
     },
     {
       "title": "The App",
@@ -3054,6 +3309,23 @@
       "Country": "Poland, South Korea, United States"
     },
     {
+      "title": "Jurassic World: Dominion",
+      "netflix_url": "https://www.netflix.com/title/81489837",
+      "year": "2022",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8041270",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
+      "Type": "movie",
+      "RunTime": "147 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Colin Trevorrow",
+      "Writer": "Emily Carmichael, Colin Trevorrow, Derek Connolly",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Laura Dern",
+      "Language": "English, Maltese, French",
+      "Country": "United States, China"
+    },
+    {
       "title": "AI Love You",
       "netflix_url": "https://www.netflix.com/title/81495715",
       "year": "2022",
@@ -3694,6 +3966,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "The Creator",
+      "netflix_url": "https://www.netflix.com/title/81674655",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt11858890",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkxMTUxOTQtYzM4Yi00YzA2LTgzOTYtNDg2NTliODE0ZTRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Against the backdrop of a war between humans and robots with artificial intelligence, a former soldier finds the robots' secret weapon to end the conflict, an AI in the form of a child.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Gareth Edwards",
+      "Writer": "Gareth Edwards, Chris Weitz",
+      "Actors": "John David Washington, Madeleine Yuna Voyles, Gemma Chan",
+      "Language": "English, Thai",
+      "Country": "United States, Japan, Cambodia"
+    },
+    {
       "title": "Venom: The Last Dance",
       "netflix_url": "https://www.netflix.com/title/81680567",
       "year": "2024",
@@ -3950,6 +4239,23 @@
       "imdb_id": null
     },
     {
+      "title": "War Machine",
+      "netflix_url": "https://www.netflix.com/title/81768525",
+      "year": "2026",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt15940132",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmM1ZTc5ZTYtOTM2My00MjBmLWE5NzktYzkyYzdlYWE3ZDAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow the final recruits of a grueling special ops boot camp who encounter a deadly force from beyond this world.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Patrick Hughes",
+      "Writer": "James Beaufort, Patrick Hughes",
+      "Actors": "Joshua Diaz, Richard Cotta, Alan Ritchson",
+      "Language": "English",
+      "Country": "United Kingdom, Australia, New Zealand, United States"
+    },
+    {
       "title": "Girl Haunts Boy",
       "netflix_url": "https://www.netflix.com/title/81785089",
       "year": "2024",
@@ -4093,6 +4399,23 @@
       "Country": "United States, United Kingdom"
     },
     {
+      "title": "Jurassic World Rebirth",
+      "netflix_url": "https://www.netflix.com/title/81956629",
+      "year": "2025",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt31036941",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg2NTcwYWQtYzk4NS00MTJhLWEzZjItMzIxNjk3YzlkYzU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Gareth Edwards",
+      "Writer": "David Koepp, Michael Crichton",
+      "Actors": "Scarlett Johansson, Mahershala Ali, Jonathan Bailey",
+      "Language": "English, French, Spanish",
+      "Country": "United States, United Kingdom, Malta, India, Taiwan, Japan"
+    },
+    {
       "title": "M3GAN 2.0",
       "netflix_url": "https://www.netflix.com/title/82000745",
       "year": "2025",
@@ -4200,6 +4523,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Masthishka Maranam: A Frankenbiting of Simon's Memories",
+      "netflix_url": "https://www.netflix.com/title/82774428",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36187149",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM3NTQwN2MtOGFiZC00Njc4LWFlN2UtMDU1ZTFjNDExMjVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Centred on a grieving father who navigates a virtual reality memory game in an attempt to reconnect with his lost child.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Sci-Fi, Thriller",
+      "Director": "Krishand",
+      "Writer": "N/A",
+      "Actors": "Rajisha Vijayan, Divya Prabha, Jagadish",
+      "Language": "Malayalam",
+      "Country": "India"
     }
   ]
 }

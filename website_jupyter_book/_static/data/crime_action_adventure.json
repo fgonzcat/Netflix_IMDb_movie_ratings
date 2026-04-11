@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/9584",
   "movies": [
     {
+      "title": "Money Talks",
+      "netflix_url": "https://www.netflix.com/title/1179583",
+      "year": "1997",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0119695",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2JjM2I0YmMtMzQ3MC00MTc0LWI1MTEtZDVlNTMyMmU0YThhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sought by police and criminals, a small-time hustler makes a deal with a TV newsman for protection.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Brett Ratner",
+      "Writer": "Joel Cohen, Alec Sokolow",
+      "Actors": "Charlie Sheen, Chris Tucker, Heather Locklear",
+      "Language": "English, French",
+      "Country": "United States"
+    },
+    {
       "title": "Aakhri Adaalat",
       "netflix_url": "https://www.netflix.com/title/20254278",
       "year": "1988",
@@ -35,6 +52,40 @@
       "Actors": "Jim Carrey, Ian McNeice, Simon Callow",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Blue Thunder",
+      "netflix_url": "https://www.netflix.com/title/318960",
+      "year": "1983",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0085255",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWVhMGI2MDAtODk5Zi00YmVmLTk5YTQtNmRiMjMyMDAyZDAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The cop test pilot for an experimental police helicopter learns the sinister implications of the new vehicle.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "John Badham",
+      "Writer": "Dan O'Bannon, Don Jakoby",
+      "Actors": "Roy Scheider, Warren Oates, Candy Clark",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Desperado",
+      "netflix_url": "https://www.netflix.com/title/437266",
+      "year": "1995",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0112851",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2IzOThmNTMtODE4My00NTI1LThkOWMtNTA4MTc4NWI1NTNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Former musician and gunslinger El Mariachi arrives at a small Mexican border town after being away for a long time. His past quickly catches up with him and he soon gets entangled with the local drug kingpin Bucho and his gang.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Robert Rodriguez",
+      "Writer": "Robert Rodriguez",
+      "Actors": "Antonio Banderas, Salma Hayek, Joaquim de Almeida",
+      "Language": "English, Spanish",
+      "Country": "United States, Mexico"
     },
     {
       "title": "Mashaal",
@@ -105,6 +156,23 @@
       "Country": "India"
     },
     {
+      "title": "All About the Benjamins",
+      "netflix_url": "https://www.netflix.com/title/60022698",
+      "year": "2002",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0278295",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODhjNjRiMTAtNWMxMy00MTY1LWE1ZjQtNmUzNjlhY2JiMjU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bounty hunter Bucum chases bail-jumper Reggie, who runs right into the scene of a diamond heist and murder and gets shot at as well. Later they become partners in their pursuit of the $20M in diamonds and lottery ticket. Their wom...",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Kevin Bray",
+      "Writer": "Ronald Lang, Ice Cube",
+      "Actors": "Ice Cube, Mike Epps, Tommy Flanagan",
+      "Language": "English, French",
+      "Country": "United States, Germany"
+    },
+    {
       "title": "Man on Fire",
       "netflix_url": "https://www.netflix.com/title/60034560",
       "year": "2004",
@@ -120,6 +188,23 @@
       "Actors": "Denzel Washington, Christopher Walken, Dakota Fanning",
       "Language": "English, Spanish",
       "Country": "Switzerland, United Kingdom, United States, Mexico"
+    },
+    {
+      "title": "Kindergarten Cop",
+      "netflix_url": "https://www.netflix.com/title/671744",
+      "year": "1990",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0099938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyMTIyOTc0N15BMl5BanBnXkFtZTgwODY1NTk4NjE@._V1_SX300.jpg",
+      "Plot": "A tough cop must pose as a kindergarten teacher in order to locate a dangerous criminal's ex-wife, who may hold the key to putting him behind bars.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Ivan Reitman",
+      "Writer": "Murray Salem, Herschel Weingrod, Timothy Harris",
+      "Actors": "Arnold Schwarzenegger, Penelope Ann Miller, Pamela Reed",
+      "Language": "English, Spanish, German",
+      "Country": "United States"
     },
     {
       "title": "Dhoom",
@@ -275,6 +360,23 @@
       "Country": "France, United States, United Kingdom, Mexico, Canada"
     },
     {
+      "title": "Tower Heist",
+      "netflix_url": "https://www.netflix.com/title/70202145",
+      "year": "2011",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0471042",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NDQxMTcwOV5BMl5BanBnXkFtZTcwNzMzNTExNg@@._V1_SX300.jpg",
+      "Plot": "When a group of hard-working guys find out they've fallen victim to their wealthy employer's Ponzi scheme, they conspire to rob his high-rise residence.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Brett Ratner",
+      "Writer": "Adam Cooper, Bill Collage, Ted Griffin",
+      "Actors": "Eddie Murphy, Ben Stiller, Casey Affleck",
+      "Language": "English, Spanish, Chinese",
+      "Country": "Japan, United States"
+    },
+    {
       "title": "Hit & Run",
       "netflix_url": "https://www.netflix.com/title/70243445",
       "year": "2012",
@@ -306,6 +408,23 @@
       "Writer": "David Guggenheim",
       "Actors": "Nicolas Cage, Malin Akerman, Josh Lucas",
       "Language": "English, Swedish",
+      "Country": "United States"
+    },
+    {
+      "title": "R.I.P.D.",
+      "netflix_url": "https://www.netflix.com/title/70267729",
+      "year": "2013",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0790736",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTYxNzE5N15BMl5BanBnXkFtZTcwMDU1MTQ4OQ@@._V1_SX300.jpg",
+      "Plot": "In the afterlife, Nick Walker, a detective who used to work for the Boston Police Department, is hired by a director of a group of deceased police officers to fight against the renegade ghosts.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Robert Schwentke",
+      "Writer": "Phil Hay, Matt Manfredi, David Dobkin",
+      "Actors": "Ryan Reynolds, Jeff Bridges, Mary-Louise Parker",
+      "Language": "English",
       "Country": "United States"
     },
     {
@@ -445,6 +564,23 @@
       "Country": "United States, Spain, United Kingdom, France"
     },
     {
+      "title": "Revenge of the Green Dragons",
+      "netflix_url": "https://www.netflix.com/title/80017280",
+      "year": "2014",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt1396523",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYzOTc2Mzc1NV5BMl5BanBnXkFtZTgwODQ3NTQ0MjE@._V1_SX300.jpg",
+      "Plot": "Two best friends rise through the ranks of New York's Chinese underworld in the 1980s.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wai Keung Lau, Andrew Loo",
+      "Writer": "Michael Di Jiacomo, Andrew Loo, Fredric Dannen",
+      "Actors": "Justin Chon, Kevin Wu, Harry Shum Jr.",
+      "Language": "English, Chinese",
+      "Country": "Hong Kong, United States"
+    },
+    {
       "title": "Happy New Year",
       "netflix_url": "https://www.netflix.com/title/80017528",
       "year": "2014",
@@ -462,6 +598,23 @@
       "Country": "India"
     },
     {
+      "title": "Paul Blart: Mall Cop 2",
+      "netflix_url": "https://www.netflix.com/title/80021687",
+      "year": "2015",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt3450650",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwMjkxNDQ1MV5BMl5BanBnXkFtZTgwNDQwODIxNTE@._V1_SX300.jpg",
+      "Plot": "After six years of keeping our malls safe, Paul Blart has earned a well-deserved vacation. He heads to Las Vegas with his teenage daughter before she heads off to college. But safety never takes a holiday and when duty calls, Blar...",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Andy Fickman",
+      "Writer": "Kevin James, Nick Bakay",
+      "Actors": "Kevin James, Raini Rodriguez, Eduardo Verástegui",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Kill Dil",
       "netflix_url": "https://www.netflix.com/title/80024000",
       "year": "2014",
@@ -477,6 +630,57 @@
       "Actors": "Ranveer Singh, Ali Zafar, Parineeti Chopra",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Son of a Gun",
+      "netflix_url": "https://www.netflix.com/title/80027378",
+      "year": "2014",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt2452200",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODZlMDQ5MjEtNjU0NS00M2JjLWJiM2UtMDBjZDMxZGEzOTVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "JR busts out of prison with Brendan Lynch, Australia's most notorious criminal, and joins Lynch's gang for a gold heist that soon pits the two men against one another.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Julius Avery",
+      "Writer": "Julius Avery, John Collee",
+      "Actors": "Ewan McGregor, Brenton Thwaites, Alicia Vikander",
+      "Language": "English, Serbo-Croatian",
+      "Country": "Australia, United Kingdom, Canada"
+    },
+    {
+      "title": "Sicario",
+      "netflix_url": "https://www.netflix.com/title/80046311",
+      "year": "2015",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt3397884",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX300.jpg",
+      "Plot": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Denis Villeneuve",
+      "Writer": "Taylor Sheridan",
+      "Actors": "Emily Blunt, Josh Brolin, Benicio Del Toro",
+      "Language": "English, Spanish, Ukrainian",
+      "Country": "United States, Mexico, Hong Kong"
+    },
+    {
+      "title": "Veteran",
+      "netflix_url": "https://www.netflix.com/title/80068011",
+      "year": "2015",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt4768764",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI1Y2FkMDItMmMxNi00ZmJhLWEzMGUtOTdiOTc4YmZiOGE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An honest cop seeks justice for a common man against all odds. A rich boy seeks revenge on the cop.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Ryoo Seung-wan",
+      "Actors": "Hwang Jung-min, Yoo Ah-in, Yoo Hae-jin",
+      "Language": "Korean, Russian, English",
+      "Country": "South Korea"
     },
     {
       "title": "Free Fire",
@@ -989,6 +1193,23 @@
       "Country": "Brazil"
     },
     {
+      "title": "21 Bridges",
+      "netflix_url": "https://www.netflix.com/title/81059369",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt8688634",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmZjYjI0YjUtOTc4OC00MmEyLWE4MDItN2M5NGZmNWY1YzYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An embattled NYPD detective is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Brian Kirk",
+      "Writer": "Adam Mervis, Matthew Michael Carnahan",
+      "Actors": "Chadwick Boseman, Sienna Miller, J.K. Simmons",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Gatao 2: Rise of the King",
       "netflix_url": "https://www.netflix.com/title/81072917",
       "year": "2018",
@@ -1055,6 +1276,23 @@
       "Actors": "Liam Neeson, Laura Dern, Micheál Neeson",
       "Language": "English, Vietnamese, Shoshoni",
       "Country": "United Kingdom, Norway, China, Canada, United States, France"
+    },
+    {
+      "title": "Black and Blue",
+      "netflix_url": "https://www.netflix.com/title/81086524",
+      "year": "2019",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt7390646",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFmZjE5NmUtZGFjYi00Zjc0LWIyYzYtZDhlYzVlZDUxY2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A rookie New Orleans police officer is forced to balance her identity as a black woman after she witnesses two corrupt cops committing murder.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Action, Thriller",
+      "Director": "Deon Taylor",
+      "Writer": "Peter A. Dowling",
+      "Actors": "Naomie Harris, Tyrese Gibson, Frank Grillo",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Lost Bullet",
@@ -1387,8 +1625,18 @@
       "title": "Get the Goat",
       "netflix_url": "https://www.netflix.com/title/81382296",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.0",
+      "imdb_id": "tt14111726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTJmNWMxNjAtZjI1Ni00MzgwLWI0MGQtZjNhYWQ5MzU4NGE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two hapless cops find themselves in over their heads as they cross paths with dangerous criminals while searching for Celestina, a beloved goat mascot.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Vitor Brandt",
+      "Writer": "Vitor Brandt, Denis Nielsen",
+      "Actors": "Matheus Nachtergaele, Edmilson Filho, Letícia Lima",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Amigos",
@@ -1627,6 +1875,23 @@
       "Actors": "Jason Statham, Holt McCallany, Josh Hartnett",
       "Language": "English, Spanish, Arabic",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "A Day to Die",
+      "netflix_url": "https://www.netflix.com/title/81474293",
+      "year": "2022",
+      "imdb_rating": "3.5",
+      "imdb_id": "tt14412366",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODVlYjc0NDAtZTNjMy00YjNhLTg0ZDQtNDY1NWJiMWI0NGIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Connor Connolly has one day to pay reparations to Tyrone Pettis. He is forced to ask his old military ops crew, led by Brice Mason, to come together to get him two million dollars before he loses everyone he loves in the process.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wes Miller",
+      "Writer": "Rab Berry, Scott Mallace",
+      "Actors": "Kevin Dillon, Bruce Willis, Frank Grillo",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Yaksha: Ruthless Operations",
@@ -2059,6 +2324,13 @@
       "Actors": "Karthi, K.S. Ravikumar, Sunil",
       "Language": "Tamil",
       "Country": "India"
+    },
+    {
+      "title": "Japan (Kannada)",
+      "netflix_url": "https://www.netflix.com/title/81600232",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Kaapa",
@@ -2542,6 +2814,13 @@
       "Country": "France, Belgium"
     },
     {
+      "title": "Bhola Shankar (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81713075",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Daaku Maharaaj",
       "netflix_url": "https://www.netflix.com/title/81715676",
       "year": "2024",
@@ -2970,6 +3249,23 @@
       "Country": "India"
     },
     {
+      "title": "Nobody 2",
+      "netflix_url": "https://www.netflix.com/title/81948261",
+      "year": "2025",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt28996126",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWViZjhjYjQtZDI1MC00MWMyLTlhZTktNmIzY2Y0ZWVkMWFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Suburban dad Hutch Mansell, a former lethal assassin, is pulled back into his violent past after thwarting a home invasion, setting off a chain of events.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Timo Tjahjanto",
+      "Writer": "Derek Kolstad, Aaron Rabin",
+      "Actors": "Bob Odenkirk, Connie Nielsen, Christopher Lloyd",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Bleeding Tiger: Conflict Begins",
       "netflix_url": "https://www.netflix.com/title/81949635",
       "year": "2024",
@@ -3022,6 +3318,23 @@
       "imdb_id": null
     },
     {
+      "title": "Mardaani 3",
+      "netflix_url": "https://www.netflix.com/title/82023351",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27673536",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjllNDEzYWItZWYzYy00MjgxLTk3MzgtOTA4ODA3ODZkNTRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dark, deadly and brutal chapter of the Mardaani franchise.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Abhiraj Minawala",
+      "Writer": "Aayush Gupta",
+      "Actors": "Rani Mukerji",
+      "Language": "N/A",
+      "Country": "India"
+    },
+    {
       "title": "GATAO: Like Father Like Son",
       "netflix_url": "https://www.netflix.com/title/82045318",
       "year": "2024",
@@ -3044,6 +3357,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Trap House",
+      "netflix_url": "https://www.netflix.com/title/82099780",
+      "year": "2025",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt10799690",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY0OTk0ZDktMmJkNy00NjQwLWE0NjQtOTY4Y2VhODdhOTJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A DEA agent and his partner pursue thieves: their own rebellious teens, who began robbing the cartel using their parents' tactics and classified intel.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Action, Crime",
+      "Director": "Michael Dowse",
+      "Writer": "Gary Scott Thompson, Tom O'Connor",
+      "Actors": "Dave Bautista, Jack Champion, Bobby Cannavale",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Dhurandhar",
@@ -3102,6 +3432,56 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Humint",
+      "netflix_url": "https://www.netflix.com/title/82682318",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32606470",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjliZDRkZTYtYTBkNi00NzAxLTg0YmQtODE0YjVmNWNjNjhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An espionage action film depicting North and South Korean secret agents clashing while investigating crimes occurring on the Vladivostok border.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "N/A",
+      "Actors": "Zo In-sung, Park Jeong-min, Park Hae-joon",
+      "Language": "N/A",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Happy Patel - Khatarnak Jasoos",
+      "netflix_url": "https://www.netflix.com/title/82772383",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32245870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWUyZTBjYTctMGQyNS00Mjg0LTg5ZTMtZDA1YmEyZDIxZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "movie",
+      "Type": "Happy Patel: Khatarnak Jasoos",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Vir Das, Amogh Ranadive",
+      "Writer": "Vir Das, Ellie Flory Fawcett, Amit Bhandari",
+      "Actors": "Hindi",
+      "Language": "India"
+    },
+    {
+      "title": "Masthishka Maranam: A Frankenbiting of Simon's Memories",
+      "netflix_url": "https://www.netflix.com/title/82774428",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36187149",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM3NTQwN2MtOGFiZC00Njc4LWFlN2UtMDU1ZTFjNDExMjVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Centred on a grieving father who navigates a virtual reality memory game in an attempt to reconnect with his lost child.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Sci-Fi, Thriller",
+      "Director": "Krishand",
+      "Writer": "N/A",
+      "Actors": "Rajisha Vijayan, Divya Prabha, Jagadish",
+      "Language": "Malayalam",
+      "Country": "India"
     },
     {
       "title": "The Ride",

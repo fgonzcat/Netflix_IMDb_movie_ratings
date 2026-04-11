@@ -105,6 +105,40 @@
       "Country": "India"
     },
     {
+      "title": "The Lazarus Project",
+      "netflix_url": "https://www.netflix.com/title/70105820",
+      "year": "2008",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0464041",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI5NGNjNjctNTQwOS00MjZjLWI1YzQtNjYzMmQ1ZjhlM2U1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A paroled former criminal is drawn into an endeavor that puts life with his family at risk and subsequently finds himself living an inexplicable new life working at a psychiatric facility.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "John Glenn",
+      "Writer": "John Glenn, Evan Astrowsky",
+      "Actors": "Paul Walker, Piper Perabo, Brooklynn Proulx",
+      "Language": "English",
+      "Country": "United States, Canada, United Kingdom"
+    },
+    {
+      "title": "The Roommate",
+      "netflix_url": "https://www.netflix.com/title/70123922",
+      "year": "2011",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt1265990",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMzQwMzMwNF5BMl5BanBnXkFtZTcwNjE5MTUxNA@@._V1_SX300.jpg",
+      "Plot": "When college freshman Sara arrives on campus for the first time, she befriends her roommate, Rebecca, unaware that the girl is becoming dangerously obsessed with her.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Christian E. Christiansen",
+      "Writer": "Sonny Mallhi",
+      "Actors": "Minka Kelly, Leighton Meester, Cam Gigandet",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Silent House",
       "netflix_url": "https://www.netflix.com/title/70170056",
       "year": "2011",
@@ -207,6 +241,23 @@
       "Country": "United States"
     },
     {
+      "title": "Misery",
+      "netflix_url": "https://www.netflix.com/title/764604",
+      "year": "1990",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0100157",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY0ODQ3MTMxN15BMl5BanBnXkFtZTgwMDkwNTg4NjE@._V1_SX300.jpg",
+      "Plot": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Rob Reiner",
+      "Writer": "Stephen King, William Goldman",
+      "Actors": "James Caan, Kathy Bates, Richard Farnsworth",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "No Good Deed",
       "netflix_url": "https://www.netflix.com/title/80007079",
       "year": "2014",
@@ -222,6 +273,23 @@
       "Actors": "Taraji P. Henson, Idris Elba, Leslie Bibb",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Captive",
+      "netflix_url": "https://www.netflix.com/title/80013547",
+      "year": "2014",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt2326612",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwMTIxNDg0OV5BMl5BanBnXkFtZTgwNTM0MzU0MzE@._V1_SX300.jpg",
+      "Plot": "Eight years after the disappearance of Cassandra, some disturbing incidents seem to indicate that she's still alive. Police, parents and Cassandra herself, will try to unravel the mystery of her disappearance.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Atom Egoyan",
+      "Writer": "Atom Egoyan, David Fraser",
+      "Actors": "Ryan Reynolds, Scott Speedman, Rosario Dawson",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Mojave",
@@ -921,6 +989,13 @@
       "Country": "India"
     },
     {
+      "title": "Game Over (Telugu Version)",
+      "netflix_url": "https://www.netflix.com/title/81151878",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Game Over (Hindi Version)",
       "netflix_url": "https://www.netflix.com/title/81151880",
       "year": "2019",
@@ -1467,6 +1542,23 @@
       "Actors": "Zar Amir Ebrahimi, Diana Al Hussen, Soraya Helli",
       "Language": "Persian",
       "Country": "Germany, Denmark, France, Sweden, Jordan, Italy"
+    },
+    {
+      "title": "Accused",
+      "netflix_url": "https://www.netflix.com/title/81661375",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39631179",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhmM2U5ZTktY2U1Yy00NjU3LTllYjktNzJhM2VlMjJhYjY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama, Thriller",
+      "Director": "Anubhuti Kashyap",
+      "Writer": "Sima Agarwal, Yash Keswani",
+      "Actors": "Konkona Sen Sharma, Pratibha Ranta, Sukant Goel",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Here Love Lies",

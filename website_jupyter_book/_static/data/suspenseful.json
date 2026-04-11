@@ -122,6 +122,23 @@
       "Country": "United Kingdom, United States, Spain"
     },
     {
+      "title": "Dil Se",
+      "netflix_url": "https://www.netflix.com/title/17671454",
+      "year": "1998",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0164538",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGU3NGY5ZWUtMWQxOS00ZTMzLWJjNTEtMjkyZDVlY2E4OGZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A radio broadcaster's intense attraction to a mysterious woman opens the door to a tidal wave of powerful emotions and desires.",
+      "Type": "movie",
+      "RunTime": "163 min",
+      "Genre": "Drama, Romance",
+      "Director": "Mani Ratnam",
+      "Writer": "Mani Ratnam, Sujatha, Tigmanshu Dhulia",
+      "Actors": "Shah Rukh Khan, Manisha Koirala, Preity G Zinta",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Darr",
       "netflix_url": "https://www.netflix.com/title/20704518",
       "year": "1993",
@@ -222,6 +239,23 @@
       "Actors": "George Lazenby, Diana Rigg, Telly Savalas",
       "Language": "English, German, French",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Blue Thunder",
+      "netflix_url": "https://www.netflix.com/title/318960",
+      "year": "1983",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0085255",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWVhMGI2MDAtODk5Zi00YmVmLTk5YTQtNmRiMjMyMDAyZDAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The cop test pilot for an experimental police helicopter learns the sinister implications of the new vehicle.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "John Badham",
+      "Writer": "Dan O'Bannon, Don Jakoby",
+      "Actors": "Roy Scheider, Warren Oates, Candy Clark",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Dr. No",
@@ -377,6 +411,23 @@
       "Country": "Germany, United States"
     },
     {
+      "title": "Jaws",
+      "netflix_url": "https://www.netflix.com/title/60001220",
+      "year": "1975",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0073195",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Steven Spielberg",
+      "Writer": "Peter Benchley, Carl Gottlieb",
+      "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "What Lies Beneath",
       "netflix_url": "https://www.netflix.com/title/60001396",
       "year": "2000",
@@ -428,6 +479,30 @@
       "Country": "United Kingdom, United States, Iceland, France"
     },
     {
+      "title": "Stephen King's Sleepwalkers",
+      "netflix_url": "https://www.netflix.com/title/60003974",
+      "year": "1992",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Jaws 2",
+      "netflix_url": "https://www.netflix.com/title/60020332",
+      "year": "1978",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0077766",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzAxN2Q5Y2UtMDBkZS00MGQwLWIyZDEtYTgyNGRlZmZiNjI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Police chief Brody must protect the citizens of Amity after a second monstrous shark begins terrorizing the waters.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Jeannot Szwarc",
+      "Writer": "Peter Benchley, Carl Gottlieb, Howard Sackler",
+      "Actors": "Roy Scheider, Lorraine Gary, Murray Hamilton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Glass House",
       "netflix_url": "https://www.netflix.com/title/60020817",
       "year": "2001",
@@ -460,6 +535,23 @@
       "Actors": "Michael Douglas, Sean Bean, Brittany Murphy",
       "Language": "English, Italian, Chinese",
       "Country": "United States, Australia, Switzerland, Canada"
+    },
+    {
+      "title": "All About the Benjamins",
+      "netflix_url": "https://www.netflix.com/title/60022698",
+      "year": "2002",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0278295",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODhjNjRiMTAtNWMxMy00MTY1LWE1ZjQtNmUzNjlhY2JiMjU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bounty hunter Bucum chases bail-jumper Reggie, who runs right into the scene of a diamond heist and murder and gets shot at as well. Later they become partners in their pursuit of the $20M in diamonds and lottery ticket. Their wom...",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Kevin Bray",
+      "Writer": "Ronald Lang, Ice Cube",
+      "Actors": "Ice Cube, Mike Epps, Tommy Flanagan",
+      "Language": "English, French",
+      "Country": "United States, Germany"
     },
     {
       "title": "Enough",
@@ -700,6 +792,23 @@
       "Country": "India, United States"
     },
     {
+      "title": "The Roommate",
+      "netflix_url": "https://www.netflix.com/title/70123922",
+      "year": "2011",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt1265990",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMzQwMzMwNF5BMl5BanBnXkFtZTcwNjE5MTUxNA@@._V1_SX300.jpg",
+      "Plot": "When college freshman Sara arrives on campus for the first time, she befriends her roommate, Rebecca, unaware that the girl is becoming dangerously obsessed with her.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Christian E. Christiansen",
+      "Writer": "Sonny Mallhi",
+      "Actors": "Minka Kelly, Leighton Meester, Cam Gigandet",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Cell 211",
       "netflix_url": "https://www.netflix.com/title/70125343",
       "year": "2009",
@@ -732,6 +841,40 @@
       "Actors": "Elizabeth Olsen, Adam Trese, Eric Sheffer Stevens",
       "Language": "English",
       "Country": "United States, France"
+    },
+    {
+      "title": "The Unjust",
+      "netflix_url": "https://www.netflix.com/title/70170417",
+      "year": "2010",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1843120",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTI5ODIzMl5BMl5BanBnXkFtZTgwNzI3MDE0MjE@._V1_SX300.jpg",
+      "Plot": "When the most probable serial killer suspect dies and the case looks like it's reached a dead end, police brass decide to create a killer - and anyone will do.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Park Hoon-jung",
+      "Actors": "Hwang Jung-min, Ryu Seung-beom, Yoo Hae-jin",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Mission: Impossible - Ghost Protocol",
+      "netflix_url": "https://www.netflix.com/title/70173048",
+      "year": "2011",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1229238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_SX300.jpg",
+      "Plot": "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Brad Bird",
+      "Writer": "Bruce Geller, Josh Appelbaum, André Nemec",
+      "Actors": "Tom Cruise, Jeremy Renner, Simon Pegg",
+      "Language": "English, Russian, French, Arabic, Swedish",
+      "Country": "United States, United Arab Emirates, Russia, Canada, Czech Republic, India"
     },
     {
       "title": "In Defense of a Married Man",
@@ -938,6 +1081,23 @@
       "Country": "United States"
     },
     {
+      "title": "Mission: Impossible",
+      "netflix_url": "https://www.netflix.com/title/765912",
+      "year": "1996",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0117060",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGZjNDlkMTYtMTJkZi00OTkzLWI4NDEtYTA2ODQyMjcwYTdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Brian De Palma",
+      "Writer": "Bruce Geller, David Koepp, Steven Zaillian",
+      "Actors": "Tom Cruise, Jon Voight, Emmanuelle Béart",
+      "Language": "English, French, Czech",
+      "Country": "United States"
+    },
+    {
       "title": "Moonraker",
       "netflix_url": "https://www.netflix.com/title/772447",
       "year": "1979",
@@ -1040,6 +1200,23 @@
       "Country": "United States, United Kingdom"
     },
     {
+      "title": "Goosebumps",
+      "netflix_url": "https://www.netflix.com/title/80049939",
+      "year": "2015",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1051904",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@._V1_SX300.jpg",
+      "Plot": "A teenager teams up with the daughter of young-adult horror author R.L. Stine after the writer's imaginary demons are set free on the town of Madison, Delaware.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Rob Letterman",
+      "Writer": "Darren Lemke, Scott Alexander, Larry Karaszewski",
+      "Actors": "Jack Black, Dylan Minnette, Odeya Rush",
+      "Language": "English, Ukrainian",
+      "Country": "United States, Australia"
+    },
+    {
       "title": "Green Room",
       "netflix_url": "https://www.netflix.com/title/80060034",
       "year": "2015",
@@ -1140,6 +1317,23 @@
       "Actors": "Bryan Cranston, John Leguizamo, Diane Kruger",
       "Language": "English, Spanish",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Shimmer Lake",
+      "netflix_url": "https://www.netflix.com/title/80103734",
+      "year": "2017",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1386691",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTI0NjZiZTctNWQ2MC00Yjc0LTg5ZTMtNjNlNTllZjE4ZDZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An inventive crime thriller told backwards reversing day by day through a week following a local sheriff's quest to unlock the mystery of three small-town criminals and a bank heist gone wrong.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Oren Uziel",
+      "Writer": "Oren Uziel",
+      "Actors": "Benjamin Walker, Rainn Wilson, Stephanie Sigman",
+      "Language": "English",
+      "Country": "Canada, United States"
     },
     {
       "title": "Wheelman",
@@ -2842,6 +3036,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Black and Blue",
+      "netflix_url": "https://www.netflix.com/title/81086524",
+      "year": "2019",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt7390646",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFmZjE5NmUtZGFjYi00Zjc0LWIyYzYtZDhlYzVlZDUxY2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A rookie New Orleans police officer is forced to balance her identity as a black woman after she witnesses two corrupt cops committing murder.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Action, Thriller",
+      "Director": "Deon Taylor",
+      "Writer": "Peter A. Dowling",
+      "Actors": "Naomie Harris, Tyrese Gibson, Frank Grillo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The 3rd Eye 2",
       "netflix_url": "https://www.netflix.com/title/81088277",
       "year": "2019",
@@ -3726,6 +3937,23 @@
       "Country": "Germany"
     },
     {
+      "title": "Forever Rich",
+      "netflix_url": "https://www.netflix.com/title/81289069",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt12748300",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjg0NDM0ZmMtMjk5Yy00MGM4LWEzOWItNWNkMzJiMDQzZmM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Richie's watch is stolen in a violent robbery and humiliating images of the encounter go viral, the rapper has to fix his reputation to save his career.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Shady El-Hamus",
+      "Writer": "Shady El-Hamus, Jeroen Scholten van Aschat",
+      "Actors": "Jonas Smulders, Daniël Kolf, Sinem Kavus",
+      "Language": "Dutch",
+      "Country": "Netherlands"
+    },
+    {
       "title": "Chor Nikal Ke Bhaga",
       "netflix_url": "https://www.netflix.com/title/81305487",
       "year": "2023",
@@ -3741,6 +3969,23 @@
       "Actors": "Yami Gautam, Sunny Kaushal, Sharad Kelkar",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Scream",
+      "netflix_url": "https://www.netflix.com/title/81305962",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt11245972",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NkYTYzOGUtMzk1Yy00YmI0LWIzODEtMjQ0MWU0NWI4ODdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "25 years after the original Woodsboro killings, a new Ghostface begins targeting teens connected to the town's dark past, drawing the final 3 survivors of the first attack back once more.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Matt Bettinelli-Olpin, Tyler Gillett",
+      "Writer": "James Vanderbilt, Guy Busick, Kevin Williamson",
+      "Actors": "Neve Campbell, Courteney Cox, David Arquette",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Ghost Lab",
@@ -4689,6 +4934,23 @@
       "Country": "Argentina"
     },
     {
+      "title": "Nayattu",
+      "netflix_url": "https://www.netflix.com/title/81457107",
+      "year": "2021",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt11604676",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2UxNWVkMmUtZDBlOC00NTNhLThkMWEtMzJlMDdiODM0NzJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three police officers who are on a run for life, escaping the outbreak against them due to the unlawful arrest and torture of a civilian. It brings in a few shades of arrogant yet very much human police officers and their helpless...",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Martin Prakkat",
+      "Writer": "Shahi Kabir",
+      "Actors": "Kunchacko Boban, Joju George, Nimisha Sajayan",
+      "Language": "Malayalam",
+      "Country": "India"
+    },
+    {
       "title": "My Name Is Vendetta",
       "netflix_url": "https://www.netflix.com/title/81458368",
       "year": "2022",
@@ -4951,8 +5213,32 @@
       "Country": "Netherlands"
     },
     {
+      "title": "Jurassic World: Dominion",
+      "netflix_url": "https://www.netflix.com/title/81489837",
+      "year": "2022",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8041270",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
+      "Type": "movie",
+      "RunTime": "147 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Colin Trevorrow",
+      "Writer": "Emily Carmichael, Colin Trevorrow, Derek Connolly",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Laura Dern",
+      "Language": "English, Maltese, French",
+      "Country": "United States, China"
+    },
+    {
       "title": "Boomika (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81496130",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Boomika (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81496132",
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
@@ -5330,6 +5616,13 @@
       "Actors": "N/A",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Beast (English)",
+      "netflix_url": "https://www.netflix.com/title/81579532",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Crime Diaries: The Celebrity Stylist",
@@ -5751,6 +6044,23 @@
       "Country": "France"
     },
     {
+      "title": "Accused",
+      "netflix_url": "https://www.netflix.com/title/81661375",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39631179",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhmM2U5ZTktY2U1Yy00NjU3LTllYjktNzJhM2VlMjJhYjY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama, Thriller",
+      "Director": "Anubhuti Kashyap",
+      "Writer": "Sima Agarwal, Yash Keswani",
+      "Actors": "Konkona Sen Sharma, Pratibha Ranta, Sukant Goel",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Ile Owo",
       "netflix_url": "https://www.netflix.com/title/81663120",
       "year": "2022",
@@ -6085,6 +6395,23 @@
       "Country": "Netherlands, Belgium"
     },
     {
+      "title": "The Twister: Caught in the Storm",
+      "netflix_url": "https://www.netflix.com/title/81715724",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt35882698",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBiYzhlZDEtZjU5Ny00ZDY4LWJjZTEtNGM4ZmQ2ODE2NTBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It is graduation day in Joplin, Missouri. As the Class of 2011 collect their diplomas, their hometown is hit by a rare EF-5 tornado. Believing it could be the end of the world, a group of teenagers find themselves in the eye of th...",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary",
+      "Director": "Alexandra Lacey",
+      "Writer": "Alexandra Lacey",
+      "Actors": "Mac Wright, Kaylee Parker, Chad Crilley",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Bone Lake",
       "netflix_url": "https://www.netflix.com/title/81716210",
       "year": "2024",
@@ -6388,6 +6715,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Red Line",
+      "netflix_url": "https://www.netflix.com/title/81760518",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39744394",
+      "Poster": "N/A",
+      "Plot": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money and their dignity.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Sitisiri Mongkolsiri",
+      "Writer": "Tinnapat Banyatpiyapoj, Kongdej Jaturanrasamee",
+      "Actors": "Nittha Jirayungyurn, Esther Supreeleela, Ning Chutima Maholakul",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
       "title": "Wall to Wall",
       "netflix_url": "https://www.netflix.com/title/81762713",
       "year": "2025",
@@ -6420,6 +6764,23 @@
       "Actors": "Kelsey Asbille, Finn Wittrock, Moray Treadwell",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "War Machine",
+      "netflix_url": "https://www.netflix.com/title/81768525",
+      "year": "2026",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt15940132",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmM1ZTc5ZTYtOTM2My00MjBmLWE5NzktYzkyYzdlYWE3ZDAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow the final recruits of a grueling special ops boot camp who encounter a deadly force from beyond this world.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Patrick Hughes",
+      "Writer": "James Beaufort, Patrick Hughes",
+      "Actors": "Joshua Diaz, Richard Cotta, Alan Ritchson",
+      "Language": "English",
+      "Country": "United Kingdom, Australia, New Zealand, United States"
     },
     {
       "title": "Manodrome",
@@ -6592,6 +6953,23 @@
       "Country": "Malaysia"
     },
     {
+      "title": "Jurassic World Rebirth",
+      "netflix_url": "https://www.netflix.com/title/81956629",
+      "year": "2025",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt31036941",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg2NTcwYWQtYzk4NS00MTJhLWEzZjItMzIxNjk3YzlkYzU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Gareth Edwards",
+      "Writer": "David Koepp, Michael Crichton",
+      "Actors": "Scarlett Johansson, Mahershala Ali, Jonathan Bailey",
+      "Language": "English, French, Spanish",
+      "Country": "United States, United Kingdom, Malta, India, Taiwan, Japan"
+    },
+    {
       "title": "28 Years Later",
       "netflix_url": "https://www.netflix.com/title/81957161",
       "year": "2025",
@@ -6658,6 +7036,23 @@
       "Actors": "Cinta Laura Kiehl, Arifin Putra, Callista Arum",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "Vadh 2",
+      "netflix_url": "https://www.netflix.com/title/82047260",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30176955",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWRlMGM1NzMtM2U0Ny00ZDk3LWIwMjktYTJjMDkzZDcxN2FhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Organ Child",
@@ -6752,6 +7147,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "Shutter",
+      "netflix_url": "https://www.netflix.com/title/82081794",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0440803",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWJiMTM4YzQtMjg2Zi00NzhjLTkzZDctODU1OGQyNWRiMDZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Jane and Tun run over a girl in a car accident, they speed away immediately from the crime scene. However, Tun, a photographer, soon discovers strange shadows in his photos, which unsettles them.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Banjong Pisanthanakun, Parkpoom Wongpoom",
+      "Writer": "Parkpoom Wongpoom, Banjong Pisanthanakun, Sophon Sakdaphisit",
+      "Actors": "Ananda Everingham, Natthaweeranuch Thongmee, Achita Sikamana",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
       "title": "Abducted at an HBCU: A Black Girl Missing Movie",
       "netflix_url": "https://www.netflix.com/title/82095242",
       "year": "2024",
@@ -6801,6 +7213,23 @@
       "Actors": "Kalabhavan Navas, Dhyan Sreenivasan, Mathew Puthukadan",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Trap House",
+      "netflix_url": "https://www.netflix.com/title/82099780",
+      "year": "2025",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt10799690",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY0OTk0ZDktMmJkNy00NjQwLWE0NjQtOTY4Y2VhODdhOTJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A DEA agent and his partner pursue thieves: their own rebellious teens, who began robbing the cartel using their parents' tactics and classified intel.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Action, Crime",
+      "Director": "Michael Dowse",
+      "Writer": "Gary Scott Thompson, Tom O'Connor",
+      "Actors": "Dave Bautista, Jack Champion, Bobby Cannavale",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Abducted on Prom Night",
@@ -6971,6 +7400,54 @@
       "Actors": "Po-Hung Lin, Vivian Sung, Bo-Chieh Wang",
       "Language": "Mandarin, Min Nan",
       "Country": "Taiwan"
+    },
+    {
+      "title": "28 Years Later: The Bone Temple",
+      "netflix_url": "https://www.netflix.com/title/82622299",
+      "year": "2026",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt32141377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGU2M2Y1YTItMWYxNS00NDYxLThhOTYtNjNhOWUzNjA3MTYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As Spike is inducted into Jimmy Crystal's gang on the mainland, Dr. Kelson makes a discovery that could alter the world.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Horror, Sci-Fi, Thriller",
+      "Director": "Nia DaCosta",
+      "Writer": "N/A",
+      "Actors": "Jack O'Connell, Alfie Williams, Connor Newall",
+      "Language": "English",
+      "Country": "United Kingdom, United States, Canada"
+    },
+    {
+      "title": "Thrash",
+      "netflix_url": "https://www.netflix.com/title/82650122",
+      "year": "2026",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0780524",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI2OTQ0MjAyNV5BMl5BanBnXkFtZTcwNjAzOTA4MQ@@._V1_SX300.jpg",
+      "Plot": "Get Thrashed: The Story of Thrash Metal is the story of how bands like Metallica, Megadeth, Slayer, Anthrax, Exodus and others pioneered a new form of heavy metal in the early 1980's.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary, History, Music",
+      "Director": "Rick Ernst",
+      "Writer": "N/A",
+      "Actors": "Lee Altus, Russ Anderson, Death Angel",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Re/Member: The Last Night",
+      "netflix_url": "https://www.netflix.com/title/82679720",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mrithyunjay​",
+      "netflix_url": "https://www.netflix.com/title/82735085",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Thammudu",
