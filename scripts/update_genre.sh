@@ -289,6 +289,8 @@ while IFS=$'\t' read -r title year url; do
     # HANDLE EXCEPTIONS MANUALLY
     if [[ "$title" == *Warmest*Color* ]]; then 
      title=$(echo $title | sed -e 's/Color/Colour/g')
+    elif [[ "$title" == *Empty*Rooms* ]]; then 
+     rating=7.5
     elif [[ "$title" == *Monster* && $year == "2024" ]]; then 
       echo "Skipping OMDb for manual exception: $title ($year)" >&2
       exit 0   # terminate this worker cleanly
