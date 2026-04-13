@@ -1252,6 +1252,13 @@
       "Country": "United Arab Emirates, United States, China"
     },
     {
+      "title": "Beat Bugs: All Together Now",
+      "netflix_url": "https://www.netflix.com/title/80208104",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Over the Moon",
       "netflix_url": "https://www.netflix.com/title/80214236",
       "year": "2020",
@@ -1896,6 +1903,23 @@
       "Actors": "Tiya Sircar, Chad Connell, Marco Grazzini",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Super Monsters Furever Friends",
+      "netflix_url": "https://www.netflix.com/title/80999069",
+      "year": "2019",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt10087988",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWZjZjk5NTEtNjNhMi00NWU4LThjZDMtYWI3NDY0NjQyODc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "58 min",
+      "Genre": "Animation",
+      "Director": "Steve Ball, Jacob Joice",
+      "Writer": "Kaaren Lee Brown",
+      "Actors": "Elyse Maloway, Vincent Tong, Erin Mathews",
+      "Language": "English",
+      "Country": "N/A"
     },
     {
       "title": "Ivy + Bean: The Ghost That Had to Go",
@@ -4225,6 +4249,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Sharkdog's Fintastic Halloween",
+      "netflix_url": "https://www.netflix.com/title/81483598",
+      "year": "2021",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15478768",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjUxOWIzNzItYjcxZC00ZjlkLWFmNTktMjMzYTliZDMyY2NlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The sharkpack gets ready for Halloween with the spooky legend of the \"Fearsome Fog\" - and Sharkdog must save trick-or-treating from a slimy sea monster.",
+      "Type": "movie",
+      "RunTime": "25 min",
+      "Genre": "Animation, Short, Adventure",
+      "Director": "Simon Pike, Jacinth Tan",
+      "Writer": "Jacinth Tan, Jordan Gershowitz",
+      "Actors": "Dee Bradley Baker, Liz Burnette, Ian James Corlett",
+      "Language": "English",
+      "Country": "Singapore, United States"
+    },
+    {
       "title": "Riverdance: The Animated Adventure",
       "netflix_url": "https://www.netflix.com/title/81487903",
       "year": "2022",
@@ -4516,6 +4557,23 @@
       "Actors": "Rupesh Bane, Karan Dave, Niranjan Javir",
       "Language": "Marathi",
       "Country": "India"
+    },
+    {
+      "title": "Pokémon: The Arceus Chronicles",
+      "netflix_url": "https://www.netflix.com/title/81605060",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt21970564",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTBkNjA5NTQtMDY0NC00ZDQ1LWE4NzEtOTEwYTZlMDFiMWJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While investigating the legend of the mythical Pokémon Arceus, Ash, Goh and Dawn uncover a plot by Team Galactic that threatens the world.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Daiki Yamashita, Ikue Ôtani, Megumi Toyoguchi",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Barbie Mermaid Power",
@@ -4855,11 +4913,45 @@
       "imdb_id": null
     },
     {
+      "title": "Anpanman: The Secret of Fairy Rin-Rin",
+      "netflix_url": "https://www.netflix.com/title/81719804",
+      "year": "2008",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt1260507",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWFkMWY1ZmItNTViYy00OGI4LWJjMzEtMzFhNzAwMzZhN2UzXkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Animation",
+      "Director": "Akinori Nagaoka",
+      "Writer": "Takashi Yanase, Shôji Yonemura",
+      "Actors": "Keiko Toda, Ryûsei Nakao, Ghia Burns",
+      "Language": "English, Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Anpanman: The Blacknose with Magical Song",
       "netflix_url": "https://www.netflix.com/title/81719808",
       "year": "2010",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Anpanman: Revive Banana Island!",
+      "netflix_url": "https://www.netflix.com/title/81719813",
+      "year": "2012",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15669576",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMzNjE3NzktOWNjOS00NjhmLTlmMzEtMjFhNzdkOWMyODBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Clouds and cold may ruin all the sweet fruit on Banana Island, but queen Banna refuses to ask Anpanman for help, while while Baikinman goes to Banana Island in search of the legendary Giant Banana.",
+      "Type": "movie",
+      "RunTime": "46 min",
+      "Genre": "Animation",
+      "Director": "Hiroyuki Yano",
+      "Writer": "N/A",
+      "Actors": "Ghia Burns, Andrio Chavarro, Eriko Hara",
+      "Language": "English",
+      "Country": "Japan"
     },
     {
       "title": "Anpanman: Apple Boy And Everyone's Hope",

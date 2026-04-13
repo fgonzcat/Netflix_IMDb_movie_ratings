@@ -133,6 +133,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5507" target="_blan
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Bartolito’s Adventures at the Farm*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82695044" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Lola the Cow’s Adventures at the Farm*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82695045" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Bartolito’s Adventures on the Internet*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82695046" target="_blank">Netflix_link</a> |
+| N/A |  | 2020 | <details> <summary><strong style="color:#1f6feb;">*My Sesame Street Friends: My Elmo*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82712295" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -171,6 +172,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5507" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-10*
+*Page last updated on: 2026-04-13*
 
  

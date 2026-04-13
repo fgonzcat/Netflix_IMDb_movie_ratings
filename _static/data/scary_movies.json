@@ -1078,6 +1078,23 @@
       "Country": "United States"
     },
     {
+      "title": "A Quiet Place Part II",
+      "netflix_url": "https://www.netflix.com/title/81186806",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt24733662",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2M0NjUwNzktZWFiMy00NjMyLWE4MGQtMWRhZjY2MjQ4OTA2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
       "title": "Cadaver",
       "netflix_url": "https://www.netflix.com/title/81203335",
       "year": "2020",
@@ -1582,6 +1599,23 @@
       "Country": "N/A"
     },
     {
+      "title": "Halloween Ends",
+      "netflix_url": "https://www.netflix.com/title/81489841",
+      "year": "2022",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt10665342",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzllZDYwNWMtYTU5Mi00NDVmLWE2YWQtMDZiZWFmOTcxZmJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A cascade of violence and terror forces Laurie Strode to confront the evil she can't control.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Horror, Mystery, Romance",
+      "Director": "David Gordon Green",
+      "Writer": "John Carpenter, Debra Hill, Paul Brad Logan",
+      "Actors": "Jamie Lee Curtis, Andi Matichak, James Jude Courtney",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Don't Kill Me",
       "netflix_url": "https://www.netflix.com/title/81490650",
       "year": "2022",
@@ -2034,6 +2068,13 @@
     {
       "title": "Asvins (Telugu)",
       "netflix_url": "https://www.netflix.com/title/81711449",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Asvins (Kannada)",
+      "netflix_url": "https://www.netflix.com/title/81711453",
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null

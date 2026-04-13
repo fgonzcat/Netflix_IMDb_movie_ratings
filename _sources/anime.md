@@ -317,6 +317,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7424" target="_blan
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*SHIBOYUGI: Playing Death Games to Put Food on the Table*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82047155" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Pokémon Horizons: Season 3: Rising Hope*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82077961" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZDFmY2JjYmYtNjZhOC00ODJkLTliMjYtM2Y4YzBjMWE0ZGZjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*STEEL BALL RUN JoJo’s Bizarre Adventure*</strong></summary>  <div class="movie-plot">A paraplegic ex-jockey joins forces with an outlaw to compete in the first cross-continental horse race across North America in the 1800s.</div> </details> | <a href="https://www.imdb.com/title/tt38268282/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82116553" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*KILL BLUE*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82757009" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -355,6 +356,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/7424" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-10*
+*Page last updated on: 2026-04-13*
 
  

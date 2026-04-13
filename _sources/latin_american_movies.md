@@ -481,6 +481,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/100387" target="_bl
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*500 Days of Escobar*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81771021" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Uncredited: The Story of Passinho*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81771367" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMjYzODk2MjEtZmViMC00YzkyLTk4ZDQtOGI3MDA0YzMyMzlmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Love from 9 to 5*</strong></summary>  <div class="movie-plot">A dedicated worker and the owner's charismatic son vie for CEO at an underwear firm while unexpected romance complicates their rivalry.</div> </details> | <a href="https://www.imdb.com/title/tt36742717/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81771569" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BMDNkNGY1OWUtYTkxZi00NWQ5LWE0ZWEtZWFiYmQxMzBmNWVlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Making Senna*</strong></summary>  <div class="movie-plot">Featuring cast and crew interviews, this special explores the creative and technical challenges of bringing Ayrton Senna's story to the screen.</div> </details> | <a href="https://www.imdb.com/title/tt34913054/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81772098" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZGEzZDM5ZDQtNTJhMy00NjAwLWFlMGYtZmNlMzE2MDM5YjVjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Swim to Me*</strong></summary>  <div class="movie-plot">Estela, a young woman from rural Chile, embarks on a journey to Santiago, leaving her family behind to work as a maid for an affluent household.</div> </details> | <a href="https://www.imdb.com/title/tt34682204/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81777460" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Maximum Penalty 2*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81778837" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Rockstar Duki from the end of the world*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81786830" target="_blank">Netflix_link</a> |
@@ -541,6 +542,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/100387" target="_bl
 
  
 ---
-*Page last updated on: 2026-04-10*
+*Page last updated on: 2026-04-13*
 
  

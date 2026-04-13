@@ -156,6 +156,23 @@
       "Country": "United States"
     },
     {
+      "title": "Jaws 3",
+      "netflix_url": "https://www.netflix.com/title/60028468",
+      "year": "1983",
+      "imdb_rating": "3.7",
+      "imdb_id": "tt0085750",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY3YWZiMTAtZGYyYy00ODc3LTk5NjQtY2RhN2QwNzE2ZGI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A giant thirty-five-foot shark becomes trapped in a SeaWorld theme park and it's up to the sons of police chief Brody to rescue everyone.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Joe Alves",
+      "Writer": "Peter Benchley, Richard Matheson, Carl Gottlieb",
+      "Actors": "Dennis Quaid, Bess Armstrong, Simon MacCorkindale",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Match Point",
       "netflix_url": "https://www.netflix.com/title/70035180",
       "year": "2006",
@@ -375,6 +392,23 @@
       "Actors": "Elizabeth Olsen, Adam Trese, Eric Sheffer Stevens",
       "Language": "English",
       "Country": "United States, France"
+    },
+    {
+      "title": "The Unjust",
+      "netflix_url": "https://www.netflix.com/title/70170417",
+      "year": "2010",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt1843120",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTI5ODIzMl5BMl5BanBnXkFtZTgwNzI3MDE0MjE@._V1_SX300.jpg",
+      "Plot": "When the most probable serial killer suspect dies and the case looks like it's reached a dead end, police brass decide to create a killer - and anyone will do.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Park Hoon-jung",
+      "Actors": "Hwang Jung-min, Ryu Seung-beom, Yoo Hae-jin",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Trespass",

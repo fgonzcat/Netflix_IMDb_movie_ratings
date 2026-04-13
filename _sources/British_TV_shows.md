@@ -249,6 +249,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/52117" target="_bla
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Man Vs Baby*</strong></summary>  <div class="movie-plot">After a disastrous experience housesitting a high-tech mansion hampered by an inconvenient insect in Man vs Bee, Trevor Bingley now finds himself looking after a luxurious London penthouse, with another unlikely companion he didn'...</div> </details> | <a href="https://www.imdb.com/title/tt35047134/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81923753" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNGUwOWQxNGQtNTQ3YS00MjBkLWIxNjgtM2M2OTUyYWEzN2FhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Inside*</strong></summary>  <div class="movie-plot">Guided by her therapist, Faith uses an old camcorder for a self-reflection exercise. But the more she tries, the harder it is to find the words.</div> </details> | <a href="https://www.imdb.com/title/tt36374962/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81943123" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Blue Therapy*</strong></summary>  <div class="movie-plot">Six couples work with a relationship expert through intensive therapy to resolve their problems. After tough sessions, they must decide whether to stay together or part ways.</div> </details> | <a href="https://www.imdb.com/title/tt35836615/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81996936" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Tyson Fury vs. Arslanbek Makhmudov*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt39452102/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82699237" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -287,6 +288,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/52117" target="_bla
 
  
 ---
-*Page last updated on: 2026-04-10*
+*Page last updated on: 2026-04-13*
 
  

@@ -188,6 +188,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1411" target="_blan
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNzhmM2U5ZTktY2U1Yy00NjU3LTllYjktNzJhM2VlMjJhYjY4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Accused*</strong></summary>  <div class="movie-plot">When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels.</div> </details> | <a href="https://www.imdb.com/title/tt39631179/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81661375" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Asvins (Telugu)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81711449" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Asvins (Malayalam)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81711450" target="_blank">Netflix_link</a> |
+| N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Asvins (Kannada)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81711453" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Merry Christmas (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81713401" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Merry Christmas (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81713665" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMWJhNDRkYTEtOTkxNy00MzhjLThhMjMtODE3MGQxNDUxMDAwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Maareesan*</strong></summary>  <div class="movie-plot">In an unusual situation , Velayudham sets out on a journey with Dhaya from Nagercoil to Tiruvannamalai-a journey that will alter both their lives in ways they never imagined. What unfolds becomes the heart of the story.</div> </details> | <a href="https://www.imdb.com/title/tt29383191/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81781839" target="_blank">Netflix_link</a> |
@@ -234,6 +235,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1411" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-10*
+*Page last updated on: 2026-04-13*
 
  

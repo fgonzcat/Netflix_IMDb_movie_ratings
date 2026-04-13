@@ -250,6 +250,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2979" target="_blan
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Kalki 2898 AD (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81726031" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZTZkZTNhMWEtMTRkYi00M2UxLWFjYTUtYWI0N2I1YzE1MWMwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Pretty Guardian Sailor Moon Cosmos The Movie*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt39318020/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81732000" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Son of a Thousand Men*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81739139" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BYWU5MzYyMTEtMGU2ZC00ZGIxLTkxNWUtZGNiOWZiMThmNmNkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Making of Chicken Run: Dawn of the Nugget*</strong></summary>  <div class="movie-plot">Lights, camera - chickens. Go behind the scenes with the Aardman team and director Sam Fell during the making of this finely crafted stop-motion sequel.</div> </details> | <a href="https://www.imdb.com/title/tt30457304/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81743939" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYzhiOWFjMmUtNDIyYy00NTA2LWIxMmQtMWMzZDM4NGRkNmU4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Ro & the Stardust*</strong></summary>  <div class="movie-plot">A free-spirited teen fulfills her terminally ill grandmother's dying wish of building a rocket ship to launch her into outer space.</div> </details> | <a href="https://www.imdb.com/title/tt15736800/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81923257" target="_blank">Netflix_link</a> |
 | N/A |  | 2015 | <details> <summary><strong style="color:#1f6feb;">*Baahubali: The Beginning (Spanish Version)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82031153" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*KPop Demon Hunters Sing-Along*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82125877" target="_blank">Netflix_link</a> |
@@ -293,6 +294,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2979" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-10*
+*Page last updated on: 2026-04-13*
 
  

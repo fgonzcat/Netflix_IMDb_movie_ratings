@@ -39,6 +39,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9302" target="_blan
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Case Closed: The Culprit Hanzawa*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81313291" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Babanba Banban Vampire*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81949674" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Puniru Is a Cute Slime*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81975106" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*KILL BLUE*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82757009" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -77,6 +78,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9302" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-10*
+*Page last updated on: 2026-04-13*
 
  

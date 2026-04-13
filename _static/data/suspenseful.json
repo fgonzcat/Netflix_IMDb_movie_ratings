@@ -605,6 +605,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Jaws 3",
+      "netflix_url": "https://www.netflix.com/title/60028468",
+      "year": "1983",
+      "imdb_rating": "3.7",
+      "imdb_id": "tt0085750",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY3YWZiMTAtZGYyYy00ODc3LTk5NjQtY2RhN2QwNzE2ZGI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A giant thirty-five-foot shark becomes trapped in a SeaWorld theme park and it's up to the sons of police chief Brody to rescue everyone.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Joe Alves",
+      "Writer": "Peter Benchley, Richard Matheson, Carl Gottlieb",
+      "Actors": "Dennis Quaid, Bess Armstrong, Simon MacCorkindale",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Man on Fire",
       "netflix_url": "https://www.netflix.com/title/60034560",
       "year": "2004",
@@ -1555,6 +1572,23 @@
       "Actors": "Bryan Fogel, Dave Zabriskie, Don Catlin",
       "Language": "English, Russian",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "Creep 2",
+      "netflix_url": "https://www.netflix.com/title/80168161",
+      "year": "2017",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt3654796",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2MTkxMDYzN15BMl5BanBnXkFtZTgwNTc3Mzc4MzI@._V1_SX300.jpg",
+      "Plot": "A video artist looking for work drives to a remote house in the forest to meet a man claiming to be a serial killer. But after agreeing to spend the day with him, she soon realizes that she made a deadly mistake.",
+      "Type": "movie",
+      "RunTime": "78 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Patrick Brice",
+      "Writer": "Mark Duplass, Patrick Brice",
+      "Actors": "Karan Soni, Mark Duplass, Desiree Akhavan",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Invisible Guardian",
@@ -3442,6 +3476,23 @@
       "Actors": "Matthias Schweighöfer, Nathalie Emmanuel, Ruby O. Fee",
       "Language": "English, French, German, Czech, Portuguese",
       "Country": "Germany, United States"
+    },
+    {
+      "title": "A Quiet Place Part II",
+      "netflix_url": "https://www.netflix.com/title/81186806",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt24733662",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2M0NjUwNzktZWFiMy00NjMyLWE4MGQtMWRhZjY2MjQ4OTA2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Loving Adults",

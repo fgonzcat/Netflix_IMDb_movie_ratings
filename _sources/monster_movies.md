@@ -30,6 +30,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/947" target="_blank
 | 4.0 | <img src="https://m.media-amazon.com/images/M/MV5BYmVhN2Y1MzUtMWY4Yi00OGM1LWFiNTQtOTczNDE2YjAwMzg5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Slyth The Hunt Saga*</strong></summary>  <div class="movie-plot">A forest fire threatens society, causing disease and collapse. The Slyth, a reptilian species with disease-curing blood, offers hope, and the hunt continues.</div> </details> | <a href="https://www.imdb.com/title/tt30319826/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81048779" target="_blank">Netflix_link</a> |
 | N/A |  | 1992 | <details> <summary><strong style="color:#1f6feb;">*Stephen King's Sleepwalkers*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/60003974" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNGRiMzIyMGItMDBhNC00ZTEzLTk2N2EtMjI4Y2NiMmM4Y2Y5XkEyXkFqcGdeQXVyOTUzNjg4MA@@._V1_SX300.jpg" class="zoom-img" width="120"> | 2018 | <details> <summary><strong style="color:#1f6feb;">*The Ritual*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt9220040/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80217312" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BM2M0NjUwNzktZWFiMy00NjMyLWE4MGQtMWRhZjY2MjQ4OTA2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*A Quiet Place Part II*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt24733662/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81186806" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Fullmetal Alchemist The Final Alchemy*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt34266128/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81266981" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*The Witcher Bestiary Season 1, Part 1*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81555914" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*The Witcher Bestiary Season 1, Part 2*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81555915" target="_blank">Netflix_link</a> |
@@ -78,6 +79,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/947" target="_blank
 
  
 ---
-*Page last updated on: 2026-04-10*
+*Page last updated on: 2026-04-13*
 
  

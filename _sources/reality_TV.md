@@ -364,6 +364,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9833" target="_blan
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Ridiculousness*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt9378030/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82621032" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Love Is Blind: The Reunion*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82625901" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMzVlOTIwYmItMjE5Ny00NDdiLTgyZWItOGViN2YyOGExNGFiXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Single's Inferno Reunion*</strong></summary>  <div class="movie-plot">"Single's Inferno" contestants reunite to reveal honest feelings and relationship updates - revisiting standout moments from their time on the island.</div> </details> | <a href="https://www.imdb.com/title/tt39901501/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82680997" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Salish & Jordan Matter*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82738277" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -402,6 +403,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9833" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-10*
+*Page last updated on: 2026-04-13*
 
  

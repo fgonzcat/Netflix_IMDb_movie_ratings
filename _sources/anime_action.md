@@ -183,6 +183,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2653" target="_blan
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNjU4MDhkYmYtNGE1NC00Zjk4LWE0MTItYzcyMmE0YTM2MTlmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*BAKI-DOU: The Invincible Samurai*</strong></summary>  <div class="movie-plot">Baki and the strongest Underground Arena fighters face a threat of historical proportions: the resurrected Musashi Miyamoto, Japan's greatest samurai.</div> </details> | <a href="https://www.imdb.com/title/tt38201910/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81922765" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNDc3YmMyZTktZGQ4Ni00YjA2LTk2YjgtZGFhMDZjZjhlMzBlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*YAIBA: Samurai Legend*</strong></summary>  <div class="movie-plot">The series follows the titular Yaiba Kurogane a samurai boy inspired by Miyamoto Musashi, the real-life swordsman who made the Hyoho Niten Ichi-ryu style of two-sword fighting and wrote The Book of Five Rings classic on military s...</div> </details> | <a href="https://www.imdb.com/title/tt33332400/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82030192" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZDFmY2JjYmYtNjZhOC00ODJkLTliMjYtM2Y4YzBjMWE0ZGZjXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*STEEL BALL RUN JoJo’s Bizarre Adventure*</strong></summary>  <div class="movie-plot">A paraplegic ex-jockey joins forces with an outlaw to compete in the first cross-continental horse race across North America in the 1800s.</div> </details> | <a href="https://www.imdb.com/title/tt38268282/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82116553" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*KILL BLUE*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82757009" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -221,6 +222,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2653" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-10*
+*Page last updated on: 2026-04-13*
 
  
