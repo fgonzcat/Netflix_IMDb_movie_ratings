@@ -3043,6 +3043,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Gone for Good",
+      "netflix_url": "https://www.netflix.com/title/81150793",
+      "year": "2021",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt14252964",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGNkMjUyYmItNGEzYi00NzY2LTk4YTItNDVjZDUxZWExODRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Guillaume thought he had drawn a line under the terrible tragedy which saw the two people he loved the most die. Ten years later, Judith, whose love has made his life worth living again, suddenly disappears during his mother's fun...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "David Elkaïm, Vincent Poymiro",
+      "Actors": "Finnegan Oldfield, Nicolas Duvauchelle, Guillaume Gouix",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
       "title": "Chosen",
       "netflix_url": "https://www.netflix.com/title/81152777",
       "year": "2022",
@@ -3704,6 +3721,23 @@
       "Actors": "Manuel Garcia-Rulfo, Becki Newton, Angus Sampson",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Entrapped",
+      "netflix_url": "https://www.netflix.com/title/81304572",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15542150",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "3 min",
+      "Genre": "Short, Thriller",
+      "Director": "Jason Robert Lester",
+      "Writer": "Hugh Buttsworth, Stephanie Davis, Jason Robert Lester",
+      "Actors": "Ron Arthurs, Andy Gray, Keala Kern",
+      "Language": "English",
+      "Country": "Australia"
     },
     {
       "title": "The Woman in the House Across the Street from the Girl in the Window",
@@ -6244,6 +6278,13 @@
       "Country": "United States"
     },
     {
+      "title": "Someone Has to Know",
+      "netflix_url": "https://www.netflix.com/title/81701194",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Olympo",
       "netflix_url": "https://www.netflix.com/title/81702553",
       "year": "2025",
@@ -7108,6 +7149,30 @@
       "title": "Khemjira the Series",
       "netflix_url": "https://www.netflix.com/title/82755470",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "One Night Stand",
+      "netflix_url": "https://www.netflix.com/title/82761720",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28259092",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQwNjQ1YzItN2QwMy00OGU2LWFiMTAtMWY5MTdiODE0OWQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "No-string-attached sexual relationships. Who would know that one night could change your lives forever? Who's a friend? Who's a murderer? Who will speak the truth? Who's lying? Only God knows.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Pimprapa Thangprapaporn, Esther Supreeleela, Sutatta Udomsilp",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
+      "title": "Tagusari Bros.",
+      "netflix_url": "https://www.netflix.com/title/82772069",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },

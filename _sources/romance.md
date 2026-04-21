@@ -625,6 +625,8 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8883" target="_blan
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Single Salma*</strong></summary>  <div class="movie-plot">A woman who is based in Lucknow (A small town in India). She has worked all her life to support her family, however her identity is still single as she is unmarried and not settled.</div> </details> | <a href="https://www.imdb.com/title/tt27826850/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82145967" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BODcxZjg3MDQtNzk3Mi00NDRjLWI1OWUtZGE5Y2VlZjJmMjg2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Marry Christmas*</strong></summary>  <div class="movie-plot">After finding love, the Wright Brothers (Joey and Matthew Lawrence) unwittingly schedule weddings for the same day. A sibling rivalry ensues for the right to wed their brides on Christmas.</div> </details> | <a href="https://www.imdb.com/title/tt33455358/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82152280" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Your Monster*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82161427" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BNzQ2MmEyNGMtYTMyYS00YTUwLTg5YjYtYWUwN2I5M2JiMzhiXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Do Deewane Seher Mein*</strong></summary>  <div class="movie-plot">Two socially awkward millennials in Mumbai find love while struggling with self-acceptance. As they battle insecurities and societal pressure, their journey takes them from city chaos to mountain serenity.</div> </details> | <a href="https://www.imdb.com/title/tt31226272/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82168832" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BOTI3YTY5ZDAtNTE5NS00MTgxLTlhNDctM2JkOGZjYWQwNTllXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Youth*</strong></summary>  <div class="movie-plot">15-year-old Praveen enters adolescence determined to find true love before school ends. Through relationships and heartbreaks, he discovers love's real meaning, shaping his maturity and outlook on life.</div> </details> | <a href="https://www.imdb.com/title/tt38693888/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82723855" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*RaPo 22*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/83072509" target="_blank">Netflix_link</a> |
 
  
@@ -664,6 +666,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8883" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-13*
+*Page last updated on: 2026-04-20*
 
  

@@ -54,6 +54,23 @@
       "Country": "United Kingdom, United States, Spain"
     },
     {
+      "title": "Go",
+      "netflix_url": "https://www.netflix.com/title/18958014",
+      "year": "1999",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0139239",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjkyZDU1YjctYmZkNC00Nzg0LWE3ZDEtYjFlMzYzYjMzNDQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The aftermath of a drug deal as told from three different points of view.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Crime",
+      "Director": "Doug Liman",
+      "Writer": "John August",
+      "Actors": "Sarah Polley, Jay Mohr, Scott Wolf",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Daag",
       "netflix_url": "https://www.netflix.com/title/20258369",
       "year": "1973",
@@ -1089,6 +1106,23 @@
       "Actors": "Ben Stiller, Jada Pinkett Smith, Chris Rock",
       "Language": "English, Spanish",
       "Country": "United States"
+    },
+    {
+      "title": "Dark Tide",
+      "netflix_url": "https://www.netflix.com/title/70229644",
+      "year": "2012",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt1507563",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4NTUxOTc3NV5BMl5BanBnXkFtZTcwNDkwOTgzNw@@._V1_SX300.jpg",
+      "Plot": "A professional diver tutor returns to deep waters after 1 year, following an almost fatal encounter with a great white shark. The nightmare from the deep is still lurking - more carnivorous and hungry than ever.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "John Stockwell",
+      "Writer": "Amy Sorlie, Ronnie Christensen",
+      "Actors": "Halle Berry, Olivier Martinez, Ralph Brown",
+      "Language": "English",
+      "Country": "United States, United Kingdom, South Africa, Germany, France"
     },
     {
       "title": "The Expendables 2",
@@ -3928,6 +3962,23 @@
       "imdb_id": null
     },
     {
+      "title": "Toolsidas Junior",
+      "netflix_url": "https://www.netflix.com/title/81107547",
+      "year": "2022",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt13623916",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjc1ZWU2MTUtYWFmOC00MTQ3LThmZDUtNDYzMjZmYmVhZGVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Watching his father lose the 1994 Club Snooker Championship, 13-year-old Midi takes on the impossible journey to bring his father's name on the Winner's Board.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Drama, Family, Sport",
+      "Director": "Mridul Toolsidas",
+      "Writer": "Mridul Toolsidas",
+      "Actors": "Sanjay Dutt, Rajeev Kapoor, Varun Buddhadev",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Lost Bullet",
       "netflix_url": "https://www.netflix.com/title/81108579",
       "year": "2020",
@@ -4297,6 +4348,13 @@
       "Actors": "Daniel Craig, Ana de Armas, Rami Malek",
       "Language": "English, French, Italian, Russian, Spanish, Norwegian, German",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Snake Eyes: G.I. Joe Origins",
+      "netflix_url": "https://www.netflix.com/title/81198984",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The 9th Precinct",
@@ -7420,6 +7478,13 @@
       "imdb_id": null
     },
     {
+      "title": "Face Off 5: 48H",
+      "netflix_url": "https://www.netflix.com/title/81716250",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Bogeyman",
       "netflix_url": "https://www.netflix.com/title/81716255",
       "year": "2024",
@@ -7759,6 +7824,23 @@
       "Actors": "Chen Bolin, Kent Tsai, J.C. Lin",
       "Language": "Min Nan, Mandarin",
       "Country": "Taiwan"
+    },
+    {
+      "title": "GG (Good Game)",
+      "netflix_url": "https://www.netflix.com/title/81766695",
+      "year": "2024",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt27348648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ1ZDJlOGMtYzVkMC00NjFhLTgxODMtY2Q4NDYxNzgyMDEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "GG, an acronym for \"good game,\" centers around Seth, a determined aspiring gamer who immerses himself in the world of video games who gets into a \"competitive barkada gaming\" while navigating the various challenges within his own ...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Sport",
+      "Director": "Prime Cruz",
+      "Writer": "Zachary Aquino, Prime Cruz, Hannah Pangilinan",
+      "Actors": "Donny Pangilinan, Maricel Laxa, Baron Geisler",
+      "Language": "Filipino",
+      "Country": "Philippines"
     },
     {
       "title": "Godzilla Minus One",
@@ -8103,6 +8185,23 @@
       "Genre": "Adventure",
       "Director": "Ben Simms",
       "Writer": "Robert Buchta, Bear Grylls, Delbert Shoopman",
+      "Actors": "Bear Grylls",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "You vs. Wild: Out Cold",
+      "netflix_url": "https://www.netflix.com/title/81977142",
+      "year": "2021",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt15250050",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjdjNDVlZTItNDVmYy00YjliLWI0NWYtMzliZWM1NjRmYWVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows Bear Grylls after a plane crash in the ice ravaged mountains, where he finds himself with amnesia and tries to save himself and the pilot from the harsh winter elements.",
+      "Type": "movie",
+      "RunTime": "25 min",
+      "Genre": "Short, Adventure",
+      "Director": "Ben Simms",
+      "Writer": "N/A",
       "Actors": "Bear Grylls",
       "Language": "English",
       "Country": "United States"

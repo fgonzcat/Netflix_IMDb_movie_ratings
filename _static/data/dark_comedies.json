@@ -942,6 +942,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Arizona",
+      "netflix_url": "https://www.netflix.com/title/81001338",
+      "year": "2018",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt2140629",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2UzN2E4Y2ItNmM4My00OWRiLWExMWUtYWViZmJiZWJlYTJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in the midst of the 2009 housing crisis, this darkly comedic story follows Cassie Fowler, a single mom and struggling realtor whose life goes off the rails when she witnesses a murder.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Comedy, Thriller",
+      "Director": "Jonathan Watson",
+      "Writer": "Luke Del Tredici",
+      "Actors": "Danny McBride, Rosemarie DeWitt, Lolli Sorenson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Babysitter: Killer Queen",
       "netflix_url": "https://www.netflix.com/title/81012366",
       "year": "2020",
@@ -2141,6 +2158,23 @@
       "Actors": "Sul Kyung-gu, Hong Kyung, Ryu Seung-beom",
       "Language": "Korean, Japanese",
       "Country": "South Korea"
+    },
+    {
+      "title": "Toaster",
+      "netflix_url": "https://www.netflix.com/title/81779444",
+      "year": "2026",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt18764810",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmU1MDc2ZjgtNDM3NS00ODc5LWEzYjUtMGYxMDI4MDE2MGEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Adventures of YouTuber Jamie Powell's alter-ego, Crazy Jay.",
+      "Type": "movie",
+      "RunTime": "23 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Jamie Powell",
+      "Writer": "Jamie Powell",
+      "Actors": "Jamie Powell, Jamie Smith, Nicholas Vince",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "I Used to Be Funny",

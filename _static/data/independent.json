@@ -54,6 +54,23 @@
       "Country": "United States"
     },
     {
+      "title": "Go",
+      "netflix_url": "https://www.netflix.com/title/18958014",
+      "year": "1999",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0139239",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjkyZDU1YjctYmZkNC00Nzg0LWE3ZDEtYjFlMzYzYjMzNDQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The aftermath of a drug deal as told from three different points of view.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Crime",
+      "Director": "Doug Liman",
+      "Writer": "John August",
+      "Actors": "Sarah Polley, Jay Mohr, Scott Wolf",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Election",
       "netflix_url": "https://www.netflix.com/title/21060973",
       "year": "1999",
@@ -2314,6 +2331,23 @@
       "Actors": "Kristín Þóra Haraldsdóttir, Babetida Sadjo, Patrik Nökkvi Pétursson",
       "Language": "Icelandic, English",
       "Country": "Iceland, Sweden, Belgium"
+    },
+    {
+      "title": "Arizona",
+      "netflix_url": "https://www.netflix.com/title/81001338",
+      "year": "2018",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt2140629",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2UzN2E4Y2ItNmM4My00OWRiLWExMWUtYWViZmJiZWJlYTJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in the midst of the 2009 housing crisis, this darkly comedic story follows Cassie Fowler, a single mom and struggling realtor whose life goes off the rails when she witnesses a murder.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Comedy, Thriller",
+      "Director": "Jonathan Watson",
+      "Writer": "Luke Del Tredici",
+      "Actors": "Danny McBride, Rosemarie DeWitt, Lolli Sorenson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "A Private War",

@@ -256,6 +256,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1492" target="_blan
 | N/A |  | 1998 | <details> <summary><strong style="color:#1f6feb;">*EVANGELION: DEATH (TRUE)²*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81033473" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Bigbug*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81158472" target="_blank">Netflix_link</a> |
 | N/A |  | 2019 | <details> <summary><strong style="color:#1f6feb;">*Sturgill Simpson Presents Sound & Fury*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81171121" target="_blank">Netflix_link</a> |
+| N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Snake Eyes: G.I. Joe Origins*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81198984" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Rabbids Invasion Special: Mission to Mars*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81201048" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Fullmetal Alchemist The Final Alchemy*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt34266128/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81266981" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMjliOWQyZjEtMjE5Yy00NWYzLWI2NjktNGQyNzRkZWJkYjA5XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*How I Became a Superhero*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt26453435/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81453003" target="_blank">Netflix_link</a> |
@@ -321,6 +322,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1492" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-13*
+*Page last updated on: 2026-04-20*
 
  

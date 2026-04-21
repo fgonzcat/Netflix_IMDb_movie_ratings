@@ -799,6 +799,13 @@
       "Country": "Nigeria"
     },
     {
+      "title": "Snake Eyes: G.I. Joe Origins",
+      "netflix_url": "https://www.netflix.com/title/81198984",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Face Off 2: The Studio",
       "netflix_url": "https://www.netflix.com/title/81247687",
       "year": "2016",
@@ -904,8 +911,18 @@
       "title": "Peaky Blinders: The Immortal Man",
       "netflix_url": "https://www.netflix.com/title/81319485",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.5",
+      "imdb_id": "tt15574124",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTdlNTNjNjctYTg2MC00NTFlLTliNTctODFiZjZmNWRkYTVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "During World War II, Tommy Shelby returns to a bombed Birmingham and becomes involved in secret wartime missions facing new threats as he reckons with his past.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Crime, Drama, History",
+      "Director": "Tom Harper",
+      "Writer": "Steven Knight",
+      "Actors": "Cillian Murphy, Rebecca Ferguson, Tim Roth",
+      "Language": "English",
+      "Country": "United Kingdom, France, United States"
     },
     {
       "title": "Head to Head",

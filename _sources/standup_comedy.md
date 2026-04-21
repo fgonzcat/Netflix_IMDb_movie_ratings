@@ -339,12 +339,15 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/11559" target="_bla
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Conan O'Brien: The Kennedy Center Mark Twain Prize for American Humor*</strong></summary>  <div class="movie-plot">Comedy stars unite to honor Conan O'Brien as he receives the Mark Twain Prize for American Humor.</div> </details> | <a href="https://www.imdb.com/title/tt35445387/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82010354" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Aaron Chen: Funny Garden*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82011553" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Mo Gilligan: In The Moment*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82040162" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Funny AF with Kevin Hart*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt39385315/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82054722" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Trevor Noah: Joy in The Trenches*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82079393" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Derrick Stroup: Nostalgic*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82084417" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BN2UzYmU3MzAtMjlkYy00M2FlLWIxNWEtYTJjMTEwMThiYTVhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Michelle Wolf: The Well*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt31859948/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82148368" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Mark Normand: None Too Pleased*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82155387" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZjlkODMxZDAtNjc0NS00NTA1LTkzYWEtYzA2M2FlYWIxZDllXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Sarah Millican: Late Bloomer*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt39285140/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82175923" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Mens Rea*</strong></summary>  <div class="movie-plot">Mens Rea, Latin for guilty mind, is a powerful psychological essence that can dictate someones' life.</div> </details> | <a href="https://www.imdb.com/title/tt1604124/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82627260" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Deaw Still Alive*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt39458763/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82663236" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*KillTonyMania*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82787989" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -383,6 +386,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/11559" target="_bla
 
  
 ---
-*Page last updated on: 2026-04-13*
+*Page last updated on: 2026-04-20*
 
  

@@ -88,6 +88,23 @@
       "Country": "United States"
     },
     {
+      "title": "Law & Order",
+      "netflix_url": "https://www.netflix.com/title/70155607",
+      "year": "2023",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0203259",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NGIwMGQtNzk1OC00MzcxLTk0NDYtYWYyMjA3Mzg0ZWFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows the NYPD's specially trained squad of detectives who investigate sex crimes, including rape, paedophilia, child abuse, human trafficking and domestic violence.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Dick Wolf",
+      "Actors": "Mariska Hargitay, Christopher Meloni, Ice-T",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Southland",
       "netflix_url": "https://www.netflix.com/title/70157249",
       "year": "2013",
@@ -2738,6 +2755,40 @@
       "Country": "United States, Australia"
     },
     {
+      "title": "Criminal: France",
+      "netflix_url": "https://www.netflix.com/title/81020513",
+      "year": "2019",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt10986052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGNkZDliOGItYzJjMy00NWQwLWJkYTEtNjEyMzgyYjEzNjliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Secrets emerge and entire cases unravel inside a police interview room in Paris, where suspects and investigators face off in an intricate dance.",
+      "Type": "series",
+      "RunTime": "39 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "George Kay, Jim Field Smith",
+      "Actors": "Margot Bancilhon, Laurent Lucas, Stéphane Jobert",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
+      "title": "Criminal: Germany",
+      "netflix_url": "https://www.netflix.com/title/81020518",
+      "year": "2019",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt10986056",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDcxYzVhYWUtYTk4MC00MzExLWJlNTUtNTEyMzNkMDRlNjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the interview room, detectives go head-to-head with suspects and try to get to the truth - even if it means breaking the rules and risking it all.",
+      "Type": "series",
+      "RunTime": "59 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Jim Field Smith, George Kay",
+      "Actors": "Eva Meckbach, Sylvester Groth, Florence Kasumba",
+      "Language": "German",
+      "Country": "Germany"
+    },
+    {
       "title": "The Queen of Flow",
       "netflix_url": "https://www.netflix.com/title/81022683",
       "year": "2026",
@@ -4974,6 +5025,23 @@
       "Actors": "Angela Bundalovic, Andreas Lykke, Li Ii Zhang",
       "Language": "Serbo-Croatian, Danish, English, Japanese",
       "Country": "Denmark"
+    },
+    {
+      "title": "Nevenka: Breaking the Silence",
+      "netflix_url": "https://www.netflix.com/title/81405211",
+      "year": "2021",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt14091172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU0N2M3MTYtYTNhOS00MjE0LWI4MWQtODk2MWM1MGMyMzc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of the first sexual harassment case in Spain was a scandal. Nevenka Fernández, its protagonist, discusses it in this documentary.",
+      "Type": "series",
+      "RunTime": "114 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Nevenka Fernández",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Taskaree: The Smuggler's Web",
@@ -7470,6 +7538,13 @@
       "Country": "United States"
     },
     {
+      "title": "Someone Has to Know",
+      "netflix_url": "https://www.netflix.com/title/81701194",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Diamond Heist",
       "netflix_url": "https://www.netflix.com/title/81701502",
       "year": "2025",
@@ -7888,8 +7963,18 @@
       "title": "Big Mistakes",
       "netflix_url": "https://www.netflix.com/title/81734605",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.2",
+      "imdb_id": "tt36957934",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIwZmVhYWItMjAzZS00OGUzLThiYzItZmE3NTMxMjNjYjE1XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Two directionless siblings are blackmailed into the world of organized crime.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Crime",
+      "Director": "N/A",
+      "Writer": "Dan Levy, Rachel Sennott",
+      "Actors": "Dan Levy, Taylor Ortega, Abby Quinn",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Miss Night and Day",
@@ -8123,8 +8208,18 @@
       "title": "Trust Me: The False Prophet",
       "netflix_url": "https://www.netflix.com/title/81758532",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.7",
+      "imdb_id": "tt40826311",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZlMzIxNjQtMzYxZi00Mjk5LTkxOWEtNmQwNWI4Nzg3ZmEwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "A cult expert and her videographer husband embed themselves in a vulnerable FLDS community, where they discover disturbing evidence about Samuel Bateman, who claims to be the successor to imprisoned prophet Warren Jeffs.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Christine Marie, Tolga Katas, Samuel Bateman",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "How To Get To Heaven From Belfast",
@@ -8837,6 +8932,13 @@
       "Actors": "Michael Imperioli, Sami Jarroush, Edward T. O'Donnell",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Tagusari Bros.",
+      "netflix_url": "https://www.netflix.com/title/82772069",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

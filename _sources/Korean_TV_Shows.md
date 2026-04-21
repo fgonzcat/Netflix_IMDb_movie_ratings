@@ -356,6 +356,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/67879" target="_bla
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Learn ABCs with Baby Shark*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82151504" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Sealook*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82151512" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Superhero Baby Shark*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82151538" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*We Are All Trying Here*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82189639" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNGJlYzNiOGYtYzM2Zi00YzQyLTk3NmMtOThjZTIzMDExOGUyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Undercover Miss Hong*</strong></summary>  <div class="movie-plot">Set in the late 1990s, Hong Geum-bo, an elite securities supervisor in her 30s, disguises herself as a 20-year-old junior employee at a securities company where suspicious money flows are detected.</div> </details> | <a href="https://www.imdb.com/title/tt39219419/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82632108" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Still Shining*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82665870" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMzVlOTIwYmItMjE5Ny00NDdiLTgyZWItOGViN2YyOGExNGFiXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Single's Inferno Reunion*</strong></summary>  <div class="movie-plot">"Single's Inferno" contestants reunite to reveal honest feelings and relationship updates - revisiting standout moments from their time on the island.</div> </details> | <a href="https://www.imdb.com/title/tt39901501/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82680997" target="_blank">Netflix_link</a> |
@@ -399,6 +400,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/67879" target="_bla
 
  
 ---
-*Page last updated on: 2026-04-13*
+*Page last updated on: 2026-04-20*
 
  

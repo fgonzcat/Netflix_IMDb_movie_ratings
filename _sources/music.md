@@ -280,6 +280,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1701" target="_blan
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*The Parkinson Chamber Orchestra Concert*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82641412" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMzAxMDgwYjktMWFlMS00NmE5LWE4ZTYtYzY0OGJjMWVjYzFlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Snoop’s Holiday Halftime Party*</strong></summary>  <div class="movie-plot">Snoop Dogg and his merry friends sleigh through Minnesota on NFL Gameday to deliver a special holiday performance.</div> </details> | <a href="https://www.imdb.com/title/tt39282701/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82645182" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Starto Countdown 2025→2026*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82659571" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Gen Hoshino presents MAD HOPE MAD MUSIC*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82722253" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Harry Styles. One Night In Manchester.*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82722921" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNzEyYjAyNWMtY2Y3Yy00YjRmLTllNDYtMThkMDFlNWI3YTkwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Clika*</strong></summary>  <div class="movie-plot">A small town musician pushes to carve out a place for himself in the new wave of Mexican-American music after a clip of him performing one of his songs goes viral.</div> </details> | <a href="https://www.imdb.com/title/tt28334938/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82740544" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*BINI Docuseries*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82795684" target="_blank">Netflix_link</a> |
@@ -321,6 +322,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1701" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-13*
+*Page last updated on: 2026-04-20*
 
  

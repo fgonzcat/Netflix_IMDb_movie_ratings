@@ -360,6 +360,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9833" target="_blan
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Perfect Match: A Trip of Friendship*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82014164" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Ready or Not: Texas*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82031212" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Getaway and Go with Jangdobari*</strong></summary>  <div class="movie-plot">Join comedian Jang Do Yeon as she embarks on epic getaways filled with shopping sprees, fantastic food and lively conversations.</div> </details> | <a href="https://www.imdb.com/title/tt39368481/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82051903" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Funny AF with Kevin Hart*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt39385315/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82054722" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Closet Battle*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt37800569/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82090223" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Ridiculousness*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt9378030/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82621032" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Love Is Blind: The Reunion*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82625901" target="_blank">Netflix_link</a> |
@@ -403,6 +404,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9833" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-13*
+*Page last updated on: 2026-04-20*
 
  

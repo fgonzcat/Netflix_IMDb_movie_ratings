@@ -5145,6 +5145,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Funny AF with Kevin Hart",
+      "netflix_url": "https://www.netflix.com/title/82054722",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39385315",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kevin Hart",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Dusty Slay: Wet Heat",
       "netflix_url": "https://www.netflix.com/title/82079241",
       "year": "2025",
@@ -5160,6 +5177,13 @@
       "Actors": "Dusty Slay",
       "Language": "N/A",
       "Country": "United States"
+    },
+    {
+      "title": "Trevor Noah: Joy in The Trenches",
+      "netflix_url": "https://www.netflix.com/title/82079393",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Derrick Stroup: Nostalgic",
@@ -5344,6 +5368,13 @@
       "Actors": "Terry-Thomas, Peter Sellers, Peggy Mount",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "KillTonyMania",
+      "netflix_url": "https://www.netflix.com/title/82787989",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }
