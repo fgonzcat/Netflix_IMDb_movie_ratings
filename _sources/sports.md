@@ -174,6 +174,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/4370" target="_blan
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Mard Ko Dard Nahi Hota*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81057229" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Shabaash Mithu (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81318084" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Untold: Hope Solo vs. U.S. Soccer*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81582387" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Untold: The Shooting at Hawthorne Hill*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81582389" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Untold: Shooting Guards*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81582390" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Untold: Chess Mates*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81582391" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYmQwMDU4NDMtOTQwOC00N2JiLTgyMzQtNzQ3N2M4M2I2ZDA3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Rafa Márquez: El Capitán*</strong></summary>  <div class="movie-plot">Follows Rafael Márquez's journey from his early years in Zamora, Michoacán, to his glory days with Barcelona and the Mexican national team, told through archival footage and interviews.</div> </details> | <a href="https://www.imdb.com/title/tt32441255/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81640975" target="_blank">Netflix_link</a> |
@@ -241,6 +242,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/4370" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-20*
+*Page last updated on: 2026-04-28*
 
  

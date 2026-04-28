@@ -109,6 +109,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/31851" target="_bla
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Snake Eyes: G.I. Joe Origins*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81198984" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Doctor (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81337210" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZmJhYTdmN2YtYmM1YS00MDlkLTlmMWEtYjQ0NjU4MDM3NWYyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*Gatao - The Last Stray*</strong></summary>  <div class="movie-plot">A Qing encounters the photographer Xiao Qi at the full moon banquet of the daughter of the big brother Ren Ge at the corner of the Beiguan. They fall in love with each other. But, sadly, they aren't able to stay together at the end.</div> </details> | <a href="https://www.imdb.com/title/tt14720502/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81449999" target="_blank">Netflix_link</a> |
+| N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Doctor (Telugu)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81462293" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMzE5NmFhNTctZDg0Yi00MjBkLWIzYzctMjQzZDAxNDdmNzM3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Furioza*</strong></summary>  <div class="movie-plot">A past event divides the fates of three friends. Unexpectedly in the life of Dawid, now a doctor, she appears again. "Wild" - once the love of his life, now an experienced policewoman, makes him an offer he cannot refuse. Either h...</div> </details> | <a href="https://www.imdb.com/title/tt18286666/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81570254" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*HELL DOGS - IN THE HOUSE OF BAMBOO -*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81623070" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Inside Furioza*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81623506" target="_blank">Netflix_link</a> |
@@ -171,6 +172,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/31851" target="_bla
 
  
 ---
-*Page last updated on: 2026-04-20*
+*Page last updated on: 2026-04-28*
 
  

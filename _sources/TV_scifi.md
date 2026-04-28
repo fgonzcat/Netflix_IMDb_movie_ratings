@@ -227,6 +227,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1372" target="_blan
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Half Bad: The Bastard Son & The Devil Himself*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81258637" target="_blank">Netflix_link</a> |
 | N/A |  | 2020 | <details> <summary><strong style="color:#1f6feb;">*Futmalls.com*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81312762" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Shadow and Bone - The Afterparty*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81351076" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BMWU5NzgzY2QtNDVjZS00NDFkLThmMzctNTIzZmY5ZWYxZTE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Stranger Things: Tales From '85*</strong></summary>  <div class="movie-plot">Set in Hawkins, Indiana, in the winter of 1985, Eleven and her friends unravel a paranormal mystery terrorizing their town.</div> </details> | <a href="https://www.imdb.com/title/tt27486290/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81398721" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Agent from Above*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81477955" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Bulgasal: Immortal Souls*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81483462" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BODY1ZGM0MGItZmM3Ny00OTQ1LTkwNGYtZGQyNTU5MWFkMzRlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Tomorrow and I*</strong></summary>  <div class="movie-plot">Explore the intersection of futuristic technologies and Thai culture, and the unimaginable tensions and moral dilemmas that arise out of their inevitable conflict.</div> </details> | <a href="https://www.imdb.com/title/tt31158590/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81522263" target="_blank">Netflix_link</a> |
@@ -277,6 +278,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1372" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-20*
+*Page last updated on: 2026-04-28*
 
  

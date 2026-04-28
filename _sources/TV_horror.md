@@ -114,6 +114,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/83059" target="_bla
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Anne Rice's Mayfair Witches*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81664607" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMzQ0NDFhZGItODcxZC00ZjI1LThlNTYtMWMwMWFlZmY1YTQ1XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Something Very Bad Is Going to Happen*</strong></summary>  <div class="movie-plot">A certain atmosphere of horror is felt the week before the celebration of an unfortunate wedding.</div> </details> | <a href="https://www.imdb.com/title/tt32937780/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81667463" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Monster: The Ed Gein Story*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81783093" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdv7GEM87AldPwxuXDxcGMFo66eZZjjXWtPp4xzLy9zJ_HNS7wQ_TYm28Glo70G6dpyCrEGbX6PcGYIxoW8jnWAWTEbN71SZjj-W.jpg?r=a63" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*If Wishes Could Kill*</strong></summary>  <div class="movie-plot">Follows five friends in high school who receive a death warning from a mysterious wish-granting app. As they struggle to escape their fates, they uncover chilling truths that connect the app to the sudden death of a classmate.</div> </details> | <a href="https://www.imdb.com/title/tt36104233/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81975196" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*SHIBOYUGI: Playing Death Games to Put Food on the Table*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82047155" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Khemjira the Series*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82755470" target="_blank">Netflix_link</a> |
 
@@ -154,6 +155,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/83059" target="_bla
 
  
 ---
-*Page last updated on: 2026-04-20*
+*Page last updated on: 2026-04-28*
 
  

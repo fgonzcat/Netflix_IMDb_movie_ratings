@@ -236,6 +236,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Mononoke The Movie: The Phantom in the Rain*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81580574" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Katteri*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81632774" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Katteri (Malayalam)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81632776" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Katteri (Kannada)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81632777" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Ile Owo*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81663120" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Monster*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81678617" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNzU0Y2I5ODktZjFjNy00MTdjLTlmMDMtOTU1ZThmNDE3MTIyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Guna Guna Istri Muda*</strong></summary>  <div class="movie-plot">A young wife attempt to destroy a family using witchcraft.</div> </details> | <a href="https://www.imdb.com/title/tt28363725/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81678618" target="_blank">Netflix_link</a> |
@@ -309,6 +310,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8711" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-20*
+*Page last updated on: 2026-04-28*
 
  

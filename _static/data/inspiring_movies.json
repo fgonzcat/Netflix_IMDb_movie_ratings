@@ -2837,6 +2837,23 @@
       "Country": "Sweden"
     },
     {
+      "title": "One",
+      "netflix_url": "https://www.netflix.com/title/81327516",
+      "year": "2020",
+      "imdb_rating": "9.2",
+      "imdb_id": "tt19385824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmQwYjcwMDUtNTE1NC00ZjkwLWI4NGEtZjIzYzY5Mzc0YWI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The show follows 18 contestants, teleported in batches of six into the Plane by Airy, who compete in his ill-planned, simplistic competition show where the winner receives a wish for whatever they want.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Horror",
+      "Director": "N/A",
+      "Writer": "Cheesy Hfj",
+      "Actors": "ThatPerson, John Dubuc, Maixi",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Breaking Boundaries: The Science Of Our Planet",
       "netflix_url": "https://www.netflix.com/title/81336476",
       "year": "2021",
@@ -3957,6 +3974,23 @@
       "Country": "Vietnam"
     },
     {
+      "title": "Deive Leonardo: The Answer",
+      "netflix_url": "https://www.netflix.com/title/81692187",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30297286",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWE5NGJjMmYtNWRkMy00NzJkLTkwMGEtZmFlYTM4NjE5ZmRmXkEyXkFqcGdeQXVyMTY3MzMzMzkz._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Documentary",
+      "Director": "Marcelo Amiky",
+      "Writer": "Deive Leonardo",
+      "Actors": "Deive Leonardo",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
       "title": "Suzume",
       "netflix_url": "https://www.netflix.com/title/81696498",
       "year": "2022",
@@ -4850,6 +4884,13 @@
       "Country": "Italy"
     },
     {
+      "title": "Deive Leonardo - Before & After",
+      "netflix_url": "https://www.netflix.com/title/82086862",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Sangre del Toro",
       "netflix_url": "https://www.netflix.com/title/82122396",
       "year": "2025",
@@ -4880,6 +4921,23 @@
       "Director": "Nate Boyer",
       "Writer": "Geraint Jones, Nate Boyer",
       "Actors": "Mo McRae, Nate Boyer, Christina Ochoa",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Lainey Wilson: Keepin' Country Cool",
+      "netflix_url": "https://www.netflix.com/title/82152341",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39444813",
+      "Poster": "N/A",
+      "Plot": "Follows country music superstar Lainey Wilson as she redefines what it means to be a modern country star, exploring her personal journey and struggles while captivating fans on stage across the country.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Amy Scott",
+      "Writer": "N/A",
+      "Actors": "Lainey Wilson",
       "Language": "English",
       "Country": "United States"
     },
@@ -5083,6 +5141,23 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Nukkad Naatak",
+      "netflix_url": "https://www.netflix.com/title/82790150",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28769460",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzNiZmRlMzctNTRmYi00OTk1LWFhZGMtMTE2NjM3NDNlZGNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After being caught robbing the college canteen, best friends Molshri and Shivang are expelled. To be reinstated, they must enroll five children from an impoverished slum into a local school.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "Tanmaya Shekhar",
+      "Writer": "N/A",
+      "Actors": "Molshri, Shivang Rajpal, Nirmala Hajra",
+      "Language": "Hindi",
+      "Country": "India"
     }
   ]
 }

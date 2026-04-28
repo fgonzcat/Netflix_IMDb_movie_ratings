@@ -36,6 +36,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/10714" target="_bla
 | 4.2 | <img src="https://m.media-amazon.com/images/M/MV5BZGVjMDkwMTItNGVhMC00YzBiLTk0YjQtYWFhYTJlMThiZWQyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Pakka Commercial*</strong></summary>  <div class="movie-plot">A hotshot lawyer who is a money-minded locks horns with his father, a good man and an ex-judge in a case involving the person because of whom the judge had to resign.</div> </details> | <a href="https://www.imdb.com/title/tt13978628/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81512223" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMzlhZmM0N2MtYWIxNy00YzcyLThmNGItNWJiMjJjZjdhYjZjXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*Monster*</strong></summary>  <div class="movie-plot">A sonic memoir about confronting a real demon while making a horror movie in Latvia.</div> </details> | <a href="https://www.imdb.com/title/tt14599530/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81121351" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*A Bright Lawyer*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81510604" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Untold: The Shooting at Hawthorne Hill*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81582389" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Jana 2022 (Telugu)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81611931" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Vaashi (Malayalam)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81612627" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Shastry Virudh Shastry*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81725616" target="_blank">Netflix_link</a> |
@@ -81,6 +82,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/10714" target="_bla
 
  
 ---
-*Page last updated on: 2026-04-20*
+*Page last updated on: 2026-04-28*
 
  

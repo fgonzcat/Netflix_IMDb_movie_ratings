@@ -268,6 +268,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1701" target="_blan
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*The Rise of the Red Hot Chili Peppers: Our Brother, Hillel*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82087556" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*timelesz project -REAL-*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt39396520/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82111864" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*KPop Demon Hunters Sing-Along*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82125877" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Lainey Wilson: Keepin' Country Cool*</strong></summary>  <div class="movie-plot">Follows country music superstar Lainey Wilson as she redefines what it means to be a modern country star, exploring her personal journey and struggles while captivating fans on stage across the country.</div> </details> | <a href="https://www.imdb.com/title/tt39444813/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82152341" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*BTS THE COMEBACK LIVE | ARIRANG*</strong></summary>  <div class="movie-plot">Follows BTS as they perform live from Seoul in celebration of their fifth studio album Arirang, marking their first global livestream event from Korea.</div> </details> | <a href="https://www.imdb.com/title/tt39578533/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82157128" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*BTS: THE RETURN*</strong></summary>  <div class="movie-plot">Follows BTS as they reunite in Los Angeles after completing military service, confronting how to begin again, honor their past, and move forward together as they return to making music.</div> </details> | <a href="https://www.imdb.com/title/tt39578551/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82158609" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Noah Kahan: Out of Body*</strong></summary>  <div class="movie-plot">Chronicles Kahan's rise to fame and explores his mental health challenges while dealing with his growing fame.</div> </details> | <a href="https://www.imdb.com/title/tt37172278/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82161512" target="_blank">Netflix_link</a> |
@@ -322,6 +323,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1701" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-20*
+*Page last updated on: 2026-04-28*
 
  

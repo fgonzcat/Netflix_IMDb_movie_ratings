@@ -95,6 +95,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/107469" target="_bl
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Aaryan (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81615047" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Jigarthanda DoubleX*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81626533" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Jigarthanda DoubleX (Telugu)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81626545" target="_blank">Netflix_link</a> |
+| N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Jigarthanda DoubleX (Kannada)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81626547" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Katteri*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81632774" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Leo (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81639319" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYjY4OTUzMTUtYWYzZC00YTYzLWFmODEtNWRlZThjOGI3YmY2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Revolver Rita*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt26319590/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81643034" target="_blank">Netflix_link</a> |
@@ -115,6 +116,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/107469" target="_bl
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*STEPHEN*</strong></summary>  <div class="movie-plot">Stephen's boyfriend recommends an ideal spot for raving, but the party holds unexpected surprises.</div> </details> | <a href="https://www.imdb.com/title/tt35838090/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82057638" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Thugs of Hindostan (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82062358" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BOTI3YTY5ZDAtNTE5NS00MTgxLTlhNDctM2JkOGZjYWQwNTllXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Youth*</strong></summary>  <div class="movie-plot">15-year-old Praveen enters adolescence determined to find true love before school ends. Through relationships and heartbreaks, he discovers love's real meaning, shaping his maturity and outlook on life.</div> </details> | <a href="https://www.imdb.com/title/tt38693888/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82723855" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Nee Forever*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82776015" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -153,6 +155,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/107469" target="_bl
 
  
 ---
-*Page last updated on: 2026-04-20*
+*Page last updated on: 2026-04-28*
 
  

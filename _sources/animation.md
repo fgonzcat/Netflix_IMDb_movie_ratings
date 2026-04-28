@@ -437,6 +437,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/4698" target="_blan
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Dog Gone Trouble*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81349324" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Firedrake the Silver Dragon*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81370442" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYzk2NjMzOTUtYzVmZS00ZTFmLThiYmEtZDdjMmU3MTZmMTMyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Dr. Seuss’s Horton!*</strong></summary>  <div class="movie-plot">Follows the sweet-natured young pachyderm. He will explore the jungle with some of his friends and will learn to stand up for what is right.</div> </details> | <a href="https://www.imdb.com/title/tt18940344/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81388347" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BMWU5NzgzY2QtNDVjZS00NDFkLThmMzctNTIzZmY5ZWYxZTE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Stranger Things: Tales From '85*</strong></summary>  <div class="movie-plot">Set in Hawkins, Indiana, in the winter of 1985, Eleven and her friends unravel a paranormal mystery terrorizing their town.</div> </details> | <a href="https://www.imdb.com/title/tt27486290/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81398721" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BOTNkOWRkN2UtNmIxNi00NmMzLTk0NzAtMjM4YjIyNjBiZDYxXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Thomas & Friends: The Mystery of Lookout Mountain*</strong></summary>  <div class="movie-plot">After Thomas and Percy get spooked by a suspicious rumbling, the engines set off to figure out the secrets of the old mine inside Lookout Mountain.</div> </details> | <a href="https://www.imdb.com/title/tt21171418/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81422855" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZGI5MTAxMzAtNjNiNS00OGU3LThiMDYtODljYTQ5ZWUxYzQyXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Little Baby Bum: Music Time*</strong></summary>  <div class="movie-plot">An animated, magical music show that encourages little ones to sing along, dance and make the connection between sound, mood and movement.</div> </details> | <a href="https://www.imdb.com/title/tt15040054/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81435566" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Bad Guys: Breaking In*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81488214" target="_blank">Netflix_link</a> |
@@ -499,6 +500,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/4698" target="_blan
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Lola the Cow’s Adventures at the Farm*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82695045" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Bartolito’s Adventures on the Internet*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82695046" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Unicorn Academy: Secrets Revealed*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82705687" target="_blank">Netflix_link</a> |
+| N/A |  | 2020 | <details> <summary><strong style="color:#1f6feb;">*My Sesame Street Friends: My Abby*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82712524" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -537,6 +539,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/4698" target="_blan
 
  
 ---
-*Page last updated on: 2026-04-20*
+*Page last updated on: 2026-04-28*
 
  

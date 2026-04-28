@@ -2345,6 +2345,13 @@
       "Country": "India"
     },
     {
+      "title": "Katteri (Kannada)",
+      "netflix_url": "https://www.netflix.com/title/81632777",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Buddy",
       "netflix_url": "https://www.netflix.com/title/81632778",
       "year": "2024",
@@ -3491,6 +3498,23 @@
       "Actors": "Denny Sumargo, Donny Damara, Cok Simbara",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "The Red Envelope",
+      "netflix_url": "https://www.netflix.com/title/82051215",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt33636006",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTljZTdiMGEtMTU0Yy00MzYzLWI2NjQtMmIzZjVlYjUxNjAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A heartfelt action comedy about a supernatural marriage story between a human and a ghost.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Chayanop Boonprakob",
+      "Writer": "Chayanop Boonprakob, Thamsatid Charoenrittichai, Chantavit Dhanasevi",
+      "Actors": "Putthipong Assaratanakul, Krit Amnuaydechkorn, Arachaporn Pokinpakorn",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Tomb Watcher",
