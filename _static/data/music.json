@@ -20,6 +20,23 @@
       "Country": "India"
     },
     {
+      "title": "La Bamba",
+      "netflix_url": "https://www.netflix.com/title/281550",
+      "year": "1987",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0093378",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjFiYWM4YjItNzcwMC00NWRkLWJlN2ItMDhhNWRlNDZkNWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Biographical story of the rise from nowhere of early rock and roll singer Ritchie Valens who died at age 17 in a plane crash with Buddy Holly and The Big Bopper.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Luis Valdez",
+      "Writer": "Luis Valdez",
+      "Actors": "Lou Diamond Phillips, Esai Morales, Rosanna DeSoto",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "A Mighty Wind",
       "netflix_url": "https://www.netflix.com/title/60027592",
       "year": "2003",
@@ -4109,6 +4126,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Kylie",
+      "netflix_url": "https://www.netflix.com/title/82075657",
+      "year": "2026",
+      "imdb_rating": "3.5",
+      "imdb_id": "tt6772826",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGYzYzZjNGItMmJlYi00NWViLWEwMjYtY2JmNWJkMThiZDhmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An inside look at the professional and personal life of Kylie Jenner.",
+      "Type": "series",
+      "RunTime": "21 min",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kylie Jenner, Victoria Villarroel, Tokyo Stylez",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
       "netflix_url": "https://www.netflix.com/title/82087556",
       "year": "2026",
@@ -4337,6 +4371,13 @@
     {
       "title": "Harry Styles. One Night In Manchester.",
       "netflix_url": "https://www.netflix.com/title/82722921",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Rhythm of Revenge",
+      "netflix_url": "https://www.netflix.com/title/82736057",
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null

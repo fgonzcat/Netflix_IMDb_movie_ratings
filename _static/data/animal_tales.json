@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/5507",
   "movies": [
     {
+      "title": "The Road to El Dorado",
+      "netflix_url": "https://www.netflix.com/title/60000171",
+      "year": "2000",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0138749",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDBmYTEtYjM3MS00NDhkLWFhNjYtZGYxYzA2OGUyZjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two swindlers get their hands on a map to the fabled city of gold, El Dorado.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Bibo Bergeron, Don Paul, Jeffrey Katzenberg",
+      "Writer": "Ted Elliott, Terry Rossio, Karey Kirkpatrick",
+      "Actors": "Kevin Kline, Kenneth Branagh, Rosie Perez",
+      "Language": "English",
+      "Country": "United States, Canada, France"
+    },
+    {
       "title": "Dr. Seuss' The Cat in the Hat",
       "netflix_url": "https://www.netflix.com/title/60031264",
       "year": "2003",
@@ -1844,6 +1861,23 @@
       "imdb_id": null
     },
     {
+      "title": "Swapped",
+      "netflix_url": "https://www.netflix.com/title/81749852",
+      "year": "2026",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0348159",
+      "Poster": "https://occ-0-1340-1339.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc73oj9KEfFjYhaxEXJy0pefgWBmi5fAXQNEwC4qWjQfW_x1ev3z8Rdapl7U7U1T231BK-z11rT4m-WuU6L49Ezszz7U4oC31muE.jpg?r=136",
+      "Plot": "Ever thought of swapping your Dad for a couple of goldfish?",
+      "Type": "movie",
+      "RunTime": "10 min",
+      "Genre": "Comedy, Family, Short",
+      "Director": "Pierre Monnard",
+      "Writer": "Darran Bragg, Pierre Monnard",
+      "Actors": "Stacey Mills, Nathan Potter, Sean Wellings",
+      "Language": "English",
+      "Country": "Switzerland"
+    },
+    {
       "title": "The Garfield Movie",
       "netflix_url": "https://www.netflix.com/title/81762622",
       "year": "2024",
@@ -1992,6 +2026,23 @@
       "Actors": "Sam Rockwell, Marc Maron, Awkwafina",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Gabby's Dollhouse: The Movie",
+      "netflix_url": "https://www.netflix.com/title/82182294",
+      "year": "2025",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt32214143",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmUwNTg3ODMtZGQxZi00Y2VmLWJhMTEtZTc5ZGM1Nzc5MDViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Gabby and Grandma Gigi's road trip takes an unexpected turn when Gabby's prized dollhouse ends up with eccentric cat lady Vera. Gabby embarks on a adventure to reunite the Gabby Cats and retrieve her beloved dollhouse before it's ...",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Ryan Crego",
+      "Writer": "Mike Lew, Rehana Lew Mirza, Adam Wilson",
+      "Actors": "Laila Lockhart Kraner, Kristen Wiig, Gloria Estefan",
+      "Language": "English",
+      "Country": "Canada, United States"
     },
     {
       "title": "Zenon the Farmer: Let’s Sing and Dance",

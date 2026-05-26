@@ -139,6 +139,40 @@
       "Country": "India"
     },
     {
+      "title": "Tootsie",
+      "netflix_url": "https://www.netflix.com/title/60011473",
+      "year": "1982",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0084805",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzc1YjU5NzEtMmZjYi00NzE2LThjMmEtMzY1ZTg5ZjgyM2EzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Sydney Pollack",
+      "Writer": "Don McGuire, Larry Gelbart, Murray Schisgal",
+      "Actors": "Dustin Hoffman, Jessica Lange, Teri Garr",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "There's Something About Mary",
+      "netflix_url": "https://www.netflix.com/title/60026860",
+      "year": "1998",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0129387",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWZjMDhkZGItOGE4OS00YjUyLTlmOTUtMjE0ZDVmM2I2YmU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man gets a chance to meet up with his dream girl from high school, even though his date with her back then was a complete disaster.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Bobby Farrelly, Peter Farrelly",
+      "Writer": "Ed Decter, John J. Strauss, Peter Farrelly",
+      "Actors": "Cameron Diaz, Matt Dillon, Ben Stiller",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "She's Gotta Have It",
       "netflix_url": "https://www.netflix.com/title/60034929",
       "year": "1986",
@@ -171,6 +205,23 @@
       "Actors": "Shah Rukh Khan, Kajol, Amrish Puri",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Pretty Woman",
+      "netflix_url": "https://www.netflix.com/title/872251",
+      "year": "1990",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0100405",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_SX300.jpg",
+      "Plot": "A corporate raider hires a hooker to act as a business escort in Beverly Hills, California.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Garry Marshall",
+      "Writer": "J.F. Lawton",
+      "Actors": "Richard Gere, Julia Roberts, Jason Alexander",
+      "Language": "English",
+      "Country": "United States"
     }
   ]
 }

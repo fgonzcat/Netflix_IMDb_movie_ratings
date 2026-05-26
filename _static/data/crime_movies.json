@@ -3,6 +3,40 @@
   "genre_url": "https://www.netflix.com/browse/genre/5824",
   "movies": [
     {
+      "title": "Striking Distance",
+      "netflix_url": "https://www.netflix.com/title/1008461",
+      "year": "1993",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0108238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGFkNzQyM2YtNWQyMi00NGY1LWJmOGYtMzg2ZGJmM2RlNGNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Coming from a police family, Tom Hardy ends up fighting his uncle after the murder of his father. Tom believes the killer is another cop and goes on the record with his allegations. Demoted then to river duty, the killer taunts Tom.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Action, Crime, Mystery",
+      "Director": "Rowdy Herrington",
+      "Writer": "Rowdy Herrington, Marty Kaplan",
+      "Actors": "Bruce Willis, Sarah Jessica Parker, Dennis Farina",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "True Romance",
+      "netflix_url": "https://www.netflix.com/title/1067948",
+      "year": "1993",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt0108399",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ5OGMwMDAtMzcyOS00YTA4LWEwM2MtOTA1MDZjZGEyYmI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Detroit, a pop-culture enthusiast steals cocaine from his new wife's pimp and tries to sell it in Hollywood, prompting the mobsters who own the drugs to pursue the couple.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Tony Scott",
+      "Writer": "Quentin Tarantino, Roger Avary",
+      "Actors": "Christian Slater, Patricia Arquette, Dennis Hopper",
+      "Language": "English, Italian",
+      "Country": "United States, France"
+    },
+    {
       "title": "Money Talks",
       "netflix_url": "https://www.netflix.com/title/1179583",
       "year": "1997",
@@ -17,6 +51,23 @@
       "Writer": "Joel Cohen, Alec Sokolow",
       "Actors": "Charlie Sheen, Chris Tucker, Heather Locklear",
       "Language": "English, French",
+      "Country": "United States"
+    },
+    {
+      "title": "48 Hrs.",
+      "netflix_url": "https://www.netflix.com/title/209534",
+      "year": "1982",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0083511",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQwMzQ1NjItMWU0YS00ZDc0LThlYzUtMDgzOTIzN2QwZTJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him in order to track down a killer.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Walter Hill",
+      "Writer": "Roger Spottiswoode, Walter Hill, Larry Gross",
+      "Actors": "Nick Nolte, Eddie Murphy, Annette O'Toole",
+      "Language": "English, Spanish",
       "Country": "United States"
     },
     {
@@ -222,6 +273,23 @@
       "Actors": "Michael Douglas, Sean Bean, Brittany Murphy",
       "Language": "English, Italian, Chinese",
       "Country": "United States, Australia, Switzerland, Canada"
+    },
+    {
+      "title": "Domestic Disturbance",
+      "netflix_url": "https://www.netflix.com/title/60021888",
+      "year": "2001",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0249478",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxZjFlYjMtZjM3MS00NmI5LWFmZjctMjYxN2NkZTc0MWZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A divorced man suspects that his son's stepfather is not who he appears to be.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Harold Becker",
+      "Writer": "Lewis Colick, William S. Comanor, Gary Drucker",
+      "Actors": "John Travolta, Nick Loren, Matt O'Leary",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Vijay",
@@ -452,6 +520,23 @@
       "Country": "Canada"
     },
     {
+      "title": "Cleaner",
+      "netflix_url": "https://www.netflix.com/title/70095926",
+      "year": "2007",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0896798",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDAzMGU2ZWItNDJiOS00MjgxLWJlOTMtOTc5MTlkMGI3Njg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A former cop who now earns a wage as a crime scene cleaner unknowingly participates in a cover-up at his latest job.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Renny Harlin",
+      "Writer": "Matthew Aldrich",
+      "Actors": "Samuel L. Jackson, Ed Harris, Eva Mendes",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Tashan",
       "netflix_url": "https://www.netflix.com/title/70096751",
       "year": "2008",
@@ -518,6 +603,23 @@
       "Actors": "Vincent Cassel, Olivier Barthélémy, Roxane Mesquida",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "All Good Things",
+      "netflix_url": "https://www.netflix.com/title/70116678",
+      "year": "2010",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt1175709",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwMjIyMTc2Nl5BMl5BanBnXkFtZTcwOTQyMzc5Mw@@._V1_SX300.jpg",
+      "Plot": "David Marks, a real estate scion, is suspected of killing his wife Katie, who disappeared in 1982.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Andrew Jarecki",
+      "Writer": "Marcus Hinchey, Marc Smerling",
+      "Actors": "Ryan Gosling, Kirsten Dunst, Frank Langella",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Brighton Rock",
@@ -692,6 +794,23 @@
       "year": "1991",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Killer Joe",
+      "netflix_url": "https://www.netflix.com/title/70209632",
+      "year": "2011",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1726669",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDZmNDk5NGUtYTYwOS00MGRlLWFhZjAtOGE2MzMzM2YzNGUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a debt puts a young man's life in danger, he turns to putting a hit out on his evil mother in order to collect the insurance.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "William Friedkin",
+      "Writer": "Tracy Letts",
+      "Actors": "Matthew McConaughey, Emile Hirsch, Juno Temple",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Iceman",
@@ -896,6 +1015,23 @@
       "Actors": "Aamir Khan, Katrina Kaif, Abhishek Bachchan",
       "Language": "Hindi, English",
       "Country": "India, United States"
+    },
+    {
+      "title": "Veronica Mars",
+      "netflix_url": "https://www.netflix.com/title/70298927",
+      "year": "2014",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt2771372",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDc0Mjg4OV5BMl5BanBnXkFtZTgwODk3NjYyMTE@._V1_SX300.jpg",
+      "Plot": "Years after walking away from her past as a young private eye, Veronica Mars gets pulled back to her hometown, just in time for her high school reunion, in order to help her old flame Logan Echolls, who's embroiled in a murder mys...",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Rob Thomas",
+      "Writer": "Rob Thomas, Diane Ruggiero-Wright",
+      "Actors": "Kristen Bell, Jason Dohring, Enrico Colantoni",
+      "Language": "English",
+      "Country": "United States, United Kingdom, France, Germany"
     },
     {
       "title": "Kick",
@@ -1882,6 +2018,23 @@
       "Actors": "Clive Owen, Afiya Bennett, Morgan Allen",
       "Language": "English",
       "Country": "United Kingdom, Canada, United States, Germany"
+    },
+    {
+      "title": "Den of Thieves",
+      "netflix_url": "https://www.netflix.com/title/80196448",
+      "year": "2018",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt1259528",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyODcwMDAyM15BMl5BanBnXkFtZTgwOTA4MjIwNDI@._V1_SX300.jpg",
+      "Plot": "An elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew clash as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+      "Type": "movie",
+      "RunTime": "140 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Christian Gudegast",
+      "Writer": "Christian Gudegast, Paul T. Scheuring",
+      "Actors": "Gerard Butler, Pablo Schreiber, O'Shea Jackson Jr.",
+      "Language": "English, Polynesian, Spanish",
+      "Country": "United States"
     },
     {
       "title": "The Last Days of American Crime",
@@ -3338,6 +3491,23 @@
       "Actors": "Thabo Rametsi, Arnold Vosloo, Noxolo Dlamini",
       "Language": "English, Afrikaans",
       "Country": "South Africa"
+    },
+    {
+      "title": "The Gentlemen",
+      "netflix_url": "https://www.netflix.com/title/81178299",
+      "year": "2020",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt8367814",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2ZjQ4ZGMtZjFhMi00NmI5LTliNjEtODczMWMxNjliZjgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Guy Ritchie",
+      "Writer": "Guy Ritchie, Ivan Atkinson, Marn Davies",
+      "Actors": "Matthew McConaughey, Charlie Hunnam, Michelle Dockery",
+      "Language": "English, Russian, Spanish, Chinese",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Murder by the Coast",
@@ -7920,6 +8090,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Crash",
+      "netflix_url": "https://www.netflix.com/title/81941710",
+      "year": "2026",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt2499076",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzNjUxNjgxNF5BMl5BanBnXkFtZTcwMzQ0NzI4OQ@@._V1_SX300.jpg",
+      "Plot": "Fifteen years of verite footage show the epic rivalry between half-pipe legends Shaun White and Kevin Pearce, childhood friends who become number one and two in the world leading up to the Vancouver Winter Olympics, pushing one an...",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "Lucy Walker",
+      "Writer": "Pedro Kos, Lucy Walker",
+      "Actors": "Kevin Pearce, Shaun White, Mason Aguirre",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Bogotá: City of the Lost",
       "netflix_url": "https://www.netflix.com/title/81942643",
       "year": "2025",
@@ -8210,6 +8397,23 @@
       "Country": "Canada, United States"
     },
     {
+      "title": "Stolen Baby: The Murder of Heidi Broussard",
+      "netflix_url": "https://www.netflix.com/title/82095253",
+      "year": "2023",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt29280965",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE0MmNhYTAtMTRiYy00Y2Y3LThhNDctOGJlMjU0MmVmMDY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on the true story of Heidi, who was murdered by her friend Magen.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Biography, Thriller",
+      "Director": "Michelle Ouellet",
+      "Writer": "Alexandra Salerno",
+      "Actors": "Emily Osment, Anna Hopkins, Ian Lake",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Nobody Dumps My Daughter",
       "netflix_url": "https://www.netflix.com/title/82095257",
       "year": "2024",
@@ -8454,6 +8658,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "KARTAVYA",
+      "netflix_url": "https://www.netflix.com/title/82698051",
+      "year": "2026",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt0113528",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGRlZTEwYjYtYzk4MS00MTBjLWI4OTQtNTQ5NTA0MmY4ZWIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Karan and his mother live a happy life and he is soon to be married to Kajal. But on the day of his engagement, he discovers his mother is not his biological mother.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Raj Kanwar",
+      "Writer": "Kamlesh Pandey, Ranbir Pushp",
+      "Actors": "Sanjay Kapoor, Juhi Chawla, Moushumi Chatterjee",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Mrithyunjay​",
       "netflix_url": "https://www.netflix.com/title/82735085",
       "year": "2026",
@@ -8493,6 +8714,20 @@
       "Actors": "Rajisha Vijayan, Divya Prabha, Jagadish",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Dhurandhar The Revenge (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813021",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dhurandhar (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813816",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Ride",

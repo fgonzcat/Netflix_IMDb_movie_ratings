@@ -394,6 +394,23 @@
       "Country": "India"
     },
     {
+      "title": "Burn After Reading",
+      "netflix_url": "https://www.netflix.com/title/70098606",
+      "year": "2008",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0887883",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjdmNjJjMzAtMmJkMy00MDJlLTgxYjctNDU3YjBkMmJhM2M5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A disk containing mysterious information from a CIA agent ends up in the hands of two unscrupulous and daft gym employees who attempt to sell it.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Ethan Coen, Joel Coen",
+      "Writer": "Joel Coen, Ethan Coen",
+      "Actors": "Brad Pitt, Frances McDormand, George Clooney",
+      "Language": "English",
+      "Country": "United Kingdom, France, United States"
+    },
+    {
       "title": "Quantum of Solace",
       "netflix_url": "https://www.netflix.com/title/70099117",
       "year": "2008",
@@ -1163,6 +1180,20 @@
       "Writer": "Vir Das, Ellie Flory Fawcett, Amit Bhandari",
       "Actors": "Hindi",
       "Language": "India"
+    },
+    {
+      "title": "Dhurandhar The Revenge (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813021",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dhurandhar (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813816",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Spy Who Loved Me",

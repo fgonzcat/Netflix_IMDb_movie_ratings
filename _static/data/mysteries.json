@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/9994",
   "movies": [
     {
+      "title": "Striking Distance",
+      "netflix_url": "https://www.netflix.com/title/1008461",
+      "year": "1993",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0108238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGFkNzQyM2YtNWQyMi00NGY1LWJmOGYtMzg2ZGJmM2RlNGNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Coming from a police family, Tom Hardy ends up fighting his uncle after the murder of his father. Tom believes the killer is another cop and goes on the record with his allegations. Demoted then to river duty, the killer taunts Tom.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Action, Crime, Mystery",
+      "Director": "Rowdy Herrington",
+      "Writer": "Rowdy Herrington, Marty Kaplan",
+      "Actors": "Bruce Willis, Sarah Jessica Parker, Dennis Farina",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "I Know What You Did Last Summer",
       "netflix_url": "https://www.netflix.com/title/1181714",
       "year": "1997",
@@ -207,6 +224,23 @@
       "Country": "United States, Canada, United Kingdom"
     },
     {
+      "title": "All Good Things",
+      "netflix_url": "https://www.netflix.com/title/70116678",
+      "year": "2010",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt1175709",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwMjIyMTc2Nl5BMl5BanBnXkFtZTcwOTQyMzc5Mw@@._V1_SX300.jpg",
+      "Plot": "David Marks, a real estate scion, is suspected of killing his wife Katie, who disappeared in 1982.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Andrew Jarecki",
+      "Writer": "Marcus Hinchey, Marc Smerling",
+      "Actors": "Ryan Gosling, Kirsten Dunst, Frank Langella",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Silent House",
       "netflix_url": "https://www.netflix.com/title/70170056",
       "year": "2011",
@@ -256,6 +290,40 @@
       "Actors": "Rooney Mara, Channing Tatum, Jude Law",
       "Language": "English, French",
       "Country": "United States"
+    },
+    {
+      "title": "Non-Stop",
+      "netflix_url": "https://www.netflix.com/title/70292864",
+      "year": "2014",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt2024469",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI3NzcxMjkzMl5BMl5BanBnXkFtZTgwMDY0NTQ0MDE@._V1_SX300.jpg",
+      "Plot": "An air marshal springs into action during a transatlantic flight after receiving a series of text messages demanding $150 million into an off-shore account, or someone will die every 20 minutes.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Action, Mystery, Thriller",
+      "Director": "Jaume Collet-Serra",
+      "Writer": "John W. Richardson, Chris Roach, Ryan Engle",
+      "Actors": "Liam Neeson, Julianne Moore, Scoot McNairy",
+      "Language": "English, German",
+      "Country": "United Kingdom, France, Canada, United States"
+    },
+    {
+      "title": "Veronica Mars",
+      "netflix_url": "https://www.netflix.com/title/70298927",
+      "year": "2014",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt2771372",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDc0Mjg4OV5BMl5BanBnXkFtZTgwODk3NjYyMTE@._V1_SX300.jpg",
+      "Plot": "Years after walking away from her past as a young private eye, Veronica Mars gets pulled back to her hometown, just in time for her high school reunion, in order to help her old flame Logan Echolls, who's embroiled in a murder mys...",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Rob Thomas",
+      "Writer": "Rob Thomas, Diane Ruggiero-Wright",
+      "Actors": "Kristen Bell, Jason Dohring, Enrico Colantoni",
+      "Language": "English",
+      "Country": "United States, United Kingdom, France, Germany"
     },
     {
       "title": "Before I Go to Sleep",

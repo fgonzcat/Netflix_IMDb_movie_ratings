@@ -37,11 +37,45 @@
       "Country": "United States"
     },
     {
+      "title": "The Road to El Dorado",
+      "netflix_url": "https://www.netflix.com/title/60000171",
+      "year": "2000",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0138749",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDBmYTEtYjM3MS00NDhkLWFhNjYtZGYxYzA2OGUyZjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two swindlers get their hands on a map to the fabled city of gold, El Dorado.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Bibo Bergeron, Don Paul, Jeffrey Katzenberg",
+      "Writer": "Ted Elliott, Terry Rossio, Karey Kirkpatrick",
+      "Actors": "Kevin Kline, Kenneth Branagh, Rosie Perez",
+      "Language": "English",
+      "Country": "United States, Canada, France"
+    },
+    {
       "title": "Stephen King's Sleepwalkers",
       "netflix_url": "https://www.netflix.com/title/60003974",
       "year": "1992",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "13 Going on 30",
+      "netflix_url": "https://www.netflix.com/title/60034573",
+      "year": "2004",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0337563",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "Plot": "Unpopular schoolgirl Jenna Rink makes an unusual wish on her birthday. Miraculously, her wish comes true and the 13-year-old Jenna wakes up the next day as a 30-year-old woman.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Fantasy, Romance",
+      "Director": "Gary Winick",
+      "Writer": "Josh Goldsmith, Cathy Yuspa",
+      "Actors": "Jennifer Garner, Mark Ruffalo, Judy Greer",
+      "Language": "English, Portuguese",
+      "Country": "United States"
     },
     {
       "title": "Christine",
@@ -112,6 +146,23 @@
       "Country": "India"
     },
     {
+      "title": "Jennifer's Body",
+      "netflix_url": "https://www.netflix.com/title/70111322",
+      "year": "2009",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt1131734",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNzYwMjc1Ml5BMl5BanBnXkFtZTcwNDI3MDE3Mg@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "Plot": "A newly-possessed high-school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror?",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Horror",
+      "Director": "Karyn Kusama",
+      "Writer": "Diablo Cody",
+      "Actors": "Megan Fox, Amanda Seyfried, Adam Brody",
+      "Language": "English, Spanish",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "This Is the End",
       "netflix_url": "https://www.netflix.com/title/70264796",
       "year": "2013",
@@ -144,6 +195,40 @@
       "Actors": "Ryan Reynolds, Jeff Bridges, Mary-Louise Parker",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Under the Skin",
+      "netflix_url": "https://www.netflix.com/title/70293812",
+      "year": "2013",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1441395",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_SX300.jpg",
+      "Plot": "A mysterious young woman seduces lonely men in the evening hours in Scotland. However, events lead her to begin a process of self-discovery.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Jonathan Glazer",
+      "Writer": "Walter Campbell, Jonathan Glazer, Michel Faber",
+      "Actors": "Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay",
+      "Language": "English",
+      "Country": "United Kingdom, Switzerland, United States"
+    },
+    {
+      "title": "Dracula Untold",
+      "netflix_url": "https://www.netflix.com/title/70305899",
+      "year": "2014",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0829150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_SX300.jpg",
+      "Plot": "As his kingdom is being threatened by the Turks, young prince Vlad Tepes must become a monster feared by his own people in order to obtain the power needed to protect his own family, and the families of his kingdom.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "Gary Shore",
+      "Writer": "Matt Sazama, Burk Sharpless, Bram Stoker",
+      "Actors": "Luke Evans, Dominic Cooper, Sarah Gadon",
+      "Language": "English, Turkish",
+      "Country": "United States, Japan"
     },
     {
       "title": "Ouija",
@@ -260,6 +345,23 @@
       "Actors": "James Badge Dale, Emily Mortimer, Bruce Greenwood",
       "Language": "English, Russian, Romanian, Slovenian",
       "Country": "United States, Hungary"
+    },
+    {
+      "title": "Ouija: Origin of Evil",
+      "netflix_url": "https://www.netflix.com/title/80106763",
+      "year": "2016",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt4361050",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhmYzkyNjUtNmI2OC00MWY2LWFjN2MtNjIwMGRkOWMyYzI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1967 Los Angeles, a widowed mother's daughter tries to communicate with her late father through a Ouija board, but unleashes a demon instead.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Mike Flanagan",
+      "Writer": "Mike Flanagan, Jeff Howard, Juliet Snowden",
+      "Actors": "Elizabeth Reaser, Lulu Wilson, Annalise Basso",
+      "Language": "English, Ukrainian",
+      "Country": "United States"
     },
     {
       "title": "Ludo",
@@ -3343,6 +3445,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "Black Phone 2",
+      "netflix_url": "https://www.netflix.com/title/81957167",
+      "year": "2025",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt29644189",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Plot": "As Finn, now 17, struggles with life after his captivity, his sister begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Horror",
+      "Director": "Scott Derrickson",
+      "Writer": "Joe Hill, Scott Derrickson, C. Robert Cargill",
+      "Actors": "Ethan Hawke, Mason Thames, Madeleine McGraw",
+      "Language": "English, Spanish",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Kang Mak from Pee Mak",
       "netflix_url": "https://www.netflix.com/title/81971170",
       "year": "2024",
@@ -3480,6 +3599,23 @@
       "Writer": "Riheam Junianti",
       "Actors": "Cinta Laura Kiehl, Arifin Putra, Callista Arum",
       "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
+      "title": "Comic 8 Revolution: Santet K4bin3t",
+      "netflix_url": "https://www.netflix.com/title/82051032",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38623880",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyY2ViY2ItMWI2NS00OTU3LTkxNGItNzQ1ZWI1YjE2NjcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of people who try to uncover the mystery behind a government cabinet that is suspected of being hit by mass black magic.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Action, Comedy, Fantasy",
+      "Director": "Fajar Bustomi",
+      "Writer": "N/A",
+      "Actors": "Andre Taulany, Hesti Purwadinata, Indro Warkop",
+      "Language": "Indonesian, English, Hindi",
       "Country": "Indonesia"
     },
     {
@@ -3699,6 +3835,13 @@
       "Actors": "Janki Bodiwala, Monal Gajjar, Hitu Kanodia",
       "Language": "Gujarati",
       "Country": "India"
+    },
+    {
+      "title": "Raakaasa",
+      "netflix_url": "https://www.netflix.com/title/82180278",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "KPop Demon Hunters Bonus Content",

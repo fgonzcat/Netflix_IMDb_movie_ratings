@@ -71,6 +71,23 @@
       "Country": "Belgium, Netherlands"
     },
     {
+      "title": "Under the Skin",
+      "netflix_url": "https://www.netflix.com/title/70293812",
+      "year": "2013",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1441395",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_SX300.jpg",
+      "Plot": "A mysterious young woman seduces lonely men in the evening hours in Scotland. However, events lead her to begin a process of self-discovery.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Jonathan Glazer",
+      "Writer": "Walter Campbell, Jonathan Glazer, Michel Faber",
+      "Actors": "Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay",
+      "Language": "English",
+      "Country": "United Kingdom, Switzerland, United States"
+    },
+    {
       "title": "Knight of Cups",
       "netflix_url": "https://www.netflix.com/title/70295174",
       "year": "2014",
@@ -1549,6 +1566,23 @@
       "Actors": "Nicolás Furtado, Nancy Dupláa, Soledad Villamil",
       "Language": "Spanish",
       "Country": "Argentina"
+    },
+    {
+      "title": "The Silent Twins",
+      "netflix_url": "https://www.netflix.com/title/81613814",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt11052678",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzgzZjQ2ODctNTJjMS00MTc2LTg4MWUtNDIwZmE0ZTM3ZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on the lives of June and Jennifer Gibbons, real-life identical twins who grew up in Wales and became known as \"the silent twins\" because of their refusal to communicate with anyone but each other.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Biography, Drama",
+      "Director": "Agnieszka Smoczynska",
+      "Writer": "Andrea Seigel, Marjorie Wallace",
+      "Actors": "Letitia Wright, Tamara Lawrance, Leah Mondesir-Simmonds",
+      "Language": "English",
+      "Country": "Poland, United Kingdom, United States"
     },
     {
       "title": "The Stranger",

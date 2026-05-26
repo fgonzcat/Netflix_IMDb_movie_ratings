@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "K-Pax",
+      "netflix_url": "https://www.netflix.com/title/60020811",
+      "year": "2001",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0272152",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWU5MTJiNDMtMmI0Yy00MWRjLTgwZjktODEyY2NmZThhM2EwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A psychiatrist tries to determine how best to help a patient who convincingly claims to be from a distant galaxy.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "Iain Softley",
+      "Writer": "Gene Brewer, Charles Leavitt",
+      "Actors": "Kevin Spacey, Jeff Bridges, Mary McCormack",
+      "Language": "English",
+      "Country": "Germany, United States"
+    },
+    {
       "title": "Crossroads",
       "netflix_url": "https://www.netflix.com/title/60022266",
       "year": "2002",
@@ -88,6 +105,23 @@
       "Country": "United States"
     },
     {
+      "title": "13 Going on 30",
+      "netflix_url": "https://www.netflix.com/title/60034573",
+      "year": "2004",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0337563",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "Plot": "Unpopular schoolgirl Jenna Rink makes an unusual wish on her birthday. Miraculously, her wish comes true and the 13-year-old Jenna wakes up the next day as a 30-year-old woman.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Fantasy, Romance",
+      "Director": "Gary Winick",
+      "Writer": "Josh Goldsmith, Cathy Yuspa",
+      "Actors": "Jennifer Garner, Mark Ruffalo, Judy Greer",
+      "Language": "English, Portuguese",
+      "Country": "United States"
+    },
+    {
       "title": "Kuch Kuch Hota Hai",
       "netflix_url": "https://www.netflix.com/title/60036752",
       "year": "1998",
@@ -103,6 +137,23 @@
       "Actors": "Shah Rukh Khan, Kajol, Rani Mukerji",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "The Land Before Time",
+      "netflix_url": "https://www.netflix.com/title/683101",
+      "year": "1988",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0095489",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYThiYTJkZjAtZWE1OS00YjI3LWEyZjQtZWVmMmI3NjNkYTg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An orphaned brontosaurus teams up with other young dinosaurs in order to reunite with their families in a valley.",
+      "Type": "movie",
+      "RunTime": "69 min",
+      "Genre": "Animation, Adventure, Drama",
+      "Director": "Don Bluth",
+      "Writer": "Stu Krieger, Judy Freudberg, Tony Geiss",
+      "Actors": "Pat Hingle, Helen Shaver, Gabriel Damon",
+      "Language": "English",
+      "Country": "United States, Ireland"
     },
     {
       "title": "A League of Their Own",
@@ -3830,6 +3881,23 @@
       "Country": "United States"
     },
     {
+      "title": "Mrs. Harris Goes to Paris",
+      "netflix_url": "https://www.netflix.com/title/81447226",
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt5151570",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmZiNzk2ZGItOTAwNi00M2NiLTgxN2UtMjA2ZjA5ZTQ2YmNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1950s London, a widowed cleaning lady falls madly in love with a couture Dior dress, deciding she must have one. She embarks on an adventure to Paris that will change not only her own outlook -- but the very future of the House...",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Anthony Fabian",
+      "Writer": "Paul Gallico, Carroll Cartwright, Anthony Fabian",
+      "Actors": "Lesley Manville, Isabelle Huppert, Lambert Wilson",
+      "Language": "English, French",
+      "Country": "United Kingdom, Canada, France, Hungary, Belgium"
+    },
+    {
       "title": "STAND BY ME Doraemon 2",
       "netflix_url": "https://www.netflix.com/title/81451264",
       "year": "2020",
@@ -4899,6 +4967,23 @@
       "Country": "Kenya"
     },
     {
+      "title": "Je m’appelle Agneta",
+      "netflix_url": "https://www.netflix.com/title/81735935",
+      "year": "2026",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt31828554",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWE3NmMxZjItNTUyYy00NDcwLTgwOTgtNDQwNTU1ODk0MGFiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "Agneta, 49, is vibrant but seems invisible. Her kids have left home, her traffic office job is stuck, and she feels unseen. Meanwhile, her husband has found purpose through cold plunges and pricey cycling gear.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Comedy",
+      "Director": "Johanna Runevad",
+      "Writer": "Emma Hamberg, Isabel Nylund, Johanna Runevad",
+      "Actors": "Eva Melander, Claes Månsson, Jérémie Covillault",
+      "Language": "Swedish, French, English",
+      "Country": "Sweden"
+    },
+    {
       "title": "Holiday in the Vineyards",
       "netflix_url": "https://www.netflix.com/title/81741339",
       "year": "2023",
@@ -4955,6 +5040,23 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Swapped",
+      "netflix_url": "https://www.netflix.com/title/81749852",
+      "year": "2026",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0348159",
+      "Poster": "https://occ-0-1340-1339.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc73oj9KEfFjYhaxEXJy0pefgWBmi5fAXQNEwC4qWjQfW_x1ev3z8Rdapl7U7U1T231BK-z11rT4m-WuU6L49Ezszz7U4oC31muE.jpg?r=136",
+      "Plot": "Ever thought of swapping your Dad for a couple of goldfish?",
+      "Type": "movie",
+      "RunTime": "10 min",
+      "Genre": "Comedy, Family, Short",
+      "Director": "Pierre Monnard",
+      "Writer": "Darran Bragg, Pierre Monnard",
+      "Actors": "Stacey Mills, Nathan Potter, Sean Wellings",
+      "Language": "English",
+      "Country": "Switzerland"
     },
     {
       "title": "Going Varsity in Mariachi",
@@ -5187,6 +5289,13 @@
       "Actors": "Avicii, Aloe Blacc, Carl Falk",
       "Language": "Swedish",
       "Country": "Sweden"
+    },
+    {
+      "title": "Bride of the Year",
+      "netflix_url": "https://www.netflix.com/title/81933871",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Dad Quest",
@@ -5773,6 +5882,23 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Goat",
+      "netflix_url": "https://www.netflix.com/title/82710848",
+      "year": "2026",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt27613895",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5OTJkOGMtYWFiNi00NTlkLWE3ZWItY2ZlNjkyOWVhMjMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tyree Dillihay, Adam Rosette",
+      "Writer": "Aaron Buchsbaum, Teddy Riley, Nicolas Curcio",
+      "Actors": "Caleb McLaughlin, Gabrielle Union, Stephen Curry",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Gen Hoshino presents MAD HOPE MAD MUSIC",

@@ -105,6 +105,23 @@
       "Country": "United States"
     },
     {
+      "title": "Bad News Bears",
+      "netflix_url": "https://www.netflix.com/title/70025672",
+      "year": "2005",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0408524",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDA5Yjg5ZDAtZjMzNC00ZGZiLWJlYTItMjdjOWViMDUzNThmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A grizzled little league coach tries to turn his team of misfits into champs.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Comedy, Sport",
+      "Director": "Richard Linklater",
+      "Writer": "Bill Lancaster, Glenn Ficarra, John Requa",
+      "Actors": "Billy Bob Thornton, Greg Kinnear, Marcia Gay Harden",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Two for the Money",
       "netflix_url": "https://www.netflix.com/title/70032595",
       "year": "2005",
@@ -2470,6 +2487,13 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "The Bus: A French Football Mutiny",
+      "netflix_url": "https://www.netflix.com/title/81728168",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Off Track 2",
       "netflix_url": "https://www.netflix.com/title/81735101",
       "year": "2025",
@@ -2624,6 +2648,13 @@
       "title": "30 for 30: This Was the XFL",
       "netflix_url": "https://www.netflix.com/title/81752201",
       "year": "2016",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Untold UK: Liverpool's Miracle of Istanbul",
+      "netflix_url": "https://www.netflix.com/title/81752435",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -2809,6 +2840,13 @@
       "Country": "United States"
     },
     {
+      "title": "Untold UK: Jamie Vardy",
+      "netflix_url": "https://www.netflix.com/title/81915311",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Fantasy Football Ruined Our Lives",
       "netflix_url": "https://www.netflix.com/title/81923633",
       "year": "2025",
@@ -2901,6 +2939,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Biker",
+      "netflix_url": "https://www.netflix.com/title/82109243",
+      "year": "2026",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt0326769",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAxNTY1NzA4MzJeQTJeQWpwZ15BbWU2MDQzMTMzNw@@._V1_SX300.jpg",
+      "Plot": "A son of the leader of a legendary group of an urban biker gang tries to retain his championship title.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Drama",
+      "Director": "Reggie Rock Bythewood",
+      "Writer": "Michael Gougis, Craig Fernandez, Reggie Rock Bythewood",
+      "Actors": "Laurence Fishburne, Derek Luke, Orlando Jones",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Scotty James: Pipe Dream",
       "netflix_url": "https://www.netflix.com/title/82184420",
       "year": "2025",
@@ -2933,6 +2988,23 @@
       "Actors": "Kaoru Kashiwagi, Yusei Kikuchi, Ito Kouno",
       "Language": "Japanese",
       "Country": "United States, Japan"
+    },
+    {
+      "title": "Goat",
+      "netflix_url": "https://www.netflix.com/title/82710848",
+      "year": "2026",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt27613895",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5OTJkOGMtYWFiNi00NTlkLWE3ZWItY2ZlNjkyOWVhMjMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tyree Dillihay, Adam Rosette",
+      "Writer": "Aaron Buchsbaum, Teddy Riley, Nicolas Curcio",
+      "Actors": "Caleb McLaughlin, Gabrielle Union, Stephen Curry",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Chatha Pacha: The Ring of Rowdies",

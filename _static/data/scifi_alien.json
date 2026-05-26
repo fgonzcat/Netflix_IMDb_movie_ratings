@@ -20,6 +20,23 @@
       "Country": "France, United Kingdom"
     },
     {
+      "title": "Starship Troopers",
+      "netflix_url": "https://www.netflix.com/title/1181616",
+      "year": "1997",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0120201",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTNiOGM1ZWUtZTZjZC00OWJmLWE2YzUtZjQ4ODZjZmVlMDU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Humans, in a fascist militaristic future, wage war with giant alien bugs.",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Paul Verhoeven",
+      "Writer": "Edward Neumeier, Robert A. Heinlein",
+      "Actors": "Casper Van Dien, Denise Richards, Dina Meyer",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Dune",
       "netflix_url": "https://www.netflix.com/title/464403",
       "year": "1984",
@@ -69,6 +86,23 @@
       "Actors": "John Travolta, Forest Whitaker, Barry Pepper",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "K-Pax",
+      "netflix_url": "https://www.netflix.com/title/60020811",
+      "year": "2001",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0272152",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWU5MTJiNDMtMmI0Yy00MWRjLTgwZjktODEyY2NmZThhM2EwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A psychiatrist tries to determine how best to help a patient who convincingly claims to be from a distant galaxy.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "Iain Softley",
+      "Writer": "Gene Brewer, Charles Leavitt",
+      "Actors": "Kevin Spacey, Jeff Bridges, Mary McCormack",
+      "Language": "English",
+      "Country": "Germany, United States"
     },
     {
       "title": "District 9",
@@ -137,6 +171,23 @@
       "Actors": "Saoirse Ronan, Max Irons, Jake Abel",
       "Language": "English",
       "Country": "United States, Switzerland"
+    },
+    {
+      "title": "Under the Skin",
+      "netflix_url": "https://www.netflix.com/title/70293812",
+      "year": "2013",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1441395",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_SX300.jpg",
+      "Plot": "A mysterious young woman seduces lonely men in the evening hours in Scotland. However, events lead her to begin a process of self-discovery.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Jonathan Glazer",
+      "Writer": "Walter Campbell, Jonathan Glazer, Michel Faber",
+      "Actors": "Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay",
+      "Language": "English",
+      "Country": "United Kingdom, Switzerland, United States"
     },
     {
       "title": "Extant",
@@ -552,6 +603,23 @@
       "Actors": "Toby Hargrave, Sigourney Weaver, Eugene Khumbanyiwa",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Nope",
+      "netflix_url": "https://www.netflix.com/title/81573297",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10954984",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODRlNWRhZWUtMzdlZC00ZDIyLWFhZjMtYTcxNjI1ZDIwODhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Plot": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling phenomenon.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Horror, Mystery, Sci-Fi",
+      "Director": "Jordan Peele",
+      "Writer": "Jordan Peele",
+      "Actors": "Daniel Kaluuya, Keke Palmer, Brandon Perea",
+      "Language": "English, Spanish",
+      "Country": "United States, Japan, Canada"
     },
     {
       "title": "Office Invasion",

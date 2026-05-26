@@ -925,6 +925,23 @@
       "Country": "India"
     },
     {
+      "title": "Washington",
+      "netflix_url": "https://www.netflix.com/title/81299882",
+      "year": "2020",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt10098580",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMTU0MmEtMTA5Mi00NTE4LTk3MjEtZDhiNTliMGEwOTM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The life story of George Washington, the first President of the United States.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Roel Reiné",
+      "Writer": "Matthew Ginsburg",
+      "Actors": "Jeff Daniels, Joanne Freeman, Alan Taylor",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "World War II: From the Frontlines",
       "netflix_url": "https://www.netflix.com/title/81303911",
       "year": "2023",
@@ -1704,6 +1721,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Grant",
+      "netflix_url": "https://www.netflix.com/title/81698437",
+      "year": "2020",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt8690814",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDFiMThiZTYtZDdhZi00NWVkLWIyNTMtMjQxZjRkYTQ4OTlhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The documentary-series examines Ulysses S. Grant's life story using his perspective and experiences to explore a turbulent time in history: the Civil War and Reconstruction.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ta-Nehisi Coates, Justin Salinger, Carel Nel",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "ARA San Juan: The Submarine that Disappeared",
       "netflix_url": "https://www.netflix.com/title/81708230",
       "year": "2024",
@@ -1770,6 +1804,13 @@
       "Actors": "Lagueria Davis, Beulah Mae Mitchell, Maxine Waters",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Bus: A French Football Mutiny",
+      "netflix_url": "https://www.netflix.com/title/81728168",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Conversations with Ruth de Souza",
@@ -1990,6 +2031,23 @@
       "Country": "United States"
     },
     {
+      "title": "Theodore Roosevelt",
+      "netflix_url": "https://www.netflix.com/title/82765206",
+      "year": "2022",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt12330446",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE1NDljMzItMmQ2ZC00OTk1LTgwNGYtMzg0NDUzMGM5OGI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two-part series on U.S. President Theodore Roosevelt looking at his work as a progressive reformer as well as his contradictions such as being a passionate conservationist who also hunted animals.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Shane John Kruger, Rufus Jones, Marco Mintaka",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Booze, Bets and Sex That Built America",
       "netflix_url": "https://www.netflix.com/title/82765210",
       "year": "2022",
@@ -2003,6 +2061,40 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Delbert Hunt, James M. Reilly, April Mae Davis",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Abraham Lincoln",
+      "netflix_url": "https://www.netflix.com/title/82765211",
+      "year": "2022",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt17079876",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTdmMTZjYmQtYWZiYi00ODc4LTlkOWQtMWY1Mjc2MjY5OGIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Through a poverty-ridden childhood on the American frontier, Lincoln is determined to leave his mark on the world.",
+      "Type": "series",
+      "RunTime": "31S min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Graham Sibley, Stefan Adegbola, Jenny Stead",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "FDR",
+      "netflix_url": "https://www.netflix.com/title/82765220",
+      "year": "2023",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt27052975",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwNjZiNmYtZjkwZS00MTBiLWJiMzctOWRmYWQ5NTU5YzA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The three-part miniseries chronicles the life of Franklin D. Roosevelt, the thirty-second President of the United States.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Christian McKay, Alice Bounsall, Pierre Malherbe",
       "Language": "English",
       "Country": "United States"
     },
@@ -2073,6 +2165,23 @@
       "Actors": "Mo Brings Plenty, Edward T. O'Donnell, Shane Doyle",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Great War",
+      "netflix_url": "https://www.netflix.com/title/82765252",
+      "year": "2023",
+      "imdb_rating": "8.9",
+      "imdb_id": "tt0057753",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQzNjYxMWEtM2RkZS00MDBmLWE3NTAtNmNjYzQ2ZTIxZjRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "One of the greatest achievements of television - aired in 26 episodes from 1964. Use of extensive archival material and sound effects combined with contemporary classical music from this area.",
+      "Type": "series",
+      "RunTime": "40 min",
+      "Genre": "Documentary, History, War",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Michael Redgrave, Ralph Richardson, Emlyn Williams",
+      "Language": "English",
+      "Country": "United Kingdom, Australia, Canada"
     }
   ]
 }

@@ -54,6 +54,23 @@
       "Country": "France, United Kingdom"
     },
     {
+      "title": "Starship Troopers",
+      "netflix_url": "https://www.netflix.com/title/1181616",
+      "year": "1997",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0120201",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTNiOGM1ZWUtZTZjZC00OWJmLWE2YzUtZjQ4ODZjZmVlMDU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Humans, in a fascist militaristic future, wage war with giant alien bugs.",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Paul Verhoeven",
+      "Writer": "Edward Neumeier, Robert A. Heinlein",
+      "Actors": "Casper Van Dien, Denise Richards, Dina Meyer",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Godzilla",
       "netflix_url": "https://www.netflix.com/title/11819467",
       "year": "1998",
@@ -69,6 +86,23 @@
       "Actors": "Matthew Broderick, Jean Reno, Maria Pitillo",
       "Language": "English, French, Japanese, Russian, Spanish",
       "Country": "United States, Japan"
+    },
+    {
+      "title": "Waterworld",
+      "netflix_url": "https://www.netflix.com/title/17672132",
+      "year": "1995",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0114898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5ZmQ3NTAtNWVhMi00ZmI2LTg3YTMtN2Q1MmNjYzMwZGI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Kevin Reynolds",
+      "Writer": "Peter Rader, David Twohy",
+      "Actors": "Kevin Costner, Jeanne Tripplehorn, Dennis Hopper",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Conan the Destroyer",
@@ -173,6 +207,23 @@
       "Country": "Germany, United States"
     },
     {
+      "title": "Spider-Man",
+      "netflix_url": "https://www.netflix.com/title/60004481",
+      "year": "2002",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0145487",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Stan Lee, Steve Ditko, David Koepp",
+      "Actors": "Tobey Maguire, Kirsten Dunst, Willem Dafoe",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The One",
       "netflix_url": "https://www.netflix.com/title/60021777",
       "year": "2001",
@@ -224,6 +275,23 @@
       "Country": "United States"
     },
     {
+      "title": "Spider-Man 2",
+      "netflix_url": "https://www.netflix.com/title/60036230",
+      "year": "2004",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0316654",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Stan Lee, Steve Ditko, Alfred Gough",
+      "Actors": "Tobey Maguire, Kirsten Dunst, Alfred Molina",
+      "Language": "English, Russian, Chinese",
+      "Country": "United States"
+    },
+    {
       "title": "Johnny Mnemonic",
       "netflix_url": "https://www.netflix.com/title/656804",
       "year": "1995",
@@ -255,6 +323,23 @@
       "Writer": "Caspian Tredwell-Owen, Alex Kurtzman, Roberto Orci",
       "Actors": "Scarlett Johansson, Ewan McGregor, Djimon Hounsou",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Spider-Man 3",
+      "netflix_url": "https://www.netflix.com/title/70047101",
+      "year": "2007",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0413300",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Sam Raimi, Ivan Raimi, Alvin Sargent",
+      "Actors": "Tobey Maguire, Kirsten Dunst, Topher Grace",
+      "Language": "English, French",
       "Country": "United States"
     },
     {
@@ -477,6 +562,23 @@
       "Actors": "Andrew Garfield, Emma Stone, Jamie Foxx",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Dracula Untold",
+      "netflix_url": "https://www.netflix.com/title/70305899",
+      "year": "2014",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0829150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_SX300.jpg",
+      "Plot": "As his kingdom is being threatened by the Turks, young prince Vlad Tepes must become a monster feared by his own people in order to obtain the power needed to protect his own family, and the families of his kingdom.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "Gary Shore",
+      "Writer": "Matt Sazama, Burk Sharpless, Bram Stoker",
+      "Actors": "Luke Evans, Dominic Cooper, Sarah Gadon",
+      "Language": "English, Turkish",
+      "Country": "United States, Japan"
     },
     {
       "title": "Lucy",
@@ -2049,6 +2151,23 @@
       "Actors": "Scarlett Johansson, Mahershala Ali, Jonathan Bailey",
       "Language": "English, French, Spanish",
       "Country": "United States, United Kingdom, Malta, India, Taiwan, Japan"
+    },
+    {
+      "title": "OVERLORD:The Sacred Kingdom",
+      "netflix_url": "https://www.netflix.com/title/82040442",
+      "year": "2024",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt14603848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWI0ZjQ3ZTYtZGU5NC00NmU1LTlkMzMtMmY1OGM4NjRiZDljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Momonga, now known as the Sorcerer King Ains Ooal Gown, rallies the Sorcerer Kingdom and its undead army to join the fight alongside the Sacred Kingdom and the Slane Theocracy in hopes to defeat the Demon Emperor Jaldabaoth.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Naoyuki Itô",
+      "Writer": "Naoyuki Itô, Kugane Maruyama",
+      "Actors": "Satoshi Hino, Yumi Hara, Masayuki Katô",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Panji Tengkorak",

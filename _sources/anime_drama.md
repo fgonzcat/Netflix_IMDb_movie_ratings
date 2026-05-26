@@ -86,6 +86,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/452" target="_blank
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*T・P BON*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81497635" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*The Ramparts of Ice*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82031882" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*SHIBOYUGI: Playing Death Games to Put Food on the Table*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82047155" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BM2UzZWRhZmYtYzAwYS00Zjg5LTkyZjItNTk3YjhjMDYxOGQwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Akane-Banashi*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt38797595/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82701514" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -124,6 +125,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/452" target="_blank
 
  
 ---
-*Page last updated on: 2026-04-28*
+*Page last updated on: 2026-05-25*
 
  

@@ -71,6 +71,23 @@
       "Country": "United Kingdom, Canada, United States"
     },
     {
+      "title": "True Romance",
+      "netflix_url": "https://www.netflix.com/title/1067948",
+      "year": "1993",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt0108399",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ5OGMwMDAtMzcyOS00YTA4LWEwM2MtOTA1MDZjZGEyYmI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Detroit, a pop-culture enthusiast steals cocaine from his new wife's pimp and tries to sell it in Hollywood, prompting the mobsters who own the drugs to pursue the couple.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Tony Scott",
+      "Writer": "Quentin Tarantino, Roger Avary",
+      "Actors": "Christian Slater, Patricia Arquette, Dennis Hopper",
+      "Language": "English, Italian",
+      "Country": "United States, France"
+    },
+    {
       "title": "The Fifth Element",
       "netflix_url": "https://www.netflix.com/title/1154386",
       "year": "1997",
@@ -241,6 +258,23 @@
       "Country": "India"
     },
     {
+      "title": "48 Hrs.",
+      "netflix_url": "https://www.netflix.com/title/209534",
+      "year": "1982",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0083511",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQwMzQ1NjItMWU0YS00ZDc0LThlYzUtMDgzOTIzN2QwZTJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him in order to track down a killer.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Walter Hill",
+      "Writer": "Roger Spottiswoode, Walter Hill, Larry Gross",
+      "Actors": "Nick Nolte, Eddie Murphy, Annette O'Toole",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Election",
       "netflix_url": "https://www.netflix.com/title/21060973",
       "year": "1999",
@@ -309,6 +343,23 @@
       "Country": "United States"
     },
     {
+      "title": "La Bamba",
+      "netflix_url": "https://www.netflix.com/title/281550",
+      "year": "1987",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0093378",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjFiYWM4YjItNzcwMC00NWRkLWJlN2ItMDhhNWRlNDZkNWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Biographical story of the rise from nowhere of early rock and roll singer Ritchie Valens who died at age 17 in a plane crash with Buddy Holly and The Big Bopper.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Luis Valdez",
+      "Writer": "Luis Valdez",
+      "Actors": "Lou Diamond Phillips, Esai Morales, Rosanna DeSoto",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "The Man with the Golden Gun",
       "netflix_url": "https://www.netflix.com/title/28370063",
       "year": "1974",
@@ -360,6 +411,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Breakfast Club",
+      "netflix_url": "https://www.netflix.com/title/330210",
+      "year": "1985",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0088847",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTZiMGU1MWMtNjk0Yi00ZjNjLTljMDEtMDhkNGE2OWY3YzZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Five high school students meet in Saturday detention and discover how they have a great deal more in common than they thought.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Comedy, Drama",
+      "Director": "John Hughes",
+      "Writer": "John Hughes",
+      "Actors": "Emilio Estevez, Judd Nelson, Molly Ringwald",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Dr. No",
       "netflix_url": "https://www.netflix.com/title/458028",
       "year": "1962",
@@ -390,6 +458,23 @@
       "Director": "Phil Alden Robinson",
       "Writer": "W.P. Kinsella, Phil Alden Robinson",
       "Actors": "Kevin Costner, James Earl Jones, Ray Liotta",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Fried Green Tomatoes",
+      "netflix_url": "https://www.netflix.com/title/525209",
+      "year": "1991",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0101921",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzBhMzRkNGItNDFmMy00NjViLWFiYWYtMzAxMzI4YTZmZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Evelyn, an ordinary housewife, visits a nursing home and befriends the old lady Ninny. Together, they bond over stories from the past about two intrepid women of Whistle Stop Cafe.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Drama",
+      "Director": "Jon Avnet",
+      "Writer": "Fannie Flagg, Carol Sobieski",
+      "Actors": "Kathy Bates, Jessica Tandy, Mary Stuart Masterson",
       "Language": "English",
       "Country": "United States"
     },
@@ -598,6 +683,23 @@
       "Country": "United States"
     },
     {
+      "title": "Steel Magnolias",
+      "netflix_url": "https://www.netflix.com/title/60001533",
+      "year": "1989",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0098384",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4MTYyOWYtYjBjNy00NjBiLThhYWEtNzQ2MmE4MzY4ZGI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship, and welcome her into the fold.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Herbert Ross",
+      "Writer": "Robert Harling",
+      "Actors": "Shirley MacLaine, Olympia Dukakis, Sally Field",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Kabhi Kabhie",
       "netflix_url": "https://www.netflix.com/title/60001663",
       "year": "1976",
@@ -613,6 +715,23 @@
       "Actors": "Amitabh Bachchan, Shashi Kapoor, Rakhee Gulzar",
       "Language": "Hindi, Urdu",
       "Country": "India"
+    },
+    {
+      "title": "Meet the Parents",
+      "netflix_url": "https://www.netflix.com/title/60002139",
+      "year": "2000",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0212338",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGI0OTctOGRlMy00MDdjLTg4M2EtNzFmZWNiNDhjYTgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chicago male nurse and chronic under-achiever Greg Focker meets his charming teacher girlfriend Pam Byrnes' parents Jack and Dina before proposing, but suspicious Jack is an overprotective former CIA agent - every date's worst nig...",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Jay Roach",
+      "Writer": "Greg Glienna, Mary Ruth Clarke, Jim Herzfeld",
+      "Actors": "Ben Stiller, Robert De Niro, Teri Polo",
+      "Language": "English, Thai, Spanish, Hebrew, French",
+      "Country": "United States"
     },
     {
       "title": "Best in Show",
@@ -649,6 +768,23 @@
       "Country": "India"
     },
     {
+      "title": "Spider-Man",
+      "netflix_url": "https://www.netflix.com/title/60004481",
+      "year": "2002",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0145487",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Stan Lee, Steve Ditko, David Koepp",
+      "Actors": "Tobey Maguire, Kirsten Dunst, Willem Dafoe",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Same Time, Next Year",
       "netflix_url": "https://www.netflix.com/title/60010851",
       "year": "1978",
@@ -662,6 +798,23 @@
       "Director": "Robert Mulligan",
       "Writer": "Bernard Slade",
       "Actors": "Alan Alda, Ellen Burstyn, Ivan Bonar",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Tootsie",
+      "netflix_url": "https://www.netflix.com/title/60011473",
+      "year": "1982",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0084805",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzc1YjU5NzEtMmZjYi00NzE2LThjMmEtMzY1ZTg5ZjgyM2EzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Sydney Pollack",
+      "Writer": "Don McGuire, Larry Gelbart, Murray Schisgal",
+      "Actors": "Dustin Hoffman, Jessica Lange, Teri Garr",
       "Language": "English",
       "Country": "United States"
     },
@@ -768,6 +921,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "There's Something About Mary",
+      "netflix_url": "https://www.netflix.com/title/60026860",
+      "year": "1998",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0129387",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWZjMDhkZGItOGE4OS00YjUyLTlmOTUtMjE0ZDVmM2I2YmU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man gets a chance to meet up with his dream girl from high school, even though his date with her back then was a complete disaster.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Bobby Farrelly, Peter Farrelly",
+      "Writer": "Ed Decter, John J. Strauss, Peter Farrelly",
+      "Actors": "Cameron Diaz, Matt Dillon, Ben Stiller",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "A Mighty Wind",
       "netflix_url": "https://www.netflix.com/title/60027592",
       "year": "2003",
@@ -850,6 +1020,40 @@
       "Writer": "Spike Lee, Zora Neale Hurston",
       "Actors": "Tracy Camilla Johns, Tommy Redmond Hicks, John Canada Terrell",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Spider-Man 2",
+      "netflix_url": "https://www.netflix.com/title/60036230",
+      "year": "2004",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0316654",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Stan Lee, Steve Ditko, Alfred Gough",
+      "Actors": "Tobey Maguire, Kirsten Dunst, Alfred Molina",
+      "Language": "English, Russian, Chinese",
+      "Country": "United States"
+    },
+    {
+      "title": "Schindler's List",
+      "netflix_url": "https://www.netflix.com/title/60036359",
+      "year": "1993",
+      "imdb_rating": "9.0",
+      "imdb_id": "tt0108052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "Type": "movie",
+      "RunTime": "195 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Steven Spielberg",
+      "Writer": "Thomas Keneally, Steven Zaillian",
+      "Actors": "Liam Neeson, Ralph Fiennes, Ben Kingsley",
+      "Language": "English, Hebrew, German, Polish, Latin",
       "Country": "United States"
     },
     {
@@ -989,6 +1193,23 @@
       "Country": "United States, France"
     },
     {
+      "title": "American Graffiti",
+      "netflix_url": "https://www.netflix.com/title/70019013",
+      "year": "1973",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0069704",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzc5MjUyMWYtMDkyMi00YTc2LTg3ZDMtMjI3MmU3Nzg2YTExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of teenagers in California's central valley spend one final night after their 1962 high school graduation cruising the strip with their buddies before they pursue their varying goals.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Comedy, Drama",
+      "Director": "George Lucas",
+      "Writer": "George Lucas, Gloria Katz, Willard Huyck",
+      "Actors": "Richard Dreyfuss, Ron Howard, Paul Le Mat",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Swades",
       "netflix_url": "https://www.netflix.com/title/70019491",
       "year": "2004",
@@ -1123,6 +1344,23 @@
       "Actors": "Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Borat",
+      "netflix_url": "https://www.netflix.com/title/70050506",
+      "year": "2006",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0443453",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MTQ3NDQ4Ml5BMl5BanBnXkFtZTcwOTQ3OTQzMw@@._V1_SX300.jpg",
+      "Plot": "Kazakh TV talking head Borat is dispatched to the United States to report on the greatest country in the world.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Comedy",
+      "Director": "Larry Charles",
+      "Writer": "Sacha Baron Cohen, Anthony Hines, Peter Baynham",
+      "Actors": "Sacha Baron Cohen, Ken Davitian, Luenell",
+      "Language": "English, Romanian, Hebrew, Polish, Armenian",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Fanaa",
@@ -1261,6 +1499,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Burn After Reading",
+      "netflix_url": "https://www.netflix.com/title/70098606",
+      "year": "2008",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0887883",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjdmNjJjMzAtMmJkMy00MDJlLTgxYjctNDU3YjBkMmJhM2M5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A disk containing mysterious information from a CIA agent ends up in the hands of two unscrupulous and daft gym employees who attempt to sell it.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Ethan Coen, Joel Coen",
+      "Writer": "Joel Coen, Ethan Coen",
+      "Actors": "Brad Pitt, Frances McDormand, George Clooney",
+      "Language": "English",
+      "Country": "United Kingdom, France, United States"
+    },
+    {
       "title": "Rab Ne Bana Di Jodi",
       "netflix_url": "https://www.netflix.com/title/70103521",
       "year": "2008",
@@ -1276,6 +1531,23 @@
       "Actors": "Shah Rukh Khan, Anushka Sharma, Vinay Pathak",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Airport",
+      "netflix_url": "https://www.netflix.com/title/70105184",
+      "year": "1970",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0065377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4NWE5NmItOGRhMC00OGU3LWE1ODgtODZmN2MwZDNmZmY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "George Seaton, Henry Hathaway",
+      "Writer": "Arthur Hailey, George Seaton",
+      "Actors": "Burt Lancaster, Dean Martin, George Kennedy",
+      "Language": "English, Italian",
+      "Country": "United States"
     },
     {
       "title": "The Hurt Locker",
@@ -1538,6 +1810,23 @@
       "Actors": "Tom Cruise, Jeremy Renner, Simon Pegg",
       "Language": "English, Russian, French, Arabic, Swedish",
       "Country": "United States, United Arab Emirates, Russia, Canada, Czech Republic, India"
+    },
+    {
+      "title": "Killer Joe",
+      "netflix_url": "https://www.netflix.com/title/70209632",
+      "year": "2011",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1726669",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDZmNDk5NGUtYTYwOS00MGRlLWFhZjAtOGE2MzMzM2YzNGUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a debt puts a young man's life in danger, he turns to putting a hit out on his evil mother in order to collect the insurance.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "William Friedkin",
+      "Writer": "Tracy Letts",
+      "Actors": "Matthew McConaughey, Emile Hirsch, Juno Temple",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Moonrise Kingdom",
@@ -1810,6 +2099,40 @@
       "Actors": "Amari Avery, Jed Dy, Allan Kournikova",
       "Language": "English, French",
       "Country": "United States"
+    },
+    {
+      "title": "Under the Skin",
+      "netflix_url": "https://www.netflix.com/title/70293812",
+      "year": "2013",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1441395",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_SX300.jpg",
+      "Plot": "A mysterious young woman seduces lonely men in the evening hours in Scotland. However, events lead her to begin a process of self-discovery.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Jonathan Glazer",
+      "Writer": "Walter Campbell, Jonathan Glazer, Michel Faber",
+      "Actors": "Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay",
+      "Language": "English",
+      "Country": "United Kingdom, Switzerland, United States"
+    },
+    {
+      "title": "Locke",
+      "netflix_url": "https://www.netflix.com/title/70295189",
+      "year": "2013",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt2692904",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjE5MzU2M15BMl5BanBnXkFtZTgwNzE4OTMzMTE@._V1_SX300.jpg",
+      "Plot": "Ivan Locke, a dedicated family man and successful construction manager, receives a phone call that sets in motion a series of events that threaten his carefully cultivated existence.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Drama",
+      "Director": "Steven Knight",
+      "Writer": "Steven Knight",
+      "Actors": "Tom Hardy, Olivia Colman, Ruth Wilson",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Chef",
@@ -2152,6 +2475,23 @@
       "Country": "United States"
     },
     {
+      "title": "Slow West",
+      "netflix_url": "https://www.netflix.com/title/80029901",
+      "year": "2015",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt3205376",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTYxNDA5ODk5NF5BMl5BanBnXkFtZTgwNzMwMzIwNTE@._V1_SX300.jpg",
+      "Plot": "A young Scottish man travels across America in pursuit of the woman he loves, attracting the attention of an outlaw who is willing to serve as a guide.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Adventure, Drama, Romance",
+      "Director": "John Maclean",
+      "Writer": "John Maclean",
+      "Actors": "Kodi Smit-McPhee, Caren Pistorius, Aorere Paki",
+      "Language": "English, French, Swedish",
+      "Country": "United Kingdom, New Zealand"
+    },
+    {
       "title": "Pee-wee's Big Holiday",
       "netflix_url": "https://www.netflix.com/title/80031800",
       "year": "2016",
@@ -2166,6 +2506,23 @@
       "Writer": "Paul Reubens, Paul Rust",
       "Actors": "Paul Reubens, Jordan Black, Doug Cox",
       "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
+      "title": "Trainwreck",
+      "netflix_url": "https://www.netflix.com/title/80036402",
+      "year": "2015",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt3152624",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MjgwNTMyOV5BMl5BanBnXkFtZTgwMTc1MjI0NDE@._V1_SX300.jpg",
+      "Plot": "A commitment-phobic career woman who has always thought that monogamy was impossible must face her fears when she meets a good guy.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Judd Apatow",
+      "Writer": "Amy Schumer",
+      "Actors": "Amy Schumer, Bill Hader, Brie Larson",
+      "Language": "English, Mandarin",
       "Country": "United States"
     },
     {
@@ -2336,6 +2693,23 @@
       "Writer": "Jeremy Saulnier",
       "Actors": "Anton Yelchin, Imogen Poots, Alia Shawkat",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Splash",
+      "netflix_url": "https://www.netflix.com/title/80060196",
+      "year": "1984",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0088161",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGM2NDk4ZTgtYmVkZS00OTE4LTk2ZTAtYzc3Nzk4ZGU3NmE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man is reunited with a mermaid he briefly encountered as a boy and falls in love with her without knowing her secret.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Comedy, Fantasy, Romance",
+      "Director": "Ron Howard",
+      "Writer": "Brian Grazer, Bruce Jay Friedman, Lowell Ganz",
+      "Actors": "Tom Hanks, Daryl Hannah, Eugene Levy",
+      "Language": "English, Swedish",
       "Country": "United States"
     },
     {
@@ -2633,6 +3007,23 @@
       "Actors": "Shah Rukh Khan, Shriya Pilgaonkar, Sayani Gupta",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Don't Breathe",
+      "netflix_url": "https://www.netflix.com/title/80100649",
+      "year": "2016",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt4160708",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjAxOTJkMmEtNjg4MC00ODk3LTkwYmUtNjM3YzE5YTk1YTFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three delinquents break into the house of a war veteran who is blind to steal his money. However, they discover that the man is not as defenseless as he seems.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Crime, Horror, Thriller",
+      "Director": "Fede Alvarez",
+      "Writer": "Fede Alvarez, Rodo Sayagues",
+      "Actors": "Stephen Lang, Jane Levy, Dylan Minnette",
+      "Language": "English",
+      "Country": "United States, Hungary"
     },
     {
       "title": "I Don't Feel at Home in This World Anymore",
@@ -3177,6 +3568,23 @@
       "Actors": "Anne Hathaway, Jason Sudeikis, Austin Stowell",
       "Language": "English, Korean",
       "Country": "United States, Spain, Canada, South Korea"
+    },
+    {
+      "title": "Captain Underpants: The First Epic Movie",
+      "netflix_url": "https://www.netflix.com/title/80160689",
+      "year": "2017",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt2091256",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FlOTgyOTctMTE1Ny00MzFhLWE5NjctNTMxNzM5N2I2Yzk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two overly-imaginative pranksters hypnotize their grumpy principal into thinking he's a ridiculously enthusiastic, incredibly dimwitted, underwear-themed superhero.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "David Soren",
+      "Writer": "Nicholas Stoller, Dav Pilkey, David Soren",
+      "Actors": "Kevin Hart, Thomas Middleditch, Ed Helms",
+      "Language": "English, German",
+      "Country": "United States, Canada, France"
     },
     {
       "title": "Cargo",
@@ -3955,6 +4363,23 @@
       "imdb_id": null
     },
     {
+      "title": "The Gospel According to André",
+      "netflix_url": "https://www.netflix.com/title/80221240",
+      "year": "2017",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt7218804",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MjA1Njk1M15BMl5BanBnXkFtZTgwMDI5ODkxNTM@._V1_SX300.jpg",
+      "Plot": "This intimate portrait for André Leon Tally, a fixture in the world of fashion, takes viewers on a journey from André’s roots growing up to becoming one of the most influential tastemakers and fashion curators of our times.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Documentary",
+      "Director": "Kate Novack",
+      "Writer": "N/A",
+      "Actors": "André Leon Talley, Bethann Hardison, Marc Jacobs",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Bikram: Yogi, Guru, Predator",
       "netflix_url": "https://www.netflix.com/title/80221584",
       "year": "2019",
@@ -4499,6 +4924,23 @@
       "Country": "Iceland, Sweden, Belgium"
     },
     {
+      "title": "The Boys in the Band",
+      "netflix_url": "https://www.netflix.com/title/81000365",
+      "year": "2020",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10199914",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODFkOTU5ZDEtY2I1My00NWQyLWJmYTItZjgxZjAxZTU3MjM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "At a birthday party in 1968 New York, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Drama",
+      "Director": "Joe Mantello",
+      "Writer": "Mart Crowley, Ned Martel",
+      "Actors": "Jim Parsons, Zachary Quinto, Matt Bomer",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "The Beautiful Game",
       "netflix_url": "https://www.netflix.com/title/81001287",
       "year": "2024",
@@ -4674,6 +5116,23 @@
       "Actors": "Dev Patel, Alicia Vikander, Joel Edgerton",
       "Language": "English, Latin",
       "Country": "United States, Canada, Ireland"
+    },
+    {
+      "title": "Green Book",
+      "netflix_url": "https://www.netflix.com/title/81013585",
+      "year": "2018",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt6966692",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Peter Farrelly",
+      "Writer": "Nick Vallelonga, Brian Hayes Currie, Peter Farrelly",
+      "Actors": "Viggo Mortensen, Mahershala Ali, Linda Cardellini",
+      "Language": "English, Italian, Russian, German",
+      "Country": "United States, China, Japan"
     },
     {
       "title": "HOMECOMING: A film by Beyoncé",
@@ -5979,6 +6438,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "What We Wanted",
+      "netflix_url": "https://www.netflix.com/title/81233909",
+      "year": "2020",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt13279528",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEyOTJkYzUtYWM2MS00MzIxLWFkYjQtYzhjYmU1ZGE3NjQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A couple facing fertility issues finds their marriage tested on a vacation to a Sardinian resort - and the family next door only adds to the tension.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Drama",
+      "Director": "Ulrike Kofler",
+      "Writer": "Sandra Bohle, Ulrike Kofler, Marie Kreutzer",
+      "Actors": "Lavinia Wilson, Elyas M'Barek, Anna Unterberger",
+      "Language": "German",
+      "Country": "Austria"
+    },
+    {
       "title": "Miracle in Cell No. 7",
       "netflix_url": "https://www.netflix.com/title/81239779",
       "year": "2019",
@@ -7139,6 +7615,23 @@
       "Country": "United States"
     },
     {
+      "title": "Mrs. Harris Goes to Paris",
+      "netflix_url": "https://www.netflix.com/title/81447226",
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt5151570",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmZiNzk2ZGItOTAwNi00M2NiLTgxN2UtMjA2ZjA5ZTQ2YmNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1950s London, a widowed cleaning lady falls madly in love with a couture Dior dress, deciding she must have one. She embarks on an adventure to Paris that will change not only her own outlook -- but the very future of the House...",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Anthony Fabian",
+      "Writer": "Paul Gallico, Carroll Cartwright, Anthony Fabian",
+      "Actors": "Lesley Manville, Isabelle Huppert, Lambert Wilson",
+      "Language": "English, French",
+      "Country": "United Kingdom, Canada, France, Hungary, Belgium"
+    },
+    {
       "title": "Two Distant Strangers",
       "netflix_url": "https://www.netflix.com/title/81447229",
       "year": "2021",
@@ -7923,6 +8416,23 @@
       "Actors": "Jeon Jong-seo, Kim Ji-hoon, Park Yu-rim",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Nope",
+      "netflix_url": "https://www.netflix.com/title/81573297",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10954984",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODRlNWRhZWUtMzdlZC00ZDIyLWFhZjMtYTcxNjI1ZDIwODhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Plot": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling phenomenon.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Horror, Mystery, Sci-Fi",
+      "Director": "Jordan Peele",
+      "Writer": "Jordan Peele",
+      "Actors": "Daniel Kaluuya, Keke Palmer, Brandon Perea",
+      "Language": "English, Spanish",
+      "Country": "United States, Japan, Canada"
     },
     {
       "title": "Brian and Charles",
@@ -9469,6 +9979,23 @@
       "Country": "United States"
     },
     {
+      "title": "Remarkably Bright Creatures",
+      "netflix_url": "https://www.netflix.com/title/81911351",
+      "year": "2026",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt33100314",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzM3OTRlZDktYTk0OS00OTlmLWFhMjctMTZiODU4N2RiYzhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Olivia Newman",
+      "Writer": "Olivia Newman, John Whittington, Shelby Van Pelt",
+      "Actors": "Sally Field, Lewis Pullman, Colm Meaney",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Wild Robot",
       "netflix_url": "https://www.netflix.com/title/81915938",
       "year": "2024",
@@ -10190,6 +10717,23 @@
       "Country": "United States"
     },
     {
+      "title": "Goat",
+      "netflix_url": "https://www.netflix.com/title/82710848",
+      "year": "2026",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt27613895",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5OTJkOGMtYWFiNi00NTlkLWE3ZWItY2ZlNjkyOWVhMjMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tyree Dillihay, Adam Rosette",
+      "Writer": "Aaron Buchsbaum, Teddy Riley, Nicolas Curcio",
+      "Actors": "Caleb McLaughlin, Gabrielle Union, Stephen Curry",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Sisu: Road to Revenge",
       "netflix_url": "https://www.netflix.com/title/82712118",
       "year": "2025",
@@ -10255,6 +10799,23 @@
       "Writer": "Charlie Huston",
       "Actors": "Austin Butler, Regina King, Zoë Kravitz",
       "Language": "English, Spanish, Yiddish",
+      "Country": "United States"
+    },
+    {
+      "title": "Pretty Woman",
+      "netflix_url": "https://www.netflix.com/title/872251",
+      "year": "1990",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0100405",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_SX300.jpg",
+      "Plot": "A corporate raider hires a hooker to act as a business escort in Beverly Hills, California.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Garry Marshall",
+      "Writer": "J.F. Lawton",
+      "Actors": "Richard Gere, Julia Roberts, Jason Alexander",
+      "Language": "English",
       "Country": "United States"
     },
     {

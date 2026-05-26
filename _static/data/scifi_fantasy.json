@@ -190,6 +190,23 @@
       "Country": "India"
     },
     {
+      "title": "Dracula Untold",
+      "netflix_url": "https://www.netflix.com/title/70305899",
+      "year": "2014",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0829150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_SX300.jpg",
+      "Plot": "As his kingdom is being threatened by the Turks, young prince Vlad Tepes must become a monster feared by his own people in order to obtain the power needed to protect his own family, and the families of his kingdom.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "Gary Shore",
+      "Writer": "Matt Sazama, Burk Sharpless, Bram Stoker",
+      "Actors": "Luke Evans, Dominic Cooper, Sarah Gadon",
+      "Language": "English, Turkish",
+      "Country": "United States, Japan"
+    },
+    {
       "title": "The Age of Adaline",
       "netflix_url": "https://www.netflix.com/title/80014426",
       "year": "2015",
@@ -222,6 +239,23 @@
       "Actors": "Jack Black, Dylan Minnette, Odeya Rush",
       "Language": "English, Ukrainian",
       "Country": "United States, Australia"
+    },
+    {
+      "title": "Splash",
+      "netflix_url": "https://www.netflix.com/title/80060196",
+      "year": "1984",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0088161",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGM2NDk4ZTgtYmVkZS00OTE4LTk2ZTAtYzc3Nzk4ZGU3NmE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man is reunited with a mermaid he briefly encountered as a boy and falls in love with her without knowing her secret.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Comedy, Fantasy, Romance",
+      "Director": "Ron Howard",
+      "Writer": "Brian Grazer, Bruce Jay Friedman, Lowell Ganz",
+      "Actors": "Tom Hanks, Daryl Hannah, Eugene Levy",
+      "Language": "English, Swedish",
+      "Country": "United States"
     },
     {
       "title": "The 5th Wave",

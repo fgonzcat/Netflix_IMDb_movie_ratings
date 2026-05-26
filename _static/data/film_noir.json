@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/7687",
   "movies": [
     {
+      "title": "True Romance",
+      "netflix_url": "https://www.netflix.com/title/1067948",
+      "year": "1993",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt0108399",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ5OGMwMDAtMzcyOS00YTA4LWEwM2MtOTA1MDZjZGEyYmI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Detroit, a pop-culture enthusiast steals cocaine from his new wife's pimp and tries to sell it in Hollywood, prompting the mobsters who own the drugs to pursue the couple.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Tony Scott",
+      "Writer": "Quentin Tarantino, Roger Avary",
+      "Actors": "Christian Slater, Patricia Arquette, Dennis Hopper",
+      "Language": "English, Italian",
+      "Country": "United States, France"
+    },
+    {
       "title": "Zodiac",
       "netflix_url": "https://www.netflix.com/title/70044686",
       "year": "2007",
@@ -52,6 +69,23 @@
       "Actors": "Hwang Jung-min, Ryu Seung-beom, Yoo Hae-jin",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Killer Joe",
+      "netflix_url": "https://www.netflix.com/title/70209632",
+      "year": "2011",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1726669",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDZmNDk5NGUtYTYwOS00MGRlLWFhZjAtOGE2MzMzM2YzNGUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a debt puts a young man's life in danger, he turns to putting a hit out on his evil mother in order to collect the insurance.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "William Friedkin",
+      "Writer": "Tracy Letts",
+      "Actors": "Matthew McConaughey, Emile Hirsch, Juno Temple",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Double",

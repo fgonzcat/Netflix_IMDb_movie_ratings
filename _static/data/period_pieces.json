@@ -37,6 +37,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Fried Green Tomatoes",
+      "netflix_url": "https://www.netflix.com/title/525209",
+      "year": "1991",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0101921",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzBhMzRkNGItNDFmMy00NjViLWFiYWYtMzAxMzI4YTZmZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Evelyn, an ordinary housewife, visits a nursing home and befriends the old lady Ninny. Together, they bond over stories from the past about two intrepid women of Whistle Stop Cafe.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Drama",
+      "Director": "Jon Avnet",
+      "Writer": "Fannie Flagg, Carol Sobieski",
+      "Actors": "Kathy Bates, Jessica Tandy, Mary Stuart Masterson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Glory",
       "netflix_url": "https://www.netflix.com/title/547335",
       "year": "1989",
@@ -1452,6 +1469,23 @@
       "Country": "United States"
     },
     {
+      "title": "Washington",
+      "netflix_url": "https://www.netflix.com/title/81299882",
+      "year": "2020",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt10098580",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMTU0MmEtMTA5Mi00NTE4LTk3MjEtZDhiNTliMGEwOTM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The life story of George Washington, the first President of the United States.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Roel Reiné",
+      "Writer": "Matthew Ginsburg",
+      "Actors": "Jeff Daniels, Joanne Freeman, Alan Taylor",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Kingdom: Ashin of the North",
       "netflix_url": "https://www.netflix.com/title/81312457",
       "year": "2021",
@@ -2018,6 +2052,23 @@
       "Actors": "Adi Putra, Beto Kusyairy, Fattah Amin",
       "Language": "Malay, Gujarati, English",
       "Country": "Malaysia"
+    },
+    {
+      "title": "Kesari",
+      "netflix_url": "https://www.netflix.com/title/81587752",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt6264938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmUyYzA3MGQtNzE0Zi00Nzg0LTk4NTAtNDQ3YWQ4M2IwMWYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on an incredible true story of the Battle of Saragarhi in which an army of 21 Sikhs fought against 10,000 Afghans in 1897.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Anurag Singh",
+      "Writer": "Girish Kohli, Anurag Singh",
+      "Actors": "Akshay Kumar, Parineeti Chopra, Suvinder Vicky",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Who Rules the World",

@@ -156,6 +156,23 @@
       "Country": "India"
     },
     {
+      "title": "Burn After Reading",
+      "netflix_url": "https://www.netflix.com/title/70098606",
+      "year": "2008",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0887883",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjdmNjJjMzAtMmJkMy00MDJlLTgxYjctNDU3YjBkMmJhM2M5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A disk containing mysterious information from a CIA agent ends up in the hands of two unscrupulous and daft gym employees who attempt to sell it.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Ethan Coen, Joel Coen",
+      "Writer": "Joel Coen, Ethan Coen",
+      "Actors": "Brad Pitt, Frances McDormand, George Clooney",
+      "Language": "English",
+      "Country": "United Kingdom, France, United States"
+    },
+    {
       "title": "Just Buried",
       "netflix_url": "https://www.netflix.com/title/70108649",
       "year": "2007",
@@ -171,6 +188,23 @@
       "Actors": "Jay Baruchel, Sergio Di Zio, Nigel Bennett",
       "Language": "English, German",
       "Country": "Canada"
+    },
+    {
+      "title": "Jennifer's Body",
+      "netflix_url": "https://www.netflix.com/title/70111322",
+      "year": "2009",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt1131734",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNzYwMjc1Ml5BMl5BanBnXkFtZTcwNDI3MDE3Mg@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "Plot": "A newly-possessed high-school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror?",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Horror",
+      "Director": "Karyn Kusama",
+      "Writer": "Diablo Cody",
+      "Actors": "Megan Fox, Amanda Seyfried, Adam Brody",
+      "Language": "English, Spanish",
+      "Country": "United States, Canada"
     },
     {
       "title": "A Wonderful World",
@@ -976,6 +1010,23 @@
       "Country": "United States"
     },
     {
+      "title": "Ladies First",
+      "netflix_url": "https://www.netflix.com/title/81001524",
+      "year": "2026",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt10098482",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYwNDM2ZWEtYTU3Ni00ODQ1LTk4MWEtMmEwYWIwNjJhZjUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Details the humble beginnings, struggles to find their place, to later becoming the best-selling Gospel group in the music world.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Drama",
+      "Director": "Christine Swanson",
+      "Writer": "Sylvia L. Jones, Camille Tucker",
+      "Actors": "Raven Goodwin, Aunjanue Ellis-Taylor, Demore Barnes",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Babysitter: Killer Queen",
       "netflix_url": "https://www.netflix.com/title/81012366",
       "year": "2020",
@@ -1061,6 +1112,23 @@
       "Country": "Colombia, Argentina"
     },
     {
+      "title": "Zombieland: Double Tap",
+      "netflix_url": "https://www.netflix.com/title/81093420",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1560220",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTViNDc4NTgtYzVlNi00YmY3LWFiNDgtODJlNGU1YzI1MGExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Action, Comedy, Horror",
+      "Director": "Ruben Fleischer",
+      "Writer": "Rhett Reese, Paul Wernick, Dave Callaham",
+      "Actors": "Woody Harrelson, Jesse Eisenberg, Emma Stone",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Ludo",
       "netflix_url": "https://www.netflix.com/title/81107576",
       "year": "2020",
@@ -1134,6 +1202,23 @@
       "Actors": "Felicity Huffman, Anastasia Phillips, Clark Johnson",
       "Language": "English, French, Spanish",
       "Country": "Canada"
+    },
+    {
+      "title": "The Gentlemen",
+      "netflix_url": "https://www.netflix.com/title/81178299",
+      "year": "2020",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt8367814",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2ZjQ4ZGMtZjFhMi00NmI5LTliNjEtODczMWMxNjliZjgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Guy Ritchie",
+      "Writer": "Guy Ritchie, Ivan Atkinson, Marn Davies",
+      "Actors": "Matthew McConaughey, Charlie Hunnam, Michelle Dockery",
+      "Language": "English, Russian, Spanish, Chinese",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "The House",
@@ -2403,6 +2488,13 @@
       "Actors": "Rajisha Vijayan, Divya Prabha, Jagadish",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "netflix_url": "https://www.netflix.com/title/82819898",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Caught Stealing",

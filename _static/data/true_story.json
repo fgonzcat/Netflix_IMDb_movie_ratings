@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/920",
   "movies": [
     {
+      "title": "La Bamba",
+      "netflix_url": "https://www.netflix.com/title/281550",
+      "year": "1987",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0093378",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjFiYWM4YjItNzcwMC00NWRkLWJlN2ItMDhhNWRlNDZkNWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Biographical story of the rise from nowhere of early rock and roll singer Ritchie Valens who died at age 17 in a plane crash with Buddy Holly and The Big Bopper.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Luis Valdez",
+      "Writer": "Luis Valdez",
+      "Actors": "Lou Diamond Phillips, Esai Morales, Rosanna DeSoto",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Glory",
       "netflix_url": "https://www.netflix.com/title/547335",
       "year": "1989",
@@ -78,6 +95,23 @@
       "imdb_id": null
     },
     {
+      "title": "Schindler's List",
+      "netflix_url": "https://www.netflix.com/title/60036359",
+      "year": "1993",
+      "imdb_rating": "9.0",
+      "imdb_id": "tt0108052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "Type": "movie",
+      "RunTime": "195 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Steven Spielberg",
+      "Writer": "Thomas Keneally, Steven Zaillian",
+      "Actors": "Liam Neeson, Ralph Fiennes, Ben Kingsley",
+      "Language": "English, Hebrew, German, Polish, Latin",
+      "Country": "United States"
+    },
+    {
       "title": "Ray",
       "netflix_url": "https://www.netflix.com/title/70001994",
       "year": "2004",
@@ -144,6 +178,23 @@
       "Actors": "Donnie Yen, Simon Yam, Louis Fan",
       "Language": "Cantonese, Mandarin, Japanese, Chinese, English",
       "Country": "Hong Kong, China"
+    },
+    {
+      "title": "Eat Pray Love",
+      "netflix_url": "https://www.netflix.com/title/70130445",
+      "year": "2010",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0879870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5NDkyNzkyM15BMl5BanBnXkFtZTcwNDQyNDk0Mw@@._V1_SX300.jpg",
+      "Plot": "A married woman realizes how unhappy her marriage really is, and that her life needs to go in a different direction. After a painful divorce, she takes off on a round-the-world journey to \"find herself\".",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Ryan Murphy",
+      "Writer": "Ryan Murphy, Jennifer Salt, Elizabeth Gilbert",
+      "Actors": "Julia Roberts, Javier Bardem, Richard Jenkins",
+      "Language": "English, Italian, Portuguese",
+      "Country": "United States, India, Indonesia"
     },
     {
       "title": "Ip Man 2",
@@ -1194,6 +1245,23 @@
       "Writer": "John Fusco",
       "Actors": "Kevin Costner, Woody Harrelson, Kathy Bates",
       "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
+      "title": "I Can Only Imagine",
+      "netflix_url": "https://www.netflix.com/title/80208955",
+      "year": "2018",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt6450186",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5NzQ0ZjMtM2U2Yi00Y2I3LWFhOTgtOGIyNmUwMWNiMzczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The inspiring and unknown true story behind MercyMe's beloved, chart topping song that brings ultimate hope to so many is a gripping reminder of the power of true forgiveness.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Biography, Drama, Family",
+      "Director": "Andrew Erwin, Jon Erwin",
+      "Writer": "Bart Millard, Jon Erwin, Brent Mccorkle",
+      "Actors": "John Michael Finley, Madeline Carroll, Dennis Quaid",
+      "Language": "English",
       "Country": "United States"
     },
     {
@@ -2640,6 +2708,23 @@
       "Country": "India"
     },
     {
+      "title": "The Silent Twins",
+      "netflix_url": "https://www.netflix.com/title/81613814",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt11052678",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzgzZjQ2ODctNTJjMS00MTc2LTg4MWUtNDIwZmE0ZTM3ZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on the lives of June and Jennifer Gibbons, real-life identical twins who grew up in Wales and became known as \"the silent twins\" because of their refusal to communicate with anyone but each other.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Biography, Drama",
+      "Director": "Agnieszka Smoczynska",
+      "Writer": "Andrea Seigel, Marjorie Wallace",
+      "Actors": "Letitia Wright, Tamara Lawrance, Leah Mondesir-Simmonds",
+      "Language": "English",
+      "Country": "Poland, United Kingdom, United States"
+    },
+    {
       "title": "Pain Hustlers",
       "netflix_url": "https://www.netflix.com/title/81614419",
       "year": "2023",
@@ -2774,6 +2859,23 @@
       "Actors": "Chris Bargis, Adrian Tse, Amir Khalifa",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "Ferrari",
+      "netflix_url": "https://www.netflix.com/title/81674654",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt3758542",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmUzYmJiMDMtZjIxNy00ZjBlLThjZDMtMDA1ZDM4MWMwNmI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in the summer of 1957, with Enzo Ferrari's auto empire in crisis, the ex-racer turned entrepreneur pushes himself and his drivers to the edge as they launch into the Mille Miglia, a treacherous 1,000-mile race across Italy.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Michael Mann",
+      "Writer": "Troy Kennedy Martin, Brock Yates",
+      "Actors": "Adam Driver, Shailene Woodley, Giuseppe Festinese",
+      "Language": "English",
+      "Country": "United States, United Kingdom, Saudi Arabia, Italy"
     },
     {
       "title": "Hijack '93",
@@ -3283,6 +3385,23 @@
       "Country": "Canada, United States"
     },
     {
+      "title": "Stolen Baby: The Murder of Heidi Broussard",
+      "netflix_url": "https://www.netflix.com/title/82095253",
+      "year": "2023",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt29280965",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE0MmNhYTAtMTRiYy00Y2Y3LThhNDctOGJlMjU0MmVmMDY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on the true story of Heidi, who was murdered by her friend Magen.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Biography, Thriller",
+      "Director": "Michelle Ouellet",
+      "Writer": "Alexandra Salerno",
+      "Actors": "Emily Osment, Anna Hopkins, Ian Lake",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Gaslit By My Husband: The Morgan Metzer Story",
       "netflix_url": "https://www.netflix.com/title/82095255",
       "year": "2024",
@@ -3347,6 +3466,23 @@
       "Director": "Nicole L. Thompson",
       "Writer": "Peter O'Brien",
       "Actors": "Candice King, Michael Roark, Wendie Malick",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Hoax: The Kidnapping of Sherri Papini",
+      "netflix_url": "https://www.netflix.com/title/82147492",
+      "year": "2023",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt23697628",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjNmOWRmZjItNDIyYy00NDRlLTliZGMtNGIzNWRmNDJiN2QxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2016 Sherri Papini went for a run and didn't come home. This Northern California missing-person case quickly became a national story--especially after she returned and her story about being abducted wasn't adding up.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Crime, Drama",
+      "Director": "Marta Borowski",
+      "Writer": "Katie Boland",
+      "Actors": "Jaime King, Matt Hamilton, Josh Collins",
       "Language": "English",
       "Country": "United States"
     },

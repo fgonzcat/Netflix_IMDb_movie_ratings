@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/4698",
   "movies": [
     {
+      "title": "The Road to El Dorado",
+      "netflix_url": "https://www.netflix.com/title/60000171",
+      "year": "2000",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0138749",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDBmYTEtYjM3MS00NDhkLWFhNjYtZGYxYzA2OGUyZjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two swindlers get their hands on a map to the fabled city of gold, El Dorado.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Bibo Bergeron, Don Paul, Jeffrey Katzenberg",
+      "Writer": "Ted Elliott, Terry Rossio, Karey Kirkpatrick",
+      "Actors": "Kevin Kline, Kenneth Branagh, Rosie Perez",
+      "Language": "English",
+      "Country": "United States, Canada, France"
+    },
+    {
       "title": "The Swan Princess",
       "netflix_url": "https://www.netflix.com/title/60034386",
       "year": "1994",
@@ -18,6 +35,23 @@
       "Actors": "Jack Palance, Howard McGillin, Michelle Nicastro",
       "Language": "English",
       "Country": "United States, South Korea, Japan, Canada"
+    },
+    {
+      "title": "The Land Before Time",
+      "netflix_url": "https://www.netflix.com/title/683101",
+      "year": "1988",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0095489",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYThiYTJkZjAtZWE1OS00YjI3LWEyZjQtZWVmMmI3NjNkYTg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An orphaned brontosaurus teams up with other young dinosaurs in order to reunite with their families in a valley.",
+      "Type": "movie",
+      "RunTime": "69 min",
+      "Genre": "Animation, Adventure, Drama",
+      "Director": "Don Bluth",
+      "Writer": "Stu Krieger, Judy Freudberg, Tony Geiss",
+      "Actors": "Pat Hingle, Helen Shaver, Gabriel Damon",
+      "Language": "English",
+      "Country": "United States, Ireland"
     },
     {
       "title": "Madagascar",
@@ -627,6 +661,23 @@
       "Actors": "N/A",
       "Language": "None",
       "Country": "United States"
+    },
+    {
+      "title": "Home",
+      "netflix_url": "https://www.netflix.com/title/70305922",
+      "year": "2015",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt2224026",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_SX300.jpg",
+      "Plot": "Oh, a lovable misfit alien, runs away from his planet and takes shelter on Earth, where he befriends Tip, an adventurous young girl who is on a quest to find her displaced mother Lucy.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Tim Johnson",
+      "Writer": "Tom J. Astle, Matt Ember, Adam Rex",
+      "Actors": "Jim Parsons, Rihanna, Steve Martin",
+      "Language": "English, French",
+      "Country": "United States, India"
     },
     {
       "title": "Wakfu",
@@ -1497,6 +1548,23 @@
       "Country": "United States, France, Indonesia"
     },
     {
+      "title": "Captain Underpants: The First Epic Movie",
+      "netflix_url": "https://www.netflix.com/title/80160689",
+      "year": "2017",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt2091256",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FlOTgyOTctMTE1Ny00MzFhLWE5NjctNTMxNzM5N2I2Yzk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two overly-imaginative pranksters hypnotize their grumpy principal into thinking he's a ridiculously enthusiastic, incredibly dimwitted, underwear-themed superhero.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "David Soren",
+      "Writer": "Nicholas Stoller, Dav Pilkey, David Soren",
+      "Actors": "Kevin Hart, Thomas Middleditch, Ed Helms",
+      "Language": "English, German",
+      "Country": "United States, Canada, France"
+    },
+    {
       "title": "Sahara",
       "netflix_url": "https://www.netflix.com/title/80161029",
       "year": "2017",
@@ -1951,6 +2019,23 @@
       "Actors": "Robbie Daymond, Dayci Brookshire, Anthony Tedesco",
       "Language": "N/A",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Supa Team 4",
+      "netflix_url": "https://www.netflix.com/title/80205037",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt10241858",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTUzOWU4ZTAtYWNmZC00MzhhLTgwYjAtYzI5NzA0MWU3YzQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows four teenage girls living in a futuristic version of Lusaka, Zambia, who are recruited by a retired secret agent to save the world.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Malenga Mulendema",
+      "Actors": "Esther Mbire, Pamela Nomvete, Kimani Arthur",
+      "Language": "English",
+      "Country": "United States, Zambia, South Africa, United Kingdom"
     },
     {
       "title": "The Nutty Boy",
@@ -7090,6 +7175,23 @@
       "imdb_id": null
     },
     {
+      "title": "Swapped",
+      "netflix_url": "https://www.netflix.com/title/81749852",
+      "year": "2026",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0348159",
+      "Poster": "https://occ-0-1339-1340.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc73oj9KEfFjYhaxEXJy0pefgWBmi5fAXQNEwC4qWjQfW_x1ev3z8Rdapl7U7U1T231BK-z11rT4m-WuU6L49Ezszz7U4oC31muE.jpg?r=136",
+      "Plot": "Ever thought of swapping your Dad for a couple of goldfish?",
+      "Type": "movie",
+      "RunTime": "10 min",
+      "Genre": "Comedy, Family, Short",
+      "Director": "Pierre Monnard",
+      "Writer": "Darran Bragg, Pierre Monnard",
+      "Actors": "Stacey Mills, Nathan Potter, Sean Wellings",
+      "Language": "English",
+      "Country": "Switzerland"
+    },
+    {
       "title": "Miraculous World: New York, United Heroez",
       "netflix_url": "https://www.netflix.com/title/81754915",
       "year": "2020",
@@ -7161,6 +7263,23 @@
       "Director": "N/A",
       "Writer": "Joseph Bennett, Charles Huettner",
       "Actors": "Sunita Mani, Wunmi Mosaku, Bob Stephenson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Mating Season",
+      "netflix_url": "https://www.netflix.com/title/81772673",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt14690136",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWYwODZmMDUtOWY1NC00YTA1LTk0ZWYtMjVkODhkZGE1MjIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Brings out the animal within to unleash our natural instincts in the pursuit of true love.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Comedy, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
       "Language": "English",
       "Country": "United States"
     },
@@ -7722,6 +7841,23 @@
       "Country": "United States"
     },
     {
+      "title": "Gabby's Dollhouse: The Movie",
+      "netflix_url": "https://www.netflix.com/title/82182294",
+      "year": "2025",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt32214143",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmUwNTg3ODMtZGQxZi00Y2VmLWJhMTEtZTc5ZGM1Nzc5MDViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Gabby and Grandma Gigi's road trip takes an unexpected turn when Gabby's prized dollhouse ends up with eccentric cat lady Vera. Gabby embarks on a adventure to reunite the Gabby Cats and retrieve her beloved dollhouse before it's ...",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Ryan Crego",
+      "Writer": "Mike Lew, Rehana Lew Mirza, Adam Wilson",
+      "Actors": "Laila Lockhart Kraner, Kristen Wiig, Gloria Estefan",
+      "Language": "English",
+      "Country": "Canada, United States"
+    },
+    {
       "title": "Unicorn Academy: Holiday Fireplace",
       "netflix_url": "https://www.netflix.com/title/82182451",
       "year": "2025",
@@ -7734,6 +7870,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+      "netflix_url": "https://www.netflix.com/title/82633017",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37895700",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDIzOTQ4YjMtZmNkMC00NzYwLTg0YjUtYTcyYmE4Mzg1YTUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When polar opposites of Ladybug and Cat Noir arrive in Paris, Marinette must team up with Betterfly a reverse Monarch to defeat them.",
+      "Type": "movie",
+      "RunTime": "60 min",
+      "Genre": "Animation",
+      "Director": "Thomas Astruc",
+      "Writer": "N/A",
+      "Actors": "Kelly Baskin, Sabrina Glow, André Gordon",
+      "Language": "English",
+      "Country": "France"
     },
     {
       "title": "Zenon the Farmer: Let’s Sing and Dance",
@@ -7769,6 +7922,23 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Goat",
+      "netflix_url": "https://www.netflix.com/title/82710848",
+      "year": "2026",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt27613895",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5OTJkOGMtYWFiNi00NTlkLWE3ZWItY2ZlNjkyOWVhMjMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tyree Dillihay, Adam Rosette",
+      "Writer": "Aaron Buchsbaum, Teddy Riley, Nicolas Curcio",
+      "Actors": "Caleb McLaughlin, Gabrielle Union, Stephen Curry",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "My Sesame Street Friends: My Abby",

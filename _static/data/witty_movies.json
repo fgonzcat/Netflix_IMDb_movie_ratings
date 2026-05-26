@@ -105,6 +105,23 @@
       "Country": "United States"
     },
     {
+      "title": "Meet the Parents",
+      "netflix_url": "https://www.netflix.com/title/60002139",
+      "year": "2000",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0212338",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGI0OTctOGRlMy00MDdjLTg4M2EtNzFmZWNiNDhjYTgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chicago male nurse and chronic under-achiever Greg Focker meets his charming teacher girlfriend Pam Byrnes' parents Jack and Dina before proposing, but suspicious Jack is an overprotective former CIA agent - every date's worst nig...",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Jay Roach",
+      "Writer": "Greg Glienna, Mary Ruth Clarke, Jim Herzfeld",
+      "Actors": "Ben Stiller, Robert De Niro, Teri Polo",
+      "Language": "English, Thai, Spanish, Hebrew, French",
+      "Country": "United States"
+    },
+    {
       "title": "Best in Show",
       "netflix_url": "https://www.netflix.com/title/60002428",
       "year": "2000",
@@ -137,6 +154,23 @@
       "Actors": "Jason Statham, Brad Pitt, Stephen Graham",
       "Language": "English, Russian",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Tootsie",
+      "netflix_url": "https://www.netflix.com/title/60011473",
+      "year": "1982",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0084805",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzc1YjU5NzEtMmZjYi00NzE2LThjMmEtMzY1ZTg5ZjgyM2EzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Sydney Pollack",
+      "Writer": "Don McGuire, Larry Gelbart, Murray Schisgal",
+      "Actors": "Dustin Hoffman, Jessica Lange, Teri Garr",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Waiting for Guffman",
@@ -255,6 +289,40 @@
       "Writer": "Christopher Guest, Eugene Levy",
       "Actors": "Catherine O'Hara, Harry Shearer, Parker Posey",
       "Language": "English, French",
+      "Country": "United States"
+    },
+    {
+      "title": "Burn After Reading",
+      "netflix_url": "https://www.netflix.com/title/70098606",
+      "year": "2008",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0887883",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjdmNjJjMzAtMmJkMy00MDJlLTgxYjctNDU3YjBkMmJhM2M5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A disk containing mysterious information from a CIA agent ends up in the hands of two unscrupulous and daft gym employees who attempt to sell it.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Ethan Coen, Joel Coen",
+      "Writer": "Joel Coen, Ethan Coen",
+      "Actors": "Brad Pitt, Frances McDormand, George Clooney",
+      "Language": "English",
+      "Country": "United Kingdom, France, United States"
+    },
+    {
+      "title": "The Proposal",
+      "netflix_url": "https://www.netflix.com/title/70112727",
+      "year": "2009",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt1041829",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWU3ZmFhYTktNzU4NS00ZTEyLTkwNTYtMWE1M2JjMTFmODVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When New York editor Margaret faces deportation, she convinces her assistant Andrew to marry her in return for a promotion. However, when she visits his hometown, it changes her in many ways.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Anne Fletcher",
+      "Writer": "Peter Chiarelli",
+      "Actors": "Sandra Bullock, Ryan Reynolds, Mary Steenburgen",
+      "Language": "English",
       "Country": "United States"
     },
     {
@@ -392,6 +460,23 @@
       "Actors": "Steve Coogan, Colm Meaney, Tim Key",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Veronica Mars",
+      "netflix_url": "https://www.netflix.com/title/70298927",
+      "year": "2014",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt2771372",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDc0Mjg4OV5BMl5BanBnXkFtZTgwODk3NjYyMTE@._V1_SX300.jpg",
+      "Plot": "Years after walking away from her past as a young private eye, Veronica Mars gets pulled back to her hometown, just in time for her high school reunion, in order to help her old flame Logan Echolls, who's embroiled in a murder mys...",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Rob Thomas",
+      "Writer": "Rob Thomas, Diane Ruggiero-Wright",
+      "Actors": "Kristen Bell, Jason Dohring, Enrico Colantoni",
+      "Language": "English",
+      "Country": "United States, United Kingdom, France, Germany"
     },
     {
       "title": "Frank",

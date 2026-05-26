@@ -71,6 +71,23 @@
       "Country": "France, United Kingdom"
     },
     {
+      "title": "Waterworld",
+      "netflix_url": "https://www.netflix.com/title/17672132",
+      "year": "1995",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0114898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5ZmQ3NTAtNWVhMi00ZmI2LTg3YTMtN2Q1MmNjYzMwZGI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Kevin Reynolds",
+      "Writer": "Peter Rader, David Twohy",
+      "Actors": "Kevin Costner, Jeanne Tripplehorn, Dennis Hopper",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Ace Ventura: When Nature Calls",
       "netflix_url": "https://www.netflix.com/title/215318",
       "year": "1995",
@@ -224,6 +241,23 @@
       "Country": "Germany, United States"
     },
     {
+      "title": "Spider-Man",
+      "netflix_url": "https://www.netflix.com/title/60004481",
+      "year": "2002",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0145487",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Stan Lee, Steve Ditko, David Koepp",
+      "Actors": "Tobey Maguire, Kirsten Dunst, Willem Dafoe",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Cast Away",
       "netflix_url": "https://www.netflix.com/title/60020683",
       "year": "2000",
@@ -307,6 +341,23 @@
       "Actors": "Daniel Craig, Eva Green, Judi Dench",
       "Language": "English, Serbian, German, Italian, French",
       "Country": "United States, United Kingdom, Czech Republic, Germany, Bahamas, Italy"
+    },
+    {
+      "title": "Spider-Man 3",
+      "netflix_url": "https://www.netflix.com/title/70047101",
+      "year": "2007",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0413300",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Sam Raimi, Ivan Raimi, Alvin Sargent",
+      "Actors": "Tobey Maguire, Kirsten Dunst, Topher Grace",
+      "Language": "English, French",
+      "Country": "United States"
     },
     {
       "title": "Quantum of Solace",
@@ -411,6 +462,23 @@
       "Country": "United States, Germany, Canada, United Kingdom"
     },
     {
+      "title": "Pompeii",
+      "netflix_url": "https://www.netflix.com/title/70291608",
+      "year": "2014",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt1921064",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2MTU3NzYwOF5BMl5BanBnXkFtZTgwOTY4NTk4MDE@._V1_SX300.jpg",
+      "Plot": "A slave-turned-gladiator finds himself in a race against time to save his true love, who has been betrothed to a corrupt Roman Senator. As Mount Vesuvius erupts, he must fight to save his beloved as Pompeii crumbles around him.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Paul W.S. Anderson",
+      "Writer": "Janet Scott Batchler, Lee Batchler, Michael Robert Johnson",
+      "Actors": "Kit Harington, Emily Browning, Kiefer Sutherland",
+      "Language": "English",
+      "Country": "Canada, Germany, United States, United Kingdom"
+    },
+    {
       "title": "The Amazing Spider-Man 2",
       "netflix_url": "https://www.netflix.com/title/70293702",
       "year": "2014",
@@ -426,6 +494,23 @@
       "Actors": "Andrew Garfield, Emma Stone, Jamie Foxx",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Dracula Untold",
+      "netflix_url": "https://www.netflix.com/title/70305899",
+      "year": "2014",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0829150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_SX300.jpg",
+      "Plot": "As his kingdom is being threatened by the Turks, young prince Vlad Tepes must become a monster feared by his own people in order to obtain the power needed to protect his own family, and the families of his kingdom.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "Gary Shore",
+      "Writer": "Matt Sazama, Burk Sharpless, Bram Stoker",
+      "Actors": "Luke Evans, Dominic Cooper, Sarah Gadon",
+      "Language": "English, Turkish",
+      "Country": "United States, Japan"
     },
     {
       "title": "Live and Let Die",
@@ -460,6 +545,23 @@
       "Actors": "Chris Pratt, Bryce Dallas Howard, Ty Simpkins",
       "Language": "English",
       "Country": "United States, Japan"
+    },
+    {
+      "title": "Slow West",
+      "netflix_url": "https://www.netflix.com/title/80029901",
+      "year": "2015",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt3205376",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTYxNDA5ODk5NF5BMl5BanBnXkFtZTgwNzMwMzIwNTE@._V1_SX300.jpg",
+      "Plot": "A young Scottish man travels across America in pursuit of the woman he loves, attracting the attention of an outlaw who is willing to serve as a guide.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Adventure, Drama, Romance",
+      "Director": "John Maclean",
+      "Writer": "John Maclean",
+      "Actors": "Kodi Smit-McPhee, Caren Pistorius, Aorere Paki",
+      "Language": "English, French, Swedish",
+      "Country": "United Kingdom, New Zealand"
     },
     {
       "title": "The Ridiculous 6",
@@ -1357,6 +1459,23 @@
       "Country": "Poland, South Korea, United States"
     },
     {
+      "title": "The Lost City",
+      "netflix_url": "https://www.netflix.com/title/81489832",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt13320622",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjA4YmZjMWItZGNkNS00ODFkLWEwNjUtNGNhMzViZDRmMzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A reclusive romance novelist on a book tour with her cover model gets swept up in a kidnapping attempt that lands them both in a cutthroat jungle adventure.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Aaron Nee, Adam Nee",
+      "Writer": "Oren Uziel, Dana Fox, Adam Nee",
+      "Actors": "Sandra Bullock, Channing Tatum, Daniel Radcliffe",
+      "Language": "English, Spanish, Latin",
+      "Country": "United States"
+    },
+    {
       "title": "Jurassic World: Dominion",
       "netflix_url": "https://www.netflix.com/title/81489837",
       "year": "2022",
@@ -1924,6 +2043,13 @@
       "Actors": "Shanaya Kapoor, Adarsh Gourav, Amruta Khanvilkar",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Raakaasa",
+      "netflix_url": "https://www.netflix.com/title/82180278",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Kingdom",

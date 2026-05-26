@@ -54,6 +54,23 @@
       "Country": "United States, Australia, Switzerland, Canada"
     },
     {
+      "title": "Domestic Disturbance",
+      "netflix_url": "https://www.netflix.com/title/60021888",
+      "year": "2001",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0249478",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxZjFlYjMtZjM3MS00NmI5LWFmZjctMjYxN2NkZTc0MWZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A divorced man suspects that his son's stepfather is not who he appears to be.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Harold Becker",
+      "Writer": "Lewis Colick, William S. Comanor, Gary Drucker",
+      "Actors": "John Travolta, Nick Loren, Matt O'Leary",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Saw",
       "netflix_url": "https://www.netflix.com/title/70003226",
       "year": "2004",
@@ -1225,6 +1242,23 @@
       "Actors": "Ivan Massagué, Zorion Eguileor, Antonia San Juan",
       "Language": "Spanish, Italian, Russian",
       "Country": "Spain"
+    },
+    {
+      "title": "Fatale",
+      "netflix_url": "https://www.netflix.com/title/81128750",
+      "year": "2020",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt8829830",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTdjMTE2ODctODZjNS00NTJmLThjNTgtOGJhZjliMDU1NjYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a one-night stand, a successful married man finds himself entangled in a cunning police detective's latest investigation.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Drama, Mystery, Romance",
+      "Director": "Deon Taylor",
+      "Writer": "David Loughery",
+      "Actors": "Hilary Swank, Michael Ealy, Mike Colter",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Forest of Love",
@@ -3038,6 +3072,23 @@
       "Country": "United States"
     },
     {
+      "title": "Stolen Baby: The Murder of Heidi Broussard",
+      "netflix_url": "https://www.netflix.com/title/82095253",
+      "year": "2023",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt29280965",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE0MmNhYTAtMTRiYy00Y2Y3LThhNDctOGJlMjU0MmVmMDY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on the true story of Heidi, who was murdered by her friend Magen.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Biography, Thriller",
+      "Director": "Michelle Ouellet",
+      "Writer": "Alexandra Salerno",
+      "Actors": "Emily Osment, Anna Hopkins, Ian Lake",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Some Other Woman",
       "netflix_url": "https://www.netflix.com/title/82134929",
       "year": "2023",
@@ -3155,6 +3206,23 @@
       "Actors": "Rami Malek, Russell Crowe, Michael Shannon",
       "Language": "English, German",
       "Country": "United States, Hungary"
+    },
+    {
+      "title": "Single White Female",
+      "netflix_url": "https://www.netflix.com/title/968158",
+      "year": "1992",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0105414",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTUwZjM5MzgtNWYyNC00YjgwLTg5N2MtYTBiMzcwN2FjMjRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman advertising for a new roommate finds that something very strange is going on with the tenant who decides to move in.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Barbet Schroeder",
+      "Writer": "John Lutz, Don Roos",
+      "Actors": "Bridget Fonda, Jennifer Jason Leigh, Steven Weber",
+      "Language": "English",
+      "Country": "United States"
     }
   ]
 }

@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "Striking Distance",
+      "netflix_url": "https://www.netflix.com/title/1008461",
+      "year": "1993",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0108238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGFkNzQyM2YtNWQyMi00NGY1LWJmOGYtMzg2ZGJmM2RlNGNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Coming from a police family, Tom Hardy ends up fighting his uncle after the murder of his father. Tom believes the killer is another cop and goes on the record with his allegations. Demoted then to river duty, the killer taunts Tom.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Action, Crime, Mystery",
+      "Director": "Rowdy Herrington",
+      "Writer": "Rowdy Herrington, Marty Kaplan",
+      "Actors": "Bruce Willis, Sarah Jessica Parker, Dennis Farina",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Thunderball",
       "netflix_url": "https://www.netflix.com/title/1046268",
       "year": "1965",
@@ -486,6 +503,23 @@
       "imdb_id": null
     },
     {
+      "title": "Airport '77",
+      "netflix_url": "https://www.netflix.com/title/60010063",
+      "year": "1977",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0075648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZmNmMxZjMtN2YxZi00ODE2LTg3NTctNDlhMDA5OTM1NDAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Art thieves hijack a 747, hit fog and crash into the ocean, trapping them and the passengers under one hundred feet of water.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Jerry Jameson",
+      "Writer": "Arthur Hailey, Michael Scheff, David Spector",
+      "Actors": "Jack Lemmon, Lee Grant, Joseph Cotten",
+      "Language": "English, Hungarian",
+      "Country": "United States"
+    },
+    {
       "title": "Jaws 2",
       "netflix_url": "https://www.netflix.com/title/60020332",
       "year": "1978",
@@ -535,6 +569,23 @@
       "Actors": "Michael Douglas, Sean Bean, Brittany Murphy",
       "Language": "English, Italian, Chinese",
       "Country": "United States, Australia, Switzerland, Canada"
+    },
+    {
+      "title": "Domestic Disturbance",
+      "netflix_url": "https://www.netflix.com/title/60021888",
+      "year": "2001",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0249478",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxZjFlYjMtZjM3MS00NmI5LWFmZjctMjYxN2NkZTc0MWZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A divorced man suspects that his son's stepfather is not who he appears to be.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Harold Becker",
+      "Writer": "Lewis Colick, William S. Comanor, Gary Drucker",
+      "Actors": "John Travolta, Nick Loren, Matt O'Leary",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "All About the Benjamins",
@@ -741,6 +792,23 @@
       "Country": "United States"
     },
     {
+      "title": "Cleaner",
+      "netflix_url": "https://www.netflix.com/title/70095926",
+      "year": "2007",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0896798",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDAzMGU2ZWItNDJiOS00MjgxLWJlOTMtOTc5MTlkMGI3Njg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A former cop who now earns a wage as a crime scene cleaner unknowingly participates in a cover-up at his latest job.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Renny Harlin",
+      "Writer": "Matthew Aldrich",
+      "Actors": "Samuel L. Jackson, Ed Harris, Eva Mendes",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Quantum of Solace",
       "netflix_url": "https://www.netflix.com/title/70099117",
       "year": "2008",
@@ -756,6 +824,40 @@
       "Actors": "Daniel Craig, Olga Kurylenko, Mathieu Amalric",
       "Language": "English, Spanish, Italian, French, Swiss German, German",
       "Country": "United Kingdom, United States, Italy"
+    },
+    {
+      "title": "Airport 1975",
+      "netflix_url": "https://www.netflix.com/title/70105183",
+      "year": "1974",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt0071110",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODIwZTVkMjItY2Y1MS00ZGUyLWE2M2MtODkxMWM5MGI3ZjFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A 747 in flight collides with a small plane, and is rendered pilotless. Somehow the control tower must get a pilot aboard so the jet can land.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Jack Smight",
+      "Writer": "Arthur Hailey, Don Ingalls",
+      "Actors": "Charlton Heston, Karen Black, George Kennedy",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Airport",
+      "netflix_url": "https://www.netflix.com/title/70105184",
+      "year": "1970",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0065377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4NWE5NmItOGRhMC00OGU3LWE1ODgtODZmN2MwZDNmZmY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "George Seaton, Henry Hathaway",
+      "Writer": "Arthur Hailey, George Seaton",
+      "Actors": "Burt Lancaster, Dean Martin, George Kennedy",
+      "Language": "English, Italian",
+      "Country": "United States"
     },
     {
       "title": "The Hurt Locker",
@@ -789,6 +891,23 @@
       "Writer": "Samantha Power",
       "Actors": "Sergio Vieira de Mello, Tony Blair, Samantha Power",
       "Language": "Spanish, Portuguese, French, English",
+      "Country": "United States"
+    },
+    {
+      "title": "All Good Things",
+      "netflix_url": "https://www.netflix.com/title/70116678",
+      "year": "2010",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt1175709",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwMjIyMTc2Nl5BMl5BanBnXkFtZTcwOTQyMzc5Mw@@._V1_SX300.jpg",
+      "Plot": "David Marks, a real estate scion, is suspected of killing his wife Katie, who disappeared in 1982.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Andrew Jarecki",
+      "Writer": "Marcus Hinchey, Marc Smerling",
+      "Actors": "Ryan Gosling, Kirsten Dunst, Frank Langella",
+      "Language": "English",
       "Country": "United States"
     },
     {
@@ -1064,6 +1183,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Non-Stop",
+      "netflix_url": "https://www.netflix.com/title/70292864",
+      "year": "2014",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt2024469",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI3NzcxMjkzMl5BMl5BanBnXkFtZTgwMDY0NTQ0MDE@._V1_SX300.jpg",
+      "Plot": "An air marshal springs into action during a transatlantic flight after receiving a series of text messages demanding $150 million into an off-shore account, or someone will die every 20 minutes.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Action, Mystery, Thriller",
+      "Director": "Jaume Collet-Serra",
+      "Writer": "John W. Richardson, Chris Roach, Ryan Engle",
+      "Actors": "Liam Neeson, Julianne Moore, Scoot McNairy",
+      "Language": "English, German",
+      "Country": "United Kingdom, France, Canada, United States"
+    },
+    {
       "title": "The Amazing Spider-Man 2",
       "netflix_url": "https://www.netflix.com/title/70293702",
       "year": "2014",
@@ -1079,6 +1215,23 @@
       "Actors": "Andrew Garfield, Emma Stone, Jamie Foxx",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Veronica Mars",
+      "netflix_url": "https://www.netflix.com/title/70298927",
+      "year": "2014",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt2771372",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDc0Mjg4OV5BMl5BanBnXkFtZTgwODk3NjYyMTE@._V1_SX300.jpg",
+      "Plot": "Years after walking away from her past as a young private eye, Veronica Mars gets pulled back to her hometown, just in time for her high school reunion, in order to help her old flame Logan Echolls, who's embroiled in a murder mys...",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Rob Thomas",
+      "Writer": "Rob Thomas, Diane Ruggiero-Wright",
+      "Actors": "Kristen Bell, Jason Dohring, Enrico Colantoni",
+      "Language": "English",
+      "Country": "United States, United Kingdom, France, Germany"
     },
     {
       "title": "Before I Go to Sleep",
@@ -1368,6 +1521,23 @@
       "Actors": "Bryan Cranston, John Leguizamo, Diane Kruger",
       "Language": "English, Spanish",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Don't Breathe",
+      "netflix_url": "https://www.netflix.com/title/80100649",
+      "year": "2016",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt4160708",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjAxOTJkMmEtNjg4MC00ODk3LTkwYmUtNjM3YzE5YTk1YTFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three delinquents break into the house of a war veteran who is blind to steal his money. However, they discover that the man is not as defenseless as he seems.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Crime, Horror, Thriller",
+      "Director": "Fede Alvarez",
+      "Writer": "Fede Alvarez, Rodo Sayagues",
+      "Actors": "Stephen Lang, Jane Levy, Dylan Minnette",
+      "Language": "English",
+      "Country": "United States, Hungary"
     },
     {
       "title": "Shimmer Lake",
@@ -1759,6 +1929,23 @@
       "Actors": "Ben Affleck, Oscar Isaac, Charlie Hunnam",
       "Language": "English, Spanish, Portuguese",
       "Country": "United States, Colombia"
+    },
+    {
+      "title": "Den of Thieves",
+      "netflix_url": "https://www.netflix.com/title/80196448",
+      "year": "2018",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt1259528",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyODcwMDAyM15BMl5BanBnXkFtZTgwOTA4MjIwNDI@._V1_SX300.jpg",
+      "Plot": "An elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew clash as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+      "Type": "movie",
+      "RunTime": "140 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Christian Gudegast",
+      "Writer": "Christian Gudegast, Paul T. Scheuring",
+      "Actors": "Gerard Butler, Pablo Schreiber, O'Shea Jackson Jr.",
+      "Language": "English, Polynesian, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Bird Box",
@@ -3253,6 +3440,23 @@
       "Director": "Tyler Perry",
       "Writer": "Tyler Perry",
       "Actors": "Crystal Fox, Phylicia Rashad, Bresha Webb",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Fatale",
+      "netflix_url": "https://www.netflix.com/title/81128750",
+      "year": "2020",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt8829830",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTdjMTE2ODctODZjNS00NTJmLThjNTgtOGJhZjliMDU1NjYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a one-night stand, a successful married man finds himself entangled in a cunning police detective's latest investigation.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Drama, Mystery, Romance",
+      "Director": "Deon Taylor",
+      "Writer": "David Loughery",
+      "Actors": "Hilary Swank, Michael Ealy, Mike Colter",
       "Language": "English",
       "Country": "United States"
     },
@@ -5727,6 +5931,23 @@
       "Country": "India"
     },
     {
+      "title": "Nope",
+      "netflix_url": "https://www.netflix.com/title/81573297",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10954984",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODRlNWRhZWUtMzdlZC00ZDIyLWFhZjMtYTcxNjI1ZDIwODhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Plot": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling phenomenon.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Horror, Mystery, Sci-Fi",
+      "Director": "Jordan Peele",
+      "Writer": "Jordan Peele",
+      "Actors": "Daniel Kaluuya, Keke Palmer, Brandon Perea",
+      "Language": "English, Spanish",
+      "Country": "United States, Japan, Canada"
+    },
+    {
       "title": "Mea Culpa",
       "netflix_url": "https://www.netflix.com/title/81577005",
       "year": "2024",
@@ -7610,6 +7831,20 @@
       "imdb_id": null
     },
     {
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "netflix_url": "https://www.netflix.com/title/82819898",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Oru Durooha Saahacharyathil​",
+      "netflix_url": "https://www.netflix.com/title/82846785",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Thammudu",
       "netflix_url": "https://www.netflix.com/title/83072495",
       "year": "2025",
@@ -7657,6 +7892,23 @@
       "Director": "Harold Becker",
       "Writer": "Richard Price",
       "Actors": "Al Pacino, Ellen Barkin, John Goodman",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Single White Female",
+      "netflix_url": "https://www.netflix.com/title/968158",
+      "year": "1992",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0105414",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTUwZjM5MzgtNWYyNC00YjgwLTg5N2MtYTBiMzcwN2FjMjRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman advertising for a new roommate finds that something very strange is going on with the tenant who decides to move in.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Barbet Schroeder",
+      "Writer": "John Lutz, Don Roos",
+      "Actors": "Bridget Fonda, Jennifer Jason Leigh, Steven Weber",
       "Language": "English",
       "Country": "United States"
     }

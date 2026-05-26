@@ -190,6 +190,23 @@
       "Country": "United States"
     },
     {
+      "title": "Tootsie",
+      "netflix_url": "https://www.netflix.com/title/60011473",
+      "year": "1982",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0084805",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzc1YjU5NzEtMmZjYi00NzE2LThjMmEtMzY1ZTg5ZjgyM2EzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Sydney Pollack",
+      "Writer": "Don McGuire, Larry Gelbart, Murray Schisgal",
+      "Actors": "Dustin Hoffman, Jessica Lange, Teri Garr",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Moulin Rouge!",
       "netflix_url": "https://www.netflix.com/title/60021659",
       "year": "2001",
@@ -205,6 +222,23 @@
       "Actors": "Nicole Kidman, Ewan McGregor, John Leguizamo",
       "Language": "English, French, Spanish",
       "Country": "Australia, United States"
+    },
+    {
+      "title": "Schindler's List",
+      "netflix_url": "https://www.netflix.com/title/60036359",
+      "year": "1993",
+      "imdb_rating": "9.0",
+      "imdb_id": "tt0108052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "Type": "movie",
+      "RunTime": "195 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Steven Spielberg",
+      "Writer": "Thomas Keneally, Steven Zaillian",
+      "Actors": "Liam Neeson, Ralph Fiennes, Ben Kingsley",
+      "Language": "English, Hebrew, German, Polish, Latin",
+      "Country": "United States"
     },
     {
       "title": "Ray",
@@ -239,6 +273,23 @@
       "Actors": "Peter Sallis, Helena Bonham Carter, Ralph Fiennes",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Airport",
+      "netflix_url": "https://www.netflix.com/title/70105184",
+      "year": "1970",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0065377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4NWE5NmItOGRhMC00OGU3LWE1ODgtODZmN2MwZDNmZmY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "George Seaton, Henry Hathaway",
+      "Writer": "Arthur Hailey, George Seaton",
+      "Actors": "Burt Lancaster, Dean Martin, George Kennedy",
+      "Language": "English, Italian",
+      "Country": "United States"
     },
     {
       "title": "The Hurt Locker",
@@ -579,6 +630,23 @@
       "Actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld",
       "Language": "English, Spanish",
       "Country": "Canada, United States"
+    },
+    {
+      "title": "Green Book",
+      "netflix_url": "https://www.netflix.com/title/81013585",
+      "year": "2018",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt6966692",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Peter Farrelly",
+      "Writer": "Nick Vallelonga, Brian Hayes Currie, Peter Farrelly",
+      "Actors": "Viggo Mortensen, Mahershala Ali, Linda Cardellini",
+      "Language": "English, Italian, Russian, German",
+      "Country": "United States, China, Japan"
     },
     {
       "title": "Free Solo",

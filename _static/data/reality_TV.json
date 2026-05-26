@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "The First 48",
+      "netflix_url": "https://www.netflix.com/title/70148134",
+      "year": "2025",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt0423652",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTdiMzc0YTgtNDMyNC00ZDMyLWFlNTMtMWQwMjliZDgwNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The series follows detectives during the hours immediately following a homicide.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Crime, Mystery, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dion Graham, Nathan Schilling, Jason White",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Say Yes to the Dress",
       "netflix_url": "https://www.netflix.com/title/70155605",
       "year": "2021",
@@ -5337,6 +5354,13 @@
       "Country": "South Korea"
     },
     {
+      "title": "Love Is Blind: Poland",
+      "netflix_url": "https://www.netflix.com/title/81908907",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Members Only: Palm Beach",
       "netflix_url": "https://www.netflix.com/title/81915922",
       "year": "2025",
@@ -5522,6 +5546,13 @@
       "Actors": "Bear Grylls",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Desi Bling",
+      "netflix_url": "https://www.netflix.com/title/81990239",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Pop the Balloon LIVE",
@@ -5730,6 +5761,23 @@
       "Actors": "Kim Na-young, Jung Jae Hyung",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Pop Culture Jeopardy!",
+      "netflix_url": "https://www.netflix.com/title/82152397",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32367963",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2M2OGRlMWYtMTM0NC00MjQzLWIyZjktYjE1MDllYjc3MTdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "High-stakes quiz show pitting teams against each other on pop culture knowledge. Covering everything from music to movies, contestants compete tournament-style for prizes and bragging rights. Expertise across generations is key to...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Game-Show",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Colin Jost",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Homicide Squad: New Orleans",

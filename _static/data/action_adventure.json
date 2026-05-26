@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/1365",
   "movies": [
     {
+      "title": "Striking Distance",
+      "netflix_url": "https://www.netflix.com/title/1008461",
+      "year": "1993",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0108238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGFkNzQyM2YtNWQyMi00NGY1LWJmOGYtMzg2ZGJmM2RlNGNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Coming from a police family, Tom Hardy ends up fighting his uncle after the murder of his father. Tom believes the killer is another cop and goes on the record with his allegations. Demoted then to river duty, the killer taunts Tom.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Action, Crime, Mystery",
+      "Director": "Rowdy Herrington",
+      "Writer": "Rowdy Herrington, Marty Kaplan",
+      "Actors": "Bruce Willis, Sarah Jessica Parker, Dennis Farina",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Terminator",
       "netflix_url": "https://www.netflix.com/title/1032625",
       "year": "1984",
@@ -156,6 +173,23 @@
       "Country": "United States"
     },
     {
+      "title": "Starship Troopers",
+      "netflix_url": "https://www.netflix.com/title/1181616",
+      "year": "1997",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0120201",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTNiOGM1ZWUtZTZjZC00OWJmLWE2YzUtZjQ4ODZjZmVlMDU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Humans, in a fascist militaristic future, wage war with giant alien bugs.",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Paul Verhoeven",
+      "Writer": "Edward Neumeier, Robert A. Heinlein",
+      "Actors": "Casper Van Dien, Denise Richards, Dina Meyer",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Godzilla",
       "netflix_url": "https://www.netflix.com/title/11819467",
       "year": "1998",
@@ -188,6 +222,40 @@
       "Actors": "Pierce Brosnan, Jonathan Pryce, Michelle Yeoh",
       "Language": "English, German, Danish, Mandarin, Cantonese",
       "Country": "United Kingdom, United States, Spain"
+    },
+    {
+      "title": "Waterworld",
+      "netflix_url": "https://www.netflix.com/title/17672132",
+      "year": "1995",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0114898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5ZmQ3NTAtNWVhMi00ZmI2LTg3YTMtN2Q1MmNjYzMwZGI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Kevin Reynolds",
+      "Writer": "Peter Rader, David Twohy",
+      "Actors": "Kevin Costner, Jeanne Tripplehorn, Dennis Hopper",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "48 Hrs.",
+      "netflix_url": "https://www.netflix.com/title/209534",
+      "year": "1982",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0083511",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQwMzQ1NjItMWU0YS00ZDc0LThlYzUtMDgzOTIzN2QwZTJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him in order to track down a killer.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Walter Hill",
+      "Writer": "Roger Spottiswoode, Walter Hill, Larry Gross",
+      "Actors": "Nick Nolte, Eddie Murphy, Annette O'Toole",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Ace Ventura: When Nature Calls",
@@ -717,6 +785,40 @@
       "Country": "Germany, United States"
     },
     {
+      "title": "Spider-Man",
+      "netflix_url": "https://www.netflix.com/title/60004481",
+      "year": "2002",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0145487",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Stan Lee, Steve Ditko, David Koepp",
+      "Actors": "Tobey Maguire, Kirsten Dunst, Willem Dafoe",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Airport '77",
+      "netflix_url": "https://www.netflix.com/title/60010063",
+      "year": "1977",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0075648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZmNmMxZjMtN2YxZi00ODE2LTg3NTctNDlhMDA5OTM1NDAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Art thieves hijack a 747, hit fog and crash into the ocean, trapping them and the passengers under one hundred feet of water.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Jerry Jameson",
+      "Writer": "Arthur Hailey, Michael Scheff, David Spector",
+      "Actors": "Jack Lemmon, Lee Grant, Joseph Cotten",
+      "Language": "English, Hungarian",
+      "Country": "United States"
+    },
+    {
       "title": "Wyatt Earp",
       "netflix_url": "https://www.netflix.com/title/60011597",
       "year": "1994",
@@ -921,6 +1023,23 @@
       "Country": "Switzerland, United Kingdom, United States, Mexico"
     },
     {
+      "title": "Spider-Man 2",
+      "netflix_url": "https://www.netflix.com/title/60036230",
+      "year": "2004",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0316654",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Stan Lee, Steve Ditko, Alfred Gough",
+      "Actors": "Tobey Maguire, Kirsten Dunst, Alfred Molina",
+      "Language": "English, Russian, Chinese",
+      "Country": "United States"
+    },
+    {
       "title": "Johnny Mnemonic",
       "netflix_url": "https://www.netflix.com/title/656804",
       "year": "1995",
@@ -1108,6 +1227,23 @@
       "Country": "United States, United Kingdom, Czech Republic, Germany, Bahamas, Italy"
     },
     {
+      "title": "Spider-Man 3",
+      "netflix_url": "https://www.netflix.com/title/70047101",
+      "year": "2007",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0413300",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Sam Raimi, Ivan Raimi, Alvin Sargent",
+      "Actors": "Tobey Maguire, Kirsten Dunst, Topher Grace",
+      "Language": "English, French",
+      "Country": "United States"
+    },
+    {
       "title": "Dhoom: 2",
       "netflix_url": "https://www.netflix.com/title/70059536",
       "year": "2006",
@@ -1225,6 +1361,23 @@
       "Actors": "Liam Neeson, Bradley Cooper, Sharlto Copley",
       "Language": "English, Spanish, French, Swahili, German",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "Airport",
+      "netflix_url": "https://www.netflix.com/title/70105184",
+      "year": "1970",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0065377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4NWE5NmItOGRhMC00OGU3LWE1ODgtODZmN2MwZDNmZmY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "George Seaton, Henry Hathaway",
+      "Writer": "Arthur Hailey, George Seaton",
+      "Actors": "Burt Lancaster, Dean Martin, George Kennedy",
+      "Language": "English, Italian",
+      "Country": "United States"
     },
     {
       "title": "The Hurt Locker",
@@ -1720,6 +1873,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Berlin File",
+      "netflix_url": "https://www.netflix.com/title/70270715",
+      "year": "2013",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt2357377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0OTY4MDE2NV5BMl5BanBnXkFtZTgwOTQyMjEyMjE@._V1_SX300.jpg",
+      "Plot": "Jong-seong, a North Korean ghost agent, interrupts an illegal arms sale in Berlin. A notorious North Korean agent tests the loyalties of everyone involved as Jong-Seong prepares to make the ultimate sacrifice.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Thriller",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Ted Geoghegan, Stefanie Y. Hong, Ryoo Seung-wan",
+      "Actors": "Ha Jung-woo, Han Suk-kyu, Ryu Seung-beom",
+      "Language": "Korean, English, German",
+      "Country": "South Korea"
+    },
+    {
       "title": "Naruto Shippuden: The Movie: The Lost Tower",
       "netflix_url": "https://www.netflix.com/title/70275937",
       "year": "2010",
@@ -1805,6 +1975,40 @@
       "Country": "India, United States"
     },
     {
+      "title": "Pompeii",
+      "netflix_url": "https://www.netflix.com/title/70291608",
+      "year": "2014",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt1921064",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2MTU3NzYwOF5BMl5BanBnXkFtZTgwOTY4NTk4MDE@._V1_SX300.jpg",
+      "Plot": "A slave-turned-gladiator finds himself in a race against time to save his true love, who has been betrothed to a corrupt Roman Senator. As Mount Vesuvius erupts, he must fight to save his beloved as Pompeii crumbles around him.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Paul W.S. Anderson",
+      "Writer": "Janet Scott Batchler, Lee Batchler, Michael Robert Johnson",
+      "Actors": "Kit Harington, Emily Browning, Kiefer Sutherland",
+      "Language": "English",
+      "Country": "Canada, Germany, United States, United Kingdom"
+    },
+    {
+      "title": "Non-Stop",
+      "netflix_url": "https://www.netflix.com/title/70292864",
+      "year": "2014",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt2024469",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI3NzcxMjkzMl5BMl5BanBnXkFtZTgwMDY0NTQ0MDE@._V1_SX300.jpg",
+      "Plot": "An air marshal springs into action during a transatlantic flight after receiving a series of text messages demanding $150 million into an off-shore account, or someone will die every 20 minutes.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Action, Mystery, Thriller",
+      "Director": "Jaume Collet-Serra",
+      "Writer": "John W. Richardson, Chris Roach, Ryan Engle",
+      "Actors": "Liam Neeson, Julianne Moore, Scoot McNairy",
+      "Language": "English, German",
+      "Country": "United Kingdom, France, Canada, United States"
+    },
+    {
       "title": "Rurouni Kenshin: Origins",
       "netflix_url": "https://www.netflix.com/title/70293105",
       "year": "2012",
@@ -1871,6 +2075,23 @@
       "Actors": "Salman Khan, Jacqueline Fernandez, Nawazuddin Siddiqui",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Dracula Untold",
+      "netflix_url": "https://www.netflix.com/title/70305899",
+      "year": "2014",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0829150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_SX300.jpg",
+      "Plot": "As his kingdom is being threatened by the Turks, young prince Vlad Tepes must become a monster feared by his own people in order to obtain the power needed to protect his own family, and the families of his kingdom.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "Gary Shore",
+      "Writer": "Matt Sazama, Burk Sharpless, Bram Stoker",
+      "Actors": "Luke Evans, Dominic Cooper, Sarah Gadon",
+      "Language": "English, Turkish",
+      "Country": "United States, Japan"
     },
     {
       "title": "Fury",
@@ -2179,6 +2400,23 @@
       "Country": "United States, Japan"
     },
     {
+      "title": "Slow West",
+      "netflix_url": "https://www.netflix.com/title/80029901",
+      "year": "2015",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt3205376",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTYxNDA5ODk5NF5BMl5BanBnXkFtZTgwNzMwMzIwNTE@._V1_SX300.jpg",
+      "Plot": "A young Scottish man travels across America in pursuit of the woman he loves, attracting the attention of an outlaw who is willing to serve as a guide.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Adventure, Drama, Romance",
+      "Director": "John Maclean",
+      "Writer": "John Maclean",
+      "Actors": "Kodi Smit-McPhee, Caren Pistorius, Aorere Paki",
+      "Language": "English, French, Swedish",
+      "Country": "United Kingdom, New Zealand"
+    },
+    {
       "title": "Pixels",
       "netflix_url": "https://www.netflix.com/title/80037476",
       "year": "2015",
@@ -2415,6 +2653,23 @@
       "Actors": "Chloë Grace Moretz, Matthew Zuk, Gabriela Lopez",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Veteran",
+      "netflix_url": "https://www.netflix.com/title/80068011",
+      "year": "2015",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt4768764",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI1Y2FkMDItMmMxNi00ZmJhLWEzMGUtOTdiOTc4YmZiOGE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An honest cop seeks justice for a common man against all odds. A rich boy seeks revenge on the cop.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Ryoo Seung-wan",
+      "Writer": "Ryoo Seung-wan",
+      "Actors": "Hwang Jung-min, Yoo Ah-in, Yoo Hae-jin",
+      "Language": "Korean, Russian, English",
+      "Country": "South Korea"
     },
     {
       "title": "Ip Man 3",
@@ -3153,6 +3408,23 @@
       "Actors": "Ahmed Sylla, Alice Belaïdi, Kévin Razy",
       "Language": "French, English, German, Nepali",
       "Country": "France"
+    },
+    {
+      "title": "Den of Thieves",
+      "netflix_url": "https://www.netflix.com/title/80196448",
+      "year": "2018",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt1259528",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyODcwMDAyM15BMl5BanBnXkFtZTgwOTA4MjIwNDI@._V1_SX300.jpg",
+      "Plot": "An elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew clash as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+      "Type": "movie",
+      "RunTime": "140 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Christian Gudegast",
+      "Writer": "Christian Gudegast, Paul T. Scheuring",
+      "Actors": "Gerard Butler, Pablo Schreiber, O'Shea Jackson Jr.",
+      "Language": "English, Polynesian, Spanish",
+      "Country": "United States"
     },
     {
       "title": "One Piece Film Z",
@@ -4551,6 +4823,23 @@
       "Actors": "Thabo Rametsi, Arnold Vosloo, Noxolo Dlamini",
       "Language": "English, Afrikaans",
       "Country": "South Africa"
+    },
+    {
+      "title": "The Gentlemen",
+      "netflix_url": "https://www.netflix.com/title/81178299",
+      "year": "2020",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt8367814",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2ZjQ4ZGMtZjFhMi00NmI5LTliNjEtODczMWMxNjliZjgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Guy Ritchie",
+      "Writer": "Guy Ritchie, Ivan Atkinson, Marn Davies",
+      "Actors": "Matthew McConaughey, Charlie Hunnam, Michelle Dockery",
+      "Language": "English, Russian, Spanish, Chinese",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Day Shift",
@@ -6306,6 +6595,23 @@
       "Country": "Netherlands"
     },
     {
+      "title": "The Lost City",
+      "netflix_url": "https://www.netflix.com/title/81489832",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt13320622",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjA4YmZjMWItZGNkNS00ODFkLWEwNjUtNGNhMzViZDRmMzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A reclusive romance novelist on a book tour with her cover model gets swept up in a kidnapping attempt that lands them both in a cutthroat jungle adventure.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Aaron Nee, Adam Nee",
+      "Writer": "Oren Uziel, Dana Fox, Adam Nee",
+      "Actors": "Sandra Bullock, Channing Tatum, Daniel Radcliffe",
+      "Language": "English, Spanish, Latin",
+      "Country": "United States"
+    },
+    {
       "title": "Jurassic World: Dominion",
       "netflix_url": "https://www.netflix.com/title/81489837",
       "year": "2022",
@@ -6862,6 +7168,23 @@
       "Actors": "Kenshô Ono, Miyu Tomita, Noriko Hidaka",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Kesari",
+      "netflix_url": "https://www.netflix.com/title/81587752",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt6264938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmUyYzA3MGQtNzE0Zi00Nzg0LTk4NTAtNDQ3YWQ4M2IwMWYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on an incredible true story of the Battle of Saragarhi in which an army of 21 Sikhs fought against 10,000 Afghans in 1897.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Anurag Singh",
+      "Writer": "Girish Kohli, Anurag Singh",
+      "Actors": "Akshay Kumar, Parineeti Chopra, Suvinder Vicky",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Tiger Zinda Hai",
@@ -8543,6 +8866,13 @@
       "Country": "South Korea"
     },
     {
+      "title": "My Dearest Assassin",
+      "netflix_url": "https://www.netflix.com/title/81775348",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Cells At Work!",
       "netflix_url": "https://www.netflix.com/title/81779207",
       "year": "2024",
@@ -9101,6 +9431,23 @@
       "Country": "Japan"
     },
     {
+      "title": "OVERLORD:The Sacred Kingdom",
+      "netflix_url": "https://www.netflix.com/title/82040442",
+      "year": "2024",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt14603848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWI0ZjQ3ZTYtZGU5NC00NmU1LTlkMzMtMmY1OGM4NjRiZDljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Momonga, now known as the Sorcerer King Ains Ooal Gown, rallies the Sorcerer Kingdom and its undead army to join the fight alongside the Sacred Kingdom and the Slane Theocracy in hopes to defeat the Demon Emperor Jaldabaoth.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Naoyuki Itô",
+      "Writer": "Naoyuki Itô, Kugane Maruyama",
+      "Actors": "Satoshi Hino, Yumi Hara, Masayuki Katô",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "GATAO: Like Father Like Son",
       "netflix_url": "https://www.netflix.com/title/82045318",
       "year": "2024",
@@ -9189,6 +9536,23 @@
       "Director": "Michael Dowse",
       "Writer": "Gary Scott Thompson, Tom O'Connor",
       "Actors": "Dave Bautista, Jack Champion, Bobby Cannavale",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Biker",
+      "netflix_url": "https://www.netflix.com/title/82109243",
+      "year": "2026",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt0326769",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAxNTY1NzA4MzJeQTJeQWpwZ15BbWU2MDQzMTMzNw@@._V1_SX300.jpg",
+      "Plot": "A son of the leader of a legendary group of an urban biker gang tries to retain his championship title.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Drama",
+      "Director": "Reggie Rock Bythewood",
+      "Writer": "Michael Gougis, Craig Fernandez, Reggie Rock Bythewood",
+      "Actors": "Laurence Fishburne, Derek Luke, Orlando Jones",
       "Language": "English",
       "Country": "United States"
     },
@@ -9293,6 +9657,13 @@
       "Actors": "Po-Hung Lin, Vivian Sung, Bo-Chieh Wang",
       "Language": "Mandarin, Min Nan",
       "Country": "Taiwan"
+    },
+    {
+      "title": "Raakaasa",
+      "netflix_url": "https://www.netflix.com/title/82180278",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Akhanda 2: Thaandavam",
@@ -9493,6 +9864,20 @@
       "Actors": "Rajisha Vijayan, Divya Prabha, Jagadish",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Dhurandhar The Revenge (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813021",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dhurandhar (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813816",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Thammudu",

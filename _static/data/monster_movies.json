@@ -61,6 +61,23 @@
       "Country": "United States"
     },
     {
+      "title": "Dracula Untold",
+      "netflix_url": "https://www.netflix.com/title/70305899",
+      "year": "2014",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0829150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_SX300.jpg",
+      "Plot": "As his kingdom is being threatened by the Turks, young prince Vlad Tepes must become a monster feared by his own people in order to obtain the power needed to protect his own family, and the families of his kingdom.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "Gary Shore",
+      "Writer": "Matt Sazama, Burk Sharpless, Bram Stoker",
+      "Actors": "Luke Evans, Dominic Cooper, Sarah Gadon",
+      "Language": "English, Turkish",
+      "Country": "United States, Japan"
+    },
+    {
       "title": "Colossal",
       "netflix_url": "https://www.netflix.com/title/80158202",
       "year": "2016",
@@ -432,6 +449,23 @@
       "Country": "United States"
     },
     {
+      "title": "Nope",
+      "netflix_url": "https://www.netflix.com/title/81573297",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10954984",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODRlNWRhZWUtMzdlZC00ZDIyLWFhZjMtYTcxNjI1ZDIwODhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Plot": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling phenomenon.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Horror, Mystery, Sci-Fi",
+      "Director": "Jordan Peele",
+      "Writer": "Jordan Peele",
+      "Actors": "Daniel Kaluuya, Keke Palmer, Brandon Perea",
+      "Language": "English, Spanish",
+      "Country": "United States, Japan, Canada"
+    },
+    {
       "title": "The Witcher Bestiary Season 2",
       "netflix_url": "https://www.netflix.com/title/81593746",
       "year": "2022",
@@ -534,6 +568,13 @@
       "title": "Your Monster",
       "netflix_url": "https://www.netflix.com/title/82161427",
       "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Raakaasa",
+      "netflix_url": "https://www.netflix.com/title/82180278",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     }

@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/9584",
   "movies": [
     {
+      "title": "Striking Distance",
+      "netflix_url": "https://www.netflix.com/title/1008461",
+      "year": "1993",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0108238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGFkNzQyM2YtNWQyMi00NGY1LWJmOGYtMzg2ZGJmM2RlNGNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Coming from a police family, Tom Hardy ends up fighting his uncle after the murder of his father. Tom believes the killer is another cop and goes on the record with his allegations. Demoted then to river duty, the killer taunts Tom.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Action, Crime, Mystery",
+      "Director": "Rowdy Herrington",
+      "Writer": "Rowdy Herrington, Marty Kaplan",
+      "Actors": "Bruce Willis, Sarah Jessica Parker, Dennis Farina",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Money Talks",
       "netflix_url": "https://www.netflix.com/title/1179583",
       "year": "1997",
@@ -35,6 +52,23 @@
       "Actors": "Vinod Khanna, Dimple Kapadia, Jackie Shroff",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "48 Hrs.",
+      "netflix_url": "https://www.netflix.com/title/209534",
+      "year": "1982",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0083511",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQwMzQ1NjItMWU0YS00ZDc0LThlYzUtMDgzOTIzN2QwZTJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him in order to track down a killer.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Walter Hill",
+      "Writer": "Roger Spottiswoode, Walter Hill, Larry Gross",
+      "Actors": "Nick Nolte, Eddie Murphy, Annette O'Toole",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Ace Ventura: When Nature Calls",
@@ -904,6 +938,23 @@
       "Country": "United States, Colombia"
     },
     {
+      "title": "Den of Thieves",
+      "netflix_url": "https://www.netflix.com/title/80196448",
+      "year": "2018",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt1259528",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyODcwMDAyM15BMl5BanBnXkFtZTgwOTA4MjIwNDI@._V1_SX300.jpg",
+      "Plot": "An elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew clash as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+      "Type": "movie",
+      "RunTime": "140 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Christian Gudegast",
+      "Writer": "Christian Gudegast, Paul T. Scheuring",
+      "Actors": "Gerard Butler, Pablo Schreiber, O'Shea Jackson Jr.",
+      "Language": "English, Polynesian, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "The Last Days of American Crime",
       "netflix_url": "https://www.netflix.com/title/80198975",
       "year": "2020",
@@ -1361,6 +1412,23 @@
       "Actors": "Thabo Rametsi, Arnold Vosloo, Noxolo Dlamini",
       "Language": "English, Afrikaans",
       "Country": "South Africa"
+    },
+    {
+      "title": "The Gentlemen",
+      "netflix_url": "https://www.netflix.com/title/81178299",
+      "year": "2020",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt8367814",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2ZjQ4ZGMtZjFhMi00NmI5LTliNjEtODczMWMxNjliZjgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Guy Ritchie",
+      "Writer": "Guy Ritchie, Ivan Atkinson, Marn Davies",
+      "Actors": "Matthew McConaughey, Charlie Hunnam, Michelle Dockery",
+      "Language": "English, Russian, Spanish, Chinese",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "The Out-Laws",
@@ -3523,6 +3591,20 @@
       "Actors": "Rajisha Vijayan, Divya Prabha, Jagadish",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Dhurandhar The Revenge (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813021",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dhurandhar (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813816",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Ride",

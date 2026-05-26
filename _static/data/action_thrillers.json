@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/43048",
   "movies": [
     {
+      "title": "Striking Distance",
+      "netflix_url": "https://www.netflix.com/title/1008461",
+      "year": "1993",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0108238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGFkNzQyM2YtNWQyMi00NGY1LWJmOGYtMzg2ZGJmM2RlNGNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Coming from a police family, Tom Hardy ends up fighting his uncle after the murder of his father. Tom believes the killer is another cop and goes on the record with his allegations. Demoted then to river duty, the killer taunts Tom.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Action, Crime, Mystery",
+      "Director": "Rowdy Herrington",
+      "Writer": "Rowdy Herrington, Marty Kaplan",
+      "Actors": "Bruce Willis, Sarah Jessica Parker, Dennis Farina",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Thunderball",
       "netflix_url": "https://www.netflix.com/title/1046268",
       "year": "1965",
@@ -428,6 +445,23 @@
       "Country": "United Kingdom, United States, Iceland, France"
     },
     {
+      "title": "Airport '77",
+      "netflix_url": "https://www.netflix.com/title/60010063",
+      "year": "1977",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0075648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZmNmMxZjMtN2YxZi00ODE2LTg3NTctNDlhMDA5OTM1NDAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Art thieves hijack a 747, hit fog and crash into the ocean, trapping them and the passengers under one hundred feet of water.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Jerry Jameson",
+      "Writer": "Arthur Hailey, Michael Scheff, David Spector",
+      "Actors": "Jack Lemmon, Lee Grant, Joseph Cotten",
+      "Language": "English, Hungarian",
+      "Country": "United States"
+    },
+    {
       "title": "The One",
       "netflix_url": "https://www.netflix.com/title/60021777",
       "year": "2001",
@@ -700,6 +734,40 @@
       "Country": "United States, United Kingdom"
     },
     {
+      "title": "Airport 1975",
+      "netflix_url": "https://www.netflix.com/title/70105183",
+      "year": "1974",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt0071110",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODIwZTVkMjItY2Y1MS00ZGUyLWE2M2MtODkxMWM5MGI3ZjFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A 747 in flight collides with a small plane, and is rendered pilotless. Somehow the control tower must get a pilot aboard so the jet can land.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Jack Smight",
+      "Writer": "Arthur Hailey, Don Ingalls",
+      "Actors": "Charlton Heston, Karen Black, George Kennedy",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Airport",
+      "netflix_url": "https://www.netflix.com/title/70105184",
+      "year": "1970",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0065377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4NWE5NmItOGRhMC00OGU3LWE1ODgtODZmN2MwZDNmZmY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "George Seaton, Henry Hathaway",
+      "Writer": "Arthur Hailey, George Seaton",
+      "Actors": "Burt Lancaster, Dean Martin, George Kennedy",
+      "Language": "English, Italian",
+      "Country": "United States"
+    },
+    {
       "title": "The Hurt Locker",
       "netflix_url": "https://www.netflix.com/title/70105601",
       "year": "2008",
@@ -953,6 +1021,23 @@
       "Actors": "Aamir Khan, Katrina Kaif, Abhishek Bachchan",
       "Language": "Hindi, English",
       "Country": "India, United States"
+    },
+    {
+      "title": "Non-Stop",
+      "netflix_url": "https://www.netflix.com/title/70292864",
+      "year": "2014",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt2024469",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI3NzcxMjkzMl5BMl5BanBnXkFtZTgwMDY0NTQ0MDE@._V1_SX300.jpg",
+      "Plot": "An air marshal springs into action during a transatlantic flight after receiving a series of text messages demanding $150 million into an off-shore account, or someone will die every 20 minutes.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Action, Mystery, Thriller",
+      "Director": "Jaume Collet-Serra",
+      "Writer": "John W. Richardson, Chris Roach, Ryan Engle",
+      "Actors": "Liam Neeson, Julianne Moore, Scoot McNairy",
+      "Language": "English, German",
+      "Country": "United Kingdom, France, Canada, United States"
     },
     {
       "title": "Gunday",
@@ -1480,6 +1565,23 @@
       "Actors": "Ben Affleck, Oscar Isaac, Charlie Hunnam",
       "Language": "English, Spanish, Portuguese",
       "Country": "United States, Colombia"
+    },
+    {
+      "title": "Den of Thieves",
+      "netflix_url": "https://www.netflix.com/title/80196448",
+      "year": "2018",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt1259528",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyODcwMDAyM15BMl5BanBnXkFtZTgwOTA4MjIwNDI@._V1_SX300.jpg",
+      "Plot": "An elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew clash as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+      "Type": "movie",
+      "RunTime": "140 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Christian Gudegast",
+      "Writer": "Christian Gudegast, Paul T. Scheuring",
+      "Actors": "Gerard Butler, Pablo Schreiber, O'Shea Jackson Jr.",
+      "Language": "English, Polynesian, Spanish",
+      "Country": "United States"
     },
     {
       "title": "The Last Days of American Crime",
@@ -3928,6 +4030,20 @@
       "Actors": "Jorma Tommila, Stephen Lang, Richard Brake",
       "Language": "English, Finnish",
       "Country": "Finland, United Kingdom"
+    },
+    {
+      "title": "Dhurandhar The Revenge (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813021",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dhurandhar (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813816",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Thammudu",

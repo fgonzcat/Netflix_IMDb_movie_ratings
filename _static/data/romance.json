@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/8883",
   "movies": [
     {
+      "title": "True Romance",
+      "netflix_url": "https://www.netflix.com/title/1067948",
+      "year": "1993",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt0108399",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ5OGMwMDAtMzcyOS00YTA4LWEwM2MtOTA1MDZjZGEyYmI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Detroit, a pop-culture enthusiast steals cocaine from his new wife's pimp and tries to sell it in Hollywood, prompting the mobsters who own the drugs to pursue the couple.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Tony Scott",
+      "Writer": "Quentin Tarantino, Roger Avary",
+      "Actors": "Christian Slater, Patricia Arquette, Dennis Hopper",
+      "Language": "English, Italian",
+      "Country": "United States, France"
+    },
+    {
       "title": "Titanic",
       "netflix_url": "https://www.netflix.com/title/1181461",
       "year": "1997",
@@ -135,6 +152,23 @@
       "Director": "Yash Chopra",
       "Writer": "Honey Irani, Rahi Masoom Reza",
       "Actors": "Anil Kapoor, Sridevi, Anupam Kher",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Chandni",
+      "netflix_url": "https://www.netflix.com/title/20254789",
+      "year": "1989",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0097045",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjAwNjFmNjktOGIxYy00MGE1LWIzNjYtZGZjOGYyZDZkNWM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Fate leaves Chandni shattered as her love Rohit disappears from her life. She meets Lalit and they befriend each other until Rohit knocks on her door.",
+      "Type": "movie",
+      "RunTime": "186 min",
+      "Genre": "Drama, Musical, Romance",
+      "Director": "Yash Chopra",
+      "Writer": "Kamna Chandra, Umesh Kalbagh, Arun Kaul",
+      "Actors": "Sridevi, Rishi Kapoor, Vinod Khanna",
       "Language": "Hindi",
       "Country": "India"
     },
@@ -360,6 +394,23 @@
       "Country": "United States"
     },
     {
+      "title": "Tootsie",
+      "netflix_url": "https://www.netflix.com/title/60011473",
+      "year": "1982",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0084805",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzc1YjU5NzEtMmZjYi00NzE2LThjMmEtMzY1ZTg5ZjgyM2EzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Sydney Pollack",
+      "Writer": "Don McGuire, Larry Gelbart, Murray Schisgal",
+      "Actors": "Dustin Hoffman, Jessica Lange, Teri Garr",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Angel Eyes",
       "netflix_url": "https://www.netflix.com/title/60020681",
       "year": "2001",
@@ -445,6 +496,23 @@
       "Country": "United States"
     },
     {
+      "title": "There's Something About Mary",
+      "netflix_url": "https://www.netflix.com/title/60026860",
+      "year": "1998",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0129387",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWZjMDhkZGItOGE4OS00YjUyLTlmOTUtMjE0ZDVmM2I2YmU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man gets a chance to meet up with his dream girl from high school, even though his date with her back then was a complete disaster.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Bobby Farrelly, Peter Farrelly",
+      "Writer": "Ed Decter, John J. Strauss, Peter Farrelly",
+      "Actors": "Cameron Diaz, Matt Dillon, Ben Stiller",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Alex and Emma",
       "netflix_url": "https://www.netflix.com/title/60027723",
       "year": "2003",
@@ -501,6 +569,23 @@
       "Actors": "Vivek Oberoi, Rani Mukerji, Shah Rukh Khan",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "13 Going on 30",
+      "netflix_url": "https://www.netflix.com/title/60034573",
+      "year": "2004",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0337563",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "Plot": "Unpopular schoolgirl Jenna Rink makes an unusual wish on her birthday. Miraculously, her wish comes true and the 13-year-old Jenna wakes up the next day as a 30-year-old woman.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Fantasy, Romance",
+      "Director": "Gary Winick",
+      "Writer": "Josh Goldsmith, Cathy Yuspa",
+      "Actors": "Jennifer Garner, Mark Ruffalo, Judy Greer",
+      "Language": "English, Portuguese",
+      "Country": "United States"
     },
     {
       "title": "She's Gotta Have It",
@@ -690,6 +775,23 @@
       "Country": "India"
     },
     {
+      "title": "Hitch",
+      "netflix_url": "https://www.netflix.com/title/70019506",
+      "year": "2005",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0386588",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzYyNzM2NzM2NF5BMl5BanBnXkFtZTcwNjg5NTQzMw@@._V1_SX300.jpg",
+      "Plot": "A smooth-talking man falls for a hardened columnist while helping a shy accountant woo a beautiful heiress.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Andy Tennant",
+      "Writer": "Kevin Bisch",
+      "Actors": "Will Smith, Eva Mendes, Kevin James",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Mr. & Mrs. Smith",
       "netflix_url": "https://www.netflix.com/title/70021641",
       "year": "2005",
@@ -858,6 +960,23 @@
       "Actors": "Edward Norton, Jessica Biel, Paul Giamatti",
       "Language": "English",
       "Country": "United States, Czech Republic"
+    },
+    {
+      "title": "Catch and Release",
+      "netflix_url": "https://www.netflix.com/title/70044592",
+      "year": "2006",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0395495",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk2NjU1MjMyNV5BMl5BanBnXkFtZTcwMzc5NjE0MQ@@._V1_SX300.jpg",
+      "Plot": "A woman struggles to accept the death of her fiancé and the secrets he kept from her as she rebuilds her life.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Susannah Grant",
+      "Writer": "Susannah Grant",
+      "Actors": "Jennifer Garner, Timothy Olyphant, Kevin Smith",
+      "Language": "English, Sanskrit",
+      "Country": "United States"
     },
     {
       "title": "Fanaa",
@@ -1030,6 +1149,23 @@
       "Country": "Taiwan"
     },
     {
+      "title": "27 Dresses",
+      "netflix_url": "https://www.netflix.com/title/70082269",
+      "year": "2008",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0988595",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWM3ZjRiNGUtNmZkMy00YWNkLWI5MGUtYWI1NTc5NGVkODJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "After serving as a bridesmaid 27 times, a young woman wrestles with the idea of standing by her sister's side as her sibling marries the man she's secretly in love with.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Anne Fletcher",
+      "Writer": "Aline Brosh McKenna",
+      "Actors": "Katherine Heigl, James Marsden, Malin Akerman",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Om Shanti Om",
       "netflix_url": "https://www.netflix.com/title/70083535",
       "year": "2007",
@@ -1200,6 +1336,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Proposal",
+      "netflix_url": "https://www.netflix.com/title/70112727",
+      "year": "2009",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt1041829",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWU3ZmFhYTktNzU4NS00ZTEyLTkwNTYtMWE1M2JjMTFmODVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When New York editor Margaret faces deportation, she convinces her assistant Andrew to marry her in return for a promotion. However, when she visits his hometown, it changes her in many ways.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Anne Fletcher",
+      "Writer": "Peter Chiarelli",
+      "Actors": "Sandra Bullock, Ryan Reynolds, Mary Steenburgen",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Did You Hear About the Morgans?",
       "netflix_url": "https://www.netflix.com/title/70119197",
       "year": "2009",
@@ -1300,6 +1453,23 @@
       "Actors": "Madeline Carroll, Callan McAuliffe, Rebecca De Mornay",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Eat Pray Love",
+      "netflix_url": "https://www.netflix.com/title/70130445",
+      "year": "2010",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0879870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5NDkyNzkyM15BMl5BanBnXkFtZTcwNDQyNDk0Mw@@._V1_SX300.jpg",
+      "Plot": "A married woman realizes how unhappy her marriage really is, and that her life needs to go in a different direction. After a painful divorce, she takes off on a round-the-world journey to \"find herself\".",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Ryan Murphy",
+      "Writer": "Ryan Murphy, Jennifer Salt, Elizabeth Gilbert",
+      "Actors": "Julia Roberts, Javier Bardem, Richard Jenkins",
+      "Language": "English, Italian, Portuguese",
+      "Country": "United States, India, Indonesia"
     },
     {
       "title": "A Little Bit of Heaven",
@@ -1421,6 +1591,23 @@
       "Country": "India"
     },
     {
+      "title": "Jumping the Broom",
+      "netflix_url": "https://www.netflix.com/title/70178639",
+      "year": "2011",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt1640484",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NjA3OTQ0OF5BMl5BanBnXkFtZTcwOTQ1NjA2NA@@._V1_SX300.jpg",
+      "Plot": "Two very different families converge on Martha's Vineyard one weekend for a wedding.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Salim Akil",
+      "Writer": "Elizabeth Hunter, Arlene Gibbs",
+      "Actors": "Paula Patton, Laz Alonso, Angela Bassett",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Luv Ka The End",
       "netflix_url": "https://www.netflix.com/title/70189512",
       "year": "2011",
@@ -1436,6 +1623,23 @@
       "Actors": "Shraddha Kapoor, Taha Shah Badussha, Errol Peter Marks",
       "Language": "Hindi, English",
       "Country": "India"
+    },
+    {
+      "title": "The Five-Year Engagement",
+      "netflix_url": "https://www.netflix.com/title/70208103",
+      "year": "2012",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt1195478",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3MDE1NTA3M15BMl5BanBnXkFtZTcwNDcwNTMxNw@@._V1_SX300.jpg",
+      "Plot": "One year after meeting, Tom proposes to his girlfriend, Violet, but unexpected events keep tripping them up as they look to walk down the aisle together.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Nicholas Stoller",
+      "Writer": "Jason Segel, Nicholas Stoller",
+      "Actors": "Jason Segel, Emily Blunt, Chris Pratt",
+      "Language": "English, Spanish",
+      "Country": "United States, Japan"
     },
     {
       "title": "Take This Waltz",
@@ -1562,6 +1766,23 @@
       "Actors": "Saoirse Ronan, Max Irons, Jake Abel",
       "Language": "English",
       "Country": "United States, Switzerland"
+    },
+    {
+      "title": "Safe Haven",
+      "netflix_url": "https://www.netflix.com/title/70243574",
+      "year": "2013",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1702439",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MzcxODA3OV5BMl5BanBnXkFtZTcwMTYzNDkwOQ@@._V1_SX300.jpg",
+      "Plot": "A young woman with a mysterious past lands in Southport, North Carolina where her bond with a widower forces her to confront the dark secret that haunts her.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Drama, Romance, Thriller",
+      "Director": "Lasse Hallström",
+      "Writer": "Dana Stevens, Gage Lansky, Nicholas Sparks",
+      "Actors": "Julianne Hough, Josh Duhamel, Cobie Smulders",
+      "Language": "English, Portuguese",
+      "Country": "United States"
     },
     {
       "title": "Ishaqzaade",
@@ -1700,6 +1921,23 @@
       "Country": "India"
     },
     {
+      "title": "The Best Man Holiday",
+      "netflix_url": "https://www.netflix.com/title/70276715",
+      "year": "2013",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt2083355",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjU0MTI1MDg5Ml5BMl5BanBnXkFtZTgwNzc2MTMzMDE@._V1_SX300.jpg",
+      "Plot": "When college friends reunite after 15 years over the Christmas holidays, they discover just how easy it is for long-forgotten rivalries and romances to be reignited.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Malcolm D. Lee",
+      "Writer": "Malcolm D. Lee",
+      "Actors": "Monica Calhoun, Morris Chestnut, Melissa De Sousa",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Romeo & Juliet",
       "netflix_url": "https://www.netflix.com/title/70281528",
       "year": "2013",
@@ -1732,6 +1970,23 @@
       "Actors": "Sushant Singh Rajput, Parineeti Chopra, Rishi Kapoor",
       "Language": "Hindi, Rajasthani",
       "Country": "India"
+    },
+    {
+      "title": "Pompeii",
+      "netflix_url": "https://www.netflix.com/title/70291608",
+      "year": "2014",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt1921064",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2MTU3NzYwOF5BMl5BanBnXkFtZTgwOTY4NTk4MDE@._V1_SX300.jpg",
+      "Plot": "A slave-turned-gladiator finds himself in a race against time to save his true love, who has been betrothed to a corrupt Roman Senator. As Mount Vesuvius erupts, he must fight to save his beloved as Pompeii crumbles around him.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Paul W.S. Anderson",
+      "Writer": "Janet Scott Batchler, Lee Batchler, Michael Robert Johnson",
+      "Actors": "Kit Harington, Emily Browning, Kiefer Sutherland",
+      "Language": "English",
+      "Country": "Canada, Germany, United States, United Kingdom"
     },
     {
       "title": "Knight of Cups",
@@ -1815,6 +2070,23 @@
       "Director": "Gillian Robespierre",
       "Writer": "Gillian Robespierre, Karen Maine, Elisabeth Holm",
       "Actors": "Jenny Slate, Jake Lacy, Gaby Hoffmann",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "And So It Goes",
+      "netflix_url": "https://www.netflix.com/title/70301352",
+      "year": "2014",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt2465146",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwNDAwODY2MF5BMl5BanBnXkFtZTgwMDI2MTUxMjE@._V1_SX300.jpg",
+      "Plot": "A self-absorbed realtor enlists the help of his neighbor when he's suddenly left in charge of the granddaughter he never knew existed until his estranged son drops her off at his home.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Rob Reiner",
+      "Writer": "Mark Andrus",
+      "Actors": "Michael Douglas, Diane Keaton, Sterling Jerins",
       "Language": "English",
       "Country": "United States"
     },
@@ -1955,6 +2227,23 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "Trainwreck",
+      "netflix_url": "https://www.netflix.com/title/80036402",
+      "year": "2015",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt3152624",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MjgwNTMyOV5BMl5BanBnXkFtZTgwMTc1MjI0NDE@._V1_SX300.jpg",
+      "Plot": "A commitment-phobic career woman who has always thought that monogamy was impossible must face her fears when she meets a good guy.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Judd Apatow",
+      "Writer": "Amy Schumer",
+      "Actors": "Amy Schumer, Bill Hader, Brie Larson",
+      "Language": "English, Mandarin",
+      "Country": "United States"
+    },
+    {
       "title": "The Last: Naruto the Movie",
       "netflix_url": "https://www.netflix.com/title/80037677",
       "year": "2014",
@@ -2020,6 +2309,23 @@
       "Writer": "Hannah Fidell",
       "Actors": "Taissa Farmiga, Ben Rosenfield, Lindsay Burdge",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Splash",
+      "netflix_url": "https://www.netflix.com/title/80060196",
+      "year": "1984",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0088161",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGM2NDk4ZTgtYmVkZS00OTE4LTk2ZTAtYzc3Nzk4ZGU3NmE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man is reunited with a mermaid he briefly encountered as a boy and falls in love with her without knowing her secret.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Comedy, Fantasy, Romance",
+      "Director": "Ron Howard",
+      "Writer": "Brian Grazer, Bruce Jay Friedman, Lowell Ganz",
+      "Actors": "Tom Hanks, Daryl Hannah, Eugene Levy",
+      "Language": "English, Swedish",
       "Country": "United States"
     },
     {
@@ -6134,6 +6440,23 @@
       "Country": "Philippines"
     },
     {
+      "title": "Wild Mountain Thyme",
+      "netflix_url": "https://www.netflix.com/title/81457263",
+      "year": "2020",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt6842770",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc1NjcxMjEtMjU1Yy00MGY4LThjNzgtZTUyZDA5NWQ2ZGIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A pair of star-crossed lovers in Ireland get caught up in their family's land dispute.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "John Patrick Shanley",
+      "Writer": "John Patrick Shanley",
+      "Actors": "Emily Blunt, Jamie Dornan, Jon Hamm",
+      "Language": "English",
+      "Country": "United States, Ireland, United Kingdom"
+    },
+    {
       "title": "Mother of the Bride",
       "netflix_url": "https://www.netflix.com/title/81459080",
       "year": "2024",
@@ -6459,6 +6782,23 @@
       "Actors": "Roma Gasiorowska, Wojciech Zielinski, Maciej Musial",
       "Language": "Polish",
       "Country": "Poland"
+    },
+    {
+      "title": "The Lost City",
+      "netflix_url": "https://www.netflix.com/title/81489832",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt13320622",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjA4YmZjMWItZGNkNS00ODFkLWEwNjUtNGNhMzViZDRmMzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A reclusive romance novelist on a book tour with her cover model gets swept up in a kidnapping attempt that lands them both in a cutthroat jungle adventure.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Aaron Nee, Adam Nee",
+      "Writer": "Oren Uziel, Dana Fox, Adam Nee",
+      "Actors": "Sandra Bullock, Channing Tatum, Daniel Radcliffe",
+      "Language": "English, Spanish, Latin",
+      "Country": "United States"
     },
     {
       "title": "Don't Kill Me",
@@ -7969,6 +8309,13 @@
       "imdb_id": null
     },
     {
+      "title": "Takkar (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81705149",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Meet the Khumalos",
       "netflix_url": "https://www.netflix.com/title/81708891",
       "year": "2025",
@@ -8316,6 +8663,23 @@
       "Country": "Turkey"
     },
     {
+      "title": "Je m’appelle Agneta",
+      "netflix_url": "https://www.netflix.com/title/81735935",
+      "year": "2026",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt31828554",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWE3NmMxZjItNTUyYy00NDcwLTgwOTgtNDQwNTU1ODk0MGFiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "Agneta, 49, is vibrant but seems invisible. Her kids have left home, her traffic office job is stuck, and she feels unseen. Meanwhile, her husband has found purpose through cold plunges and pricey cycling gear.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Comedy",
+      "Director": "Johanna Runevad",
+      "Writer": "Emma Hamberg, Isabel Nylund, Johanna Runevad",
+      "Actors": "Eva Melander, Claes Månsson, Jérémie Covillault",
+      "Language": "Swedish, French, English",
+      "Country": "Sweden"
+    },
+    {
       "title": "Same Day with Someone",
       "netflix_url": "https://www.netflix.com/title/81736913",
       "year": "2025",
@@ -8457,6 +8821,23 @@
       "Actors": "N/A",
       "Language": "Arabic",
       "Country": "Kuwait"
+    },
+    {
+      "title": "You, Always",
+      "netflix_url": "https://www.netflix.com/title/81750000",
+      "year": "2025",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0068555",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjVjYTkwZTktMDc1NS00ZGJjLTg2ODctY2FlZTE1ZjY1YTJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Seven stories are trying to answer the question: what is sex? Or maybe they are not trying.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Comedy",
+      "Director": "Woody Allen",
+      "Writer": "David Reuben, Woody Allen",
+      "Actors": "Woody Allen, Gene Wilder, Louise Lasser",
+      "Language": "English, Italian",
+      "Country": "United States"
     },
     {
       "title": "Reversi",
@@ -8692,6 +9073,13 @@
       "Actors": "Kriti Sanon, Dhanush, Mohd. Zeeshan Ayyub",
       "Language": "Hindi, Tamil, Telugu",
       "Country": "India"
+    },
+    {
+      "title": "My Dearest Assassin",
+      "netflix_url": "https://www.netflix.com/title/81775348",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "French Lover",
@@ -9115,6 +9503,13 @@
     {
       "title": "18th Rose",
       "netflix_url": "https://www.netflix.com/title/81930905",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bride of the Year",
+      "netflix_url": "https://www.netflix.com/title/81933871",
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
@@ -10230,6 +10625,23 @@
       "Director": "Luke Matheny",
       "Writer": "Dean Young",
       "Actors": "Matt LeBlanc, Ali Larter, Adam Rodriguez",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Pretty Woman",
+      "netflix_url": "https://www.netflix.com/title/872251",
+      "year": "1990",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0100405",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_SX300.jpg",
+      "Plot": "A corporate raider hires a hooker to act as a business escort in Beverly Hills, California.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Garry Marshall",
+      "Writer": "J.F. Lawton",
+      "Actors": "Richard Gere, Julia Roberts, Jason Alexander",
       "Language": "English",
       "Country": "United States"
     }

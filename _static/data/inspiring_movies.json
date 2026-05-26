@@ -71,6 +71,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Land Before Time",
+      "netflix_url": "https://www.netflix.com/title/683101",
+      "year": "1988",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0095489",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYThiYTJkZjAtZWE1OS00YjI3LWEyZjQtZWVmMmI3NjNkYTg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An orphaned brontosaurus teams up with other young dinosaurs in order to reunite with their families in a valley.",
+      "Type": "movie",
+      "RunTime": "69 min",
+      "Genre": "Animation, Adventure, Drama",
+      "Director": "Don Bluth",
+      "Writer": "Stu Krieger, Judy Freudberg, Tony Geiss",
+      "Actors": "Pat Hingle, Helen Shaver, Gabriel Damon",
+      "Language": "English",
+      "Country": "United States, Ireland"
+    },
+    {
       "title": "A League of Their Own",
       "netflix_url": "https://www.netflix.com/title/691124",
       "year": "1992",
@@ -604,6 +621,23 @@
       "Actors": "Priscilla C. Shirer, T.C. Stallings, Karen Abercrombie",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Everest",
+      "netflix_url": "https://www.netflix.com/title/80046309",
+      "year": "2015",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt2719848",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDAzOTYxMTctY2ViNi00NDI3LTgwMGItY2FhN2JjZWE5MjRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On May 10, 1996, mountain guides Rob Hall and Scott Fischer combine their expedition teams for a final ascent to the summit of Mount Everest. With little warning, a storm strikes the mountain and the climbers must now battle to su...",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "Baltasar Kormákur",
+      "Writer": "William Nicholson, Simon Beaufoy",
+      "Actors": "Jason Clarke, Ang Phula Sherpa, Thomas M. Wright",
+      "Language": "English, Russian",
+      "Country": "United Kingdom, Iceland, United States"
     },
     {
       "title": "30 for 30: Sole Man",
@@ -1167,6 +1201,23 @@
       "Country": "United States"
     },
     {
+      "title": "I Can Only Imagine",
+      "netflix_url": "https://www.netflix.com/title/80208955",
+      "year": "2018",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt6450186",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5NzQ0ZjMtM2U2Yi00Y2I3LWFhOTgtOGIyNmUwMWNiMzczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The inspiring and unknown true story behind MercyMe's beloved, chart topping song that brings ultimate hope to so many is a gripping reminder of the power of true forgiveness.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Biography, Drama, Family",
+      "Director": "Andrew Erwin, Jon Erwin",
+      "Writer": "Bart Millard, Jon Erwin, Brent Mccorkle",
+      "Actors": "John Michael Finley, Madeline Carroll, Dennis Quaid",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "A Secret Love",
       "netflix_url": "https://www.netflix.com/title/80209024",
       "year": "2020",
@@ -1282,6 +1333,23 @@
       "Director": "Oliver Bokelberg",
       "Writer": "N/A",
       "Actors": "Debbie Allen, Tichina Arnold, Ryan Phuong",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Gospel According to André",
+      "netflix_url": "https://www.netflix.com/title/80221240",
+      "year": "2017",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt7218804",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MjA1Njk1M15BMl5BanBnXkFtZTgwMDI5ODkxNTM@._V1_SX300.jpg",
+      "Plot": "This intimate portrait for André Leon Tally, a fixture in the world of fashion, takes viewers on a journey from André’s roots growing up to becoming one of the most influential tastemakers and fashion curators of our times.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Documentary",
+      "Director": "Kate Novack",
+      "Writer": "N/A",
+      "Actors": "André Leon Talley, Bethann Hardison, Marc Jacobs",
       "Language": "English",
       "Country": "United States"
     },
@@ -1684,6 +1752,23 @@
       "Country": "United States"
     },
     {
+      "title": "Untold: Breaking Point",
+      "netflix_url": "https://www.netflix.com/title/81026434",
+      "year": "2021",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt15101938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiMWExMmMtNmUwMy00YzQyLTgzY2YtMDM5M2JiYzZmMTNkXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+      "Plot": "Tennis star Mardy Fish's battles with anxiety and mental health.",
+      "Type": "movie",
+      "RunTime": "68 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Chapman Way, Maclain Way",
+      "Writer": "N/A",
+      "Actors": "Mardy Fish, Kevin O'Connor, Tom Fish",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Untold: The Rise and Fall of AND1",
       "netflix_url": "https://www.netflix.com/title/81026440",
       "year": "2022",
@@ -1801,6 +1886,23 @@
       "Actors": "Jennifer Lopez, Ben Affleck, Adam Blackstone",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "We Are One",
+      "netflix_url": "https://www.netflix.com/title/81034018",
+      "year": "2020",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt12588398",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjBhM2ZmMGUtYjMwMS00ZDcxLThkNWQtZjc1ZDY0ODM1NWZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Activists around the world fight injustice and drive social change in this documentary that follows their participation in the music video Solidarité.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Documentary",
+      "Director": "Stéphane de Freitas",
+      "Writer": "N/A",
+      "Actors": "Afaq, Panmela Castro, Stéphane de Freitas",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "The Sky Is Pink",
@@ -2529,6 +2631,23 @@
       "Actors": "Katie Holmes, Josh Lucas, Celia Weston",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Jada",
+      "netflix_url": "https://www.netflix.com/title/81241113",
+      "year": "2019",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt9769714",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjUyZGVhMGQtMzQ3NC00NDhmLWIyZmUtNGY1YWQ1ODg3MDNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A team of passionate football players goes through some unexpected hurdles while participating in a local tournament in a village.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Drama, Sport",
+      "Director": "Kumaran",
+      "Writer": "N/A",
+      "Actors": "Kathir, Roshni Prakash, Yogi Babu",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "Respect",
@@ -3586,6 +3705,23 @@
       "Country": "United States"
     },
     {
+      "title": "Kesari",
+      "netflix_url": "https://www.netflix.com/title/81587752",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt6264938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmUyYzA3MGQtNzE0Zi00Nzg0LTk4NTAtNDQ3YWQ4M2IwMWYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on an incredible true story of the Battle of Saragarhi in which an army of 21 Sikhs fought against 10,000 Afghans in 1897.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Anurag Singh",
+      "Writer": "Girish Kohli, Anurag Singh",
+      "Actors": "Akshay Kumar, Parineeti Chopra, Suvinder Vicky",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Hichki",
       "netflix_url": "https://www.netflix.com/title/81587844",
       "year": "2018",
@@ -3974,6 +4110,23 @@
       "Country": "Vietnam"
     },
     {
+      "title": "Full Circle",
+      "netflix_url": "https://www.netflix.com/title/81691263",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt15303234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjEyNTA1OWMtZjQ4Zi00ODE0LWFmN2ItMmMyNzgwY2YwYjRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An investigation into a botched kidnapping uncovers long-held secrets connecting multiple characters and cultures in present day New York City.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Ed Solomon",
+      "Actors": "Zazie Beetz, Claire Danes, Jim Gaffigan",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Deive Leonardo: The Answer",
       "netflix_url": "https://www.netflix.com/title/81692187",
       "year": "2023",
@@ -4192,6 +4345,13 @@
       "imdb_id": null
     },
     {
+      "title": "The Ladies with Style",
+      "netflix_url": "https://www.netflix.com/title/81737939",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Wrong Track",
       "netflix_url": "https://www.netflix.com/title/81744811",
       "year": "2025",
@@ -4280,6 +4440,13 @@
       "title": "Butterfly in the Sky: The Story of Reading Rainbow",
       "netflix_url": "https://www.netflix.com/title/81750412",
       "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Untold UK: Liverpool's Miracle of Istanbul",
+      "netflix_url": "https://www.netflix.com/title/81752435",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -4565,6 +4732,13 @@
       "Actors": "Karol G",
       "Language": "Spanish",
       "Country": "Colombia"
+    },
+    {
+      "title": "Untold UK: Jamie Vardy",
+      "netflix_url": "https://www.netflix.com/title/81915311",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Mary Mother of Jesus",
@@ -4908,6 +5082,23 @@
       "Country": "United Kingdom, France"
     },
     {
+      "title": "Frankenstein: The Anatomy Lesson",
+      "netflix_url": "https://www.netflix.com/title/82122582",
+      "year": "2025",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt38906516",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDVkMWE5NTAtN2FiNy00Y2ZlLTk1ZDgtZjJiZjA2NWYwZjE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The making of Guillermo del Toro's Frankenstein.",
+      "Type": "movie",
+      "RunTime": "45 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "Guillermo del Toro, Javier Soto",
+      "Actors": "Guillermo del Toro, Jacob Elordi, Mia Goth",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "MVP",
       "netflix_url": "https://www.netflix.com/title/82152275",
       "year": "2022",
@@ -5127,6 +5318,23 @@
       "Actors": "Michael Townsend, Colin Bliss, Adriana Valdez-Young",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Goat",
+      "netflix_url": "https://www.netflix.com/title/82710848",
+      "year": "2026",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt27613895",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5OTJkOGMtYWFiNi00NTlkLWE3ZWItY2ZlNjkyOWVhMjMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tyree Dillihay, Adam Rosette",
+      "Writer": "Aaron Buchsbaum, Teddy Riley, Nicolas Curcio",
+      "Actors": "Caleb McLaughlin, Gabrielle Union, Stephen Curry",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Harry Styles. One Night In Manchester.",

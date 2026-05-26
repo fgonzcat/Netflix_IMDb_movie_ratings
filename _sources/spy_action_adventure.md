@@ -58,6 +58,8 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/10702" target="_bla
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Codename: Tiranga*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81387252" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZjliZDRkZTYtYTBkNi00NzAxLTg0YmQtODE0YjVmNWNjNjhiXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Humint*</strong></summary>  <div class="movie-plot">An espionage action film depicting North and South Korean secret agents clashing while investigating crimes occurring on the Vladivostok border.</div> </details> | <a href="https://www.imdb.com/title/tt32606470/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82682318" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BOWUyZTBjYTctMGQyNS00Mjg0LTg5ZTMtZDA1YmEyZDIxZjRlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Happy Patel - Khatarnak Jasoos*</strong></summary>  <div class="movie-plot">movie</div> </details> | <a href="https://www.imdb.com/title/tt32245870/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82772383" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Dhurandhar The Revenge (Raw & Undekha)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82813021" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Dhurandhar (Raw & Undekha)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82813816" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -96,6 +98,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/10702" target="_bla
 
  
 ---
-*Page last updated on: 2026-04-28*
+*Page last updated on: 2026-05-25*
 
  

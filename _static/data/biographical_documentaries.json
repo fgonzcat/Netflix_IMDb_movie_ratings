@@ -2484,6 +2484,23 @@
       "Country": "France"
     },
     {
+      "title": "Love, Charlie: The Rise and Fall of Chef Charlie Trotter",
+      "netflix_url": "https://www.netflix.com/title/81633762",
+      "year": "2021",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt14395694",
+      "Poster": "https://occ-0-1339-1340.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZ95OGmZ5So9L40LvkUzy1eybqOs5qTYA3rKKKxA2jfUvzro0-R8JG-UVzSaVn4L9YwVtYBgO9Myf4yamoq1VaCKp0gM-mGxyHWn.jpg?r=1ae",
+      "Plot": "Charlie Trotter revolutionized American cuisine but his quest for excellence cost him everything. Featuring Grant Achatz, Emeril Lagasse, and Wolfgang Puck.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Documentary",
+      "Director": "Rebecca Halpern",
+      "Writer": "Rebecca Halpern",
+      "Actors": "Grant Achatz, Wolfgang Puck, Emeril Lagasse",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Robbie Williams",
       "netflix_url": "https://www.netflix.com/title/81638710",
       "year": "2023",
@@ -3087,6 +3104,13 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Untold UK: Jamie Vardy",
+      "netflix_url": "https://www.netflix.com/title/81915311",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Avicii - I'm Tim",
       "netflix_url": "https://www.netflix.com/title/81915373",
       "year": "2024",
@@ -3244,6 +3268,23 @@
       "Country": "United States, United Kingdom"
     },
     {
+      "title": "Kylie",
+      "netflix_url": "https://www.netflix.com/title/82075657",
+      "year": "2026",
+      "imdb_rating": "3.5",
+      "imdb_id": "tt6772826",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGYzYzZjNGItMmJlYi00NWViLWEwMjYtY2JmNWJkMThiZDhmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An inside look at the professional and personal life of Kylie Jenner.",
+      "Type": "series",
+      "RunTime": "21 min",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kylie Jenner, Victoria Villarroel, Tokyo Stylez",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
       "netflix_url": "https://www.netflix.com/title/82087556",
       "year": "2026",
@@ -3266,6 +3307,23 @@
       "Actors": "N/A",
       "Language": "N/A",
       "Country": "United Kingdom, France"
+    },
+    {
+      "title": "Marty, Life Is Short",
+      "netflix_url": "https://www.netflix.com/title/82128115",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39382052",
+      "Poster": "N/A",
+      "Plot": "Follows the definitive documentary on comedian Martin Short, exploring his career across film, television, theater and comedy.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Lawrence Kasdan",
+      "Writer": "N/A",
+      "Actors": "Martin Short",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Lainey Wilson: Keepin' Country Cool",
@@ -3332,6 +3390,23 @@
       "Director": "Dennis Scholl, Kareem Tabsch",
       "Writer": "N/A",
       "Actors": "Dita Von Teese, Larry King, Bruce Weber",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Abraham Lincoln",
+      "netflix_url": "https://www.netflix.com/title/82765211",
+      "year": "2022",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt17079876",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTdmMTZjYmQtYWZiYi00ODc4LTlkOWQtMWY1Mjc2MjY5OGIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Through a poverty-ridden childhood on the American frontier, Lincoln is determined to leave his mark on the world.",
+      "Type": "series",
+      "RunTime": "31S min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Graham Sibley, Stefan Adegbola, Jenny Stead",
       "Language": "English",
       "Country": "United States"
     },

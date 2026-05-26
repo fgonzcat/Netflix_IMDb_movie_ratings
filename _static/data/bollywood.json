@@ -4147,6 +4147,23 @@
       "Country": "India"
     },
     {
+      "title": "Kesari",
+      "netflix_url": "https://www.netflix.com/title/81587752",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt6264938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmUyYzA3MGQtNzE0Zi00Nzg0LTk4NTAtNDQ3YWQ4M2IwMWYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on an incredible true story of the Battle of Saragarhi in which an army of 21 Sikhs fought against 10,000 Afghans in 1897.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Anurag Singh",
+      "Writer": "Girish Kohli, Anurag Singh",
+      "Actors": "Akshay Kumar, Parineeti Chopra, Suvinder Vicky",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Race 3",
       "netflix_url": "https://www.netflix.com/title/81587769",
       "year": "2018",
@@ -5634,6 +5651,23 @@
       "Country": "India"
     },
     {
+      "title": "KARTAVYA",
+      "netflix_url": "https://www.netflix.com/title/82698051",
+      "year": "2026",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt0113528",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGRlZTEwYjYtYzk4MS00MTBjLWI4OTQtNTQ5NTA0MmY4ZWIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Karan and his mother live a happy life and he is soon to be married to Kajal. But on the day of his engagement, he discovers his mother is not his biological mother.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Raj Kanwar",
+      "Writer": "Kamlesh Pandey, Ranbir Pushp",
+      "Actors": "Sanjay Kapoor, Juhi Chawla, Moushumi Chatterjee",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Padmaavat",
       "netflix_url": "https://www.netflix.com/title/82739701",
       "year": "2018",
@@ -5665,6 +5699,20 @@
       "Writer": "Vir Das, Ellie Flory Fawcett, Amit Bhandari",
       "Actors": "Hindi",
       "Language": "India"
+    },
+    {
+      "title": "Dhurandhar The Revenge (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813021",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dhurandhar (Raw & Undekha)",
+      "netflix_url": "https://www.netflix.com/title/82813816",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }
