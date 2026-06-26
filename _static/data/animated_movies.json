@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/11881",
   "movies": [
     {
+      "title": "Beavis and Butt-head",
+      "netflix_url": "https://www.netflix.com/title/70142336",
+      "year": "2023",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0105950",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU3Mzk0ZTUtMmRkNS00MjI1LWEzNjYtNzI2MWJkN2JkNjc4XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "Plot": "The show is about two slow-witted teenagers Beavis and Butt-Head and their everyday exploits, including trying to get laid (or \"score,\" as they like to call it), breaking things, pulling pranks, skipping school and watching TV.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Comedy, Music",
+      "Director": "N/A",
+      "Writer": "Mike Judge",
+      "Actors": "Mike Judge, Kristofor Brown, Dale Revo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Venture Bros.",
       "netflix_url": "https://www.netflix.com/title/70153386",
       "year": "2008",
@@ -161,6 +178,23 @@
       "Actors": "Richard Ayoade, Jude Law, Jaden Smith",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Loving Vincent",
+      "netflix_url": "https://www.netflix.com/title/80171527",
+      "year": "2017",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt3262342",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3NjE2NjgwN15BMl5BanBnXkFtZTgwNDYzMzEwMzI@._V1_SX300.jpg",
+      "Plot": "In a story depicted in oil painted animation, a young man comes to the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Animation, Drama, Mystery",
+      "Director": "DK Welchman, Hugh Welchman",
+      "Writer": "DK Welchman, Hugh Welchman, Jacek Dehnel",
+      "Actors": "Douglas Booth, Jerome Flynn, Robert Gulaczyk",
+      "Language": "English",
+      "Country": "Poland, United Kingdom, United States, Switzerland, Netherlands"
     },
     {
       "title": "Love, Death & Robots",
@@ -1289,6 +1323,13 @@
       "Country": "Philippines, Thailand"
     },
     {
+      "title": "My 2 Cents",
+      "netflix_url": "https://www.netflix.com/title/81738479",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "They Shot the Piano Player",
       "netflix_url": "https://www.netflix.com/title/81743396",
       "year": "2023",
@@ -1498,6 +1539,23 @@
       "Actors": "N/A",
       "Language": "Hindi, Kannada, Telugu, Tamil, Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Scarlet",
+      "netflix_url": "https://www.netflix.com/title/82888057",
+      "year": "2025",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0038057",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODg1Y2Y2YjQtM2NjNS00NWIwLWE0ZTUtMzM2M2M1YWJjYTdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man in mid-life crisis befriends a young woman, though her fiancé persuades her to con him out of the fortune they mistakenly assume he possesses.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Fritz Lang",
+      "Writer": "Georges de La Fouchardière, André Mouëzy-Éon, Dudley Nichols",
+      "Actors": "Edward G. Robinson, Joan Bennett, Dan Duryea",
+      "Language": "English",
+      "Country": "United States"
     }
   ]
 }

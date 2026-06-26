@@ -105,6 +105,23 @@
       "Country": "United States"
     },
     {
+      "title": "Bee Movie",
+      "netflix_url": "https://www.netflix.com/title/70060010",
+      "year": "2007",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0389790",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+      "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Simon J. Smith, Steve Hickner",
+      "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+      "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Madagascar: Escape 2 Africa",
       "netflix_url": "https://www.netflix.com/title/70099116",
       "year": "2008",
@@ -205,6 +222,40 @@
       "Actors": "Jesse Eisenberg, Anne Hathaway, George Lopez",
       "Language": "English, Portuguese, Arabic, Spanish, Brazilian Sign ",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "The Smurfs",
+      "netflix_url": "https://www.netflix.com/title/70141972",
+      "year": "2011",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt0472181",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQxNDYyNTQtYjg1OC00OGJiLTk2YjMtZjZjZDgwOWFlOTJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world into New York City.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Raja Gosnell",
+      "Writer": "J. David Stem, David N. Weiss, Jay Scherick",
+      "Actors": "Hank Azaria, Neil Patrick Harris, Jayma Mays",
+      "Language": "English",
+      "Country": "United States, Belgium, Canada"
+    },
+    {
+      "title": "Beavis and Butt-head",
+      "netflix_url": "https://www.netflix.com/title/70142336",
+      "year": "2023",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0105950",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU3Mzk0ZTUtMmRkNS00MjI1LWEzNjYtNzI2MWJkN2JkNjc4XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "Plot": "The show is about two slow-witted teenagers Beavis and Butt-Head and their everyday exploits, including trying to get laid (or \"score,\" as they like to call it), breaking things, pulling pranks, skipping school and watching TV.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Comedy, Music",
+      "Director": "N/A",
+      "Writer": "Mike Judge",
+      "Actors": "Mike Judge, Kristofor Brown, Dale Revo",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Fairly OddParents",
@@ -1672,6 +1723,23 @@
       "Actors": "Finn Wolfhard, Gina Rodriguez, Liam O'Brien",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Loving Vincent",
+      "netflix_url": "https://www.netflix.com/title/80171527",
+      "year": "2017",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt3262342",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3NjE2NjgwN15BMl5BanBnXkFtZTgwNDYzMzEwMzI@._V1_SX300.jpg",
+      "Plot": "In a story depicted in oil painted animation, a young man comes to the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Animation, Drama, Mystery",
+      "Director": "DK Welchman, Hugh Welchman",
+      "Writer": "DK Welchman, Hugh Welchman, Jacek Dehnel",
+      "Actors": "Douglas Booth, Jerome Flynn, Robert Gulaczyk",
+      "Language": "English",
+      "Country": "Poland, United Kingdom, United States, Switzerland, Netherlands"
     },
     {
       "title": "Love, Death & Robots",
@@ -7134,6 +7202,13 @@
       "Country": "Canada, United States"
     },
     {
+      "title": "My 2 Cents",
+      "netflix_url": "https://www.netflix.com/title/81738479",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Spellbound",
       "netflix_url": "https://www.netflix.com/title/81745658",
       "year": "2024",
@@ -7171,8 +7246,18 @@
       "title": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",
       "netflix_url": "https://www.netflix.com/title/81748104",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38092819",
+      "Poster": "https://m.media-amazon.com/images/M/75f35a85-7a6e-4f1f-bf8b-e4c8556bc4e4._V1_UX1000_CR0,0,1000,563_.png",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "42 min",
+      "Genre": "Animation, Short",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bommie Han, Sharon Kwon",
+      "Language": "English",
+      "Country": "South Korea"
     },
     {
       "title": "Swapped",
@@ -7490,6 +7575,13 @@
       "Actors": "Benoît Poelvoorde, Jacqueline Poelvoorde-Pappaert, Nelly Pappaert",
       "Language": "French",
       "Country": "Belgium"
+    },
+    {
+      "title": "Emi Martínez: The Kid Who Stops Time",
+      "netflix_url": "https://www.netflix.com/title/81995282",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Piece by Piece",
@@ -7917,11 +8009,28 @@
       "imdb_id": null
     },
     {
-      "title": "Unicorn Academy: Secrets Revealed",
-      "netflix_url": "https://www.netflix.com/title/82705687",
+      "title": "I Am Frankelda",
+      "netflix_url": "https://www.netflix.com/title/82695127",
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Unicorn Academy: Secrets Revealed",
+      "netflix_url": "https://www.netflix.com/title/82705687",
+      "year": "2026",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt40029087",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzA2ZjVmNjAtMTgxZC00NmNhLTg0YWQtYjZkNTlmNTUxZGRkXkEyXkFqcGc@._V1_QL75_UY562_CR1511,0,380,562_.jpg",
+      "Plot": "Sophia and friends return to Unicorn Academy where ancient secrets emerge, threatening Unicorn Island's balance. They face a perilous quest with hidden powers, betrayals, and dark forces. Magic, suspense, and twists await.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mia Paige, Auralie Blanchette, Monica Rodriguez Knox",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Goat",
@@ -7946,6 +8055,23 @@
       "year": "2020",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "David",
+      "netflix_url": "https://www.netflix.com/title/82836255",
+      "year": "2025",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt15678738",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODczZDkzMDgtYzRjMi00YWNkLWJhNzMtNGNiMzQxNzE1ZDc3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "From his mother's songs to his clash with Goliath, David's journey from humble shepherd to anointed king tests the limits of faith, courage, and love--culminating in a battle for the soul of a kingdom.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Animation, Adventure, Drama",
+      "Director": "Phil Cunningham, Brent Dawes",
+      "Writer": "Brent Dawes, Kyle Portbury, Sam Wilson",
+      "Actors": "Brandon Engman, Brian Stivale, Shahar Tavoch",
+      "Language": "English",
+      "Country": "South Africa, United States"
     }
   ]
 }
