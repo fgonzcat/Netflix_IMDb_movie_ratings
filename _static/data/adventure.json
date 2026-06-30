@@ -275,6 +275,40 @@
       "Country": "United States"
     },
     {
+      "title": "Scooby-Doo",
+      "netflix_url": "https://www.netflix.com/title/60020823",
+      "year": "2002",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt0267913",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MzMzMTY0OF5BMl5BanBnXkFtZTYwNzM3MTg2._V1_SX300.jpg",
+      "Plot": "After an acrimonious break up, the Mystery Inc. gang are individually brought to an island resort to investigate strange goings on.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Raja Gosnell",
+      "Writer": "James Gunn, Craig Titley, William Hanna",
+      "Actors": "Matthew Lillard, Freddie Prinze Jr., Sarah Michelle Gellar",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Chronicles of Riddick",
+      "netflix_url": "https://www.netflix.com/title/60034579",
+      "year": "2004",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0296572",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJkZGI1MTktNmNiMS00NTE5LTkyY2EtZjkyMDZjMzdhZTJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "David Twohy",
+      "Writer": "Jim Wheat, Ken Wheat, David Twohy",
+      "Actors": "Vin Diesel, Judi Dench, Colm Feore",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Labyrinth",
       "netflix_url": "https://www.netflix.com/title/680020",
       "year": "1986",
@@ -307,6 +341,13 @@
       "Actors": "Burt Reynolds, Jackie Gleason, Jerry Reed",
       "Language": "English, Spanish",
       "Country": "United States"
+    },
+    {
+      "title": "Lawrence of Arabia: Restored Version",
+      "netflix_url": "https://www.netflix.com/title/70012020",
+      "year": "1962",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Mission: Impossible III",
@@ -394,6 +435,23 @@
       "Country": "United States, Bulgaria, Spain, Germany"
     },
     {
+      "title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "netflix_url": "https://www.netflix.com/title/70120525",
+      "year": "2010",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0814255",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDE4M2ZiYzEtODJiZC00NmI1LWFlNTgtOGJlNTY3NmExYWNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Chris Columbus",
+      "Writer": "Craig Titley, Rick Riordan",
+      "Actors": "Logan Lerman, Kevin McKidd, Steve Coogan",
+      "Language": "English, Greek, Ancient (to 1453)",
+      "Country": "United Kingdom, Canada, United States"
+    },
+    {
       "title": "The Expendables 2",
       "netflix_url": "https://www.netflix.com/title/70230088",
       "year": "2012",
@@ -409,6 +467,23 @@
       "Actors": "Sylvester Stallone, Liam Hemsworth, Randy Couture",
       "Language": "English",
       "Country": "United States, Germany, China"
+    },
+    {
+      "title": "Percy Jackson: Sea of Monsters",
+      "netflix_url": "https://www.netflix.com/title/70243343",
+      "year": "2013",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt1854564",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGMyZTI2MjUtODEzMi00M2JlLWEwZGEtYWE5MmY5OWNkYTRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In order to restore their dying safe haven, the son of Poseidon and his friends embark on a quest to the Sea of Monsters, to find the mythical Golden Fleece, all the while trying to stop an ancient evil from rising.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Thor Freudenthal",
+      "Writer": "Marc Guggenheim, Rick Riordan",
+      "Actors": "Logan Lerman, Alexandra Daddario, Brandon T. Jackson",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Chennai Express",
@@ -460,6 +535,23 @@
       "Actors": "Lily Collins, Jamie Campbell Bower, Robert Sheehan",
       "Language": "English",
       "Country": "United States, Germany, Canada, United Kingdom"
+    },
+    {
+      "title": "Riddick",
+      "netflix_url": "https://www.netflix.com/title/70272268",
+      "year": "2013",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1411250",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzYwMzQ4MV5BMl5BanBnXkFtZTcwMjE5MTI1OQ@@._V1_SX300.jpg",
+      "Plot": "Left for dead on a sun-scorched planet, Riddick finds himself up against an alien race of predators. Activating an emergency beacon alerts two ships: one carrying a new breed of mercenary, the other captained by a man from Riddick...",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "David Twohy",
+      "Writer": "David Twohy, Jim Wheat, Ken Wheat",
+      "Actors": "Vin Diesel, Karl Urban, Katee Sackhoff",
+      "Language": "English",
+      "Country": "Canada, United States"
     },
     {
       "title": "Pompeii",
@@ -630,6 +722,23 @@
       "Actors": "Jack Black, Dylan Minnette, Odeya Rush",
       "Language": "English, Ukrainian",
       "Country": "United States, Australia"
+    },
+    {
+      "title": "The Last Witch Hunter",
+      "netflix_url": "https://www.netflix.com/title/80052541",
+      "year": "2015",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt1618442",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE@._V1_SX300.jpg",
+      "Plot": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Breck Eisner",
+      "Writer": "Cory Goodman, Matt Sazama, Burk Sharpless",
+      "Actors": "Vin Diesel, Rose Leslie, Elijah Wood",
+      "Language": "English",
+      "Country": "United States, China"
     },
     {
       "title": "Spectre",
@@ -2048,8 +2157,18 @@
       "title": "Raakaasa",
       "netflix_url": "https://www.netflix.com/title/82180278",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt36451817",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmRkMDljZmQtOTk5MS00ZWZhLTlmNTEtNDNhMDkxYWFmZGNiXkEyXkFqcGc@._V1_QL75_UY562_CR61,0,380,562_.jpg",
+      "Plot": "Returning home after a decade, an NRI chasing romance inadvertently awakens an ancient darkness long feared by his village. As the threat intensifies, love turns deadly and life hangs in the balance.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Comedy, Fantasy, Horror",
+      "Director": "Manasa Sharma",
+      "Writer": "Manasa Sharma, Mahesh Uppala",
+      "Actors": "Sangeeth Shobhan, Nayan Sarika, Sukhwinder Singh",
+      "Language": "Telugu, Tamil, Kannada, Malayalam",
+      "Country": "India"
     },
     {
       "title": "The Kingdom",
@@ -2084,6 +2203,23 @@
       "Actors": "Prabhas, Rana Daggubati, Anushka Shetty",
       "Language": "Telugu",
       "Country": "India"
+    },
+    {
+      "title": "Per Aspera Ad Astra",
+      "netflix_url": "https://www.netflix.com/title/82737867",
+      "year": "2026",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt2049619",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVf1XTlSTKXuGgilSqmV2xY_hzi-Q2eci42G5_omgb0CdkzW7NyQGxbZ_cADxe0wL2bxlUZh71VOdr8X_x-Gvr7OB1BZJu4r5lLC.jpg?r=138",
+      "Plot": "A short animated film in which an old man struggles to get off a toilet.",
+      "Type": "movie",
+      "RunTime": "1 min",
+      "Genre": "Animation, Short",
+      "Director": "Nedeljko Dragic",
+      "Writer": "Nedeljko Dragic",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "Yugoslavia"
     },
     {
       "title": "Rooster Cogburn (...and the Lady)",

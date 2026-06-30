@@ -105,6 +105,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Big Lebowski",
+      "netflix_url": "https://www.netflix.com/title/1181532",
+      "year": "1998",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0118715",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2E3OWQ5OWYtYTRkMC00NjVjLWIzZDQtNmRmM2ZiYTIyYmYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Crime",
+      "Director": "Joel Coen, Ethan Coen",
+      "Writer": "Ethan Coen, Joel Coen",
+      "Actors": "Jeff Bridges, John Goodman, Julianne Moore",
+      "Language": "English, German, Hebrew, Spanish",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Night of the Living Dead",
       "netflix_url": "https://www.netflix.com/title/17017662",
       "year": "1968",
@@ -360,6 +377,23 @@
       "Country": "United States"
     },
     {
+      "title": "Four Weddings and a Funeral",
+      "netflix_url": "https://www.netflix.com/title/520489",
+      "year": "1994",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0109831",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyNzg2NzgxNV5BMl5BanBnXkFtZTcwMTcxNzczNA@@._V1_SX300.jpg",
+      "Plot": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Mike Newell",
+      "Writer": "Richard Curtis",
+      "Actors": "Hugh Grant, Andie MacDowell, James Fleet",
+      "Language": "English, British Sign ",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Fried Green Tomatoes",
       "netflix_url": "https://www.netflix.com/title/525209",
       "year": "1991",
@@ -476,6 +510,40 @@
       "Writer": "Danny Rubin, Harold Ramis",
       "Actors": "Bill Murray, Andie MacDowell, Chris Elliott",
       "Language": "English, French, Italian",
+      "Country": "United States"
+    },
+    {
+      "title": "High Plains Drifter",
+      "netflix_url": "https://www.netflix.com/title/589340",
+      "year": "1973",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0068699",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQyMDFjMDUtZGFiYy00MGFmLWI0MTctMzg1MTZhOThhMTFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A stranger makes townsfolk prepare garish welcome for convicts.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Drama, Mystery, Western",
+      "Director": "Clint Eastwood",
+      "Writer": "Ernest Tidyman",
+      "Actors": "Clint Eastwood, Verna Bloom, Marianna Hill",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Out of Africa",
+      "netflix_url": "https://www.netflix.com/title/60000019",
+      "year": "1985",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0089755",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ5MGI3NWYtMmVjNS00OWIzLWEzMGQtMGZhMzY3NjI2YjhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+      "Type": "movie",
+      "RunTime": "161 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "Sydney Pollack",
+      "Writer": "Karen Blixen, Judith Thurman, Errol Trzebinski",
+      "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer",
+      "Language": "English, Swahili, Arabic",
       "Country": "United States"
     },
     {
@@ -785,6 +853,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Karate Kid",
+      "netflix_url": "https://www.netflix.com/title/60036164",
+      "year": "1984",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0087538",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2I3ZmZhNzctMzBlNC00YTc2LWE1MmEtY2ZkMzg3Y2I1ZDJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Recently relocated from NJ to LA, Daniel becomes the target of a gang of Cobra Kai dojo students. When Mr. Miyagi saves him with expert Karate skills, Daniel convinces him to teach him to defend himself, and put his bullies in the...",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Action, Drama, Family",
+      "Director": "John G. Avildsen",
+      "Writer": "Robert Mark Kamen",
+      "Actors": "Ralph Macchio, Pat Morita, Elisabeth Shue",
+      "Language": "English, Japanese",
+      "Country": "United States"
+    },
+    {
       "title": "Schindler's List",
       "netflix_url": "https://www.netflix.com/title/60036359",
       "year": "1993",
@@ -834,6 +919,13 @@
       "Actors": "Tom Hanks, Geena Davis, Lori Petty",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Lawrence of Arabia: Restored Version",
+      "netflix_url": "https://www.netflix.com/title/70012020",
+      "year": "1962",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Crane World",
@@ -993,6 +1085,23 @@
       "Writer": "Quentin Tarantino, Roger Avary",
       "Actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
       "Language": "English, Spanish, French",
+      "Country": "United States"
+    },
+    {
+      "title": "Rocky",
+      "netflix_url": "https://www.netflix.com/title/915927",
+      "year": "1976",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0075148",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Drama, Sport",
+      "Director": "John G. Avildsen",
+      "Writer": "Sylvester Stallone",
+      "Actors": "Sylvester Stallone, Talia Shire, Burt Young",
+      "Language": "English, Spanish, Italian",
       "Country": "United States"
     },
     {

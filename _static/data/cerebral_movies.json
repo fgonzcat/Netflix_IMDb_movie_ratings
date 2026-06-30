@@ -156,6 +156,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Concussion",
+      "netflix_url": "https://www.netflix.com/title/80064511",
+      "year": "2015",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt3322364",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjgwNDg0NV5BMl5BanBnXkFtZTgwMzY1MjAyNzE@._V1_SX300.jpg",
+      "Plot": "In Pittsburgh, accomplished pathologist Dr. Bennet Omalu uncovers the truth about brain damage in football players who suffer repeated concussions in the course of normal play.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Peter Landesman",
+      "Writer": "Peter Landesman, Jeanne Marie Laskas",
+      "Actors": "Will Smith, Alec Baldwin, Albert Brooks",
+      "Language": "English",
+      "Country": "United Kingdom, Australia, United States"
+    },
+    {
       "title": "Into the Inferno",
       "netflix_url": "https://www.netflix.com/title/80066073",
       "year": "2016",
@@ -1971,6 +1988,23 @@
       "Actors": "Guillaume Marbeck, Zoey Deutch, Aubry Dullin",
       "Language": "French, English, Italian",
       "Country": "France, United States"
+    },
+    {
+      "title": "In the Hand of Dante",
+      "netflix_url": "https://www.netflix.com/title/82623388",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt1333644",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUOL-kYaxZVZZeYp7GCkq_arDd4r3FF9QNoCfYffuCN_N8_4ShHjNGciN0twpaKplDd8fhxFD-Z-CVcMtg2v8NgR2ouRzOUwMYdI.jpg?r=594",
+      "Plot": "A handwritten manuscript of Dante Alighieri's poem \"The Divine Comedy\" makes its way from a priest to a mob boss in New York City, where it is taken by Nick Tosches after he's asked to verify its authenticity.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Julian Schnabel",
+      "Writer": "Louise Kugelberg, Julian Schnabel, Nick Tosches",
+      "Actors": "Jason Momoa, Gerard Butler, Martin Scorsese",
+      "Language": "English",
+      "Country": "United Kingdom, Italy, Chile, United States"
     }
   ]
 }

@@ -37,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Big Lebowski",
+      "netflix_url": "https://www.netflix.com/title/1181532",
+      "year": "1998",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0118715",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2E3OWQ5OWYtYTRkMC00NjVjLWIzZDQtNmRmM2ZiYTIyYmYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Crime",
+      "Director": "Joel Coen, Ethan Coen",
+      "Writer": "Ethan Coen, Joel Coen",
+      "Actors": "Jeff Bridges, John Goodman, Julianne Moore",
+      "Language": "English, German, Hebrew, Spanish",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Election",
       "netflix_url": "https://www.netflix.com/title/21060973",
       "year": "1999",
@@ -118,6 +135,23 @@
       "Director": "Noah Baumbach",
       "Writer": "Noah Baumbach",
       "Actors": "Owen Kline, Jeff Daniels, Laura Linney",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Little Miss Sunshine",
+      "netflix_url": "https://www.netflix.com/title/70043947",
+      "year": "2006",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0449059",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SX300.jpg",
+      "Plot": "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Jonathan Dayton, Valerie Faris",
+      "Writer": "Michael Arndt",
+      "Actors": "Steve Carell, Toni Collette, Greg Kinnear",
       "Language": "English",
       "Country": "United States"
     },
@@ -484,6 +518,23 @@
       "year": "2008",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Muriel's Wedding",
+      "netflix_url": "https://www.netflix.com/title/783045",
+      "year": "1994",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0110598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGJkMmUwODMtZGU0Yi00YWRiLThlZGEtMTg2YTVkODcwZDQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young social outcast in Australia steals money from her parents to finance a vacation where she hopes to find happiness, and perhaps love.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Comedy, Drama",
+      "Director": "P.J. Hogan",
+      "Writer": "P.J. Hogan",
+      "Actors": "Toni Collette, Rachel Griffiths, Bill Hunter",
+      "Language": "English",
+      "Country": "Australia, France"
     },
     {
       "title": "The Perfect Dictatorship",
@@ -1544,6 +1595,23 @@
       "Country": "Saudi Arabia"
     },
     {
+      "title": "12 Hour Shift",
+      "netflix_url": "https://www.netflix.com/title/81335432",
+      "year": "2020",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt10309552",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWNlOWQyNzEtZTQxOC00MmI3LTk1ODItNzI5M2E4YmExNGUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bodies start to pile up when a drug-user nurse and her cousin try to find a replacement kidney for an organ trafficker.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Comedy, Horror, Thriller",
+      "Director": "Brea Grant",
+      "Writer": "Brea Grant",
+      "Actors": "Angela Bettis, Julianne Dowler, Tom DeTrinis",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Christmas Crossfire",
       "netflix_url": "https://www.netflix.com/title/81342028",
       "year": "2020",
@@ -2107,6 +2175,23 @@
       "Actors": "Bill Burr, Bobby Cannavale, Bokeem Woodbine",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Maa Behen",
+      "netflix_url": "https://www.netflix.com/title/81702997",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33538438",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTlkYjI4M2ItYzE5YS00NjhkLThmZDYtNjI2ODY2MzVkYjdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rekha and her daughters Jaya and Sushma, controversial figures in their conservative neighborhood, discover a dead body in their kitchen. The struggling, squabbling mother-daughter trio must work together to cover up the crime.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Suresh Triveni",
+      "Writer": "Pooja Tolani, Suresh Triveni",
+      "Actors": "Madhuri Dixit, Triptii Dimri, Ravi Kishan",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Hello Ghost",

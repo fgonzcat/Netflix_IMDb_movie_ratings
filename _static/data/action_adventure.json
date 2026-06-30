@@ -530,6 +530,23 @@
       "Country": "United States"
     },
     {
+      "title": "Pitch Black",
+      "netflix_url": "https://www.netflix.com/title/60000414",
+      "year": "2000",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0134847",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGJlYjllOTUtZGRiNS00YmI4LTkxYmItYjBmYTdmZWZlMTMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A transport ship crashes and leaves its crew stranded on a desert planet inhabited by bloodthirsty creatures that come out during an eclipse.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Horror, Sci-Fi, Thriller",
+      "Director": "David Twohy",
+      "Writer": "Jim Wheat, Ken Wheat, David Twohy",
+      "Actors": "Radha Mitchell, Cole Hauser, Vin Diesel",
+      "Language": "English, Arabic",
+      "Country": "United States"
+    },
+    {
       "title": "Mission: Impossible II",
       "netflix_url": "https://www.netflix.com/title/60000521",
       "year": "2000",
@@ -833,6 +850,23 @@
       "Writer": "Arthur Hailey, Michael Scheff, David Spector",
       "Actors": "Jack Lemmon, Lee Grant, Joseph Cotten",
       "Language": "English, Hungarian",
+      "Country": "United States"
+    },
+    {
+      "title": "The Karate Kid Part II",
+      "netflix_url": "https://www.netflix.com/title/60011205",
+      "year": "1986",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0091326",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzEyYjlhNWMtNTdmOC00N2M4LWI0OWEtZGE3NTJkOWJhYTYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Family, Sport",
+      "Director": "John G. Avildsen",
+      "Writer": "Robert Mark Kamen",
+      "Actors": "Pat Morita, Ralph Macchio, Pat E. Johnson",
+      "Language": "English, Japanese",
       "Country": "United States"
     },
     {
@@ -8801,6 +8835,13 @@
       "Country": "Egypt"
     },
     {
+      "title": "Ramabanam",
+      "netflix_url": "https://www.netflix.com/title/81719492",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Badland Hunters",
       "netflix_url": "https://www.netflix.com/title/81721676",
       "year": "2024",
@@ -10367,6 +10408,23 @@
       "Country": "India"
     },
     {
+      "title": "Per Aspera Ad Astra",
+      "netflix_url": "https://www.netflix.com/title/82737867",
+      "year": "2026",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt2049619",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVf1XTlSTKXuGgilSqmV2xY_hzi-Q2eci42G5_omgb0CdkzW7NyQGxbZ_cADxe0wL2bxlUZh71VOdr8X_x-Gvr7OB1BZJu4r5lLC.jpg?r=138",
+      "Plot": "A short animated film in which an old man struggles to get off a toilet.",
+      "Type": "movie",
+      "RunTime": "1 min",
+      "Genre": "Animation, Short",
+      "Director": "Nedeljko Dragic",
+      "Writer": "Nedeljko Dragic",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "Yugoslavia"
+    },
+    {
       "title": "Happy Patel - Khatarnak Jasoos",
       "netflix_url": "https://www.netflix.com/title/82772383",
       "year": "2026",
@@ -10412,6 +10470,40 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Raja Shivaji",
+      "netflix_url": "https://www.netflix.com/title/82821158",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31390893",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmEwNTU4MzEtY2Y4Ni00ZWRmLThhMGMtMDE5MTZmMDIzMGVjXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "The journey of the young Shivaji, who fought against the powers that be and was crowned as Chhatrapati monarch.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Action, Biography, Drama",
+      "Director": "Riteish Deshmukh",
+      "Writer": "Prajakt Deshmukh, Riteish Deshmukh, Jaideep Yadav",
+      "Actors": "Salman Khan, Sanjay Dutt, Abhishek Bachchan",
+      "Language": "Marathi, Hindi, Tamil, Telugu, Kannada, Malayalam",
+      "Country": "India"
+    },
+    {
+      "title": "Scarlet",
+      "netflix_url": "https://www.netflix.com/title/82888057",
+      "year": "2025",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0038057",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODg1Y2Y2YjQtM2NjNS00NWIwLWE0ZTUtMzM2M2M1YWJjYTdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man in mid-life crisis befriends a young woman, though her fiancé persuades her to con him out of the fortune they mistakenly assume he possesses.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Fritz Lang",
+      "Writer": "Georges de La Fouchardière, André Mouëzy-Éon, Dudley Nichols",
+      "Actors": "Edward G. Robinson, Joan Bennett, Dan Duryea",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Thammudu",

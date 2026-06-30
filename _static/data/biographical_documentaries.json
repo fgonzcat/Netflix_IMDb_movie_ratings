@@ -2766,8 +2766,18 @@
       "title": "Dynasty: The Murdochs",
       "netflix_url": "https://www.netflix.com/title/81712688",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.8",
+      "imdb_id": "tt40233617",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmI4YTU3MDMtMDJhMC00YzlmLTg3MWEtZjRmN2RiZWM3MWQzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Follows the Murdoch family's behind-the-scenes succession battle as Rupert's adult children compete for control of his media empire, based on thousands of documents, emails and text messages.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rupert Murdoch, Jim Rutenberg, Jonathan Mahler",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Garbo: Where Did You Go?",
@@ -2831,8 +2841,18 @@
       "title": "Ronaldinho: The One and Only",
       "netflix_url": "https://www.netflix.com/title/81731400",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt37041367",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDIzNDU5MmItM2ZkMi00NGIxLWJmMzAtZGMyMGZkNjEyOWVjXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Follows legendary Brazilian soccer player Ronaldinho from his childhood in Porto Alegre to becoming one of the most decorated players in history, winning the Ballon d'Or at FC Barcelona.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ronaldinho Gaúcho, Ronaldo, Galvão Bueno",
+      "Language": "N/A",
+      "Country": "Brazil"
     },
     {
       "title": "Nam June Paik: Moon Is the Oldest TV",
@@ -2920,6 +2940,23 @@
       "Country": "United States"
     },
     {
+      "title": "Untold UK: Vinnie Jones",
+      "netflix_url": "https://www.netflix.com/title/81752434",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt41801288",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmFiOWM4NGMtNTQxZS00N2UwLWE5MjMtZTg4MzE2Yjc2NGRiXkEyXkFqcGc@._V1_QL75_UY562_CR23,0,380,562_.jpg",
+      "Plot": "How the bad boy of English football became a Hollywood tough guy.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
+      "Director": "Ben Nicholas, David Tryhorn",
+      "Writer": "N/A",
+      "Actors": "Vinnie Jones",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "30 for 30: Lance",
       "netflix_url": "https://www.netflix.com/title/81753677",
       "year": "2020",
@@ -2942,6 +2979,23 @@
       "Actors": "Sue Bird, Megan Rapinoe, Diana Taurasi",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Poldi",
+      "netflix_url": "https://www.netflix.com/title/81758402",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt42456008",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDExMzdiZjEtZTAxOC00YzM2LTkyZDMtZjc2NmYxMWYxODY3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "Plot": "The left foot: infamous. The guy behind it: legendary. Lukas tells his story in Poldi.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Lukas Podolski",
+      "Language": "German",
+      "Country": "Germany"
     },
     {
       "title": "Skywalkers: A Love Story",
@@ -3053,6 +3107,30 @@
       "Country": "United States"
     },
     {
+      "title": "Rafa",
+      "netflix_url": "https://www.netflix.com/title/81785900",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Chris & Martina: The Final Set",
+      "netflix_url": "https://www.netflix.com/title/81786159",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt42037166",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmY5NmJhNzAtNjE0MC00ZGRjLWE1MjctMTkyMWYwMDlkZWU4XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Tennis icons Chris Evert and Martina Navratilova discuss their paths to stardom, their rivalry and friendship, and how they support each other through cancer treatment.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Documentary",
+      "Director": "Rebecca Gitlitz",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Aitana: Metamorphosis",
       "netflix_url": "https://www.netflix.com/title/81786471",
       "year": "2025",
@@ -3107,8 +3185,18 @@
       "title": "Untold UK: Jamie Vardy",
       "netflix_url": "https://www.netflix.com/title/81915311",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.6",
+      "imdb_id": "tt41777258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzExNWNhMDctM2E1My00MWZkLTk3YmMtNWEyMGJiNzkxZjE2XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Jamie Vardy's evolution from part time football player to a Premier League legend.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Jesse Vile",
+      "Writer": "N/A",
+      "Actors": "Marc Albrighton, Andy King, Wes Morgan",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Avicii - I'm Tim",
@@ -3145,6 +3233,23 @@
       "Country": "India"
     },
     {
+      "title": "The American Experiment",
+      "netflix_url": "https://www.netflix.com/title/81930567",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt42605728",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTM1MTA5MTY0MV5BMl5BanBnXkFtZTcwMTQ4OTUzMg@@._V1_QL75_UX280_CR0,9,280,280_.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Martin Sheen",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Julia's Stepping Stones",
       "netflix_url": "https://www.netflix.com/title/81936472",
       "year": "2024",
@@ -3172,8 +3277,18 @@
       "title": "Barbara - Becoming Shirin David",
       "netflix_url": "https://www.netflix.com/title/81953975",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.9",
+      "imdb_id": "tt31806052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjY3YTY0NzYtODljMC00ZDkxLWE3ZmQtYzU4MWM5OWNmOTdjXkEyXkFqcGc@._V1_QL75_UY562_CR33,0,380,562_.jpg",
+      "Plot": "Meet Barbara, who takes the name Shirin David as a rapper and becomes one of the most successful German-speaking artists. Shows her struggles with perfectionism, business, and identity.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Michael Schmitt",
+      "Writer": "Michael Schmitt",
+      "Actors": "Shirin David, Katharina Altinok, Erika Davidavicius",
+      "Language": "German",
+      "Country": "Germany"
     },
     {
       "title": "Songs From the Hole",
@@ -3411,6 +3526,23 @@
       "Country": "United States"
     },
     {
+      "title": "Thomas Jefferson",
+      "netflix_url": "https://www.netflix.com/title/82765235",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35792758",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk1YjRlZmYtZWYwYi00NWIxLThlMGItODE2ODUzMjUwZmEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The life and achievements of the USA's third president are explored.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Aedan Jayce, Devin E. Haqq, Andy Bowles",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Men Who Built America: Frontiersmen",
       "netflix_url": "https://www.netflix.com/title/82765247",
       "year": "2018",
@@ -3441,6 +3573,40 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Mo Brings Plenty, Edward T. O'Donnell, Shane Doyle",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "André Is an Idiot",
+      "netflix_url": "https://www.netflix.com/title/82771834",
+      "year": "2025",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt34963034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDA5OTI0NzctNTA0Ni00ZDFjLTk2ZTctMjY5ZmM2NWNkNmExXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "Plot": "Andre, an irreverent man, embarks on an unexpected journey after receiving a terminal diagnosis, determined to maintain his humor while learning to die happily.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Documentary, Biography, Comedy",
+      "Director": "Tony Benna",
+      "Writer": "N/A",
+      "Actors": "Lee Einhorn, André Ricciardi",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Black Patriots",
+      "netflix_url": "https://www.netflix.com/title/82792463",
+      "year": "2022",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt0800037",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTY3MjU1OTE1NV5BMl5BanBnXkFtZTcwNDk3MjgyOQ@@._V1_SX300.jpg",
+      "Plot": "A two-part, four-hour documentary series honoring African-American servicemen and women.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Documentary",
+      "Director": "Frank Martin",
+      "Writer": "Frank Martin, Jeff Stetson",
+      "Actors": "Halle Berry, Avery Brooks, Colin Powell",
       "Language": "English",
       "Country": "United States"
     }

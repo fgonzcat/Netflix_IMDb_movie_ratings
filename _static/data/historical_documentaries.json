@@ -1809,8 +1809,18 @@
       "title": "The Bus: A French Football Mutiny",
       "netflix_url": "https://www.netflix.com/title/81728168",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt37024319",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTUzOTZmZmItMTY0OC00ODU4LTliN2QtNGE4ZWYxMzNmNDgwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "This documentary revisits the controversy surrounding the French team during the 2010 FIFA World Cup and the strike that made headlines and outraged an entire country.",
+      "Type": "movie",
+      "RunTime": "81 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Christophe Astruc, Jérôme Fritel",
+      "Writer": "Olivier Bouchara, Pierre Gault, Seamus Haley",
+      "Actors": "Raymond Domenech, Patrice Evra, Roselyne Bachelot",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Conversations with Ruth de Souza",
@@ -1910,6 +1920,23 @@
       "Actors": "Martina Gaisie, Felicia Dadzie, Priscilla Kyeremah",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "The American Experiment",
+      "netflix_url": "https://www.netflix.com/title/81930567",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt42605728",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTM1MTA5MTY0MV5BMl5BanBnXkFtZTcwMTQ4OTUzMg@@._V1_QL75_UX280_CR0,9,280,280_.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Martin Sheen",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Julia's Stepping Stones",
@@ -2031,6 +2058,40 @@
       "Country": "United States"
     },
     {
+      "title": "The Harlem Hellfighters",
+      "netflix_url": "https://www.netflix.com/title/82765153",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt18393662",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMzMDJiMTYtMDU2Ny00YjAwLTgxOGQtOTM5Zjg4NmUzOTliXkEyXkFqcGdeQXVyOTkwMjE0ODE@._V1_SX300.jpg",
+      "Plot": "It follows the Hellfighters through the eyes of three men: James Europe, Privates Henry Johnson, and Horace Pippin.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Mandla Dube",
+      "Writer": "N/A",
+      "Actors": "Robin Roberts",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Triumph: Jesse Owens and the Berlin Olympics",
+      "netflix_url": "https://www.netflix.com/title/82765164",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31557304",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWE5Mzk0OGUtMDljMS00ZjNmLWIwMTQtYWQ3MjcxMWZhZGUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows the 1936 Berlin Olympics when Black athlete Jesse Owens won 4 golds against the backdrop of Hitler's racist Nazi regime in Germany.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Documentary",
+      "Director": "Andre Gaines",
+      "Writer": "N/A",
+      "Actors": "Don Cheadle, Carl Lewis, Jesse Owens",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Theodore Roosevelt",
       "netflix_url": "https://www.netflix.com/title/82765206",
       "year": "2022",
@@ -2116,6 +2177,23 @@
       "Country": "United States"
     },
     {
+      "title": "Thomas Jefferson",
+      "netflix_url": "https://www.netflix.com/title/82765235",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35792758",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk1YjRlZmYtZWYwYi00NWIxLThlMGItODE2ODUzMjUwZmEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The life and achievements of the USA's third president are explored.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Aedan Jayce, Devin E. Haqq, Andy Bowles",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "American Godfathers: The Five Families",
       "netflix_url": "https://www.netflix.com/title/82765245",
       "year": "2024",
@@ -2182,6 +2260,23 @@
       "Actors": "Michael Redgrave, Ralph Richardson, Emlyn Williams",
       "Language": "English",
       "Country": "United Kingdom, Australia, Canada"
+    },
+    {
+      "title": "Black Patriots",
+      "netflix_url": "https://www.netflix.com/title/82792463",
+      "year": "2022",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt0800037",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTY3MjU1OTE1NV5BMl5BanBnXkFtZTcwNDk3MjgyOQ@@._V1_SX300.jpg",
+      "Plot": "A two-part, four-hour documentary series honoring African-American servicemen and women.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Documentary",
+      "Director": "Frank Martin",
+      "Writer": "Frank Martin, Jeff Stetson",
+      "Actors": "Halle Berry, Avery Brooks, Colin Powell",
+      "Language": "English",
+      "Country": "United States"
     }
   ]
 }
