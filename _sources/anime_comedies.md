@@ -44,6 +44,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9302" target="_blan
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Puniru Is a Cute Slime*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81975106" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Milky☆Subway: The Galactic Limited Express – the Movie*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82703490" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*KILL BLUE*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82757009" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Chainsmoker Cat*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82760630" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -82,6 +83,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/9302" target="_blan
 
  
 ---
-*Page last updated on: 2026-06-30*
+*Page last updated on: 2026-07-22*
 
  

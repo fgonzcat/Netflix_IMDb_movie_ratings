@@ -105,6 +105,40 @@
       "Country": "United Kingdom, Ireland, Belgium, United States"
     },
     {
+      "title": "Born on the Fourth of July",
+      "netflix_url": "https://www.netflix.com/title/325268",
+      "year": "1989",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0096969",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDk5NTA0NF5BMl5BanBnXkFtZTgwMTkyMDUxMDE@._V1_SX300.jpg",
+      "Plot": "The biography of Ron Kovic. Paralyzed in the Vietnam war, he becomes an anti-war and pro-human rights political activist after feeling betrayed by the country for which he fought.",
+      "Type": "movie",
+      "RunTime": "145 min",
+      "Genre": "Biography, Drama, War",
+      "Director": "Oliver Stone",
+      "Writer": "Ron Kovic, Oliver Stone",
+      "Actors": "Tom Cruise, Bryan Larkin, Raymond J. Barry",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
+      "title": "Fargo",
+      "netflix_url": "https://www.netflix.com/title/493387",
+      "year": "1996",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0116282",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Joel Coen, Ethan Coen",
+      "Writer": "Ethan Coen, Joel Coen",
+      "Actors": "William H. Macy, Frances McDormand, Steve Buscemi",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Glory",
       "netflix_url": "https://www.netflix.com/title/547335",
       "year": "1989",
@@ -119,6 +153,23 @@
       "Writer": "Kevin Jarre, Lincoln Kirstein, Peter Burchard",
       "Actors": "Matthew Broderick, Denzel Washington, Cary Elwes",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Out of Africa",
+      "netflix_url": "https://www.netflix.com/title/60000019",
+      "year": "1985",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0089755",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ5MGI3NWYtMmVjNS00OWIzLWEzMGQtMGZhMzY3NjI2YjhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+      "Type": "movie",
+      "RunTime": "161 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "Sydney Pollack",
+      "Writer": "Karen Blixen, Judith Thurman, Errol Trzebinski",
+      "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer",
+      "Language": "English, Swahili, Arabic",
       "Country": "United States"
     },
     {
@@ -258,6 +309,13 @@
       "Country": "United States"
     },
     {
+      "title": "Lawrence of Arabia: Restored Version",
+      "netflix_url": "https://www.netflix.com/title/70012020",
+      "year": "1962",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
       "netflix_url": "https://www.netflix.com/title/70021655",
       "year": "2005",
@@ -273,6 +331,23 @@
       "Actors": "Peter Sallis, Helena Bonham Carter, Ralph Fiennes",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Little Miss Sunshine",
+      "netflix_url": "https://www.netflix.com/title/70043947",
+      "year": "2006",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0449059",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SX300.jpg",
+      "Plot": "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Jonathan Dayton, Valerie Faris",
+      "Writer": "Michael Arndt",
+      "Actors": "Steve Carell, Toni Collette, Greg Kinnear",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Airport",
@@ -307,6 +382,23 @@
       "Actors": "Jeremy Renner, Anthony Mackie, Brian Geraghty",
       "Language": "English, Arabic",
       "Country": "United States, Luxembourg, Canada"
+    },
+    {
+      "title": "Beginners",
+      "netflix_url": "https://www.netflix.com/title/70148804",
+      "year": "2011",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1532503",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI0ZTYwYjItZTA0ZC00YTMwLTljMmYtODZlZjJiNGY3YmExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Oliver, a graphic designer, is attracted to a free-spirited and unpredictable Anna. Memories of his father encourage him to open himself up to the potential of a true and long-lasting relationship.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Mike Mills",
+      "Writer": "Mike Mills",
+      "Actors": "Ewan McGregor, Christopher Plummer, Mélanie Laurent",
+      "Language": "English, French",
+      "Country": "United States"
     },
     {
       "title": "Skyfall",
@@ -426,6 +518,23 @@
       "Actors": "James Caan, Kathy Bates, Richard Farnsworth",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Theory of Everything",
+      "netflix_url": "https://www.netflix.com/title/80000644",
+      "year": "2014",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt2980516",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SX300.jpg",
+      "Plot": "Stephen Hawking gets unprecedented success in the field of physics despite being diagnosed with motor neuron disease at the age of 21. He defeats awful odds as his first wife Jane aids him loyally.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "James Marsh",
+      "Writer": "Anthony McCarten, Jane Hawking",
+      "Actors": "Eddie Redmayne, Felicity Jones, Tom Prior",
+      "Language": "English, French, Ukrainian",
+      "Country": "United Kingdom, Japan, United States"
     },
     {
       "title": "Ex Machina",
@@ -819,6 +928,23 @@
       "Country": "India"
     },
     {
+      "title": "Nomadland",
+      "netflix_url": "https://www.netflix.com/title/81323894",
+      "year": "2020",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt9770150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGNkOWQ0ZjMtMTc4Ny00NDRhLTgyMjUtNzFmZDM0MTc3N2JjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman in her sixties, after losing everything in the Great Recession, embarks on a journey through the American West, living as a van-dwelling modern-day nomad.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama",
+      "Director": "Chloé Zhao",
+      "Writer": "Chloé Zhao, Jessica Bruder",
+      "Actors": "Frances McDormand, David Strathairn, Linda May",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "If Anything Happens I Love You",
       "netflix_url": "https://www.netflix.com/title/81349306",
       "year": "2020",
@@ -870,6 +996,23 @@
       "Country": "United States"
     },
     {
+      "title": "Another Round",
+      "netflix_url": "https://www.netflix.com/title/81450757",
+      "year": "2020",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt10288566",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjYxN2EwYjUtNzdiOS00NTgwLTgwNzMtZmE1NGMzYTYxNzBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four high-school teachers consume alcohol on a daily basis to see how it affects their social and professional lives.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Thomas Vinterberg",
+      "Writer": "Thomas Vinterberg, Tobias Lindholm",
+      "Actors": "Mads Mikkelsen, Thomas Bo Larsen, Magnus Millang",
+      "Language": "Danish, Swedish, French, English, Russian",
+      "Country": "Denmark, Sweden, Netherlands, Belgium, France"
+    },
+    {
       "title": "KPop Demon Hunters",
       "netflix_url": "https://www.netflix.com/title/81498621",
       "year": "2025",
@@ -902,6 +1045,23 @@
       "Actors": "Oscar Isaac, Jacob Elordi, Christoph Waltz",
       "Language": "English, Danish, French",
       "Country": "Mexico, United States"
+    },
+    {
+      "title": "Poor Things",
+      "netflix_url": "https://www.netflix.com/title/81603794",
+      "year": "2023",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt14230458",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWU2MjRjZTYtMjVkMS00MTBjLWFiMTAtYmZlYTk1YjkyMWFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "An account of the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.",
+      "Type": "movie",
+      "RunTime": "141 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Yorgos Lanthimos",
+      "Writer": "Tony McNamara, Alasdair Gray",
+      "Actors": "Emma Stone, Mark Ruffalo, Willem Dafoe",
+      "Language": "English, French, Portuguese",
+      "Country": "Ireland, United Kingdom, United States, Hungary"
     },
     {
       "title": "Anatomy of a Fall",
@@ -1030,6 +1190,23 @@
       "Country": "United States"
     },
     {
+      "title": "Hamnet",
+      "netflix_url": "https://www.netflix.com/title/83077856",
+      "year": "2025",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt14905854",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "In late 16th-century England, Agnes, a healer sensitive to the world around her, builds a home with William, a local tutor and aspiring playwright. As their lives fracture, they are tested by distance, silence, and grief.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Chloé Zhao",
+      "Writer": "Chloé Zhao, Maggie O&apos;Farrell",
+      "Actors": "Jessie Buckley, Paul Mescal, Zac Wishart",
+      "Language": "English, Latin, French, Greek, Ancient (to 1453)",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Pulp Fiction",
       "netflix_url": "https://www.netflix.com/title/880640",
       "year": "1994",
@@ -1044,6 +1221,23 @@
       "Writer": "Quentin Tarantino, Roger Avary",
       "Actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
       "Language": "English, Spanish, French",
+      "Country": "United States"
+    },
+    {
+      "title": "Rocky",
+      "netflix_url": "https://www.netflix.com/title/915927",
+      "year": "1976",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0075148",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Drama, Sport",
+      "Director": "John G. Avildsen",
+      "Writer": "Sylvester Stallone",
+      "Actors": "Sylvester Stallone, Talia Shire, Burt Young",
+      "Language": "English, Spanish, Italian",
       "Country": "United States"
     }
   ]

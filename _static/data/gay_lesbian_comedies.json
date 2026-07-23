@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/7120",
   "movies": [
     {
+      "title": "Beginners",
+      "netflix_url": "https://www.netflix.com/title/70148804",
+      "year": "2011",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1532503",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI0ZTYwYjItZTA0ZC00YTMwLTljMmYtODZlZjJiNGY3YmExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Oliver, a graphic designer, is attracted to a free-spirited and unpredictable Anna. Memories of his father encourage him to open himself up to the potential of a true and long-lasting relationship.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Mike Mills",
+      "Writer": "Mike Mills",
+      "Actors": "Ewan McGregor, Christopher Plummer, Mélanie Laurent",
+      "Language": "English, French",
+      "Country": "United States"
+    },
+    {
       "title": "To Each, Her Own",
       "netflix_url": "https://www.netflix.com/title/80160994",
       "year": "2018",
@@ -314,6 +331,23 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Bros",
+      "netflix_url": "https://www.netflix.com/title/81577750",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9731598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2UxNGVkNDctMTdkZi00NzgyLWJiZjQtMGY1MWUwNTQ1MTY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two men with commitment problems attempt a relationship.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Nicholas Stoller",
+      "Writer": "Billy Eichner, Nicholas Stoller",
+      "Actors": "Billy Eichner, Luke Macfarlane, Guy Branum",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Happy Ending",

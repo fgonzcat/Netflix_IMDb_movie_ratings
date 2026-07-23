@@ -258,7 +258,9 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/81050" target="_bla
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMTRlZGUxMmEtYzFkZS00Y2JhLWI2YjctMmRmMzRkNDRhYzc4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Angi: Fake Life, True Crime*</strong></summary>  <div class="movie-plot">35-year-old designer Ana Páez was found dead, naked, head in plastic bag, in Barcelona, Feb 2008. Police explored sexual crime theories until Angi emerged. Series revisits "near-perfect crime," Angi's past with husband who died 1996.</div> </details> | <a href="https://www.imdb.com/title/tt36416165/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81925845" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMDBmZTNhY2UtNmRlZC00NzczLWI2YTQtNDkzZDlhNzJiZWYxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Michael Jackson: The Verdict*</strong></summary>  <div class="movie-plot">Key players from inside the courtroom recount the trial of Michael Jackson, examining his complex legacy.</div> </details> | <a href="https://www.imdb.com/title/tt42873612/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81929201" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*The TikTok Killer*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81957000" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Worst Neighbor Ever*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82016571" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZmYxZjA5YmItMjJkYi00NzllLWJjMzgtZjFjZjBlZGQwMmRkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Perfect Neighbor*</strong></summary>  <div class="movie-plot">A minor disagreement between neighbors in Florida takes a lethal turn, with police body camera footage and interviews probing the aftermath of the state's controversial "stand your ground" laws.</div> </details> | <a href="https://www.imdb.com/title/tt34962891/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82018736" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Miguel Ángel Blanco: The 48 Hours that Changed Spain*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82090337" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Instadocs: Alex Murdaugh, Unconvicted*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82772142" target="_blank">Netflix_link</a> |
 
  
@@ -298,6 +300,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/81050" target="_bla
 
  
 ---
-*Page last updated on: 2026-06-30*
+*Page last updated on: 2026-07-22*
 
  

@@ -190,6 +190,23 @@
       "Country": "India"
     },
     {
+      "title": "Always",
+      "netflix_url": "https://www.netflix.com/title/246920",
+      "year": "1989",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0096794",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGFhY2JkYWUtZjk0ZS00NGQxLTk1MjQtZDkxMGNkODAwNzRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The spirit of a recently deceased expert pilot mentors a newer pilot while watching him fall in love with the girlfriend that he left behind.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "Steven Spielberg",
+      "Writer": "Jerry Belson, Dalton Trumbo, Frederick Hazlitt Brennan",
+      "Actors": "Richard Dreyfuss, Holly Hunter, Brad Johnson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The American President",
       "netflix_url": "https://www.netflix.com/title/251922",
       "year": "1995",
@@ -222,6 +239,40 @@
       "Actors": "Bruce Willis, Michelle Pfeiffer, Colleen Rennison",
       "Language": "English, Italian",
       "Country": "United States"
+    },
+    {
+      "title": "Out of Africa",
+      "netflix_url": "https://www.netflix.com/title/60000019",
+      "year": "1985",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0089755",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ5MGI3NWYtMmVjNS00OWIzLWEzMGQtMGZhMzY3NjI2YjhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+      "Type": "movie",
+      "RunTime": "161 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "Sydney Pollack",
+      "Writer": "Karen Blixen, Judith Thurman, Errol Trzebinski",
+      "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer",
+      "Language": "English, Swahili, Arabic",
+      "Country": "United States"
+    },
+    {
+      "title": "High Fidelity",
+      "netflix_url": "https://www.netflix.com/title/60000166",
+      "year": "2000",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0146882",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMTI1ODYyOV5BMl5BanBnXkFtZTYwNjQyOTI3._V1_SX300.jpg",
+      "Plot": "Rob, a record store owner and compulsive list maker, recounts his top five breakups, including the one in progress.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Stephen Frears",
+      "Writer": "Nick Hornby, D.V. DeVincentis, Steve Pink",
+      "Actors": "John Cusack, Iben Hjejle, Todd Louiso",
+      "Language": "English, Danish",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Phir Bhi Dil Hai Hindustani",
@@ -724,6 +775,13 @@
       "Country": "India"
     },
     {
+      "title": "Tyler Perry's: Why Did I Get Married?",
+      "netflix_url": "https://www.netflix.com/title/70077527",
+      "year": "2007",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Aaja Nachle",
       "netflix_url": "https://www.netflix.com/title/70077538",
       "year": "2007",
@@ -792,6 +850,13 @@
       "Country": "India"
     },
     {
+      "title": "Tyler Perry's The Family That Preys",
+      "netflix_url": "https://www.netflix.com/title/70098607",
+      "year": "2008",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Rab Ne Bana Di Jodi",
       "netflix_url": "https://www.netflix.com/title/70103521",
       "year": "2008",
@@ -841,6 +906,30 @@
       "Actors": "Morris Chestnut, Taraji P. Henson, Maeve Quinlan",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Answer Man",
+      "netflix_url": "https://www.netflix.com/title/70112459",
+      "year": "2009",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1187041",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTM3ZmRmOTctODcwNy00Yzg2LTkyYzctOTVlNWE4NmM4ZTE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A reclusive author of spiritual books is pursued for advice by a single mother and a man fresh out of rehab.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Romance",
+      "Director": "John Hindman",
+      "Writer": "John Hindman",
+      "Actors": "Jeff Daniels, Lauren Graham, Lou Taylor Pucci",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Tyler Perry's Why Did I Get Married Too?",
+      "netflix_url": "https://www.netflix.com/title/70120826",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Night Catches Us",
@@ -945,6 +1034,23 @@
       "Country": "United States"
     },
     {
+      "title": "Beginners",
+      "netflix_url": "https://www.netflix.com/title/70148804",
+      "year": "2011",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1532503",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI0ZTYwYjItZTA0ZC00YTMwLTljMmYtODZlZjJiNGY3YmExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Oliver, a graphic designer, is attracted to a free-spirited and unpredictable Anna. Memories of his father encourage him to open himself up to the potential of a true and long-lasting relationship.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Mike Mills",
+      "Writer": "Mike Mills",
+      "Actors": "Ewan McGregor, Christopher Plummer, Mélanie Laurent",
+      "Language": "English, French",
+      "Country": "United States"
+    },
+    {
       "title": "Lafangey Parindey",
       "netflix_url": "https://www.netflix.com/title/70153183",
       "year": "2010",
@@ -994,6 +1100,23 @@
       "Actors": "Ranveer Singh, Anushka Sharma, Ranjit Batra",
       "Language": "Hindi, English, Punjabi",
       "Country": "India"
+    },
+    {
+      "title": "The Vow",
+      "netflix_url": "https://www.netflix.com/title/70206134",
+      "year": "2012",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt1606389",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1OTU5MjU0N15BMl5BanBnXkFtZTcwMzI3OTU5Ng@@._V1_SX300.jpg",
+      "Plot": "A car accident puts Paige in a coma, and when she wakes up with severe memory loss, her husband Leo works to win her heart again.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Drama, Romance",
+      "Director": "Michael Sucsy",
+      "Writer": "Abby Kohn, Marc Silverstein, Jason Katims",
+      "Actors": "Rachel McAdams, Channing Tatum, Sam Neill",
+      "Language": "English",
+      "Country": "United States, Australia, France, Canada, Germany, Brazil, United Kingdom, China"
     },
     {
       "title": "Take This Waltz",
@@ -1096,6 +1219,23 @@
       "Actors": "Shah Rukh Khan, Katrina Kaif, Anushka Sharma",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Don Jon",
+      "netflix_url": "https://www.netflix.com/title/70267239",
+      "year": "2013",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt2229499",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDgwMTU2NDctODI0YS00ZmIxLWFiNjEtZDI2ZGE3NWFlZDY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A New Jersey guy dedicated to his family, friends, and church, develops unrealistic expectations from watching porn and works to find happiness and intimacy with his potential true love.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Joseph Gordon-Levitt",
+      "Writer": "Joseph Gordon-Levitt",
+      "Actors": "Joseph Gordon-Levitt, Scarlett Johansson, Julianne Moore",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Blue Is the Warmest Color",
@@ -1251,6 +1391,23 @@
       "Country": "India"
     },
     {
+      "title": "The Fault in Our Stars",
+      "netflix_url": "https://www.netflix.com/title/70298734",
+      "year": "2014",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt2582846",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTA4ODg5YWUtYmZiYy00Y2M4LWE0NjEtODE5MzhkYmJmZGEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Hazel and Gus are teenagers who meet at a cancer support group and fall in love. They both share the same acerbic wit and a love of books, especially \"An Imperial Affliction\", so they embark on a journey to visit an author in Amst...",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Drama, Romance",
+      "Director": "Josh Boone",
+      "Writer": "Scott Neustadter, Michael H. Weber, John Green",
+      "Actors": "Shailene Woodley, Ansel Elgort, Nat Wolff",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Tasting Menu",
       "netflix_url": "https://www.netflix.com/title/70299451",
       "year": "2013",
@@ -1387,6 +1544,40 @@
       "Country": "United States"
     },
     {
+      "title": "Muriel's Wedding",
+      "netflix_url": "https://www.netflix.com/title/783045",
+      "year": "1994",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0110598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGJkMmUwODMtZGU0Yi00YWRiLThlZGEtMTg2YTVkODcwZDQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young social outcast in Australia steals money from her parents to finance a vacation where she hopes to find happiness, and perhaps love.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Comedy, Drama",
+      "Director": "P.J. Hogan",
+      "Writer": "P.J. Hogan",
+      "Actors": "Toni Collette, Rachel Griffiths, Bill Hunter",
+      "Language": "English",
+      "Country": "Australia, France"
+    },
+    {
+      "title": "The Theory of Everything",
+      "netflix_url": "https://www.netflix.com/title/80000644",
+      "year": "2014",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt2980516",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SX300.jpg",
+      "Plot": "Stephen Hawking gets unprecedented success in the field of physics despite being diagnosed with motor neuron disease at the age of 21. He defeats awful odds as his first wife Jane aids him loyally.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "James Marsh",
+      "Writer": "Anthony McCarten, Jane Hawking",
+      "Actors": "Eddie Redmayne, Felicity Jones, Tom Prior",
+      "Language": "English, French, Ukrainian",
+      "Country": "United Kingdom, Japan, United States"
+    },
+    {
       "title": "Bewakoofiyaan",
       "netflix_url": "https://www.netflix.com/title/80004989",
       "year": "2014",
@@ -1438,6 +1629,23 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "Serena",
+      "netflix_url": "https://www.netflix.com/title/80015569",
+      "year": "2014",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt1247690",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTExMDY2OTYxMTNeQTJeQWpwZ15BbWU4MDc2NDE5MTQx._V1_SX300.jpg",
+      "Plot": "In Depression-era North Carolina, the future of George Pemberton's timber empire becomes complicated when he marries Serena.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Drama, History, Romance",
+      "Director": "Susanne Bier",
+      "Writer": "Christopher Kyle, Ron Rash",
+      "Actors": "Bradley Cooper, Jennifer Lawrence, Rhys Ifans",
+      "Language": "English",
+      "Country": "France, United States, Czech Republic, Canada"
+    },
+    {
       "title": "Aloha",
       "netflix_url": "https://www.netflix.com/title/80038361",
       "year": "2015",
@@ -1485,6 +1693,23 @@
       "Director": "Hannah Fidell",
       "Writer": "Hannah Fidell",
       "Actors": "Taissa Farmiga, Ben Rosenfield, Lindsay Burdge",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Choice",
+      "netflix_url": "https://www.netflix.com/title/80075010",
+      "year": "2016",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt3797868",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDA2ODcxMV5BMl5BanBnXkFtZTgwODMzOTMzNzE@._V1_SX300.jpg",
+      "Plot": "Travis and Gabby first meet as neighbors in a small coastal town and wind up in a relationship that is tested by life's most defining events.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Drama, Romance",
+      "Director": "Ross Katz",
+      "Writer": "Bryan Sipe, Nicholas Sparks",
+      "Actors": "Benjamin Walker, Teresa Palmer, Alexandra Daddario",
       "Language": "English",
       "Country": "United States"
     },
@@ -2236,6 +2461,23 @@
       "Actors": "Lily James, Armie Hammer, Kristin Scott Thomas",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "After Everything",
+      "netflix_url": "https://www.netflix.com/title/81002452",
+      "year": "2018",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt6688022",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGEyZTgxYmEtMTlkZi00YmRiLTgyMzUtYTgzMTYyZmIxZTBiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young couple's relationship develops quickly when one of them is diagnosed with a life-changing illness.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Hannah Marks, Joey Power",
+      "Writer": "Hannah Marks, Joey Power",
+      "Actors": "Jeremy Allen White, Maika Monroe, DeRon Horton",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Half Of It",
@@ -6088,8 +6330,18 @@
       "title": "18th Rose",
       "netflix_url": "https://www.netflix.com/title/81930905",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.6",
+      "imdb_id": "tt39751309",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0ODBhZDMtZTc2OC00NWZiLTliYzgtOGU1MDAxMzhkNDhiXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "A spirited teen dreaming of the perfect debut makes a deal with a lonely newcomer, but unexpected feelings and revelations may shatter their plans.",
+      "Type": "movie",
+      "RunTime": "131 min",
+      "Genre": "Drama, Romance",
+      "Director": "Dolly Dulu",
+      "Writer": "Dolly Dulu, John Carlo Pacala",
+      "Actors": "Xyriel Manabat, Kyle Echarri, Nikki Valdez",
+      "Language": "Filipino, Tagalog, English",
+      "Country": "Philippines"
     },
     {
       "title": "The Time That Remains",
@@ -6351,6 +6603,20 @@
       "imdb_id": null
     },
     {
+      "title": "Pati Patni Aur Woh Do",
+      "netflix_url": "https://www.netflix.com/title/82034869",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Heartstopper Forever",
+      "netflix_url": "https://www.netflix.com/title/82040750",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Aaha Kalyanam (Telugu)",
       "netflix_url": "https://www.netflix.com/title/82062377",
       "year": "2014",
@@ -6559,6 +6825,23 @@
       "Country": "United States"
     },
     {
+      "title": "Mile End Kicks",
+      "netflix_url": "https://www.netflix.com/title/82622289",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt33301434",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5YzQ1NWQtNmNmNi00N2IyLWJhOTYtNmQ0YTBiY2Q5N2NmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A 24-year-old music critic gets romantically involved with members of an indie band she decides to publicize.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Chandler Levack",
+      "Writer": "Chandler Levack",
+      "Actors": "Barbie Ferreira, Jay Baruchel, Devon Bostick",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
       "title": "Even If This Love Disappears Tonight",
       "netflix_url": "https://www.netflix.com/title/82652051",
       "year": "2026",
@@ -6574,6 +6857,40 @@
       "Actors": "Shunsuke Michieda, Riko Fukumoto, Kotone Furukawa",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "You Can Live Forever",
+      "netflix_url": "https://www.netflix.com/title/82699253",
+      "year": "2023",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt15782570",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGFiNDQ2MjgtMjcyNi00MzBlLThhMTItMGYwNTZjOTYyMjdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When lesbian teen Jaime is sent to live in a Jehovah's Witness community, she falls hard for a devout Witness girl and the two embark on an intense affair with consequences that will reshape the rest of their lives.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Drama, Romance",
+      "Director": "Mark Slutsky, Sarah Watts",
+      "Writer": "Sarah Watts, Mark Slutsky",
+      "Actors": "Anwen O'Driscoll, June Laporte, Liane Balaban",
+      "Language": "English, French",
+      "Country": "Canada"
+    },
+    {
+      "title": "Double Happiness",
+      "netflix_url": "https://www.netflix.com/title/82711657",
+      "year": "2026",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0109655",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjYwZGJhZDQtOWYzOC00NzA1LTgwZWMtNmU4MWQwMGQ3NGE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "East clashes with West and generations collide as a young Chinese woman struggles to appease her old-fashioned father, and at the same time pursue her modern dreams.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Drama, Romance",
+      "Director": "Mina Shum",
+      "Writer": "Mina Shum",
+      "Actors": "Sandra Oh, Stephen Chang, Claudette Carracedo",
+      "Language": "English, Cantonese",
+      "Country": "Canada"
     },
     {
       "title": "Youth",
@@ -6593,11 +6910,72 @@
       "Country": "India"
     },
     {
+      "title": "Love You So Bad",
+      "netflix_url": "https://www.netflix.com/title/82735088",
+      "year": "2025",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt37982738",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOThiNzI5OTUtNDNkZS00NjI5LTk2NDYtZjI1N2ZkNjUyYzMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sassy, confident and unapologetically herself, college senior Savannah is determined to live life on her own terms. She finds herself torn between two different men: bad boy and chick magnet L.A. who fuels her wild side, and princ...",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama, Romance",
+      "Director": "Mae Cruz-Alviar",
+      "Writer": "Maren Kyle Loreno, Crystal S. San Miguel, Vanessa R. Valdez",
+      "Actors": "Bianca De Vera, Will Ashley, Dustin Yu",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
+      "title": "Kalank",
+      "netflix_url": "https://www.netflix.com/title/82739048",
+      "year": "2019",
+      "imdb_rating": "3.7",
+      "imdb_id": "tt6988116",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWVlMWNmMTUtMmY2MC00NWQwLTkzZjctMWMzMzFhMDVjNDNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The lives of six enigmatic characters become entangled whilst in search of love, but separated by the dichotomy between the two worlds of Husnabad, a town in North India.",
+      "Type": "movie",
+      "RunTime": "166 min",
+      "Genre": "Drama, Romance",
+      "Director": "Abhishek Varman",
+      "Writer": "Shibani Bathija, Hussain Dalal, Abhishek Varman",
+      "Actors": "Alia Bhatt, Kiara Advani, Kriti Sanon",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Nee Forever",
       "netflix_url": "https://www.netflix.com/title/82776015",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.6",
+      "imdb_id": "tt40720168",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZlZGRlYWItOWE1YS00Mjg2LWJiNDktMWJmN2VlYmUyM2M0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A Gen Z couple meets via dating app. Their relationship unfolds with unexpected consequences.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Drama, Romance",
+      "Director": "Ashok Kumar Kalaivani",
+      "Writer": "Ashok Kumar Kalaivani",
+      "Actors": "Chella, Sudharsan Govind, Y.G. Mahendran",
+      "Language": "Tamil, Hindi, Telugu, Kannada, Malayalam",
+      "Country": "India"
+    },
+    {
+      "title": "29",
+      "netflix_url": "https://www.netflix.com/title/82776022",
+      "year": "2026",
+      "imdb_rating": "9.2",
+      "imdb_id": "tt37737315",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjc3ZWNhMzMtZDc0Ny00NDEwLWExY2YtZWNkM2RmMzI0MTI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "Follows Sathya and Viji, a couple navigating their relationship as Viji confronts Sathya about his reluctance to propose, leading him to find a special spot on the beach to profess his love.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Rathna Kumar",
+      "Writer": "Rathna Kumar",
+      "Actors": "Vidhu, Preethi Asrani, Leona Lishoy",
+      "Language": "Tamil, Telugu",
+      "Country": "India"
     },
     {
       "title": "RaPo 22",

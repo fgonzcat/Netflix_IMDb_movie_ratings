@@ -71,6 +71,23 @@
       "Country": "United States"
     },
     {
+      "title": "Fargo",
+      "netflix_url": "https://www.netflix.com/title/493387",
+      "year": "1996",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0116282",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Joel Coen, Ethan Coen",
+      "Writer": "Ethan Coen, Joel Coen",
+      "Actors": "William H. Macy, Frances McDormand, Steve Buscemi",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Snatch",
       "netflix_url": "https://www.netflix.com/title/60003388",
       "year": "2000",
@@ -358,6 +375,23 @@
       "Actors": "Cory Bowles, Lucy Decoutere, Barrie Dunn",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "Beginners",
+      "netflix_url": "https://www.netflix.com/title/70148804",
+      "year": "2011",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1532503",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI0ZTYwYjItZTA0ZC00YTMwLTljMmYtODZlZjJiNGY3YmExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Oliver, a graphic designer, is attracted to a free-spirited and unpredictable Anna. Memories of his father encourage him to open himself up to the potential of a true and long-lasting relationship.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Mike Mills",
+      "Writer": "Mike Mills",
+      "Actors": "Ewan McGregor, Christopher Plummer, Mélanie Laurent",
+      "Language": "English, French",
+      "Country": "United States"
     },
     {
       "title": "Nora's Will",
@@ -2032,6 +2066,23 @@
       "Actors": "John Stamos, Jeffrey Ross, Chris Rock",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Violent Night",
+      "netflix_url": "https://www.netflix.com/title/81611464",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt12003946",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE5ODNmODYtNDg0MC00ZDc4LWEyZmItNTQ2MGQ5MGQxMzllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When an elite team of mercenaries breaks into a family compound on Christmas Eve, a disgruntled Santa Claus must take them out to save both the hostages and his Holiday.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Action, Comedy, Thriller",
+      "Director": "Tommy Wirkola",
+      "Writer": "Pat Casey, Josh Miller",
+      "Actors": "David Harbour, John Leguizamo, Beverly D'Angelo",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Triangle of Sadness",

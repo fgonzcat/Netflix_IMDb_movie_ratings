@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/1372",
   "movies": [
     {
+      "title": "Heroes",
+      "netflix_url": "https://www.netflix.com/title/70136130",
+      "year": "2009",
+      "imdb_rating": "8.6",
+      "imdb_id": "tt1385545",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0NzA1NDQtYmM4NS00MDI2LTg2NmQtZThkMzE2Zjk1ODAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Drama",
+      "Director": "Mallak Brooks Bey",
+      "Writer": "Mallak Brooks Bey",
+      "Actors": "Tezz Yancey, Shott Brown, Rusty Meyers",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Avatar: The Last Airbender",
       "netflix_url": "https://www.netflix.com/title/70142405",
       "year": "2007",
@@ -1986,6 +2003,23 @@
       "Country": "Italy"
     },
     {
+      "title": "The Tick",
+      "netflix_url": "https://www.netflix.com/title/81048713",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt5540054",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTE5NmM4ODAtYTJjNS00YmRlLTljZGUtY2IyNmQzODQ4NTM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a world where superheroes have been real for decades, an accountant with no superpowers comes to realize his city is owned by a super villain. As he struggles to uncover this conspiracy, he falls in league with a strange blue s...",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Ben Edlund",
+      "Actors": "Peter Serafinowicz, Griffin Newman, Valorie Curry",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Zero",
       "netflix_url": "https://www.netflix.com/title/81059382",
       "year": "2021",
@@ -3098,8 +3132,18 @@
       "title": "Agent from Above",
       "netflix_url": "https://www.netflix.com/title/81477955",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.3",
+      "imdb_id": "tt23220752",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3MDMyZmMtODlkMC00MmUxLWFhZDUtMGM1OWUxOTNmMjZmXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "A former drug addict is recruited to do the bidding of legendary Chinese god San Tai Zi as redemption for his sins.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "N/A",
+      "Writer": "Xing Zi",
+      "Actors": "Kai Ko, Buffy Chen, Ming-wei Yang",
+      "Language": "Mandarin, Min Nan",
+      "Country": "Taiwan"
     },
     {
       "title": "Oats Studios",
@@ -3541,6 +3585,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Human Vapor",
+      "netflix_url": "https://www.netflix.com/title/81714240",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33083249",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE3YWE2NTMtZTRhZS00Nzg3LWI2NWMtMjAwMWJhZDk2MWU5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "A man gains the ability to transform into a gaseous state uses his powers for bank robberies.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Horror",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Shun Oguri, Uta Uchida, Yû Aoi",
+      "Language": "Japanese",
+      "Country": "Japan, South Korea"
+    },
+    {
       "title": "Genie, Make a Wish",
       "netflix_url": "https://www.netflix.com/title/81748484",
       "year": "2025",
@@ -3687,8 +3748,18 @@
       "title": "The WONDERfools",
       "netflix_url": "https://www.netflix.com/title/81948067",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.9",
+      "imdb_id": "tt34440854",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTVmZjJlYjQtZDI1My00MzIxLTliYTMtMGE5MjY0YjE5YzUzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "A group of awkward townies who unexpectedly gain superpowers and fight villains threatening the peace of Haeseong city.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Park Eun-bin, Cha Eun-woo, Kim Hae-sook",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Love Game in Eastern Fantasy",
@@ -3884,6 +3955,23 @@
     {
       "title": "Veil of Shadows",
       "netflix_url": "https://www.netflix.com/title/82788167",
+      "year": "2026",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt35046984",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTYxYmQwYjctNTU3ZS00N2FmLWEyYjItZDVkMWVhN2U4NDZkXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "Plot": "Drawn to a demon's power, rivals become allies and lovers - forced to choose between love, loyalty, and destiny in a world of hidden identities.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jiarui Tian, Jingyi Ju, Duling Chen",
+      "Language": "Mandarin",
+      "Country": "China"
+    },
+    {
+      "title": "Stranger Things: VHS Special Edition",
+      "netflix_url": "https://www.netflix.com/title/82939566",
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null

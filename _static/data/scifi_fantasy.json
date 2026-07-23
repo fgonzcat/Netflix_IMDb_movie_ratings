@@ -54,6 +54,23 @@
       "Country": "United States"
     },
     {
+      "title": "Scooby-Doo",
+      "netflix_url": "https://www.netflix.com/title/60020823",
+      "year": "2002",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt0267913",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MzMzMTY0OF5BMl5BanBnXkFtZTYwNzM3MTg2._V1_SX300.jpg",
+      "Plot": "After an acrimonious break up, the Mystery Inc. gang are individually brought to an island resort to investigate strange goings on.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Raja Gosnell",
+      "Writer": "James Gunn, Craig Titley, William Hanna",
+      "Actors": "Matthew Lillard, Freddie Prinze Jr., Sarah Michelle Gellar",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Hellboy",
       "netflix_url": "https://www.netflix.com/title/60034549",
       "year": "2004",
@@ -137,6 +154,57 @@
       "Actors": "Paul Bettany, Dennis Quaid, Charles S. Dutton",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "netflix_url": "https://www.netflix.com/title/70120525",
+      "year": "2010",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0814255",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDE4M2ZiYzEtODJiZC00NmI1LWFlNTgtOGJlNTY3NmExYWNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Chris Columbus",
+      "Writer": "Craig Titley, Rick Riordan",
+      "Actors": "Logan Lerman, Kevin McKidd, Steve Coogan",
+      "Language": "English, Greek, Ancient (to 1453)",
+      "Country": "United Kingdom, Canada, United States"
+    },
+    {
+      "title": "47 Ronin",
+      "netflix_url": "https://www.netflix.com/title/70208107",
+      "year": "2013",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt1335975",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0MjE2NzE0OV5BMl5BanBnXkFtZTgwNTU5MjE1MDE@._V1_SX300.jpg",
+      "Plot": "A band of samurai sets out to avenge the death and dishonor of their master at the hands of a ruthless shogun.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "Carl Rinsch",
+      "Writer": "Chris Morgan, Hossein Amini, Walter Hamada",
+      "Actors": "Keanu Reeves, Hiroyuki Sanada, Kô Shibasaki",
+      "Language": "English, Japanese",
+      "Country": "United States, Japan"
+    },
+    {
+      "title": "Percy Jackson: Sea of Monsters",
+      "netflix_url": "https://www.netflix.com/title/70243343",
+      "year": "2013",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt1854564",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGMyZTI2MjUtODEzMi00M2JlLWEwZGEtYWE5MmY5OWNkYTRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In order to restore their dying safe haven, the son of Poseidon and his friends embark on a quest to the Sea of Monsters, to find the mythical Golden Fleece, all the while trying to stop an ancient evil from rising.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Thor Freudenthal",
+      "Writer": "Marc Guggenheim, Rick Riordan",
+      "Actors": "Logan Lerman, Alexandra Daddario, Brandon T. Jackson",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "The Mortal Instruments: City of Bones",
@@ -239,6 +307,23 @@
       "Actors": "Jack Black, Dylan Minnette, Odeya Rush",
       "Language": "English, Ukrainian",
       "Country": "United States, Australia"
+    },
+    {
+      "title": "The Last Witch Hunter",
+      "netflix_url": "https://www.netflix.com/title/80052541",
+      "year": "2015",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt1618442",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE@._V1_SX300.jpg",
+      "Plot": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Breck Eisner",
+      "Writer": "Cory Goodman, Matt Sazama, Burk Sharpless",
+      "Actors": "Vin Diesel, Rose Leslie, Elijah Wood",
+      "Language": "English",
+      "Country": "United States, China"
     },
     {
       "title": "Splash",
@@ -586,6 +671,23 @@
       "Actors": "Dev Patel, Alicia Vikander, Joel Edgerton",
       "Language": "English, Latin",
       "Country": "United States, Canada, Ireland"
+    },
+    {
+      "title": "Hellboy",
+      "netflix_url": "https://www.netflix.com/title/81010972",
+      "year": "2019",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt2274648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI1Yzc0M2MtZjc5Ny00ZDU0LWE3NzEtOWY5ODk2MzdhZThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Caught between the worlds of the supernatural and human, Hellboy battles an ancient sorceress bent on revenge.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Neil Marshall",
+      "Writer": "Andrew Cosby, Mike Mignola",
+      "Actors": "David Harbour, Milla Jovovich, Ian McShane",
+      "Language": "English, Spanish, Russian, German",
+      "Country": "United States, United Kingdom, Bulgaria, Canada, Portugal, France"
     },
     {
       "title": "Night Teeth",
@@ -1468,6 +1570,47 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "I Am Frankelda",
+      "netflix_url": "https://www.netflix.com/title/82695127",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sing Geetham",
+      "netflix_url": "https://www.netflix.com/title/82890024",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34547719",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzliZWRlZWMtY2I5MS00Y2NmLTk0ODQtOGUzNGJiOGE1MzUzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "Plot": "In an isolated village, young Prathap seeks opportunity but enters a world of deception. Drawn into uncontrollable forces, he's caught between progress and preservation, testing his beliefs and purpose.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Fantasy, Musical",
+      "Director": "Singeetam Srinivasa Rao",
+      "Writer": "Gautami Challagulla, Shashank Chintalpudi, Nanda Kishore Emani",
+      "Actors": "Ahilya Bamroo, Shalini Kondepudi, Agu Stanley Chiedozie",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
+      "title": "Wicked: For Good",
+      "netflix_url": "https://www.netflix.com/title/83077841",
+      "year": "2025",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt19847976",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Drama, Family, Fantasy",
+      "Director": "Jon M. Chu",
+      "Writer": "Winnie Holzman, Dana Fox, Stephen Schwartz",
+      "Actors": "Cynthia Erivo, Ariana Grande, Jeff Goldblum",
+      "Language": "English",
+      "Country": "United States, Canada, Australia"
     }
   ]
 }

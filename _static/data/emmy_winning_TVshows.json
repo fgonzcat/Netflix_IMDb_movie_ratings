@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/90911",
   "movies": [
     {
+      "title": "Heroes",
+      "netflix_url": "https://www.netflix.com/title/70136130",
+      "year": "2009",
+      "imdb_rating": "8.6",
+      "imdb_id": "tt1385545",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0NzA1NDQtYmM4NS00MDI2LTg2NmQtZThkMzE2Zjk1ODAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Drama",
+      "Director": "Mallak Brooks Bey",
+      "Writer": "Mallak Brooks Bey",
+      "Actors": "Tezz Yancey, Shott Brown, Rusty Meyers",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Sex and the City",
       "netflix_url": "https://www.netflix.com/title/70136137",
       "year": "2003",

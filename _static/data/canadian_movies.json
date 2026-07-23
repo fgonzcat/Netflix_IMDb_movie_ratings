@@ -1916,6 +1916,23 @@
       "Country": "Canada"
     },
     {
+      "title": "Holly Hobbie",
+      "netflix_url": "https://www.netflix.com/title/81752953",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt8602408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGU0MzQyNjQtOGY2NS00YTQyLTg4N2UtYTJlZGZkNmE4M2VjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Holly Hobbie has lived her whole life in the small town of Collinsville. Holly is a 13-year-old singer-songwriter who has her best friends and a close-knit family, but dreams of ways to save the world.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Family, Music",
+      "Director": "N/A",
+      "Writer": "Sarah Glinski",
+      "Actors": "Ruby Jay, Saara Chaudry, Hunter Dillon",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
       "title": "Hate to Love: Nickelback",
       "netflix_url": "https://www.netflix.com/title/81760200",
       "year": "2023",
@@ -2253,6 +2270,23 @@
       "imdb_id": null
     },
     {
+      "title": "Mile End Kicks",
+      "netflix_url": "https://www.netflix.com/title/82622289",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt33301434",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5YzQ1NWQtNmNmNi00N2IyLWJhOTYtNmQ0YTBiY2Q5N2NmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A 24-year-old music critic gets romantically involved with members of an indie band she decides to publicize.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Chandler Levack",
+      "Writer": "Chandler Levack",
+      "Actors": "Barbie Ferreira, Jay Baruchel, Devon Bostick",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
       "title": "My Favorite Christmas Tree",
       "netflix_url": "https://www.netflix.com/title/82648323",
       "year": "2022",
@@ -2337,6 +2371,40 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "The Body in the Locker",
+      "netflix_url": "https://www.netflix.com/title/82820183",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36364892",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWJhM2M3OWEtYmZiYy00ZWYxLTg4MTYtMjBmOGQ2ODhmZDYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Amy, the CEO of a major charity, loses her father, she's shocked to discover he owned a mysterious storage locker with a deadly secret inside - the body of a woman. Was her father a murderer? Who was this woman?",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Sean Cisterna",
+      "Writer": "N/A",
+      "Actors": "Sasha Barry, Kirsten Comerford, Jayne Heitmeyer",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
+      "title": "Hunting Housewives",
+      "netflix_url": "https://www.netflix.com/title/82949177",
+      "year": "2024",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt28833276",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmVmMWM1NGYtZWJjNC00ODk5LWEwMGEtNmFkZjdlZjU2Nzc1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four housewives plan a weekend getaway, but end up stranded in the wilderness.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Marco Deufemia",
+      "Writer": "Paula Tiberius",
+      "Actors": "Denise Richards, Mark Ghanimé, Kym Johnson Herjavec",
+      "Language": "English",
+      "Country": "Canada, United States"
     }
   ]
 }

@@ -44,6 +44,23 @@
       "imdb_id": null
     },
     {
+      "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All Out Attack",
+      "netflix_url": "https://www.netflix.com/title/60033218",
+      "year": "2001",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0279112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc4NmQyMzEtZWMxZS00ZmM2LTk0NDktNWU5ZWUyMmY4YzhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A reporter, notorious for working on pseudo-documentaries, must uncover the legend of the three guardian monsters who must rise to defend Japan from the vengeful spirits within Godzilla.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Shûsuke Kaneko",
+      "Writer": "Keiichi Hasegawa, Shûsuke Kaneko, Masahiro Yokotani",
+      "Actors": "Chiharu Niiyama, Ryûdô Uzaki, Masahiro Kobayashi",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Hellboy",
       "netflix_url": "https://www.netflix.com/title/60034549",
       "year": "2004",
@@ -59,6 +76,40 @@
       "Actors": "Ron Perlman, Doug Jones, Selma Blair",
       "Language": "English, Russian, German, Latin",
       "Country": "United States"
+    },
+    {
+      "title": "Trick 'r Treat",
+      "netflix_url": "https://www.netflix.com/title/70060004",
+      "year": "2008",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0862856",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjI2YTA2NmUtOTY4MS00ZGJjLWI1NzctOWRlNzgzNDk1ZTk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Five Halloween stories: A principal has a secret life, a virgin is looking for her first time, a group of kids pull a prank, a woman who loathes Halloween does not respect the rules and a mean old man meets a demonic trick-or-trea...",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Comedy, Horror",
+      "Director": "Michael Dougherty",
+      "Writer": "Michael Dougherty",
+      "Actors": "Anna Paquin, Brian Cox, Dylan Baker",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
+      "title": "Riddick",
+      "netflix_url": "https://www.netflix.com/title/70272268",
+      "year": "2013",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1411250",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzYwMzQ4MV5BMl5BanBnXkFtZTcwMjE5MTI1OQ@@._V1_SX300.jpg",
+      "Plot": "Left for dead on a sun-scorched planet, Riddick finds himself up against an alien race of predators. Activating an emergency beacon alerts two ships: one carrying a new breed of mercenary, the other captained by a man from Riddick...",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "David Twohy",
+      "Writer": "David Twohy, Jim Wheat, Ken Wheat",
+      "Actors": "Vin Diesel, Karl Urban, Katee Sackhoff",
+      "Language": "English",
+      "Country": "Canada, United States"
     },
     {
       "title": "Dracula Untold",
@@ -161,6 +212,23 @@
       "Actors": "Phil Robertson, Joana Borja, Victoria Alcock",
       "Language": "English, Spanish, Romanian, Portuguese",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Hellboy",
+      "netflix_url": "https://www.netflix.com/title/81010972",
+      "year": "2019",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt2274648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI1Yzc0M2MtZjc5Ny00ZDU0LWE3NzEtOWY5ODk2MzdhZThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Caught between the worlds of the supernatural and human, Hellboy battles an ancient sorceress bent on revenge.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Neil Marshall",
+      "Writer": "Andrew Cosby, Mike Mignola",
+      "Actors": "David Harbour, Milla Jovovich, Ian McShane",
+      "Language": "English, Spanish, Russian, German",
+      "Country": "United States, United Kingdom, Bulgaria, Canada, Portugal, France"
     },
     {
       "title": "The Silence",
@@ -575,8 +643,18 @@
       "title": "Raakaasa",
       "netflix_url": "https://www.netflix.com/title/82180278",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.0",
+      "imdb_id": "tt36451817",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmRkMDljZmQtOTk5MS00ZWZhLTlmNTEtNDNhMDkxYWFmZGNiXkEyXkFqcGc@._V1_QL75_UY562_CR61,0,380,562_.jpg",
+      "Plot": "Returning home after a decade, an NRI chasing romance inadvertently awakens an ancient darkness long feared by his village. As the threat intensifies, love turns deadly and life hangs in the balance.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Comedy, Fantasy, Horror",
+      "Director": "Manasa Sharma",
+      "Writer": "Manasa Sharma, Mahesh Uppala",
+      "Actors": "Sangeeth Shobhan, Nayan Sarika, Sukhwinder Singh",
+      "Language": "Telugu, Tamil, Kannada, Malayalam",
+      "Country": "India"
     }
   ]
 }

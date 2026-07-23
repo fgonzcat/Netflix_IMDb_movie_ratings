@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/11714",
   "movies": [
     {
+      "title": "Heroes",
+      "netflix_url": "https://www.netflix.com/title/70136130",
+      "year": "2009",
+      "imdb_rating": "8.6",
+      "imdb_id": "tt1385545",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0NzA1NDQtYmM4NS00MDI2LTg2NmQtZThkMzE2Zjk1ODAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Drama",
+      "Director": "Mallak Brooks Bey",
+      "Writer": "Mallak Brooks Bey",
+      "Actors": "Tezz Yancey, Shott Brown, Rusty Meyers",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Sex and the City",
       "netflix_url": "https://www.netflix.com/title/70136137",
       "year": "2003",
@@ -356,6 +373,23 @@
       "Director": "Michael Charles Roman",
       "Writer": "Andra Vebell",
       "Actors": "Hannah Cruz, Angelic Zambrana",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Hawaii Five-0",
+      "netflix_url": "https://www.netflix.com/title/70176866",
+      "year": "2017",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1600194",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmU1Y2Y4ZmMtYjJhYy00M2FiLWJiYWQtNmU2NGUwYjM1NGRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When former United States Navy officer, Steve McGarrett, returns home to Oahu to find his father's killer, the Governor offers him the chance to run his own special task force: Five-0.",
+      "Type": "series",
+      "RunTime": "42 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Peter M. Lenkov, Alex Kurtzman, Leonard Freeman",
+      "Actors": "Alex O'Loughlin, Scott Caan, Taylor Wily",
       "Language": "English",
       "Country": "United States"
     },
@@ -891,6 +925,23 @@
       "Writer": "Ronald D. Moore",
       "Actors": "Caitríona Balfe, Sam Heughan, Sophie Skelton",
       "Language": "English, Gaelic",
+      "Country": "United States"
+    },
+    {
+      "title": "The Last Ship",
+      "netflix_url": "https://www.netflix.com/title/70285747",
+      "year": "2018",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt2402207",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MTM5Mjc5NV5BMl5BanBnXkFtZTgwMTk2MzExOTE@._V1_SX300.jpg",
+      "Plot": "The crew of a naval destroyer is forced to confront the reality of a new existence when a pandemic kills off most of the earth's population.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Action, Drama, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "Steven Kane, Hank Steinberg",
+      "Actors": "Eric Dane, Adam Baldwin, Charles Parnell",
+      "Language": "English, Spanish, Russian, Tagalog, Mandarin, Korean, Vietnamese, Japanese, Italian, Greek, Arabic",
       "Country": "United States"
     },
     {
@@ -1538,6 +1589,23 @@
       "Actors": "Na'ku'set Gould, Amanda Arcuri, Sara Waisglass",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "GTO: Great Teacher Onizuka",
+      "netflix_url": "https://www.netflix.com/title/80066010",
+      "year": "2024",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt0209631",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2M4NmZlZmEtNWJhMi00ZDkxLTgwOWEtMGMyZGNjYjQ0MjU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Onizuka, a former delinquent finds himself in the role of a high school teacher, facing students who behave just as he used to. Using unusual methods, he manages to reach through to his students and help them with their problems.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Drama, Comedy, Action",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Takashi Sorimachi, Nanako Matsushima, Yôsuke Kubozuka",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Ingobernable",
@@ -3800,6 +3868,23 @@
       "Actors": "Ashley Walters, Kano, Jasmine Jobson",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Marianne",
+      "netflix_url": "https://www.netflix.com/title/80217779",
+      "year": "2019",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt10875696",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGZjYmQ4NzItMDA4Mi00ZjRjLWE3Y2ItYmY2ZTJkNmNhYTVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a famous horror writer goes back to her hometown, she finds out that the evil spirit that plagues her dreams is also there in real life.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Victoire Du Bois, Lucie Boujenah, Tiphaine Daviot",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "How to Sell Drugs Online (Fast)",
@@ -8512,6 +8597,23 @@
       "Country": "Thailand, United States"
     },
     {
+      "title": "Kingdom: Ashin of the North",
+      "netflix_url": "https://www.netflix.com/title/81312457",
+      "year": "2021",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt13412252",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzc5ZDMzNzItODY2MC00MzBiLWJjODgtNmVmMGM5ZWYyYmM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tragedy, betrayal and a mysterious discovery fuel a woman's vengeance for the loss of her tribe and family in this special episode of \"Kingdom.\"",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "Kim Seong-hun",
+      "Writer": "Kim Eun-hee",
+      "Actors": "Jun Ji-hyun, Kim Si-Ah, Park Byeong-eun",
+      "Language": "Korean, Japanese, More",
+      "Country": "South Korea"
+    },
+    {
       "title": "Juvenile Justice",
       "netflix_url": "https://www.netflix.com/title/81312802",
       "year": "2022",
@@ -10574,6 +10676,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Sleeping Dog",
+      "netflix_url": "https://www.netflix.com/title/81493689",
+      "year": "2023",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt25375244",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWU1ZDU0NzMtODlhNy00MDQzLTk5YjktNjJlMDkxYTJjZWVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A former detective now living on the streets searches for the truth after a new death raises unnerving doubts about a supposedly settled murder case.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Max Riemelt, Luise von Finckh, Peri Baumeister",
+      "Language": "German, German Sign ",
+      "Country": "Germany"
+    },
+    {
       "title": "Triptych",
       "netflix_url": "https://www.netflix.com/title/81494917",
       "year": "2023",
@@ -10740,6 +10859,23 @@
       "Director": "N/A",
       "Writer": "David Appelbaum",
       "Actors": "Eoin Macken, Chiké Okonkwo, Zyra Gorecki",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "I Will Find You",
+      "netflix_url": "https://www.netflix.com/title/81509368",
+      "year": "2026",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt34771210",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWFkOGU5ZTYtZTlhMi00NThiLWI3ZDEtMGQ2Y2UzNjlkZTUxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "A father imprisoned for his son's murder receives evidence suggesting his child may be alive, compelling him to escape and uncover the truth.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Robert Hull",
+      "Actors": "Sam Worthington, Britt Lower, Chi McBride",
       "Language": "English",
       "Country": "United States"
     },
@@ -12285,6 +12421,23 @@
       "Country": "Norway"
     },
     {
+      "title": "Close to Home: Murder in the Coalfield",
+      "netflix_url": "https://www.netflix.com/title/81641220",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt21955940",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzkyZTU4MjctNmM2NS00NTMyLWI1NWQtZTM4ODllN2ViMmQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mysterious murder brings police officer Maik Briegand back to the place of his childhood: Lauchhammer. Together with the LKA investigator Annalena Gottknecht, Briegand begins to remove the secrets of the past layer by layer.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Misel Maticevic, Odine Johne, Marc Hosemann",
+      "Language": "German",
+      "Country": "Germany"
+    },
+    {
       "title": "Don’t Come Home",
       "netflix_url": "https://www.netflix.com/title/81641421",
       "year": "2024",
@@ -12959,6 +13112,13 @@
       "Country": "Colombia"
     },
     {
+      "title": "Bitch and Rich",
+      "netflix_url": "https://www.netflix.com/title/81683734",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Your Honor",
       "netflix_url": "https://www.netflix.com/title/81684531",
       "year": "2023",
@@ -13025,6 +13185,23 @@
       "Actors": "Úrsula Pruneda, Karen Sandoval, Ana Sofia Gatica",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "The Polygamist",
+      "netflix_url": "https://www.netflix.com/title/81687036",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt42543947",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDM0OTVmZjUtNTgyYS00NGQ5LThkYzYtMjE3NzNkODdlOGEwXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Gugu Gumede, S&apos;Dumo Mtshali, Kenneth Nkosi",
+      "Language": "N/A",
+      "Country": "South Africa"
     },
     {
       "title": "You and Everything Else",
@@ -13285,8 +13462,18 @@
       "title": "Someone Has to Know",
       "netflix_url": "https://www.netflix.com/title/81701194",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "5.4",
+      "imdb_id": "tt41337266",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWRkNTFmODItMTAzOS00NWM3LWE1ZGEtZmY3MWUzOTNkZGJhXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "A popular nightclub in Concepción, Chile, becomes the center of a criminal case that leaves officials baffled when a teen vanishes in a crowd of 300.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paulina García, Alfredo Castro, Clemente Rodríguez",
+      "Language": "Spanish",
+      "Country": "Chile"
     },
     {
       "title": "Two Graves",
@@ -13769,6 +13956,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Oasis",
+      "netflix_url": "https://www.netflix.com/title/81734907",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38734636",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGYwNTU4MzQtOTk0My00OWM1LWE2MDQtZjdmNTZmY2NiYWQxXkEyXkFqcGc@._V1_QL75_UY562_CR232,0,380,562_.jpg",
+      "Plot": "'Oasis' is the country's most luxurious vacation resort. A paradise for wealthy families with private beaches, VIP facilities, and impenetrable security. The place for the best summer ever. But everything crumbles when police stor...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "Ramón Campos",
+      "Actors": "Verónica Sánchez, Paco Tous, Berta Castañé",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "Nemesis",
       "netflix_url": "https://www.netflix.com/title/81737397",
       "year": "2026",
@@ -13946,11 +14150,45 @@
       "Country": "United States"
     },
     {
+      "title": "I'm Not Afraid",
+      "netflix_url": "https://www.netflix.com/title/81745567",
+      "year": "2026",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt36742917",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTlmNTc1YWQtNWVkOC00YTVjLTliMWQtZWVjOGYxYWVlOTg3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "In 1986 Veracruz, a ten-year-old finds another child trapped in a hole near his house. The story examines poverty, childhood innocence, and family secrets during the World Cup, including Maradona's \"Hand of God\" goal.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Fátima Molina, Luis Alberti, Mauro Guzmán",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "How to Win the Lottery",
       "netflix_url": "https://www.netflix.com/title/81747803",
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Little House on the Prairie",
+      "netflix_url": "https://www.netflix.com/title/81748089",
+      "year": "2026",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0071007",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODZjMGRkZmMtYzRhMC00NTMyLTg4MjAtNGIxZTIzYjY0MjNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The life and adventures of the Ingalls family in the nineteenth century American Midwest.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "N/A",
+      "Writer": "Blanche Hanalis",
+      "Actors": "Melissa Gilbert, Michael Landon, Karen Grassle",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Åre Murders",
@@ -13987,6 +14225,13 @@
       "Country": "India"
     },
     {
+      "title": "The Map of Longing",
+      "netflix_url": "https://www.netflix.com/title/81750599",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Four Seasons",
       "netflix_url": "https://www.netflix.com/title/81750702",
       "year": "2025",
@@ -14002,6 +14247,40 @@
       "Actors": "Tina Fey, Will Forte, Kerri Kenney",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Devil's Diner",
+      "netflix_url": "https://www.netflix.com/title/81751769",
+      "year": "2024",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt35557166",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2QzMWQ0MWQtYjRiMC00OWRiLTkyNzQtYjg1YTMyZjNlMjFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mysterious chef operates in a remote location, preparing magical dishes that fulfill customers' greatest wishes, but if they're willing to pay the price.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Horror",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Le Quoc Nam, Vo Dien Gia Huy, Thi Kieu Trinh Nguyen",
+      "Language": "Vietnamese",
+      "Country": "Vietnam"
+    },
+    {
+      "title": "Holly Hobbie",
+      "netflix_url": "https://www.netflix.com/title/81752953",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt8602408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGU0MzQyNjQtOGY2NS00YTQyLTg4N2UtYTJlZGZkNmE4M2VjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Holly Hobbie has lived her whole life in the small town of Collinsville. Holly is a 13-year-old singer-songwriter who has her best friends and a close-knit family, but dreams of ways to save the world.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Family, Music",
+      "Director": "N/A",
+      "Writer": "Sarah Glinski",
+      "Actors": "Ruby Jay, Saara Chaudry, Hunter Dillon",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Eve",
@@ -14036,6 +14315,40 @@
       "Actors": "Stephen Graham, Owen Cooper, Ashley Walters",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "The Evil Lawyer",
+      "netflix_url": "https://www.netflix.com/title/81756596",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39749708",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWM0ODAzZjQtMDk5Ni00MmYxLTgxZjctOGM5OTcxMWVmYWIwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "When a young attorney is accused of murdering a police officer's son, he teams up with the \"Evil Lawyer\" to exploit loopholes and prove his innocence.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rhatha Phongam, Nat Kitcharit, Atchareeya Potipipittanakorn",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
+      "title": "Elite Force",
+      "netflix_url": "https://www.netflix.com/title/81756645",
+      "year": "2026",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt5118450",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWNiMDEwMTctNGM2NC00NjdhLWFiMmEtMDBmMTVkNTk3ZWMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Mighty Med hospital is destroyed, bionic heroes Bree and Chase join superheroes Kaz, Oliver, and Skylar to form an Elite Force and take down those responsible for the attack.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Adventure, Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Bryan Moore, Chris Peterson",
+      "Actors": "William Brent, Bradley Steven Perry, Jake Short",
+      "Language": "N/A",
+      "Country": "United States"
     },
     {
       "title": "The Price of Confession",
@@ -14206,6 +14519,13 @@
       "Actors": "Deon Cole, Tammy Townsend, Malcolm Barrett",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The East Palace",
+      "netflix_url": "https://www.netflix.com/title/81778702",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Black Forceps",
@@ -14655,6 +14975,23 @@
       "imdb_id": null
     },
     {
+      "title": "Teach You a Lesson",
+      "netflix_url": "https://www.netflix.com/title/81947300",
+      "year": "2026",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt34809853",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzFjNmFjNzgtYmM0ZS00ODZmLWJiNTktOWNiYWZiMTE5MWRiXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "The collapse of teachers' Authority, the establishment of the Teachers' Authority Protection Bureau under the Ministry of Education, and the dispatch of supervisors to problem schools to punish students and parents who cross the l...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kim Mu-yeol, Lee Sung-min, Jin Ki-joo",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "I Am Not Mendoza",
       "netflix_url": "https://www.netflix.com/title/81948201",
       "year": "2025",
@@ -14904,6 +15241,13 @@
       "Country": "United States"
     },
     {
+      "title": "My Daughter's Father",
+      "netflix_url": "https://www.netflix.com/title/82019182",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Our Unwritten Seoul",
       "netflix_url": "https://www.netflix.com/title/82024804",
       "year": "2025",
@@ -14989,6 +15333,13 @@
       "Country": "Japan"
     },
     {
+      "title": "Heartstopper Forever",
+      "netflix_url": "https://www.netflix.com/title/82040750",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Ya Boy Kongming!",
       "netflix_url": "https://www.netflix.com/title/82047725",
       "year": "2023",
@@ -15004,6 +15355,13 @@
       "Actors": "Osamu Mukai, Moka Kamishiraishi, Dean Fujioka",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Summer ’36",
+      "netflix_url": "https://www.netflix.com/title/82049215",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Shine on Me",
@@ -15493,15 +15851,52 @@
       "title": "We Are All Trying Here",
       "netflix_url": "https://www.netflix.com/title/82189639",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "8.5",
+      "imdb_id": "tt36732944",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q3YjkyYzItOGJhYy00NzQ1LTkwNzItYjFhYWZkOTljMzJiXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "A jealous, envious man seeks inner peace while feeling isolated in a world where others seem to succeed.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Koo Kyo-hwan, Go Youn-jung, Oh Jung-se",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Between Father and Son",
       "netflix_url": "https://www.netflix.com/title/82193679",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.2",
+      "imdb_id": "tt42171045",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjZjYmY5ODgtZjZiOC00MGYzLWIzNmUtMjYzMzM3NTI3NTBmXkEyXkFqcGc@._V1_QL75_UY562_CR11,0,380,562_.jpg",
+      "Plot": "In minutes, a lawyer's world shifts when visiting her fiancé's family estate sparks an undeniable connection with her future stepson.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Pamela Almanza, Graco Sendel, Erick Elias",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
+      "title": "Lawmen: Bass Reeves",
+      "netflix_url": "https://www.netflix.com/title/82621149",
+      "year": "2023",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt15399640",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI2MDY2MTYtY2FlMi00YjZkLTlmNTctM2NjYTNiNTA3NTRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "About the legendary lawman Bass Reeves, one of the greatest frontier heroes and one of the first Black deputy U.S. marshals west of the Mississippi River.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Western",
+      "Director": "N/A",
+      "Writer": "Chad Feehan",
+      "Actors": "David Oyelowo, Lauren E. Banks, Demi Singleton",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Undercover Miss Hong",
@@ -15589,8 +15984,18 @@
       "title": "Still Shining",
       "netflix_url": "https://www.netflix.com/title/82665870",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "6.9",
+      "imdb_id": "tt40108629",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjM0OTYyYjctYWZkNC00MGNkLWFkZTItZDM1MWZkZGJkNGQxXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+      "Plot": "A man and woman shaped by loss and time separate in youth, then reunite ten years later to find their once-shared bond still guides them through love, grief, and adulthood.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Park Jin-young, Kim Min-ju, Sin Jae-ha",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Sounds of Winter",
@@ -15712,8 +16117,18 @@
       "title": "Dunia Tanpa Tuhan",
       "netflix_url": "https://www.netflix.com/title/82723142",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.9",
+      "imdb_id": "tt40140800",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjFjYTZlMTktMDczOS00NmNlLTljMzgtNGRjOGM3MmVkYjE4XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Oki's life as an \"eternal student\" living in a village on the outskirts of Jakarta. Amidst the pressure to graduate soon, Oki also falls in love with Azizah, Bang Ali's daughter, and competes with Malik. One day, Jahal, who died f...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Oki Rengga, Lolox, Amanda Rigby",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Love Like a Bike",
@@ -15733,16 +16148,47 @@
       "Country": "Thailand"
     },
     {
+      "title": "You Can't Expense This!",
+      "netflix_url": "https://www.netflix.com/title/82747040",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Morning Drama Series Soar High!",
+      "netflix_url": "https://www.netflix.com/title/82747066",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Tatsuki: Too Kind for School",
       "netflix_url": "https://www.netflix.com/title/82755437",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt41455696",
+      "Poster": "https://m.media-amazon.com/images/M/9516b142-0c88-4475-a39b-97c06546cdc5._V1_UX1000_CR0,0,1000,563_.png",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Keita Machida, Yôsuke Eguchi, Honoka Matsumoto",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Khemjira the Series",
       "netflix_url": "https://www.netflix.com/title/82755470",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Apartment Job",
+      "netflix_url": "https://www.netflix.com/title/82755552",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -15876,15 +16322,35 @@
       "title": "Tagusari Bros.",
       "netflix_url": "https://www.netflix.com/title/82772069",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.9",
+      "imdb_id": "tt41801303",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NjMDhlNGYtMTBmMi00ZjE4LThmOTAtNzAwZTU0ZWNhM2QwXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg",
+      "Plot": "Two brothers become police officers after their parents' murder case reaches its statute of limitations, determined to find the real killer before Japan abolishes the law entirely.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Shôta Sometani, Masaki Okada, Ayami Nakajô",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Veil of Shadows",
       "netflix_url": "https://www.netflix.com/title/82788167",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt35046984",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTYxYmQwYjctNTU3ZS00N2FmLWEyYjItZDVkMWVhN2U4NDZkXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "Plot": "Drawn to a demon's power, rivals become allies and lovers - forced to choose between love, loyalty, and destiny in a world of hidden identities.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jiarui Tian, Jingyi Ju, Duling Chen",
+      "Language": "Mandarin",
+      "Country": "China"
     },
     {
       "title": "Part-Time Wife",
@@ -15902,6 +16368,61 @@
       "Actors": "Anton Rodgers, Nyree Dawn Porter, Kenneth J. Warren",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Gokusen",
+      "netflix_url": "https://www.netflix.com/title/82821750",
+      "year": "2008",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0292765",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2MwZGZjM2QtNGQyNS00MzU1LTk4NTQtYjE3MzRhYzMxOTFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Gokusen is the story of Kumiko Yamaguchi, aka. Yankumi, a fourth generation crime syndicate member. She's gone straight and wants to be a teacher though, but she's one you don't want to mess with.",
+      "Type": "series",
+      "RunTime": "54 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Kozueko Morimoto",
+      "Actors": "Yukie Nakama, Katsuhisa Namase, Ken Utsui",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
+      "title": "Until the T-shirt Dries",
+      "netflix_url": "https://www.netflix.com/title/82904943",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ashes to Crown",
+      "netflix_url": "https://www.netflix.com/title/82911782",
+      "year": "2026",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt37140755",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjU4NzY5NTAtNGU1NS00OWM5LWFhOTMtZTQ5MTliN2I4MDYyXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "Plot": "General's daughter Chu Zhao escapes her fate as a political pawn by taking control of her destiny. She meets Xie Yanlai, helping him rise to Great General. Together they defeat Crown Prince Xiao Xun's schemes and foreign invaders.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Duling Chen, Yiran Zhou, Xiaotian Tang",
+      "Language": "Chinese",
+      "Country": "China"
+    },
+    {
+      "title": "Stranger Things: VHS Special Edition",
+      "netflix_url": "https://www.netflix.com/title/82939566",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "GTO (2026)",
+      "netflix_url": "https://www.netflix.com/title/82968487",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

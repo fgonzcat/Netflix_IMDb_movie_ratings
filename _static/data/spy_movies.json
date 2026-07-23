@@ -224,6 +224,23 @@
       "Country": "United Kingdom, Japan, United States"
     },
     {
+      "title": "U-571",
+      "netflix_url": "https://www.netflix.com/title/60000911",
+      "year": "2000",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0141926",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU2MjAxZGQtMGY3NC00ODYwLThkZWQtNzhjMDhhOTVlMWYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A German submarine is boarded by disguised American submariners trying to capture their Enigma cipher machine.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Action, War",
+      "Director": "Jonathan Mostow",
+      "Writer": "Jonathan Mostow, Sam Montgomery, David Ayer",
+      "Actors": "Matthew McConaughey, Bill Paxton, Harvey Keitel",
+      "Language": "English, German",
+      "Country": "France, United States"
+    },
+    {
       "title": "The Living Daylights",
       "netflix_url": "https://www.netflix.com/title/60002470",
       "year": "1987",
@@ -377,6 +394,23 @@
       "Country": "United States, United Kingdom, Czech Republic, Germany, Bahamas, Italy"
     },
     {
+      "title": "The Good Shepherd",
+      "netflix_url": "https://www.netflix.com/title/70044695",
+      "year": "2006",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0343737",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MjExMzA1Nl5BMl5BanBnXkFtZTgwMzIxNzQxMTE@._V1_SX300.jpg",
+      "Plot": "The tumultuous early history of the Central Intelligence Agency is viewed through the prism of one man's life.",
+      "Type": "movie",
+      "RunTime": "167 min",
+      "Genre": "Drama, History, Thriller",
+      "Director": "Robert De Niro",
+      "Writer": "Eric Roth",
+      "Actors": "Matt Damon, Angelina Jolie, Robert De Niro",
+      "Language": "English, Spanish, Russian, German, Lingala",
+      "Country": "United States, France"
+    },
+    {
       "title": "Fanaa",
       "netflix_url": "https://www.netflix.com/title/70054084",
       "year": "2006",
@@ -426,6 +460,23 @@
       "Actors": "Daniel Craig, Olga Kurylenko, Mathieu Amalric",
       "Language": "English, Spanish, Italian, French, Swiss German, German",
       "Country": "United Kingdom, United States, Italy"
+    },
+    {
+      "title": "The Art of War II: Betrayal",
+      "netflix_url": "https://www.netflix.com/title/70102745",
+      "year": "2008",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt1233571",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxODQ2MjcwOV5BMl5BanBnXkFtZTgwMDUwODAwNzE@._V1_SX300.jpg",
+      "Plot": "Agent Neil Shaw is called out of retirement and finds himself in the midst of a plot to assassinate several leading Senators with himself set-up to take the rap for a recent killing.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Action, Thriller",
+      "Director": "Josef Rusnak",
+      "Writer": "Keith Shaw (screenplay), Jason Bourque (screenplay)",
+      "Actors": "Wesley Snipes, Lochlyn Munro, Athena Karkanis, Winston Rekert",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Mission: Impossible - Ghost Protocol",
@@ -632,6 +683,23 @@
       "Country": "United Kingdom, United States, Morocco, Italy, Austria, Canada, Mexico"
     },
     {
+      "title": "Snowden",
+      "netflix_url": "https://www.netflix.com/title/80064514",
+      "year": "2016",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt3774114",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2MzYzNzgzOF5BMl5BanBnXkFtZTgwOTg4NzQ4OTE@._V1_SX300.jpg",
+      "Plot": "The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Oliver Stone",
+      "Writer": "Kieran Fitzgerald, Oliver Stone, Luke Harding",
+      "Actors": "Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo",
+      "Language": "English, American Sign , Russian",
+      "Country": "United States, Germany, France"
+    },
+    {
       "title": "The Brothers Grimsby",
       "netflix_url": "https://www.netflix.com/title/80079256",
       "year": "2016",
@@ -664,6 +732,23 @@
       "Actors": "Robert Gustafsson, Iwar Wiklander, David Wiberg",
       "Language": "Swedish, English, German, Russian",
       "Country": "Sweden, Hungary, United States"
+    },
+    {
+      "title": "The Boss Baby",
+      "netflix_url": "https://www.netflix.com/title/80146758",
+      "year": "2017",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt3874544",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_SX300.jpg",
+      "Plot": "A suit-wearing, briefcase-carrying baby pairs up with his 7-year old brother to stop the dastardly plot of the CEO of Puppy Co.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Tom McGrath",
+      "Writer": "Michael McCullers, Marla Frazee",
+      "Actors": "Alec Baldwin, Steve Buscemi, Jimmy Kimmel",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Force 2",

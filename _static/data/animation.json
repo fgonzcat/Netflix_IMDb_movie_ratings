@@ -527,6 +527,23 @@
       "Country": "United States, India"
     },
     {
+      "title": "The Smurfs 2",
+      "netflix_url": "https://www.netflix.com/title/70269568",
+      "year": "2013",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt2017020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzNiZDYyNjctOGNiZi00Y2ZjLWJkZmUtMjM1Mjc3ZmQzN2QwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Smurfs team up with their human friends to rescue Smurfette, who has been abducted by Gargamel, since she knows a secret spell that can turn the evil sorcerer's newest creation, creatures called \"The Naughties\", into real Smurfs.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Raja Gosnell",
+      "Writer": "J. David Stem, David N. Weiss, Jay Scherick",
+      "Actors": "Hank Azaria, Neil Patrick Harris, Brendan Gleeson",
+      "Language": "English, French",
+      "Country": "United States, France, Canada, Belgium"
+    },
+    {
       "title": "Justin Time",
       "netflix_url": "https://www.netflix.com/title/70272742",
       "year": "2012",
@@ -1512,6 +1529,23 @@
       "Actors": "Patricia Kalis, Jul Kohler, Aramis Merlin",
       "Language": "Indonesian, Japanese, Korean, English",
       "Country": "South Korea, Canada"
+    },
+    {
+      "title": "The Boss Baby",
+      "netflix_url": "https://www.netflix.com/title/80146758",
+      "year": "2017",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt3874544",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_SX300.jpg",
+      "Plot": "A suit-wearing, briefcase-carrying baby pairs up with his 7-year old brother to stop the dastardly plot of the CEO of Puppy Co.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Tom McGrath",
+      "Writer": "Michael McCullers, Marla Frazee",
+      "Actors": "Alec Baldwin, Steve Buscemi, Jimmy Kimmel",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "The Hollow",
@@ -7178,6 +7212,13 @@
       "Country": "India"
     },
     {
+      "title": "José Totoy 3",
+      "netflix_url": "https://www.netflix.com/title/81716665",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Bebefinn Playtime",
       "netflix_url": "https://www.netflix.com/title/81726679",
       "year": "2023",
@@ -8070,8 +8111,18 @@
       "title": "My Sesame Street Friends: My Abby",
       "netflix_url": "https://www.netflix.com/title/82712524",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt41519936",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGM0MTdkMDgtMGNlYi00YTBlLTkwOGYtMGVlMmU0MTQwMWZkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "United States"
     },
     {
       "title": "David",
@@ -8089,6 +8140,20 @@
       "Actors": "Brandon Engman, Brian Stivale, Shahar Tavoch",
       "Language": "English",
       "Country": "South Africa, United States"
+    },
+    {
+      "title": "José Totoy 4",
+      "netflix_url": "https://www.netflix.com/title/82998726",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "José Totoy 5",
+      "netflix_url": "https://www.netflix.com/title/82998727",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

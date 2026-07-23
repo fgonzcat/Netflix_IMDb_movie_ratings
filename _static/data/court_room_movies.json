@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Hurricane",
+      "netflix_url": "https://www.netflix.com/title/60000421",
+      "year": "1999",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0174856",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmFhODUzNGMtMjZhMC00ZDI4LWFhYzYtMmM3MDcyMGZlYWM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Rubin 'Hurricane' Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Norman Jewison",
+      "Writer": "Rubin 'Hurricane' Carter, Sam Chaiton, Terry Swinton",
+      "Actors": "Denzel Washington, Vicellous Shannon, Deborah Kara Unger",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "In Defense of a Married Man",
       "netflix_url": "https://www.netflix.com/title/70206818",
       "year": "1990",
@@ -544,6 +561,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "N/A",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Ikka",
+      "netflix_url": "https://www.netflix.com/title/82134666",
+      "year": "2026",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt39632269",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWE0ZTYxYTEtZDY5Ni00NDhkLWEyNjItMDc1NzE1MGJjMzhlXkEyXkFqcGc@._V1_QL75_UY562_CR37,0,380,562_.jpg",
+      "Plot": "A respected attorney must defend a murder suspect he previously brought down. Forced into the case, he bends every rule to secure freedom for his former enemy or risk losing all he cherishes.",
+      "Type": "movie",
+      "RunTime": "140 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Siddharth P Malhotra",
+      "Writer": "Althea Kaushal, Mayank Tewari",
+      "Actors": "Sunny Deol, Akshaye Khanna, Dia Mirza",
       "Language": "Hindi",
       "Country": "India"
     },

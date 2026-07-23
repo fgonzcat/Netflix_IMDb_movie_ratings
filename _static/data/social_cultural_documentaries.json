@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Queen of Versailles",
+      "netflix_url": "https://www.netflix.com/title/70229267",
+      "year": "2012",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt2125666",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MzY0NDc3NV5BMl5BanBnXkFtZTcwMTAyODY4Nw@@._V1_SX300.jpg",
+      "Plot": "A documentary that follows a billionaire couple as they begin construction on a mansion inspired by Versailles. During the next two years, their empire, fueled by the real estate bubble and cheap money, falters due to the economic...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary",
+      "Director": "Lauren Greenfield",
+      "Writer": "N/A",
+      "Actors": "Jaqueline Siegel, David Siegel, Lorraine Barrett",
+      "Language": "English, French",
+      "Country": "United States, Netherlands, United Kingdom, Denmark"
+    },
+    {
       "title": "Virunga",
       "netflix_url": "https://www.netflix.com/title/80009431",
       "year": "2014",
@@ -3262,6 +3279,23 @@
       "imdb_id": null
     },
     {
+      "title": "The Root Of The Game",
+      "netflix_url": "https://www.netflix.com/title/81751138",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt40618611",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwZThiZTctZDJjZS00YWU5LTg4NjgtMDNkOTBmYjg3NGEwXkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+      "Plot": "Follows players and coaches competing in the Super Copa Pioneer, São Paulo's largest amateur soccer tournament, as they dream of changing their lives.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "Brazil"
+    },
+    {
       "title": "Will & Harper",
       "netflix_url": "https://www.netflix.com/title/81760197",
       "year": "2024",
@@ -3364,6 +3398,23 @@
       "Country": "United States"
     },
     {
+      "title": "The American Experiment",
+      "netflix_url": "https://www.netflix.com/title/81930567",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt42605728",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTM1MTA5MTY0MV5BMl5BanBnXkFtZTcwMTQ4OTUzMg@@._V1_QL75_UX280_CR0,9,280,280_.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Martin Sheen",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Breakdown: 1975",
       "netflix_url": "https://www.netflix.com/title/81954014",
       "year": "2025",
@@ -3418,8 +3469,18 @@
       "title": "Soju Rhapsody",
       "netflix_url": "https://www.netflix.com/title/81983316",
       "year": "2025",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt40035820",
+      "Poster": "https://m.media-amazon.com/images/M/9516b142-0c88-4475-a39b-97c06546cdc5._V1_UX1000_CR0,0,1000,563_.png",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paik Jong-won, Lee Jang-woo",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Selena y Los Dinos: A Family’s Legacy",
@@ -3626,6 +3687,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Leon Panetta, H.W. Brands, James Meigs",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Thomas Jefferson",
+      "netflix_url": "https://www.netflix.com/title/82765235",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35792758",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk1YjRlZmYtZWYwYi00NWIxLThlMGItODE2ODUzMjUwZmEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The life and achievements of the USA's third president are explored.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Aedan Jayce, Devin E. Haqq, Andy Bowles",
       "Language": "English",
       "Country": "United States"
     }

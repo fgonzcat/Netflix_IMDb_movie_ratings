@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "Memento",
+      "netflix_url": "https://www.netflix.com/title/60020435",
+      "year": "2000",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt0209144",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A former insurance investigator who now suffers from anterograde amnesia uses notes and tattoos to hunt down his wife's murderer.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Christopher Nolan",
+      "Writer": "Christopher Nolan, Jonathan Nolan",
+      "Actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "K-Pax",
       "netflix_url": "https://www.netflix.com/title/60020811",
       "year": "2001",
@@ -50,6 +67,23 @@
       "Director": "Sorin Dan Mihalcescu",
       "Writer": "Sorin Dan Mihalcescu, Raluca Pencu",
       "Actors": "Barbara King, Yoriko Haraguchi, Shaana Levy, Lyudmila Polupanova",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Seduction of Joe Tynan",
+      "netflix_url": "https://www.netflix.com/title/70181831",
+      "year": "1979",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0079875",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmEwY2U2NDQtMmYxOC00MTU0LWJkZTQtYmNmYWQ3MGVjY2E0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Respected liberal Senator Joe Tynan is asked to lead the opposition to a Supreme Court appointment. It means losing an old friend and fudging principles to make the necessary deals, as well as further straining his already part-ti...",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama",
+      "Director": "Jerry Schatzberg",
+      "Writer": "Alan Alda",
+      "Actors": "Alan Alda, Barbara Harris, Meryl Streep",
       "Language": "English",
       "Country": "United States"
     },

@@ -1178,9 +1178,33 @@
       "Country": "Colombia"
     },
     {
+      "title": "Susana and Elvira: No Plan B",
+      "netflix_url": "https://www.netflix.com/title/81941028",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Trip 8",
       "netflix_url": "https://www.netflix.com/title/81971901",
       "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt40021723",
+      "Poster": "https://m.media-amazon.com/images/M/9516b142-0c88-4475-a39b-97c06546cdc5._V1_UX1000_CR0,0,1000,563_.png",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Erick Cañete, Constanza Hernández, Fernando Memije",
+      "Language": "Spanish",
+      "Country": "Colombia"
+    },
+    {
+      "title": "Salcedo, Leather, and Boogaloo",
+      "netflix_url": "https://www.netflix.com/title/82641105",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     }

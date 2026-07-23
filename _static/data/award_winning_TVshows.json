@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/89814",
   "movies": [
     {
+      "title": "Heroes",
+      "netflix_url": "https://www.netflix.com/title/70136130",
+      "year": "2009",
+      "imdb_rating": "8.6",
+      "imdb_id": "tt1385545",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0NzA1NDQtYmM4NS00MDI2LTg2NmQtZThkMzE2Zjk1ODAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Drama",
+      "Director": "Mallak Brooks Bey",
+      "Writer": "Mallak Brooks Bey",
+      "Actors": "Tezz Yancey, Shott Brown, Rusty Meyers",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Sex and the City",
       "netflix_url": "https://www.netflix.com/title/70136137",
       "year": "2003",
@@ -644,6 +661,23 @@
       "Actors": "Caitríona Balfe, Sam Heughan, Sophie Skelton",
       "Language": "English, Gaelic",
       "Country": "United States"
+    },
+    {
+      "title": "Pocoyo",
+      "netflix_url": "https://www.netflix.com/title/70288470",
+      "year": "2025",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0487849",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzQ3MTI5Ml5BMl5BanBnXkFtZTcwNzcyNTE0MQ@@._V1_SX300.jpg",
+      "Plot": "Pocoyo, the curious toddler dressed all in blue, joins Pato the yellow duck, Elly the pink elephant, Loula the dog, Sleepy Bird and many others in learning new things and having fun.",
+      "Type": "series",
+      "RunTime": "7 min",
+      "Genre": "Animation, Comedy, Family",
+      "Director": "N/A",
+      "Writer": "Andy Yerkes, David Cantolla, Luis Gallego",
+      "Actors": "Stephen Fry, Alex Marty, Stephen Hughes",
+      "Language": "Spanish, English",
+      "Country": "Spain, United Kingdom, United States"
     },
     {
       "title": "That Winter, the Wind Blows",
@@ -4048,6 +4082,23 @@
       "Country": "Sweden"
     },
     {
+      "title": "Quarterback",
+      "netflix_url": "https://www.netflix.com/title/81482895",
+      "year": "2026",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt26777035",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjFhOTczNjEtZjljZC00N2UxLTg2MmQtNjUwNTNlY2MyMjZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It showcases Patrick Mahomes, Kirk Cousins and Marcus Mariota over the course of the 2022 season.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kirk Cousins, Patrick Mahomes, Joe Burrow",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Inspector Koo",
       "netflix_url": "https://www.netflix.com/title/81486374",
       "year": "2021",
@@ -4661,6 +4712,13 @@
       "Country": "United States"
     },
     {
+      "title": "America's Team: The Gambler and His Cowboys",
+      "netflix_url": "https://www.netflix.com/title/81725526",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Culinary Class Wars",
       "netflix_url": "https://www.netflix.com/title/81728365",
       "year": "2025",
@@ -4693,6 +4751,23 @@
       "Actors": "Diane Morgan, Douglas Hedley, Rupert Sheldrake",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Holly Hobbie",
+      "netflix_url": "https://www.netflix.com/title/81752953",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt8602408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGU0MzQyNjQtOGY2NS00YTQyLTg4N2UtYTJlZGZkNmE4M2VjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Holly Hobbie has lived her whole life in the small town of Collinsville. Holly is a 13-year-old singer-songwriter who has her best friends and a close-knit family, but dreams of ways to save the world.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Family, Music",
+      "Director": "N/A",
+      "Writer": "Sarah Glinski",
+      "Actors": "Ruby Jay, Saara Chaudry, Hunter Dillon",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Adolescence",

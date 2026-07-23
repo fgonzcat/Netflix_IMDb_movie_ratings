@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/7700",
   "movies": [
     {
+      "title": "High Plains Drifter",
+      "netflix_url": "https://www.netflix.com/title/589340",
+      "year": "1973",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0068699",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQyMDFjMDUtZGFiYy00MGFmLWI0MTctMzg1MTZhOThhMTFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A stranger makes townsfolk prepare garish welcome for convicts.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Drama, Mystery, Western",
+      "Director": "Clint Eastwood",
+      "Writer": "Ernest Tidyman",
+      "Actors": "Clint Eastwood, Verna Bloom, Marianna Hill",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Wyatt Earp",
       "netflix_url": "https://www.netflix.com/title/60011597",
       "year": "1994",
@@ -52,6 +69,23 @@
       "Actors": "Ranveer Singh, Ali Zafar, Parineeti Chopra",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Slow West",
+      "netflix_url": "https://www.netflix.com/title/80029901",
+      "year": "2015",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt3205376",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTYxNDA5ODk5NF5BMl5BanBnXkFtZTgwNzMwMzIwNTE@._V1_SX300.jpg",
+      "Plot": "A young Scottish man travels across America in pursuit of the woman he loves, attracting the attention of an outlaw who is willing to serve as a guide.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Adventure, Drama, Romance",
+      "Director": "John Maclean",
+      "Writer": "John Maclean",
+      "Actors": "Kodi Smit-McPhee, Caren Pistorius, Aorere Paki",
+      "Language": "English, French, Swedish",
+      "Country": "United Kingdom, New Zealand"
     },
     {
       "title": "The Ridiculous 6",
@@ -170,6 +204,23 @@
       "Writer": "Aury Wallington, May Chan, Nicole Belisle",
       "Actors": "Amber Frank, Bailey Gambertoglio, Sydney Park",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Old Henry",
+      "netflix_url": "https://www.netflix.com/title/81498755",
+      "year": "2021",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt12731980",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI5NTJiZTYtNDE0MS00ZTc3LWFiZTItOTY2Y2NlYTc2Mzc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A farmer takes in an injured man with a satchel of cash. When a posse comes for the money, he must decide who to trust. Defending a siege, he reveals a gunslinging talent calling his true identity into question.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Action, Drama, Western",
+      "Director": "Potsy Ponciroli",
+      "Writer": "Potsy Ponciroli",
+      "Actors": "Tim Blake Nelson, Scott Haze, Gavin Lewis",
+      "Language": "English, Spanish",
       "Country": "United States"
     },
     {

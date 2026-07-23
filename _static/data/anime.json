@@ -2133,6 +2133,23 @@
       "Country": "Japan, China"
     },
     {
+      "title": "That Time I Got Reincarnated as a Slime",
+      "netflix_url": "https://www.netflix.com/title/81028712",
+      "year": "2018",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt9054364",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTczMjM3MDUtYmZjMC00YzZhLWE4ODQtNjg5YWU4NTJjNzY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Average 37-year-old Minami Satoru dies and is reincarnated as the most unremarkable creature imaginable-a slime.",
+      "Type": "series",
+      "RunTime": "25 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Fuse",
+      "Actors": "Miho Okasaki, Megumi Toyoguchi, Brittney Karbowski",
+      "Language": "English, Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Cells at Work!",
       "netflix_url": "https://www.netflix.com/title/81028791",
       "year": "2021",
@@ -4046,6 +4063,13 @@
       "Country": "United States"
     },
     {
+      "title": "Mononoke The Movie: The Phantom in the Rain",
+      "netflix_url": "https://www.netflix.com/title/81580574",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "My Oni Girl",
       "netflix_url": "https://www.netflix.com/title/81582442",
       "year": "2024",
@@ -4372,6 +4396,23 @@
       "Director": "N/A",
       "Writer": "Satoshi Tajiri",
       "Actors": "Minori Suzuki, Megumi Hayashibara, Daiki Yamashita",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
+      "title": "Sparks of Tomorrow",
+      "netflix_url": "https://www.netflix.com/title/81698957",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38939446",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM5N2NlOTItOTUyMC00MTVhLWE4NzMtNjYzNDBjMTI1NjhkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A boy, hardened by his brother's death, loses faith in their \"Age of Electricity\" dream. A devout girl hides grief for her mother. Together, they explore the 20th Century Electrical Catalog, confronting their pasts to forge their ...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Yuma Uchida, Sora Amamiya",
       "Language": "Japanese",
       "Country": "Japan"
     },
@@ -5163,8 +5204,49 @@
       "imdb_id": null
     },
     {
+      "title": "Daemons of the Shadow Realm",
+      "netflix_url": "https://www.netflix.com/title/82719204",
+      "year": "2026",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt37532356",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWRlZDA5YjUtNjk3MC00YjRkLWEyYTUtM2ExYWUwNDRlN2UxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "Separated as children and unaware they're siblings, a brother and sister struggle to reunite, reclaim their birthright, and save the world.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ayumu Murase, Ryûnosuke Watanuki, Ryosuke Hara",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
+      "title": "Thunder 3",
+      "netflix_url": "https://www.netflix.com/title/82736186",
+      "year": "2026",
+      "imdb_rating": "4.2",
+      "imdb_id": "tt0364064",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxNzc1ODI4Nl5BMl5BanBnXkFtZTcwNzcxMTgzMQ@@._V1_SX300.jpg",
+      "Plot": "Spencer and Bru break into his HQ and capture notorious drug lord Manuel Santiago of a DEA Agent. Santiago's angered assistant, Mason Lee, takes the school hostage where Kelly is teaching ...",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Action, Adventure, Family",
+      "Director": "Douglas Schwartz",
+      "Writer": "Deborah Schwartz",
+      "Actors": "Hulk Hogan, Chris Lemmon, Carol Alt, Ashley Gorrell",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "KILL BLUE",
       "netflix_url": "https://www.netflix.com/title/82757009",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Chainsmoker Cat",
+      "netflix_url": "https://www.netflix.com/title/82760630",
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
@@ -5185,6 +5267,13 @@
       "Actors": "Edward G. Robinson, Joan Bennett, Dan Duryea",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "One Piece: Heroines",
+      "netflix_url": "https://www.netflix.com/title/82904737",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

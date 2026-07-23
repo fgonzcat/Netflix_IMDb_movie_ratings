@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/3373",
   "movies": [
     {
+      "title": "Born on the Fourth of July",
+      "netflix_url": "https://www.netflix.com/title/325268",
+      "year": "1989",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0096969",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDk5NTA0NF5BMl5BanBnXkFtZTgwMTkyMDUxMDE@._V1_SX300.jpg",
+      "Plot": "The biography of Ron Kovic. Paralyzed in the Vietnam war, he becomes an anti-war and pro-human rights political activist after feeling betrayed by the country for which he fought.",
+      "Type": "movie",
+      "RunTime": "145 min",
+      "Genre": "Biography, Drama, War",
+      "Director": "Oliver Stone",
+      "Writer": "Ron Kovic, Oliver Stone",
+      "Actors": "Tom Cruise, Bryan Larkin, Raymond J. Barry",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Glory",
       "netflix_url": "https://www.netflix.com/title/547335",
       "year": "1989",
@@ -20,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Guns of Navarone",
+      "netflix_url": "https://www.netflix.com/title/60000061",
+      "year": "1961",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0054953",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFkZWIwNzQtNzdlYS00NTg3LWIzMTctM2U2NWQ0MTVlZmU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A team of Allied saboteurs is assigned an impossible mission: infiltrate an impregnable Nazi-held Greek island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "J. Lee Thompson",
+      "Writer": "Alistair MacLean, Carl Foreman",
+      "Actors": "David Niven, Gregory Peck, Anthony Quinn",
+      "Language": "English, Greek, German, Latin",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Braveheart",
       "netflix_url": "https://www.netflix.com/title/60000540",
       "year": "1995",
@@ -35,6 +69,23 @@
       "Actors": "Mel Gibson, Sophie Marceau, Patrick McGoohan",
       "Language": "English, French, Latin, Gaelic, Italian",
       "Country": "United States"
+    },
+    {
+      "title": "U-571",
+      "netflix_url": "https://www.netflix.com/title/60000911",
+      "year": "2000",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0141926",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU2MjAxZGQtMGY3NC00ODYwLThkZWQtNzhjMDhhOTVlMWYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A German submarine is boarded by disguised American submariners trying to capture their Enigma cipher machine.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Action, War",
+      "Director": "Jonathan Mostow",
+      "Writer": "Jonathan Mostow, Sam Montgomery, David Ayer",
+      "Actors": "Matthew McConaughey, Bill Paxton, Harvey Keitel",
+      "Language": "English, German",
+      "Country": "France, United States"
     },
     {
       "title": "K-19: The Widowmaker",
@@ -69,6 +120,13 @@
       "Actors": "Liam Neeson, Ralph Fiennes, Ben Kingsley",
       "Language": "English, Hebrew, German, Polish, Latin",
       "Country": "United States"
+    },
+    {
+      "title": "Lawrence of Arabia: Restored Version",
+      "netflix_url": "https://www.netflix.com/title/70012020",
+      "year": "1962",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Atonement",
@@ -331,6 +389,23 @@
       "Actors": "Andrew Garfield, Sam Worthington, Luke Bracey",
       "Language": "English, Japanese",
       "Country": "United States"
+    },
+    {
+      "title": "Anthropoid",
+      "netflix_url": "https://www.netflix.com/title/80114667",
+      "year": "2016",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt4190530",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxNzE0NjY1Nl5BMl5BanBnXkFtZTgwNjYzOTkxOTE@._V1_SX300.jpg",
+      "Plot": "Based on the extraordinary true story of Operation Anthropoid, the WWII mission to assassinate SS General Reinhard Heydrich, the main architect behind the Final Solution and the Reich's third in command after Hitler and Himmler.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Sean Ellis",
+      "Writer": "Sean Ellis, Anthony Frewin",
+      "Actors": "Jamie Dornan, Cillian Murphy, Brian Caspe",
+      "Language": "English, Czech, German",
+      "Country": "United Kingdom, France, United States, Czech Republic"
     },
     {
       "title": "Sand Castle",
@@ -854,6 +929,23 @@
       "imdb_id": null
     },
     {
+      "title": "SAS: Rise of the Black Swan",
+      "netflix_url": "https://www.netflix.com/title/81410784",
+      "year": "2021",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt4479380",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBhODQwNDktODE0My00MDQxLTg4NmEtOTUwYzFkNTU0NDBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small army of well trained criminals led by Grace Lewis have hijacked a train deep beneath the English Channel.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Action",
+      "Director": "Magnus Martens",
+      "Writer": "Laurence Malkin, Andy McNab",
+      "Actors": "Sam Heughan, Ruby Rose, Andy Serkis",
+      "Language": "English, French",
+      "Country": "United Kingdom, Switzerland, Netherlands, Hungary"
+    },
+    {
       "title": "Operation Mincemeat",
       "netflix_url": "https://www.netflix.com/title/81428563",
       "year": "2022",
@@ -1048,6 +1140,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Golda",
+      "netflix_url": "https://www.netflix.com/title/81622497",
+      "year": "2023",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt14454876",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjNmNjM2NzItZGM1NC00MjdkLTk2NmQtOTJiOGU1YThhYjgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Focuses on the intensely dramatic and high-stakes responsibilities and decisions that Golda Meir, also known as the 'Iron Lady of Israel,' faced during the Yom Kippur War.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Guy Nattiv",
+      "Writer": "Nicholas Martin",
+      "Actors": "Helen Mirren, Zed Josef, Henry Goodman",
+      "Language": "English, Hebrew, Arabic",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Kingdom2: Far and Away",
       "netflix_url": "https://www.netflix.com/title/81631722",
       "year": "2022",
@@ -1232,6 +1341,23 @@
       "Country": "Poland"
     },
     {
+      "title": "Amaran",
+      "netflix_url": "https://www.netflix.com/title/81728596",
+      "year": "2024",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt27118357",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTAzMGQ2MGItMjk5OC00YWIwLThmMjUtYmNjMTIxNzVlZWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The life of Major Mukund Varadarajan and is set against the backdrop of the Qazipathri Operation in Shopian, Kashmir, which took place back in 2014.",
+      "Type": "movie",
+      "RunTime": "167 min",
+      "Genre": "Action, Biography, Drama",
+      "Director": "Rajkumar Periasamy",
+      "Writer": "Rajkumar Periasamy",
+      "Actors": "Sivakarthikeyan, Sai Pallavi, Bhuvan Arora",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "Land of Bad",
       "netflix_url": "https://www.netflix.com/title/81747468",
       "year": "2024",
@@ -1383,6 +1509,40 @@
       "Actors": "Jorma Tommila, Stephen Lang, Richard Brake",
       "Language": "English, Finnish",
       "Country": "Finland, United Kingdom"
+    },
+    {
+      "title": "The Choral",
+      "netflix_url": "https://www.netflix.com/title/82719755",
+      "year": "2025",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt31851518",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI4ODRhODEtOTQ3ZS00YTY3LWIxMTgtNDdmY2JiNzQ4OGVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A choral society's male members enlist in World War I, leaving the demanding Dr. Guthrie to recruit teenagers. Together, they experience the joy of singing while the young boys grapple with their impending conscription into the army.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Drama, History, Music",
+      "Director": "Nicholas Hytner",
+      "Writer": "Alan Bennett",
+      "Actors": "Taylor Uttley, Ralph Fiennes, Mark Addy",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Raja Shivaji",
+      "netflix_url": "https://www.netflix.com/title/82821158",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31390893",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmEwNTU4MzEtY2Y4Ni00ZWRmLThhMGMtMDE5MTZmMDIzMGVjXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "The journey of the young Shivaji, who fought against the powers that be and was crowned as Chhatrapati monarch.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Action, Biography, Drama",
+      "Director": "Riteish Deshmukh",
+      "Writer": "Prajakt Deshmukh, Riteish Deshmukh, Jaideep Yadav",
+      "Actors": "Salman Khan, Sanjay Dutt, Abhishek Bachchan",
+      "Language": "Marathi, Hindi, Tamil, Telugu, Kannada, Malayalam",
+      "Country": "India"
     }
   ]
 }

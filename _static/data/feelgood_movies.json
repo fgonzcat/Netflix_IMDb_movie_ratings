@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/10579",
   "movies": [
     {
+      "title": "Stuart Little",
+      "netflix_url": "https://www.netflix.com/title/28631029",
+      "year": "1999",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0164912",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTE3MzQxOWQtMmMxNS00YWVkLThiNDMtOTFiNzVjNmE3MGIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his new brother, the family cat, Snowbell, is even less enthusiastic. Stuart resolves to face these difficulties with as much pluck and courage as he can...",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Rob Minkoff",
+      "Writer": "E.B. White, M. Night Shyamalan, Greg Brooker",
+      "Actors": "Michael J. Fox, Geena Davis, Hugh Laurie",
+      "Language": "English, Dutch",
+      "Country": "Germany, United States"
+    },
+    {
       "title": "Forrest Gump",
       "netflix_url": "https://www.netflix.com/title/60000724",
       "year": "1994",
@@ -17,6 +34,23 @@
       "Writer": "Winston Groom, Eric Roth",
       "Actors": "Tom Hanks, Robin Wright, Gary Sinise",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Rudy",
+      "netflix_url": "https://www.netflix.com/title/60002332",
+      "year": "1993",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0108002",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ1MWQ4MWQtZWQzMy00NmU1LThmYzItNGU1OTc5MWJjNzQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rudy has always been told that he was too small to play college football. But he is determined to overcome the odds and fulfill his dream of playing for Notre Dame.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "David Anspaugh",
+      "Writer": "Angelo Pizzo",
+      "Actors": "Sean Astin, Jon Favreau, Ned Beatty",
+      "Language": "English, Spanish",
       "Country": "United States"
     },
     {
@@ -35,6 +69,23 @@
       "Actors": "Kevin Spacey, Jeff Bridges, Mary McCormack",
       "Language": "English",
       "Country": "Germany, United States"
+    },
+    {
+      "title": "Rookie of the Year",
+      "netflix_url": "https://www.netflix.com/title/60021965",
+      "year": "1993",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0107985",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjNiMGQyZDktNzY0Ni00MDU1LTkyY2UtMDY5MzJkOWIzMGNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When an accident miraculously gives a boy an incredibly powerful pitching arm, he becomes a major league pitcher for the Chicago Cubs.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Daniel Stern",
+      "Writer": "Sam Harper",
+      "Actors": "Thomas Ian Nicholas, Gary Busey, Albert Hall",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Crossroads",
@@ -190,6 +241,23 @@
       "Country": "India"
     },
     {
+      "title": "The Wedding Date",
+      "netflix_url": "https://www.netflix.com/title/70019502",
+      "year": "2005",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0372532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDkxNzUxMTUtYjc2NC00NTJlLTgyMWYtYWQ2Y2JjN2ExNWQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Single-girl anxiety causes Kat Ellis to hire a male escort to pose as her boyfriend at her sister's wedding. Her plan, an attempt to dupe her ex-fiancé, who dumped her a couple years prior, proves to be her undoing.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Clare Kilner",
+      "Writer": "Elizabeth Young, Dana Fox",
+      "Actors": "Dermot Mulroney, Debra Messing, Jack Davenport",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
+    },
+    {
       "title": "Matilda",
       "netflix_url": "https://www.netflix.com/title/70033005",
       "year": "1996",
@@ -341,6 +409,23 @@
       "Actors": "Amanda Seyfried, Gael García Bernal, Vanessa Redgrave",
       "Language": "English, Italian, Spanish",
       "Country": "United States"
+    },
+    {
+      "title": "The Karate Kid",
+      "netflix_url": "https://www.netflix.com/title/70125931",
+      "year": "2010",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1155076",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODg3ODEyMF5BMl5BanBnXkFtZTcwNjI1MTgxMw@@._V1_SX300.jpg",
+      "Plot": "Work causes a single mother to move to China with her young son; in his new home, the 12-year-old boy embraces Kung Fu, taught to him by a master.",
+      "Type": "movie",
+      "RunTime": "140 min",
+      "Genre": "Action, Drama, Family",
+      "Director": "Harald Zwart",
+      "Writer": "Christopher Murphey, Robert Mark Kamen",
+      "Actors": "Jackie Chan, Jaden Smith, Taraji P. Henson",
+      "Language": "English, Mandarin",
+      "Country": "United States, China, Hong Kong"
     },
     {
       "title": "Pyaar Impossible",
@@ -620,6 +705,23 @@
       "Actors": "Robin Williams, Sally Field, Pierce Brosnan",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Muriel's Wedding",
+      "netflix_url": "https://www.netflix.com/title/783045",
+      "year": "1994",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0110598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGJkMmUwODMtZGU0Yi00YWRiLThlZGEtMTg2YTVkODcwZDQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young social outcast in Australia steals money from her parents to finance a vacation where she hopes to find happiness, and perhaps love.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Comedy, Drama",
+      "Director": "P.J. Hogan",
+      "Writer": "P.J. Hogan",
+      "Actors": "Toni Collette, Rachel Griffiths, Bill Hunter",
+      "Language": "English",
+      "Country": "Australia, France"
     },
     {
       "title": "Happy New Year",
@@ -1977,6 +2079,23 @@
       "Actors": "Larissa Manoela, Thati Lopes, Bruno Montaleone",
       "Language": "Portuguese, English",
       "Country": "Brazil"
+    },
+    {
+      "title": "A Dog's Journey",
+      "netflix_url": "https://www.netflix.com/title/81037744",
+      "year": "2019",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt8385474",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWVkY2NlNmEtNzU3Mi00Njc0LWJiNjMtNzU5ZTdhZTAzZmU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Adventure, Comedy, Drama",
+      "Director": "Gail Mancuso",
+      "Writer": "W. Bruce Cameron, Cathryn Michon, Maya Forbes",
+      "Actors": "Josh Gad, Dennis Quaid, Kathryn Prescott",
+      "Language": "English",
+      "Country": "China, India, Hong Kong, United States"
     },
     {
       "title": "To All The Boys: Always And Forever",
@@ -4453,6 +4572,23 @@
       "imdb_id": null
     },
     {
+      "title": "Ticket to Paradise",
+      "netflix_url": "https://www.netflix.com/title/81598180",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt14109724",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQwNDg4Y2EtZjc4OS00NDY0LTk1NGMtZTEyOTAxMWQ3NWQ5XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Plot": "A divorced couple teams up and travels to Bali to stop their daughter from making the same mistake they think they made 25 years ago.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Ol Parker",
+      "Writer": "Ol Parker, Daniel Pipski",
+      "Actors": "George Clooney, Sean Lynch, Julia Roberts",
+      "Language": "English, Indonesian, Italian, French",
+      "Country": "United Kingdom, Japan, United States"
+    },
+    {
       "title": "Disconnect: The Wedding Planner",
       "netflix_url": "https://www.netflix.com/title/81598307",
       "year": "2023",
@@ -4570,6 +4706,23 @@
       "Actors": "Alexandra Maria Lara, Devid Striesow, Anna Herrmann",
       "Language": "German",
       "Country": "Germany"
+    },
+    {
+      "title": "My Hero Academia: World Heroes' Mission",
+      "netflix_url": "https://www.netflix.com/title/81642996",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt13544716",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGRmNTM5NWQtOWZlNi00NWFmLWFmODctMTBhZjZkM2U5NDFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a cult of terrorists ruins a city by releasing a toxin that causes people's abilities to spiral out of control, Japan's greatest heroes spread around the world in an attempt to track down the mastermind and put him to justice.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Kenji Nagasaki",
+      "Writer": "Kôhei Horikoshi, Yôsuke Kuroda, Hitoshi Nagai",
+      "Actors": "Daiki Yamashita, Nobuhiko Okamoto, Yûki Kaji",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Happiness Is",
@@ -5038,8 +5191,18 @@
       "title": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",
       "netflix_url": "https://www.netflix.com/title/81748104",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38092819",
+      "Poster": "https://m.media-amazon.com/images/M/75f35a85-7a6e-4f1f-bf8b-e4c8556bc4e4._V1_UX1000_CR0,0,1000,563_.png",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "42 min",
+      "Genre": "Animation, Short",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bommie Han, Sharon Kwon",
+      "Language": "English",
+      "Country": "South Korea"
     },
     {
       "title": "Swapped",
@@ -5294,8 +5457,18 @@
       "title": "Bride of the Year",
       "netflix_url": "https://www.netflix.com/title/81933871",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "4.5",
+      "imdb_id": "tt42192201",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGY2ZDIzOTUtOTQ3Ni00NjExLTkyODAtZjkzYmM0MTJkYTkxXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+      "Plot": "Lienke's plans for having her own family have fallen apart, so she hatches a plan to win \"Bride of the Year\" and get back at her ex.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Family, Romance",
+      "Director": "Joshua Rous",
+      "Writer": "Gillian Breslin, Carine Rous, Luke Rous",
+      "Actors": "Carine Rous, Bouwer Bosch, Armand Aucamp",
+      "Language": "Afrikaans",
+      "Country": "South Africa"
     },
     {
       "title": "The Dad Quest",
@@ -5364,6 +5537,23 @@
       "Actors": "Mariah Carey, Billy Porter, Drew Barrymore",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Pagtatag! The Documentary",
+      "netflix_url": "https://www.netflix.com/title/82052782",
+      "year": "2024",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt32985238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmYxMDdmYTEtMDJkNS00NGI2LTlhMTctOWNjYjQ5MzNkZmFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An eye-opener not only being an artists but more on in real life journey. People tend to forget the behind the scenes in everything. They easily judge people on how they see them or portray them in public.",
+      "Type": "movie",
+      "RunTime": "73 min",
+      "Genre": "Documentary, Music",
+      "Director": "Jed Regala",
+      "Writer": "N/A",
+      "Actors": "SB19, Pablo Nase, Josh Cullen Santos",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
     },
     {
       "title": "Joy for Christmas",
@@ -5509,6 +5699,23 @@
       "Country": "Canada"
     },
     {
+      "title": "K-Pops!",
+      "netflix_url": "https://www.netflix.com/title/82099781",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt19896510",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjY4Y2M1OTYtZjU2OC00MjEwLWJlOWUtMDAzYjUzMGRlZTVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows a washed-up musician who jumps at the chance to capitalize on his long-lost son's stardom for his own renaissance, but learns that fatherhood is much more than stardom.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Anderson .Paak",
+      "Writer": "Anderson .Paak, Khaila Amazan",
+      "Actors": "Anderson .Paak, Jee Young Han, Soul Rasheed",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Furry Friends Forever: Elmo Gets a Puppy",
       "netflix_url": "https://www.netflix.com/title/82118668",
       "year": "2021",
@@ -5641,6 +5848,23 @@
       "Director": "Dylan Pearce",
       "Writer": "Nathan Usher",
       "Actors": "Emma Johnson, Ryan Northcott, Will Brisbin",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
+      "title": "A Vineyard Christmas",
+      "netflix_url": "https://www.netflix.com/title/82141900",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28669205",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDgwNzQwOTMtMDkxMC00MjQ0LTk0ODItM2JmNTgzZDViMmFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Heather, host of 'Read Between the Vines', is determined to create the perfect Christmas episode by featuring a unique winery from her hometown. The only thing standing in her way? Rudy, the attractive, stubborn owner of the winery.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Romance",
+      "Director": "Ana Valine",
+      "Writer": "Katie Wilbert",
+      "Actors": "Nikki McKenzie, Victor Zinck Jr., Brittany Clough",
       "Language": "English",
       "Country": "Canada"
     },
@@ -5910,6 +6134,40 @@
     {
       "title": "Harry Styles. One Night In Manchester.",
       "netflix_url": "https://www.netflix.com/title/82722921",
+      "year": "2026",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt40341984",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWU1ZTVkNTQtM2EwOC00ODZlLTg3MDEtN2JkOTk4YzE4NWZlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "Harry Styles performs his new album \"Kiss All The Time. Disco, Occasionally\" for the first time at a special one-off Manchester concert recorded March 6.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Documentary, Music",
+      "Director": "Ant Barrett, Paul Dugdale",
+      "Writer": "N/A",
+      "Actors": "Laura Bibbs, Lorren Chiodo, Sarah Jones",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
+      "title": "Rekonek",
+      "netflix_url": "https://www.netflix.com/title/82725015",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38779509",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWExYjNhZTctOTNlYS00NThlLThmZjctYjg1NTQ4ODU3Yzg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It centers on six different Filipino families during a Christmas Eve when the internet goes out worldwide, forcing them to reconnect with each other through more traditional means.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Drama, Family",
+      "Director": "Jade Castro",
+      "Writer": "Jericho Aguado, Leovic Arceta, Kat Naval",
+      "Actors": "Gerald Anderson, Carmina Villaroel, Bela Padilla",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
+      "title": "Kylie: Tension Tour Live",
+      "netflix_url": "https://www.netflix.com/title/82768971",
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null

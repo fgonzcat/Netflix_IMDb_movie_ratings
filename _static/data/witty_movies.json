@@ -71,6 +71,23 @@
       "Country": "United States"
     },
     {
+      "title": "Fargo",
+      "netflix_url": "https://www.netflix.com/title/493387",
+      "year": "1996",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0116282",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Joel Coen, Ethan Coen",
+      "Writer": "Ethan Coen, Joel Coen",
+      "Actors": "William H. Macy, Frances McDormand, Steve Buscemi",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Fletch",
       "netflix_url": "https://www.netflix.com/title/510088",
       "year": "1985",
@@ -86,6 +103,23 @@
       "Actors": "Chevy Chase, Joe Don Baker, Dana Wheeler-Nicholson",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Four Weddings and a Funeral",
+      "netflix_url": "https://www.netflix.com/title/520489",
+      "year": "1994",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0109831",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyNzg2NzgxNV5BMl5BanBnXkFtZTcwMTcxNzczNA@@._V1_SX300.jpg",
+      "Plot": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Mike Newell",
+      "Writer": "Richard Curtis",
+      "Actors": "Hugh Grant, Andie MacDowell, James Fleet",
+      "Language": "English, British Sign ",
+      "Country": "United Kingdom"
     },
     {
       "title": "Small Time Crooks",
@@ -309,6 +343,23 @@
       "Country": "United Kingdom, France, United States"
     },
     {
+      "title": "The Answer Man",
+      "netflix_url": "https://www.netflix.com/title/70112459",
+      "year": "2009",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1187041",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTM3ZmRmOTctODcwNy00Yzg2LTkyYzctOTVlNWE4NmM4ZTE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A reclusive author of spiritual books is pursued for advice by a single mother and a man fresh out of rehab.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Romance",
+      "Director": "John Hindman",
+      "Writer": "John Hindman",
+      "Actors": "Jeff Daniels, Lauren Graham, Lou Taylor Pucci",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Proposal",
       "netflix_url": "https://www.netflix.com/title/70112727",
       "year": "2009",
@@ -373,6 +424,23 @@
       "Director": "Will Gluck",
       "Writer": "Keith Merryman, David A. Newman, Will Gluck",
       "Actors": "Mila Kunis, Justin Timberlake, Patricia Clarkson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Seduction of Joe Tynan",
+      "netflix_url": "https://www.netflix.com/title/70181831",
+      "year": "1979",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0079875",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmEwY2U2NDQtMmYxOC00MTU0LWJkZTQtYmNmYWQ3MGVjY2E0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Respected liberal Senator Joe Tynan is asked to lead the opposition to a Supreme Court appointment. It means losing an old friend and fudging principles to make the necessary deals, as well as further straining his already part-ti...",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama",
+      "Director": "Jerry Schatzberg",
+      "Writer": "Alan Alda",
+      "Actors": "Alan Alda, Barbara Harris, Meryl Streep",
       "Language": "English",
       "Country": "United States"
     },
@@ -722,6 +790,23 @@
       "Actors": "Eduardo Noriega, Michelle Jenner, Fele Martínez",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "The Boss Baby",
+      "netflix_url": "https://www.netflix.com/title/80146758",
+      "year": "2017",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt3874544",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_SX300.jpg",
+      "Plot": "A suit-wearing, briefcase-carrying baby pairs up with his 7-year old brother to stop the dastardly plot of the CEO of Puppy Co.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Tom McGrath",
+      "Writer": "Michael McCullers, Marla Frazee",
+      "Actors": "Alec Baldwin, Steve Buscemi, Jimmy Kimmel",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Step Sisters",
@@ -1340,6 +1425,13 @@
       "Country": "United States"
     },
     {
+      "title": "Raise Hell: The Life and Times of Molly Ivins",
+      "netflix_url": "https://www.netflix.com/title/81181196",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "You People",
       "netflix_url": "https://www.netflix.com/title/81194505",
       "year": "2023",
@@ -1786,6 +1878,23 @@
       "Country": "India"
     },
     {
+      "title": "Bros",
+      "netflix_url": "https://www.netflix.com/title/81577750",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9731598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2UxNGVkNDctMTdkZi00NzgyLWJiZjQtMGY1MWUwNTQ1MTY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two men with commitment problems attempt a relationship.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Nicholas Stoller",
+      "Writer": "Billy Eichner, Nicholas Stoller",
+      "Actors": "Billy Eichner, Luke Macfarlane, Guy Branum",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Vengeance",
       "netflix_url": "https://www.netflix.com/title/81588983",
       "year": "2022",
@@ -1818,6 +1927,23 @@
       "Actors": "Gustavo Carr, Jason Day, Salvador del Solar",
       "Language": "Spanish",
       "Country": "Peru, Argentina"
+    },
+    {
+      "title": "Enola Holmes 3",
+      "netflix_url": "https://www.netflix.com/title/81605886",
+      "year": "2026",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt32278481",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzVhNmQ0MzItNjg3Mi00MzM1LWI5MDUtOGZlMTFjNTJjMTM2XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Detective Enola Holmes heads to Malta, where her aspirations merge in her most complex and dangerous case yet.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Philip Barantini",
+      "Writer": "Jack Thorne, Nancy Springer",
+      "Actors": "Millie Bobby Brown, Henry Cavill, Helena Bonham Carter",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Most Beautiful Girl in the World",
@@ -2249,6 +2375,13 @@
       "Country": "United States"
     },
     {
+      "title": "Milky☆Subway: The Galactic Limited Express – the Movie",
+      "netflix_url": "https://www.netflix.com/title/82703490",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "There There",
       "netflix_url": "https://www.netflix.com/title/82708406",
       "year": "2022",
@@ -2263,6 +2396,23 @@
       "Writer": "Andrew Bujalski",
       "Actors": "Jon Natchez, Lili Taylor, Lennie James",
       "Language": "N/A",
+      "Country": "United States"
+    },
+    {
+      "title": "André Is an Idiot",
+      "netflix_url": "https://www.netflix.com/title/82771834",
+      "year": "2025",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt34963034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDA5OTI0NzctNTA0Ni00ZDFjLTk2ZTctMjY5ZmM2NWNkNmExXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "Plot": "Andre, an irreverent man, embarks on an unexpected journey after receiving a terminal diagnosis, determined to maintain his humor while learning to die happily.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Documentary, Biography, Comedy",
+      "Director": "Tony Benna",
+      "Writer": "N/A",
+      "Actors": "Lee Einhorn, André Ricciardi",
+      "Language": "English",
       "Country": "United States"
     }
   ]

@@ -71,6 +71,23 @@
       "Country": "United States"
     },
     {
+      "title": "Pitch Black",
+      "netflix_url": "https://www.netflix.com/title/60000414",
+      "year": "2000",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0134847",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGJlYjllOTUtZGRiNS00YmI4LTkxYmItYjBmYTdmZWZlMTMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A transport ship crashes and leaves its crew stranded on a desert planet inhabited by bloodthirsty creatures that come out during an eclipse.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Horror, Sci-Fi, Thriller",
+      "Director": "David Twohy",
+      "Writer": "Jim Wheat, Ken Wheat, David Twohy",
+      "Actors": "Radha Mitchell, Cole Hauser, Vin Diesel",
+      "Language": "English, Arabic",
+      "Country": "United States"
+    },
+    {
       "title": "Battlefield Earth",
       "netflix_url": "https://www.netflix.com/title/60000872",
       "year": "2000",
@@ -171,6 +188,23 @@
       "Actors": "Saoirse Ronan, Max Irons, Jake Abel",
       "Language": "English",
       "Country": "United States, Switzerland"
+    },
+    {
+      "title": "Riddick",
+      "netflix_url": "https://www.netflix.com/title/70272268",
+      "year": "2013",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1411250",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzYwMzQ4MV5BMl5BanBnXkFtZTcwMjE5MTI1OQ@@._V1_SX300.jpg",
+      "Plot": "Left for dead on a sun-scorched planet, Riddick finds himself up against an alien race of predators. Activating an emergency beacon alerts two ships: one carrying a new breed of mercenary, the other captained by a man from Riddick...",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "David Twohy",
+      "Writer": "David Twohy, Jim Wheat, Ken Wheat",
+      "Actors": "Vin Diesel, Karl Urban, Katee Sackhoff",
+      "Language": "English",
+      "Country": "Canada, United States"
     },
     {
       "title": "Under the Skin",
@@ -722,6 +756,23 @@
       "Actors": "Emma Stone, Jesse Plemons, Aidan Delbis",
       "Language": "English",
       "Country": "Ireland, United Kingdom, Canada, South Korea, United States"
+    },
+    {
+      "title": "Thunder 3",
+      "netflix_url": "https://www.netflix.com/title/82736186",
+      "year": "2026",
+      "imdb_rating": "4.2",
+      "imdb_id": "tt0364064",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxNzc1ODI4Nl5BMl5BanBnXkFtZTcwNzcxMTgzMQ@@._V1_SX300.jpg",
+      "Plot": "Spencer and Bru break into his HQ and capture notorious drug lord Manuel Santiago of a DEA Agent. Santiago's angered assistant, Mason Lee, takes the school hostage where Kelly is teaching ...",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Action, Adventure, Family",
+      "Director": "Douglas Schwartz",
+      "Writer": "Deborah Schwartz",
+      "Actors": "Hulk Hogan, Chris Lemmon, Carol Alt, Ashley Gorrell",
+      "Language": "English",
+      "Country": "United States"
     }
   ]
 }

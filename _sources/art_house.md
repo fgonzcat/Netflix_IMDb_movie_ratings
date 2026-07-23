@@ -123,6 +123,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/29764" target="_bla
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Dance of the Forty One*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80235267" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZDEwMDEyZWUtZDZmYi00YTVjLTg0MDMtNjEzNzU2MWFmYzgxXkEyXkFqcGdeQXVyODkwNTAwNzE@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*Joy*</strong></summary>  <div class="movie-plot">A young girl named Joy is looking for love and connection. When she loses control during a date, the innocent looking Joy seems to be more than meets the eye...</div> </details> | <a href="https://www.imdb.com/title/tt10415212/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81046255" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Jaoon Kahan Bata Ae Dil*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81074367" target="_blank">Netflix_link</a> |
+| N/A |  | 2019 | <details> <summary><strong style="color:#1f6feb;">*Raise Hell: The Life and Times of Molly Ivins*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81181196" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNDM0MzUxZDAtMWRiNS00NjQ2LTljYWMtMTE1N2JlYmQyOWNlXkEyXkFqcGdeQXVyNzc5NDg5Mjc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2021 | <details> <summary><strong style="color:#1f6feb;">*Illusion*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt21907120/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81281029" target="_blank">Netflix_link</a> |
 | N/A |  | 2020 | <details> <summary><strong style="color:#1f6feb;">*The Spokeswoman*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81442108" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BYTAxNGU1MGMtZTkwZC00MTg0LWJiNTgtYjYxNzY3MTA1ZGVhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Noise*</strong></summary>  <div class="movie-plot">A mother desperately searching for daughter who's been missing for two years.</div> </details> | <a href="https://www.imdb.com/title/tt11306932/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81498010" target="_blank">Netflix_link</a> |
@@ -174,6 +175,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/29764" target="_bla
 
  
 ---
-*Page last updated on: 2026-06-30*
+*Page last updated on: 2026-07-22*
 
  

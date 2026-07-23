@@ -81,7 +81,9 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/108229" target="_bl
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*500 Days of Escobar*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81771021" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Maximum Penalty 2*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81778837" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNTQyZjBkMGQtNTQ2NS00MTQyLWFiMzktOTc2ZjUwNjA2ZTlmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Karol G: Tomorrow was Beautiful*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt36617085/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81909018" target="_blank">Netflix_link</a> |
-| N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Trip 8*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81971901" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Susana and Elvira: No Plan B*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81941028" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/9516b142-0c88-4475-a39b-97c06546cdc5._V1_UX1000_CR0,0,1000,563_.png" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Trip 8*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt40021723/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81971901" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Salcedo, Leather, and Boogaloo*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82641105" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -120,6 +122,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/108229" target="_bl
 
  
 ---
-*Page last updated on: 2026-06-30*
+*Page last updated on: 2026-07-22*
 
  

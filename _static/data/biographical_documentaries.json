@@ -68,6 +68,23 @@
       "imdb_id": null
     },
     {
+      "title": "The Queen of Versailles",
+      "netflix_url": "https://www.netflix.com/title/70229267",
+      "year": "2012",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt2125666",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MzY0NDc3NV5BMl5BanBnXkFtZTcwMTAyODY4Nw@@._V1_SX300.jpg",
+      "Plot": "A documentary that follows a billionaire couple as they begin construction on a mansion inspired by Versailles. During the next two years, their empire, fueled by the real estate bubble and cheap money, falters due to the economic...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary",
+      "Director": "Lauren Greenfield",
+      "Writer": "N/A",
+      "Actors": "Jaqueline Siegel, David Siegel, Lorraine Barrett",
+      "Language": "English, French",
+      "Country": "United States, Netherlands, United Kingdom, Denmark"
+    },
+    {
       "title": "Venus and Serena",
       "netflix_url": "https://www.netflix.com/title/70259674",
       "year": "2012",
@@ -1686,6 +1703,13 @@
       "Actors": "George W. Bush, George Clooney, Barack Obama",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Raise Hell: The Life and Times of Molly Ivins",
+      "netflix_url": "https://www.netflix.com/title/81181196",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "My Heroes Were Cowboys",

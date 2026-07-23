@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/5505",
   "movies": [
     {
+      "title": "The Hand that Rocks the Cradle",
+      "netflix_url": "https://www.netflix.com/title/569891",
+      "year": "1992",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0104389",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwOWI1MzktNGZhMy00ZTU4LThiODAtNDk1NWI2MjFjMDQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After her sex offender husband gets caught in the act and kills himself, an embittered pregnant widow loses her child, and embarks on a mission of vengeance against one of her husband's victims and the woman's family.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Curtis Hanson",
+      "Writer": "Amanda Silver",
+      "Actors": "Annabella Sciorra, Rebecca De Mornay, Matt McCoy",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Talented Mr. Ripley",
       "netflix_url": "https://www.netflix.com/title/60000209",
       "year": "1999",
@@ -37,6 +54,23 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "Memento",
+      "netflix_url": "https://www.netflix.com/title/60020435",
+      "year": "2000",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt0209144",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A former insurance investigator who now suffers from anterograde amnesia uses notes and tattoos to hunt down his wife's murderer.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Christopher Nolan",
+      "Writer": "Christopher Nolan, Jonathan Nolan",
+      "Actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Don't Say a Word",
       "netflix_url": "https://www.netflix.com/title/60021625",
       "year": "2001",
@@ -67,6 +101,40 @@
       "Director": "Harold Becker",
       "Writer": "Lewis Colick, William S. Comanor, Gary Drucker",
       "Actors": "John Travolta, Nick Loren, Matt O'Leary",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Mothman Prophecies",
+      "netflix_url": "https://www.netflix.com/title/60022262",
+      "year": "2002",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0265349",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2E2NGNhMzItZmQ5MC00NGM0LWE4MzYtODNjYmZkMDkyNDE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A reporter investigates strange phenomena in a small town.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Mark Pellington",
+      "Writer": "Richard Hatem, John A. Keel",
+      "Actors": "Richard Gere, Laura Linney, David Eigenberg",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Good Son",
+      "netflix_url": "https://www.netflix.com/title/60036152",
+      "year": "1993",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0107034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzFkMzg1NmEtYTE5MC00MDAyLWJhODgtZGZmMzFkZWRjOTZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young boy stays with his aunt and uncle and becomes friends with his cousin, a boy of the same age who shows increasing signs of violent and psychopathic behavior.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Joseph Ruben",
+      "Writer": "Ian McEwan",
+      "Actors": "Macaulay Culkin, Elijah Wood, Wendy Crewson",
       "Language": "English",
       "Country": "United States"
     },
@@ -241,6 +309,23 @@
       "Country": "United Kingdom, United States, France, Sweden"
     },
     {
+      "title": "Gone Girl",
+      "netflix_url": "https://www.netflix.com/title/70305893",
+      "year": "2014",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt2267998",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "Plot": "The husband of a missing woman becomes the main suspect in her disappearance.",
+      "Type": "movie",
+      "RunTime": "149 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "David Fincher",
+      "Writer": "Gillian Flynn",
+      "Actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Creep",
       "netflix_url": "https://www.netflix.com/title/70306646",
       "year": "2014",
@@ -375,6 +460,23 @@
       "Actors": "Vinessa Shaw, Kevin Rahm, India Eisley",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Girl on the Train",
+      "netflix_url": "https://www.netflix.com/title/80105068",
+      "year": "2016",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt3631112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg4MGViYTMtYTFkMC00YzVlLWExZDItOTM4NTUwMjc2NTE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Tate Taylor",
+      "Writer": "Erin Cressida Wilson, Paula Hawkins",
+      "Actors": "Emily Blunt, Haley Bennett, Rebecca Ferguson",
+      "Language": "English, Spanish",
+      "Country": "United States, India"
     },
     {
       "title": "Gerald's Game",
@@ -1697,6 +1799,30 @@
       "Country": "United Kingdom, Germany"
     },
     {
+      "title": "The Marked Woman",
+      "netflix_url": "https://www.netflix.com/title/81698654",
+      "year": "2026",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt32129938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmVkYmE0YTktNGQxZS00MjQ1LTgzZjUtNmQyNWU3ZDY1MmFlXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Unconscious woman found in Barcelona docks container. With no memory, an attempt on her life at hospital. Inspectors Ripoll and Zapori investigate the mysterious case.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Gabe Ibáñez",
+      "Writer": "Rosa Montero, Lara Sendim, Olivier Truc",
+      "Actors": "Candela Peña, Ana Rujas, Kira Miró",
+      "Language": "Spanish",
+      "Country": "Spain, Argentina"
+    },
+    {
+      "title": "Elize: Shadows of a Woman",
+      "netflix_url": "https://www.netflix.com/title/81701598",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Lumberjack the Monster",
       "netflix_url": "https://www.netflix.com/title/81708886",
       "year": "2023",
@@ -1898,6 +2024,23 @@
       "Country": "India"
     },
     {
+      "title": "I.S.S.",
+      "netflix_url": "https://www.netflix.com/title/81784471",
+      "year": "2023",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt13655120",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzJkMDhkZTQtMzhkYi00YmI4LWE5ODctYjczZDA5NDUyZWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tensions flare in the near future aboard the International Space Station as a conflict breaks out on Earth. Reeling, the U.S. and Russian astronauts receive orders from the ground: take control of the station by any means necessary.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Sci-Fi, Thriller",
+      "Director": "Gabriela Cowperthwaite",
+      "Writer": "Nick Shafir",
+      "Actors": "Ariana DeBose, Chris Messina, John Gallagher Jr.",
+      "Language": "English, Russian",
+      "Country": "United States"
+    },
+    {
       "title": "A Widow's Game",
       "netflix_url": "https://www.netflix.com/title/81786479",
       "year": "2025",
@@ -2017,6 +2160,23 @@
       "Country": "United States"
     },
     {
+      "title": "Ikka",
+      "netflix_url": "https://www.netflix.com/title/82134666",
+      "year": "2026",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt39632269",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWE0ZTYxYTEtZDY5Ni00NDhkLWEyNjItMDc1NzE1MGJjMzhlXkEyXkFqcGc@._V1_QL75_UY562_CR37,0,380,562_.jpg",
+      "Plot": "A respected attorney must defend a murder suspect he previously brought down. Forced into the case, he bends every rule to secure freedom for his former enemy or risk losing all he cherishes.",
+      "Type": "movie",
+      "RunTime": "140 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Siddharth P Malhotra",
+      "Writer": "Althea Kaushal, Mayank Tewari",
+      "Actors": "Sunny Deol, Akshaye Khanna, Dia Mirza",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Some Other Woman",
       "netflix_url": "https://www.netflix.com/title/82134929",
       "year": "2023",
@@ -2066,6 +2226,23 @@
       "Actors": "Janki Bodiwala, Monal Gajjar, Hitu Kanodia",
       "Language": "Gujarati",
       "Country": "India"
+    },
+    {
+      "title": "Pacific Heights",
+      "netflix_url": "https://www.netflix.com/title/838117",
+      "year": "1990",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0100318",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTRmYjZiNmItY2VmNC00N2FkLTgwM2YtM2I1ZDJhNWIyZDI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "San Francisco yuppies restore a costly Victorian home, then rent a studio to a landlord's nightmare.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "John Schlesinger",
+      "Writer": "Daniel Pyne",
+      "Actors": "Melanie Griffith, Matthew Modine, Michael Keaton",
+      "Language": "English, Japanese",
+      "Country": "United States"
     },
     {
       "title": "Single White Female",

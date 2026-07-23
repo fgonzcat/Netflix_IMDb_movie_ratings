@@ -37,6 +37,23 @@
       "Country": "United States"
     },
     {
+      "title": "Fallen",
+      "netflix_url": "https://www.netflix.com/title/1192866",
+      "year": "1998",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0119099",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ5Zjg2ZjMtYThjMC00YmU5LWIxNGYtM2Y3MTg5OGRiNDkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution, the killings start again, and they are very similar to Reese's style.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Gregory Hoblit",
+      "Writer": "Nicholas Kazan",
+      "Actors": "Denzel Washington, John Goodman, Donald Sutherland",
+      "Language": "English, Syriac, Assyrian Neo-Aramaic, Dutch",
+      "Country": "United States"
+    },
+    {
       "title": "Ace Ventura: Pet Detective",
       "netflix_url": "https://www.netflix.com/title/215309",
       "year": "1994",
@@ -105,6 +122,23 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "Memento",
+      "netflix_url": "https://www.netflix.com/title/60020435",
+      "year": "2000",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt0209144",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A former insurance investigator who now suffers from anterograde amnesia uses notes and tattoos to hunt down his wife's murderer.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Christopher Nolan",
+      "Writer": "Christopher Nolan, Jonathan Nolan",
+      "Actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Glass House",
       "netflix_url": "https://www.netflix.com/title/60020817",
       "year": "2001",
@@ -120,6 +154,57 @@
       "Actors": "Diane Lane, Leelee Sobieski, Stellan Skarsgård",
       "Language": "English, Spanish, Greek",
       "Country": "United States"
+    },
+    {
+      "title": "Scooby-Doo",
+      "netflix_url": "https://www.netflix.com/title/60020823",
+      "year": "2002",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt0267913",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MzMzMTY0OF5BMl5BanBnXkFtZTYwNzM3MTg2._V1_SX300.jpg",
+      "Plot": "After an acrimonious break up, the Mystery Inc. gang are individually brought to an island resort to investigate strange goings on.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Raja Gosnell",
+      "Writer": "James Gunn, Craig Titley, William Hanna",
+      "Actors": "Matthew Lillard, Freddie Prinze Jr., Sarah Michelle Gellar",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Mothman Prophecies",
+      "netflix_url": "https://www.netflix.com/title/60022262",
+      "year": "2002",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0265349",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2E2NGNhMzItZmQ5MC00NGM0LWE4MzYtODNjYmZkMDkyNDE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A reporter investigates strange phenomena in a small town.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Mark Pellington",
+      "Writer": "Richard Hatem, John A. Keel",
+      "Actors": "Richard Gere, Laura Linney, David Eigenberg",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Scooby-Doo 2: Monsters Unleashed",
+      "netflix_url": "https://www.netflix.com/title/60033341",
+      "year": "2004",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt0331632",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzNzk3NTE1Ml5BMl5BanBnXkFtZTYwODM1MTU3._V1_SX300.jpg",
+      "Plot": "The Mystery Inc. gang must save Coolsville from an attack of their past monsters brought to life by an evil masked figure trying to take down the gang.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Raja Gosnell",
+      "Writer": "William Hanna, Joseph Barbera, James Gunn",
+      "Actors": "Freddie Prinze Jr., Sarah Michelle Gellar, Matthew Lillard",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "The Illusionist",
@@ -309,6 +394,23 @@
       "Country": "United Kingdom, France, Canada, United States"
     },
     {
+      "title": "Flowers in the Attic",
+      "netflix_url": "https://www.netflix.com/title/70298117",
+      "year": "2014",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt3074694",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODYxMzBmMzMtYThmOC00ODAyLThiOGItOTlhYTZlNDRlZTA5XkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_SX300.jpg",
+      "Plot": "After the sudden death of their father, four children face cruel treatment from their ruthless grandmother.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Drama, Horror, Mystery, Thriller",
+      "Director": "Deborah Chow",
+      "Writer": "Virginia C. Andrews (based upon the novel by), Kayla Alpert (teleplay by)",
+      "Actors": "Heather Graham, Ellen Burstyn, Kiernan Shipka, Mason Dye",
+      "Language": "English",
+      "Country": "Canada, United States"
+    },
+    {
       "title": "Veronica Mars",
       "netflix_url": "https://www.netflix.com/title/70298927",
       "year": "2014",
@@ -341,6 +443,23 @@
       "Actors": "Nicole Kidman, Colin Firth, Mark Strong",
       "Language": "English",
       "Country": "United Kingdom, United States, France, Sweden"
+    },
+    {
+      "title": "Gone Girl",
+      "netflix_url": "https://www.netflix.com/title/70305893",
+      "year": "2014",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt2267998",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "Plot": "The husband of a missing woman becomes the main suspect in her disappearance.",
+      "Type": "movie",
+      "RunTime": "149 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "David Fincher",
+      "Writer": "Gillian Flynn",
+      "Actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Captive",
@@ -460,6 +579,23 @@
       "Actors": "Benjamin Walker, Rainn Wilson, Stephanie Sigman",
       "Language": "English",
       "Country": "Canada, United States"
+    },
+    {
+      "title": "The Girl on the Train",
+      "netflix_url": "https://www.netflix.com/title/80105068",
+      "year": "2016",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt3631112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg4MGViYTMtYTFkMC00YzVlLWExZDItOTM4NTUwMjc2NTE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Tate Taylor",
+      "Writer": "Erin Cressida Wilson, Paula Hawkins",
+      "Actors": "Emily Blunt, Haley Bennett, Rebecca Ferguson",
+      "Language": "English, Spanish",
+      "Country": "United States, India"
     },
     {
       "title": "Handsome: A Netflix Mystery Movie",
@@ -1021,6 +1157,23 @@
       "Actors": "Peter Yu, Xiaoyi Liu, Yue Guo",
       "Language": "Mandarin, English, Bengali",
       "Country": "Singapore, France, Netherlands"
+    },
+    {
+      "title": "Searching",
+      "netflix_url": "https://www.netflix.com/title/81053209",
+      "year": "2018",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt7668870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA2ZTk3NDEtZDQ2Mi00MzhjLTgwZWYtOTBkMjUyMGYwMjI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After his teenage daughter goes missing, a desperate father tries to find clues on her laptop.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Aneesh Chaganty",
+      "Writer": "Aneesh Chaganty, Sev Ohanian",
+      "Actors": "John Cho, Debra Messing, Joseph Lee",
+      "Language": "English",
+      "Country": "United States, Russia"
     },
     {
       "title": "We Have Always Lived in the Castle",
@@ -1962,6 +2115,23 @@
       "Country": "India"
     },
     {
+      "title": "Enola Holmes 3",
+      "netflix_url": "https://www.netflix.com/title/81605886",
+      "year": "2026",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt32278481",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzVhNmQ0MzItNjg3Mi00MzM1LWI5MDUtOGZlMTFjNTJjMTM2XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Detective Enola Holmes heads to Malta, where her aspirations merge in her most complex and dangerous case yet.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Philip Barantini",
+      "Writer": "Jack Thorne, Nancy Springer",
+      "Actors": "Millie Bobby Brown, Henry Cavill, Helena Bonham Carter",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Murder at Yellowstone City",
       "netflix_url": "https://www.netflix.com/title/81609709",
       "year": "2022",
@@ -2207,6 +2377,23 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "The Marked Woman",
+      "netflix_url": "https://www.netflix.com/title/81698654",
+      "year": "2026",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt32129938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmVkYmE0YTktNGQxZS00MjQ1LTgzZjUtNmQyNWU3ZDY1MmFlXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Unconscious woman found in Barcelona docks container. With no memory, an attempt on her life at hospital. Inspectors Ripoll and Zapori investigate the mysterious case.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Gabe Ibáñez",
+      "Writer": "Rosa Montero, Lara Sendim, Olivier Truc",
+      "Actors": "Candela Peña, Ana Rujas, Kira Miró",
+      "Language": "Spanish",
+      "Country": "Spain, Argentina"
+    },
+    {
       "title": "Anatomy of a Fall",
       "netflix_url": "https://www.netflix.com/title/81713297",
       "year": "2023",
@@ -2432,6 +2619,13 @@
       "Country": "India"
     },
     {
+      "title": "Colors Of Evil: Black",
+      "netflix_url": "https://www.netflix.com/title/81921253",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Raat Akeli Hai - The Bansal Murders",
       "netflix_url": "https://www.netflix.com/title/81922895",
       "year": "2025",
@@ -2507,6 +2701,13 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Miguel Ángel Blanco: The 48 Hours that Changed Spain",
+      "netflix_url": "https://www.netflix.com/title/82090337",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Held Hostage in My House",
       "netflix_url": "https://www.netflix.com/title/82095240",
       "year": "2024",
@@ -2558,6 +2759,23 @@
       "Country": "India"
     },
     {
+      "title": "The Book Club Murders",
+      "netflix_url": "https://www.netflix.com/title/82147482",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28525506",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyMTZhNGUtZTkyNi00YmRmLWFlOTctODNkMTQwYjAwNmYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When her book club is targeted by anonymous poison pen letters, revealing the darkest secrets of its members, Natalie Johnston thought she was prepared for the worst... until a letter arrives falsely accusing her 15-year-old daugh...",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Thriller",
+      "Director": "Logan Giese",
+      "Writer": "Logan Giese",
+      "Actors": "Brittany Underwood, Eva Igo, Aaron Goehle",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Taken in Plain Sight",
       "netflix_url": "https://www.netflix.com/title/82147483",
       "year": "2024",
@@ -2590,6 +2808,57 @@
       "Actors": "Margaret Qualley, Aubrey Plaza, Chris Evans",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "If I Can’t Have You",
+      "netflix_url": "https://www.netflix.com/title/82158681",
+      "year": "2023",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt27165333",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY3YzFlMTMtNjdjZi00MzZjLWE1MDAtNWE0ZWY4OWQ1ZTRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A radio host is targeted by an unknown stalker who launches a campaign of terror and intrigue against the host and her friends.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Drama, Mystery",
+      "Director": "David DeCoteau",
+      "Writer": "Adam Rockoff",
+      "Actors": "Bailey Kai, Houston Rhines, Gina Hiraizumi",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Body in the Locker",
+      "netflix_url": "https://www.netflix.com/title/82820183",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36364892",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWJhM2M3OWEtYmZiYy00ZWYxLTg4MTYtMjBmOGQ2ODhmZDYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Amy, the CEO of a major charity, loses her father, she's shocked to discover he owned a mysterious storage locker with a deadly secret inside - the body of a woman. Was her father a murderer? Who was this woman?",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Sean Cisterna",
+      "Writer": "N/A",
+      "Actors": "Sasha Barry, Kirsten Comerford, Jayne Heitmeyer",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
+      "title": "The Paradise Murders",
+      "netflix_url": "https://www.netflix.com/title/82949054",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35072306",
+      "Poster": "N/A",
+      "Plot": "During their stay at a five-star resort, Emma and Jake befriend fellow guests Sarah and Tom, who seem like the perfect couple. But when Sarah is found dead after revealing doubts about Tom, Emma uncovers secrets about the hotel an...",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Sea of Love",

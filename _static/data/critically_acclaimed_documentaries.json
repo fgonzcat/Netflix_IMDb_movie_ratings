@@ -44,6 +44,23 @@
       "imdb_id": null
     },
     {
+      "title": "The Queen of Versailles",
+      "netflix_url": "https://www.netflix.com/title/70229267",
+      "year": "2012",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt2125666",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MzY0NDc3NV5BMl5BanBnXkFtZTcwMTAyODY4Nw@@._V1_SX300.jpg",
+      "Plot": "A documentary that follows a billionaire couple as they begin construction on a mansion inspired by Versailles. During the next two years, their empire, fueled by the real estate bubble and cheap money, falters due to the economic...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary",
+      "Director": "Lauren Greenfield",
+      "Writer": "N/A",
+      "Actors": "Jaqueline Siegel, David Siegel, Lorraine Barrett",
+      "Language": "English, French",
+      "Country": "United States, Netherlands, United Kingdom, Denmark"
+    },
+    {
       "title": "The Short Game",
       "netflix_url": "https://www.netflix.com/title/70290567",
       "year": "2013",
@@ -1973,6 +1990,13 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Raise Hell: The Life and Times of Molly Ivins",
+      "netflix_url": "https://www.netflix.com/title/81181196",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Mucho Mucho Amor: The Legend of Walter Mercado",
       "netflix_url": "https://www.netflix.com/title/81200204",
       "year": "2020",
@@ -3122,6 +3146,47 @@
       "Director": "Molly O'Brien",
       "Writer": "N/A",
       "Actors": "Orin O'Brien, Manny Alvarez, Julian Barrera",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Rafa",
+      "netflix_url": "https://www.netflix.com/title/81785900",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "This Is a Gardening Show",
+      "netflix_url": "https://www.netflix.com/title/81902230",
+      "year": "2026",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt40826306",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDE1YTJkYTUtOGQwMC00OGQyLTlkZDYtOTA0MjA1YjJiNmVlXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Follows Zach Galifianakis as he approaches gardening with curiosity and self-effacing humor, blending comedy with appreciation for the planet while providing accessible tools and tips.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Comedy, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Zach Galifianakis",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Sean Combs: The Reckoning",
+      "netflix_url": "https://www.netflix.com/title/81906780",
+      "year": "2025",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt33473000",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWUzNGQ0MDItNmJkMy00NWRlLWFmYzktZTM5YTZkY2JlMGE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A revealing look at Sean Combs' journey from music mogul to controversial figure, featuring footage and insider accounts that expose both his groundbreaking success with Bad Boy Entertainment and the troubling shadows behind his e...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Tupac Shakur, The Notorious B.I.G., Janice Combs",
       "Language": "English",
       "Country": "United States"
     },

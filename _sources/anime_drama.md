@@ -84,6 +84,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/452" target="_blank
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Violet Evergarden: Special*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt9359564/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81010662" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Case Closed: Zero's Tea Time*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81313289" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*T・P BON*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81497635" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BMDM5N2NlOTItOTUyMC00MTVhLWE4NzMtNjYzNDBjMTI1NjhkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Sparks of Tomorrow*</strong></summary>  <div class="movie-plot">A boy, hardened by his brother's death, loses faith in their "Age of Electricity" dream. A devout girl hides grief for her mother. Together, they explore the 20th Century Electrical Catalog, confronting their pasts to forge their ...</div> </details> | <a href="https://www.imdb.com/title/tt38939446/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81698957" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*The Ramparts of Ice*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82031882" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BODMyYzljNmUtZmNlYy00YTAyLTlhNGQtMDBhYzgzYzA1OGMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*SHIBOYUGI: Playing Death Games to Put Food on the Table*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt41189965/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82047155" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BM2UzZWRhZmYtYzAwYS00Zjg5LTkyZjItNTk3YjhjMDYxOGQwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Akane-Banashi*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt38797595/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82701514" target="_blank">Netflix_link</a> |
@@ -125,6 +126,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/452" target="_blank
 
  
 ---
-*Page last updated on: 2026-06-30*
+*Page last updated on: 2026-07-22*
 
  

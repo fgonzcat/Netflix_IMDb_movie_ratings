@@ -134,6 +134,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/798" target="_blank
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMWZjNmI2MjEtM2UxYi00MDQ3LWJkMDktNGVjMWUwMTlkYWE2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*If I Were Luísa Sonza*</strong></summary>  <div class="movie-plot">Brazil's most polarizing pop singer opens up in this docuseries about her love life, career, controversies and the creation of a new album.</div> </details> | <a href="https://www.imdb.com/title/tt28995977/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81645036" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Love is Blind Brazil: After the Altar*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81681988" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNWE5NGJjMmYtNWRkMy00NzJkLTkwMGEtZmFlYTM4NjE5ZmRmXkEyXkFqcGdeQXVyMTY3MzMzMzkz._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Deive Leonardo: The Answer*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt30297286/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81692187" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Elize: Shadows of a Woman*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81701598" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://occ-0-1339-1340.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWgr3nHhHjUB7HSdtp-tCiRClgaLfYVRV0cTnkHNicG8xZfxGyu5-wGyvE-83ki6s8rYcL7nLUzQ0oFtTHEgsWaF4mCyeerrPg0Z.jpg?r=ca3" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Almost Family*</strong></summary>  <div class="movie-plot">A young woman who yearns for intimacy and family lives platonically with her gay ex-boyfriend while caring for the children of divorcing parents.</div> </details> | <a href="https://www.imdb.com/title/tt3163392/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81711168" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Conversations with Ruth de Souza*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81730289" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Son of a Thousand Men*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81739139" target="_blank">Netflix_link</a> |
@@ -182,6 +183,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/798" target="_blank
 
  
 ---
-*Page last updated on: 2026-06-30*
+*Page last updated on: 2026-07-22*
 
  

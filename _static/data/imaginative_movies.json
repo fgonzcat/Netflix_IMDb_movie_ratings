@@ -105,6 +105,23 @@
       "Country": "United States, Canada, France"
     },
     {
+      "title": "Willy Wonka & the Chocolate Factory",
+      "netflix_url": "https://www.netflix.com/title/60020949",
+      "year": "1971",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0067992",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzllNzlkNzYtZTEzZi00ODMwLWFlYTctZDE5Mzk0NTM1NmViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Mel Stuart",
+      "Writer": "Roald Dahl, Robert Kaufman, David Seltzer",
+      "Actors": "Gene Wilder, Jack Albertson, Peter Ostrum",
+      "Language": "English, French, German, Italian",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Moulin Rouge!",
       "netflix_url": "https://www.netflix.com/title/60021659",
       "year": "2001",
@@ -197,6 +214,23 @@
       "Country": "United States, Ireland"
     },
     {
+      "title": "Charlie and the Chocolate Factory",
+      "netflix_url": "https://www.netflix.com/title/70021648",
+      "year": "2005",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0367594",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_SX300.jpg",
+      "Plot": "Charlie, a young boy from an impoverished family, and four other kids win a tour of an amazing chocolate factory run by an imaginative chocolatier, Willy Wonka, and his staff of Oompa-Loompas.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Tim Burton",
+      "Writer": "Roald Dahl, John August",
+      "Actors": "Johnny Depp, Freddie Highmore, David Kelly",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "The Island",
       "netflix_url": "https://www.netflix.com/title/70021649",
       "year": "2005",
@@ -244,6 +278,23 @@
       "Director": "Danny DeVito",
       "Writer": "Roald Dahl, Nicholas Kazan, Robin Swicord",
       "Actors": "Danny DeVito, Rhea Perlman, Mara Wilson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Zathura: A Space Adventure",
+      "netflix_url": "https://www.netflix.com/title/70039180",
+      "year": "2005",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt0406375",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDMzZDZhMTQtYzJkNi00OTI2LThjNDUtN2I2N2JjZmYwMWM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two young brothers are drawn into an intergalactic adventure when their house is hurled through the depths of space by the magical board game they are playing.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Jon Favreau",
+      "Writer": "Chris Van Allsburg, David Koepp, John Kamps",
+      "Actors": "Josh Hutcherson, Jonah Bobo, Dax Shepard",
       "Language": "English",
       "Country": "United States"
     },
@@ -425,6 +476,74 @@
       "Country": "South Africa, United States, New Zealand, Canada"
     },
     {
+      "title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "netflix_url": "https://www.netflix.com/title/70120525",
+      "year": "2010",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0814255",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDE4M2ZiYzEtODJiZC00NmI1LWFlNTgtOGJlNTY3NmExYWNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Chris Columbus",
+      "Writer": "Craig Titley, Rick Riordan",
+      "Actors": "Logan Lerman, Kevin McKidd, Steve Coogan",
+      "Language": "English, Greek, Ancient (to 1453)",
+      "Country": "United Kingdom, Canada, United States"
+    },
+    {
+      "title": "Rebirth of Mothra",
+      "netflix_url": "https://www.netflix.com/title/70189333",
+      "year": "1996",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0117089",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTRhODM5NWQtMWQyNS00MDI3LWE1ZDgtM2YzYjlkNmFkZTEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A new Mothra takes to the air and must battle Death Ghidora to save humanity.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Action, Adventure, Family",
+      "Director": "Okihiro Yoneda",
+      "Writer": "Masumi Suetani, Tomoyuki Tanaka, Kazuki Ômori",
+      "Actors": "Megumi Kobayashi, Sayaka Yamaguchi, Aki Hano",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
+      "title": "Rebirth of Mothra III",
+      "netflix_url": "https://www.netflix.com/title/70189334",
+      "year": "1998",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt0189764",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTFjN2UxZWMtNWM0NS00NjkwLWJlMGEtNmNhMWJhOWIwMmZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To save the world, Mothra goes back in time in an attempt to defeat a younger King Ghidorah.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Okihiro Yoneda",
+      "Writer": "Masumi Suetani",
+      "Actors": "Megumi Kobayashi, Misato Tate, Aki Hano",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
+      "title": "Rebirth of Mothra II",
+      "netflix_url": "https://www.netflix.com/title/70189335",
+      "year": "2003",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt0133104",
+      "Poster": "https://occ-0-7897-999.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfiAxpDLjkAZGQQ4nAvITuRkVFvyH8v6QF8pueJ1YAkpvIG4ooeAZlSteHOWHczx8Pus2PwM-80FsOQTrzwwC3enjUtF5BjBCMU9.jpg?r=c55",
+      "Plot": "Mothra's twin nymphs and children from the city find a lost city, as well as a giant monster that is attracted to environmental calamities.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Action, Fantasy, Sci-Fi",
+      "Director": "Kunio Miyoshi",
+      "Writer": "Masumi Suetani, Tomoyuki Tanaka",
+      "Actors": "Megumi Kobayashi, Sayaka Yamaguchi, Aki Hano",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "The Amazing Spider-Man",
       "netflix_url": "https://www.netflix.com/title/70208599",
       "year": "2012",
@@ -457,6 +576,23 @@
       "Actors": "Jared Gilman, Kara Hayward, Bruce Willis",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Percy Jackson: Sea of Monsters",
+      "netflix_url": "https://www.netflix.com/title/70243343",
+      "year": "2013",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt1854564",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGMyZTI2MjUtODEzMi00M2JlLWEwZGEtYWE5MmY5OWNkYTRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In order to restore their dying safe haven, the son of Poseidon and his friends embark on a quest to the Sea of Monsters, to find the mythical Golden Fleece, all the while trying to stop an ancient evil from rising.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Thor Freudenthal",
+      "Writer": "Marc Guggenheim, Rick Riordan",
+      "Actors": "Logan Lerman, Alexandra Daddario, Brandon T. Jackson",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "R.I.P.D.",
@@ -697,6 +833,23 @@
       "Country": "United States, Australia"
     },
     {
+      "title": "The Last Witch Hunter",
+      "netflix_url": "https://www.netflix.com/title/80052541",
+      "year": "2015",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt1618442",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE@._V1_SX300.jpg",
+      "Plot": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Breck Eisner",
+      "Writer": "Cory Goodman, Matt Sazama, Burk Sharpless",
+      "Actors": "Vin Diesel, Rose Leslie, Elijah Wood",
+      "Language": "English",
+      "Country": "United States, China"
+    },
+    {
       "title": "Boruto: Naruto the Movie",
       "netflix_url": "https://www.netflix.com/title/80075823",
       "year": "2015",
@@ -833,6 +986,23 @@
       "Country": "United States"
     },
     {
+      "title": "Passengers",
+      "netflix_url": "https://www.netflix.com/title/80117456",
+      "year": "2016",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt1355644",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzRjNTFmMzQtM2JhZi00ZTI0LTlhMjMtNzQ4YWRhZGVmZWRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A malfunction in a sleeping pod on a spacecraft traveling to a distant colony planet wakes one passenger 90 years early.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Drama, Romance, Sci-Fi",
+      "Director": "Morten Tyldum",
+      "Writer": "Jon Spaihts",
+      "Actors": "Jennifer Lawrence, Chris Pratt, Michael Sheen",
+      "Language": "English, Spanish, Japanese, French",
+      "Country": "United States, Australia, Hong Kong"
+    },
+    {
       "title": "The Emoji Movie",
       "netflix_url": "https://www.netflix.com/title/80121840",
       "year": "2017",
@@ -882,6 +1052,23 @@
       "Actors": "Yang Yang, Shuang Zheng, Denny Huang",
       "Language": "Chinese",
       "Country": "China"
+    },
+    {
+      "title": "The Boss Baby",
+      "netflix_url": "https://www.netflix.com/title/80146758",
+      "year": "2017",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt3874544",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_SX300.jpg",
+      "Plot": "A suit-wearing, briefcase-carrying baby pairs up with his 7-year old brother to stop the dastardly plot of the CEO of Puppy Co.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Tom McGrath",
+      "Writer": "Michael McCullers, Marla Frazee",
+      "Actors": "Alec Baldwin, Steve Buscemi, Jimmy Kimmel",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Elaan",
@@ -950,6 +1137,40 @@
       "Actors": "Mayumi Tanaka, Kazuya Nakai, Akemi Okamura",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "netflix_url": "https://www.netflix.com/title/80166369",
+      "year": "2017",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt2250912",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "Peter Parker tries to stop Adrian 'The Vulture' Toomes from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Jon Watts",
+      "Writer": "Jonathan Goldstein, John Francis Daley, Jon Watts",
+      "Actors": "Tom Holland, Michael Keaton, Robert Downey Jr.",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
+      "title": "Loving Vincent",
+      "netflix_url": "https://www.netflix.com/title/80171527",
+      "year": "2017",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt3262342",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3NjE2NjgwN15BMl5BanBnXkFtZTgwNDYzMzEwMzI@._V1_SX300.jpg",
+      "Plot": "In a story depicted in oil painted animation, a young man comes to the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Animation, Drama, Mystery",
+      "Director": "DK Welchman, Hugh Welchman",
+      "Writer": "DK Welchman, Hugh Welchman, Jacek Dehnel",
+      "Actors": "Douglas Booth, Jerome Flynn, Robert Gulaczyk",
+      "Language": "English",
+      "Country": "Poland, United Kingdom, United States, Switzerland, Netherlands"
     },
     {
       "title": "My Father's Dragon",
@@ -3678,6 +3899,23 @@
       "Country": "N/A"
     },
     {
+      "title": "My Hero Academia: World Heroes' Mission",
+      "netflix_url": "https://www.netflix.com/title/81642996",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt13544716",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGRmNTM5NWQtOWZlNi00NWFmLWFmODctMTBhZjZkM2U5NDFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a cult of terrorists ruins a city by releasing a toxin that causes people's abilities to spiral out of control, Japan's greatest heroes spread around the world in an attempt to track down the mastermind and put him to justice.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Kenji Nagasaki",
+      "Writer": "Kôhei Horikoshi, Yôsuke Kuroda, Hitoshi Nagai",
+      "Actors": "Daiki Yamashita, Nobuhiko Okamoto, Yûki Kaji",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Lost in Starlight",
       "netflix_url": "https://www.netflix.com/title/81664623",
       "year": "2025",
@@ -4196,6 +4434,13 @@
       "Country": "France"
     },
     {
+      "title": "I Am Frankelda",
+      "netflix_url": "https://www.netflix.com/title/82695127",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Goat",
       "netflix_url": "https://www.netflix.com/title/82710848",
       "year": "2026",
@@ -4213,6 +4458,23 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "Per Aspera Ad Astra",
+      "netflix_url": "https://www.netflix.com/title/82737867",
+      "year": "2026",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt2049619",
+      "Poster": "https://occ-0-7897-999.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVf1XTlSTKXuGgilSqmV2xY_hzi-Q2eci42G5_omgb0CdkzW7NyQGxbZ_cADxe0wL2bxlUZh71VOdr8X_x-Gvr7OB1BZJu4r5lLC.jpg?r=138",
+      "Plot": "A short animated film in which an old man struggles to get off a toilet.",
+      "Type": "movie",
+      "RunTime": "1 min",
+      "Genre": "Animation, Short",
+      "Director": "Nedeljko Dragic",
+      "Writer": "Nedeljko Dragic",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "Yugoslavia"
+    },
+    {
       "title": "How to Train Your Dragon",
       "netflix_url": "https://www.netflix.com/title/83077834",
       "year": "2025",
@@ -4228,6 +4490,23 @@
       "Actors": "Mason Thames, Nico Parker, Gerard Butler",
       "Language": "English",
       "Country": "United States, United Kingdom, Ireland, Iceland, Canada"
+    },
+    {
+      "title": "Wicked: For Good",
+      "netflix_url": "https://www.netflix.com/title/83077841",
+      "year": "2025",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt19847976",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Drama, Family, Fantasy",
+      "Director": "Jon M. Chu",
+      "Writer": "Winnie Holzman, Dana Fox, Stephen Schwartz",
+      "Actors": "Cynthia Erivo, Ariana Grande, Jeff Goldblum",
+      "Language": "English",
+      "Country": "United States, Canada, Australia"
     }
   ]
 }

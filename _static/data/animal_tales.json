@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/5507",
   "movies": [
     {
+      "title": "Stuart Little",
+      "netflix_url": "https://www.netflix.com/title/28631029",
+      "year": "1999",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0164912",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTE3MzQxOWQtMmMxNS00YWVkLThiNDMtOTFiNzVjNmE3MGIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his new brother, the family cat, Snowbell, is even less enthusiastic. Stuart resolves to face these difficulties with as much pluck and courage as he can...",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Rob Minkoff",
+      "Writer": "E.B. White, M. Night Shyamalan, Greg Brooker",
+      "Actors": "Michael J. Fox, Geena Davis, Hugh Laurie",
+      "Language": "English, Dutch",
+      "Country": "Germany, United States"
+    },
+    {
       "title": "The Road to El Dorado",
       "netflix_url": "https://www.netflix.com/title/60000171",
       "year": "2000",
@@ -84,6 +101,23 @@
       "Director": "Tim Johnson, Karey Kirkpatrick",
       "Writer": "Len Blum, Lorne Cameron, David Hoselton",
       "Actors": "Bruce Willis, Garry Shandling, Steve Carell",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Bee Movie",
+      "netflix_url": "https://www.netflix.com/title/70060010",
+      "year": "2007",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0389790",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+      "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Simon J. Smith, Steve Hickner",
+      "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+      "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
       "Language": "English",
       "Country": "United States"
     },
@@ -1857,8 +1891,18 @@
       "title": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",
       "netflix_url": "https://www.netflix.com/title/81748104",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38092819",
+      "Poster": "https://m.media-amazon.com/images/M/75f35a85-7a6e-4f1f-bf8b-e4c8556bc4e4._V1_UX1000_CR0,0,1000,563_.png",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "42 min",
+      "Genre": "Animation, Short",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bommie Han, Sharon Kwon",
+      "Language": "English",
+      "Country": "South Korea"
     },
     {
       "title": "Swapped",
@@ -2076,8 +2120,18 @@
       "title": "My Sesame Street Friends: My Elmo",
       "netflix_url": "https://www.netflix.com/title/82712295",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt41519919",
+      "Poster": "https://m.media-amazon.com/images/M/9516b142-0c88-4475-a39b-97c06546cdc5._V1_UX1000_CR0,0,1000,563_.png",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "United States"
     }
   ]
 }

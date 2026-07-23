@@ -326,6 +326,23 @@
       "Country": "India"
     },
     {
+      "title": "Apollo 13",
+      "netflix_url": "https://www.netflix.com/title/262866",
+      "year": "1995",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0112384",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZmNGY1OTAtNjFkYS00MjcyLWFlZjUtYzEyMDllZGZhMzM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+      "Type": "movie",
+      "RunTime": "140 min",
+      "Genre": "Adventure, Drama, History",
+      "Director": "Ron Howard",
+      "Writer": "Jim Lovell, Jeffrey Kluger, William Broyles Jr.",
+      "Actors": "Tom Hanks, Bill Paxton, Kevin Bacon",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Indian",
       "netflix_url": "https://www.netflix.com/title/27748788",
       "year": "1996",
@@ -513,6 +530,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Guns of Navarone",
+      "netflix_url": "https://www.netflix.com/title/60000061",
+      "year": "1961",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0054953",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFkZWIwNzQtNzdlYS00NTg3LWIzMTctM2U2NWQ0MTVlZmU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A team of Allied saboteurs is assigned an impossible mission: infiltrate an impregnable Nazi-held Greek island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "J. Lee Thompson",
+      "Writer": "Alistair MacLean, Carl Foreman",
+      "Actors": "David Niven, Gregory Peck, Anthony Quinn",
+      "Language": "English, Greek, German, Latin",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Independence Day",
       "netflix_url": "https://www.netflix.com/title/60000363",
       "year": "1996",
@@ -647,6 +681,23 @@
       "Actors": "Kevin Bacon, Elisabeth Shue, Josh Brolin",
       "Language": "English",
       "Country": "Germany, United States"
+    },
+    {
+      "title": "U-571",
+      "netflix_url": "https://www.netflix.com/title/60000911",
+      "year": "2000",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0141926",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU2MjAxZGQtMGY3NC00ODYwLThkZWQtNzhjMDhhOTVlMWYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A German submarine is boarded by disguised American submariners trying to capture their Enigma cipher machine.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Action, War",
+      "Director": "Jonathan Mostow",
+      "Writer": "Jonathan Mostow, Sam Montgomery, David Ayer",
+      "Actors": "Matthew McConaughey, Bill Paxton, Harvey Keitel",
+      "Language": "English, German",
+      "Country": "France, United States"
     },
     {
       "title": "The Patriot",
@@ -1057,6 +1108,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All Out Attack",
+      "netflix_url": "https://www.netflix.com/title/60033218",
+      "year": "2001",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0279112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc4NmQyMzEtZWMxZS00ZmM2LTk0NDktNWU5ZWUyMmY4YzhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A reporter, notorious for working on pseudo-documentaries, must uncover the legend of the three guardian monsters who must rise to defend Japan from the vengeful spirits within Godzilla.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Shûsuke Kaneko",
+      "Writer": "Keiichi Hasegawa, Shûsuke Kaneko, Masahiro Yokotani",
+      "Actors": "Chiharu Niiyama, Ryûdô Uzaki, Masahiro Kobayashi",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Hellboy",
       "netflix_url": "https://www.netflix.com/title/60034549",
       "year": "2004",
@@ -1315,6 +1383,23 @@
       "Director": "Michael Bay",
       "Writer": "Caspian Tredwell-Owen, Alex Kurtzman, Roberto Orci",
       "Actors": "Scarlett Johansson, Ewan McGregor, Djimon Hounsou",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "XXX: State of the Union",
+      "netflix_url": "https://www.netflix.com/title/70023960",
+      "year": "2005",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt0329774",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTliNDIxZTUtOGViNC00Mzk4LThkYWEtNDFiMjU0ZTcwYjhhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Darius Stone, a new agent in the xXx program, is sent to Washington, D.C. to stop a coup attempt against the President of the United States.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Lee Tamahori",
+      "Writer": "Rich Wilkes, Simon Kinberg",
+      "Actors": "Ice Cube, Samuel L. Jackson, Willem Dafoe",
       "Language": "English",
       "Country": "United States"
     },
@@ -1710,6 +1795,23 @@
       "Country": "Japan"
     },
     {
+      "title": "The Other Guys",
+      "netflix_url": "https://www.netflix.com/title/70127228",
+      "year": "2010",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1386588",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODU1OTY5ZTYtNWQ0MC00ZWE1LTkyYjEtZTI2ODM1ZGE2MjBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two mismatched New York City detectives seize an opportunity to step up like the city's top cops, whom they idolize, only things don't quite go as planned.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Adam McKay",
+      "Writer": "Adam McKay, Chris Henchy",
+      "Actors": "Will Ferrell, Mark Wahlberg, Derek Jeter",
+      "Language": "English, Ukrainian",
+      "Country": "United States"
+    },
+    {
       "title": "Ip Man 2",
       "netflix_url": "https://www.netflix.com/title/70137753",
       "year": "2010",
@@ -1812,6 +1914,57 @@
       "Country": "France, United States, United Kingdom, Mexico, Canada"
     },
     {
+      "title": "Rebirth of Mothra",
+      "netflix_url": "https://www.netflix.com/title/70189333",
+      "year": "1996",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt0117089",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTRhODM5NWQtMWQyNS00MDI3LWE1ZDgtM2YzYjlkNmFkZTEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A new Mothra takes to the air and must battle Death Ghidora to save humanity.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Action, Adventure, Family",
+      "Director": "Okihiro Yoneda",
+      "Writer": "Masumi Suetani, Tomoyuki Tanaka, Kazuki Ômori",
+      "Actors": "Megumi Kobayashi, Sayaka Yamaguchi, Aki Hano",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
+      "title": "Rebirth of Mothra III",
+      "netflix_url": "https://www.netflix.com/title/70189334",
+      "year": "1998",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt0189764",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTFjN2UxZWMtNWM0NS00NjkwLWJlMGEtNmNhMWJhOWIwMmZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To save the world, Mothra goes back in time in an attempt to defeat a younger King Ghidorah.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Okihiro Yoneda",
+      "Writer": "Masumi Suetani",
+      "Actors": "Megumi Kobayashi, Misato Tate, Aki Hano",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
+      "title": "Rebirth of Mothra II",
+      "netflix_url": "https://www.netflix.com/title/70189335",
+      "year": "2003",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt0133104",
+      "Poster": "https://occ-0-7897-2705.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfiAxpDLjkAZGQQ4nAvITuRkVFvyH8v6QF8pueJ1YAkpvIG4ooeAZlSteHOWHczx8Pus2PwM-80FsOQTrzwwC3enjUtF5BjBCMU9.jpg?r=c55",
+      "Plot": "Mothra's twin nymphs and children from the city find a lost city, as well as a giant monster that is attracted to environmental calamities.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Action, Fantasy, Sci-Fi",
+      "Director": "Kunio Miyoshi",
+      "Writer": "Masumi Suetani, Tomoyuki Tanaka",
+      "Actors": "Megumi Kobayashi, Sayaka Yamaguchi, Aki Hano",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Never Back Down 2: The Beatdown",
       "netflix_url": "https://www.netflix.com/title/70197438",
       "year": "2011",
@@ -1863,6 +2016,40 @@
       "Country": "Japan, United States"
     },
     {
+      "title": "The Hunger Games",
+      "netflix_url": "https://www.netflix.com/title/70206672",
+      "year": "2012",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1392170",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWI1OGM4YjQtNmIxNi00YmE2LWJkNTAtY2Q0YjU4NTI5NWQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+      "Type": "movie",
+      "RunTime": "142 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Gary Ross",
+      "Writer": "Gary Ross, Suzanne Collins, Billy Ray",
+      "Actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "47 Ronin",
+      "netflix_url": "https://www.netflix.com/title/70208107",
+      "year": "2013",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt1335975",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0MjE2NzE0OV5BMl5BanBnXkFtZTgwNTU5MjE1MDE@._V1_SX300.jpg",
+      "Plot": "A band of samurai sets out to avenge the death and dishonor of their master at the hands of a ruthless shogun.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "Carl Rinsch",
+      "Writer": "Chris Morgan, Hossein Amini, Walter Hamada",
+      "Actors": "Keanu Reeves, Hiroyuki Sanada, Kô Shibasaki",
+      "Language": "English, Japanese",
+      "Country": "United States, Japan"
+    },
+    {
       "title": "The Amazing Spider-Man",
       "netflix_url": "https://www.netflix.com/title/70208599",
       "year": "2012",
@@ -1878,6 +2065,23 @@
       "Actors": "Andrew Garfield, Emma Stone, Rhys Ifans",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Grey",
+      "netflix_url": "https://www.netflix.com/title/70216225",
+      "year": "2011",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1601913",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY4MTQwMzc1MV5BMl5BanBnXkFtZTcwNzcwNTM5Ng@@._V1_SX300.jpg",
+      "Plot": "After their plane crashes in Alaska, six oil workers are led by a skilled huntsman to survival, but a pack of merciless wolves haunts their every step.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Joe Carnahan",
+      "Writer": "Joe Carnahan, Ian Mackenzie Jeffers",
+      "Actors": "Liam Neeson, Dermot Mulroney, Frank Grillo",
+      "Language": "English, Spanish",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "The Expendables 2",
@@ -2135,6 +2339,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "2 Guns",
+      "netflix_url": "https://www.netflix.com/title/70270776",
+      "year": "2013",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1272878",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ5MTgzNDg4OF5BMl5BanBnXkFtZTcwMjAyODEzOQ@@._V1_SX300.jpg",
+      "Plot": "Two hardened criminals get into trouble with the US border patrol after meeting with a Mexican drug lord, and then revelations start to unfold.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Baltasar Kormákur",
+      "Writer": "Blake Masters, Steven Grant",
+      "Actors": "Denzel Washington, Mark Wahlberg, Paula Patton",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Riddick",
       "netflix_url": "https://www.netflix.com/title/70272268",
       "year": "2013",
@@ -2186,6 +2407,23 @@
       "Country": "India"
     },
     {
+      "title": "The Hunger Games: Catching Fire",
+      "netflix_url": "https://www.netflix.com/title/70278934",
+      "year": "2013",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt1951264",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_SX300.jpg",
+      "Plot": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Francis Lawrence",
+      "Writer": "Simon Beaufoy, Michael Arndt, Suzanne Collins",
+      "Actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Homefront",
       "netflix_url": "https://www.netflix.com/title/70281529",
       "year": "2013",
@@ -2200,6 +2438,23 @@
       "Writer": "Sylvester Stallone, Chuck Logan",
       "Actors": "Jason Statham, James Franco, Winona Ryder",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Ride Along",
+      "netflix_url": "https://www.netflix.com/title/70286698",
+      "year": "2014",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt1408253",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU4NzYzOTY1MF5BMl5BanBnXkFtZTgwMTAyNTc1MDE@._V1_SX300.jpg",
+      "Plot": "Security guard Ben must prove himself to his girlfriend's brother, top police officer James. He rides along James on a 24-hour patrol of Atlanta.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Tim Story",
+      "Writer": "Greg Coolidge, Jason Mantzoukas, Phil Hay",
+      "Actors": "Ice Cube, Kevin Hart, Tika Sumpter",
+      "Language": "English, Ukrainian",
       "Country": "United States"
     },
     {
@@ -2371,6 +2626,23 @@
       "Actors": "Brad Pitt, Shia LaBeouf, Logan Lerman",
       "Language": "English, German",
       "Country": "United States, China"
+    },
+    {
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "netflix_url": "https://www.netflix.com/title/70305908",
+      "year": "2014",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1951265",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_SX300.jpg",
+      "Plot": "Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her...",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Francis Lawrence",
+      "Writer": "Peter Craig, Danny Strong, Suzanne Collins",
+      "Actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",
+      "Language": "English",
+      "Country": "United States, Canada, France"
     },
     {
       "title": "Unbroken",
@@ -2900,6 +3172,23 @@
       "Country": "United Kingdom, United States, Morocco, Italy, Austria, Canada, Mexico"
     },
     {
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "netflix_url": "https://www.netflix.com/title/80057972",
+      "year": "2015",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1951266",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_SX300.jpg",
+      "Plot": "Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Francis Lawrence",
+      "Writer": "Peter Craig, Danny Strong, Suzanne Collins",
+      "Actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",
+      "Language": "English",
+      "Country": "United States, Germany, Canada, France"
+    },
+    {
       "title": "The Do-Over",
       "netflix_url": "https://www.netflix.com/title/80063265",
       "year": "2016",
@@ -2913,6 +3202,23 @@
       "Director": "Steven Brill",
       "Writer": "Kevin Barnett, Chris Pappas",
       "Actors": "Adam Sandler, David Spade, Paula Patton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Ride Along 2",
+      "netflix_url": "https://www.netflix.com/title/80067830",
+      "year": "2016",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt2869728",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4ODAzMzcxOV5BMl5BanBnXkFtZTgwODkxMDI1NjE@._V1_SX300.jpg",
+      "Plot": "As his wedding day approaches, Ben heads to Miami with his soon-to-be brother-in-law James to bring down a drug dealer who's supplying the dealers of Atlanta with product.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Tim Story",
+      "Writer": "Greg Coolidge, Phil Hay, Matt Manfredi",
+      "Actors": "Ice Cube, Kevin Hart, Tika Sumpter",
       "Language": "English",
       "Country": "United States"
     },
@@ -3483,6 +3789,23 @@
       "Actors": "Shah Rukh Khan, Sunny Leone, Mahira Khan",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "netflix_url": "https://www.netflix.com/title/80166369",
+      "year": "2017",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt2250912",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "Peter Parker tries to stop Adrian 'The Vulture' Toomes from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Jon Watts",
+      "Writer": "Jonathan Goldstein, John Francis Daley, Jon Watts",
+      "Actors": "Tom Holland, Michael Keaton, Robert Downey Jr.",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "How It Ends",
@@ -4442,6 +4765,23 @@
       "Actors": "Dev Patel, Alicia Vikander, Joel Edgerton",
       "Language": "English, Latin",
       "Country": "United States, Canada, Ireland"
+    },
+    {
+      "title": "Hellboy",
+      "netflix_url": "https://www.netflix.com/title/81010972",
+      "year": "2019",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt2274648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI1Yzc0M2MtZjc5Ny00ZDU0LWE3NzEtOWY5ODk2MzdhZThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Caught between the worlds of the supernatural and human, Hellboy battles an ancient sorceress bent on revenge.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Neil Marshall",
+      "Writer": "Andrew Cosby, Mike Mignola",
+      "Actors": "David Harbour, Milla Jovovich, Ian McShane",
+      "Language": "English, Spanish, Russian, German",
+      "Country": "United States, United Kingdom, Bulgaria, Canada, Portugal, France"
     },
     {
       "title": "Atlas",
@@ -6340,6 +6680,23 @@
       "Country": "China"
     },
     {
+      "title": "SAS: Rise of the Black Swan",
+      "netflix_url": "https://www.netflix.com/title/81410784",
+      "year": "2021",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt4479380",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBhODQwNDktODE0My00MDQxLTg4NmEtOTUwYzFkNTU0NDBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small army of well trained criminals led by Grace Lewis have hijacked a train deep beneath the English Channel.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Action",
+      "Director": "Magnus Martens",
+      "Writer": "Laurence Malkin, Andy McNab",
+      "Actors": "Sam Heughan, Ruby Rose, Andy Serkis",
+      "Language": "English, French",
+      "Country": "United Kingdom, Switzerland, Netherlands, Hungary"
+    },
+    {
       "title": "Heart of Stone",
       "netflix_url": "https://www.netflix.com/title/81416533",
       "year": "2023",
@@ -7871,6 +8228,23 @@
       "Country": "India"
     },
     {
+      "title": "Enola Holmes 3",
+      "netflix_url": "https://www.netflix.com/title/81605886",
+      "year": "2026",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt32278481",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzVhNmQ0MzItNjg3Mi00MzM1LWI5MDUtOGZlMTFjNTJjMTM2XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Detective Enola Holmes heads to Malta, where her aspirations merge in her most complex and dangerous case yet.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Philip Barantini",
+      "Writer": "Jack Thorne, Nancy Springer",
+      "Actors": "Millie Bobby Brown, Henry Cavill, Helena Bonham Carter",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Kraven the Hunter",
       "netflix_url": "https://www.netflix.com/title/81610596",
       "year": "2024",
@@ -7886,6 +8260,23 @@
       "Actors": "Aaron Taylor-Johnson, Ariana DeBose, Fred Hechinger",
       "Language": "English, Russian, Turkish",
       "Country": "United Kingdom, Iceland, Canada, United States"
+    },
+    {
+      "title": "Violent Night",
+      "netflix_url": "https://www.netflix.com/title/81611464",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt12003946",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE5ODNmODYtNDg0MC00ZDc4LWEyZmItNTQ2MGQ5MGQxMzllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When an elite team of mercenaries breaks into a family compound on Christmas Eve, a disgruntled Santa Claus must take them out to save both the hostages and his Holiday.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Action, Comedy, Thriller",
+      "Director": "Tommy Wirkola",
+      "Writer": "Pat Casey, Josh Miller",
+      "Actors": "David Harbour, John Leguizamo, Beverly D'Angelo",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Inkabi",
@@ -8445,6 +8836,13 @@
       "Actors": "Jason Statham, 50 Cent, Megan Fox",
       "Language": "English, Arabic, Bulgarian, Vietnamese, Spanish, Thai",
       "Country": "United States"
+    },
+    {
+      "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+      "netflix_url": "https://www.netflix.com/title/81674662",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Den of Thieves 2: Pantera",
@@ -10187,6 +10585,13 @@
       "Country": "United States"
     },
     {
+      "title": "Golden Kamuy -The Abashiri Prison Raid-",
+      "netflix_url": "https://www.netflix.com/title/82116953",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Mahavatar Narsimha",
       "netflix_url": "https://www.netflix.com/title/82131939",
       "year": "2025",
@@ -10555,6 +10960,13 @@
       "Actors": "Rajisha Vijayan, Divya Prabha, Jagadish",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Sniper: No Nation",
+      "netflix_url": "https://www.netflix.com/title/82794379",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Dhurandhar The Revenge (Raw & Undekha)",

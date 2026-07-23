@@ -20,6 +20,23 @@
       "Country": "Taiwan"
     },
     {
+      "title": "Beginners",
+      "netflix_url": "https://www.netflix.com/title/70148804",
+      "year": "2011",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1532503",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI0ZTYwYjItZTA0ZC00YTMwLTljMmYtODZlZjJiNGY3YmExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Oliver, a graphic designer, is attracted to a free-spirited and unpredictable Anna. Memories of his father encourage him to open himself up to the potential of a true and long-lasting relationship.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Mike Mills",
+      "Writer": "Mike Mills",
+      "Actors": "Ewan McGregor, Christopher Plummer, Mélanie Laurent",
+      "Language": "English, French",
+      "Country": "United States"
+    },
+    {
       "title": "Blue Is the Warmest Color",
       "netflix_url": "https://www.netflix.com/title/70275600",
       "year": "2013",
@@ -340,6 +357,23 @@
       "imdb_id": null
     },
     {
+      "title": "Bros",
+      "netflix_url": "https://www.netflix.com/title/81577750",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9731598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2UxNGVkNDctMTdkZi00NzgyLWJiZjQtMGY1MWUwNTQ1MTY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two men with commitment problems attempt a relationship.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Nicholas Stoller",
+      "Writer": "Billy Eichner, Nicholas Stoller",
+      "Actors": "Billy Eichner, Luke Macfarlane, Guy Branum",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Happy Ending",
       "netflix_url": "https://www.netflix.com/title/81578318",
       "year": "2023",
@@ -415,6 +449,13 @@
       "Country": "United States"
     },
     {
+      "title": "Heartstopper Forever",
+      "netflix_url": "https://www.netflix.com/title/82040750",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "On Swift Horses",
       "netflix_url": "https://www.netflix.com/title/82095685",
       "year": "2024",
@@ -430,6 +471,23 @@
       "Actors": "Daisy Edgar-Jones, Jacob Elordi, Will Poulter",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "You Can Live Forever",
+      "netflix_url": "https://www.netflix.com/title/82699253",
+      "year": "2023",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt15782570",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGFiNDQ2MjgtMjcyNi00MzBlLThhMTItMGYwNTZjOTYyMjdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When lesbian teen Jaime is sent to live in a Jehovah's Witness community, she falls hard for a devout Witness girl and the two embark on an intense affair with consequences that will reshape the rest of their lives.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Drama, Romance",
+      "Director": "Mark Slutsky, Sarah Watts",
+      "Writer": "Sarah Watts, Mark Slutsky",
+      "Actors": "Anwen O'Driscoll, June Laporte, Liane Balaban",
+      "Language": "English, French",
+      "Country": "Canada"
     }
   ]
 }

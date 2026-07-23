@@ -37,6 +37,40 @@
       "Country": "N/A"
     },
     {
+      "title": "Beginners",
+      "netflix_url": "https://www.netflix.com/title/70148804",
+      "year": "2011",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1532503",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI0ZTYwYjItZTA0ZC00YTMwLTljMmYtODZlZjJiNGY3YmExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Oliver, a graphic designer, is attracted to a free-spirited and unpredictable Anna. Memories of his father encourage him to open himself up to the potential of a true and long-lasting relationship.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Mike Mills",
+      "Writer": "Mike Mills",
+      "Actors": "Ewan McGregor, Christopher Plummer, Mélanie Laurent",
+      "Language": "English, French",
+      "Country": "United States"
+    },
+    {
+      "title": "Pariah",
+      "netflix_url": "https://www.netflix.com/title/70169901",
+      "year": "2011",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1233334",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTQyNTY3NV5BMl5BanBnXkFtZTcwODk0ODk2Ng@@._V1_SX300.jpg",
+      "Plot": "A Brooklyn teenager juggles conflicting identities and risks friendship, heartbreak and family in a desperate search for sexual expression.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Drama",
+      "Director": "Dee Rees",
+      "Writer": "Dee Rees",
+      "Actors": "Adepero Oduye, Kim Wayans, Aasha Davis",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Blue Is the Warmest Color",
       "netflix_url": "https://www.netflix.com/title/70275600",
       "year": "2013",
@@ -380,6 +414,23 @@
       "Director": "Rachel Mason",
       "Writer": "Rachel Mason, Kathryn Robson",
       "Actors": "Karen Mason, Barry Mason, Micah Mason",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Mapplethorpe",
+      "netflix_url": "https://www.netflix.com/title/81017021",
+      "year": "2018",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt1389098",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTAxMWUzYzAtYzQzYy00NDFkLWEyNDMtNDc2M2I0N2Q3ZDcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look at the life of photographer Robert Mapplethorpe from his rise to fame in the 1970s to his untimely death in 1989.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Biography, Drama",
+      "Director": "Ondi Timoner",
+      "Writer": "Ondi Timoner, Mikko Alanne, Bruce Goodrich",
+      "Actors": "Matt Smith, Marianne Rendón, John Benjamin Hickey",
       "Language": "English",
       "Country": "United States"
     },
@@ -1109,6 +1160,23 @@
       "Country": "France, Belgium, Netherlands"
     },
     {
+      "title": "Bros",
+      "netflix_url": "https://www.netflix.com/title/81577750",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9731598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2UxNGVkNDctMTdkZi00NzgyLWJiZjQtMGY1MWUwNTQ1MTY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two men with commitment problems attempt a relationship.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Nicholas Stoller",
+      "Writer": "Billy Eichner, Nicholas Stoller",
+      "Actors": "Billy Eichner, Luke Macfarlane, Guy Branum",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Happy Ending",
       "netflix_url": "https://www.netflix.com/title/81578318",
       "year": "2023",
@@ -1684,6 +1752,13 @@
       "Country": "Thailand"
     },
     {
+      "title": "Heartstopper Forever",
+      "netflix_url": "https://www.netflix.com/title/82040750",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "I’m Your Venus",
       "netflix_url": "https://www.netflix.com/title/82045298",
       "year": "2025",
@@ -1801,6 +1876,40 @@
       "Actors": "Norman De Buck, Kiernan Shipka, Kiefer Sutherland",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "You Can Live Forever",
+      "netflix_url": "https://www.netflix.com/title/82699253",
+      "year": "2023",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt15782570",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGFiNDQ2MjgtMjcyNi00MzBlLThhMTItMGYwNTZjOTYyMjdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When lesbian teen Jaime is sent to live in a Jehovah's Witness community, she falls hard for a devout Witness girl and the two embark on an intense affair with consequences that will reshape the rest of their lives.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Drama, Romance",
+      "Director": "Mark Slutsky, Sarah Watts",
+      "Writer": "Sarah Watts, Mark Slutsky",
+      "Actors": "Anwen O'Driscoll, June Laporte, Liane Balaban",
+      "Language": "English, French",
+      "Country": "Canada"
+    },
+    {
+      "title": "The Choral",
+      "netflix_url": "https://www.netflix.com/title/82719755",
+      "year": "2025",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt31851518",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI4ODRhODEtOTQ3ZS00YTY3LWIxMTgtNDdmY2JiNzQ4OGVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A choral society's male members enlist in World War I, leaving the demanding Dr. Guthrie to recruit teenagers. Together, they experience the joy of singing while the young boys grapple with their impending conscription into the army.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Drama, History, Music",
+      "Director": "Nicholas Hytner",
+      "Writer": "Alan Bennett",
+      "Actors": "Taylor Uttley, Ralph Fiennes, Mark Addy",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Nukkad Naatak",

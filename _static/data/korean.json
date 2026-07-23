@@ -1111,8 +1111,18 @@
       "title": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",
       "netflix_url": "https://www.netflix.com/title/81748104",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38092819",
+      "Poster": "https://m.media-amazon.com/images/M/75f35a85-7a6e-4f1f-bf8b-e4c8556bc4e4._V1_UX1000_CR0,0,1000,563_.png",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "42 min",
+      "Genre": "Animation, Short",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bommie Han, Sharon Kwon",
+      "Language": "English",
+      "Country": "South Korea"
     },
     {
       "title": "Wall to Wall",
@@ -1221,6 +1231,23 @@
       "Writer": "Seong-je Kim, Hwang Seong-gu",
       "Actors": "Cristal Aparicio, Jesus David Becerra, Andrew Gonzalez",
       "Language": "N/A",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Husbands in Action",
+      "netflix_url": "https://www.netflix.com/title/82025112",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36876775",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTUyMjUwNzctNzk3Yi00YTIwLTlhN2QtMTU4MTIzN2Q4OTkzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "An unpredictable operation by ex-husband Choong-sik and current husband Min-seok who unexpectedly join forces to rescue their wife who was kidnapped by a criminal organization.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Gyu-tae Park",
+      "Writer": "Gyu-tae Park",
+      "Actors": "Jin Seon-kyu, Gong Myoung, Kim Ji Suk",
+      "Language": "Korean",
       "Country": "South Korea"
     },
     {

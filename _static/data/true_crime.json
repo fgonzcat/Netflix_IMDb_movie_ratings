@@ -88,6 +88,23 @@
       "Country": "United States"
     },
     {
+      "title": "Snowden",
+      "netflix_url": "https://www.netflix.com/title/80064514",
+      "year": "2016",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt3774114",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2MzYzNzgzOF5BMl5BanBnXkFtZTgwOTg4NzQ4OTE@._V1_SX300.jpg",
+      "Plot": "The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Oliver Stone",
+      "Writer": "Kieran Fitzgerald, Oliver Stone, Luke Harding",
+      "Actors": "Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo",
+      "Language": "English, American Sign , Russian",
+      "Country": "United States, Germany, France"
+    },
+    {
       "title": "Talvar",
       "netflix_url": "https://www.netflix.com/title/80080618",
       "year": "2015",
@@ -4045,6 +4062,13 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Elize: Shadows of a Woman",
+      "netflix_url": "https://www.netflix.com/title/81701598",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Cold Case: Who Killed JonBenét Ramsey",
       "netflix_url": "https://www.netflix.com/title/81705443",
       "year": "2024",
@@ -4668,6 +4692,13 @@
       "imdb_id": null
     },
     {
+      "title": "Worst Neighbor Ever",
+      "netflix_url": "https://www.netflix.com/title/82016571",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Perfect Neighbor",
       "netflix_url": "https://www.netflix.com/title/82018736",
       "year": "2025",
@@ -4683,6 +4714,13 @@
       "Actors": "N/A",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Miguel Ángel Blanco: The 48 Hours that Changed Spain",
+      "netflix_url": "https://www.netflix.com/title/82090337",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Predator of Seville",

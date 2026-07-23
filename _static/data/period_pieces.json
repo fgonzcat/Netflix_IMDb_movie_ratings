@@ -88,6 +88,23 @@
       "Country": "United States"
     },
     {
+      "title": "Out of Africa",
+      "netflix_url": "https://www.netflix.com/title/60000019",
+      "year": "1985",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0089755",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ5MGI3NWYtMmVjNS00OWIzLWEzMGQtMGZhMzY3NjI2YjhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+      "Type": "movie",
+      "RunTime": "161 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "Sydney Pollack",
+      "Writer": "Karen Blixen, Judith Thurman, Errol Trzebinski",
+      "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer",
+      "Language": "English, Swahili, Arabic",
+      "Country": "United States"
+    },
+    {
       "title": "Braveheart",
       "netflix_url": "https://www.netflix.com/title/60000540",
       "year": "1995",
@@ -137,6 +154,30 @@
       "Actors": "Nicole Kidman, Ewan McGregor, John Leguizamo",
       "Language": "English, French, Spanish",
       "Country": "Australia, United States"
+    },
+    {
+      "title": "Lawrence of Arabia: Restored Version",
+      "netflix_url": "https://www.netflix.com/title/70012020",
+      "year": "1962",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cinderella Man",
+      "netflix_url": "https://www.netflix.com/title/70021639",
+      "year": "2005",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt0352248",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ3M2ZjMzYtNmQwNC00MjNkLTgzOTgtMjhjMDk0YzIzOWZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The true story of James J. Braddock, a supposedly washed-up boxer, who returned to the spotlight to win the heavyweight championship of the world.",
+      "Type": "movie",
+      "RunTime": "144 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "Ron Howard",
+      "Writer": "Cliff Hollingsworth, Akiva Goldsman",
+      "Actors": "Russell Crowe, Renée Zellweger, Craig Bierko",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Memoirs of a Geisha",
@@ -375,6 +416,23 @@
       "Actors": "Cillian Murphy, Paul Anderson, Sophie Rundle",
       "Language": "English, Romanian, Irish Gaelic, Italian, Yiddish, French",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Serena",
+      "netflix_url": "https://www.netflix.com/title/80015569",
+      "year": "2014",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt1247690",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTExMDY2OTYxMTNeQTJeQWpwZ15BbWU4MDc2NDE5MTQx._V1_SX300.jpg",
+      "Plot": "In Depression-era North Carolina, the future of George Pemberton's timber empire becomes complicated when he marries Serena.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Drama, History, Romance",
+      "Director": "Susanne Bier",
+      "Writer": "Christopher Kyle, Ron Rash",
+      "Actors": "Bradley Cooper, Jennifer Lawrence, Rhys Ifans",
+      "Language": "English",
+      "Country": "France, United States, Czech Republic, Canada"
     },
     {
       "title": "Race",
@@ -858,6 +916,23 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "The 24th",
+      "netflix_url": "https://www.netflix.com/title/80238818",
+      "year": "2020",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt10452854",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDdjYzZhZjAtNzA3My00ZmFkLTkwNTEtY2JlNTAxYThhM2QyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It is the story of the all-black Twenty-Fourth United States Infantry Regiment, and the Houston Riot of 1917.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Drama, History",
+      "Director": "Kevin Willmott",
+      "Writer": "Kevin Willmott, Trai Byers",
+      "Actors": "Timaine Bryant, Trai Byers, Bashir Salahuddin",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Errementari: The Blacksmith and the Devil",
@@ -2071,6 +2146,23 @@
       "Country": "India"
     },
     {
+      "title": "Poor Things",
+      "netflix_url": "https://www.netflix.com/title/81603794",
+      "year": "2023",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt14230458",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWU2MjRjZTYtMjVkMS00MTBjLWFiMTAtYmZlYTk1YjkyMWFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "An account of the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.",
+      "Type": "movie",
+      "RunTime": "141 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Yorgos Lanthimos",
+      "Writer": "Tony McNamara, Alasdair Gray",
+      "Actors": "Emma Stone, Mark Ruffalo, Willem Dafoe",
+      "Language": "English, French, Portuguese",
+      "Country": "Ireland, United Kingdom, United States, Hungary"
+    },
+    {
       "title": "Who Rules the World",
       "netflix_url": "https://www.netflix.com/title/81605075",
       "year": "2022",
@@ -2086,6 +2178,23 @@
       "Actors": "Yang Yang, Lusi Zhao, Lu Xuan",
       "Language": "Mandarin, Chinese",
       "Country": "China"
+    },
+    {
+      "title": "Enola Holmes 3",
+      "netflix_url": "https://www.netflix.com/title/81605886",
+      "year": "2026",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt32278481",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzVhNmQ0MzItNjg3Mi00MzM1LWI5MDUtOGZlMTFjNTJjMTM2XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Plot": "Detective Enola Holmes heads to Malta, where her aspirations merge in her most complex and dangerous case yet.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Philip Barantini",
+      "Writer": "Jack Thorne, Nancy Springer",
+      "Actors": "Millie Bobby Brown, Henry Cavill, Helena Bonham Carter",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Last Samurai Standing",
@@ -2432,6 +2541,13 @@
       "Country": "United States"
     },
     {
+      "title": "The East Palace",
+      "netflix_url": "https://www.netflix.com/title/81778702",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Double",
       "netflix_url": "https://www.netflix.com/title/81900131",
       "year": "2024",
@@ -2582,6 +2698,13 @@
       "Country": "South Korea"
     },
     {
+      "title": "Summer ’36",
+      "netflix_url": "https://www.netflix.com/title/82049215",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Downton Abbey: The Grand Finale",
       "netflix_url": "https://www.netflix.com/title/82087561",
       "year": "2025",
@@ -2631,6 +2754,13 @@
       "Actors": "Adam Jonas Segaller, Dan Nachtrab, Eric Rolland",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Golden Kamuy -The Abashiri Prison Raid-",
+      "netflix_url": "https://www.netflix.com/title/82116953",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Lies We Tell",
@@ -2701,11 +2831,86 @@
       "Country": "China"
     },
     {
+      "title": "The Choral",
+      "netflix_url": "https://www.netflix.com/title/82719755",
+      "year": "2025",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt31851518",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI4ODRhODEtOTQ3ZS00YTY3LWIxMTgtNDdmY2JiNzQ4OGVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A choral society's male members enlist in World War I, leaving the demanding Dr. Guthrie to recruit teenagers. Together, they experience the joy of singing while the young boys grapple with their impending conscription into the army.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Drama, History, Music",
+      "Director": "Nicholas Hytner",
+      "Writer": "Alan Bennett",
+      "Actors": "Taylor Uttley, Ralph Fiennes, Mark Addy",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Descending Stories: A Life in Rakugo",
+      "netflix_url": "https://www.netflix.com/title/82746959",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Strategist KANBE",
+      "netflix_url": "https://www.netflix.com/title/82746979",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Veil of Shadows",
       "netflix_url": "https://www.netflix.com/title/82788167",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "7.3",
+      "imdb_id": "tt35046984",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTYxYmQwYjctNTU3ZS00N2FmLWEyYjItZDVkMWVhN2U4NDZkXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "Plot": "Drawn to a demon's power, rivals become allies and lovers - forced to choose between love, loyalty, and destiny in a world of hidden identities.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jiarui Tian, Jingyi Ju, Duling Chen",
+      "Language": "Mandarin",
+      "Country": "China"
+    },
+    {
+      "title": "Ashes to Crown",
+      "netflix_url": "https://www.netflix.com/title/82911782",
+      "year": "2026",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt37140755",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjU4NzY5NTAtNGU1NS00OWM5LWFhOTMtZTQ5MTliN2I4MDYyXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "Plot": "General's daughter Chu Zhao escapes her fate as a political pawn by taking control of her destiny. She meets Xie Yanlai, helping him rise to Great General. Together they defeat Crown Prince Xiao Xun's schemes and foreign invaders.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Duling Chen, Yiran Zhou, Xiaotian Tang",
+      "Language": "Chinese",
+      "Country": "China"
+    },
+    {
+      "title": "Hamnet",
+      "netflix_url": "https://www.netflix.com/title/83077856",
+      "year": "2025",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt14905854",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "In late 16th-century England, Agnes, a healer sensitive to the world around her, builds a home with William, a local tutor and aspiring playwright. As their lives fracture, they are tested by distance, silence, and grief.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Chloé Zhao",
+      "Writer": "Chloé Zhao, Maggie O&apos;Farrell",
+      "Actors": "Jessie Buckley, Paul Mescal, Zac Wishart",
+      "Language": "English, Latin, French, Greek, Ancient (to 1453)",
+      "Country": "United Kingdom, United States"
     }
   ]
 }

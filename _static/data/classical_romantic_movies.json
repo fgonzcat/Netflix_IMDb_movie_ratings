@@ -88,6 +88,23 @@
       "Country": "India"
     },
     {
+      "title": "Four Weddings and a Funeral",
+      "netflix_url": "https://www.netflix.com/title/520489",
+      "year": "1994",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0109831",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyNzg2NzgxNV5BMl5BanBnXkFtZTcwMTcxNzczNA@@._V1_SX300.jpg",
+      "Plot": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Mike Newell",
+      "Writer": "Richard Curtis",
+      "Actors": "Hugh Grant, Andie MacDowell, James Fleet",
+      "Language": "English, British Sign ",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Groundhog Day",
       "netflix_url": "https://www.netflix.com/title/563104",
       "year": "1993",
@@ -102,6 +119,23 @@
       "Writer": "Danny Rubin, Harold Ramis",
       "Actors": "Bill Murray, Andie MacDowell, Chris Elliott",
       "Language": "English, French, Italian",
+      "Country": "United States"
+    },
+    {
+      "title": "Out of Africa",
+      "netflix_url": "https://www.netflix.com/title/60000019",
+      "year": "1985",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0089755",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ5MGI3NWYtMmVjNS00OWIzLWEzMGQtMGZhMzY3NjI2YjhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+      "Type": "movie",
+      "RunTime": "161 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "Sydney Pollack",
+      "Writer": "Karen Blixen, Judith Thurman, Errol Trzebinski",
+      "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer",
+      "Language": "English, Swahili, Arabic",
       "Country": "United States"
     },
     {
