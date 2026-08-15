@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "Clueless",
+      "netflix_url": "https://www.netflix.com/title/384406",
+      "year": "1995",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0112697",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwYjQ1NDktOTcwNi00MWZhLTliYWQtZDg5NjZhY2U5ZTNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Amy Heckerling",
+      "Writer": "Amy Heckerling",
+      "Actors": "Alicia Silverstone, Stacey Dash, Brittany Murphy",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Crossroads",
       "netflix_url": "https://www.netflix.com/title/60022266",
       "year": "2002",
@@ -1157,6 +1174,13 @@
       "Actors": "Gong Myoung, Shin Eun-soo, Cha Woo-min",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Don't Say Good Luck",
+      "netflix_url": "https://www.netflix.com/title/81975622",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Roommates",

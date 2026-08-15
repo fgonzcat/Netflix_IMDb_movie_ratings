@@ -105,6 +105,23 @@
       "Country": "United States"
     },
     {
+      "title": "Firehouse Dog",
+      "netflix_url": "https://www.netflix.com/title/70059971",
+      "year": "2007",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt0476995",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyMDczNjYwMl5BMl5BanBnXkFtZTcwNzcxNzI0MQ@@._V1_SX300.jpg",
+      "Plot": "Rexxx, Hollywood's top canine star, gets lost and is adopted into a shabby firehouse. He teams up with a young kid to get the station back on its feet.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Action, Comedy, Family",
+      "Director": "Todd Holland",
+      "Writer": "Claire-Dee Lim, Mike Werb, Michael Colleary",
+      "Actors": "Josh Hutcherson, Bruce Greenwood, Bree Turner",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Bee Movie",
       "netflix_url": "https://www.netflix.com/title/70060010",
       "year": "2007",
@@ -2132,6 +2149,13 @@
       "Actors": "N/A",
       "Language": "N/A",
       "Country": "United States"
+    },
+    {
+      "title": "ChuChuTV Surprise Eggs",
+      "netflix_url": "https://www.netflix.com/title/83070502",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

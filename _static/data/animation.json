@@ -908,6 +908,23 @@
       "Country": "France, Canada, United States"
     },
     {
+      "title": "Minions",
+      "netflix_url": "https://www.netflix.com/title/80033394",
+      "year": "2015",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt2293640",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODI4NzMyNjE0MF5BMl5BanBnXkFtZTgwMTcwNzI0MzE@._V1_SX300.jpg",
+      "Plot": "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Kyle Balda, Pierre Coffin",
+      "Writer": "Brian Lynch",
+      "Actors": "Sandra Bullock, Jon Hamm, Michael Keaton",
+      "Language": "English, Spanish, Italian",
+      "Country": "United States, France"
+    },
+    {
       "title": "Pororo - The Little Penguin",
       "netflix_url": "https://www.netflix.com/title/80036747",
       "year": "2023",
@@ -1444,6 +1461,40 @@
       "Actors": "Matthew McConaughey, Reese Witherspoon, Seth MacFarlane",
       "Language": "English, Japanese",
       "Country": "Japan, United States"
+    },
+    {
+      "title": "Kingsglaive: Final Fantasy XV",
+      "netflix_url": "https://www.netflix.com/title/80118543",
+      "year": "2016",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt5595168",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTEwNzMxNTU5M15BMl5BanBnXkFtZTgwMzMyMjg3OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal which gives Lucis its magic and power.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Takeshi Nozue",
+      "Writer": "Takashi Hasegawa, Kazushige Nojima, Saori Itamuro",
+      "Actors": "Aaron Paul, Lena Headey, Sean Bean",
+      "Language": "Japanese, English, Chinese",
+      "Country": "Japan, United States"
+    },
+    {
+      "title": "Smurfs: The Lost Village",
+      "netflix_url": "https://www.netflix.com/title/80121839",
+      "year": "2017",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt2398241",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGVlYjY0ZTQtMDVkNS00NzNlLWE5NmMtODY1MjJmNTI5MTAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest, leading to the discovery of the biggest secret in Smurf history.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Kelly Asbury",
+      "Writer": "Stacey Harman, Pamela Ribon, Peyo",
+      "Actors": "Demi Lovato, Rainn Wilson, Joe Manganiello",
+      "Language": "English",
+      "Country": "United States, Hong Kong, China, Czech Republic, United Kingdom, Canada, Belgium"
     },
     {
       "title": "The Emoji Movie",
@@ -2587,6 +2638,23 @@
       "Actors": "Becky G, Josh Peck, Tara Strong",
       "Language": "English",
       "Country": "United Kingdom, Canada, United States"
+    },
+    {
+      "title": "Smallfoot",
+      "netflix_url": "https://www.netflix.com/title/80233337",
+      "year": "2018",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt6182908",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjBjYWQxMTQtMThiZS00NjZkLWE1ZjctMzE2ZTgxZmJmMWQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a Yeti discovers a human and his fellow Yeti refuse to believe humans exist, he embarks on an journey to find the creature that can put him back in his community's good graces.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Karey Kirkpatrick, Jason Reisig",
+      "Writer": "Karey Kirkpatrick, Clare Sera, John Requa",
+      "Actors": "Channing Tatum, James Corden, Zendaya",
+      "Language": "English, Mandarin",
+      "Country": "Czech Republic, United Kingdom, United States"
     },
     {
       "title": "Hotel Transylvania 3: Summer Vacation",
@@ -6953,6 +7021,13 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "Ricky Gervais Alley Cats",
+      "netflix_url": "https://www.netflix.com/title/81658840",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Bad Guys: A Very Bad Holiday",
       "netflix_url": "https://www.netflix.com/title/81662920",
       "year": "2023",
@@ -7224,6 +7299,23 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Thomas & Friends: The Christmas Letter Express",
+      "netflix_url": "https://www.netflix.com/title/81728272",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31499438",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjRmNTg3NmQtM2FjYy00NTg2LWExY2YtYjdiM2YzYWI1YTAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Percy must track down Santa after he discovers a child's letter that was accidentally left in his mail cart on Christmas Eve.",
+      "Type": "movie",
+      "RunTime": "60 min",
+      "Genre": "Animation",
+      "Director": "Campbell Bryer",
+      "Writer": "Rick Suvalle, Wilbert Awdry, Craig Carlisle",
+      "Actors": "Will Bhaneja, Glee Dango, Catherine Disher",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Digman!",
@@ -8152,6 +8244,34 @@
       "title": "José Totoy 5",
       "netflix_url": "https://www.netflix.com/title/82998727",
       "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "ChuChuTV Surprise Eggs",
+      "netflix_url": "https://www.netflix.com/title/83070502",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "ChuChuTV Drawing with ChuChu",
+      "netflix_url": "https://www.netflix.com/title/83070517",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "ChuChuTV Colors in Funzone",
+      "netflix_url": "https://www.netflix.com/title/83070533",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "ChuChuTV Nursery Rhymes",
+      "netflix_url": "https://www.netflix.com/title/83070793",
+      "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
     }

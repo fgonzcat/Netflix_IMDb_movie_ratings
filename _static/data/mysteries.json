@@ -343,6 +343,40 @@
       "Country": "United States, France"
     },
     {
+      "title": "Atlas Shrugged: Part I",
+      "netflix_url": "https://www.netflix.com/title/70181658",
+      "year": "2011",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0480239",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NDg3NjcxNl5BMl5BanBnXkFtZTgwODQ1MjU5OTE@._V1_SX300.jpg",
+      "Plot": "Railroad executive Dagny Taggart and steel mogul Henry Rearden form an alliance to fight the increasingly authoritarian government of the United States.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "Paul Johansson",
+      "Writer": "Brian Patrick O'Toole, John Aglialoro, Ayn Rand",
+      "Actors": "Taylor Schilling, Grant Bowler, Matthew Marsden",
+      "Language": "English, German",
+      "Country": "United States"
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "netflix_url": "https://www.netflix.com/title/70207663",
+      "year": "2011",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt1568346",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_SX300.jpg",
+      "Plot": "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for 40 years by hacker Lisbeth Salander.",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "David Fincher",
+      "Writer": "Steven Zaillian, Stieg Larsson",
+      "Actors": "Daniel Craig, Rooney Mara, Christopher Plummer",
+      "Language": "English, Swedish",
+      "Country": "Sweden, United States"
+    },
+    {
       "title": "The Paperboy",
       "netflix_url": "https://www.netflix.com/title/70242546",
       "year": "2012",
@@ -375,6 +409,13 @@
       "Actors": "Rooney Mara, Channing Tatum, Jude Law",
       "Language": "English, French",
       "Country": "United States"
+    },
+    {
+      "title": "Atlas Shrugged: Part II",
+      "netflix_url": "https://www.netflix.com/title/70248595",
+      "year": "2012",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Non-Stop",
@@ -768,6 +809,23 @@
       "Country": "United Kingdom, Canada, United States, Germany"
     },
     {
+      "title": "The Kid Detective",
+      "netflix_url": "https://www.netflix.com/title/80203561",
+      "year": "2020",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt8980602",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODkzYjMxNTAtODQxNy00Yjg1LTk4OWItM2JmYTlkMmRkMzczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A once-celebrated kid detective, now 32, continues to solve the same trivial mysteries between hangovers and bouts of self-pity; until a naive client brings him his first 'adult' case to find out who brutally murdered her boyfriend.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Evan Morgan",
+      "Writer": "Evan Morgan",
+      "Actors": "Kaitlyn Chalmers-Rizzato, Adam Brody, Kaleb Horn",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
       "title": "Forgotten",
       "netflix_url": "https://www.netflix.com/title/80223050",
       "year": "2017",
@@ -1038,6 +1096,23 @@
       "Actors": "Winslow Fegley, Lidya Jewett, Krysten Ritter",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Holmes & Watson",
+      "netflix_url": "https://www.netflix.com/title/81004274",
+      "year": "2018",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt1255919",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGY5OWFlZDEtZTY5NS00ZGI0LWJjMmEtZGM5MzA5YWJkMjM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A humorous take on Sir Arthur Conan Doyle's classic mysteries featuring Sherlock Holmes and Doctor Watson.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Crime, Mystery",
+      "Director": "Etan Cohen",
+      "Writer": "Etan Cohen, Arthur Conan Doyle",
+      "Actors": "Will Ferrell, John C. Reilly, Ralph Fiennes",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Spenser Confidential",
@@ -2568,6 +2643,23 @@
       "Country": "Philippines"
     },
     {
+      "title": "The Truthers",
+      "netflix_url": "https://www.netflix.com/title/81783055",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt41111628",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjlkNDdmNzUtZGRkNC00MjMxLWE5NDktM2FjODk2NmQxMGMwXkEyXkFqcGc@._V1_QL75_UY562_CR232,0,380,562_.jpg",
+      "Plot": "Ruth, a 30-year-old woman who has been estranged from her family for some time, returns home when her mother dies under strange circumstances. There, she is reunited with her father, Martín, who since retiring seems to have become...",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama, Thriller",
+      "Director": "Roger Gual",
+      "Writer": "Darío Madrona, Carlos Montero",
+      "Actors": "Jose Coronado, Fanny Gautier, Olaya López",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "A Widow's Game",
       "netflix_url": "https://www.netflix.com/title/81786479",
       "year": "2025",
@@ -2643,11 +2735,45 @@
       "Country": "India"
     },
     {
+      "title": "Mikael: Pemburu Dua Alam",
+      "netflix_url": "https://www.netflix.com/title/81986252",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36607196",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2YyNTg5NTktYmY5Zi00MjA0LTljMjUtODkzM2U2N2E3ZGU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An elite police officer who is also a jinn hunter, facing the threat of creatures from the supernatural while investigating a series of gruesome murders leading to an epic battle against the Jinn King for the sake of balance betwe...",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Comedy, Fantasy",
+      "Director": "Zahir Omar",
+      "Writer": "N/A",
+      "Actors": "Remy Ishak, Norreen Iman, Fabian Loo",
+      "Language": "Malay",
+      "Country": "Malaysia"
+    },
+    {
       "title": "The Redemption of Sin",
       "netflix_url": "https://www.netflix.com/title/82018121",
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Five Nights at Freddy's 2",
+      "netflix_url": "https://www.netflix.com/title/82018798",
+      "year": "2025",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt30274401",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Plot": "One year after the supernatural nightmare at Freddy Fazbear's Pizza, Abby runs away to reconnect with her animatronic friends, uncovering dark secrets about the true origins of Freddy's and unleashing a horror hidden for decades.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Emma Tammi",
+      "Writer": "Scott Cawthon",
+      "Actors": "Josh Hutcherson, Piper Rubio, Elizabeth Lail",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "The Haunted Apartment \"Miss K\"",
@@ -2827,6 +2953,23 @@
       "Country": "United States"
     },
     {
+      "title": "A Private Life",
+      "netflix_url": "https://www.netflix.com/title/82810444",
+      "year": "2025",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt33852162",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y4OWIzMTQtMzk0OC00NGM5LTgxMGUtZDM1ZDIxMGRhZjEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The renowned psychiatrist Lilian Steiner mounts a private investigation into the death of one of her patients, whom she is convinced has been murdered.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Rebecca Zlotowski",
+      "Writer": "Anne Berest, Rebecca Zlotowski, Gaëlle Macé",
+      "Actors": "Jodie Foster, Daniel Auteuil, Virginie Efira",
+      "Language": "French, English",
+      "Country": "France"
+    },
+    {
       "title": "The Body in the Locker",
       "netflix_url": "https://www.netflix.com/title/82820183",
       "year": "2025",
@@ -2842,6 +2985,23 @@
       "Actors": "Sasha Barry, Kirsten Comerford, Jayne Heitmeyer",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "The beach house murders",
+      "netflix_url": "https://www.netflix.com/title/82899166",
+      "year": "2023",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt30889211",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2I4MTg5MGMtZDg0Ni00OTYxLWI4NWQtMjliOGE5ZTIyZWI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A lonely female novelist becomes a prime suspect in a homicide after a one night tryst with a mysterious stranger who turns up dead at her summer home.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Thriller",
+      "Director": "Doug Campbell",
+      "Writer": "Doug Campbell, Josh Ridgway",
+      "Actors": "Brittney Dorey, Cj Hammond, Devante Winfrey",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Paradise Murders",

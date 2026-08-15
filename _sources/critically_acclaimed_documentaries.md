@@ -207,6 +207,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8673" target="_blan
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Love on the Spectrum: Australia*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81265493" target="_blank">Netflix_link</a> |
 | N/A |  | 1945 | <details> <summary><strong style="color:#1f6feb;">*Five Came Back: The Reference Films*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81405851" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BOGQ0MjViMTgtMTNkOS00YWViLWFjZGItMjg2ODk1YWU2YzY3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Chef's Table: Legends*</strong></summary>  <div class="movie-plot">Celebrating a decade of culinary excellence, spotlights iconic chefs whose groundbreaking work and global influence revolutionized modern gastronomy and inspired countless others.</div> </details> | <a href="https://www.imdb.com/title/tt33332486/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81712001" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*A Child of My Own*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81712344" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNjVhZTlkYTgtNWExYy00OWZhLWI0ZGMtZWVjNDZlM2EyOWQ2XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Attack on London: Hunting The 7/7 Bombers*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt37182077/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81715711" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Rafa*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81785900" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZmYxZjA5YmItMjJkYi00NzllLWJjMzgtZjFjZjBlZGQwMmRkXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Perfect Neighbor*</strong></summary>  <div class="movie-plot">A minor disagreement between neighbors in Florida takes a lethal turn, with police body camera footage and interviews probing the aftermath of the state's controversial "stand your ground" laws.</div> </details> | <a href="https://www.imdb.com/title/tt34962891/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82018736" target="_blank">Netflix_link</a> |
@@ -254,6 +255,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/8673" target="_blan
 
  
 ---
-*Page last updated on: 2026-07-22*
+*Page last updated on: 2026-08-15*
 
  

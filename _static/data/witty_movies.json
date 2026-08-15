@@ -71,6 +71,23 @@
       "Country": "United States"
     },
     {
+      "title": "Clueless",
+      "netflix_url": "https://www.netflix.com/title/384406",
+      "year": "1995",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0112697",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwYjQ1NDktOTcwNi00MWZhLTliYWQtZDg5NjZhY2U5ZTNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Amy Heckerling",
+      "Writer": "Amy Heckerling",
+      "Actors": "Alicia Silverstone, Stacey Dash, Brittany Murphy",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Fargo",
       "netflix_url": "https://www.netflix.com/title/493387",
       "year": "1996",
@@ -273,6 +290,23 @@
       "Actors": "Woody Allen, Jason Biggs, Christina Ricci",
       "Language": "English, Latin",
       "Country": "United States, France, United Kingdom"
+    },
+    {
+      "title": "Something's Gotta Give",
+      "netflix_url": "https://www.netflix.com/title/60031278",
+      "year": "2003",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0337741",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjZjMWM4MmQtMGQ5Ni00MzRiLWFiNjAtYzg2NmZmNGJmMGI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A swinger on the cusp of being a senior citizen with a taste for young women falls in love with an accomplished woman closer to his age.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Nancy Meyers",
+      "Writer": "Nancy Meyers",
+      "Actors": "Jack Nicholson, Diane Keaton, Keanu Reeves",
+      "Language": "English, French",
+      "Country": "United States"
     },
     {
       "title": "Mean Girls",
@@ -1132,6 +1166,23 @@
       "Director": "Kirsten Johnson",
       "Writer": "Nels Bangerter, Kirsten Johnson",
       "Actors": "Michael Hilow, Ana Hoffman, Dick Johnson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Eighth Grade",
+      "netflix_url": "https://www.netflix.com/title/80238596",
+      "year": "2018",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt7014006",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyYzNiZTQtZGEwYi00ZjdiLTk5ZjctYTAxZTY3YmY0OThlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An introverted teenage girl tries to survive the last week of her disastrous eighth grade year before leaving to start high school.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Bo Burnham",
+      "Writer": "Bo Burnham",
+      "Actors": "Elsie Fisher, Josh Hamilton, Emily Robinson",
       "Language": "English",
       "Country": "United States"
     },

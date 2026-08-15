@@ -119,6 +119,23 @@
       "Country": "United States, Cuba, Mexico"
     },
     {
+      "title": "Somm",
+      "netflix_url": "https://www.netflix.com/title/70273636",
+      "year": "2012",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt2204371",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDQ4MTY1OF5BMl5BanBnXkFtZTcwMTMzMTgwOA@@._V1_SX300.jpg",
+      "Plot": "Four sommeliers attempt to pass the prestigious Master Sommelier exam, a test with one of the lowest pass rates in the world.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Jason Wise",
+      "Writer": "Jason Wise",
+      "Actors": "Bo Barrett, Shayn Bjornholm, Dave Cauble",
+      "Language": "English, Italian, German, French",
+      "Country": "United States"
+    },
+    {
       "title": "What Happened, Miss Simone?",
       "netflix_url": "https://www.netflix.com/title/70308063",
       "year": "2015",
@@ -2787,6 +2804,13 @@
       "imdb_id": null
     },
     {
+      "title": "A Child of My Own",
+      "netflix_url": "https://www.netflix.com/title/81712344",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Dynasty: The Murdochs",
       "netflix_url": "https://www.netflix.com/title/81712688",
       "year": "2026",
@@ -2988,6 +3012,23 @@
       "imdb_id": null
     },
     {
+      "title": "James.",
+      "netflix_url": "https://www.netflix.com/title/81757220",
+      "year": "2026",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt35636900",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk0OTJhMDktZTY1Mi00NmQ2LTg4NjItMzU0NTllYWZmMDdmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "A documentary following soccer star James Rodríguez's journey through professional football, spanning his rise in club soccer, national team success, and path toward the 2026 World Cup.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "James Rodríguez",
+      "Language": "Spanish",
+      "Country": "Colombia"
+    },
+    {
       "title": "Sue Bird: In the Clutch",
       "netflix_url": "https://www.netflix.com/title/81758143",
       "year": "2024",
@@ -3071,6 +3112,13 @@
       "Actors": "Will Ferrell, Harper Steele, Tina Fey",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "MOURINHO",
+      "netflix_url": "https://www.netflix.com/title/81762073",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Modern Masters: SS Rajamouli",

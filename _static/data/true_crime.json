@@ -3775,6 +3775,13 @@
       "Country": "United States"
     },
     {
+      "title": "Inside The Trustor Scandal",
+      "netflix_url": "https://www.netflix.com/title/81657772",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Holy Spider",
       "netflix_url": "https://www.netflix.com/title/81659282",
       "year": "2022",
@@ -3943,6 +3950,13 @@
       "Country": "United States"
     },
     {
+      "title": "The Idaho Murders: College Nightmare",
+      "netflix_url": "https://www.netflix.com/title/81683870",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Monster of Florence",
       "netflix_url": "https://www.netflix.com/title/81684762",
       "year": "2025",
@@ -4064,6 +4078,13 @@
     {
       "title": "Elize: Shadows of a Woman",
       "netflix_url": "https://www.netflix.com/title/81701598",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Conversations with a Killer: The Charles Manson Tapes",
+      "netflix_url": "https://www.netflix.com/title/81705440",
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
@@ -4600,6 +4621,23 @@
       "Country": "United States"
     },
     {
+      "title": "A Toxic Love Story",
+      "netflix_url": "https://www.netflix.com/title/81923353",
+      "year": "2026",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt41437333",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzIwM2NiYjktZDQyYy00ZDE4LWI3NDEtNmYyM2M0MzY3ZmYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg",
+      "Plot": "It follows the story of Vandana, whose marriage unravels due to betrayal and dangerous choices, leading to a \"poisonous\" love story.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Romance",
+      "Director": "Bilal Ahamad Bhagat",
+      "Writer": "Rahhat Shah Kazmi",
+      "Actors": "Navina Bole, Ritu Rajput, Shoib Nikash Shah",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Should I Marry A Murderer?",
       "netflix_url": "https://www.netflix.com/title/81924891",
       "year": "2026",
@@ -4898,6 +4936,23 @@
       "Actors": "Jeff Cameron, Donald O'Brien, Alfredo Rizzo",
       "Language": "Italian",
       "Country": "Italy"
+    },
+    {
+      "title": "The Dating App Killer: The Monica White Story",
+      "netflix_url": "https://www.netflix.com/title/82949133",
+      "year": "2026",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt39444441",
+      "Poster": "N/A",
+      "Plot": "A divorcee reenters the dating pool by creating an online profile, but when her match displays unsettling behavior and a series of women from the same dating site go missing, she must save herself from becoming the next victim.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Thriller",
+      "Director": "Elisabeth Röhm",
+      "Writer": "Miriam Van Emst, David Weaver",
+      "Actors": "Shyinne Anastacio, Princess Davis, Spencer Graham",
+      "Language": "English",
+      "Country": "Canada"
     }
   ]
 }

@@ -97,6 +97,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/100379" target="_bl
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMDcxMjA4NjctOWY2Yi00NjEyLTg3YzctYjdlNWI5YTcwM2QwXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Crap Happens*</strong></summary>  <div class="movie-plot">Rapper Toni comes home for his mom's funeral and must balance his music ambitions with unexpectedly becoming father to a teenage son.</div> </details> | <a href="https://www.imdb.com/title/tt34458461/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81675881" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Dudes*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt33034757/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81720673" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNDExMzdiZjEtZTAxOC00YzM2LTkyZDMtZjc2NmYxMWYxODY3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Poldi*</strong></summary>  <div class="movie-plot">The left foot: infamous. The guy behind it: legendary. Lukas tells his story in Poldi.</div> </details> | <a href="https://www.imdb.com/title/tt42456008/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81758402" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*My Best Friend, His Girlfriend and Me*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82032039" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -135,6 +136,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/100379" target="_bl
 
  
 ---
-*Page last updated on: 2026-07-22*
+*Page last updated on: 2026-08-15*
 
  

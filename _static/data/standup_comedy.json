@@ -493,6 +493,23 @@
       "Country": "United States"
     },
     {
+      "title": "Reggie Watts: Spatial",
+      "netflix_url": "https://www.netflix.com/title/80115673",
+      "year": "2016",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt5861260",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDBmNjItNWVjZi00YzhhLWIxZmUtZjZlYjRhYjJlNjcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Completely improvised show weaving together sketches, short stories, and dream sequences, filmed live on a soundstage in Los Angeles, Watts waxes poetic about flight, grits, and guns.",
+      "Type": "movie",
+      "RunTime": "61 min",
+      "Genre": "Comedy, Music",
+      "Director": "Benjamin Dickinson",
+      "Writer": "N/A",
+      "Actors": "Rory Scovel, Reggie Watts",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Neal Brennan: 3 Mics",
       "netflix_url": "https://www.netflix.com/title/80117452",
       "year": "2017",
@@ -1259,6 +1276,23 @@
       "Director": "Marcus Raboy",
       "Writer": "Ryan Hamilton",
       "Actors": "Ryan Hamilton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Trevor Noah: Lost in Translation",
+      "netflix_url": "https://www.netflix.com/title/80185167",
+      "year": "2015",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt5250938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTY1NDU3M2UtZDVkNy00YmVkLWJkN2UtNGI3ZjgzODI1NjRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this one hour special, Trevor Noah talks about everything from terrorism to police brutality, Ebola, his grandmother and the origin of the cheer \"woo-hoo\".",
+      "Type": "movie",
+      "RunTime": "62 min",
+      "Genre": "Comedy",
+      "Director": "David Paul Meyer",
+      "Writer": "Trevor Noah",
+      "Actors": "Trevor Noah",
       "Language": "English",
       "Country": "United States"
     },
@@ -5332,6 +5366,13 @@
       "Country": "United States"
     },
     {
+      "title": "Rory Scovel: Show Must Go On",
+      "netflix_url": "https://www.netflix.com/title/82079240",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Dusty Slay: Wet Heat",
       "netflix_url": "https://www.netflix.com/title/82079241",
       "year": "2025",
@@ -5369,8 +5410,18 @@
       "title": "The Hot Seat",
       "netflix_url": "https://www.netflix.com/title/82083327",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt40550189",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODM0OWI2OWMtNWU5ZS00NDkxLWE0NmMtNDg2MTY5MmZmZDVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Short",
+      "Director": "Jeffery C. Campbell",
+      "Writer": "Joey The Count Krsak",
+      "Actors": "Jeffery C. Campbell, Joey The Count Krsak, Mary Manos-Mitchem",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Derrick Stroup: Nostalgic",
@@ -5393,6 +5444,23 @@
       "Director": "Erik Griffin",
       "Writer": "N/A",
       "Actors": "Matt Rife",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Mary Beth Barone: Galaxy Brain",
+      "netflix_url": "https://www.netflix.com/title/82148356",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt38843957",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjk0YTJjMWQtMmVkYS00ZjY0LTk5ZTUtNDg1MmFmZTUxMjRjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "Plot": "This marks Mary Beth Barone's first hour-long comedy special.",
+      "Type": "movie",
+      "RunTime": "60 min",
+      "Genre": "Documentary, Comedy",
+      "Director": "Ky Newman",
+      "Writer": "N/A",
+      "Actors": "Mary Beth Barone",
       "Language": "English",
       "Country": "United States"
     },
@@ -5620,6 +5688,23 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Joe DeRosa: I Never Promised You a Rose Garden",
+      "netflix_url": "https://www.netflix.com/title/82766685",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37666574",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDg2ZTllZjEtZDdiMC00NWQ0LWI3YzYtNzY0Mzg5NGIzYzUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "\"I Never Promised You A Rose Garden\" is an all-new hour of hopeless comedy derived from the troubled mind of Joe DeRosa. Celebrating pure evil, abandonment, and societal collapse, Joe's bleak outlook on society will actually bring...",
+      "Type": "movie",
+      "RunTime": "60 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Joe DeRosa",
+      "Actors": "Joe DeRosa",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "KillTonyMania",

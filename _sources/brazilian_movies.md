@@ -138,6 +138,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/798" target="_blank
 | N/A | <img src="https://occ-0-1339-1340.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWgr3nHhHjUB7HSdtp-tCiRClgaLfYVRV0cTnkHNicG8xZfxGyu5-wGyvE-83ki6s8rYcL7nLUzQ0oFtTHEgsWaF4mCyeerrPg0Z.jpg?r=ca3" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Almost Family*</strong></summary>  <div class="movie-plot">A young woman who yearns for intimacy and family lives platonically with her gay ex-boyfriend while caring for the children of divorcing parents.</div> </details> | <a href="https://www.imdb.com/title/tt3163392/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81711168" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Conversations with Ruth de Souza*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81730289" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Son of a Thousand Men*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81739139" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Nando Between Two Worlds - A Sintonia Film*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81765140" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Uncredited: The Story of Passinho*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81771367" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMDNkNGY1OWUtYTkxZi00NWQ5LWE0ZWEtZWFiYmQxMzBmNWVlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Making Senna*</strong></summary>  <div class="movie-plot">Featuring cast and crew interviews, this special explores the creative and technical challenges of bringing Ayrton Senna's story to the screen.</div> </details> | <a href="https://www.imdb.com/title/tt34913054/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81772098" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*My Korean Boyfriend*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81902017" target="_blank">Netflix_link</a> |
@@ -145,6 +146,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/798" target="_blank
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMDE1YjJmYWQtMzM1ZS00OWExLWJhY2YtMWY2NjE0ODMyNzI1XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*USA 94: Brazil's Return to Glory*</strong></summary>  <div class="movie-plot">Follows Brazil's journey to winning its fourth World Cup in 1994, featuring interviews with players and unseen behind-the-scenes footage from the tournament.</div> </details> | <a href="https://www.imdb.com/title/tt40618609/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82032990" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Best Mother in the World*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82043086" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Deive Leonardo - Before & After*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82086862" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Daddy’s in Trouble*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82887570" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -183,6 +185,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/798" target="_blank
 
  
 ---
-*Page last updated on: 2026-07-22*
+*Page last updated on: 2026-08-15*
 
  

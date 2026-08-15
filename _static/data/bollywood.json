@@ -411,6 +411,23 @@
       "Country": "India"
     },
     {
+      "title": "Nakhuda",
+      "netflix_url": "https://www.netflix.com/title/60022111",
+      "year": "1981",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0341496",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc2OWM0Y2EtNTkyMS00Njc2LWE4MGEtNjQzMmNlNWZhNzdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A story about choices to be made between relationships - relationships with one's mentor, one's love and family.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "Dilip Naik",
+      "Writer": "N/A",
+      "Actors": "Kulbhushan Kharbanda, Raj Kiran, Swaroop Sampat",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Saathiya",
       "netflix_url": "https://www.netflix.com/title/60034293",
       "year": "2002",
@@ -764,6 +781,40 @@
       "Director": "Amol Palekar",
       "Writer": "Vijayadan Detha, Sandhya Gokhale, Amol Palekar",
       "Actors": "Shah Rukh Khan, Rani Mukerji, Anupam Kher",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Faasle",
+      "netflix_url": "https://www.netflix.com/title/70041993",
+      "year": "1985",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt0089119",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjYmE5OTgtZmY2MC00ZDQzLTk1ZGItYzQ2MWFmNTQwYzA0XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_SX300.jpg",
+      "Plot": "A story of the blind sense of duty of the elders and the self-confidence and arrogance of the young. Both think they are right for the sake of love.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Drama, Romance",
+      "Director": "Yash Chopra",
+      "Writer": "Sachin Bhowmick, Sagar Sarhadi",
+      "Actors": "Sunil Dutt, Rekha, Rohan Kapoor",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Noorie",
+      "netflix_url": "https://www.netflix.com/title/70042008",
+      "year": "1979",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0309926",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDhiMDdmNmQtNzgyOC00ZjFiLThmMjYtNjU5NjQ5ZDliNzBmXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_SX300.jpg",
+      "Plot": "NOORIE tells a simple and touching story of Noorie and Yusuf's fearless love and dream at all cost.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "Manmohan Krishna",
+      "Writer": "N/A",
+      "Actors": "Farooq Shaikh, Poonam Dhillon, Madan Puri",
       "Language": "Hindi",
       "Country": "India"
     },
@@ -3119,6 +3170,23 @@
       "imdb_id": null
     },
     {
+      "title": "Jai Mummy Di",
+      "netflix_url": "https://www.netflix.com/title/81241439",
+      "year": "2020",
+      "imdb_rating": "3.7",
+      "imdb_id": "tt9817760",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2M1MzZmYmMtYmFjMi00M2QwLWI0OWItZTVlODY2YzhmNTFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jai Mummy Di is a light-hearted family comedy that portrays the trials and tribulations a couple has to undergo due to the dynamics between their respective mothers.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Navjot Gulati",
+      "Writer": "Navjot Gulati",
+      "Actors": "Poonam Dhillon, Supriya Pathak, Sunny Singh",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Pagglait",
       "netflix_url": "https://www.netflix.com/title/81242571",
       "year": "2021",
@@ -3149,6 +3217,23 @@
       "Director": "Sabbir Khan, Arjunsinh Pravinsinh Zala",
       "Writer": "Sabbir Khan, Venu Sriram, Sanamjit Singh Talwar",
       "Actors": "Abhimanyu Dasani, Shilpa Shetty Kundra, Shirley Setia",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Hurdang",
+      "netflix_url": "https://www.netflix.com/title/81243745",
+      "year": "2022",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt10919304",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGI2YjE5ZDEtM2MwNS00YjNhLTg5OWYtMGM5YjRhNjEwOWE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Back in the 1990s, an aspiring IAS starts a rebellion against the caste-based reservation.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Drama, Romance",
+      "Director": "Nikhil Nagesh Bhat, Vishal Chaturvedi",
+      "Writer": "Nikhil Nagesh Bhat, Kuldeep Ruhil",
+      "Actors": "Sunny Kaushal, Nushrratt Bharuccha, Vijay Varma",
       "Language": "Hindi",
       "Country": "India"
     },
@@ -5239,6 +5324,23 @@
       "Country": "India"
     },
     {
+      "title": "Cocktail 2",
+      "netflix_url": "https://www.netflix.com/title/81912924",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35064672",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODIyNjZkZTYtOGY4Zi00NmRkLTk3NDUtYjc2MzlhYTNmZGQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Homi Adajania",
+      "Writer": "Luv Ranjan",
+      "Actors": "Amitabh Bachchan, Kriti Sanon, Rashmika Mandanna",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Raat Akeli Hai - The Bansal Murders",
       "netflix_url": "https://www.netflix.com/title/81922895",
       "year": "2025",
@@ -5431,6 +5533,13 @@
       "Actors": "Akshay Kumar, Paresh Rawal, Tabu",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Main Vaapas Aaunga",
+      "netflix_url": "https://www.netflix.com/title/82018915",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Mardaani 3",

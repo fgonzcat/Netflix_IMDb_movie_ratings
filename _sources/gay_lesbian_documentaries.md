@@ -36,6 +36,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/4720" target="_blan
 | 6.2 | <img src="https://m.media-amazon.com/images/M/MV5BODQ2NjNkYzUtNzgyMC00NmUxLTlkMzUtMzAwYzBkNzdjNzdhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*The Dads*</strong></summary>  <div class="movie-plot">Five fathers of trans children join Dennis Shepard - the father of Matthew Shepard - for a weekend fishing trip where they find common ground across racial, geographical and generational lines: their unconditional love for their c...</div> </details> | <a href="https://www.imdb.com/title/tt26218256/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81700362" target="_blank">Netflix_link</a> |
 | 6.0 | <img src="https://m.media-amazon.com/images/M/MV5BYzlkNjdmMDQtNWRkZC00NjNhLWJkYzItYzk2MDE0ZDhlMTI4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Lali: Time to Step Up*</strong></summary>  <div class="movie-plot">Pop star Lali pulls back the curtain in this intimate documentary, tracking her artistic evolution and self-discovery while on her first stadium tour.</div> </details> | <a href="https://www.imdb.com/title/tt38644597/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81940759" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Juan Gabriel: I Must, I Can, I Will*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81977112" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Heartstopper: Ending on a Hi*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82947745" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -74,6 +75,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/4720" target="_blan
 
  
 ---
-*Page last updated on: 2026-07-22*
+*Page last updated on: 2026-08-15*
 
  

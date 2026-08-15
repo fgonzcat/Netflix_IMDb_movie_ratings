@@ -84,6 +84,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5685" target="_blan
 | N/A | <img src="https://occ-0-1339-1340.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSvuhbEOHvdvGjPuWNGhDgCELunLdApkq58zSszyoasIXAFJXQP_6b7AhjMkex95BUJCMBNpbRhv8LZg2ZXcgrz0wdjnRSf30al_.jpg?r=ed0" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Pavane*</strong></summary>  <div class="movie-plot">For 30 years, Cora has woken up every morning at 4am to go work at the factory and raise her daughter, Alex, gone to Paris, much to Cora's regret, to try to become a filmmaker. As Cora is about to retire, she would very much like ...</div> </details> | <a href="https://www.imdb.com/title/tt20421074/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82103772" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BNTcyYThkMmYtNzY2NS00ZjU0LTk3YzYtOThlNWNmNThiYWZlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2025 | <details> <summary><strong style="color:#1f6feb;">*Bebefinn Sing-Along Movie: Into the Pinkfong World*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt37510071/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82151618" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BZjliZDRkZTYtYTBkNi00NzAxLTg0YmQtODE0YjVmNWNjNjhiXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Humint*</strong></summary>  <div class="movie-plot">An espionage action film depicting North and South Korean secret agents clashing while investigating crimes occurring on the Vladivostok border.</div> </details> | <a href="https://www.imdb.com/title/tt32606470/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82682318" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Wild Sing*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82821393" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -122,6 +123,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5685" target="_blan
 
  
 ---
-*Page last updated on: 2026-07-22*
+*Page last updated on: 2026-08-15*
 
  

@@ -748,6 +748,23 @@
       "Country": "United States"
     },
     {
+      "title": "Rita",
+      "netflix_url": "https://www.netflix.com/title/70285368",
+      "year": "2020",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt1973692",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGVhNWMwMjAtYTEzZi00ZjdhLTkxOTItODFlMGQxMjUwMDNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Schoolteacher Rita is a very outspoken, rebellious woman who is competent in the classroom but needs her own advisor when it comes to her personal life.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Christian Torpe",
+      "Actors": "Mille Dinesen, Lise Baastrup, Nikolaj Groth",
+      "Language": "Danish",
+      "Country": "Denmark"
+    },
+    {
       "title": "Zig & Sharko",
       "netflix_url": "https://www.netflix.com/title/70286809",
       "year": "2019",
@@ -2674,6 +2691,23 @@
       "Country": "United States"
     },
     {
+      "title": "Wanderlust",
+      "netflix_url": "https://www.netflix.com/title/80211465",
+      "year": "2018",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt7608238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzAyNTU3ODY4Ml5BMl5BanBnXkFtZTgwNDE5OTQ1NjM@._V1_SX300.jpg",
+      "Plot": "A therapist tries to save her marriage after a cycling accident causes them to reassess their relationship.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Toni Collette, Steven Mackintosh, Joe Hurst",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Mighty Little Bheem",
       "netflix_url": "https://www.netflix.com/title/80211492",
       "year": "2020",
@@ -2927,6 +2961,23 @@
       "Actors": "Melendy Britt, George DiCenzo, John Erwin",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Duchess",
+      "netflix_url": "https://www.netflix.com/title/80223040",
+      "year": "2020",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt9310390",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTcxN2M2YWYtZmIyOS00ZjdjLWFiMWItZmE5YzgyZjA5ZWU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A single mom tries to raise her daughter in London while wondering if she should have another kid.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Katherine Ryan",
+      "Actors": "Katherine Ryan, Rory Keenan, Katy Byrne",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Prince of Peoria",
@@ -4661,6 +4712,13 @@
       "Country": "United States"
     },
     {
+      "title": "Pernille",
+      "netflix_url": "https://www.netflix.com/title/81082296",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Home for Christmas",
       "netflix_url": "https://www.netflix.com/title/81083590",
       "year": "2025",
@@ -5404,6 +5462,23 @@
       "Actors": "Richard Gadd, Jessica Gunning, Nava Mau",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Man Vs Bee",
+      "netflix_url": "https://www.netflix.com/title/81222715",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt13640670",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzIxMmU0MzktZGQ3ZS00NDQ4LWFmMDctZjg4OWRmYzZiYzhlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man finds himself at war with a bee while housesitting a luxurious mansion. Who will win, and what irreparable damage will be done in the process?",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Short, Comedy, Family",
+      "Director": "N/A",
+      "Writer": "Rowan Atkinson, William Davies",
+      "Actors": "Rowan Atkinson, Claudie Blakley, Jing Lusi",
+      "Language": "English, Persian",
+      "Country": "United Kingdom"
     },
     {
       "title": "The Secret Life of My Secretary",
@@ -6935,6 +7010,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Russell Howard: Lubricant",
+      "netflix_url": "https://www.netflix.com/title/81435750",
+      "year": "2021",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt16146342",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjQxYmI4YjItMjAyZS00ODdhLWI4NGItNzE4MmMyMWJhMGRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Until the Wheels Come Off is the story of a comedy obsession persevering through the grip of a global pandemic.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Russell Howard, John Oliver, Will Hodgson",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Everything Now",
       "netflix_url": "https://www.netflix.com/title/81437049",
       "year": "2023",
@@ -7195,6 +7287,23 @@
       "Actors": "Randall Park, Melissa Fumero, Olga Merediz",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Romesh Ranganathan: The Cynic",
+      "netflix_url": "https://www.netflix.com/title/81472368",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt23157336",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGZkYmEzNGItZjQwZi00YmQ2LWEwZjMtZjZjZWE3ZGNkMDU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Going back to his hometown of Crawley, England, Romesh Ranganathan will talk about vegan-ism, his kids - and offers a peek into the making of his comedy special.",
+      "Type": "movie",
+      "RunTime": "62 min",
+      "Genre": "Comedy",
+      "Director": "Benjamin Green",
+      "Writer": "N/A",
+      "Actors": "Romesh Ranganathan",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "The Hughleys",
@@ -8204,6 +8313,13 @@
       "Country": "United States"
     },
     {
+      "title": "Ricky Gervais Alley Cats",
+      "netflix_url": "https://www.netflix.com/title/81658840",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Super Subbu",
       "netflix_url": "https://www.netflix.com/title/81660220",
       "year": "2026",
@@ -8876,6 +8992,23 @@
       "Actors": "Chun Woo-hee, Park Hae-joon, Ryu Jun-yeol",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Jack Whitehall: Fatherhood with My Father",
+      "netflix_url": "https://www.netflix.com/title/81720621",
+      "year": "2024",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt28756879",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2JjNTFiOTMtYjlkMC00NjFiLWIzNTAtMjc2ZDQ4NWUyMzdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow Jack and his father Michael on a path of discovery and adventure ahead of Jack's impending fatherhood.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jack Whitehall, Michael Whitehall",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Dudes",
@@ -9947,6 +10080,13 @@
       "Country": "South Korea"
     },
     {
+      "title": "Our Sticky Love",
+      "netflix_url": "https://www.netflix.com/title/82048302",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Funny AF with Kevin Hart",
       "netflix_url": "https://www.netflix.com/title/82054722",
       "year": "2026",
@@ -10172,6 +10312,23 @@
       "Country": "United States"
     },
     {
+      "title": "Best Medicine",
+      "netflix_url": "https://www.netflix.com/title/82623340",
+      "year": "2026",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt36885662",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWJhNTY2NzYtZDk2Yy00OTQzLWExZDUtNTYzMGNmNzZjNjkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A brilliant surgeon leaves Boston to become a small-town doctor where he spent childhood summers. Despite his medical skills, his rude manner alienates locals as he battles hidden phobias and struggles with personal connections.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Josh Charles, Abigail Spencer, Josh Segarra",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Undercover Miss Hong",
       "netflix_url": "https://www.netflix.com/title/82632108",
       "year": "2026",
@@ -10309,6 +10466,13 @@
       "imdb_id": null
     },
     {
+      "title": "The Founder5 II: Unfinished Business",
+      "netflix_url": "https://www.netflix.com/title/82717974",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Dunia Tanpa Tuhan",
       "netflix_url": "https://www.netflix.com/title/82723142",
       "year": "2026",
@@ -10391,6 +10555,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "Class Crush Crisis",
+      "netflix_url": "https://www.netflix.com/title/82761927",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39444616",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjJlM2YxN2EtNWI1My00NDI1LWJkYjYtZmJkYTY3YmQ3ZWExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Lee-ith dreams of becoming a cool indie rock musician. Because of his complete disregard for his studies, his mother sends him to a new school, one that's accepting male students for the first time this year. He immediately clashe...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Yujeen Aeiyapol Lekpittaya, Yugene Yannawat Intarapaen, Penpetch Benyakul",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
       "title": "Everyone Is Doing Great",
       "netflix_url": "https://www.netflix.com/title/82769084",
       "year": "2026",
@@ -10406,6 +10587,23 @@
       "Actors": "James Lafferty, Stephen Colletti, Alexandra Park",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Unlucky Bae",
+      "netflix_url": "https://www.netflix.com/title/82779822",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt39029359",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Y2Y2FjNGYtZTczYi00MDliLWE3NWQtZjc5M2E2OWI3ZDg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In trying to curse the guy who just dumped him, Rin, a fine arts student and heir to a family of sorcerers, accidentally hits the wrong person. Khobfah, a third-year business administration student, with his spell. While he can't ...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mac Nattapat Nimjirawat, Tham Tupthong Suwanrakanont, Aun Napat Patcharachavalit",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "KillTonyMania",
@@ -10461,6 +10659,13 @@
     {
       "title": "Bill Maher: The Kennedy Center Mark Twain Prize for American Humor",
       "netflix_url": "https://www.netflix.com/title/82841637",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Vacation Principle",
+      "netflix_url": "https://www.netflix.com/title/82852658",
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null

@@ -156,6 +156,23 @@
       "Country": "United States"
     },
     {
+      "title": "Tortilla Soup",
+      "netflix_url": "https://www.netflix.com/title/60020787",
+      "year": "2001",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0255653",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmVhN2E1ZDgtODQ1Yy00MDU4LTgyYmQtNzczYmVhY2ZhYjlhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Mexican-American master chef and father to three daughters has lost his taste for food, but not for life.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Romance, Drama",
+      "Director": "Maria Ripoll",
+      "Writer": "Hui-Ling Wang, Ang Lee, James Schamus",
+      "Actors": "Hector Elizondo, Jacqueline Obradors, Tamara Mello",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Waiting for Guffman",
       "netflix_url": "https://www.netflix.com/title/60020901",
       "year": "1996",
@@ -188,6 +205,23 @@
       "Actors": "Maribel Verdú, Gael García Bernal, Daniel Giménez Cacho",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Party Girl",
+      "netflix_url": "https://www.netflix.com/title/60025328",
+      "year": "1995",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt0114095",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI4NTdmZjUtNGJlMS00ZTRlLTk5ZTQtNjg3ODk3MmNkNzI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A 20-something, irresponsible party girl is bailed out of jail by her librarian godmother. To repay the loan, she starts working at the library and gradually turns her life around.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Daisy von Scherler Mayer",
+      "Writer": "Harry Birckmayer, Daisy von Scherler Mayer, Sheila Gaffney",
+      "Actors": "Parker Posey, Omar Townsend, The Lady Bunny",
+      "Language": "English, Arabic",
+      "Country": "United States"
     },
     {
       "title": "The Passion of the Christ",
@@ -409,6 +443,23 @@
       "Actors": "Jeff Daniels, Lauren Graham, Lou Taylor Pucci",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "I Love You Phillip Morris",
+      "netflix_url": "https://www.netflix.com/title/70112491",
+      "year": "2009",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1045772",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmE1ZDQwNGUtYTIwOS00YmRiLTllOGItNjBiNDNhMmJmNWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A cop turns con man once he comes out of the closet. Once imprisoned, he meets the second love of his life, whom he'll stop at nothing to be with.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Biography, Comedy, Crime",
+      "Director": "Glenn Ficarra, John Requa",
+      "Writer": "John Requa, Glenn Ficarra, Steve McVicker",
+      "Actors": "Jim Carrey, Ewan McGregor, Leslie Mann",
+      "Language": "English, Spanish",
+      "Country": "France, United States"
     },
     {
       "title": "Satan",
@@ -1982,6 +2033,40 @@
       "Country": "United States"
     },
     {
+      "title": "Ingrid Goes West",
+      "netflix_url": "https://www.netflix.com/title/80170871",
+      "year": "2017",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt5962210",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzE3Mzc5NTc4M15BMl5BanBnXkFtZTgwMDYwNzM3MjI@._V1_SX300.jpg",
+      "Plot": "After her release from a psychiatric ward, a woman obsessed with social media moves to LA to stalk an Instagram star, but her plan takes a dark turn.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Matt Spicer",
+      "Writer": "David Branson Smith, Matt Spicer",
+      "Actors": "Aubrey Plaza, Elizabeth Olsen, O'Shea Jackson Jr.",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Person to Person",
+      "netflix_url": "https://www.netflix.com/title/80170990",
+      "year": "2017",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt5247026",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzgzMmE5ZjYtOTA2ZC00MmJkLWIwMGQtNmY3ZTIyMjJkZmY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows a variety of New York characters as they navigate personal relationships and unexpected problems over the course of one day.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Dustin Guy Defa",
+      "Writer": "Dustin Guy Defa",
+      "Actors": "Abbi Jacobson, Michael Cera, Tavi Gevinson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Incredible Jessica James",
       "netflix_url": "https://www.netflix.com/title/80171022",
       "year": "2017",
@@ -2470,6 +2555,23 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Eighth Grade",
+      "netflix_url": "https://www.netflix.com/title/80238596",
+      "year": "2018",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt7014006",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyYzNiZTQtZGEwYi00ZjdiLTk5ZjctYTAxZTY3YmY0OThlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An introverted teenage girl tries to survive the last week of her disastrous eighth grade year before leaving to start high school.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Bo Burnham",
+      "Writer": "Bo Burnham",
+      "Actors": "Elsie Fisher, Josh Hamilton, Emily Robinson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Boy Erased",
@@ -3232,6 +3334,23 @@
       "Actors": "Alison Brie, Molly Shannon, Goldenite",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Woman at War",
+      "netflix_url": "https://www.netflix.com/title/81071477",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt7279188",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQzODFiNmYtNjYzOC00ZGVlLTlhOTEtYTkzMTA0NDVjMjE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Halla becomes a determined environmental activist, but this threatens a long-held hope of hers.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Adventure, Comedy, Drama",
+      "Director": "Benedikt Erlingsson",
+      "Writer": "Benedikt Erlingsson, Ólafur Egilsson",
+      "Actors": "Halldóra Geirharðsdóttir, Jóhann Sigurðarson, Juan Camilo Román Estrada",
+      "Language": "Icelandic, English, Ukrainian, Chinese, Spanish",
+      "Country": "Iceland, France, Ukraine"
     },
     {
       "title": "System Crasher",
@@ -4153,6 +4272,23 @@
       "Director": "Sean Baker",
       "Writer": "Sean Baker, Chris Bergoch",
       "Actors": "Simon Rex, Bree Elrod, Suzanna Son",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Violet",
+      "netflix_url": "https://www.netflix.com/title/81489919",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt6852672",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMThkMzJhNzItYTAxYi00ODY1LThjMDAtNmMxYmYzZWY3MTVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Violet realizes that her entire life is built on fear-based decisions, and must do everything differently to become her true self.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Drama",
+      "Director": "Justine Bateman",
+      "Writer": "Justine Bateman",
+      "Actors": "Olivia Munn, Luke Bracey, Justin Theroux",
       "Language": "English",
       "Country": "United States"
     },
@@ -5174,6 +5310,23 @@
       "Country": "United States"
     },
     {
+      "title": "Immaculate",
+      "netflix_url": "https://www.netflix.com/title/81952361",
+      "year": "2024",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt23137390",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWEzYjYyMjQtNTJjYi00ZDQ5LWE4N2MtNWY2ZTgxODNhYWM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Cecilia, a woman of devout faith, is warmly welcomed to the picture-perfect Italian countryside where she is offered a new role at an illustrious convent. But it becomes clear to Cecilia that her new home harbors dark and horrifyi...",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Michael Mohan",
+      "Writer": "Andrew Lobel",
+      "Actors": "Sydney Sweeney, Álvaro Morte, Simona Tabasco",
+      "Language": "English, Italian",
+      "Country": "United States"
+    },
+    {
       "title": "Kneecap",
       "netflix_url": "https://www.netflix.com/title/81956594",
       "year": "2024",
@@ -5744,6 +5897,23 @@
       "Actors": "Subash Chandran, Rajesh Madhavan, Raina Radhakrishnan",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Midwinter Break",
+      "netflix_url": "https://www.netflix.com/title/82756866",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt7374950",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjdhYjkzOTMtYWZmMS00YWEyLWFkNDgtNWFlMzZhNGMzNDM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A longtime couple take a life-changing trip to Amsterdam.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "Polly Findlay",
+      "Writer": "Bernard MacLaverty, Nick Payne",
+      "Actors": "Lesley Manville, Ciarán Hinds, Julie Lamberton",
+      "Language": "English",
+      "Country": "Netherlands, United Kingdom"
     },
     {
       "title": "Nee Forever",

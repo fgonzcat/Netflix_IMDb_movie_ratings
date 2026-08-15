@@ -1534,6 +1534,23 @@
       "Country": "China"
     },
     {
+      "title": "Black Adam",
+      "netflix_url": "https://www.netflix.com/title/81416258",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt6443346",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM3OTM4NDktMmI2NS00OWU0LTg4OTQtNjZhMmFkYjhmOGY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Jaume Collet-Serra",
+      "Writer": "Adam Sztykiel, Rory Haines, Sohrab Noshirvani",
+      "Actors": "Dwayne Johnson, Aldis Hodge, Pierce Brosnan",
+      "Language": "English",
+      "Country": "Canada, Hungary, New Zealand, United States"
+    },
+    {
       "title": "Silver Skates",
       "netflix_url": "https://www.netflix.com/title/81418071",
       "year": "2020",
@@ -2150,11 +2167,45 @@
       "Country": "Japan"
     },
     {
+      "title": "To the Max",
+      "netflix_url": "https://www.netflix.com/title/81727028",
+      "year": "2026",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0245280",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIyMDg2NTAyM15BMl5BanBnXkFtZTcwMzg3MDU1MQ@@._V1_SX300.jpg",
+      "Plot": "A documentary that follows Michael Jordan's basketball career, stint in baseball, and his last championship season with the Chicago Bulls in 1998.",
+      "Type": "movie",
+      "RunTime": "46 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Don Kempf, James D. Stern",
+      "Writer": "Jonathan Hock",
+      "Actors": "Michael Jordan, Phil Jackson, Doug Collins",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Rebel Moon — Part Two: Director’s Cut",
       "netflix_url": "https://www.netflix.com/title/81746591",
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Arthur the King",
+      "netflix_url": "https://www.netflix.com/title/81776702",
+      "year": "2024",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt10720352",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDIyN2JjOTQtYTY3MS00OTQwLWJmNjAtYzVmNTU1MWNjNzYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An adventure racer adopts a stray dog named Arthur to join him in an epic endurance race.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Adventure, Drama, Sport",
+      "Director": "Simon Cellan Jones",
+      "Writer": "Michael Brandt, Mikael Lindnord",
+      "Actors": "Mark Wahlberg, Simu Liu, Juliet Rylance",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Jurassic World Rebirth",

@@ -105,6 +105,23 @@
       "Country": "United States, United Kingdom, Germany, Canada"
     },
     {
+      "title": "Tears of the Sun",
+      "netflix_url": "https://www.netflix.com/title/60026139",
+      "year": "2003",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0314353",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzk1NmE2YWItMmNkZi00OTEzLWJkMzctNjFlOWE3Njg2OGI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Special-Ops commander leads his team into the Nigerian jungle in order to rescue a doctor who will only join them if they agree to save 70 refugees too.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Antoine Fuqua",
+      "Writer": "Alex Lasker, Patrick Cirillo",
+      "Actors": "Bruce Willis, Cole Hauser, Monica Bellucci",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Schindler's List",
       "netflix_url": "https://www.netflix.com/title/60036359",
       "year": "1993",
@@ -297,6 +314,23 @@
       "Actors": "Tom Berenger, Chad Michael Collins, Doug Allen, Dominic Mafham",
       "Language": "English",
       "Country": "United States, Bulgaria"
+    },
+    {
+      "title": "American Sniper",
+      "netflix_url": "https://www.netflix.com/title/80013871",
+      "year": "2014",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt2179136",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home with his family after four tours of duty, however, Chris finds that it is the war he can't leave b...",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Biography, Drama",
+      "Director": "Clint Eastwood",
+      "Writer": "Jason Hall, Chris Kyle, Scott McEwen",
+      "Actors": "Bradley Cooper, Sienna Miller, Kyle Gallner",
+      "Language": "English, Arabic",
+      "Country": "United States"
     },
     {
       "title": "The Siege of Jadotville",

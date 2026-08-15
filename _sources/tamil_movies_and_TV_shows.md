@@ -119,7 +119,10 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/107469" target="_bl
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Idli Kadai*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82034831" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*STEPHEN*</strong></summary>  <div class="movie-plot">Stephen's boyfriend recommends an ideal spot for raving, but the party holds unexpected surprises.</div> </details> | <a href="https://www.imdb.com/title/tt35838090/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82057638" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Thugs of Hindostan (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82062358" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BZGRiZmZlOGQtMWMyMS00Yjk2LTkyMjAtYzI5ZGQxMjdhYTBmXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Idhayam Murali*</strong></summary>  <div class="movie-plot">N/A</div> </details> | <a href="https://www.imdb.com/title/tt35723557/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82072500" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BMGFhZDkxYjYtZGViYy00MTgyLTliNWQtOWFlZmNmZmI4MWZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Gatta Kusthi 2*</strong></summary>  <div class="movie-plot">The sequel, which consists of consecutive events following the film Gatta Kusthi (2022).</div> </details> | <a href="https://www.imdb.com/title/tt37458495/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82072530" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BOTI3YTY5ZDAtNTE5NS00MTgxLTlhNDctM2JkOGZjYWQwNTllXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Youth*</strong></summary>  <div class="movie-plot">15-year-old Praveen enters adolescence determined to find true love before school ends. Through relationships and heartbreaks, he discovers love's real meaning, shaping his maturity and outlook on life.</div> </details> | <a href="https://www.imdb.com/title/tt38693888/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82723855" target="_blank">Netflix_link</a> |
+| N/A | <img src="https://m.media-amazon.com/images/M/MV5BODFlOTUzMjktYzRhZi00OTI4LWI0NjctM2Q0ZmI4NWQxMzlmXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*Con City*</strong></summary>  <div class="movie-plot">Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.</div> </details> | <a href="https://www.imdb.com/title/tt39182439/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82776007" target="_blank">Netflix_link</a> |
 
  
  ---
@@ -158,6 +161,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/107469" target="_bl
 
  
 ---
-*Page last updated on: 2026-07-22*
+*Page last updated on: 2026-08-15*
 
  

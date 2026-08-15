@@ -71,6 +71,23 @@
       "Country": "United States"
     },
     {
+      "title": "Atlas Shrugged: Part I",
+      "netflix_url": "https://www.netflix.com/title/70181658",
+      "year": "2011",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0480239",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NDg3NjcxNl5BMl5BanBnXkFtZTgwODQ1MjU5OTE@._V1_SX300.jpg",
+      "Plot": "Railroad executive Dagny Taggart and steel mogul Henry Rearden form an alliance to fight the increasingly authoritarian government of the United States.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "Paul Johansson",
+      "Writer": "Brian Patrick O'Toole, John Aglialoro, Ayn Rand",
+      "Actors": "Taylor Schilling, Grant Bowler, Matthew Marsden",
+      "Language": "English, German",
+      "Country": "United States"
+    },
+    {
       "title": "The Seduction of Joe Tynan",
       "netflix_url": "https://www.netflix.com/title/70181831",
       "year": "1979",
@@ -88,6 +105,13 @@
       "Country": "United States"
     },
     {
+      "title": "Atlas Shrugged: Part II",
+      "netflix_url": "https://www.netflix.com/title/70248595",
+      "year": "2012",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Jobs",
       "netflix_url": "https://www.netflix.com/title/70267266",
       "year": "2013",
@@ -103,6 +127,23 @@
       "Actors": "Ashton Kutcher, Dermot Mulroney, Josh Gad",
       "Language": "English",
       "Country": "United States, Switzerland"
+    },
+    {
+      "title": "Somm",
+      "netflix_url": "https://www.netflix.com/title/70273636",
+      "year": "2012",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt2204371",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDQ4MTY1OF5BMl5BanBnXkFtZTcwMTMzMTgwOA@@._V1_SX300.jpg",
+      "Plot": "Four sommeliers attempt to pass the prestigious Master Sommelier exam, a test with one of the lowest pass rates in the world.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Jason Wise",
+      "Writer": "Jason Wise",
+      "Actors": "Bo Barrett, Shayn Bjornholm, Dave Cauble",
+      "Language": "English, Italian, German, French",
+      "Country": "United States"
     },
     {
       "title": "Knight of Cups",
@@ -1685,6 +1726,23 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "TÁR",
+      "netflix_url": "https://www.netflix.com/title/81594976",
+      "year": "2022",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt4351684",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ2MDdmZDgtZDFiYy00ZGE1LTgzNTctMzUyNDVkNGZjODA2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mysterious creature rises from the depths of the La Brea Tar Pits in Los Angeles to wreak the city.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Aaron Wolf",
+      "Writer": "Timothy Nuttall, Aaron Wolf",
+      "Actors": "Timothy Bottoms, Graham Greene, Aaron Wolf",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "In Her Place",

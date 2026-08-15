@@ -71,6 +71,23 @@
       "Country": "Germany, United States"
     },
     {
+      "title": "National Security",
+      "netflix_url": "https://www.netflix.com/title/60022059",
+      "year": "2003",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0271668",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGFlOWI3MjctMjkwZi00ZGQ5LTgyYzgtNjU1ZjQwNGQ4ZDUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two mismatched security guards are thrown together to bust a smuggling operation.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Dennis Dugan",
+      "Writer": "Jay Scherick, David Ronn",
+      "Actors": "Martin Lawrence, Steve Zahn, Colm Feore",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "All About the Benjamins",
       "netflix_url": "https://www.netflix.com/title/60022698",
       "year": "2002",
@@ -86,6 +103,23 @@
       "Actors": "Ice Cube, Mike Epps, Tommy Flanagan",
       "Language": "English, French",
       "Country": "United States, Germany"
+    },
+    {
+      "title": "The Whole Ten Yards",
+      "netflix_url": "https://www.netflix.com/title/60034555",
+      "year": "2004",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt0327247",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwMDE5NDcwNl5BMl5BanBnXkFtZTcwMjg1MzUyMQ@@._V1_SX300.jpg",
+      "Plot": "Jimmy the Tulip's quiet new life is shaken up by his old pal Oz, whose wife has been kidnapped by a Hungarian mob. The Tulip and his wife Jill spring into action.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Crime, Thriller",
+      "Director": "Howard Deutch",
+      "Writer": "Mitchell Kapner, George Gallo",
+      "Actors": "Bruce Willis, Matthew Perry, Natasha Henstridge",
+      "Language": "English, Hungarian, Hebrew",
+      "Country": "United States"
     },
     {
       "title": "Kindergarten Cop",
@@ -367,6 +401,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Family",
+      "netflix_url": "https://www.netflix.com/title/70275283",
+      "year": "2013",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt2404311",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2MzI0MzkyNV5BMl5BanBnXkFtZTcwMjQ2MDM2OQ@@._V1_SX300.jpg",
+      "Plot": "The Manzoni family, a notorious Mafia clan, is relocated to Normandy, France, under the Witness Protection Program, where fitting in soon becomes challenging as their old habits die hard.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Comedy, Crime, Thriller",
+      "Director": "Luc Besson",
+      "Writer": "Luc Besson, Michael Caleo, Tonino Benacquista",
+      "Actors": "Robert De Niro, Michelle Pfeiffer, Dianna Agron",
+      "Language": "English, French, Italian",
+      "Country": "France, United Kingdom, United States"
+    },
+    {
       "title": "Ride Along",
       "netflix_url": "https://www.netflix.com/title/70286698",
       "year": "2014",
@@ -593,6 +644,23 @@
       "Actors": "Tilda Swinton, Paul Dano, Ahn Seo-hyun",
       "Language": "English, Korean, Spanish",
       "Country": "South Korea, United States"
+    },
+    {
+      "title": "The Hitman’s Bodyguard",
+      "netflix_url": "https://www.netflix.com/title/80119311",
+      "year": "2017",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt1959563",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4NjAxMjU4OV5BMl5BanBnXkFtZTgwNzQyMzIwMjI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "Michael Bryce, a protection agent, is tasked with protecting Darius Kincaid, one of the world's most famous assassins.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Patrick Hughes",
+      "Writer": "Tom O'Connor",
+      "Actors": "Ryan Reynolds, Samuel L. Jackson, Gary Oldman",
+      "Language": "English, Russian, French, Japanese, Italian, Dutch, Spanish",
+      "Country": "United States, Hong Kong, Bulgaria, Netherlands, Canada, United Kingdom, France"
     },
     {
       "title": "Bon Cop Bad Cop 2",
@@ -1156,6 +1224,13 @@
       "title": "Børning 3: Asphalt Burning",
       "netflix_url": "https://www.netflix.com/title/81227923",
       "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Hitman's Wife's Bodyguard",
+      "netflix_url": "https://www.netflix.com/title/81241364",
+      "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
     },

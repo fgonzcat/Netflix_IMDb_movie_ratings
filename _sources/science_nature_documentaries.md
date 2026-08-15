@@ -125,6 +125,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2595" target="_blan
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMDE1YTJkYTUtOGQwMC00OGQyLTlkZDYtOTA0MjA1YjJiNmVlXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*This Is a Gardening Show*</strong></summary>  <div class="movie-plot">Follows Zach Galifianakis as he approaches gardening with curiosity and self-effacing humor, blending comedy with appreciation for the planet while providing accessible tools and tips.</div> </details> | <a href="https://www.imdb.com/title/tt40826306/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81902230" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMzBmNTRjMDQtYTg3MS00YmEyLTg4M2YtNWZlZDdkNmY0ZWJhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2026 | <details> <summary><strong style="color:#1f6feb;">*The Plastic Detox*</strong></summary>  <div class="movie-plot">Six couples with unexplained infertility reduce their plastic exposure to improve their chances of conceiving.</div> </details> | <a href="https://www.imdb.com/title/tt39345599/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82074244" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Matter of Time*</strong></summary>  <div class="movie-plot">A string of Eddie Vedder solo concerts in Seattle in 2023 are the backdrop for the film, which chronicles efforts to find a cure for epidermolysis bullosa (EB), a rare genetic disease that can be lethal.</div> </details> | <a href="https://www.imdb.com/title/tt36590322/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82184383" target="_blank">Netflix_link</a> |
+| N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*What’s Eating Dan?*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82677184" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*The Philosopher's Kitchen Jeong Kwan*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82707823" target="_blank">Netflix_link</a> |
 
  
@@ -164,6 +165,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/2595" target="_blan
 
  
 ---
-*Page last updated on: 2026-07-22*
+*Page last updated on: 2026-08-15*
 
  

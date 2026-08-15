@@ -146,6 +146,23 @@
       "Country": "United States, Canada, South Korea"
     },
     {
+      "title": "Kingsglaive: Final Fantasy XV",
+      "netflix_url": "https://www.netflix.com/title/80118543",
+      "year": "2016",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt5595168",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTEwNzMxNTU5M15BMl5BanBnXkFtZTgwMzMyMjg3OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal which gives Lucis its magic and power.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Takeshi Nozue",
+      "Writer": "Takashi Hasegawa, Kazushige Nojima, Saori Itamuro",
+      "Actors": "Aaron Paul, Lena Headey, Sean Bean",
+      "Language": "Japanese, English, Chinese",
+      "Country": "Japan, United States"
+    },
+    {
       "title": "The Guardians of Justice",
       "netflix_url": "https://www.netflix.com/title/80141172",
       "year": "2022",
@@ -1168,6 +1185,13 @@
       "Actors": "Johnny Yong Bosch, Scout Taylor-Compton, Hoon Lee",
       "Language": "English",
       "Country": "United States, Japan, South Korea"
+    },
+    {
+      "title": "Ricky Gervais Alley Cats",
+      "netflix_url": "https://www.netflix.com/title/81658840",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "This World Can't Tear Me Down",

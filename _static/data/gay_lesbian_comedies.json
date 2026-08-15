@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/7120",
   "movies": [
     {
+      "title": "I Love You Phillip Morris",
+      "netflix_url": "https://www.netflix.com/title/70112491",
+      "year": "2009",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1045772",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmE1ZDQwNGUtYTIwOS00YmRiLTllOGItNjBiNDNhMmJmNWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A cop turns con man once he comes out of the closet. Once imprisoned, he meets the second love of his life, whom he'll stop at nothing to be with.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Biography, Comedy, Crime",
+      "Director": "Glenn Ficarra, John Requa",
+      "Writer": "John Requa, Glenn Ficarra, Steve McVicker",
+      "Actors": "Jim Carrey, Ewan McGregor, Leslie Mann",
+      "Language": "English, Spanish",
+      "Country": "France, United States"
+    },
+    {
       "title": "Beginners",
       "netflix_url": "https://www.netflix.com/title/70148804",
       "year": "2011",
@@ -382,6 +399,23 @@
       "Actors": "Ace Bhatti, Gabe Gabriel, Khadija Heeger",
       "Language": "English",
       "Country": "South Africa"
+    },
+    {
+      "title": "Spoiler Alert",
+      "netflix_url": "https://www.netflix.com/title/81621002",
+      "year": "2022",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt7775720",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU4OGQxMzktNDgxMS00NTQxLTkxNWUtMWFmMGEzNGRkYWVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Michael Ausiello and Kit Cowan's relationship, which takes a tragic turn when Cowan is diagnosed with terminal cancer.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Michael Showalter",
+      "Writer": "David Marshall Grant, Dan Savage, Michael Ausiello",
+      "Actors": "Jim Parsons, Ben Aldridge, Josh Pais",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Moving On",

@@ -20,6 +20,23 @@
       "Country": "Taiwan"
     },
     {
+      "title": "I Love You Phillip Morris",
+      "netflix_url": "https://www.netflix.com/title/70112491",
+      "year": "2009",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1045772",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmE1ZDQwNGUtYTIwOS00YmRiLTllOGItNjBiNDNhMmJmNWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A cop turns con man once he comes out of the closet. Once imprisoned, he meets the second love of his life, whom he'll stop at nothing to be with.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Biography, Comedy, Crime",
+      "Director": "Glenn Ficarra, John Requa",
+      "Writer": "John Requa, Glenn Ficarra, Steve McVicker",
+      "Actors": "Jim Carrey, Ewan McGregor, Leslie Mann",
+      "Language": "English, Spanish",
+      "Country": "France, United States"
+    },
+    {
       "title": "Brother Outsider: The Life of Bayard Rustin",
       "netflix_url": "https://www.netflix.com/title/70139371",
       "year": "2003",
@@ -1211,6 +1228,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "TÁR",
+      "netflix_url": "https://www.netflix.com/title/81594976",
+      "year": "2022",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt4351684",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ2MDdmZDgtZDFiYy00ZGE1LTgzNTctMzUyNDVkNGZjODA2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mysterious creature rises from the depths of the La Brea Tar Pits in Los Angeles to wreak the city.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Adventure, Horror, Thriller",
+      "Director": "Aaron Wolf",
+      "Writer": "Timothy Nuttall, Aaron Wolf",
+      "Actors": "Timothy Bottoms, Graham Greene, Aaron Wolf",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Outstanding: A Comedy Revolution",
       "netflix_url": "https://www.netflix.com/title/81607752",
       "year": "2024",
@@ -1243,6 +1277,23 @@
       "Actors": "Ace Bhatti, Gabe Gabriel, Khadija Heeger",
       "Language": "English",
       "Country": "South Africa"
+    },
+    {
+      "title": "Spoiler Alert",
+      "netflix_url": "https://www.netflix.com/title/81621002",
+      "year": "2022",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt7775720",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU4OGQxMzktNDgxMS00NTQxLTkxNWUtMWFmMGEzNGRkYWVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Michael Ausiello and Kit Cowan's relationship, which takes a tragic turn when Cowan is diagnosed with terminal cancer.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Michael Showalter",
+      "Writer": "David Marshall Grant, Dan Savage, Michael Ausiello",
+      "Actors": "Jim Parsons, Ben Aldridge, Josh Pais",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Nuovo Olimpo",
@@ -1927,6 +1978,13 @@
       "Actors": "Molshri, Shivang Rajpal, Nirmala Hajra",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Heartstopper: Ending on a Hi",
+      "netflix_url": "https://www.netflix.com/title/82947745",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     }
   ]
 }

@@ -54,6 +54,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Bride of Chucky",
+      "netflix_url": "https://www.netflix.com/title/17670193",
+      "year": "1998",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0144120",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk2OGE5MjktYjcyYS00M2QxLWE4YTYtYmNjYmE0M2I3ZDMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chucky, the doll possessed by a serial killer, discovers the perfect mate to kill and revive into the body of another doll.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Horror, Thriller",
+      "Director": "Ronny Yu",
+      "Writer": "Don Mancini",
+      "Actors": "Jennifer Tilly, Brad Dourif, Katherine Heigl",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Election",
       "netflix_url": "https://www.netflix.com/title/21060973",
       "year": "1999",
@@ -258,6 +275,23 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "I Love You Phillip Morris",
+      "netflix_url": "https://www.netflix.com/title/70112491",
+      "year": "2009",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1045772",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmE1ZDQwNGUtYTIwOS00YmRiLTllOGItNjBiNDNhMmJmNWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A cop turns con man once he comes out of the closet. Once imprisoned, he meets the second love of his life, whom he'll stop at nothing to be with.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Biography, Comedy, Crime",
+      "Director": "Glenn Ficarra, John Requa",
+      "Writer": "John Requa, Glenn Ficarra, Steve McVicker",
+      "Actors": "Jim Carrey, Ewan McGregor, Leslie Mann",
+      "Language": "English, Spanish",
+      "Country": "France, United States"
+    },
+    {
       "title": "A Wonderful World",
       "netflix_url": "https://www.netflix.com/title/70112823",
       "year": "2006",
@@ -460,6 +494,23 @@
       "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
       "Language": "English, French",
       "Country": "United States"
+    },
+    {
+      "title": "The Family",
+      "netflix_url": "https://www.netflix.com/title/70275283",
+      "year": "2013",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt2404311",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2MzI0MzkyNV5BMl5BanBnXkFtZTcwMjQ2MDM2OQ@@._V1_SX300.jpg",
+      "Plot": "The Manzoni family, a notorious Mafia clan, is relocated to Normandy, France, under the Witness Protection Program, where fitting in soon becomes challenging as their old habits die hard.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Comedy, Crime, Thriller",
+      "Director": "Luc Besson",
+      "Writer": "Luc Besson, Michael Caleo, Tonino Benacquista",
+      "Actors": "Robert De Niro, Michelle Pfeiffer, Dianna Agron",
+      "Language": "English, French, Italian",
+      "Country": "France, United Kingdom, United States"
     },
     {
       "title": "American Hustle",
@@ -877,6 +928,23 @@
       "Country": "United States"
     },
     {
+      "title": "Ingrid Goes West",
+      "netflix_url": "https://www.netflix.com/title/80170871",
+      "year": "2017",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt5962210",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzE3Mzc5NTc4M15BMl5BanBnXkFtZTgwMDYwNzM3MjI@._V1_SX300.jpg",
+      "Plot": "After her release from a psychiatric ward, a woman obsessed with social media moves to LA to stalk an Instagram star, but her plan takes a dark turn.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Matt Spicer",
+      "Writer": "David Branson Smith, Matt Spicer",
+      "Actors": "Aubrey Plaza, Elizabeth Olsen, O'Shea Jackson Jr.",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Motive",
       "netflix_url": "https://www.netflix.com/title/80173606",
       "year": "2017",
@@ -967,6 +1035,23 @@
       "Actors": "Tim Blake Nelson, Willie Watson, Clancy Brown",
       "Language": "English, French",
       "Country": "United States"
+    },
+    {
+      "title": "The Kid Detective",
+      "netflix_url": "https://www.netflix.com/title/80203561",
+      "year": "2020",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt8980602",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODkzYjMxNTAtODQxNy00Yjg1LTk4OWItM2JmYTlkMmRkMzczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A once-celebrated kid detective, now 32, continues to solve the same trivial mysteries between hangovers and bouts of self-pity; until a naive client brings him his first 'adult' case to find out who brutally murdered her boyfriend.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Evan Morgan",
+      "Writer": "Evan Morgan",
+      "Actors": "Kaitlyn Chalmers-Rizzato, Adam Brody, Kaleb Horn",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Paddleton",
@@ -1423,6 +1508,13 @@
       "Actors": "Juliusz Chrzastowski, Piotr Cyrwus, Marian Dziedziel",
       "Language": "Polish",
       "Country": "Poland"
+    },
+    {
+      "title": "The Hitman's Wife's Bodyguard",
+      "netflix_url": "https://www.netflix.com/title/81241364",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "BARDO, False Chronicle of a Handful of Truths",
@@ -2623,6 +2715,23 @@
       "Writer": "N/A",
       "Actors": "Rajisha Vijayan, Divya Prabha, Jagadish",
       "Language": "Malayalam",
+      "Country": "India"
+    },
+    {
+      "title": "Rao Bahadur",
+      "netflix_url": "https://www.netflix.com/title/82787446",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37895011",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGM4MTlmODYtMWVkMi00MWM0LThlYTQtZDc5OTg1MDI5MGJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rao Bahadur is a psychological drama set against the backdrop of a fading aristocracy, Made in Telugu, for the world. Remember: Doubt is a Demon",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Telugu",
       "Country": "India"
     },
     {

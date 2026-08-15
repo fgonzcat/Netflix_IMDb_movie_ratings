@@ -581,6 +581,23 @@
       "Country": "United States"
     },
     {
+      "title": "Soul Surfer",
+      "netflix_url": "https://www.netflix.com/title/70138639",
+      "year": "2011",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt1596346",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2MDg0OTYyM15BMl5BanBnXkFtZTcwMjg5MjY0NA@@._V1_SX300.jpg",
+      "Plot": "Bethany Hamilton, a professional surfer, loses her left arm in a shark attack. Unwilling to pay attention to the gravity of her situation, Bethany decides to get back into the ocean and surf again.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Biography, Drama, Family",
+      "Director": "Sean McNamara",
+      "Writer": "Sean McNamara, Deborah Schwartz, Douglas Schwartz",
+      "Actors": "AnnaSophia Robb, Dennis Quaid, Helen Hunt",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Carancho",
       "netflix_url": "https://www.netflix.com/title/70139527",
       "year": "2010",
@@ -630,6 +647,23 @@
       "Actors": "Hwang Jung-min, Ryu Seung-beom, Yoo Hae-jin",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Atlas Shrugged: Part I",
+      "netflix_url": "https://www.netflix.com/title/70181658",
+      "year": "2011",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0480239",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NDg3NjcxNl5BMl5BanBnXkFtZTgwODQ1MjU5OTE@._V1_SX300.jpg",
+      "Plot": "Railroad executive Dagny Taggart and steel mogul Henry Rearden form an alliance to fight the increasingly authoritarian government of the United States.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "Paul Johansson",
+      "Writer": "Brian Patrick O'Toole, John Aglialoro, Ayn Rand",
+      "Actors": "Taylor Schilling, Grant Bowler, Matthew Marsden",
+      "Language": "English, German",
+      "Country": "United States"
     },
     {
       "title": "Adam: His Song Continues",
@@ -748,6 +782,23 @@
       "Writer": "Dana Stevens, Gage Lansky, Nicholas Sparks",
       "Actors": "Julianne Hough, Josh Duhamel, Cobie Smulders",
       "Language": "English, Portuguese",
+      "Country": "United States"
+    },
+    {
+      "title": "42",
+      "netflix_url": "https://www.netflix.com/title/70259169",
+      "year": "2013",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0453562",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMDU4MDI3MV5BMl5BanBnXkFtZTcwMjU1NDgyOQ@@._V1_SX300.jpg",
+      "Plot": "In 1947, Jackie Robinson becomes the first African-American to play in Major League Baseball in the modern era when he was signed by the Brooklyn Dodgers and faces considerable racism in the process.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Brian Helgeland",
+      "Writer": "Brian Helgeland",
+      "Actors": "Chadwick Boseman, T.R. Knight, Harrison Ford",
+      "Language": "English",
       "Country": "United States"
     },
     {
@@ -902,6 +953,23 @@
       "Actors": "Rani Mukerji, Jisshu Sengupta, Anant Vidhaat",
       "Language": "Hindi, English",
       "Country": "India"
+    },
+    {
+      "title": "Selma",
+      "netflix_url": "https://www.netflix.com/title/80013278",
+      "year": "2014",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt1020072",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDFiN2I4YjUtNDE5ZS00MGMwLWJlZmItN2FhZGRjNTM1NWM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A chronicle of Dr. Martin Luther King, Jr.'s campaign to secure equal voting rights via an epic march from Selma to Montgomery, Alabama in 1965.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Ava DuVernay",
+      "Writer": "Paul Webb",
+      "Actors": "David Oyelowo, Carmen Ejogo, Oprah Winfrey",
+      "Language": "English, Portuguese",
+      "Country": "United Kingdom, France, United States"
     },
     {
       "title": "Refugiado",
@@ -2440,6 +2508,23 @@
       "Actors": "Makiko Watanabe, Eita Okuno, Nanami Kawakami",
       "Language": "Japanese, Thai",
       "Country": "Japan"
+    },
+    {
+      "title": "Woman at War",
+      "netflix_url": "https://www.netflix.com/title/81071477",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt7279188",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQzODFiNmYtNjYzOC00ZGVlLTlhOTEtYTkzMTA0NDVjMjE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Halla becomes a determined environmental activist, but this threatens a long-held hope of hers.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Adventure, Comedy, Drama",
+      "Director": "Benedikt Erlingsson",
+      "Writer": "Benedikt Erlingsson, Ólafur Egilsson",
+      "Actors": "Halldóra Geirharðsdóttir, Jóhann Sigurðarson, Juan Camilo Román Estrada",
+      "Language": "Icelandic, English, Ukrainian, Chinese, Spanish",
+      "Country": "Iceland, France, Ukraine"
     },
     {
       "title": "Hillbilly Elegy",
@@ -7864,6 +7949,23 @@
       "Country": "United States"
     },
     {
+      "title": "Rao Bahadur",
+      "netflix_url": "https://www.netflix.com/title/82787446",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37895011",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGM4MTlmODYtMWVkMi00MWM0LThlYTQtZDc5OTg1MDI5MGJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rao Bahadur is a psychological drama set against the backdrop of a fading aristocracy, Made in Telugu, for the world. Remember: Doubt is a Demon",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Nukkad Naatak",
       "netflix_url": "https://www.netflix.com/title/82790150",
       "year": "2026",
@@ -7881,6 +7983,13 @@
       "Country": "India"
     },
     {
+      "title": "Suzzanna: Witchcraft",
+      "netflix_url": "https://www.netflix.com/title/82854629",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Sing Geetham",
       "netflix_url": "https://www.netflix.com/title/82890024",
       "year": "2026",
@@ -7896,6 +8005,13 @@
       "Actors": "Ahilya Bamroo, Shalini Kondepudi, Agu Stanley Chiedozie",
       "Language": "Telugu",
       "Country": "India"
+    },
+    {
+      "title": "Atlas Shrugged: Part 3",
+      "netflix_url": "https://www.netflix.com/title/82923256",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Peddi",

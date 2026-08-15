@@ -401,6 +401,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Girl with the Dragon Tattoo",
+      "netflix_url": "https://www.netflix.com/title/70207663",
+      "year": "2011",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt1568346",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_SX300.jpg",
+      "Plot": "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for 40 years by hacker Lisbeth Salander.",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "David Fincher",
+      "Writer": "Steven Zaillian, Stieg Larsson",
+      "Actors": "Daniel Craig, Rooney Mara, Christopher Plummer",
+      "Language": "English, Swedish",
+      "Country": "Sweden, United States"
+    },
+    {
       "title": "Skyfall",
       "netflix_url": "https://www.netflix.com/title/70243459",
       "year": "2012",
@@ -535,6 +552,23 @@
       "Actors": "Eddie Redmayne, Felicity Jones, Tom Prior",
       "Language": "English, French, Ukrainian",
       "Country": "United Kingdom, Japan, United States"
+    },
+    {
+      "title": "American Sniper",
+      "netflix_url": "https://www.netflix.com/title/80013871",
+      "year": "2014",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt2179136",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home with his family after four tours of duty, however, Chris finds that it is the war he can't leave b...",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Biography, Drama",
+      "Director": "Clint Eastwood",
+      "Writer": "Jason Hall, Chris Kyle, Scott McEwen",
+      "Actors": "Bradley Cooper, Sienna Miller, Kyle Gallner",
+      "Language": "English, Arabic",
+      "Country": "United States"
     },
     {
       "title": "Ex Machina",

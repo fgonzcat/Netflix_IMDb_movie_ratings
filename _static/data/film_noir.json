@@ -122,6 +122,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "The Girl with the Dragon Tattoo",
+      "netflix_url": "https://www.netflix.com/title/70207663",
+      "year": "2011",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt1568346",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_SX300.jpg",
+      "Plot": "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for 40 years by hacker Lisbeth Salander.",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "David Fincher",
+      "Writer": "Steven Zaillian, Stieg Larsson",
+      "Actors": "Daniel Craig, Rooney Mara, Christopher Plummer",
+      "Language": "English, Swedish",
+      "Country": "Sweden, United States"
+    },
+    {
       "title": "Killer Joe",
       "netflix_url": "https://www.netflix.com/title/70209632",
       "year": "2011",
@@ -154,6 +171,23 @@
       "Actors": "Dominic Cooper, Ludivine Sagnier, Raad Rawi",
       "Language": "English",
       "Country": "Belgium, Netherlands"
+    },
+    {
+      "title": "Nightcrawler",
+      "netflix_url": "https://www.netflix.com/title/70295182",
+      "year": "2014",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt2872718",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjMwMmI5MWQtOTU4OS00OTAyLTg0OTYtNmQ5YzExZTQ3ZWJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A petty thief desperate for work muscles into the world of crime journalism and becomes the star of his own story as he blurs the line between observer and participant.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Dan Gilroy",
+      "Writer": "Dan Gilroy",
+      "Actors": "Jake Gyllenhaal, Rene Russo, Bill Paxton",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Veteran",
@@ -239,6 +273,23 @@
       "Actors": "Neels Clasen, Edgar Ramírez, Tony Caprari",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Kid Detective",
+      "netflix_url": "https://www.netflix.com/title/80203561",
+      "year": "2020",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt8980602",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODkzYjMxNTAtODQxNy00Yjg1LTk4OWItM2JmYTlkMmRkMzczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A once-celebrated kid detective, now 32, continues to solve the same trivial mysteries between hangovers and bouts of self-pity; until a naive client brings him his first 'adult' case to find out who brutally murdered her boyfriend.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Evan Morgan",
+      "Writer": "Evan Morgan",
+      "Actors": "Kaitlyn Chalmers-Rizzato, Adam Brody, Kaleb Horn",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "When Angels Sleep",

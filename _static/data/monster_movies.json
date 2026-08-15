@@ -616,6 +616,23 @@
       "imdb_id": null
     },
     {
+      "title": "A Quiet Place: Day One",
+      "netflix_url": "https://www.netflix.com/title/81767874",
+      "year": "2024",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt13433802",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdjZTljZWMtMDIwNi00MTA5LTkxZmItNmY0NDA3ZDM0N2M2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "A young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Drama, Horror, Sci-Fi",
+      "Director": "Michael Sarnoski",
+      "Writer": "Michael Sarnoski, John Krasinski, Bryan Woods",
+      "Actors": "Lupita Nyong&apos;o, Joseph Quinn, Alex Wolff",
+      "Language": "English, American Sign Language",
+      "Country": "United States"
+    },
+    {
       "title": "La Ciguapa Siempre",
       "netflix_url": "https://www.netflix.com/title/81927985",
       "year": "2021",
@@ -631,6 +648,23 @@
       "Actors": "Cheyenne Washington, Michael Bonini, Jillian Kinsey",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Five Nights at Freddy's 2",
+      "netflix_url": "https://www.netflix.com/title/82018798",
+      "year": "2025",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt30274401",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Plot": "One year after the supernatural nightmare at Freddy Fazbear's Pizza, Abby runs away to reconnect with her animatronic friends, uncovering dark secrets about the true origins of Freddy's and unleashing a horror hidden for decades.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Emma Tammi",
+      "Writer": "Scott Cawthon",
+      "Actors": "Josh Hutcherson, Piper Rubio, Elizabeth Lail",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Your Monster",

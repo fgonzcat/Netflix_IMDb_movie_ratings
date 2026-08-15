@@ -306,6 +306,23 @@
       "Country": "United States"
     },
     {
+      "title": "Marie Antoinette",
+      "netflix_url": "https://www.netflix.com/title/70044601",
+      "year": "2006",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt0422720",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmE4NzQzNGItNTY4My00ZTBhLTk2ZjItZDJkMjRlYTE2MGRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The retelling of France's iconic but ill-fated queen, Marie Antoinette. From her betrothal and marriage to Louis XVI at 14 to her reign as queen at 19 and to the end of her reign as queen, and ultimately the fall of Versailles.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Sofia Coppola",
+      "Writer": "Sofia Coppola",
+      "Actors": "Kirsten Dunst, Jason Schwartzman, Rip Torn",
+      "Language": "English, Latin, French",
+      "Country": "United States, France, Japan"
+    },
+    {
       "title": "Zodiac",
       "netflix_url": "https://www.netflix.com/title/70044686",
       "year": "2007",
@@ -406,6 +423,23 @@
       "Actors": "Donnie Yen, Xiaoming Huang, Sammo Kam-Bo Hung",
       "Language": "Cantonese, Chinese, English",
       "Country": "Hong Kong, China"
+    },
+    {
+      "title": "Soul Surfer",
+      "netflix_url": "https://www.netflix.com/title/70138639",
+      "year": "2011",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt1596346",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2MDg0OTYyM15BMl5BanBnXkFtZTcwMjg5MjY0NA@@._V1_SX300.jpg",
+      "Plot": "Bethany Hamilton, a professional surfer, loses her left arm in a shark attack. Unwilling to pay attention to the gravity of her situation, Bethany decides to get back into the ocean and surf again.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Biography, Drama, Family",
+      "Director": "Sean McNamara",
+      "Writer": "Sean McNamara, Deborah Schwartz, Douglas Schwartz",
+      "Actors": "AnnaSophia Robb, Dennis Quaid, Helen Hunt",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Moneyball",
@@ -561,6 +595,23 @@
       "Country": "United States"
     },
     {
+      "title": "42",
+      "netflix_url": "https://www.netflix.com/title/70259169",
+      "year": "2013",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0453562",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMDU4MDI3MV5BMl5BanBnXkFtZTcwMjU1NDgyOQ@@._V1_SX300.jpg",
+      "Plot": "In 1947, Jackie Robinson becomes the first African-American to play in Major League Baseball in the modern era when he was signed by the Brooklyn Dodgers and faces considerable racism in the process.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Brian Helgeland",
+      "Writer": "Brian Helgeland",
+      "Actors": "Chadwick Boseman, T.R. Knight, Harrison Ford",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Lone Survivor",
       "netflix_url": "https://www.netflix.com/title/70259795",
       "year": "2013",
@@ -661,6 +712,40 @@
       "Actors": "Eddie Redmayne, Felicity Jones, Tom Prior",
       "Language": "English, French, Ukrainian",
       "Country": "United Kingdom, Japan, United States"
+    },
+    {
+      "title": "Selma",
+      "netflix_url": "https://www.netflix.com/title/80013278",
+      "year": "2014",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt1020072",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDFiN2I4YjUtNDE5ZS00MGMwLWJlZmItN2FhZGRjNTM1NWM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A chronicle of Dr. Martin Luther King, Jr.'s campaign to secure equal voting rights via an epic march from Selma to Montgomery, Alabama in 1965.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Ava DuVernay",
+      "Writer": "Paul Webb",
+      "Actors": "David Oyelowo, Carmen Ejogo, Oprah Winfrey",
+      "Language": "English, Portuguese",
+      "Country": "United Kingdom, France, United States"
+    },
+    {
+      "title": "American Sniper",
+      "netflix_url": "https://www.netflix.com/title/80013871",
+      "year": "2014",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt2179136",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home with his family after four tours of duty, however, Chris finds that it is the war he can't leave b...",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Biography, Drama",
+      "Director": "Clint Eastwood",
+      "Writer": "Jason Hall, Chris Kyle, Scott McEwen",
+      "Actors": "Bradley Cooper, Sienna Miller, Kyle Gallner",
+      "Language": "English, Arabic",
+      "Country": "United States"
     },
     {
       "title": "Revenge of the Green Dragons",
@@ -1151,6 +1236,23 @@
       "Actors": "Miles Teller, Beulah Koale, Joe Cole",
       "Language": "English",
       "Country": "United States, India"
+    },
+    {
+      "title": "Cézanne et moi",
+      "netflix_url": "https://www.netflix.com/title/80152447",
+      "year": "2016",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt5078354",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWYzNTAzNGItNWE3OC00YjIxLTg4Y2QtZmI3MjI2M2Q1Y2VmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The parallel paths of the lives, careers and passionate friendship of post-impressionist painter Paul Cezanne and novelist Emile Zola. Both left their hometown to conquer the art scene in Paris.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Biography, Drama",
+      "Director": "Danièle Thompson",
+      "Writer": "Danièle Thompson",
+      "Actors": "Guillaume Canet, Guillaume Gallienne, Alice Pol",
+      "Language": "French",
+      "Country": "Belgium, France"
     },
     {
       "title": "Come Sunday",
@@ -3089,6 +3191,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Spoiler Alert",
+      "netflix_url": "https://www.netflix.com/title/81621002",
+      "year": "2022",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt7775720",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU4OGQxMzktNDgxMS00NTQxLTkxNWUtMWFmMGEzNGRkYWVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Michael Ausiello and Kit Cowan's relationship, which takes a tragic turn when Cowan is diagnosed with terminal cancer.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Michael Showalter",
+      "Writer": "David Marshall Grant, Dan Savage, Michael Ausiello",
+      "Actors": "Jim Parsons, Ben Aldridge, Josh Pais",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Golda",
       "netflix_url": "https://www.netflix.com/title/81622497",
       "year": "2023",
@@ -3448,6 +3567,23 @@
       "Actors": "Anupam Kher, Kangana Ranaut, Milind Soman",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "To the Max",
+      "netflix_url": "https://www.netflix.com/title/81727028",
+      "year": "2026",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0245280",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIyMDg2NTAyM15BMl5BanBnXkFtZTcwMzg3MDU1MQ@@._V1_SX300.jpg",
+      "Plot": "A documentary that follows Michael Jordan's basketball career, stint in baseball, and his last championship season with the Chicago Bulls in 1998.",
+      "Type": "movie",
+      "RunTime": "46 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Don Kempf, James D. Stern",
+      "Writer": "Jonathan Hock",
+      "Actors": "Michael Jordan, Phil Jackson, Doug Collins",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Queen of Coal",
@@ -4057,6 +4193,23 @@
       "Actors": "Rami Malek, Russell Crowe, Michael Shannon",
       "Language": "English, German",
       "Country": "United States, Hungary"
+    },
+    {
+      "title": "The Dating App Killer: The Monica White Story",
+      "netflix_url": "https://www.netflix.com/title/82949133",
+      "year": "2026",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt39444441",
+      "Poster": "N/A",
+      "Plot": "A divorcee reenters the dating pool by creating an online profile, but when her match displays unsettling behavior and a series of women from the same dating site go missing, she must save herself from becoming the next victim.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Thriller",
+      "Director": "Elisabeth Röhm",
+      "Writer": "Miriam Van Emst, David Weaver",
+      "Actors": "Shyinne Anastacio, Princess Davis, Spencer Graham",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Hamnet",

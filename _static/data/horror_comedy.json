@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/89585",
   "movies": [
     {
+      "title": "Bride of Chucky",
+      "netflix_url": "https://www.netflix.com/title/17670193",
+      "year": "1998",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt0144120",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk2OGE5MjktYjcyYS00M2QxLWE4YTYtYmNjYmE0M2I3ZDMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chucky, the doll possessed by a serial killer, discovers the perfect mate to kill and revive into the body of another doll.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Horror, Thriller",
+      "Director": "Ronny Yu",
+      "Writer": "Don Mancini",
+      "Actors": "Jennifer Tilly, Brad Dourif, Katherine Heigl",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Jennifer's Body",
       "netflix_url": "https://www.netflix.com/title/70111322",
       "year": "2009",
