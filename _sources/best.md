@@ -6,7 +6,6 @@ Netflix genre: <a href="None" target="_blank">None</a>
 
 | IMDb ⭐ | Poster | Year | Title | Genre | Type | IMDb | Netflix |
 |:-------:|:-------:|:-------:|:------|------|------|------|---------|
-| 9.6 | <img src="https://m.media-amazon.com/images/M/MV5BYTA0NjVkMTUtZmMwYy00N2NjLTg4ZjQtZjVlZmU3NWM0NDM1XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2020 | <details> <summary><strong style="color:#1f6feb;">*Youth v Gov*</strong></summary>  <div class="movie-plot">Directed by filmmaker and scientist Christi Cooper, YOUTH v. GOV is the story of America's youth taking on the world's most powerful government. In 2015, twenty one young plaintiffs, ages 8 to 19, filed the lawsuit Juliana vs. Uni...</div> </details> | Documentary | movie | <a href="https://www.imdb.com/title/tt13192640/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81586492" target="_blank">Netflix_link</a> |
 | 9.5 | <img src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2013 | <details> <summary><strong style="color:#1f6feb;">*Breaking Bad*</strong></summary>  <div class="movie-plot">A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.</div> </details> | Crime, Drama, Thriller | series | <a href="https://www.imdb.com/title/tt0903747/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/70143836" target="_blank">Netflix_link</a> |
 | 9.3 | <img src="https://m.media-amazon.com/images/M/MV5BMDMwMThjYWYtY2Q2OS00OGM2LTlkODQtNDJlZTZmMjAyYmFhXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2007 | <details> <summary><strong style="color:#1f6feb;">*Avatar: The Last Airbender*</strong></summary>  <div class="movie-plot">In a war-torn world of elemental powers, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.</div> </details> | Animation, Action, Adventure | series | <a href="https://www.imdb.com/title/tt0417299/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/70142405" target="_blank">Netflix_link</a> |
 | 9.2 | <img src="https://m.media-amazon.com/images/M/MV5BZDE1NzlkNWMtNzFiMC00ZTgxLTgyMmItOTU5OGI2NWQ4MDMxXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2023 | <details> <summary><strong style="color:#1f6feb;">*Our Planet*</strong></summary>  <div class="movie-plot">Explores and unravels the mystery of how and why animals migrate, showing some of the most dramatic and compelling stories in the natural world through spectacular and innovative cinematography.</div> </details> | Documentary | series | <a href="https://www.imdb.com/title/tt9253866/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80049832" target="_blank">Netflix_link</a> |
@@ -2340,6 +2339,6 @@ Netflix genre: <a href="None" target="_blank">None</a>
 
  
 ---
-*Page last updated on: 2026-08-15*
+*Page last updated on: 2026-08-16*
 
  
